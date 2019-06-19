@@ -12,3 +12,4 @@ This is a TEI collection migration from P2 SGML/XML to P5.
    3. `<p>` outside of `<table>` in `pav.xml`.
    4. what else?
 2. Errata: this is a partial snapshot of incomplete work from several years ago (2013-2014). The some of the files in [scripts](original-data/scripts) are incomplete, or meant to be run as sequential shell commands (and I don't distinctly remember the context/sequence).
+3. Errata Con't: the original files (a mix of SGML and XML) are in [sgml](original-data/sgml). The reference DTD, `TEILITE1.DTD`, is gone, lost to time, so validation for the SGML will be difficult (there are ways to generate a DTD from sources, but I'm not prepared to invest that time right now. Maybe that's bad.). However, we do have the DTD referenced in the XML.
