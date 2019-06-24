@@ -22,7 +22,13 @@
        
        The above copyright notice and this permission notice shall be included
        in all copies or substantial portions of the Software.
-       
+
+
+       Changes
+       1. xsl:stylesheet @version from v1.0 to v2.0
+       2. add xsl:output @indent='yes'
+       3. add xsl:includes
+         a. date-proc.xsl
   -->
   <xsl:output method="xml" encoding="utf-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
