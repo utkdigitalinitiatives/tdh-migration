@@ -18,7 +18,7 @@
   <xsl:function name="cob:date-proc" as="item()*">
     <xsl:param name="date" as="xs:string"/>
 
-    <xsl:analyze-string select="$date" regex="(\d{{4}})-(\d{{2}})-(\d{{2}})">
+    <xsl:analyze-string select="$date" regex="^(\d{{4}})-(\d{{2}})-(\d{{2}})$">
       <xsl:matching-substring>
         <xsl:variable name="year" select="if (regex-group(1) = '0000') then '' else regex-group(1)"/>
         <xsl:variable name="month" select="if (regex-group(2) = '00') then '' else regex-group(2)"/>
