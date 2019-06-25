@@ -23,12 +23,36 @@
         <xsl:variable name="year" select="if (regex-group(1) = '0000') then '' else regex-group(1)"/>
         <xsl:variable name="month" select="if (regex-group(2) = '00') then '' else regex-group(2)"/>
         <xsl:variable name="day" select="if (regex-group(3)= '00') then '' else regex-group(3)"/>
-        <xsl:value-of
-            select="concat(
-              if ($year = '') then '-' else concat($year, '-'),
-              if ($month = '') then '-' else concat($month, '-'),
-              if ($day = '') then '' else $day
-            )"/>
+        <xsl:choose>
+          <!-- e.g. 0000-00-00 = [n.d.] -->
+          <xsl:when test="$year = '' and $month = '' and $day = ''">
+            <xsl:value-of select="'[n.d.]'"/>
+          </xsl:when>
+          <!-- e.g. 1795-00-00 = 1795 (YYYY) -->
+          <xsl:when test="$year != '' and $month = '' and $day = ''">
+            <xsl:value-of select="$year"/>
+          </xsl:when>
+          <!-- e.g. 1795-05-00 = 1795-05 (YYYY-MM) -->
+          <xsl:when test="$year != '' and $month != '' and $day = ''">
+            <xsl:value-of select="concat($year, '-', $month)"/>
+          </xsl:when>
+          <!-- e.g. 0000-05-00 = -\-05 (-\-MM) -->
+          <xsl:when test="$year = '' and $month != '' and $day = ''">
+            <xsl:value-of select="concat('--', $month)"/>
+          </xsl:when>
+          <!-- e.g. 1795-05-01 = 1795-05-01 (YYYY-MM-DD) -->
+          <xsl:when test="$year != '' and $month != '' and $day != ''">
+            <xsl:value-of select="concat($year, '-', $month, '-', $day)"/>
+          </xsl:when>
+          <!-- e.g. 0000-05-01 = -\-05-01 (-\-MM-DD) -->
+          <xsl:when test="$year = '' and $month != '' and $day != ''">
+            <xsl:value-of select="concat('--', $month, '-', $day)"/>
+          </xsl:when>
+          <!-- e.g. 0000-00-01 = -\-\-01 (-\-\-DD) -->
+          <xsl:when test="$year = '' and $month = '' and $day != ''">
+            <xsl:value-of select="concat('---', $day)"/>
+          </xsl:when>
+        </xsl:choose>
       </xsl:matching-substring>
       <xsl:non-matching-substring>
         <xsl:value-of select="concat(., '-non-matching-substring')"/>
