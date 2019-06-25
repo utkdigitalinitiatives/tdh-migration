@@ -55,7 +55,18 @@
         </xsl:choose>
       </xsl:matching-substring>
       <xsl:non-matching-substring>
-        <xsl:value-of select="concat(., '-non-matching-substring')"/>
+        <!--
+            this second analyze-string template tries to catch year-only values;
+            e.g. 1795/YYYY. Non-matching values pass through and are updated in-place.
+          -->
+        <xsl:analyze-string select="." regex="^(\d{{4}})$">
+          <xsl:matching-substring>
+            <xsl:value-of select="if (regex-group(1) = '0000') then '' else regex-group(1)"/>
+          </xsl:matching-substring>
+          <xsl:non-matching-substring>
+            <xsl:value-of select="concat(., '-non-matching-substring')"/>
+          </xsl:non-matching-substring>
+        </xsl:analyze-string>
       </xsl:non-matching-substring>
     </xsl:analyze-string>
   </xsl:function>
