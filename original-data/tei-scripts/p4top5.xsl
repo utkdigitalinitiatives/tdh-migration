@@ -34,7 +34,7 @@
 
   <xsl:include href="date-proc.xsl"/>
 
-  <xsl:output method="xml" encoding="utf-8" indent="yes" cdata-section-elements="tei:eg"
+  <xsl:output method="xml" encoding="UTF-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
 
   <xsl:strip-space elements="*"/>
