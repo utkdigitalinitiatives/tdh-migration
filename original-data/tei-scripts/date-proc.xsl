@@ -23,6 +23,12 @@
         <xsl:variable name="year" select="if (regex-group(1) = '0000') then '' else regex-group(1)"/>
         <xsl:variable name="month" select="if (regex-group(2) = '00') then '' else regex-group(2)"/>
         <xsl:variable name="day" select="if (regex-group(3)= '00') then '' else regex-group(3)"/>
+        <xsl:value-of
+            select="concat(
+              if ($year = '') then '-' else concat($year, '-'),
+              if ($month = '') then '-' else concat($month, '-'),
+              if ($day = '') then '' else $day
+            )"/>
       </xsl:matching-substring>
       <xsl:non-matching-substring>
         <xsl:value-of select="concat(., '-non-matching-substring')"/>
