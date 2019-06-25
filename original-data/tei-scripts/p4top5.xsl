@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <xsl:stylesheet xmlns:edate="http://exslt.org/dates-and-times"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
+  xmlns:cob="http://canofbees.org/xslt/"
   exclude-result-prefixes="tei edate" version="1.0">
   <!-- 
        
@@ -30,6 +31,9 @@
        3. add xsl:includes
          a. date-proc.xsl
   -->
+
+  <xsl:include href="date-proc.xsl"/>
+
   <xsl:output method="xml" encoding="utf-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
 
@@ -196,7 +200,7 @@
 
   <xsl:template match="date/@value">
     <xsl:attribute name="when">
-      <xsl:value-of select="."/>
+      <xsl:value-of select="cob:date-proc(.)"/>
     </xsl:attribute>
   </xsl:template>
 
