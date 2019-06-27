@@ -433,6 +433,17 @@
     </choice>
   </xsl:template>
 
+  <xsl:template match="orig[@reg]">
+    <choice xmlns="http://www.tei-c.org/ns/1.0">
+      <orig xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:value-of select="text()"/>
+      </orig>
+      <reg xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:value-of select="@reg"/>
+      </reg>
+    </choice>
+  </xsl:template>
+
   <!-- special consideration for <change> element -->
   <xsl:template match="change">
     <change xmlns="http://www.tei-c.org/ns/1.0">
