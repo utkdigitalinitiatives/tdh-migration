@@ -30,6 +30,7 @@
        2. add xsl:output @indent='yes'
        3. add xsl:includes
          a. date-proc.xsl
+       4. add a template for tei:add[@cert]
   -->
 
   <xsl:include href="date-proc.xsl"/>
