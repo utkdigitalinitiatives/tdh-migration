@@ -34,6 +34,7 @@
   -->
 
   <xsl:include href="date-proc.xsl"/>
+  <xsl:include href="tags-decl.xsl"/>
 
   <xsl:output method="xml" encoding="UTF-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
@@ -685,6 +686,15 @@
     <div1 xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
     </div1>
+  </xsl:template>
+
+  <!--
+    TDH additions
+    1. tagsDecl template
+  -->
+  <xsl:template match="encodingDecl">
+    <!-- copy -->
+    <xsl:call-template name="create-tagsdecl"/>
   </xsl:template>
 
 </xsl:stylesheet>
