@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:edate="http://exslt.org/dates-and-times"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns:cob="http://canofbees.org/xslt/"
-  exclude-result-prefixes="tei edate cob" version="1.0">
+  exclude-result-prefixes="tei edate cob" version="2.0">
   <!-- 
        
        P4 to P5 converter 
@@ -31,6 +31,7 @@
        3. add xsl:includes
          a. date-proc.xsl
        4. add a template for tei:add[@cert]
+       5. add a template for tei:availability
   -->
 
   <xsl:include href="date-proc.xsl"/>
@@ -362,6 +363,13 @@
 	  </availability>
       -->
     </publicationStmt>
+  </xsl:template>
+  
+  <xsl:template match="availability">
+    <availability xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:attribute name="status" select="'restricted'"/>
+      <xsl:apply-templates/>
+    </availability>
   </xsl:template>
 
   <!-- space does not have @extent any more -->
