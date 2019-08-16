@@ -32,6 +32,7 @@
          a. date-proc.xsl
        4. add a template for tei:add[@cert]
        5. add a template for tei:availability
+       6. commented out today variable
   -->
 
   <xsl:include href="date-proc.xsl"/>
@@ -46,6 +47,7 @@
     <xsl:value-of select="system-property('xsl:vendor')"/>
   </xsl:variable>
 
+  <!--
   <xsl:variable name="today">
     <xsl:choose>
       <xsl:when test="function-available('edate:date-time')">
@@ -57,6 +59,7 @@
       <xsl:otherwise>0000-00-00</xsl:otherwise>
     </xsl:choose>
   </xsl:variable>
+  -->
 
   <xsl:variable name="uc">ABCDEFGHIJKLMNOPQRSTUVWXYZ</xsl:variable>
   <xsl:variable name="lc">abcdefghijklmnopqrstuvwxyz</xsl:variable>
@@ -504,6 +507,12 @@
     <q xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:apply-templates select="@* | * | comment() | processing-instruction() | text()"/>
     </q>
+  </xsl:template>
+  
+  <xsl:template match="pb">
+    <pb xmlns="http://www.tei-c.org/ns/1.0">
+      
+    </pb>
   </xsl:template>
 
 
