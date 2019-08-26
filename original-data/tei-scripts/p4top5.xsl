@@ -520,7 +520,14 @@
     </pb>
   </xsl:template>
   
-  <!-- add gap processing -->
+  <!-- 
+      Add gap processing. What we have here is... frequently, in the source data, 
+      gap/@reason indicates the *why* (P5's gap/@agent), and gap/@desc
+      indicates *what* is missing (when it is used at all).
+      
+      Here we will drop @desc, and pull the @reason value into a new 
+      @agent attribute.
+  -->
   <xsl:template match="gap">
     <gap xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:if test="@reason"><xsl:attribute name="agent" select="@desc"/></xsl:if>
