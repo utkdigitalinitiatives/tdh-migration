@@ -519,6 +519,14 @@
       
     </pb>
   </xsl:template>
+  
+  <!-- add gap processing -->
+  <xsl:template match="gap">
+    <gap xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:if test="@reason"><xsl:attribute name="agent" select="@desc"/></xsl:if>
+    </gap>
+    <xsl:apply-templates select="node()"/>
+  </xsl:template>
 
 
   <!-- if we are reading the P4 with a DTD,
