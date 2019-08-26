@@ -36,7 +36,7 @@
   -->
 
   <xsl:include href="date-proc.xsl"/>
-  <xsl:include href="tags-decl.xsl"/>
+  <!--<xsl:include href="tags-decl.xsl"/>-->
 
   <xsl:output method="xml" encoding="UTF-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
@@ -50,12 +50,17 @@
   <!--
   <xsl:variable name="today">
     <xsl:choose>
+      <xsl:when test="contains($processor, 'Saxonica')">
+        <xsl:value-of select="current-date()"/>
+      </xsl:when>
+      <!-\-
       <xsl:when test="function-available('edate:date-time')">
         <xsl:value-of select="edate:date-time()"/>
       </xsl:when>
       <xsl:when test="contains($processor, 'SAXON')">
         <xsl:value-of select="Date:toString(Date:new())" xmlns:Date="/java.util.Date"/>
       </xsl:when>
+      -\->
       <xsl:otherwise>0000-00-00</xsl:otherwise>
     </xsl:choose>
   </xsl:variable>
@@ -706,12 +711,10 @@
   </xsl:template>
 
   <!--
-    TDH additions
-    1. tagsDecl template
+    holding off on this for now.
   -->
-  <xsl:template match="encodingDecl">
-    <!-- copy -->
+  <!--<xsl:template match="encodingDecl">
     <xsl:call-template name="create-tagsdecl"/>
-  </xsl:template>
+  </xsl:template>-->
 
 </xsl:stylesheet>
