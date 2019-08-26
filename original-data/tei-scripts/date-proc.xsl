@@ -62,7 +62,7 @@
             <xsl:value-of select="if (regex-group(1) = '0000') then '' else regex-group(1)"/>
           </xsl:matching-substring>
           <xsl:non-matching-substring>
-            <xsl:value-of select="concat(., '-non-matching-substring')"/>
+            <xsl:value-of select="'undated'"/>
           </xsl:non-matching-substring>
         </xsl:analyze-string>
       </xsl:non-matching-substring>
