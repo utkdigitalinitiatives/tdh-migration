@@ -7,8 +7,6 @@
                 xpath-default-namespace="tei"
                 version="2.0">
 
-  <xsl:output encoding="UTF-8" method="xml" indent="yes"/>
-
   <!--
     The migration data are full of oddly-used @cert attributes, most of which point to the appearance of
     physical/original document.

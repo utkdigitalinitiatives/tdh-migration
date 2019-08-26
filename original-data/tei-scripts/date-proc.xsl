@@ -5,8 +5,6 @@
                 exclude-result-prefixes="xs"
                 version="2.0">
 
-  <xsl:output encoding="UTF-8"/>
-
   <!--
     Returns either a) a correctly formatted TEI date value or b) the original @when value
     with '-non-matching-string' appended to the value.
