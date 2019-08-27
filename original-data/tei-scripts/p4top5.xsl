@@ -526,7 +526,7 @@
       indicates *what* is missing (when it is used at all).
       
       Here we will drop @desc, and pull the @reason value into a new 
-      @agent attribute.
+        @agent attribute.
   -->
   <xsl:template match="gap">
     <gap xmlns="http://www.tei-c.org/ns/1.0">
