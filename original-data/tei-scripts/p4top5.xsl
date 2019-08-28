@@ -37,6 +37,7 @@
 
   <xsl:include href="date-proc.xsl"/>
   <!--<xsl:include href="tags-decl.xsl"/>-->
+  <xsl:include href="pb-proc.xsl"/>
 
   <xsl:output method="xml" encoding="UTF-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
@@ -516,7 +517,8 @@
   
   <xsl:template match="pb">
     <pb xmlns="http://www.tei-c.org/ns/1.0">
-      
+      <xsl:attribute name="n" select="''"/>
+      <xsl:attribute name="facs" select="cob:pb-proc(@n)"/>
     </pb>
   </xsl:template>
   
