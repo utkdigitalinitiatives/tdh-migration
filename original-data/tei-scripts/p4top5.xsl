@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:edate="http://exslt.org/dates-and-times"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns:cob="http://canofbees.org/xslt/"
+  xmlns:file="http://expath.org/ns/file"
   exclude-result-prefixes="tei edate cob" version="2.0">
   <!-- 
        
@@ -516,9 +517,10 @@
   </xsl:template>
   
   <xsl:template match="pb">
+    <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')"/>
     <pb xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:attribute name="n" select="''"/>
-      <xsl:attribute name="facs" select="cob:pb-proc(@n)"/>
+      <xsl:attribute name="facs" select="cob:pb-proc(@n, $file-name)"/>
     </pb>
   </xsl:template>
   
