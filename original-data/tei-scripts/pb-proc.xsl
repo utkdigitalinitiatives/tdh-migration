@@ -7,11 +7,16 @@
   
   <xsl:output method="xml"/>
 
+  <!--
+    Take @n from a pb, and the current file name. Generate some comprehensible values
+    for our attributes from these.
+  -->
   <xsl:function name="cob:pb-proc" as="item()*">
     <xsl:param name="number" as="xs:string"/>
+    <xsl:param name="file-name" as="xs:string"/>
     <!--
-      TODO param for current file name
-      TODO param for sequence of available images
+      TODO param for sequence of available images?
+      TODO function for cleaning up @n values
     -->
   </xsl:function>
   
