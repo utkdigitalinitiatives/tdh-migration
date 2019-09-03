@@ -48,6 +48,8 @@
   <xsl:variable name="processor">
     <xsl:value-of select="system-property('xsl:vendor')"/>
   </xsl:variable>
+  
+  <xsl:variable name="image-path" select="''"/>
 
   <!--
   <xsl:variable name="today">
@@ -520,7 +522,7 @@
     <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')"/>
     <pb xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:attribute name="n" select="''"/>
-      <xsl:attribute name="facs" select="cob:pb-proc(@n, $file-name)"/>
+      <xsl:attribute name="facs" select="cob:pb-proc(@n, $file-name, $image-path)"/>
     </pb>
   </xsl:template>
   
