@@ -3,7 +3,8 @@
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns:cob="http://canofbees.org/xslt/"
   xmlns:file="http://expath.org/ns/file"
-  exclude-result-prefixes="tei edate cob" version="2.0">
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  exclude-result-prefixes="tei edate cob file xs" version="2.0">
   <!-- 
        
        P4 to P5 converter 
@@ -49,6 +50,7 @@
     <xsl:value-of select="system-property('xsl:vendor')"/>
   </xsl:variable>
   
+  <!-- path to images on your local system -->
   <xsl:variable name="image-path" select="''"/>
 
   <!--
@@ -519,10 +521,10 @@
   </xsl:template>
   
   <xsl:template match="pb">
-    <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')"/>
+    <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
     <pb xmlns="http://www.tei-c.org/ns/1.0">
-      <xsl:attribute name="n" select="''"/>
-      <xsl:attribute name="facs" select="cob:pb-proc(@n, $file-name, $image-path)"/>
+      <xsl:attribute name="n" select="cob:num-proc(@n)"/>
+      <xsl:attribute name="facs" select="cob:pb-proc(cob:num-proc(@n), $file-name, $image-path)"/>
     </pb>
   </xsl:template>
   

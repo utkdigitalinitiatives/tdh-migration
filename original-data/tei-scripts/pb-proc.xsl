@@ -15,24 +15,56 @@
     $number = pb/@n
     $file-name = the current TEI filename, processed; e.g. 'ch001'
     $image-path = the file path to where the test images are being kept
+    $returns = an xs:item()
   -->
-  
   <xsl:function name="cob:pb-proc" as="item()*">
-    <xsl:param name="number" as="xs:string"/>
+    <xsl:param name="number" as="xs:integer"/>
     <xsl:param name="file-name" as="xs:string"/>
     <xsl:param name="image-path" as="xs:string"/>
-    <!--
-      TODO param for sequence of available images?
-      TODO function for cleaning up @n values
-    -->
     
-    <xsl:variable name="num-proc" select="substring-before(substring-after($number, '['), ']')"/>    
+    <!-- note: we'll hope/assume that @n is correct in terms of position -->
+    <xsl:variable name="file-prefix" select="cob:ssbm($file-name, '[0-9]')"/>
+    <xsl:variable name="image-list" as="item()*">
+      <xsl:for-each select="file:list(concat($image-path, 'tei', $file-prefix, '/', $file-name, '/figures/'))">
+        <xsl:sort select="." order="ascending"/>
+        <xsl:copy-of select="."/>
+      </xsl:for-each>
+    </xsl:variable>
     
+    <xsl:sequence select="$image-list[position() = $number]"/>    
   </xsl:function>
   
+  <!-- 
+    A function to extract digits from pb/@n. 
+    
+    $number = an xs:string
+    $returns = an xs:item()
+  -->
   <xsl:function name="cob:num-proc" as="item()*">
     <xsl:param name="number" as="xs:string"/>
     
-    <!--<xsl:analyze-string select="$number" regex="[(\d{{1,}})]([[:alnum:]\s+])"></xsl:analyze-string>-->
+    <xsl:analyze-string select="$number" regex="^(.*)\[(\d{{1,}})\](.*)$">
+      <xsl:matching-substring>
+        <xsl:value-of select="regex-group(2)"/>
+      </xsl:matching-substring>
+      <xsl:non-matching-substring>
+        <xsl:analyze-string select="normalize-space(.)" regex="^(\d{{1,}})(.*)$">
+          <xsl:matching-substring>
+            <xsl:value-of select="regex-group(1)"/>
+          </xsl:matching-substring>
+        </xsl:analyze-string>
+      </xsl:non-matching-substring>
+    </xsl:analyze-string>
+  </xsl:function>
+  
+  <!-- 
+    Thank you, Ms. Walmsley! 
+    Borrowed from http://www.xsltfuctions.com/xsl/functx_substring-before-match.html
+  -->
+  <xsl:function name="cob:ssbm" as="xs:string">
+    <xsl:param name="arg" as="xs:string"/>
+    <xsl:param name="regex" as="xs:string"/>
+    
+    <xsl:sequence select="tokenize($arg, $regex)[1]"/>
   </xsl:function>
 </xsl:stylesheet>
