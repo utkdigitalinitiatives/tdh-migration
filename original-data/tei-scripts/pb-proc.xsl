@@ -25,7 +25,7 @@
     <!-- note: we'll hope/assume that @n is correct in terms of position -->
     <xsl:variable name="file-prefix" select="cob:ssbm($file-name, '[0-9]')"/>
     <xsl:variable name="image-list" as="item()*">
-      <xsl:for-each select="file:list(concat($image-path, 'tei', $file-prefix, '/', $file-name, '/figures/'))">
+      <xsl:for-each select="file:list(concat($image-path, $file-prefix, '/', $file-name, '/figures/'))">
         <xsl:sort select="." order="ascending"/>
         <xsl:copy-of select="."/>
       </xsl:for-each>
@@ -40,10 +40,10 @@
     $number = an xs:string
     $returns = an xs:item()
   -->
-  <xsl:function name="cob:num-proc" as="item()*">
+  <xsl:function name="cob:num-proc" as="xs:integer">
     <xsl:param name="number" as="xs:string"/>
     
-    <xsl:analyze-string select="$number" regex="^(.*)\[(\d{{1,}})\](.*)$">
+    <xsl:analyze-string select="string($number)" regex="^(.*)\[(\d{{1,}})\](.*)$" >
       <xsl:matching-substring>
         <xsl:value-of select="regex-group(2)"/>
       </xsl:matching-substring>
