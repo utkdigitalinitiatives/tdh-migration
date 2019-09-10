@@ -36,6 +36,17 @@
        5. add a template for tei:availability
        6. commented out today variable
   -->
+  
+  <!--
+    TODO:
+    1. name/@type contains multiple values; e.g. name/[@type = 'place person']; ch001.xml 87:82
+    2. name/@reg; misused attribute; ch001.xml 98:221
+       look into leveraging reg element as a child of the converted name; e.g. <name type="person" reg="R. J.">... to <name type="person"><reg>R. J.</reg>...
+    3. double-check gap template; @agent is being used incorrectly; ch002.xml 106:213
+    4. ignore @cert attributes (values are too incorrect)
+    5. pav.xml has lots of @type='financial valuation' that throw errors
+    6. pav.xml has structural errors: misplaced p element
+  -->
 
   <xsl:include href="date-proc.xsl"/>
   <!--<xsl:include href="tags-decl.xsl"/>-->
@@ -522,9 +533,10 @@
   
   <xsl:template match="pb">
     <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
+    <xsl:variable name="number" select="if (@n) then cob:num-proc(@n) else (count(preceding::pb) + 1)"/>
     <pb xmlns="http://www.tei-c.org/ns/1.0">
-      <xsl:attribute name="n" select="cob:num-proc(@n)"/>
-      <xsl:attribute name="facs" select="cob:pb-proc(cob:num-proc(@n), $file-name, $image-path)"/>
+      <xsl:attribute name="n" select="$number"/>
+      <xsl:attribute name="facs" select="cob:pb-proc($number, $file-name, $image-path)"/>
     </pb>
   </xsl:template>
   
