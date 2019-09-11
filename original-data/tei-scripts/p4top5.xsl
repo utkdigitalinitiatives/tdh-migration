@@ -555,7 +555,13 @@
     <xsl:apply-templates select="node()"/>
   </xsl:template>
 
-
+  <!--
+    Add name processing. What we have here is... frequently, in the source data,
+    name/@type with multiple values ('place person') and/or name/@reg ('R. J.'), which indicates
+    a regularization of a name. 
+  -->    
+  <!-- new output should look something like <name type="person"><reg>R. J.</reg></name>; e.g. -->
+  
   <!-- if we are reading the P4 with a DTD,
        we need to avoid copying the default values
        of attributes -->
