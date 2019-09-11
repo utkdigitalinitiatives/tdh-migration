@@ -549,8 +549,17 @@
   -->
   <xsl:template match="gap">
     <gap xmlns="http://www.tei-c.org/ns/1.0">
-      <xsl:if test="@reason"><xsl:attribute name="agent" select="@desc"/></xsl:if>
+      <!-- 
+        simplifying this a bit: 
+        * if the there is an @reason that will map to @agent='damage'
+        * if there is a @desc it will map into an <unclear> element
+        * if there is an @rend, ignore it
+      -->
+      <xsl:if test="@reason"><xsl:attribute name="agent" select="'damage'"/></xsl:if>
     </gap>
+    <xsl:if test="@desc">
+      <unclear xmlns="http://www.tei-c.org/ns/1.0"><xsl:value-of select="@desc"/></unclear>
+    </xsl:if>
     <xsl:apply-templates select="node()"/>
   </xsl:template>
 
