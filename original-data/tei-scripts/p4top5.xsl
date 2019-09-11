@@ -62,7 +62,7 @@
   </xsl:variable>
   
   <!-- path to images on your local system -->
-  <xsl:variable name="image-path" select="''"/>
+  <xsl:param name="image-path" select="''"/>
 
   <!--
   <xsl:variable name="today">
@@ -561,6 +561,35 @@
     a regularization of a name. 
   -->    
   <!-- new output should look something like <name type="person"><reg>R. J.</reg></name>; e.g. -->
+  <xsl:template match="name">
+    <name xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:choose>
+        <!-- ignore @type when there is more than 1 value in it -->
+        <xsl:when test="count(tokenize(@type)) &gt; 1"/>
+        <!-- add/keep the @type value when there is 1 value present -->
+        <xsl:when test="count(tokenize(@type)) eq 1">
+          <xsl:attribute name="type" select="@type"/>
+        </xsl:when>
+      </xsl:choose>
+      
+      <xsl:call-template name="reg-proc"/>
+      <xsl:apply-templates select="node()"/>
+    </name>
+  </xsl:template>
+  
+  <!-- add a reg element if there is an @reg on a name -->
+  <xsl:template name="reg-proc">
+    <xsl:if test="@reg">
+      <xsl:text> </xsl:text>
+      <reg xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:value-of select="@reg"/>
+      </reg>
+      <xsl:text> </xsl:text>
+    </xsl:if>
+  </xsl:template>
+  
+  <!-- ignore @rend on name -->
+  <xsl:template match="name/@rend"/>
   
   <!-- if we are reading the P4 with a DTD,
        we need to avoid copying the default values
