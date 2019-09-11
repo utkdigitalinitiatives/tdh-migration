@@ -36,13 +36,12 @@
        5. add a template for tei:availability
        6. commented out today variable
        7. process name/@* appropriately
-       
+       8. process gap/@* appropriately
+       9. ignore @cert values
   -->
   
   <!--
     TODO:
-    3. double-check gap template; @agent is being used incorrectly; ch002.xml 106:213
-    4. ignore @cert attributes (values are too incorrect)
     5. pav.xml has lots of @type='financial valuation' that throw errors
     6. pav.xml has structural errors: misplaced p element
   -->
@@ -219,6 +218,9 @@
   <xsl:template match="@date.created"/>
 
   <xsl:template match="@date.updated"/>
+  
+  <!-- ignore @cert attributes throughout -->
+  <xsl:template match="@cert"/>
 
   <!-- dropped from TEI. No replacement -->
   <xsl:template match="refsDecl/@doctype"/>
