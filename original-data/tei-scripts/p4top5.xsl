@@ -35,13 +35,12 @@
        4. add a template for tei:add[@cert]
        5. add a template for tei:availability
        6. commented out today variable
+       7. process name/@* appropriately
+       
   -->
   
   <!--
     TODO:
-    1. name/@type contains multiple values; e.g. name/[@type = 'place person']; ch001.xml 87:82
-    2. name/@reg; misused attribute; ch001.xml 98:221
-       look into leveraging reg element as a child of the converted name; e.g. <name type="person" reg="R. J.">... to <name type="person"><reg>R. J.</reg>...
     3. double-check gap template; @agent is being used incorrectly; ch002.xml 106:213
     4. ignore @cert attributes (values are too incorrect)
     5. pav.xml has lots of @type='financial valuation' that throw errors
