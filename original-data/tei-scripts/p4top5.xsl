@@ -45,11 +45,6 @@
            
   -->
   
-  <!--
-    TODO:
-    6. pav.xml has structural errors: misplaced p element
-  -->
-
   <xsl:include href="date-proc.xsl"/>
   <!--<xsl:include href="tags-decl.xsl"/>-->
   <xsl:include href="pb-proc.xsl"/>
