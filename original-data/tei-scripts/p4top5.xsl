@@ -38,11 +38,15 @@
        7. process name/@* appropriately
        8. process gap/@* appropriately
        9. ignore @cert values
+       10. update pav.xml//@type='financial valuation' to 'valuation'; there are methods for
+             handling this inside TEI (see https://tei-c.org/release/doc/tei-p5-doc/en/html/USE.html#MDMDAL)
+             but I think that's beyond scope here.
+        11.          
+           
   -->
   
   <!--
     TODO:
-    5. pav.xml has lots of @type='financial valuation' that throw errors
     6. pav.xml has structural errors: misplaced p element
   -->
 
@@ -790,6 +794,10 @@
     </div1>
   </xsl:template>
 
+  <!-- addressing div/@type in pav.xml -->
+  <xsl:template match="@type[parent::div1][contains(.,'financial valuation')]">
+    <xsl:attribute name="type" select="'valuation'"/>
+  </xsl:template>
   <!--
     holding off on this for now.
   -->
