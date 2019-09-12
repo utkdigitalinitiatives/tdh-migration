@@ -45,6 +45,11 @@
            
   -->
   
+  <!-- 
+    1. drop LCSH from classDecl/taxonomy and keywords/@scheme; we're not making any rigorous
+        checks to determine if these are valid LCSH, so drop for now.
+  -->
+  
   <xsl:include href="date-proc.xsl"/>
   <!--<xsl:include href="tags-decl.xsl"/>-->
   <xsl:include href="pb-proc.xsl"/>
