@@ -48,6 +48,7 @@
   <!-- 
     1. drop LCSH from classDecl/taxonomy and keywords/@scheme; we're not making any rigorous
         checks to determine if these are valid LCSH, so drop for now.
+        * drop classDecl node and drop keywords/@scheme
         * convert keywords/list/item to keywords/term
         * add names from tdh-openrefine-export.xml as keywords/term
   -->
@@ -67,7 +68,8 @@
   
   <!-- path to images on your local system -->
   <xsl:param name="image-path" select="''"/>
-
+  <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
+  
   <!--
   <xsl:variable name="today">
     <xsl:choose>
@@ -377,7 +379,27 @@
 	  </revisionDesc>
 	  </xsl:if>
       -->
+      <!-- drop classDecl -->
+      <xsl:apply-templates select="classDecl"/>
     </teiHeader>
+  </xsl:template>
+
+  <!-- ignore classDecl node -->
+  <xsl:template match="classDecl"/>
+  
+  <!-- update keywords[@scheme='LCSH']/list/item to keywords/terms -->
+  <xsl:template match="keywords[@scheme='LCSH']">
+    <keywords xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:call-template name="list-proc"/>
+    </keywords>
+  </xsl:template>
+  
+  <xsl:template name="list-proc">
+    <xsl:for-each select="list[@type='simple']/item">
+      <term xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:value-of select="."/>
+      </term>
+    </xsl:for-each>
   </xsl:template>
 
   <xsl:template match="revisionDesc">
@@ -539,7 +561,6 @@
   </xsl:template>
   
   <xsl:template match="pb">
-    <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
     <xsl:variable name="number" select="if (@n) then cob:num-proc(@n) else (count(preceding::pb) + 1)"/>
     <pb xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:attribute name="n" select="$number"/>
