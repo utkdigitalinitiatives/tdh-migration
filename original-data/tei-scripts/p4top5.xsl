@@ -48,6 +48,8 @@
   <!-- 
     1. drop LCSH from classDecl/taxonomy and keywords/@scheme; we're not making any rigorous
         checks to determine if these are valid LCSH, so drop for now.
+        * convert keywords/list/item to keywords/term
+        * add names from tdh-openrefine-export.xml as keywords/term
   -->
   
   <xsl:include href="date-proc.xsl"/>
