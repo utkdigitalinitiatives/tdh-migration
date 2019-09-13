@@ -56,6 +56,7 @@
   <xsl:include href="date-proc.xsl"/>
   <!--<xsl:include href="tags-decl.xsl"/>-->
   <xsl:include href="pb-proc.xsl"/>
+  <xsl:include href="name-proc.xsl"/>
 
   <xsl:output method="xml" encoding="UTF-8" indent="yes" cdata-section-elements="tei:eg"
     omit-xml-declaration="yes"/>
@@ -391,6 +392,7 @@
   <xsl:template match="keywords[@scheme='LCSH']">
     <keywords xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:call-template name="list-proc"/>
+      <xsl:call-template name="name-proc"/>
     </keywords>
   </xsl:template>
   
@@ -400,6 +402,7 @@
         <xsl:value-of select="."/>
       </term>
     </xsl:for-each>
+    
   </xsl:template>
 
   <xsl:template match="revisionDesc">
