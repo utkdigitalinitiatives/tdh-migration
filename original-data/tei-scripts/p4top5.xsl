@@ -69,7 +69,7 @@
   
   <!-- path to images on your local system -->
   <xsl:param name="image-path" select="''"/>
-  <xsl:param name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
+  <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
   
   <!--
   <xsl:variable name="today">
@@ -389,7 +389,7 @@
   <xsl:template match="classDecl"/>
   
   <!-- update keywords[@scheme='LCSH']/list/item to keywords/terms -->
-  <xsl:template match="keywords[@scheme='LCSH']">
+  <xsl:template match="keywords[@scheme='LCSH'] | keywords[parent::textClass]">
     <keywords xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:call-template name="list-proc"/>
       <xsl:call-template name="name-proc"/>
@@ -397,7 +397,7 @@
   </xsl:template>
   
   <xsl:template name="list-proc">
-    <xsl:for-each select="list[@type='simple']/item">
+    <xsl:for-each select="list[@type='simple']/item | list[parent::keywords]/item">
       <term xmlns="http://www.tei-c.org/ns/1.0">
         <xsl:value-of select="."/>
       </term>
