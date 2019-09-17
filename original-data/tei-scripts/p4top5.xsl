@@ -69,7 +69,7 @@
   
   <!-- path to images on your local system -->
   <xsl:param name="image-path" select="''"/>
-  <xsl:variable name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
+  <xsl:param name="file-name" select="substring-before(file:name(base-uri(.)), '.xml')" as="xs:string"/>
   
   <!--
   <xsl:variable name="today">
