@@ -801,26 +801,17 @@
   <!-- deal with the loss of div0 -->
 
   <xsl:template match="div1 | div2 | div3 | div4 | div5 | div6">
-    <xsl:variable name="divName">
-      <xsl:choose>
-        <xsl:when test="ancestor::div0">
-          <xsl:text>div</xsl:text>
-          <xsl:value-of select="number(substring-after(local-name(.), 'div')) + 1"/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:value-of select="local-name()"/>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
-    <xsl:element name="{$divName}" namespace="http://www.tei-c.org/ns/1.0">
+    <xsl:element name="div" namespace="http://www.tei-c.org/ns/1.0">
+      <xsl:attribute name="subtype" select="substring-after(local-name(), 'div')"/>
       <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
     </xsl:element>
   </xsl:template>
 
   <xsl:template match="div0">
-    <div1 xmlns="http://www.tei-c.org/ns/1.0">
+    <div xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:attribute name="subtype" select="'0'"/>
       <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
-    </div1>
+    </div>
   </xsl:template>
 
   <!-- addressing div/@type in pav.xml -->
