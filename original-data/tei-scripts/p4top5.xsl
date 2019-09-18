@@ -46,11 +46,8 @@
   -->
   
   <!-- 
-    1. drop LCSH from classDecl/taxonomy and keywords/@scheme; we're not making any rigorous
-        checks to determine if these are valid LCSH, so drop for now.
-        * drop classDecl node and drop keywords/@scheme
-        * convert keywords/list/item to keywords/term
-        * add names from tdh-openrefine-export.xml as keywords/term
+    1. convert div-n to div (validation error)
+    2. follow-up with other validation checks
   -->
   
   <xsl:include href="date-proc.xsl"/>
