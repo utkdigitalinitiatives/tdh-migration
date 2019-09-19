@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="21.1">
+<project version="21.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="21.1" xml:space="preserve">
+            <serialized version="21.0" xml:space="preserve">
                 <serializableOrderedMap>
+                    <entry>
+                        <String>catalogs.v5</String>
+                        <String-array>
+                            <String>file:/home/bridger/Documents/tei/tdh-migration/original-data/tei-scripts/tdh-migration-uri-catalog.xml</String>
+                        </String-array>
+                    </entry>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>original-data/tei-scripts/p4top5.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>p4top51</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>original-data/tei/</String>
@@ -35,6 +26,21 @@
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>original-data/tei-scripts/p4top5.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>p4top51</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -173,6 +179,9 @@
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
+                                <field name="outputFile">
+                                    <File>${pd}/migrated-data/tei-p5/${cfne}</File>
+                                </field>
                                 <field name="outputResource">
                                     <String>${pd}/migrated-data/tei-p5/${cfne}</String>
                                 </field>
@@ -201,7 +210,32 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="xsltParams">
-                                    <list/>
+                                    <list>
+                                        <transformationParameter>
+                                            <field name="paramDescription">
+                                                <paramDescriptor>
+                                                    <field name="localName">
+                                                        <String>image-path</String>
+                                                    </field>
+                                                    <field name="prefix">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="namespace">
+                                                        <null/>
+                                                    </field>
+                                                </paramDescriptor>
+                                            </field>
+                                            <field name="value">
+                                                <String>/home/bridger/Documents/tei/tdh-migration/migrated-data/tei-p5/</String>
+                                            </field>
+                                            <field name="hasXPathValue">
+                                                <Boolean>false</Boolean>
+                                            </field>
+                                            <field name="isStatic">
+                                                <Boolean>false</Boolean>
+                                            </field>
+                                        </transformationParameter>
+                                    </list>
                                 </field>
                                 <field name="cascadingStylesheets">
                                     <String-array/>
@@ -313,6 +347,9 @@
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
+                                <field name="outputFile">
+                                    <null/>
+                                </field>
                                 <field name="outputResource">
                                     <null/>
                                 </field>
@@ -396,6 +433,9 @@
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
+                                <field name="outputFile">
+                                    <null/>
+                                </field>
                                 <field name="outputResource">
                                     <null/>
                                 </field>
@@ -478,6 +518,9 @@
                                 </field>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>/tmp/${cfn}-${timeStamp}.xml</String>

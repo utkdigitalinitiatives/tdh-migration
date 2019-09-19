@@ -240,9 +240,14 @@
   <!-- attributes changed name -->
 
   <xsl:template match="date/@value">
-    <xsl:attribute name="when">
-      <xsl:value-of select="cob:date-proc(.)"/>
-    </xsl:attribute>
+    <xsl:choose>
+      <xsl:when test="cob:date-proc(.) = 'undated'"/>
+      <xsl:otherwise>
+        <xsl:attribute name="when">
+          <xsl:value-of select="cob:date-proc(.)"/>
+        </xsl:attribute>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
 
@@ -814,6 +819,10 @@
     </div>
   </xsl:template>
 
+  <xsl:template match="@type[parent::div1]">
+    <xsl:attribute name="type" select="'letter'"/>  
+  </xsl:template>
+  
   <!-- addressing div/@type in pav.xml -->
   <xsl:template match="@type[parent::div1][contains(.,'financial valuation')]">
     <xsl:attribute name="type" select="'valuation'"/>
