@@ -138,8 +138,10 @@
 
   <xsl:template match="TEI.2">
     <xsl:processing-instruction name="xml-model">
-      <xsl:text>href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v3.rng" </xsl:text>
-      <xsl:text>type="application/xml" </xsl:text>
+      <xsl:text>href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng"</xsl:text>
+      <xsl:text> </xsl:text>
+      <xsl:text>type="application/xml"</xsl:text>
+      <xsl:text> </xsl:text>
       <xsl:text>schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
     </xsl:processing-instruction>
     <xsl:text>&#10;</xsl:text>
