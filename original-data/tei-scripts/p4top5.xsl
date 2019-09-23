@@ -46,7 +46,6 @@
   -->
   
   <!-- 
-    7. del/@type; change value to 'overstrike' (correct for ~98% of values)
     8. note/@type[count(data()) > 1]; e.g. tl220 line 37; change to first token and see what happens (also: normalize-space on the value, mm022 e.g.)
     9. figDesc/unclear to figDesc/choice/orig | corr; e.g. gc042 line 118
     10. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
@@ -856,7 +855,10 @@
   <xsl:template match="del/@type">
     <xsl:attribute name="type" select="'overstrike'"/>
   </xsl:template>
-    
+   
+  <xsl:template match="note/@type[count(tokenize(., ' ')) &gt; 1]">
+    <xsl:attribute name="type" select="lower-case(substring-before(., ' '))"/>
+  </xsl:template>   
   
   <!--
     holding off on this for now.
