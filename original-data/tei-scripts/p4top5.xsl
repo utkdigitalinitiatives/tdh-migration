@@ -48,7 +48,6 @@
   <!-- 
     2. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
     3. fix table element in pav.xml (hand edit)
-    4. incorporate q/text/body to q/floatingText/body; ch050 e.g.
     5. drop p/@align; ch095 e.g.
     6. empty @facs; e.g. ch080, ch100
     7. div/@type parsing :<
@@ -589,6 +588,12 @@
     <q xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:apply-templates select="@* | * | comment() | processing-instruction() | text()"/>
     </q>
+  </xsl:template>
+  
+  <xsl:template match="text[parent::q]">
+    <floatingText xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:apply-templates select="@* | * | comment() | processing-instruction() | text()"/>
+    </floatingText>
   </xsl:template>
   
   <xsl:template match="pb">
