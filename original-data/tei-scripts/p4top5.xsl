@@ -46,16 +46,12 @@
   -->
   
   <!-- 
-    
-    
-    4. date[@certainty]; e.g. sc037 lines 193-195, or tl056 line 199; will probably drop this attribute
     5. add/p; e.g. tl213 lines 113-118; insert a note element: add/note/p to validate
     6. add/@place with empty values
     7. del/@type; change value to 'overstrike' (correct for ~98% of values)
     8. note/@type[count(data()) > 1]; e.g. tl220 line 37; change to first token and see what happens (also: normalize-space on the value, mm022 e.g.)
     9. figDesc/unclear to figDesc/choice/orig | corr; e.g. gc042 line 118
     10. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
-    
   -->
   
   <xsl:include href="date-proc.xsl"/>
@@ -300,12 +296,9 @@
 
   <xsl:template match="change/@date"/>
 
-  <xsl:template match="date/@certainty">
-    <xsl:attribute name="cert">
-      <xsl:value-of select="."/>
-    </xsl:attribute>
-  </xsl:template>
-
+  <!-- dropping this attribute -->
+  <xsl:template match="date/@certainty"/>
+  
   <!-- all pointing attributes preceded by # -->
 
   <xsl:template match="variantEncoding/@location">
