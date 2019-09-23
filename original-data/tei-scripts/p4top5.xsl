@@ -46,9 +46,7 @@
   -->
   
   <!-- 
-    2. invalid date/@when - alternate values are 'n.d.', empty, '0030' (see #10 below)  
-       * invalid date/@when; e.g. sl279, date/@when='1834-06-31'
-       * need to refactor to avoid empty @when
+    2. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
     3. fix table element in pav.xml (hand edit)
     4. incorporate q/text/body to q/floatingText/body; ch050 e.g.
     5. drop p/@align; ch095 e.g.
@@ -249,11 +247,16 @@
   <!-- attributes changed name -->
 
   <xsl:template match="date/@value">
+    <xsl:variable name="date-check" select="cob:date-proc(.)"/>
     <xsl:choose>
-      <xsl:when test="cob:date-proc(.) = 'undated'"/>
+      <!-- tests to address oddities in date/@values -->
+      <xsl:when test="$date-check = 'undated'"/>
+      <xsl:when test="$date-check = '[n.d.]'"/>
+      <xsl:when test="starts-with($date-check, '0030')"/>
+      <xsl:when test="$date-check = ''"/>
       <xsl:otherwise>
         <xsl:attribute name="when">
-          <xsl:value-of select="cob:date-proc(.)"/>
+          <xsl:value-of select="$date-check"/>
         </xsl:attribute>
       </xsl:otherwise>
     </xsl:choose>
