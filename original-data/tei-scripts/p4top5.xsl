@@ -46,7 +46,6 @@
   -->
   
   <!-- 
-    1. drop figDesc/gap elements
     2. invalid date/@when - alternate values are 'n.d.', empty, '0030' (see #10 below)  
        * invalid date/@when; e.g. sl279, date/@when='1834-06-31'
        * need to refactor to avoid empty @when
@@ -877,6 +876,8 @@
       </orig>
     </choice>
   </xsl:template>
+  
+  <xsl:template match="gap[parent::figDesc]"/>
   
   <!--
     holding off on this for now.
