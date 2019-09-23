@@ -841,6 +841,16 @@
   <xsl:template match="@type[parent::div1][contains(.,'financial valuation')]">
     <xsl:attribute name="type" select="'valuation'"/>
   </xsl:template>
+  
+  <!-- insert a wrapping note element in add elements -->
+  <xsl:template match="add">
+    <add xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:apply-templates select="@*"/>
+      <note xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:apply-templates/>
+      </note>
+    </add>
+  </xsl:template>
   <!--
     holding off on this for now.
   -->
