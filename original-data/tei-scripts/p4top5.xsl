@@ -46,7 +46,16 @@
   -->
   
   <!-- 
-    10. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
+    1. drop figDesc/gap elements
+    2. invalid date/@when - alternate values are 'n.d.', empty, '0030' (see #10 below)  
+       * invalid date/@when; e.g. sl279, date/@when='1834-06-31'
+       * need to refactor to avoid empty @when
+    3. fix table element in pav.xml (hand edit)
+    4. incorporate q/text/body to q/floatingText/body; ch050 e.g.
+    5. drop p/@align; ch095 e.g.
+    6. empty @facs; e.g. ch080, ch100
+    7. div/@type parsing :<
+    
   -->
   
   <xsl:include href="date-proc.xsl"/>
