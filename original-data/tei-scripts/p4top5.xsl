@@ -46,7 +46,6 @@
   -->
   
   <!-- 
-    6. add/@place with empty values
     7. del/@type; change value to 'overstrike' (correct for ~98% of values)
     8. note/@type[count(data()) > 1]; e.g. tl220 line 37; change to first token and see what happens (also: normalize-space on the value, mm022 e.g.)
     9. figDesc/unclear to figDesc/choice/orig | corr; e.g. gc042 line 118
@@ -852,6 +851,11 @@
   </xsl:template>
   
   <xsl:template match="add/@place[normalize-space(.) = '']"/>
+  
+  <!-- override current value of del/@type -->
+  <xsl:template match="del/@type">
+    <xsl:attribute name="type" select="'overstrike'"/>
+  </xsl:template>
     
   
   <!--
