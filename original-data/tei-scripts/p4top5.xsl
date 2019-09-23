@@ -46,8 +46,7 @@
   -->
   
   <!-- 
-    1. convert div-n to div (validation error)
-    2. follow-up with other validation checks
+    
     3. abbr[@type] with invalid content; i.e. @type='Junior', etc; should map to @expan
     4. date[@certainty]; e.g. sc037 lines 193-195, or tl056 line 199; will probably drop this attribute
     5. add/p; e.g. tl213 lines 113-118; insert a note element: add/note/p to validate
