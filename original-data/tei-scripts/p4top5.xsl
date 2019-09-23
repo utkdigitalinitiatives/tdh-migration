@@ -46,7 +46,6 @@
   -->
   
   <!-- 
-    5. add/p; e.g. tl213 lines 113-118; insert a note element: add/note/p to validate
     6. add/@place with empty values
     7. del/@type; change value to 'overstrike' (correct for ~98% of values)
     8. note/@type[count(data()) > 1]; e.g. tl220 line 37; change to first token and see what happens (also: normalize-space on the value, mm022 e.g.)
@@ -840,6 +839,16 @@
   <!-- addressing div/@type in pav.xml -->
   <xsl:template match="@type[parent::div1][contains(.,'financial valuation')]">
     <xsl:attribute name="type" select="'valuation'"/>
+  </xsl:template>
+  
+  <!-- insert a wrapping note element in add elements -->
+  <xsl:template match="add">
+    <add xmlns="http://www.tei-c.org/ns/1.0">
+      <xsl:apply-templates select="@*"/>
+      <note xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:apply-templates/>
+      </note>
+    </add>
   </xsl:template>
   <!--
     holding off on this for now.
