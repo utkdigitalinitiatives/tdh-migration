@@ -46,8 +46,6 @@
   -->
   
   <!-- 
-    8. note/@type[count(data()) > 1]; e.g. tl220 line 37; change to first token and see what happens (also: normalize-space on the value, mm022 e.g.)
-    9. figDesc/unclear to figDesc/choice/orig | corr; e.g. gc042 line 118
     10. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
   -->
   
@@ -840,7 +838,7 @@
   </xsl:template>
   
   <!-- insert a wrapping note element in add elements -->
-  <xsl:template match="add">
+  <xsl:template match="add[p]">
     <add xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:apply-templates select="@*"/>
       <note xmlns="http://www.tei-c.org/ns/1.0">
@@ -858,7 +856,18 @@
    
   <xsl:template match="note/@type[count(tokenize(., ' ')) &gt; 1]">
     <xsl:attribute name="type" select="lower-case(substring-before(., ' '))"/>
-  </xsl:template>   
+  </xsl:template>
+  
+  <xsl:template match="unclear[parent::figDesc]">
+    <choice xmlns="http://www.tei-c.org/ns/1.0">
+      <sic xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:value-of select="text()"/>
+      </sic>
+      <orig xmlns="http://www.tei-c.org/ns/1.0">
+        <xsl:value-of select="text()"/>
+      </orig>
+    </choice>
+  </xsl:template>
   
   <!--
     holding off on this for now.
