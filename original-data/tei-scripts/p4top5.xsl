@@ -850,6 +850,10 @@
       </note>
     </add>
   </xsl:template>
+  
+  <xsl:template match="add/@place[normalize-space(.) = '']"/>
+    
+  
   <!--
     holding off on this for now.
   -->
