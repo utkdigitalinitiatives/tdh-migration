@@ -48,7 +48,6 @@
   <!-- 
     2. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
     3. fix table element in pav.xml (hand edit)
-    5. drop p/@align; ch095 e.g.
     6. empty @facs; e.g. ch080, ch100
     7. div/@type parsing :<
     
@@ -886,6 +885,8 @@
   </xsl:template>
   
   <xsl:template match="gap[parent::figDesc]"/>
+  
+  <xsl:template match="p[@align]"/>
   
   <!--
     holding off on this for now.
