@@ -48,7 +48,6 @@
   <!-- 
     2. invalid date/@when; e.g. sl279, date/@when='1834-06-31'
     3. fix table element in pav.xml (hand edit)
-    6. empty @facs; e.g. ch080, ch100
     7. div/@type parsing :<
     
   -->
@@ -597,9 +596,12 @@
   
   <xsl:template match="pb">
     <xsl:variable name="number" select="if (@n) then cob:num-proc(@n) else (count(preceding::pb) + 1)"/>
+    <xsl:variable name="facN" select="cob:pb-proc($number, $file-name, $image-path)"/>
     <pb xmlns="http://www.tei-c.org/ns/1.0">
       <xsl:attribute name="n" select="$number"/>
-      <xsl:attribute name="facs" select="cob:pb-proc($number, $file-name, $image-path)"/>
+      <xsl:if test="$facN != ''">
+        <xsl:attribute name="facs" select="$facN"/>
+      </xsl:if>
     </pb>
   </xsl:template>
   
