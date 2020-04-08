@@ -1,0 +1,148 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1816 July 6 [to] Andrew Jackson / Return J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, Return J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl051</idno>
+            <idno>OCLC: 50030390</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1816 July 6 [to] Andrew Jackson / Return J. Meigs</title>
+               <author>Meigs, Return J.</author>
+               <date when="1816-07-06">July 6, 1816</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated July 6, 1816 to Andrew Jackson from Return J. Meigs regarding the cession of Cherokee lands to the United States.</note>
+               <note type="collection" anchored="true"> Tennessee Historical Society</note>
+               <note type="box" anchored="true">Correspondence by Author 1809 I-A-3</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl051</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Meigs, Return Jonathan, 1767-1823</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl051a.small.jpg"/>
+            <head>Copy of <name type="person">
+                  <choice>
+                     <abbr>R. J. </abbr>
+                     <expan>Return Jonathan</expan>
+                  </choice>Meigs </name>letter to <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name>
+            </head>
+            <pb n="2" facs="sl051b.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Cerokee</orig>
+                        <reg>Cherokee</reg>
+                     </choice> Agency</addrLine>
+               </address>
+               <date when="1816-07-06">6th July 1816</date>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I was at the city when the conversation with the <name type="person">Cherokees</name> was made settling their boundary line: The Secretary of War at that time made a proposition to the Cherokees then there as a deputation, to <del type="overstrike">
+                  <unclear><?xm-replace_text {del}?></unclear>
+               </del> cede to the<name type="place">
+                  <choice>
+                     <abbr> U </abbr>
+                     <expan>United </expan>
+                  </choice>States</name> all their claims to lands lying west of a line to be run due south from that point on the <name type="place">Tennessee river</name> which intersected by the Eastern boundary of <name type="place">Madison County</name> to the line agreed upon by the said conversation. The Cherokee Deputation did not consider themselves <choice>
+                  <orig>authorised</orig>
+                  <reg>authorized</reg>
+               </choice> to cede land. Before I came away the Secretary told me that a treaty would be ordered to be held in order to obtain some cessions of land from the Cherokees &amp; that I must make my best exertions to effect the objects. I am now instructed <pb n="3" facs="sl051c.small.jpg"/> to open negotiations with the Cherokees for the purpose <choice>
+                  <abbr>aforsd.</abbr>
+                  <expan>aforesaid</expan>
+               </choice> and shall omit nothing in my power to obtain the cession of the lands mentioned also the <sic>the</sic> Cherokee lands lying on the North side of the Tennessee river. nothing but a cession of the lands first mentioned will put an end to the <choice>
+                  <orig>Chickesaw</orig>
+                  <reg>Chickasaw</reg>
+               </choice> claim to the same lands, or most of them, that is one reason why they <choice>
+                  <orig>aught</orig>
+                  <reg>ought</reg>
+               </choice> to sell. Another reason is they hold too much land, this only retards their improvement in civilization another reason is they are in Debt they want money to pay their debts &amp; to make provisions for schools &amp; other improvements— The Cherokee chiefs particularly those who were in the army all know &amp; respect you; your opinion &amp; advise would have more effect on them than that of any other man on the face of the earth and should it be in your <pb n="4" facs="sl051d.small.jpg"/> way to express your sentiments to <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Richard Brown</name> &amp; <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> J Lowry</name>  on the subject of  one or of both these cessions you would lay me <unclear>under</unclear> very great obligations <choice>
+                  <orig>whih</orig>
+                  <reg>which</reg>
+               </choice> if in my power I would make proper return in any way you should command me.</p>
+            <closer>
+               <salute>I have the honor to be with greatest respect <choice>
+                     <abbr>yr obt</abbr>
+                     <expan>your obedient</expan>
+                  </choice> servant</salute>
+               <signed>Return J Meigs</signed>
+               <add place="under signature">
+                  <name type="person">Major <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice> Andrew Jackson</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

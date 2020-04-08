@@ -1,0 +1,132 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Bill of sale for seven negroes] 1836 Aug. 12, Knoxville, Tennessee : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc055</idno>
+            <idno>OCLC: 51301675</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Bill of sale for seven negroes] 1836 Aug. 12, Knoxville, Tennessee</title>
+               <date when="1836-08-12">August 12, 1836</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a bill of sale dated August 12, 1836 for seven negroes sold to Andrew McMillan in Knoxville, Tennessee.</note>
+               <note type="collection" anchored="true">Bert S. Williams</note>
+               <note type="box" anchored="true">MS-1049</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc055</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Slavery</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc055a.small.jpg"/>
+            <p>Know all men by these presents that I <name type="person">Robert Campbell</name> of <name type="place">Knox County </name>and State of <name type="place">Tennessee</name> for and in consideration of the sum of thirty five Hundred Dollars to me in hand &amp; paid by <name type="person">Andrew McMillan</name> of the town of <name type="place">Knoxville</name> and State of Tennessee the receipt of which is hereby <choice>
+                  <orig>aknowledged</orig>
+                  <reg>acknowledged</reg>
+               </choice> have bargained and sold and by these presents do bargain sell <unclear>alieve</unclear> confirm and convey unto the said Andrew McMillan Seven negroes slaves for life to wit <name type="person">Prince</name> aged about twenty seven years, <name type="person">John</name>  Aged about twenty five years, <name type="person">Oswell</name>   aged about twenty one years, <name type="person">Nancy</name> aged about forty years, <name type="person">Juliet Ann</name> aged about fourteen years, <name type="person">Annis</name> aged about twenty five years and <name type="person">Aley</name> aged about Eighteen months which said Seven negroes I do hereby warrant to be slaves for life and the title to them good— and also that they are sound and healthy except a defect in the eye of Juliet Ann.</p>
+            <p>In witness of all which I have <pb n="2" facs="sc055b.small.jpg"/> hereunto set my hand and affixed my seal at Knoxville this <date when="1836-08-12">twelfth day of August 1836</date>
+            </p>
+            <closer>
+               <signed>Robert Campbell</signed>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>seal</figDesc>
+                  </figure>
+               </add>
+               <add place="left of signature">Signed Sealed and acknowledged in presence of us</add>
+               <signed>
+                  <name type="person">J. P. N. Craighhead</name>
+               </signed>
+               <signed>
+                  <name type="person">
+                     <emph>David Campbell</emph>
+                  </name>
+               </signed>
+               <pb n="3" facs="sc055c.small.jpg"/>
+               <add>
+                  <note>
+                     <p>State of Tennessee</p>
+                     <p>Knox County} Personally appeared before Me <name type="person">Moses M. Swan</name>  Clerk of the County Court of Knox County Robert Campbell with whom I am personally acquainted and acknowledged that he signed the within Bill of sale at the time It bears date for the  <choice>
+                           <orig>purpous Therin</orig>
+                           <reg>purposeTherein</reg>
+                        </choice> Expressed</p>
+                     <p>Let It be registered</p>
+                     <p>Given under my hand at office in Knoxville</p>
+                     <p>This <date when="1836-09-02">2nd day of September 1836</date>
+                     </p>
+                  </note>
+               </add>
+               <signed>M. M. Swan</signed> Clerk <add place="below">
+                  <note>
+                     <p>State of Tennessee</p>
+                     <p>Knox County} Registers Office <date when="1836-09-02">September 2d 1836</date> then was the foregoing Bill of Sale and probate duly Registered in Book Z page 416 in paid Office</p>
+                  </note>
+               </add>
+               <signed>
+                  <name>
+                     <abbr>Wm <unclear>R.</unclear>
+                     </abbr> Bowen</name>
+               </signed> Register <pb n="4" facs="sc055d.small.jpg"/>
+               <add place="top, center">
+                  <note>
+                     <p>Bill of Sale for Seven Negroes R. Campbell To <choice>
+                           <abbr>And.</abbr>
+                           <expan>Andrew</expan>
+                        </choice> McMillan</p>
+                  </note>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

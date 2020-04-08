@@ -1,0 +1,387 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Mar. 5, Knoxville, [Tennessee, to] John Watts and
+			 other chiefs of the Cherokee Nation / John Sevier</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl036</idno>
+            <idno>OCLC: 47828088</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Mar. 5, Knoxville, [Tennessee, to] John Watts
+				and other chiefs of the Cherokee Nation / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-03-05">March 5, 1797 </date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter, dated March 5, 1797,
+				written by Governor John Sevier (1796-1801, 1803-1809) and addressed to John
+				Watts and other chiefs of the Cherokee Nation. The letter was written in
+				response to a letter by the Cherokee chiefs regarding earlier communications
+				sent by Sevier. In this letter, Sevier negated the claims of Watts and others
+				that the Cherokees have not caused damage to the persons or properties of white
+				settlers. Sevier cited instances in which white settlers were killed in
+				retaliation for the murders of Chief Red Bird and his attendant. Sevier also
+				criticized the Cherokee Nation for not making an official complaint regarding
+				those murders. Furthermore, he denied Watts' claim that his preceding
+				communications were threatening in nature, as he stated that he was merely
+				hoping to convince the Cherokees of the dangers of going to war. Sevier
+				contended that he wished to establish and promote a peace between the United
+				States and the Cherokee Nation.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl036</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl036a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-03-05">5 March 1797</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <salute>Brother</salute>
+            <p>
+               <add place="left margin">
+                  <choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice>4
+			 <hi rend="underlined">
+                     <date when="1797">1797</date>
+                  </hi>
+                  <lb/>
+                  <hi rend="underlined">Recorded</hi>
+               </add>Your letter of the 
+			 <date when="---04">4th</date> came to hand <choice>
+                  <orig>to
+			 day</orig>
+                  <reg>today</reg>
+               </choice>, in which You Say that your people have done no damage on either the
+			 <del type="overstrike">property</del> person or property of
+		  <del type="overstrike">any</del>
+               <add place="supralinear">the</add> whites.
+		  <del type="overstrike">Man</del> I wish this was the case, and I make no doubt
+		  <del type="overstrike">but</del> you think so, but you may be sure, several is
+		  killed one in 
+		  <name type="place">
+                  <choice>
+                     <orig>powels</orig>
+                     <reg>Powell</reg>
+                  </choice> Valley</name> by a
+		  fellow called 
+		  <name type="person">Dick</name>, <add place="supralinear">can talk some
+		  <choice>
+                     <orig>english</orig>
+                     <reg>English</reg>
+                  </choice>,</add>
+               <del type="overstrike">who</del> has
+		  hunted there <del type="overstrike">and was</del>, and is well known
+		  <add place="supralinear">by the people</add>; <del type="overstrike">can talk
+		  some <choice>
+                     <orig>english</orig>
+                     <reg>English</reg>
+                  </choice>,</del>
+               <add place="left margin">Letter to the
+		  <lb/> Indian chiefs <lb/>
+                  <date when="1797">1797</date>
+               </add> I mention this that You may
+		  know the person,  there has also been a great Many horses taken from 
+		  <name type="place">
+                  <choice>
+                     <orig>cumberland</orig>
+                     <reg>Cumberland</reg>
+                  </choice>
+               </name> and
+		  one Man killed And Another Wounded, <del type="overstrike">there</del> And
+		  yesterday another Was killed and <choice>
+                  <orig>scaulped</orig>
+                  <reg>scalped</reg>
+               </choice> on 
+		  <name> 
+                  <reg>place</reg> 
+                  <choice>
+                     <orig>little
+			 pigion</orig>
+                     <reg>Little Pigeon</reg>
+                  </choice>
+               </name> about thirty miles from this place, <del type="overstrike">this</del>
+            </p>
+            <p>This conduct my brother has a bad appearance and as I told you
+			 before will be attended with <choice>
+                  <orig>disagreable</orig>
+                  <reg>disagreeable</reg>
+               </choice> events
+			 Should your people be so foolish And unwise Not to decline Such practices.</p>
+            <p>You mention that I wrote you in a <choice>
+                  <orig>threatning</orig>
+                  <reg>threatening</reg>
+               </choice> Manner, but my brother if you listen to the
+			 Words of my letter, there is no threats <add place="supralinear">in it.</add>,
+			 I have only spoken to you the <add place="supralinear">language of</add> truth,
+			 and the fatal consequences, that Must attend your Nation , should you be so
+			 imprudent As to again go to War  I <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> nor
+			 never did <pb n="2" facs="tl036b.small.jpg"/>
+               <add place="top, middle">2d</add> Speak to you with a
+			 false <choice>
+                  <orig>toungue</orig>
+                  <reg>tongue</reg>
+               </choice>, nor do I wish your people to be
+			 treated ill, but on the contrary that they may live in peace and safety and
+			 raise their children in Quietude 
+               </p>
+            <p>I know very well, that some of <del type="overstrike">our</del>
+               <add place="supralinear">the white</add> people are bad men and have been
+		  guilty of a horrid Crime in killing the 
+		  <name type="person">
+                  <choice>
+                     <orig>red bird</orig>
+                     <reg>Red Bird</reg>
+                  </choice>
+               </name> and 
+		  <name type="person">Will</name>, and <del type="overstrike">I expect
+		  that</del>
+               <choice>
+                  <orig>when ever</orig>
+                  <reg>whenever</reg>
+               </choice> they can be taken they
+		  <del type="overstrike">will</del>
+               <add place="supralinear">shall</add> suffer
+		  for it, one of them has run away and the other as yet is not taken; as I told
+		  you in my last I tell you in this, that the innocent ought not to suffer for
+		  the guilty, neither ought your people to take Any Satisfaction until you had
+		  first made your complaint And stated your sufferings. It is impossible for me
+		  to know when damage is done to your people without you inform me; and your own
+		  good sense will point out to you that A <choice>
+                  <orig>Murderor</orig>
+                  <reg>Murderer</reg>
+               </choice>
+		  seldom ever discovers upon himself, which I Suppose is the reason why your
+		  people denies they have done any <choice>
+                  <orig>Mischeife</orig>
+                  <reg>Mischief</reg>
+               </choice>
+            </p>
+            <p>You say you have been a long Journey and While at 
+			 <name type="place">
+                  <choice>
+                     <orig>philadelphia</orig>
+                     <reg>Philadelphia</reg>
+                  </choice>
+               </name> received very different talks
+			 from that of mine; and say that I say you are but a handful of people and in
+			 consequence of our superior<add place="supralinear">ity</add> in Numbers
+			 <add place="supralinear">Suppose</add> we have <choice>
+                  <orig>aright</orig>
+                  <reg>a right</reg>
+               </choice> to do as we please  I deny saying we had
+			 <choice>
+                  <orig>aright</orig>
+                  <reg>a right</reg>
+               </choice> to do as we please <add place="supralinear"/> on any such a supposition, neither is there any
+			 such a word in any letter <pb n="3" facs="tl036c.small.jpg"/>
+               <add place="top, middle">
+                  <hi rend="enclosed in circle">3</hi>
+               </add> it is true I said you were only a
+			 handful of people, which is the truth and I also advised you of the danger of
+			 going to war ; If the people at 
+			 <name type="place">
+                  <choice>
+                     <orig>philadelphia</orig>
+                     <reg>Philadelphia</reg>
+                  </choice>
+               </name> have told you that you
+			 <del type="overstrike">were</del>
+               <add place="supralinear">are</add> a Numerous
+			 and strong people, and that you ought to go to War and kill your white
+			 brothers, they have not told you that which is true, nor that which would be
+			 for your good and the interest of your nation <add place="supralinear">was you
+			 to take such advice</add>. <del type="overstrike">I spok</del> what I said in
+			 my letter was to convince your nation of their danger and the Great evils that
+			 always attend a war, and the distressing condition your people would be in,
+			 Should Such a thing take place  <del type="overstrike">You say
+			 that</del> you Wish I would talk to My people and tell them not to cross the 
+			 <name type="place">
+                  <choice>
+                     <orig>River
+				Tennessee</orig>
+                     <reg>Tennessee River</reg>
+                  </choice>
+               </name> or to survey your land  I have often told them
+			 that, neither do I wish or intend any such thing should be done. But you know I
+			 am <choice>
+                  <orig>agreat</orig>
+                  <reg>a great</reg>
+               </choice> Way from that place, and <choice>
+                  <orig>cant</orig>
+                  <reg>can't</reg>
+               </choice> See what every foolish Man is doing, I expected that
+			 the <choice>
+                  <orig>gaurds</orig>
+                  <reg>guards</reg>
+               </choice> at 
+			 <name type="place">Tellico</name> , <del type="overstrike">and your
+			 own</del> would stop such people from Crossing Over, and I Suppose,
+			 <add place="supralinear">they</add> Would was they to see them, but neither
+			 them nor myself can see the transaction of every bad man, no More,
+			 <choice>
+                  <orig>then</orig>
+                  <reg>than</reg>
+               </choice> you can your people, who come over on our side And
+			 kill our people and steal our horses.
+               </p>
+            <p>Now brother I hope I have Said enough to convince You, that I
+			 <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> Wish our people and yours to
+			 <del type="overstrike">go</del> enter into War against each other, and I
+		  <choice>
+                  <orig>hearby</orig>
+                  <reg>hereby</reg>
+               </choice> declare that <pb n="4" facs="tl036d.small.jpg"/>
+               <add place="top, middle">
+                  <hi rend="enclosed in circle">4</hi>
+               </add> I wish to
+		  have peace and friendship subsisting between the two Nations, and shall with
+		  all my heart and strength do <choice>
+                  <orig>every thing</orig>
+                  <reg>everything</reg>
+               </choice> in my
+		  power to promote the same  I hope You will <del type="overstrike">do the
+		  same and</del>
+               <add place="supralinear">also</add> endeavor to keep your people
+		  Within the bounds of reason; and let us try to prevent Any further effusion of
+		  blood. I wish us to live friendly and bury all <choice>
+                  <orig>Anemosities</orig>
+                  <reg>Animosities</reg>
+               </choice> deep in the earth, If you have complaints,
+		  the government will redress them, and you know they are taking measures to
+		  effect the same, but if your people will undertake contrary to the
+		  <del type="overstrike">treaty</del> Articles of the treaty to redress
+		  themselves, you <choice>
+                  <orig>cant</orig>
+                  <reg>can't</reg>
+               </choice> expect the government will do it
+		   I request that you will make enquiry into the murder lately done on 
+		  <name type="place">
+                  <choice>
+                     <orig>pigion</orig>
+                     <reg>Pigeon</reg>
+                  </choice>
+               </name> ; and if
+		  <del type="overstrike">You can</del>
+               <add place="supralinear">possible</add>
+		  have <del type="overstrike">them</del>
+               <add place="supralinear">the
+		  <choice>
+                     <orig>murderors</orig>
+                     <reg>murderers</reg>
+                  </choice>
+               </add> punished <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice> to the Articles of Treaty.  your people
+		  could have no color of excuse for committing Any depredations on that Quarter
+		  for they are not on lands claimed by your Nation, Neither have they
+		  <choice>
+                  <orig>interupted</orig>
+                  <reg>interrupted</reg>
+               </choice> Any of your people  
+               </p>
+            <p>I hope to have an answer from you as soon as possible</p>
+            <closer>
+               <salute>Your friend</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">John Watts</name> and other <lb/>
+                     <choice>
+                        <orig>Cheifs</orig>
+                        <reg>Chiefs</reg>
+                     </choice> of the 
+				  <name type="place">Cherokee Nation </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

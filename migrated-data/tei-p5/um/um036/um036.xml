@@ -1,0 +1,164 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Jul. 4, La Grange, [Alabama]  [to] Mr. Edmund Taylor, Fayette Co[unty], Ten[nessee]  / R. V. Taylor : a machine readable transcription of an image</title>
+            <author>Taylor, R. V.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um036</idno>
+            <idno>OCLC: 50280708</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1844 Jul. 4, La Grange, [Alabama] [to] Mr. Edmund Taylor, Fayette Co[unty], Ten[nessee]  / R. V. Taylor</title>
+               <author>Taylor, R. V.</author>
+               <date when="1844-07-04">July 4, 1844</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by R. V. Taylor to his father, Edmund Taylor, on July 4, 1844. In the letter, Taylor tells his father about the difficulty he had in his travel  to school and events happening to acquaintances he visited on the way and at the school.</note>
+               <note type="collection" anchored="true">Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1836-1847)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um036</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Description and travel</term>
+               <term>Tennessee</term>
+               <term>Alabama</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Taylor, R. V.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um036a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. Edmund Taylor</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Fayette <choice>
+                           <abbr>Co</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left  of address">
+                  <unclear>pr</unclear>
+                  <name type="person">Billy</name>
+               </add>
+               <pb n="2" facs="um036b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">La grange <choice>
+                           <abbr>Ala</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>
+                     <date when="1844-07-04">July 4th 44</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Pa —</salute>
+            </opener>
+            <p>We have at Length arrived at our journeys end with weary times, but <choice>
+                  <orig>cherful</orig>
+                  <reg>cheerful</reg>
+               </choice> spirits — Thus circumstanced, little capacitated is the mind, the compose the most <choice>
+                  <orig>comon</orig>
+                  <reg>common</reg>
+               </choice> letter, <choice>
+                  <abbr>i.e.</abbr>
+                  <expan>such as</expan>
+               </choice> one to be understood.</p>
+            <p>We occupied four days in coming. The heat was very oppressive both to horse and rider; though we traveled very slowly <name type="person">Jesse's</name> pony took the thumps the second day, and consequently we could not hurry if we desired, and Bills horse was on the very verge of taking them <del type="overstrike">during</del>
+               <add place="supralinear">every</add> day, but my horse, you know, is composed of different metal, he appeared to be as fresh when I got off of him this evening as he was when we left home.</p>
+            <p>We called to see the widow <name type="person">Garet</name> she was highly delighted and expressed a great desire to see you and ma. she remarked several times that she "would be as glad to see you as her own p ⁁<add place="supralinear">a</add>rents" The old lady was in very feeble health, <choice>
+                  <orig>labouring</orig>
+                  <reg>laboring</reg>
+               </choice> under <pb n="3" facs="um036c.small.jpg"/> severe afflictions what they call "sematic pains" she told me to tell you if she "had fifty tongues she could not tell her sufferings" our visit enlivened her spirits very much, <name type="person">Moris</name> appeared to be as active as a boy and said "he wanted another <choice>
+                  <orig>yong</orig>
+                  <reg>young</reg>
+               </choice> wife" but <name type="person">Bill</name> can tell you more about these things than I can write.</p>
+            <p>I perceive that Bill will get back there about saturday night, and I have taken the liberty to give him permission to remain there sunday, knowing it will be advantageous to the horses, and a pleasure to him, and probably diminish our catalogue of transgressions by one, for if we do not regard the Lord's day when it is convenient, what will be our portion?</p>
+            <p>The students are coming in rapidly. The college <choice>
+                  <orig>opperations</orig>
+                  <reg>operations</reg>
+               </choice> will begin to go on smoothly next week I guess</p>
+            <p>I shall expect a letter from home before I write <choice>
+                  <orig>aggain</orig>
+                  <reg>again</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>Your Son</salute>
+               <signed>
+                  <name type="person">R. V. Taylor</name>
+               </signed>
+               <add place="bottom of page">I have heard of the death of one of the students since I arrived, he died soon after he got home, his <choice>
+                     <orig>nam</orig>
+                     <reg>name</reg>
+                  </choice> was <name type="person">Baldwin</name>, from <name type="place">
+                     <choice>
+                        <orig>Missipi</orig>
+                        <reg>Mississippi</reg>
+                     </choice>
+                  </name> was a very pious young man</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

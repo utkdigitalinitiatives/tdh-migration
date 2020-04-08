@@ -1,0 +1,101 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc106">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] Jun. 10, ca. 1815 [to the] Secretary of War / Return J. Meigs :a machine readable transcription of an image</title>
+            <author>Meigs, Return Jonathan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc106</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] Jun. 10, ca. 1815 [to the] Secretary of War / Return J. Meigs</title>
+               <author>Meigs, Return Jonathan</author>
+               <date when="1815-06-10">June 10, ca. 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a very brief copy of a letter, dated June 10 ca. 1815, from Return J. Meigs, agent to the Cherokee Nation, to the Secretary of War informing him of the drawing of five-hundred dollars for the promotion of Indian civilization.</note>
+               <note type="collection" anchored="true">John Sevier Collection</note>
+               <note type="box" anchored="true">MS-1941 b1</note>
+               <note type="folder" anchored="true">18</note>
+               <note type="document" anchored="true">sc106</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Meigs, Return Jonathan, 1764-1824 Correspondence</term>
+               <term>Cherokee Indians</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc106a.small.jpg"/>
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>Authorized by your letter of the 15th May last to draw on you at sight for Five hundred Dollars, appropriated for the promotion of Indian civilization I have drawn for that sum in favor of <name>Josiah Nichol</name>   this day.</p>
+            <closer>
+               <salute>I am Sir <choice>
+                     <abbr>yr</abbr>
+                     <expan>Your</expan>
+                  </choice> Obedient Servant  </salute>
+               <signed>
+                  <name>Return J. Meigs</name>
+               </signed>, agent for the <name>Cherokees</name>
+               <add>The <choice>
+                     <abbr>Honble</abbr>
+                     <expan>Honorable</expan>
+                  </choice> Secretary of War</add>
+               <add>(Copy)</add>
+               <pb n="2" facs="sc106b.small.jpg"/> Letter to the Secretary of War June 10th<lb/> (Copy) <lb/> copied page 5.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl483">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1813 Jun. 23, Beauport [to] George Prevost / James Winchester   : a machine readable transcription of an image</title>
+            <author>Winchester, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl483</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1813 Jun. 23, Beauport [to] George Prevost / James Winchester</title>
+               <author>Winchester, James</author>
+               <date when="1813-06-23">June 23, 1813</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 23, 1813 from James Winchester to General George Prevost concerning United States militia men being held near Quebec by the British as prisoners of war.  The prisoners were captured during the war of 1812.  Winchester is concerned for their health and living conditions; he asks General Prevost to intercede on the prisoners behalf.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl483</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>United States -- History -- War of 1812</term>
+               <term>Prisoner of war -- United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96115844"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Winchester, James, 1752-1826</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl483a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Beauport</addrLine>
+               </address>
+               <date>23d June 1813</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>Permit me to communicate to your Excellency my serious apprehensions for the health of the <name>United States</name> prisoners of war on board ship off <name>Quebec</name>.  Between two and three hundred man  crowded together in one vessel in the heat of summer I fear will produce diseases which in all reasonable probability will carry off many of them; The health and lives of men which the fortune of war hath placed in your <choice>
+                  <orig>Excellencys</orig>
+                  <reg>Excellencies</reg>
+               </choice>
+               <add>sovern</add> I am persuaded will be regarded with humanity and kindness and that it is only necessary for me to name their <del>circumstance</del> ;  <add>personal situation</add> to have It <del>their situation</del> changed for the better, It would be very desirable that they should be sent to the United States on parole as others have been.  but if that cannot be obtained, I take the liberty to ask for them to be landed and confined in some airy building during the summer months; or encamped in this Parish convenient to their officers quarters so that I could cause their names to be <choice>
+                  <orig>caled</orig>
+                  <reg>called</reg>
+               </choice> two or three times a day <add>His <choice>
+                     <orig>Excellncy</orig>
+                     <reg>Excellency</reg>
+                  </choice>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Sir <name>George Prevost</name>
+               </add>
+               <pb n="2" facs="sl483b.small.jpg"/> day in which  event I would be responsible for their good conduct or return them to close confinement</p>
+            <closer>I have the honor to be with great respect your <choice>
+                  <abbr>Exclys</abbr>
+                  <expan>Excellency</expan>
+               </choice>
+               <choice>
+                  <abbr>obet</abbr>
+                  <expan>Obediant</expan>
+               </choice> Servant <signed>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>James</expan>
+                  </choice> Winchester</signed>
+               <choice>
+                  <abbr>B Genl</abbr>
+                  <expan>Brigadire General</expan>
+               </choice>
+               <choice>
+                  <abbr>US</abbr>
+                  <expan>United States</expan>
+               </choice> army <add>Copy of a letter To Sir <name>George Prevost</name> dated <date>23 June 1813</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

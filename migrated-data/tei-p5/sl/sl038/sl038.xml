@@ -1,0 +1,159 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] ca. 1790's Dec. 21 [to] Gen[era] l William Hall / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl038</idno>
+            <idno>OCLC: 50029218</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] ca. 1790's Dec. 21 [to] Gen[era] l William Hall / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1790-12-21"> December 21, ca. 1790's</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Brigadier General William Hall from Andrew Jackson on December 21 in the early 1790's. In the letter, Andrew and Governor William Blount question the term of service under which the Tennessee Volunteers are obligated to serve. Jackson asks Hall to give the Volunteers orders of service because their term of service has not yet expired. Jackson states that neither he nor the Governor can order the Volunteers, that they can only take orders from General Hall.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">14J</note>
+               <note type="document" anchored="true">sl038</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military planning</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl038a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Brigadier <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice> Hall</name>
+                  </addrLine>
+                  <addrLine>Head Quarters</addrLine>
+                  <addrLine>
+                     <name type="person">H Strother</name> }</addrLine>
+                  <addrLine>
+                     <date when="--12-21">21st <choice>
+                           <abbr>Decr.</abbr>
+                           <expan>December</expan>
+                        </choice>
+                     </date>
+                     <gap agent="damage"/>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have, this moment received a letter from <name type="person">Governor Blount</name>, dated on the 7th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> in answer to my inquiries <del type="overstrike">respec</del> respecting the term of service for which the Volunteers, &amp; detached militia were bound; &amp; hasten to send you a copy of it —</p>
+            <p>
+               <choice>
+                  <abbr>Altho</abbr>
+                  <expan>Although</expan>
+               </choice> the Governor's ideas in regard to the Volunteers appear to have been more particularly disclosed in a letter which he put into the hands of <name type="person">
+                  <choice>
+                     <abbr>Maj.</abbr>
+                     <expan>Major</expan>
+                  </choice> Searey</name>, &amp; which I have not yet received, yet it is obvious from the one, of which I now send you a copy, that he does not consider their term of service to have expired —</p>
+            <p>The unwillingness which the Volunteers had manifested to prosecute the Campaign any farther, on the supposition that their term of service had expired on the 10th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> — <unclear>Occasioned</unclear> me to permit them to be marched to <name type="place">Nashville</name>, under your <del type="overstrike">order</del> direction, there to receive such orders as the Governor or <choice>
+                  <abbr>Secy</abbr>
+                  <expan>Secretary</expan>
+               </choice> at War might think proper to give them. It being now understood, by the opinion of the Governor, that their term of service is not expired that neither he nor I have the power to <choice>
+                  <orig>decharge</orig>
+                  <reg>discharge</reg>
+               </choice> them, the Volunteer Infantry under your command will forthwith return to Head Quarters, &amp; enter again upon the prosecution of the Campaign &amp; the performance of their duty <pb n="2" facs="sl038b.small.jpg"/> as citizens &amp; as soldiers. The commanding General has the fullest confidence they will recommence the discharge of their engagement with the same ardor &amp; alacrity which animated them when they first entered the <choice>
+                  <orig>feild</orig>
+                  <reg>field</reg>
+               </choice>.  He cannot believe that a single officer or soldier attached to the Corps, will incur the disgrace of retiring from the service, now, that the only pretext for his doing so is removed.</p>
+            <p>You will cause this letter together with the letter from the Governor to be read to <choice>
+                  <abbr>yr.</abbr>
+                  <expan>your</expan>
+               </choice> Brigade</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph> Major <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> —</signed>
+               <pb n="3" facs="sl038c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl.</abbr>
+                           <expan>General</expan>
+                        </choice> William Hall</name>
+                  </addrLine>
+                  <addrLine>H Deposit</addrLine>
+                  <addrLine>
+                     <choice>
+                        <orig>Cheroke</orig>
+                        <reg>Cherokee</reg>
+                     </choice> nation</addrLine>
+               </address>
+               <add place="left of address">Express }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

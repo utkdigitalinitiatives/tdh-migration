@@ -1,0 +1,165 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl625">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1843 Feb. 8, Nashville, Tenne[essee, to] James C. Jones, Nashville, Tenne[essee] / H.J. Anderson : a machine readable transcription of an image</title>
+            <author> [unknown]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl625</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1843 Feb. 8, Nashville, Tenne[essee, to] James C. Jones, Nashville, Tenne[essee] / H.J. Anderson</title>
+               <author> [unknown]</author>
+               <date when="1843-02-08"> 
+			 February 8, 1843</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor James C. Jones dated February 8, 1843 from H.J. Anderson. Anderson is writing on behalf of some inmates of the Tennessee Penitentiary. He is requesting that they be pardoned in accordance with a law passed in 1836.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl625</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Pardon</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">unknown</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl625a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Tenne</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>February <choice>
+                        <orig>Penetentiary</orig>
+                        <reg>Penitentiary</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date>February 8th 1843</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice> Jones</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name>Eli Hill</name> was convicted of Horse Stealing at the March term 1840, of the Circuit Court of <name>Hamilton County</name>, &amp; was sentenced to Three Years Confinement in the Penetenteary from <date>1 April</date> following.</p>
+            <p>
+               <name>Joseph Freeland</name> was convicted Horse Stealing at the March term 1840, of the Circuit Court of <name>Hawkins County</name>, &amp; was sentenced to Three Years Confinement in the Penetenteary from the <date>15th April</date>.</p>
+            <p>
+               <name>Cleveland Ester</name> was convicted of Larceny at the March term 1841, of the Circuit Court of <name>Carter County</name>, &amp; was sentenced to Two Year Confinement in the Penetenteary from 20th of same month</p>
+            <p>The Conduit of the above named Prisoners since their Confinement in the Penetenteary, has been generally exemplary &amp; an exceptionable, I therefore recommend that the balance of their sentences be commuted, (Hills &amp; Estep's forthwith, &amp; Freeland, from 15th <choice>
+                  <abbr>inst</abbr>
+                  <expan>instant</expan>
+               </choice> under the previsions of the law of 1836, Chapter 3r, Section 4th passed for the encouragement <pb n="2" facs="sl625b.small.jpg"/> of the convicted to conduct themselves with industry and propriety.</p>
+            <closer>
+               <salute>very Respectfully <lb/> Your <choice>
+                     <abbr>obd Servt</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>H. J. Anderson</name>
+                  <add>
+                     <choice>
+                        <abbr>Agt</abbr>
+                        <expan>Agent</expan>
+                     </choice>
+                  </add>
+               </signed>
+               <pb n="3" facs="sl625c.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>Joseph</expan>
+                  </choice> Freeland &amp; <lb/>
+                  <choice>
+                     <abbr>C</abbr>
+                     <expan>Cleveland</expan>
+                  </choice> Estep <lb/> Pardons <lb/> act 1836 <lb/> chap <unclear>63</unclear>
+               </add>
+               <address>
+                  <addrLine>To His Excellency</addrLine>
+                  <addrLine>
+                     <name>James C. Jones</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

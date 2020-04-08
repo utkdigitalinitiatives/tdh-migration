@@ -1,0 +1,189 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Aug. 16, Alexandria, Louisiana [to] James King, Murfreesboro, Tennessee / Thomas Moore: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc042</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Aug. 16, Alexandria, Louisiana [to] James King, Murfreesboro, Tennessee / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1838-08-16">August 16, 1838</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated August 16, 1838 from Thomas Moore to his cousin James King.  In the letter Moore highlights some events of daily life in Louisiana as well as hopes and prospects for his crops.</note>
+               <note type="collection" anchored="true">James Moore King Papers, Correspondence, 1838</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">gc042</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Louisiana</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc042a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice> James M King near Murfreesboro Tennessee</addrLine>
+               </address>
+               <add>Answered <date>15th <choice>
+                        <abbr>Octr</abbr>
+                        <expan>October</expan>
+                     </choice> 1838</date>
+               </add>
+               <add>25</add>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>T</abbr>
+                        <expan>Thomas</expan>
+                     </choice>.O. Moore</name>
+               </add>
+               <add>Mail</add>
+               <add>Answered <date>15th <choice>
+                        <abbr>Octr </abbr>
+                        <expan>October</expan>
+                     </choice>1838</date>
+               </add>
+               <add>1838</add>
+               <add>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>
+               </add>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <choice>
+                           <sic>13</sic>
+                           <orig>13</orig>
+                        </choice>
+                     </figDesc>
+                  </figure>
+               </add>
+               <add>Thomas <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice> Thomas</add>
+               <pb n="2" facs="gc042b.small.jpg"/>
+               <address>
+                  <addrLine>near Alexandria</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Aug</abbr>
+                     <expan>August</expan>
+                  </choice> 16th = 1838</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>The only way that I can repay you for my long negligence is in writing you, I therefore seat myself to do so with great pleasure and trust this will find you family our <choice>
+                  <orig>connexions</orig>
+                  <reg>connections</reg>
+               </choice> &amp; friends generally in fine health, &amp; pursuing your usual enjoyments this season of the year in bruising your morrow bones at the camp meetings and attending your barbecues, mind is hunting in the pine woods every day except when I visit the plantation which is generally once a week.  I left Bethiah my two boys and fine daughter in the pine hills this morning all as fat as beans &amp; as unmanageable as mustangs  </p>
+            <p>Crops are generally pretty good though we have considerable must should the season continue good from this time we shall make good crops, I have in about 400 acres of cotton &amp; if nothing happens expect to make 400 bales though you know there is no certainty of a cotton crop <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> you get it in the house, I shall make the greatest abundance of corn though it is not so good as last year owing to the <choice>
+                  <orig>drouth</orig>
+                  <reg>drought</reg>
+               </choice> of 38 days duration at the very time our corn most required it.  I heard from <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Overton</name>, T. Butler &amp; families a few days ago they were all in good health.  Tom I think has no idea of moving to <name>Tennessee</name>
+            </p>
+            <pb n="3" facs="gc042c.small.jpg"/>
+            <p>Tell Sarah her sister has just received her letter &amp; will <choice>
+                  <abbr>ansr</abbr>
+                  <expan>answer</expan>
+               </choice>. it in a few days, <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Spurlock &amp; family are well, G Baillio &amp; family are well I believe though I have not been at their house since I came from <choice>
+                  <abbr>Tenn</abbr>
+                  <expan>Tennessee</expan>
+               </choice>. tell her Burgess <choice>
+                  <orig>stabed</orig>
+                  <reg>stabbed</reg>
+               </choice> Chumbess a few days ago &amp; came very near killing him, <name>Misses. Compton Inscott</name> &amp; families are well.  I am sorry to tell you the damned <abbr>whigs</abbr> beat us in our Parish this summer which I fear will please you though I am still in hopes that you <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> belong to that moneygood fraternity.  notwithstanding you opposed little Martin I cant think you will support <name>Henry Lelvy</name> as President.  I wish you to read <name>John C. Wums</name>' (of <name>Maryland</name>) letter to him &amp; see if that dont satisfy you that Clay is to all intents &amp; purposes an Abolitionist, I would almost as soon support <name>J. Q. Adams</name> or <name>Arthur Tappan </name>(enough of this horror).</p>
+            <p>Tell cousin Patsy, Bethiah says her <name>Louisiana</name> girl can beat hers as far as from here to <name>Loudon</name>.  Give my love to cousin P. Sarah. aunt B &amp; sister Jane &amp; families &amp; tell the girls I have not forgotten them that I will tie them head &amp; foot next time.  May god preserve you all in that good old methodist &amp; steam country</p>
+            <closer>Your <choice>
+                  <abbr>affte</abbr>
+                  <expan>affectionate</expan>
+               </choice> relative <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+               <add>write me where <name>Lewis Moore</name> lives</add>
+               <pb n="4" facs="gc042d.small.jpg"/>
+               <add>therefore I dont expect to supose either</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

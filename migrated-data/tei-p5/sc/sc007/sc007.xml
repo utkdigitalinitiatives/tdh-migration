@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Hand drawn map detailing Battle of Horseshoe Bend] 1814 May
+			 15th, Rhea County, Tennessee : a machine-readable transcription of an
+			 image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc007</idno>
+            <idno>OCLC: 49962090</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Hand drawn map detailing Battle of Horseshoe Bend] 1814 May
+				15th, Rhea County, Tennessee </title>
+               <date when="1814-05-15">May 15, 1814</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a hand drawn map of the battle
+				that occurred at Horseshoe Bend on March 27th, 1814. Led by General Andrew
+				Jackson, the United States regular army, the Tennessee militia, Cherokee and
+				Lower Creek Indians fought against the Upper Creek Indians at Horseshoe Bend,
+				in present day Alabama. Over eight hundred Upper Creeks were killed and over
+				two hundred women and children were captured. This was the final battle of the
+				Creek War of 1813-1814. The Creek Indians lost almost 20 million acres of land
+				in Alabama and Georgia in a treaty with the United States. Andrew Jackson
+				returned to Tennessee a hero and was later elected as President of the United
+				States.</note>
+               <note type="Collection">Battle of Horseshoe Bend</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-352</note>
+               <note type="Document">sc007</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians</term>
+               <term>Creek War, 1813-1814</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Horse Shoe, Battle of , 1814</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc007a.small.jpg"/>
+            <p>
+               <figure>
+                  <head>
+                     <name type="place">Tennessee State Rhea County</name>
+                     <date when="1814-05-15">15th May 1814</date>
+                  </head>
+                  <figDesc>A hand drawn map of 
+				  <name type="place">Horseshoe Bend</name> with written details of
+				  the battle that occurred on March 27th 1814.</figDesc>
+               </figure>
+            </p>
+            <pb n="2" facs="sc007b.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>Back of hand drawn map that contains miscellaneous details
+				  and calculations.</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

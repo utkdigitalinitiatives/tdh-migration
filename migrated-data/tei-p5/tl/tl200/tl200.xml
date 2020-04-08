@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl200">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Jun. 1 [to] Sam Houston, Nashville, Tennessee / S. T. Greenfield : a machine readable transcription of an image</title>
+            <author>Greenfield, S. T.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl200</idno>
+            <idno>OCLC: 49915640</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Jun. 1 [to] Sam Houston, Nashville, Tennessee / S. T. Greenfield</title>
+               <author>Greenfield, S. T.</author>
+               <date when="1828-06-28">June 28, 1828</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Sam Houston regarding a slave belonging to S. T. Greenfield. Greenfield's slave was accused of breaking into a store and Greenfield requests that Houston allow the slave to leave the state rather than be hung.</note>
+               <note type="collection" anchored="true"> Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true">Aiken - Humphreys, b1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">tl200</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Slaves</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Greenfield, S. T.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl200a.small.jpg"/>
+            <opener>
+               <date when="1828-06-01">June 1st 1828</date>
+               <salute>Dear General,</salute>
+            </opener>
+            <p>I have just been informed that one of my negroes has been convicted of breaking open a store near <name type="place">Williamsport</name> and sentenced to be hung.—You will excuse the liberty, I have taken, as well as this scrawl— my health has been very bad, ever since I had the pleasure of seeing you at <name type="place">Washington</name>   which has prevented me from returning home, I am still under medical advice. I have to request it as a great favor to be permitted to send the negroe out of the state, I am unable and have been confined , In <name type="place">Maryland</name> and it appears, my enemies are determined to ruin my estate— I have reason to believe that <del type="overstrike">in his ha</del> his trial was not an impartial one, and that ⁁<add place="supralinear">the</add> evidence from some of the negroes were <unclear>circumstance</unclear> .— I feel much agitated and believe that justice will not be done. I therefore as a friend to humanity and citizen of <name type="place">Tennessee</name> would beg your permission to send him out of the state— You will excuse this scrawl, and accept my friendship.</p>
+            <closer>
+               <salute>Yours<choice>
+                     <abbr>respet</abbr>
+                     <expan>respectfully</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">S. T. Greenfield</name>
+               </signed>
+            </closer>
+            <pb n="2" facs="tl200b.small.jpg"/>
+            <closer>
+               <add>Horse lead<date when="1828-06-02">June 2d 1828</date>
+               </add>
+               <add>paid 25</add>
+               <address>
+                  <addrLine>
+                     <name type="person">General <choice>
+                           <abbr>Saml.</abbr>
+                           <expan>Samuel</expan>
+                        </choice> Houston</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Davidson County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">West Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">mail</add>
+            </closer>
+            <closer>
+               <add rend="penciled in under address">
+                  <date when="1828">1828</date>
+               </add>
+               <add place="bottom of page">Greenfield Negro</add>
+               <add place="bottom of page">
+                  <date>June 1828</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

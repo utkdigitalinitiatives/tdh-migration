@@ -1,0 +1,121 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl598">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Jun. 4, Washington, D.C. [to] Aaron V. Brown / G. Talbot : a machine readable transcription of an image</title>
+            <author> Talbot, G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl598</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Jun. 4, Washington, D.C. [to] Aaron V. Brown / G. Talbot </title>
+               <author> Talbot, G.</author>
+               <date when="1846-06-04"> 
+			 June 4, 1846</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 4, 1846 from G. Talbot at the Ordinance Office in Washington, D.C. to Tennessee governor Aaron V. Brown. Talbot informs Brown of orders from the Ordinance Office for a horse, and two foot regiments of Tennessee volunteers to be called into service of the United States</note>
+               <note type="collection" anchored="true">Governor Aaron V. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl598 </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Brown, Aaron V. (Aaron Venable), 1795-1859</term>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Talbot, G.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl598a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Ordinance Office <lb/> Washington,</addrLine>
+               </address>
+               <date>June 4th 1846</date>
+               <salute>The Governor of <name>Tennessee</name>
+                  <lb/>
+                  <name>Nashville</name>
+                  <lb/> Sir,</salute>
+            </opener>
+            <p>I have the honor to inform you of the following orders, which have been issued from this office, for providing <unclear>arms,</unclear> accouterments &amp; ammunition for the Volunteers of <name>Tennessee</name> ( one <choice>
+                  <abbr>Regt</abbr>
+                  <expan>Regiment</expan>
+               </choice>. of Horse and two Regts. of Foot) called into the service of the <name>United States</name>.</p>
+            <p>1st To send, from <name>Baton Rouge</name> Arsenal, to <name>Memphis</name>; for the horse, 457 <unclear>carbines</unclear>&amp; accouterments, 457 pistols &amp; holsters, 457 sabres &amp; belts and 458 rifles &amp; accouterments     __ to the same place, for the foot, 1808 muskets and accouterments__ with 40 cartridges and 2 flints for each gun.</p>
+            <p>2nd To send forward, from the same Arsenal, to depot, at <name>Point Isabel</name> for the foot, and at <name>San Autrico de Besa</name> for the horse, further supplies of cartridge &amp; flints for the <name>Tennessee</name> troops and others, which are to take those routes.</p>
+            <p>Not knowing the names or addresses of <pb n="2" facs="sl598b.small.jpg"/> the gentlemen, whom your excellency may have appointed to command the Volunteers of your state I have to request that you will give them early information of the measures adopted to supply their <unclear>arms</unclear>  , accouterments and ammunition.</p>
+            <closer>
+               <add>Respectfully <choice>
+                     <abbr>Yr. Obt. Sert</abbr>
+                     <expan>Your Obedient Servant</expan>
+                  </choice>. G. Talbot <pb n="3" facs="sl598c.small.jpg"/> ordinance <choice>
+                     <abbr>Dept</abbr>
+                     <expan>Department</expan>
+                  </choice>.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

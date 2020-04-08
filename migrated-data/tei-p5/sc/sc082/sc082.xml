@@ -1,0 +1,112 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Jun. 17 Franklin, [to] James M. Welcker / Carrick W. Park : a machine readable transcription of an image</title>
+            <author>Park, Carrick W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc082</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Jun. 17 Franklin, [to] James M. Welcker / Carrick W. Park</title>
+               <author>Park, Carrick W.</author>
+               <date when="1837-06-17">June 17, 1837</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter written to James M. Welcker from Carrick W. Park on June 17, 1837. In the letter, Park discusses the city of Franklin, Tennessee. He says that the city is in need of improvements and the citizens are not sociable and are not of very good character.</note>
+               <note type="collection" anchored="true">James M.Welker</note>
+               <note type="box" anchored="true">MS-271</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc082</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Complaint letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Park, Carrick W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc082a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Franklin</name>
+                     <date when="1837-06-17">June 17th 37</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Your kind letter came to hand by this mornings mail. I regret to hear of <name type="person">Sophia Craigheads</name> severe illness. Although I am not surprised. I expected to hear of it by every mail. I knew she could not remain as she was when I left that there must be a change either for the better or worse, and from the nature of her disease. I anticipated the latter. I am sorry the visit to the springs did not improve Margarets health.</p>
+            <p>As to Mothers being "desolate since I left." I would write to her, but I think I will comfort her by my presence before a great while, for I would not live in this town for any consideration, there is ⁁ <add place="supralinear">less</add> sociability here than any place I ever was in, there is no place that you can get among the <emph>gentle men</emph> of the place but at the grocery, there you will find people of every class, and every age from the boy of ten years old to the old man of seventy, all drink, young &amp; old, play cards, tell vulgar anecdotes, and vice in every shape may be seen, and that too by the best citizens of the town, and Sunday is kept by them no holier than any other day, As to the mechanics <pb n="2" facs="sc082b.small.jpg"/> they are scarce, out side of the Factory there are none, except a Blacksmith, a Tailor or two <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>. I have not heard the sound of hammer or saw, in the way of improvement, since I have been here. I am like the Irishman, who said that it was the first <del type="overstrike">place</del> town ⁁ <add place="supralinear">that he had seen</add> in his life that was completed. I will remain here a week or two longer and think I will return to <name type="place">Knoxville</name>. I am keeping the Post Master,  <name type="person">Mr. C. Stone</name>, from closing the mail. My love to all relations.</p>
+            <closer>
+               <salute>Yours Always</salute>
+               <signed>
+                  <name type="person">Carrick W. Park</name>
+               </signed>
+               <pb n="3" facs="sc082c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. James M. Welcker</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

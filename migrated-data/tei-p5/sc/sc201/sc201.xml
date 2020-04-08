@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc201">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Jul. 9, Knoxville [to] Major John Childs / R. B. Purdom : a machine readable transcription of an image</title>
+            <author>Purdom, R. B. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc201</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Jul. 9, Knoxville [to] Major John Childs / R. B. Purdom</title>
+               <author>Purdom, R. B.</author>
+               <date when="1819-07-09">July 9, 1819</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by R. B. Purdom in 1819, to Major John Childs regarding documents needing signed for one Robert Davis to receive his pay.</note>
+               <note type="collection" anchored="true">R. B. Purdom Letter</note>
+               <note type="box" anchored="true">MS-1450</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc201</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Military pay</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Purdom, R. B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc201a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <date>July 9th 1819</date>
+               <salute>
+                  <name>
+                     <choice>
+                        <abbr>Majr</abbr>
+                        <expan>Major</expan>
+                     </choice>. John Childs</name>
+                  <lb/> Sir </salute>
+            </opener>
+            <p>Some months ago I forwarded by a <name>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Bunch</name> of this county some <unclear>
+                  <choice>
+                     <abbr>Dfts</abbr>
+                     <expan>Drafts?</expan>
+                  </choice>
+               </unclear> in favor of <name>Robert Davis</name> of <name>Madison County</name>_ (which he give to <name>
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice>. Frost </name>and requested the Doctor to ask the favor of you to send them back to <name>Huntsville</name>. If after you had <choice>
+                  <abbr>signd</abbr>
+                  <expan>signed</expan>
+               </choice>_ them. the Dfts have never been <choice>
+                  <orig>herd</orig>
+                  <reg>heard</reg>
+               </choice> of since. If you have <choice>
+                  <abbr>receivd</abbr>
+                  <expan>received</expan>
+               </choice> them will you be so good as to forward them to Robert Davis the proper <del type="overstrike">ower</del> owner <pb n="2" facs="sc201b.small.jpg"/> as he can not tell what has become of them <del type="overstrike">and you</del> and thinks he is entitled to the pay. please forward them to him_ It was my self that give them to Bunch to attend to for me &amp; Davis thinks I ought to find them.</p>
+            <closer>
+               <salute>I am yours</salute>
+               <signed>R. B. Purdom</signed>
+               <add>If you see Doct Frost I wish if you please you would ask him about the Dfts. &amp; Drop us a line at Huntsville R. B. P.</add>
+               <pb n="3" facs="sc201c.small.jpg"/>
+               <address>
+                  <addrLine>Majr John Childs <lb/>
+                     <name>Knox County </name>
+                     <lb/>
+                     <unclear>in</unclear>
+                     <name>Rhea </name>
+                     <name>
+                        <choice>
+                           <abbr>E Tn</abbr>
+                           <expan>East Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

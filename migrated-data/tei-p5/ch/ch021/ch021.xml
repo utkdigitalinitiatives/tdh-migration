@@ -1,0 +1,222 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1829 Jan. 29, Washington [to] P[eter] B. Porter, Secr[etar]y of War / Jno. [i.e., John] Ross ... [et al.] : a machine-readable transcription</title>
+            <author>Ross, John, 1790-1866</author>
+            <author>Coody, William S.</author>
+            <author>Gunter, Edward</author>
+            <author>Taylor, Richard, 1788-1853</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch021</idno>
+            <idno>OCLC: 44771405</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1829 Jan. 29, Washington [to] P[eter] B. Porter, Secr[etar]y of War / Jno. [i.e., John] Ross ... [et al.] </title>
+               <author>Ross, John, 1790-1866</author>
+               <author>Coody, William S.</author>
+               <author>Gunter, Edward</author>
+               <author>Taylor, Richard, 1788-1853</author>
+               <date when="1829-01-29">January 29, 1829</date>
+               <extent>8p</extent>
+               <note type="summary" anchored="true">This document is a letter from a delegation of Cherokee leaders, including John Ross, William S. Coody, Edward Gunter, and Richard Taylor, to  Peter B. Porter, Secretary of War (1828-1829), dated January 29, 1829.  The delegation informs Porter that none of the Cherokee claims for property loss have yet been paid, under provisions of the Treaty of Tellico (1804), nor have claims for improvements under the treaties of 1817 and 1819 been paid.  In addition, they also discuss lingering questions regarding the continuing education of Cherokee children and the unauthorized payment of a portion of the Cherokee annuity to  Cherokees in Arkansas.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true"> 1</note>
+               <note type="folder" anchored="true"> 23</note>
+               <note type="document" anchored="true">ch021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Claims</term>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Cherokee Indians--Education</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="https://id.loc.gov/authorities/names/nr96029997"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Taylor, Richard, 1788-1853</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Gunter, Edward</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2006102440"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Coody, William S. (William Shorey), 1806-1849</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n82214557"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ross, John, 1790-1866</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch021a.small.jpg"/>
+            <opener>
+               <hi>A copy-</hi>
+               <lb/>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Williamson's Hotel</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Washington City</name>
+                     </addrLine>
+                  </address>
+                  <date when="1829-01-29">
+                     <choice>
+                        <abbr>Janry.</abbr>
+                        <expan>January</expan>
+                     </choice> 29th.1829</date>
+               </dateline>
+               <salute>
+                  <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Honble</abbr>
+                           <expan>Honorable</expan>
+                        </choice>
+                        <name type="person">P.B. Porter</name>
+                     </addrLine>
+                     <addrLine>
+                        <choice>
+                           <abbr>Secry.</abbr>
+                           <expan>Secretary</expan>
+                        </choice> of War.</addrLine>
+                  </address> Sir.</salute>
+            </opener>
+            <p>Having paid you our respects, and apprized you of our appointment to transact business with the General Govt. in behalf of the <name>Cherokee Nation</name>, we shall now lay before you some of the subjects embraced in the subject of our mission.</p>
+            <p>We will first call your attention to the various individual <add place="supralinear">
+                  <name type="person">Cherokee</name>
+               </add> claims for property stolen by citizens of the <name type="place">United States</name>. By reference to the Treaty of <name type="place">Telico</name> it will be perceived that a special provision is made for the indemnification of stolen property. Some of those claims are of long standing, were long since laid before the Department of War, and <choice>
+                  <orig>refered</orig>
+                  <reg>referred</reg>
+               </choice>
+               <pb n="2" facs="ch021b.small.jpg"/>back to the <name type="place">U.S.</name> agent to be further reported on, this he informed us had been done, and were now before you for adjustment; as they are particularly embraced in the provisions of the Treaty <choice>
+                  <orig>refered</orig>
+                  <reg>referred</reg>
+               </choice> to We hope they will be disposed of without much further delay.  We would next call your attention to the claims for improvements abandoned on the ceded lands under the Treaties of <date when="1817">1817</date>
+               <date when="1819">'19</date>. which have been transmitted to the Department by <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Montgomery</name>, some reasons are assigned in the report of the agent why those improvements were not valued and paid for in the first place, but we will take the liberty to remark, that some excitement prevailed among the Natives in that particular section of Country arising from the Treaty, as the lands on which they resided had been ceded to the <name type="place">U. States</name>. <name type="person">Mr. Starr</name>
+               <add place="supralinear">perhaps</add> apprehending some evil did not choose to visit the different habitations so as to make a correct estimate of the value of the improvements, but met with <pb n="3" facs="ch021c.small.jpg"/> an Indian who informed him that the people in his Town did not wish to have their improvements valued and returned home without executing the business confided to him. It is evident that the failure to value the improvements at the time was owing to the neglect of the officer of the Government, consequently the claimants should not be deprived of the provisions provided for them in the Treaty that ceded their lands, nor do we consider their demands <choice>
+                  <orig>weakend</orig>
+                  <reg>weakened</reg>
+               </choice> by the lapse of time. An arrangement was entered into <add place="supralinear">in</add>
+               <date when="1819">1819</date> between the <choice>
+                  <abbr>Secry.</abbr>
+                  <expan>Secretary</expan>
+               </choice> of War and the <name type="person">Cherokee</name> Delegation then in this city that Twelve hundred  eighty dollars in money should be paid to the <name>Cherokee Nation</name> annually in lieu of the rations stipulated to be furnished. This sum was regularly paid until the year <date when="1827">1827</date> when for reasons entirely unknown to us it was stopped. We can see no just or reasonable grounds for discontinuing
+<pb n="4" facs="ch021d.small.jpg"/>the payment of this money, nor has there been any explanation given, Therefore, we hope it will be resumed from the time of its discontinuance . The <name type="place">Unicoi Turnpike</name> Company having failed to comply with the requisitions of their agreement with the <name>Cherokee Nation</name>s for several years, the Agent was instructed by the <choice>
+                  <abbr>Secry</abbr>
+                  <expan>Secretary</expan>
+               </choice> of War to institute a suit against the Company for the recovery of the annual stipend due the Nation, but has never <choice>
+                  <orig>complyed</orig>
+                  <reg>complied</reg>
+               </choice> with the instructions nor assigned any reasons to the National authority for the delay in prosecuting the order issued from the <choice>
+                  <abbr>Deptmt.</abbr>
+                  <expan>Department</expan>
+               </choice> We would request that he be urged to carry into effect the instructions, and to be informed of the causes which have occasioned this delay, if any have been reported, also, how far the Govt. will be bound for the expenses of suits instituted under its authority, as there are some important ones to which the agent cannot attend personally,  would therefore necessarily require the<pb n="5" facs="ch021e.small.jpg"/>attention of a special agent.
+                        
+                     
+                  
+               </p>
+            <p>The lands reserved as a school fund under the Treaty of <date when="1819">1819</date> has not been disposed of as was anticipated from the assurance given to the delegation here in <date when="1825">1825</date> The subject was introduced by them, and were informed that the lands were surveyed and nothing remained but to bring them into market. The Nation has become deeply <del type="overstrike">
+                  <unclear/>
+               </del> engaged in the education of her youth  feel the want of sufficient funds to aid in this laudable object. We would earnestly solicit that the sale of those lands should <del type="overstrike">be</del> no longer <add place="supralinear">be</add> procrastinated. The sooner they are brought into market the better it will be for our people that they may apply the proceeds to the education of the rising generation, many <add place="supralinear">of</add> whom are growing up in ignorance for want of assistance  When <name type="person"> 
+                  <reg>John C.</reg> Mr. Calhoun</name> presided over the War Department in <date when="1825">1825</date> the payment of the sum due the <name>Cherokee Nation</name> by the <pb n="6" facs="ch021f.small.jpg"/>ratification of the Treaty of <date when="1804">1804</date> became a subject of discussion between the <choice>
+                  <abbr>Secry</abbr>
+                  <expan>Secretary</expan>
+               </choice>  the <name type="person">Cherokee</name> delegation. It was his opinion that the <name type="person">Cherokees</name> west of the <name type="place"> 
+                  <reg>River</reg> Mississippi</name> should receive one third of the amount arising from the Treaty to which the delegation protested.  <name type="person"> 
+                  <reg>John C.</reg> Mr. Calhoun</name> at an interview with him afterwards observed that any arrangement the two parties might enter into on the subject would be satisfactory to the Government. A deputation of <name type="person">Cherokee</name> from <name type="place">Arkansas</name> being then in the city, a conference immediately took place, an arrangement entered into and submitted to <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Thomas L. McKenney</name> who promised that it should be attended to, a copy of which is herewith enclosed, when Seven Thousand Dollars of the amount of this money was left in the possession of the Government to be disposed of agreeably to further arrangement,<pb n="7" facs="ch021g.small.jpg"/>between the <name>Cherokee Nation</name>  those west of the <name type="place"> 
+                  <reg>River</reg> Mississippi</name>. A few days after the Delegations left the city <name type="person">Major Duval</name> arrived, <choice>
+                  <abbr>agt.</abbr>
+                  <expan>agent</expan>
+               </choice> for the <name type="person">Cherokees</name> on the <name type="place">Arkansas</name> and the whole amount of the Seven Thousand dollars was paid over to him, without any regard to the distinct understanding  agreement of the Delegations.
+                  
+               </p>
+            <p>We can discover no right growing out of any of our Treaty stipulations whereby the <name type="place">Arkansas</name>
+               <name type="person">Cherokees</name> are entitled to one cent of this money, and cannot but believe that injustice has been done in this payment  Therefore, compelled by a sense of duty, to present the case before you as a claim against the Government, in behalf of the <name>Cherokee Nation</name>  The running of the boundary line from the <name type="place">Unicoi Turnpike</name> road to the nearest main source of the <name type="place"> 
+                  <reg>River</reg> Chestatee</name>, is well known to <pb n="8" facs="ch021h.small.jpg"/>the Department as having created much dissatisfaction to the <name type="person">Cherokees</name>, It had been a subject of much  and repeated complaint to the government as the stipulation of the Treaty was not observed and a larger portion of Country included than was ceded  In order that justice may be done we request and hope that the Department will direct a re-examination  Survey to be made  These several subjects are respectfully submitted for your consideration and decision
+               </p>
+            <closer>
+               <salute>We have the honor to be Sir, <choice>
+                     <abbr>Yr Ob</abbr>
+                     <expan>Your Obedient</expan>
+                  </choice> Servants</salute>
+               <lb/>(Signed)<lb/>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Ross</name>
+               </signed>
+               <signed>
+                  <name type="person">Richard Taylor</name>
+               </signed>
+               <signed>
+                  <name type="person">Edward Gunter</name>
+               </signed>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> S. Coody</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

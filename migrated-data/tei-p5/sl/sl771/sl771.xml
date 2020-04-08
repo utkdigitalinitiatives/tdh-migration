@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl771">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1825 Oct. 26, Murfreesboro, Tennessee [to William Carroll] Tennessee / William L. Williford : a machine readable transcription of an image</title>
+            <author>Williford, William L.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sl771</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1825 Oct. 26, Murfreesboro, Tennessee [to William Carroll] Tennessee / William L. Williford</title>
+               <author> Williford, William L.</author>
+               <date when="1825-10-26">October 26, 1825</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor William Carroll from William L. Williford and George W. McGehee, dated October 26, 1825. This is a report on the latitude of Walker's Line which formed the southern border of Kentucky.</note>
+               <note type="collection" anchored="true">Governor William Carroll Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl771</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Kentucky</term>
+               <term>Surveying</term>
+               <term>Borders and frontiers</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williford, William L.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl771a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Murfreesboro</name>
+                     <date>October 26th 1825</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To his Excellency the Governor of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>In obedience to the instructions given us by you for taking the latitude of Walker's line between this State and <name>Kentucky</name>, &amp; also of that recently run by <name>Colonel Steel</name> of <name>Kentucky</name> in this state: We now have the <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice> to report that, on the nineteenth of this month we commenced the business assigned us, and found the latitude of the line run by Colonel Steel at a point near <name>Springfield</name> to be 36 degrees 28 minutes and 44 seconds. We then proceeded to Walker's line  and found the latitude of the same of the point where it is crossed by the road leading from Springfield in this State to <name>Russelville</name> in Kentucky to be 36 degrees 37 minutes 9 seconds. From this <add>it</add> appears that the line run by Colonel Steel is <unclear>south</unclear> of latitude 36 degrees 30 minutes one statute mile <pb n="2" facs="sl771b.small.jpg"/> and a half: and that Walker's line is north of latitude 36 degrees 30 minutes eight statute miles: making the distance between the two lines at or near the points where the latitude was taken nine and a half statute miles very nearly. From the very <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> circumstances under which the observations were made, we feel warranted in the belief that the above statement is correct</p>
+            <closer>
+               <salute>Respectfully submitted</salute>
+               <signed>
+                  <name>William L,, Williford</name>
+                  <name>George W. McGehee</name>
+               </signed>
+               <pb n="3" facs="sl771c.small.jpg"/>
+               <add>Williford &amp; MGee <lb/> Report on <lb/> 36<choice>
+                     <abbr>o</abbr>
+                     <expan>degrees</expan>
+                  </choice> 30 <choice>
+                     <abbr>N</abbr>
+                     <expan>North</expan>
+                  </choice> latitude <lb/> In Senate <choice>
+                     <abbr>Octr</abbr>
+                     <expan>October</expan>
+                  </choice> 26 1825 <lb/> Read &amp; ordered to be <lb/> sent to the <choice>
+                     <abbr>H of  R</abbr>
+                     <expan>House of Representatives</expan>
+                  </choice>
+               </add>
+               <signed>
+                  <name>R Daner</name>
+                  <choice>
+                     <abbr>clk</abbr>
+                     <expan>clerk</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

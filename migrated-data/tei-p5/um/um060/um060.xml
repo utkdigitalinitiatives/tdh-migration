@@ -1,0 +1,191 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um060">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Nov. 11, Shepherdsville, [to] E[dward] E. Porter / C. Clay Balfrey : a machine readable transcription of an image</title>
+            <author>Balfrey, C. Clay</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um060</idno>
+            <idno>OCLC: 50296835</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 Nov. 11, Shepherdsville, [to] E[dward] E. Porter / C. Clay Balfrey</title>
+               <author>Balfrey, C. Clay</author>
+               <date when="1850-11-11">November 11, 1850</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by C. Clay Balfrey  to Edward E. Porter on November 11, 1850. In the letter, Balfrey mentions the fact that many people have been getting married and that marriage seems to be the popular thing to do at the time. He also mentions that Edward's former landlord, a man named Nick Simmons, was shot in the back in a fight and has recovered. He concludes by saying that he wishes for Edward and himself to renew their friendship after some previous disagreements.</note>
+               <note type="collection" anchored="true">Porter-Rice Family Letters MS 154 (Letters 1850-1851)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um060</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Balfrey, C. Clay</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um060a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Shepherdsville</name>
+                     <date when="1850-11-11">
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 11th 1850</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>E.</abbr>
+                           <expan>Edward</expan>
+                        </choice> E. Porter</name>
+                  </addrLine>
+               </address>
+               <salute>My Dear Friend</salute>
+            </opener>
+            <p>
+               <add place="left side of page, sideways">Tell Ben I would be very much obliged to him if he would answer the letter I wrote him some time ago, Write soon yourself. My respects to all Your sincere friend <name type="person">C. Clay Balfrey</name>
+               </add>
+               <add place="top of page">If I am alive and kicking I will go  <choice>
+                     <sic>to to</sic>
+                     <corr>to</corr>
+                  </choice> the <unclear>Cane</unclear> with you next Season. I saw <name type="person">Steven</name>, the guide in <name type="place">Louisville</name> last Saturday, his words will be out about Christmas. Tell <choice>
+                     <orig>MackKnight</orig>
+                     <reg>McKnight</reg>
+                  </choice> I will write to him when I return from <unclear>weddening</unclear>. { All are well and send respects.</add> I am happy to announce the reception of yours of the 5th <choice>
+                  <abbr>inst.</abbr>
+                  <expan>instant</expan>
+               </choice> also that of <name type="person">McKnight</name> both of which came to hand an hour since. under other than present circumstances, perhaps I would not have answered your letter before several days but as now situated if I do not embrace the present opportunity another suitable one may not occur for some two weeks, for the following reasons: a mania for marrying seems at this time to pervade this county to an alarming extent, and to threaten a total <choice>
+                  <orig>annihalation</orig>
+                  <reg>annihilation</reg>
+               </choice> of all the joys naturally attending Single-blessedness, but I must add, by way of parenthesis, that I have not felt any symptoms of it yet, and with the help of the Lord I hope to escape the dire fate to which I see many are daily hurrying.</p>
+            <p>Well, we are going to have three weddings in our vicinity this week and next, all of which will be accompanied by the necessary routine of parties, and attended by the beaux and Belles of several adjoining counties besides what Old Bullitt can produce, which is no little <pb n="2" facs="um060b.small.jpg"/> In the first place a brother of our Old friend <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Ball</name> from <name type="place">Arkansas</name> will be married tomorrow to a <name type="person">Miss Rogers</name>. <name type="person">Ham. Field</name> and I <choice>
+                  <orig>attendents</orig>
+                  <reg>attendants</reg>
+               </choice>. We leave town this evening (now, in about an hour) and go out to the <choice>
+                  <abbr>Cols</abbr>
+                  <expan>Colonel's</expan>
+               </choice> where we spend the night. Tomorrow morning we go to the house of the Bride and get married, and return to <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Balls tomorrow night and have big <choice>
+                  <abbr>doins</abbr>
+                  <expan>doings</expan>
+               </choice>. Next day we go to another house and have big <choice>
+                  <abbr>doins</abbr>
+                  <expan>doings</expan>
+               </choice> also, and on Thursday we go to another wedding which will be succeeded by Large parties on Friday and Saturday. On the Tuesday following <name type="person">Alfred Field</name> will marry and the rest of the week will be spent in all sorts of frol⁁<add place="supralinear">i</add>cking. In truth I anticipate such a time as I never had before. Well as aforesaid, these considerations induce me to write to you <choice>
+                  <orig>immediatily</orig>
+                  <reg>immediately</reg>
+               </choice>. I hoped to receive a letter from you long before this time, but knowing of old your negligence in such matters. I <choice>
+                  <orig>canot</orig>
+                  <reg>cannot</reg>
+               </choice> that I expected one much sooner. Judging from the tenor of your remarks I do not suppose that you and the inhabitants of <name type="place">Hanover</name> are on terms of close intimacy, especially the female portion. I hope you have had no bad luck with the women. I would think from the women in which you rail against the feminine that you had be jilted Lately, if so I <choice>
+                  <orig>sympathyse</orig>
+                  <reg>sympathize</reg>
+               </choice>. You seem anxious to get away from Hanover, but if you only knew it you are now spending your <unclear>holeyon</unclear> days in sighing and wishing for the trouble and sorrows and <pb n="3" facs="um060c.small.jpg"/> disappointments which are inseparably connected with a more advanced stage of life. I regret to hear that there old broils between Northerners and Southerners have been revived, and fear that they may turn out greatly to the injury of <choice>
+                  <abbr>Soc.</abbr>
+                  <expan>Society</expan>
+               </choice> but I hope the Court will always have an opportunity to put in "just one word of explanation" and if so I think all things can always be <choice>
+                  <orig>amicablly</orig>
+                  <reg>amicably</reg>
+               </choice> adjusted. — On <choice>
+                  <orig>litle</orig>
+                  <reg>little</reg>
+               </choice> circumstance and I hasten to the later part of your letter.</p>
+            <p>Your Old Landlord <name type="person">Nick Simmons</name> received a bullet in his back a short time since which came very near sending him to <name type="person">Davy Jones</name>. He was abusing a <name type="person">Mr Carpenter</name> in town, when the latter drew a revolver — placed it against his breast — and burst a cap, Nick wheeled to <choice>
+                  <orig>runn</orig>
+                  <reg>run</reg>
+               </choice> when Mr <choice>
+                  <abbr>C.</abbr>
+                  <expan>Carpenter</expan>
+               </choice> shot him in the back just below the shoulder blade, he has since recovered. <choice>
+                  <abbr>Carpent</abbr>
+                  <expan>Carpenter</expan>
+               </choice> was tried and acquitted, owing to the great prejudice against your Land Lord and the eloquence of <name type="person">Mr. Thompson</name>.</p>
+            <p>You "perceive" (though not through any good intention of mine you think) "that I am growing in spirit on <choice>
+                  <abbr>acct.</abbr>
+                  <expan>account</expan>
+               </choice> of the inconstancy of a certain daughter of the South." very true, and you think I ought to have told you of it sooner. well perhaps I ought, and it was my intention to do so at first, but upon <unclear>maturer</unclear> consideration I saw no <emph>necessity</emph> for it, and as I always felt the greatest delicacy in saying anything to you upon that subject I concluded to spare myself the pain of making the communication, knowing that you would soon find it out by other means, I am obliged to you for your <pb n="4" facs="um060d.small.jpg"/> sympathy, but find your "philosophic conclusion" to be but poor consolation, and think an individual must be of a cold passionless nature who can <emph>fully adopt</emph> the sentiment <unclear>enfavdid</unclear> in your <unclear>prevent</unclear>. As for the ridicule with which you seem <choice>
+                  <orig>desposed</orig>
+                  <reg>disposed</reg>
+               </choice> to treat the affair, I can only say that it may be fun for you but it is death to me.</p>
+            <p>You might make the bet which you propose, via: "that I will not fall in love soon with a child of 16." with the greatest certainty of winning, for I think it is reduced to a <choice>
+                  <orig>mathamatical</orig>
+                  <reg>mathematical</reg>
+               </choice> certainty that I cannot love any thing that wears <choice>
+                  <orig>peticoats</orig>
+                  <reg>petticoats</reg>
+               </choice> for some years to come, but, Should the time come when I am <choice>
+                  <orig>possesed</orig>
+                  <reg>possessed</reg>
+               </choice> for <choice>
+                  <orig>loveing</orig>
+                  <reg>loving</reg>
+               </choice>, 16 years of age would never make the slightest difference with me, for it is my private opinion that if impressions made at the age of 16 do not continue, they will not at any subsequent age. Nor can I see any thing "ludicrous" in the business. I have reviewed my own conduct in this affair frequently, and have acted with <unclear>circuns friction,</unclear> throughout and I must ⁁ <add place="supralinear">say</add> however <choice>
+                  <orig>unbecomeing</orig>
+                  <reg>unbecoming</reg>
+               </choice> it may be, that I have nothing to reproach myself with from the beginning, this I speak with a clear conscience, and I believe I am conscientious at time.</p>
+            <p>I am extremely glad that you have referred to this matter, for I see it is likely to restore a perfect understanding between us, which to me is very desirable. From the beginning of this unfortunate affair all that I could ever see or hear of your actions or sayings induced me to believe that you did oppose it, and would oppose it to the last. This I thought was severe. If you with whom I had lived more than a year on terms of intimacy and friendship should  condemn and oppose the consummation of my wishes what was I to expect from them who were even more interested and less acquainted with me. Cherishing these sentiments I felt a coldness toward you and could not nor would not have acted otherwise than in accordance with my feelings. But your assurance that you have never done anything to injure me settles this matter to my joyful satisfaction. And now I hope that all feelings of friendship that may have at any previous time existed may be renewed, strengthened, doubled or whatever else you chose. I <unclear>chalod</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Article of agreement], 1794 Oct. 12, Knoxville, [Tennessee] /
+			 David E. Moore and William Blount, Governor of the State of Tennessee: a
+			 machine-readable transcription of an image</title>
+            <author>Moore, David E.</author>
+            <author>Blount, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Chadwell</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl005</idno>
+            <idno>OCLC: 47798498</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Article of agreement], 1794 Oct. 12, Knoxville, [Tennessee] /
+				David E. Moore and William Blount, Governor of the State of Tennessee</title>
+               <author>Moore, David E.</author>
+               <author>Blount, William</author>
+               <date when="1794-10-12">October 12, 1794 </date>
+               <extent>4p</extent>
+               <note type="summary"> This document is an article of agreement made
+				between William Blount, Governor of territories south of the Ohio River and
+				superintendent of Indian Affairs for the southern district, and David Moore of
+				Knoxville, Tenn. Dated October 12, 1794, the article was written in reference
+				to a large flat bottomed boat, travelling down the Tennessee River, that was
+				carrying goods belonging to the Chickasaw and Choctaw. Moore agreed to take
+				charge of the boat and administer its journey down the Tennessee River to the
+				mouth of Bear Creek, as so directed by Chickasaw chief Opoia Mingo. Moore would
+				also be responsible for protecting the boat against attacks by the Creek and
+				Cherokee, as well as protecting Opoia Mingo and his tribe. Furthermore, the
+				article outlined how Moore and his crew would be paid for their
+				services.</note>
+               <note type="Collection"> William Blount Papers </note>
+               <note type="Box">1</note>
+               <note type="Folder">5</note>
+               <note type="Document">tl005</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Chickasaw Indians--Government relations</term>
+               <term>Choctaw Indians--Government relations</term>
+               <term>Creek Indians--Claims against</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="https://id.loc.gov/authorities/names/n84136128"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blount, William, 1749-1800</name>
+               </term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Moore, David E.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl005a.small.jpg"/>
+            <p>Articles of agreement made and entered into between 
+			 <name type="person">William Blount</name> Governor in and over the
+			 territory of the 
+			 <name type="place">United States of America</name> south of the river
+			 
+			 <name type="place">Ohio</name>, and superintendent of
+			 <choice>
+                  <orig>indian</orig>
+                  <reg>Indian</reg>
+               </choice> affairs for the southern district on the part
+			 of the 
+			 <name type="place">United States</name> on the one part and 
+			 <name type="person">David Moore</name> of 
+			 <name type="place">Knoxville</name> on the other part, respecting the
+			 working a large flat bottomed boat from this place down the 
+			 <name type="place">
+                  <choice>
+                     <orig>tennessee</orig>
+                     <reg>Tennessee</reg>
+                  </choice>
+               </name> with
+			 a quantity of goods belonging to the 
+			 <name type="place">Chickasaw</name> and 
+			 <name type="place">
+                  <choice>
+                     <orig>Chactaw</orig>
+                     <reg>Choctaw</reg>
+                  </choice>
+               </name> nations
+			 of <choice>
+                  <orig>indians</orig>
+                  <reg>Indians</reg>
+               </choice> being the same goods that were given by
+			 the 
+			 <name type="place">United States</name> to the said nations and in 
+			 <date when="--07">July</date> last delivered at 
+			 <name type="place">
+                  <choice>
+                     <orig>philadelphia</orig>
+                     <reg>Philadelphia</reg>
+                  </choice>
+               </name> to 
+			 <name type="person">Opoia Mingo</name> and others of his nation than
+			 at 
+			 <name type="place">Philadelphia</name> Witness, that the said 
+			 <name type="person">David Moore</name> engages to hold himself in
+			 readiness to take charge of the said boat now laying in the 
+			 <name type="place">
+                  <choice>
+                     <orig>holston
+				river</orig>
+                     <reg>Holston River</reg>
+                  </choice>
+               </name> near the camp of the said 
+			 <name type="person">Opoia Mingo</name>about four hundred yards below
+			 this place on <choice>
+                  <orig>saturday</orig>
+                  <reg>Saturday</reg>
+               </choice> the 
+			 <date when="---18">18th</date> instant, by which time it is
+			 supposed the whole of the said goods will have arrived at that place and be put
+			 on board the said boat in the character of commander thereof and to provide six
+			 good oarsmen by the aforesaid day to work the said boat down the 
+			 <name type="place">
+                  <choice>
+                     <orig>tennessee</orig>
+                     <reg>Tennessee</reg>
+                  </choice>
+               </name> to
+			 the mouth of 
+			 <name type="place">Bear Creek</name>, or to such other place above as
+			 
+			 <name type="person">Opoia Mingo</name> shall <pb n="2" facs="tl005b.small.jpg"/> direct the
+			 said goods to be landed, and he the said 
+			 <name type="person">David Moore</name> further engages and agrees
+			 with the said William Blount that in the character of commander of the said
+			 flat bottomed boat he will use the utmost of his skill and abilities in
+			 commanding conducting and defending her with her lading down the 
+			 <name type="place">
+                  <choice>
+                     <orig>tennessee</orig>
+                     <reg>Tennessee</reg>
+                  </choice>
+               </name>
+			 against all attacks that may be made upon the said boat by any hostile party or
+			 parties of 
+			 <name type="person">Creeks</name> or 
+			 <name type="person">Cherokees</name> and that he will take special
+			 care of 
+			 <name type="person">Opoia Mingo</name> and his party of 
+			 <name type="person">Chickasaws</name> who are to pass down the 
+			 <name type="place">
+                  <choice>
+                     <orig>tennessee</orig>
+                     <reg>Tennessee</reg>
+                  </choice>
+               </name> in
+			 the said boat with the goods as before described belonging to the 
+			 <name type="person">Chickasaws</name> and 
+			 <name type="person">
+                  <choice>
+                     <orig>Chactaws</orig>
+                     <reg>Choctaws</reg>
+                  </choice>
+               </name>_ and
+			 the said 
+			 <name type="person">William Blount</name> engages on the part of the 
+			 <name type="place">United States</name>
+               <unclear>that the said 
+			 <name type="person">David Moore</name> shall be paid for his own
+			 skill trouble and--this line is very faded</unclear> service in commanding and
+			 conducting the said boat to the mouth of 
+			 <name type="place">Bear Creek</name> or to such other place above as 
+			 <name type="person">Opoia Mingo</name> shall order their goods to be
+			 landed two hundred dollars and that each of the six oarsmen shall be paid one
+			 dollar per day for their services counting from the time they appear at the
+			 boat ready to go on board provided such appearance be not before the 
+			 <date when="---18">18<hi>th</hi>
+               </date> instant to the day they
+			 return to this place provided more than twenty <add place="supralinear">			 four</add> days shall not be allowed to return to this place from the place
+			 where the goods shall be landed.  and it is further agreed that
+			 provisions shall be put on board the said boat at this place at the cost of
+			 <pb n="3" facs="tl005c.small.jpg"/> the 
+			 <name type="person">United States</name> in such quantity as shall be
+			 judged sufficient for the said 
+			 <name type="person">David Moore</name> and the six oarsmen for the
+			 voyage down the river and for their support on their return, but in case of
+			 deficiency no allowance shall be claimed on their return for such deficiency.
+			  <lb/>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1794-10-12">October 12th 1794</date>
+                  </addrLine>
+               </address>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Blount</name>
+                  <lb/>
+                  <name type="person">David E Moore</name>
+               </signed>
+               <add place="bottom, left">Witness <lb/>
+                  <name type="person">James King</name>
+                  <lb/>
+                  <name type="person">Willie Blount</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="4" facs="tl005d.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Articles of agreement</addrLine>
+                  <addrLine>
+                     <name type="person">Governor Blount</name>
+                  </addrLine>
+                  <addrLine>with</addrLine>
+                  <addrLine>
+                     <name type="person">David Moore</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1794-10-12">October 12th 94</date>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

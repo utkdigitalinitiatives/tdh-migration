@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl211">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1829 Jun. 28 Nashville [TN] [to] S[arah] B. Hamilton / Mortimer Hamilton   : a machine readable transcription of an image</title>
+            <author>Hamilton, Mortimer</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl211</idno>
+            <idno>OCLC: 51212696</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1829 Jun. 28 Nashville [TN] [to] S[arah] B. Hamilton / Mortimer Hamilton</title>
+               <author>Hamilton, Mortimer </author>
+               <date when="1829-06-28">June 28, 1829</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Mortimer Hamilton to his Mother Sarah B. Hamilton, dated June 28, 1829. He reports that his health has been good, despite many recent deaths of young people in the Nashville area. He writes about the local Baptist church, and how well the preachers are at giving sermons.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sl211</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Religious gatherings</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hamilton, Mortimer</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl211a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1829-06-28">June the 28 1829</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Mother</salute>
+            </opener>
+            <p>I now set down to drop you a line or two I am <choice>
+                  <sic>in in</sic>
+                  <corr>in</corr>
+               </choice> good and have <choice>
+                  <orig>engoyed</orig>
+                  <reg>enjoyed</reg>
+               </choice> good health ever since I came to Nashville ⁁ <add place="supralinear">for which I desire</add> to be thankful there has been a great many of the inhabitants of nashville have ⁁<add place="supralinear">
+                  <choice>
+                     <orig>ded</orig>
+                     <reg>died</reg>
+                  </choice>
+               </add> for a month past young men and ladies  Just in the vernal bloom of youth are called from time to eternity and have their friends and relations to mourn their loss the <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> and myself have agreed very well and i hope will as long as we live together the Dr is a wicked and a <unclear>profane</unclear> sinner but do not let this <choice>
+                  <orig>mak</orig>
+                  <reg>make</reg>
+               </choice> you believe that I will be for he is very strict <choice>
+                  <orig>abot</orig>
+                  <reg>about</reg>
+               </choice> that <name type="person">brother fall</name> our stationed preacher <choice>
+                  <orig>baptised</orig>
+                  <reg>baptized</reg>
+               </choice> a half a dozen this morning he delivered a very good sermon at the baptist church this morning there was brother ⁁ <add place="supralinear">vandimon who</add> was here a week or two ago he delivered some most excellent sermons at the baptist church the whole house was crowded and in tears several the churches during <name type="person">brother vandimons</name>stay at nashville it is time I should come to a close give my best respects to all of my dear b <add place="supralinear">r</add> others and sister and <choice>
+                  <orig>except</orig>
+                  <reg>accept</reg>
+               </choice> the same <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> your self </p>
+            <closer>
+               <salute>I ever rema <add place="supralinear">i</add> n <choice>
+                     <sic>you your</sic>
+                     <corr>your</corr>
+                  </choice>
+                  <choice>
+                     <orig>affetionate</orig>
+                     <reg>affectionate</reg>
+                  </choice> son</salute>
+               <signed>
+                  <name type="person">Mortimer Hamilton</name>
+               </signed>
+               <pb n="2" facs="sl211b.small.jpg"/>
+               <address>
+                  <addrLine>Mrs <name type="person">
+                        <choice>
+                           <abbr>S</abbr>
+                           <expan>Sarah</expan>
+                        </choice> B <unclear>Hamilton</unclear>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

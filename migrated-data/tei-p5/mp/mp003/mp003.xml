@@ -1,0 +1,147 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mp003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal] 1803 Jul. 16, State of Tennessee, Mero District [appearance of  James Sanders before Andrew Jackson, Judge of the Superior Courts of Tennessee]  : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mp003</idno>
+            <idno>OCLC: 50334773</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Memphis Public Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Memphis Public Library, 3030 Poplar Avenue, Memphis, TN 38111</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal] 1803 Jul. 16, State of Tennessee, Mero District [appearance of  James Sanders before Andrew Jackson, Judge of the Superior Courts of Tennessee]</title>
+               <date when="1803-07-16">July 16, 1803</date>
+               <extent>3 p</extent>
+               <note type="summary" anchored="true">The following document is a record of a court appearance of James Sanders before Andrew Jackson, judge of the Superior Courts of Tennessee in the Mero District on July 16, 1803. Sanders brings suit against Josiah Watson of Alexandria, VA, for a debt owed to him, and in an accompanying document, Jackson states that Sanders is entitled to    904.52 from Watson.</note>
+               <note type="collection" anchored="true">Goodman Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">mp003</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Debt service</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mp003a.small.jpg"/>
+            <p> Know all men by these presents that we <name type="person">James Sanders</name>
+               <name type="person">Peter Moseley</name> and <name type="person">Huchings G. Burton</name> all of the County of <name type="place">Sumner</name> and State of <name type="place">Tennessee</name>, are held and firmly bound unto <name type="person">Josiah Watson</name> of the town of <name type="place">Alexandria</name>   in the Commonwealth of <name type="place">Virginia</name> in the sum of the two thousand Dollars, <del type="overstrike">to which pay</del> to be paid to the said Josiah Watson, his certain Attorney, Executors, Administrators, or assigns. For which payment well and truly to be made, we lend ourselves and each of us, our and each of our heirs, executors, and administrators, jointly and severally, firmly by these presents.</p>
+            <p>Sealed with our seals and dated this <date when="1803-07-16">
+                  <add rend="different ink">sixteenth</add> day of <add rend="different ink">July —</add> in the year one thousand eight hundred and three</date>
+            </p>
+            <p>The Condition of the above obligation is such that whereas the above bounder James <unclear>Sanders left the</unclear> day of the date hereof prayed or attachment at his suit against the estate of the above named Josiah Watson for the sum of nine hundred and four Dollars and fifty two Cents, together with interest thereon from the <date when="1800-12-01">first day of December 1800</date>, and hath obtained the same returnable to the Superior Court of Law for the District of <name type="place">Mero</name> , to be held at <name type="place">Nashville</name> on the second Monday of November next; Now if the said James Sanders shall prosecute his said suit with effect, or in Case he fail therein, shall well and truly pay and satisfy to the said Josiah Watson all such costs and damages as shall be awarded and recovered against the said James <choice>
+                  <orig>Saunders</orig>
+                  <reg>Sanders</reg>
+               </choice>, his heirs, executors, or administration, in any suit or suits which may be hereafter brought for wrongfully suing out the said attachment; then the above obligation to be void, otherwise to remain in full free and effect.</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <choice>
+                        <abbr>Jas</abbr>
+                        <expan>James</expan>
+                     </choice> Sanders</emph>
+                  <add place="right of signature">
+                     <figure>
+                        <figDesc>hand drawn seal</figDesc>
+                     </figure>
+                  </add>
+               </signed>
+               <signed>Peter Moseley <add place="right of signature">
+                     <figure>
+                        <figDesc>hand drawn seal</figDesc>
+                     </figure>
+                  </add>
+               </signed>
+               <signed>
+                  <choice>
+                     <abbr>H</abbr>
+                     <expan>Huchings</expan>
+                  </choice> G Burton <add place="right of signature">
+                     <figure>
+                        <figDesc>hand drawn seal</figDesc>
+                     </figure>
+                  </add>
+               </signed>In the presence of <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+            </closer>
+            <pb n="2" facs="mp003b.small.jpg"/>
+            <closer>James <choice>
+                  <orig>Saunders</orig>
+                  <reg>Sanders</reg>
+               </choice>
+               <lb/> vs. { Afft. &amp; Bond <lb/> for Atta. <lb/> Josiah Watson <lb/> Recorded page 174</closer>
+            <pb n="3" facs="mp003c.small.jpg"/>
+         </div>
+         <div subtype="1" type="letter">
+            <head>State of Tennessee</head>
+            <head>Mero District <unclear>fs.</unclear> }</head>
+            <p> On this <add rend="different ink">sixteenth — —</add> day of <add rend="different ink">July — —</add> one thousand eight hundred and three personally appeared James <choice>
+                  <orig>Saunders</orig>
+                  <reg>Sanders</reg>
+               </choice> before me Andrew Jackson one of the Judges of the Superior Courts of law and equity for the State aforesaid, and being duly sword deposeth and saith, that Josiah Watson is justly indebted to him in the sum of nine hundred and four Dollars and fifty two Cents, with interest thereon from the first day of December one thousand eight hundred, being a balance due on a penal bond for two thousand five hundred and forty Dollars given by said Josiah Watson to a certain <name type="person">Robert Burton</name> dated the <date when="1798-05-29">twenty ninth day of May one thousand seven hundred and  ninety eight</date>, payable on the said first day of December eighteen hundred, and by the said Robert Burton assigned to him the said James Sanders for value received: And the said James further deposeth that said Josiah Watson, as he is informed and believes, is an inhabitant of the town of Alexandria and State of Virginia, so that the ordinary process of law cannot be served on him.</p>
+            <p>Sworn to &amp; subscribed the day &amp; date first above written before me }</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <choice>
+                        <abbr>Jas.</abbr>
+                        <expan>James</expan>
+                     </choice> Sanders</emph>
+               </signed>
+               <signed>
+                  <emph>Andrew Jackson</emph>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

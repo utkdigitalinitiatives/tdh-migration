@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document] 1789, Washington County, Tennessee : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc097</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal document] 1789, Washington County, Tennessee </title>
+               <date when="1789">1789</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This is a complaint letter dated 1789 filed by David Taylor concerning an unpaid debt owned by Valentine Sevier, son of Governor John Sevier.</note>
+               <note type="collection" anchored="true">John Sevier Collection</note>
+               <note type="box" anchored="true">MS-1941 b1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sc097</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Complaint letters</term>
+               <term>Debt</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc097a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Washington County</addrLine>
+               </address>
+            </opener>
+            <p>
+               <name>John Tadlock</name>
+               <choice>
+                  <orig>assine</orig>
+                  <reg>assign</reg>
+               </choice> of <name>David Taylor</name> complains of <name>Valentine Sevier </name>in custody of the Sheriff <del>
+                  <unclear>overstrike</unclear>
+               </del> for that <choice>
+                  <orig>wheras</orig>
+                  <reg>whereas</reg>
+               </choice> the <choice>
+                  <abbr>afsd.</abbr>
+                  <expan>aforesaid</expan>
+               </choice> Valentine Sevier on the eleventh day August one thousand seven hundred and eighty nine in the County <choice>
+                  <orig>aforsaid</orig>
+                  <reg>aforesaid</reg>
+               </choice> did give an Order on <name>James Stuart</name> Esquire for the sum of twenty two pounds <name>Virginia</name>
+               <choice>
+                  <orig>Currancy</orig>
+                  <reg>Currency</reg>
+               </choice> equal to twenty nine pounds six shillings and Eight pence <name>North Carolina</name>Currancy with <choice>
+                  <orig>lawfull</orig>
+                  <reg>lawful</reg>
+               </choice> Interest for the same from the year 1779 <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> paid, which <del>said</del> order the said David Taylor afterwards<abbr>vz.</abbr> on the day of in the county afsd. did assign over to John Tadlock all his right and interest <choice>
+                  <orig>therin</orig>
+                  <reg>therein</reg>
+               </choice>, which order the said Valentine Sevier faithfully promised that he would well and truly pay and satisfy unto the said David Taylor if the same should be protested by the said James Stuart, afterwardsVz. on the fourth day of <choice>
+                  <abbr>Sepr</abbr>
+                  <expan>September</expan>
+               </choice>. one thousand seven hundred Eight nine in the County afsd. he the said James Stuart the order afsd. did protest and <del type="overstrike">
+                  <unclear>altogether</unclear>
+               </del> refuse to pay nevertheless the said Valentine Sevier not ignorant of his promise and  afsd. hath neglected to pay any part or penny <choice>
+                  <orig>therof</orig>
+                  <reg>thereof</reg>
+               </choice> although often <choice>
+                  <orig>therunto</orig>
+                  <reg>thereunto</reg>
+               </choice> required. <choice>
+                  <orig>Wherfore</orig>
+                  <reg>Wherefore</reg>
+               </choice> the <choice>
+                  <abbr>sd.</abbr>
+                  <expan>said</expan>
+               </choice> John Tadlock saith he is injured to the value of one hundred pounds &amp; <choice>
+                  <orig>therfore</orig>
+                  <reg>therefore</reg>
+               </choice> sees <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </p>
+            <closer>
+               <signed>Hamilton <choice>
+                     <abbr>Atto.</abbr>
+                     <expan>Attorney</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

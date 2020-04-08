@@ -1,0 +1,101 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Communication to the Cherokees?] 1805 Oct. 27 : a machine readable transcription.</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Knoxville Special Collections Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0002</idno>
+            <idno>OCLC: 44888106</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Tennessee Special Collections Library.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Communication to the Cherokees?] 1805 Oct. 27</title>
+               <date when="1805-10-27">October 27, 1805</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a communication from an unidentified source and is ostensibly directed to the Cherokees.  The document indicates that the President of the United States desires a post road to be permitted to run through part of the Cherokee Nation, the Creek Nation and the Choctaw Nation from Knoxville (Tennessee) to New Orleans (Louisiana).  The communication further reveals the President's request that the post riders be welcomed and entertained by the nations through which they travel.  Dated October 27, 1805.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box">1</note>
+               <note type="folder">17</note>
+               <note type="document">pa0002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Georgia Libraries Electronic Text Center</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Choctaw Indians--Government relations</term>
+               <term>Creek Indians--Government relations</term>
+               <term>Southern States</term>
+               <term>Letters</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0002a.small.jpg"/>
+            <p>Brothers,</p>
+            <p>The President of the <name type="place">United States</name> has Since the acquisition of <name type="place">Louisiana</name>, at the request of the great Council of the Nation, Ordered a line of Post riders to carry the mail from <name type="place">Washington</name> to <name type="place">New Orleans</name>, to pass through part of your nation, part of the <name>Creek nation</name>,  thus, part of the <name>Choctaw Nation</name>: because it is found that it will be much nearer than to go by <name type="place">Nashville</name> the present route.  It will be through a wilderness Country  your father requests that you will assist the Post riders in pointing out the best way for them to travel,  that you will let them have such entertainment as they may want  that you will if their horses should be tired or give out on the road, let them have Horses to continue their route for all which they will pay your people in money - after they have travelled a few times they will be able to find the best way to travel when that is done Your father the President will have the path opened  made good for traveling, this will bring money into the Country  we  you will then hear the news every week from <name type="place">Washington City</name>  from the City of <name type="place">New Orleans</name>.</p>
+            <pb n="2" facs="pa0002b.small.jpg"/>
+            <p>The Post riders will come <choice>
+                  <orig>thro</orig>
+                  <reg>through</reg>
+               </choice>, <name type="place">Knoxville</name> to <name type="place">Tellico</name> and then on the present road to the <name type="place">Kannasago</name>  then the nearest  best way to Colonel Hawkins's place on <name type="place"> 
+                  <reg>River</reg> Tallapoosa</name> from thence, the best  nearest way to <name type="place">Tombigbe</name>  from thence to <name type="place">New Orleans</name>.</p>
+            <p>
+               <name type="place">Tombigbe Road</name>
+               <unclear>
+                  <choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </unclear> granted</p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <date when="1805-10-27">27 <choice>
+                     <abbr>Octo.</abbr>
+                     <expan>October</expan>
+                  </choice> 1805</date>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

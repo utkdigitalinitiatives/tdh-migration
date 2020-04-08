@@ -1,0 +1,118 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl570">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1812 Mar. 23, 3 Springs [to] James Winchester / Thomas Johnson   : a machine readable transcription of an image</title>
+            <author>Johnson, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl570</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1812 Mar. 23, 3 Springs [to] James Winchester / Thomas Johnson</title>
+               <author>Johnson, Thomas</author>
+               <date when="1812-03-23">March 23, 1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated March 23, 1812 from Thomas Johnson to General James Winchester.  In the letter, Johnson writes of the impending war with the British, and Volunteer militia service in what would be known as the War of 1812.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl570</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>War of 1812</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2002001900"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Johnson, Thomas, 1766-1826</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl570a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>3 Springs</addrLine>
+               </address>
+               <date>March 23<choice>
+                     <abbr>d </abbr>
+                     <expan>rd</expan>
+                  </choice>1812</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>
+               <name>William C. Conrad</name> &amp; his attorney <choice>
+                  <abbr>M</abbr>
+                  <expan>Mister</expan>
+               </choice>. Tarm has promised me, to confess <choice>
+                  <orig>judgemens</orig>
+                  <reg>judgements</reg>
+               </choice> on the notice of yours which I have in possession at our circuit court the second monday in next month, on that promise I have a confident reliance; I will attend to it particularly for you, and have it done as well as if you <choice>
+                  <orig>war</orig>
+                  <reg>were</reg>
+               </choice> present__</p>
+            <p>On the return of the <name>Hornet</name> no doubt war will be declared; I hope the return of our patriotic fellow citizens who tender their services as Volunteers will reach the President before we accept the 50.000.   authorized by Ian.  otherwise they will be deprived of participating in a contest which is to avenge our country's wrongs &amp; no doubt you will have the pleasure of  marching at the head of a Brigade <pb n="2" facs="sl570b.small.jpg"/> It would be extremely pleasing to me if I should be so fortunate as to participate in the glory of that campaign__ I hope, if war should be declared, that we shall have <add>the</add> pleasure of eating together, fish out of the lakes__</p>
+            <closer>I am with esteem your <choice>
+                  <abbr>Obedt Servt</abbr>
+                  <expan>Obedient Servant</expan>
+               </choice>
+               <signed>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. Johnson</signed>
+               <add>general <choice>
+                     <abbr>Ja</abbr>
+                     <expan>James</expan>
+                  </choice>. Winchester__</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl749">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 Apr. 5, Knoxville [Tennessee, to] Jos[eph] Anderson / [John Sevier] : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl749</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1798 Apr. 5, Knoxville [Tennessee, to] Jos[eph] Anderson / [John Sevier]</title>
+               <author>Sevier, John</author>
+               <date when="1798-04-05">April 5, 1798</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Joseph Anderson dated April 5, 1798. The author is probably Governor John Sevier. Sevier is writing responses to Anderson's last letter. He  mentions Judge David Campbell (whose arrest caused some disagreement). Sevier also states that he hopes Tennessee's border is the Tennessee River, as that would be best for the state's prosperity.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl749</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Politics</term>
+               <term>Letters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl749a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>April 5th 1798</date>.</addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>yours of the 2nd <choice>
+                  <abbr>ulto</abbr>
+                  <expan>ultimo</expan>
+               </choice> I have been <choice>
+                  <abbr>hond</abbr>
+                  <expan>honored</expan>
+               </choice> with and am highly pleased with the measures you and your colleagues have taken respecting the affair of <name>Judge Campble</name>__ I am happy to learn, that the secretary at war gives <del type="overstrike">you</del> assurances, that he will expedite and forward on the treaty, as it is a thing much to be wished, the people being very uneasy &amp; <del type="overstrike">much</del>
+               <add>greatly</add> distressed occasioned by their removal__ It affords me much satisfaction to find that the president is so well disposed towards the interest of <name>Tennessee</name>, if he should continue favorable, and direct the commissioners to <del type="overstrike">do provide for</del>
+               <add>promote</add> as much as in them lies <del type="overstrike">for</del> the interest of this state, it will so permanently <del type="overstrike">fix</del>
+               <add>please</add> the confidence of the people in that character, that his interest, will for ever be <del type="overstrike">the sincere wish of the people of this country</del>
+               <add>dear to them_____</add>____ <pb n="2" facs="sl749b.small.jpg"/> I earnestly hope, that Tennessee river will be made the line, <del type="overstrike">and</del> nothing short of which, can possibly place the state <del type="overstrike">of Tennessee</del> on <add>a</add> footing adequate to the <del type="overstrike">promotion</del>
+               <add>welfare</add>, and cultivation of its local &amp; natural advantages___</p>
+            <closer>
+               <salute>I have the honor to be sir <lb/> with every sentiment of Respect &amp; Esteem <lb/> Your <choice>
+                     <abbr>obed. servt.</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <add>John Sevier</add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <lb/>
+                     <choice>
+                        <abbr>Jos.</abbr>
+                        <expan>Joseph</expan>
+                     </choice> Anderson</addrLine>
+               </address>
+               <add>copy to the Honble <lb/> Mr. Anderson <lb/> 5 April 1798 <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 19</add>
+               <add>Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

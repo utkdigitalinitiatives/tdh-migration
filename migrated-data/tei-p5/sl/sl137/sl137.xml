@@ -1,0 +1,183 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl137">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1814 Jan. 31, Fort Strother, [TN] [to] Maj[o]r General John Cocke, Knoxville, East Tennessee / Major Gen[era]l Andrew Jackson   : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl137</idno>
+            <idno>OCLC: 50548400</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1814 Jan. 31, Fort Strother, [TN] [to] Maj[o]r General John Cocke, Knoxville, East Tennessee / Major Gen[era]l Andrew Jackson   </title>
+               <author>Jackson, Andrew </author>
+               <date when="1814-01-31">January 31, 1814</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated January 31, 1814, from Andrew Jackson at Fort Strother to John Cocke in Knoxville. Jackson sends this military order during the War of 1812, telling Cocke not to march his army until he has weapons for them. He gives  his opinion about the dismissal of a general named Ratliff and the seizure of his property.</note>
+               <note type="collection" anchored="true">John Cocke Papers V-J-3</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">F:8</note>
+               <note type="document" anchored="true">sl137</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military supplies</term>
+               <term>Military planning</term>
+               <term>United States -- History -- War of 1812</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl137a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Headquarters <name type="place">Fort Strother</name>
+                     <choice>
+                        <abbr>Jany</abbr>
+                        <expan>January</expan>
+                     </choice> 31st 1814</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Majr Genl</abbr>
+                           <expan>Major General</expan>
+                        </choice> Cocke</name>
+                  </addrLine>
+               </address>
+               <salute> Sir,</salute>
+            </opener>
+            <p>yours of the <date when="1814-01-16">16th <choice>
+                     <abbr>Inst.</abbr>
+                     <expan>Instant</expan>
+                  </choice>
+               </date>  I have received you had reported to me that the time of service of <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Lillard</name>s <choice>
+                  <abbr>reg't</abbr>
+                  <expan>regiment</expan>
+               </choice> would expire on the <date when="1814-01-14">14th <choice>
+                     <abbr>Inst.</abbr>
+                     <expan>Instant</expan>
+                  </choice>
+               </date>— They were  ordered to return on the 12th and were no doubt near <name type="place">Knoxville</name> previous to the <choice>
+                  <orig>reciept</orig>
+                  <reg>receipt</reg>
+               </choice> of your letter requesting me to detain the arms that were in his possession —</p>
+            <p>You will use every exertion to have your men armed — They are a useless burthen to the government without arms and need not be marched into the field unless you can procure them.</p>
+            <p>It appears from your letter of the <date when="1814-01-10">10th <choice>
+                     <abbr>Inst.</abbr>
+                     <expan>Instant</expan>
+                  </choice>
+               </date> that old <name type="person">Ratliff</name> is dismissed, his property of  course must have been given up — that being the case nothing now remains but to restore the property of the whooping boy &amp; <unclear>Duck</unclear>
+            </p>
+            <p>I have not time to reply to your letter in full at this time — I will barely remark, that <choice>
+                  <orig>altho</orig>
+                  <reg>although</reg>
+               </choice> I had some <choice>
+                  <orig>suspisions</orig>
+                  <reg>suspicions</reg>
+               </choice> against <name type="person">Ratlif</name>, yet neither the papers found in his or <name type="person">Catawba</name>'s possession or any thing I could <pb n="2" facs="sl137b.small.jpg"/> learn respecting his conduct would Justify <emph>me</emph> in arresting him — and if the <choice>
+                  <orig>proff</orig>
+                  <reg>proof</reg>
+               </choice> had been sufficient to arrest him, it would not  Justify a <choice>
+                  <orig>convescation</orig>
+                  <reg>confiscation</reg>
+               </choice> of his property — or a <choice>
+                  <orig>seesure</orig>
+                  <reg>seizure</reg>
+               </choice> thereof —</p>
+            <p>On the arrival of the troops at <name type="place">Ross</name> 's the commanding officer will report to me at which point they will receive my orders —</p>
+            <closer>
+               <salute>I am respectfully <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph> Major <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </signed>
+               <add place="lower left corner">
+                  <name type="person">Major <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice> John Cocke</name>
+               </add>
+               <pb n="3" facs="sl137c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Majr</abbr>
+                           <expan>Major</expan>
+                        </choice> General John Cocke</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">East Tennessee</name>
+                     <add place="left of address">Express { {</add>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc230">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 May 9 [to] Robert Armstrong, Knoxville, Tennessee / James C. Luttrell : a machine readable transcription of an image</title>
+            <author> Luttrell, James C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc230</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 May 9 [to] Robert Armstrong, Knoxville, Tennessee / James C. Luttrell </title>
+               <author>Luttrell, James C</author>
+               <date when="1819-05-09">May 9, 1819</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This is a letter dated May 9, 1819 from James C. Luttrell to Robert Armstrong regarding the balance due on some land Luttrell bought from him.</note>
+               <note type="collection" anchored="true">James C. Luttrell Letter</note>
+               <note type="box" anchored="true">MS-1967</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Real property</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Luttrell, James C.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc230a.small.jpg"/>
+            <opener>
+               <date>May 9th 1816</date>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>I called on <name>Thomas Brown</name> a few days ago for the purpose of obtaining the amount I  was in due you, when he informed me he had paid you Twenty dollars at last count, he also informed me if I would give you an order on him for what ever I was indebted to you that he would make all investing to pay you, and expects to be able to pay the same in a very short time inclosed is an order for $63.75 cents_ which after giving me credit for the $20 dollars you <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice>. from Mr. Brown and thirty Dollars on account of that land in the Fork is about the sum I owe you agreeable to the memorandum I have in my possession I was in due you $ 110.75 take fifty dollars <pb n="2" facs="sc230b.small.jpg"/> from that sum and there remains Sixty three Dollars and Seventy five cents. Should there be any mistake made by me I shall at all times be ready to rectify it_</p>
+            <closer>
+               <salute>I am Sir yours Respectfully</salute>
+               <signed>
+                  <name>James C. Luttrell</name>
+               </signed>
+               <add>
+                  <name>Robert Armstrong <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>.</name>
+               </add>
+               <pb n="3" facs="sc230c.small.jpg"/>
+               <add>
+                  <name>James C. Luttrell</name>
+                  <name>Robert Armstrong Esqr</name>
+                  <address>
+                     <addrLine>
+                        <name>Knox County</name>
+                        <name>Tennessee</name>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

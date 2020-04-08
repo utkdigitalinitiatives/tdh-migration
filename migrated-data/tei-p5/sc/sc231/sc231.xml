@@ -1,0 +1,139 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc231">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 Oct. 15, Knoxville [to] Andrew Jackson, District Mero / John Stone : a machine readable transcription of an image</title>
+            <author> Stone, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc231</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 Oct. 15, Knoxville [to] Andrew Jackson, District Mero / John Stone</title>
+               <author>Stone, John</author>
+               <date when="1798-10-15">October 15, 1798</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This is a letter dated October 15, 1798 from John Stone to Andrew Jackson regarding the sale of land to himself and Colonel Martin Armstrong.</note>
+               <note type="collection" anchored="true">John Stone Letter</note>
+               <note type="box" anchored="true">MS-1963</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc231</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Real property</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Stone, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc231a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <date>15th Oct 1798</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have take the liberty to trouble you with the business I mentioned_</p>
+            <p>
+               <name>General Winchester</name> will deliver you <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Martin Armstrong</name>s obligations for two thousand five hundred acres of land, If he will make good titles <pb n="2" facs="sc231b.small.jpg"/> to good land in or near the settlement on <unclear>Station</unclear>
+               <name>Camp Bledsoes</name> or <name>Goon Creek</name> I would take two 640 acre tracks provided the titles are made without delay, and without any further trouble</p>
+            <p>Your attention to this business will very much <add>oblige</add> me besides making <pb n="3" facs="sc231c.small.jpg"/> you any satisfaction in my Power_</p>
+            <closer>
+               <salute>I am Sir your <choice>
+                     <abbr>obt Servt</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>John Stone</name>
+               </signed>
+               <add>The Honorable <choice>
+                     <abbr>A</abbr>
+                     <expan>Andrew</expan>
+                  </choice>. Jackson <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </add>
+               <pb n="4" facs="sc231d.small.jpg"/>
+               <add>The Honorable <lb/>
+                  <name>Andrew Jackson </name>
+                  <choice>
+                     <abbr>Esq</abbr>
+                     <expan>Esquire</expan>
+                  </choice>.<lb/>
+                  <name>District Mero</name>
+               </add>
+               <add>John Stones letter and obligation on M. Armstrong</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

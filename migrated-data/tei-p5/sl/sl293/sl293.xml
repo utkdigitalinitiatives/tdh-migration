@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl293">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Nashville, Tenn[essee] [to] A. Ferguson, Carthage, Tenn[essee]    : a machine readable transcription of an image</title>
+            <author>[unknown]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl293</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1849 Nashville, Tenn[essee] [to] A. Ferguson, Carthage, Tenn[essee]</title>
+               <author>[unknown]</author>
+               <date when="1849-07-24">July 24, 1849</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is  a letter to Adam Fergusson dated July 24, 1849. The author's name is not clear. The author is requesting that Fergusson settle a debt with him so that he will have  more money for an upcoming move.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1 b2</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl293</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Fergusson, Adam 1783-1862.</term>
+               <term>Debt service</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">unknown</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl293a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>July 24 1849</date>
+                  </addrLine>
+                  <addrLine>Mr <name>
+                        <choice>
+                           <abbr>A</abbr>
+                           <expan>Adam</expan>
+                        </choice>
+                        <choice>
+                           <orig>Ferguson</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Excuse me for troubling you with this note but as I wish to start East about the first of August will want all the funds that I can possibly get you will therefore <choice>
+                  <orig>doe</orig>
+                  <reg>do</reg>
+               </choice> us the <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> to remit the amount of your account</p>
+            <p>Times have been so hard here this summer that we find ourselves almost unable to make our arrangements for the fall trade</p>
+            <p>we hope you will find it convenient to comply with our request and that we will receive a <unclear>centimment</unclear> of you favour</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <orig>Verry</orig>
+                     <reg>very</reg>
+                  </choice> respectfully <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and etcetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <unclear>T L Legger</unclear>
+               </signed>
+               <add place="bottom of page">Amount of <unclear>owe</unclear> $ 57 25</add>
+               <pb n="2" facs="sl293b.small.jpg"/>
+               <address>
+                  <addrLine>A Ferguson <choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name>Carthage</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

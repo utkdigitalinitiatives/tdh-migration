@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0203">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1806 Mar. 5 to Col[onel] Return J. Meigs / The Glass...[et. al.] : a machine readable transcription of an image</title>
+            <author>The Glass</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0203</idno>
+            <idno type="OCLC">OCLC: 45822060</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1806 Mar. 5 to Col[onel] Return J. Meigs / The Glass...[et. al.]</title>
+               <author>The Glass</author>
+               <date when="1806-03-05">March 5, 1806</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter dated march 5, 1806 from Cherokee headmen The Glass, Dick Justice, John (Bogs?), and Charles Hicks (acting as interpreter) to the United States Agent to the Cherokees, Colonel Return J. Meigs. The letter requests that Meigs pay, with Cherokee funds, the one hundred and fifty dollar fee owed to a doctor. Dr. McNeil was sent to inoculate the Cherokee without their request.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0203</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Health and hygiene</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Southern states</term>
+               <term>Smallpox</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">The Glass</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0203a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <date>March 5th 1806</date>
+               </dateline>
+               <salute>Brother.</salute>
+            </opener>
+            <p>as we have not employed <choice>
+                  <orig>Docter</orig>
+                  <reg>Doctor</reg>
+               </choice>
+               <name>McNeil</name> to <choice>
+                  <orig>innoculate</orig>
+                  <reg>inoculate</reg>
+               </choice> our peoples, which is <choice>
+                  <orig>oweing</orig>
+                  <reg>owing</reg>
+               </choice> to the <choice>
+                  <orig>empossibilily</orig>
+                  <reg>impossibility</reg>
+               </choice> of the patients attending to the <choice>
+                  <orig>Docters</orig>
+                  <reg>Doctor's</reg>
+               </choice>
+               <unclear>directions</unclear> therefore you will please to pay the <choice>
+                  <orig>Docter</orig>
+                  <reg>Doctor</reg>
+               </choice>
+               <name>McNeils</name> Charges which is one Hundred &amp; fifty Dollars &amp; Charge it to the nation.</p>
+            <p>we did not Expect to have seen the <choice>
+                  <orig>docter</orig>
+                  <reg>doctor</reg>
+               </choice> here, as we never sent for one - </p>
+            <closer>
+               <salute>we are your Brothers</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Chas</abbr>
+                        <expan>Charles</expan>
+                     </choice> Hicks</name>
+                  <lb/>
+                  <unclear>Interpreter</unclear>
+                  <lb/>
+                  <name>The <add>his</add>
+                     <add>mark</add> x Glass</name>
+                  <lb/>
+                  <name>Dick <add>his</add>
+                     <add>mark</add> x Justice</name>
+                  <lb/>
+                  <name>John <add>his</add>
+                     <add>mark</add> x Bogs</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Return J Meigs</name>
+                  <lb/>Agent of War</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="pa0203b.small.jpg"/>
+            <p>
+               <name>Dr. McNeils</name>
+               <lb/> order $150.00</p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,280 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Sept. 7 [to] John C. Calhoun, Secretary of War / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl024</idno>
+            <idno>OCLC: 50015000</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Sept. 7 [to] John C. Calhoun, Secretary of War / Andrew Jackson </title>
+               <author>Jackson, Andrew</author>
+               <date when="1819-09-07">September 7, 1819</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated September 7, 1819 to John C. Calhoun, Secretary of War from Andrew Jackson reporting on various matters including the arrest of Colonel King, and a order made by the assistant surgeon general.</note>
+               <note type="collection" anchored="true">Andrew Jackson Letters</note>
+               <note type="folder" anchored="true">Correspondence by author, b1</note>
+               <note type="document" anchored="true">J</note>
+               <note type="document" anchored="true">sl024</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military offenses</term>
+               <term>Colonel King</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl024a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1819-09-07"> 7 <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 1819</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have the honor to <choice>
+                  <orig>acknowlege</orig>
+                  <reg>acknowledge</reg>
+               </choice> the <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> of <choice>
+                  <abbr>yr</abbr>
+                  <expan>year</expan>
+               </choice> letter of the 10th <choice>
+                  <abbr>Uti</abbr>
+                  <expan>Ultima</expan>
+               </choice> with its enclosure </p>
+            <p>On the <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> thereof I referred it to the<choice>
+                  <abbr> asst</abbr>
+                  <expan>assistant</expan>
+               </choice>
+               <choice>
+                  <orig>Surgion</orig>
+                  <reg>Surgeon</reg>
+               </choice> general for his report <choice>
+                  <orig> therean</orig>
+                  <reg>therein</reg>
+               </choice>. Shortly after I was attacked with my old complaint, with unusual violence, that confined me to my bed, and from which I am just recovering, much emancipate &amp; debilitated. <choice>
+                  <orig>yesturday</orig>
+                  <reg>yesterday</reg>
+               </choice> was the first day, that I could sit so long as to write even a short note, which will account to you for the delay attendant on my <choice>
+                  <orig>aswer</orig>
+                  <reg>answer</reg>
+               </choice>.</p>
+            <p>I herewith enclose you the <choice>
+                  <abbr>asst</abbr>
+                  <expan>assistant</expan>
+               </choice>
+               <choice>
+                  <orig>Surgion</orig>
+                  <reg>Surgeon</reg>
+               </choice> General's report, from which you will find, that there never did exist such a Division order as <name type="person">Doctor Gale</name> refers to in his report.</p>
+            <p>The order of the <date when="1816-08-21">21st August 1816</date> was long previous to the present organization of the Medical Staff — That of the <date when="1818-08-18">18 August 1818</date> was merely to change the reports required to be made to the <choice>
+                  <abbr>Asst.</abbr>
+                  <expan>Assistant</expan>
+               </choice> Generals office, to that of the <choice>
+                  <abbr>Asst. </abbr>
+                  <expan>Assistant</expan>
+               </choice>
+               <choice>
+                  <orig>Surgion</orig>
+                  <reg>Surgeon</reg>
+               </choice> general's of Division These reports were intended for my own information as to the health of the army, and did not, nor were intended to have interference with the orders of the <choice>
+                  <orig>Surgion</orig>
+                  <reg>Surgeon</reg>
+               </choice> General. From the orders <del type="overstrike">required</del>
+               <pb n="2" facs="sl024b.small.jpg"/>
+               <del type="overstrike">to be made</del> of <choice>
+                  <abbr>Surgn</abbr>
+                  <expan>Surgeon</expan>
+               </choice> General, I discovered that  no report was ordered to be made to me. It was not only my duty, but all important for me to know the state, condition, and health of my troops; and have the Medical Staff performed their duty; that if — neglect existed, a speedy remedy might be applied, for without the health of an army be preserved it cannot be effective; and to have <choice>
+                  <abbr>knowlge</abbr>
+                  <expan>knowledge</expan>
+               </choice> of  this without lending in the least to interfere with the <choice>
+                  <abbr>Surgn</abbr>
+                  <expan>Surgeon</expan>
+               </choice> Generals Department was my alone object</p>
+            <p>Your order directing the <choice>
+                  <orig>arest</orig>
+                  <reg>arrest</reg>
+               </choice> of <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> King</name>  4th Infantry come duly to hand, &amp; has been promptly attended to, of which you have been advised by my <choice>
+                  <abbr>adjt.</abbr>
+                  <expan>adjutant</expan>
+               </choice> General. <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Gaines</name> has communicated to me the <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> of the orders to him, on this subject, &amp; of his prompt attention thereto. Will you permit me to remark that the manner of the arrest of <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> King is I think without precedent. Permitting subordinate officers, charged with high military offenses, — under arrest, &amp; a court ordered for their trial, to prefer charges against their superior, and to send them to you contrary to <choice>
+                  <orig>possitive</orig>
+                  <reg>positive</reg>
+               </choice> rule; <add place="supralinear">
+                  <figure>
+                     <figDesc>drawing that represents a footnote</figDesc>
+                  </figure>
+               </add> &amp; at the same time, the trial of the <emph>subordinate to be suspended until after the trial</emph>
+               <add place="bottom of page">
+                  <figure>
+                     <figDesc>drawing that represents a footnote</figDesc>
+                  </figure>
+               </add> Art of War. 34 &amp; 1st <choice>
+                  <abbr>sent. mil. correpce</abbr>
+                  <expan>sentence military correspondence</expan>
+               </choice> p.55 <pb n="3" facs="sl024c.small.jpg"/> of the superior is had, is to destroy all subordination in the army. This precedent may be insisted on in cases hereafter, and will produce the worst <choice>
+                  <orig>consiquences</orig>
+                  <reg>consequences</reg>
+               </choice>, exciting subordinate officers in all  like cases to prefer charges against their superiors by way of revenge, &amp; to procrastinate their own fate</p>
+            <p>I have also the honor to <choice>
+                  <orig>acknowlge</orig>
+                  <reg>acknowledge</reg>
+               </choice> the <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> of your <choice>
+                  <abbr>adjt.</abbr>
+                  <expan>adjutant</expan>
+               </choice> &amp; Inspector <choice>
+                  <abbr>Genls.</abbr>
+                  <expan>Generals</expan>
+               </choice> letter of the 10th <choice>
+                  <abbr>ult </abbr>
+                  <expan>ultimo</expan>
+               </choice> with its enclosures. Before its <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice>
+               <name type="person">B <choice>
+                     <abbr>Brig Genl</abbr>
+                     <expan>Brigadier General</expan>
+                  </choice> Bissel</name> had been detailed on the court for trial of <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> King. I have ordered him to join his regiment on a dissolution of the court, &amp; duplicate orders are sent to him</p>
+            <p>I expect to be be compelled to prefer charges against <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Ripley</name>, which if I do will be laid before you, for your consideration; when a detail of either a full court from the Northern Division; or a President for the court now detailed for the trial of <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> King will be necessary, as there is no officer in my division of <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Ripleys grade that can preside.... I can not get a report from him on the subject of the <unclear>relatory?</unclear> road, or how the troops are, or have been, employed</p>
+            <closer>
+               <salute>I am very respectfully <choice>
+                     <abbr>yo mo obt sert</abbr>
+                     <expan>your most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name>Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>The <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <name>J.C. Calhoun}</name>
+                     <choice>
+                        <abbr>sec</abbr>
+                        <expan>secretary </expan>
+                     </choice> of war}</addrLine>
+               </address>
+               <pb n="4" facs="sl024d.small.jpg"/> Nashville<date> 7 <choice>
+                     <abbr>Sept.</abbr>
+                     <expan>September</expan>
+                  </choice> 1819</date>
+               <name>
+                  <abbr>Genl. A.</abbr>  Jackson</name>Acknowledge the receipt of letter 10 <choice>
+                  <abbr>ulto</abbr>
+                  <expan>ultimo</expan>
+               </choice> &amp; reports relative to the Medical <choice>
+                  <abbr>Dept</abbr>
+                  <expan>Department</expan>
+               </choice>— On the subject of <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Kings' arrest— Shall prefer charges <choice>
+                  <abbr>agt.</abbr>
+                  <expan>against</expan>
+               </choice>
+               <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Riply.—</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

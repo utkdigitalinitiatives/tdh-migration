@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl180">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 June 26, Memphis [TN]  [to] Joseph Brown, Maury County, Tenness[ee]  / James Brown   : a machine readable transcription of an image</title>
+            <author>Brown, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl180</idno>
+            <idno>OCLC: 51173358</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 June 26, Memphis [TN]  [to] Joseph Brown, Maury County, Tenness[ee]  / James Brown   </title>
+               <author>Brown, James</author>
+               <date when="1850-06-26">June 26, 1850</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from James Brown to his father Colonel Joseph Brown dated June 26, 1850. James Brown enclosed a check for 195.00 dollars for a business matter and updated his father on his crop losses.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers THS-JB</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">171-180</note>
+               <note type="document" anchored="true">sl180</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Crop losses</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brown, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl180a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                  </addrLine>
+               </address>
+               <date when="1850-06-26">26th June 1850</date>
+               <salute>Dear Father</salute>
+            </opener>
+            <p>Enclosed I send you a check for one hundred and <choice>
+                  <orig>ninty</orig>
+                  <reg>ninety</reg>
+               </choice> five dollars for <name type="person">Mr Love</name> on account of advances for <name type="person">Randolph</name>,  I presumed it had been sent long before this, but <name type="person">Mrs McGeehe</name> had some reluctance to mention the case to <name type="person">Mr  McGeehe</name> &amp; there you awaited the seeing of me to forward the <choice>
+                  <orig>mony</orig>
+                  <reg>money</reg>
+               </choice> as she <choice>
+                  <orig>prefered</orig>
+                  <reg>preferred</reg>
+               </choice> not to acqua<add place="supralinear">i</add>t him with the circumstances of the case <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice> my <choice>
+                  <orig>ingagents</orig>
+                  <reg>engagements</reg>
+               </choice> of home &amp; the high stage of the waters have prevented me from seeing him <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> a few days since</p>
+            <p>I left all well when I left home, have been down to the <choice>
+                  <abbr>Miss</abbr>
+                  <expan>Mississippi</expan>
+               </choice> River plantation, my stand of cotton on that place some what injured by high water though I have some 200 or more acres of good stand My stand at <name type="place">Clear Creek</name> a little over a half stand &amp; at <name type="place">Pondu place</name> about ¾ of a stand, which is about a <unclear>pore</unclear> specimen of the country and all some weeks later than usual, with an ⁁ <add place="supralinear">extra</add>
+               <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> summer &amp; fall the crop may reach last year, but the probabilities are that it cannot not be much over ½ of a full crop corn is only tolerable, please acknowledge the receipt of the draft</p>
+            <closer>
+               <salute>Yours truly</salute>
+               <signed>
+                  <name type="person">James Brown</name>
+               </signed>
+               <pb n="2" facs="sl180b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice>  Joseph Brown</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <unclear>Cept</unclear> MM Lane</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Cave Springs</name>
+                     <choice>
+                        <abbr>P.O.</abbr>
+                        <expan>Post Office</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Maury County</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="across cover ">James Brown letter <date when="1850-06-26">26 June 1850</date> $195.</add>
+               <add place="across cover">answered on its reception <date when="1850-07-01">1st July 1850</date> postmark</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

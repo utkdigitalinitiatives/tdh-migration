@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Dec. 8, Nashville [to] Charles F. Welcker, Talladega, Alabama / R. J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, R. J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc050</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Dec. 8, Nashville [to] Charles F. Welcker, Talladega, Alabama / R. J. Meigs</title>
+               <author>Meigs, R. J.</author>
+               <date when="1837-12-08">December 8, 1837</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 8, 1837, from R. J. Meigs in Nashville  to Charles F. Welcker in Talladega, Alabama.  Meigs is writing in response to an inquiry of Welcker's regarding the currency exchange rate between Tennessee, Alabama, and Kentucky money. </note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">1837</note>
+               <note type="document" anchored="true">mc050</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p/>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Currency convertibility</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc050a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>, <date>December 8, 1837</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir:</salute>
+            </opener>
+            <p>I this moment received your letter of the 25th of November, asking "what per cent, if any you would probably have to give between <name>Tennessee</name> or <choice>
+                  <abbr>Ala.</abbr>
+                  <expan>Alabama</expan>
+               </choice> paper, to obtain Seven or eight thousand dollars in <name>Kentucky</name> paper?"</p>
+            <p>I find on enquiry, that Kentucky paper sold today at 10 per cent for Tennessee; and the brokers say it varies from 9 to 10.  They buy in small amounts at 8, and sell at 9 or 10.  One to whom I spoke said he could accommodate you with 7 or 8 thousand dollars at almost any time in Kentucky paper for Tennessee &amp; <name>Alabama</name> at 10, or in U.S. paper, so as to enable you to get Kentucky paper at about the same difference.  The difference between U.S. paper &amp; <choice>
+                  <abbr>Ky.</abbr>
+                  <expan>Kentucky</expan>
+               </choice> here is 2, so that you would have to pay 12 for U.S. in <choice>
+                  <abbr>Ten.</abbr>
+                  <expan>Tennessee</expan>
+               </choice> or Ala. paper.</p>
+            <p>Give my respects to <unclear>Chilton</unclear>, Hogan, <name>
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Bradford</name> their families, and all my friends.</p>
+            <closer>
+               <salute>Yours truly</salute>
+               <signed>
+                  <name>R. J. Meigs</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>Mr. Charles F. Welcker</name>.</addrLine>
+               </address>
+               <pb n="2" facs="mc050b.small.jpg"/>
+               <address>
+                  <addrLine>Mr. Charles F. Welcker</addrLine>
+                  <addrLine>
+                     <name>Talladega</name>
+                  </addrLine>
+                  <addrLine>Alabama</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

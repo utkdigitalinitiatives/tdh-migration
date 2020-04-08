@@ -1,0 +1,245 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl772">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1825 Dec. 5, Harpeth, Tennessee [to] W[illia]m Carroll, Tennessee  / Newton Cannon : a machine readable transcription of an image</title>
+            <author>Cannon, Newton</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl772</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1825 Dec. 5, Harpeth, Tennessee [to] W[illia]m Carroll, Tennessee  / Newton Cannon</title>
+               <author> Cannon, Newton</author>
+               <date when="1825-12-05">December 5, 1825</date>
+               <extent>6p</extent>
+               <note type="summary" anchored="true">This is a letter from Colonel Newton Cannon to Governor William Carroll, dated December 5, 1825. This is Cannon's survey report from where he worked with other engineers on the route for the  proposed national road from Washington D.C. to New Orleans. Cannon lists  the cities and rivers they cross, including the Cherokee Nation. He also gives details about the quality of the land. Cannon  mentions the route the other engineers took before he met up with them in Knoxville.</note>
+               <note type="collection" anchored="true">Governor William Carroll Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl772</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Cannon, Newton, 1781-1841</term>
+               <term>Surveying</term>
+               <term>National road</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr93017180"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Cannon, Newton, 1781-1841</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl772a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Harpeth</name>
+                     <date>
+                        <choice>
+                           <abbr>Decr</abbr>
+                           <expan>December</expan>
+                        </choice> 5th 1825</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Having returned home from the duty <choice>
+                  <abbr>assignd</abbr>
+                  <expan>assigned</expan>
+               </choice> me for the present, in aiding the engineers of the <name>united states</name> in the examination of the route for the national road from <name>Washington City</name> to <name>New orleans</name>passing through our State. I deem it proper to communicate to you the result of the examination that has been made</p>
+            <p>The engineers commencing at Washington City <choice>
+                  <abbr>passd</abbr>
+                  <expan>passed</expan>
+               </choice> along East of the blue ridge to Rock Fish Gap where they <choice>
+                  <abbr>crossd</abbr>
+                  <expan>crossed</expan>
+               </choice> over into the valley west of the ridge<choice>
+                  <orig> leaveing</orig>
+                  <reg>leaving</reg>
+               </choice>
+               <name>Staunton</name> on their right passing through <name>Lexington</name>
+               <name>Salem</name>. <name>Christiansburg</name>
+               <name>Wythe</name> and <name>Abbingdon</name> in the State of <name>Virginia</name> thence pursuing the Stage road through <name>Blountsville</name>. <name>Rogersville</name> and <name>Rutledge</name> in <name>Tennessee</name> to <name>Knoxville</name> where I <choice>
+                  <abbr>Joind</abbr>
+                  <expan>Joined</expan>
+               </choice> them on the evening of the 22d <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice>, <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice>
+               <name>Pousin</name> immediately made me acquainted with the orders and instructions from the <choice>
+                  <abbr>Dept</abbr>
+                  <expan>Department</expan>
+               </choice> under which he acted, from which it was obvious that the Several routes so  interesting to the people in the different Sections of our State could not now be <choice>
+                  <abbr>examind</abbr>
+                  <expan>examined</expan>
+               </choice>. and from the further information obtained from the engineers in relation to the other two routes that have been examind South and East of the mountains I was fully <choice>
+                  <abbr>impressd</abbr>
+                  <expan>impressed</expan>
+               </choice> with the opinion that the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> interest <add>of</add>our state (for the present) <pb n="2" facs="sl772b.small.jpg"/> would be promoted by pursuing from Knoxville the nearest and best route leading in the direction for New orleans so as to make, if possible, this route the nearest and best for the construction of the road. whereby it would be most likely to obtain the preference over the other two routes, with which it must be held in view, we are now in competition, at the same time I believe not entirely without some prospect of Success. To effect this object to the utmost extent that was practicable in the very <unclear>expeditious</unclear> examination the <choice>
+                  <orig>enginiers</orig>
+                  <reg>engineers</reg>
+               </choice> are instructed at this time to make I found it necessary to call to my aid <choice>
+                  <abbr>Maj</abbr>
+                  <expan>Major</expan>
+               </choice>
+               <name>Thol Brown</name> of Kingston who had an entire knowledge of the country not only along the route we <choice>
+                  <abbr>Viewd</abbr>
+                  <expan>Viewed</expan>
+               </choice> but also that Leading through the Tennessee and <name>Wills town</name> Valleys. and whose information in this respect was of considerable importance to us. He Joind us at Campbells station. and continued with us a small distance after we crossd the <name>Highwassee river</name>, where we were <choice>
+                  <abbr>furnishd.</abbr>
+                  <expan>furnished</expan>
+               </choice> by <choice>
+                  <abbr>Colo</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <name>Montgomery</name> the agent <add>with</add> an interpreter and guide through the <name>cherokee nation</name>, I <choice>
+                  <abbr>continud</abbr>
+                  <expan>continued</expan>
+               </choice> on with the engineers <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> we crossd the Southern boundary of our State into that part of the Territory of <name>Georgia</name> inhabited by the cherokees on the head waters of the <name>chickamaggy</name> near the South Eastern part of the <name>Lookout Mountain</name> from, which place <pb n="3" facs="sl772c.small.jpg"/> believing I could render the engineers very little Service in regard to the Selection of a route the course they were pursuing I <choice>
+                  <abbr>returnd</abbr>
+                  <expan>returned</expan>
+               </choice> home</p>
+            <p>From Knoxville the route we have examind pursues the western stage road to Campbells station 15 miles the three first miles broken Hilly ground though the Hills can be<choice>
+                  <abbr> passd</abbr>
+                  <expan>passed</expan>
+               </choice> by an ascent of 4 degrees, without Lengthening the road much the remaining distance rolling and Genl direction <choice>
+                  <abbr>Wt</abbr>
+                  <expan>West</expan>
+               </choice>
+               <choice>
+                  <abbr>So.</abbr>
+                  <expan>South</expan>
+               </choice> Wt. the Soil red  Clay and Sandy in places Timber oak and Hickory and no bridges are <choice>
+                  <abbr>deemd</abbr>
+                  <expan>deemed</expan>
+               </choice> necessary over the small streams that is crossd in that distance</p>
+            <p>From Campbells Station to <name>New Philadelphia</name> 20 &amp; 1/2 miles the road crosses three small creeks <choice>
+                  <orig>niether</orig>
+                  <reg>neither</reg>
+               </choice>
+               <choice>
+                  <orig>requireing</orig>
+                  <reg>requiring</reg>
+               </choice> Bridges and the <name>Tennessee river</name> at Blairs Ferry below the mouth of Holstein requiring a Bridge of 400 yards the fair of the country gently rolling two Hills only requiring the ascent of 4 Days the Soil Sand and red Clay in a few places considerable gravel <choice>
+                  <abbr>mixd</abbr>
+                  <expan>mixed</expan>
+               </choice> with it firm and excellent for the construction of a road Timber oak pine and Hickory Some chestnut in places rise of the Tennessee river from 20 to 25 feet The Genl direction So Wt From New Philadelphia to <name>Calhoun</name> on the Highwassee 33 &amp; 1/2 miles crossing Sweet water and mouse creeks the face of the country Level or very slightly rolling the road direct and Genl. direction So. Wt. Soil Molatts <pb n="4" facs="sl772d.small.jpg"/> good 2nd rate timber oak and Hickory and the last 18 miles mixd with pine of Large Size the ground generally firm and compact and mixd with gravel in places forming an excellent foundation for a road</p>
+            <p>From Calhoun to <name>Wm Robison</name>s in the Cherokee nation on Ooltewah creek 26 miles crossing Highwassee river which rises 20 feet and requires a Bridge 130 yards long firm rock Bottom crossing mouse town creek Candys Creek &amp; Ooltewah passing <name>John Walkers</name> the face of the country generally level Soil 2nd rate Timber oak pine and Hickory firm Soil mixd with flint gravel in the most rolling parts. Genl. direction So. Wt. From Robinsons to the Southern boundary of our State 6 miles level ground Soil inferior 2nd rate Timber oak pine and Hickory Genl direction So. Wt crossing two small forks of the <name>chickammoggy</name>
+            </p>
+            <p>From <add>thence</add> to<name>
+                  <choice>
+                     <abbr>Richd</abbr>
+                     <expan>Richard</expan>
+                  </choice> Taylor</name>s on the <name>Georgia</name> road Six miles same direction and Level, timber and Soil nearly the same also</p>
+            <p>Pursuing the same course <name>Mr Taylor</name>
+               <choice>
+                  <abbr>informd</abbr>
+                  <expan>informed</expan>
+               </choice> us the way would <add>be</add> level and firm by a <choice>
+                  <orig>vally</orig>
+                  <reg>valley</reg>
+               </choice> passing through the So Eastern point of the lookout mountain leaving it on the right and <choice>
+                  <orig>Strikeing</orig>
+                  <reg>Striking</reg>
+               </choice> the head waters of Canoe Creek they intend leaving the Town of <name>Cahawba</name> on <pb n="5" facs="sl772e.small.jpg"/> the Left and <name>Tuscaloosa</name> on the right crossing the <name>Tom bigby</name> immediately below the Junction of the Black warrior with the Same &amp;. The two routes for this great national road heretofore examind are I understand some over 1100 miles each from Washington to New Orleans. They unite at <name>Mobile</name> from which place to new Orleans much difficulty must be encountered in making the road</p>
+            <p>the route the Engineers are now on from Washington City to where they crossd the Southern boundary of our state is estimated at 592 miles passing about 200 miles through our <gap/> there for to gain a preference in the  <gap/> place for this route over either of the <gap/> can be no inconsiderable object <gap/> us. and when the actual Survey for <gap/> Location of the road comes to be made <gap/> in the event. This route is chosen. Then any amendments and alterations for the better can and will be made But I must inform you that the ground viewd from Knoxville to where our Southern boundary is crossd is in my opinion nearly as good for a road as I have ever in the course of my life passd over <del type="overstrike">together</del> for the Same distance when taken altogether the enginiers are hastening to New Orleans where <pb n="6" facs="sl772f.small.jpg"/> it is expected they will receive instructions to examine on their return the Canal route also the other routes through <add>our</add> State for this national road. in which event they will inform me and yourself as soon as in their power. I shall be in readiness to meet them <unclear>at</unclear> any point they may designate or that may <add>be</add> requird and do any thing to effect this object so important to our state But I am still <choice>
+                  <abbr>impressd</abbr>
+                  <expan>impressed</expan>
+               </choice> with the belief that for great national purpose this road ought to be directed to the <name>Mississippi</name> about the middle of our Western <unclear>boundary</unclear> with a view to its extension in <unclear> fe</unclear>
+               <gap/> when at the same <add>time</add> much greater <unclear>being</unclear>
+               <gap/> would result to our state. which <gap/> endeavour to communicate to you <gap/> fully verbally when I shall have the <unclear>pleasure</unclear> of seeing you also the views by which I have been <choice>
+                  <abbr>governd</abbr>
+                  <expan>governed</expan>
+               </choice> in relation to the place on which the Genl <choice>
+                  <abbr>Govt</abbr>
+                  <expan>Government</expan>
+               </choice> are now advancing towards the making this road</p>
+            <closer>
+               <salute>respectfully your <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Newton Cannon</name>
+               </signed>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>
+                     <name>Wm Carroll</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

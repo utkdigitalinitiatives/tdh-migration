@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl746">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Pardon]  1797 Dec. 12, Knoxville, Tennessee [for] William Sutherland, Nashville,  Tennessee  / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl746</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Pardon]  1797 Dec. 12, Knoxville, Tennessee [for] William Sutherland, Nashville,  Tennessee  / John Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1797-12-12">December 12, 1797</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a pardon for William Sutherland dated December 12, 1797. The pardon is granted by Governor John Sevier.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl746</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Pardons</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl746a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>John Sevier</name> Governor and commander in Chief in and over the State of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <salute>To all to whom these presents shall come Greeting</salute>
+            </opener>
+            <p>It is made known to me that at the last Superior Court Held for the district of <name>Mero</name> at <add>the town of</add>
+               <name>Nashville</name>, a Certain William <del type="overstrike">Jonathan</del> Sutherland was Indicted on a charge of feloniously stating taking, and carrying away two negro Slaves, the property of <name>Captain Donohoo</name>, for which felony he was found Guilty; and <choice>
+                  <orig>sentance</orig>
+                  <reg>sentence</reg>
+               </choice> of Death <add>have</add> passed on him which sentance was to be put into execution on the <date>20th <add>day of</add> december</date>, instant,</p>
+            <p>Now know ye, that a number of respected Citizens of this State, have represented to me, that the said <name>William Sutherland</name> have heretofore sustained, a fair &amp; reputable character, and pray that mercy may be extended towards him, and being ever desirous to extend mercy and clemency to all those who may be fit objects to obtain and <add>receive</add> the same, I do hereby grant a pardon <add>
+                  <del type="overstrike">to</del>
+               </add> &amp; reprieve <add>to</add> the aforesaid William Sutherland and consign to oblivion the <unclear>crime</unclear> &amp; felony aforesaid ______</p>
+            <closer>
+               <add>Given under my hand &amp; seal in <name>Knoxville</name> the <date>12th day of December</date> Anno <choice>
+                     <abbr>Dom</abbr>
+                     <expan>Domini</expan>
+                  </choice>, 1797. <lb/> By the Governor</add>
+               <pb n="2" facs="sl746b.small.jpg"/>
+               <add>The Secretary will please to make out the pardon speedily, <lb/> There being a person waiting to curry on the same, and the <lb/> time of execution is drawing near_____</add>
+               <add>Copy of a pardon <lb/> to <lb/>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Sutherland <lb/>12 <choice>
+                     <abbr>Dec</abbr>
+                     <expan>December</expan>
+                  </choice> 1797</add>
+               <add>Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

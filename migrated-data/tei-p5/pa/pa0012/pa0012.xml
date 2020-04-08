@@ -1,0 +1,475 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abstract of disbursements made by Return J. Meigs, 1812 Nov. 14 - 1812 Dec. 1, Tennessee: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0012</idno>
+            <idno>OCLC: 44922039</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Abstract of disbursements made by Return J. Meigs, 1812 Nov. 14 - 1812 Dec. 1, Tennessee</title>
+               <date when="1812-11-14">November 14, 1812</date>
+               <date when="1812-12-01">December 1, 1812</date>
+               <extent>2p</extent>
+               <note type="summary">This is a summary of the disbursements made by Return J. Meigs, U.S. Agent to the Cherokee Nation, at the Cherokee Agency in Tennessee from November 14, 1812 through December 1, 1812.  The expenses include salary payments to various interpreters, payment for claims against the Cherokees, legal  fees, transportation costs, and payment for spinning and weaving articles.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box"/>
+               <note type="folder"/>
+               <note type="document">pa0012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Georgia Libraries Electronic Text Center</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Expense accounts</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0012a.small.jpg"/>
+            <p>
+               <table>
+                  <head>Abstract of Disbursements made by <name type="person">Return J Meigs</name> Agent for the <name type="place">United States</name> in the <name>Cherokee Nation</name> on account of Indian Department in the 4th Quarter of the Year <date when="1812">1812</date>.</head>
+                  <row>
+                     <cell>Dates of Payment</cell>
+                     <cell>vouchers</cell>
+                     <cell>payments to whom made</cell>
+                     <cell>Nature of Disbursements</cell>
+                     <cell>$ cts Amount</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1812-11-14">1812 <choice>
+                              <abbr>Novem</abbr>
+                              <expan>November</expan>
+                           </choice> 14th</date>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>
+                        <name type="person">James Boyd</name>
+                     </cell>
+                     <cell>For Blacksmiths for <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">22</cell>
+                     <cell rend="right">98</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"  20</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <name type="person">Anthony Billegars</name>
+                     </cell>
+                     <cell>For a canoe to accompany a  <choice>
+                           <orig>Flatt</orig>
+                           <reg>Flat</reg>
+                        </choice> Bottomed Boat carrying Indian goods to <name type="place">Arkansas</name>
+                     </cell>
+                     <cell rend="right">6</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"  "</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <name type="person">Stephen Stepp</name>
+                     </cell>
+                     <cell>For a flat bottomed Boat to carry Indian goods to <name type="place">Arkansas</name>
+                     </cell>
+                     <cell rend="right">7</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"  29</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm</abbr>
+                              <expan>William</expan>
+                           </choice> Pherson</name>
+                     </cell>
+                     <cell>For Indemnity for Articles Stolen from him by <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">37</cell>
+                     <cell rend="right">75</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">" 30</cell>
+                     <cell>5</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Saml.</abbr>
+                              <expan>Samuel</expan>
+                           </choice> McDaniel</name>
+                     </cell>
+                     <cell>For Blacksmiths work for <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">21</cell>
+                     <cell rend="right">16</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1812-11-01">December 1</date>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <name type="person">John Brown</name>
+                     </cell>
+                     <cell>For <choice>
+                           <abbr>Do.. Do..</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell rend="right">18</cell>
+                     <cell rend="right">25</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"  7</cell>
+                     <cell>7</cell>
+                     <cell>
+                        <name type="person">David Maybury</name>
+                     </cell>
+                     <cell>For Indemnity for a horse stolen from him by <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">40</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"  12</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <name type="person">
+                           <unclear>Tiery</unclear> Robinson</name>
+                     </cell>
+                     <cell>For mending Spinning Wheels for <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">3</cell>
+                     <cell rend="right">87</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">" 10</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <name type="person">John Cox</name>
+                     </cell>
+                     <cell>For Blacksmiths work for <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">20</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">23</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <name type="person">John Brown</name>
+                     </cell>
+                     <cell>For Piloting a Boat <choice>
+                           <orig>thro'</orig>
+                           <reg>through</reg>
+                        </choice> the <unclear>tuck</unclear> in charge of <name type="person">John Ross</name> bound to <name type="place">Arkansas</name>
+                     </cell>
+                     <cell rend="right">4</cell>
+                     <cell rend="right"/>
+                     <cell>181</cell>
+                     <cell>
+                        <gap agent="damage"/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rend="right"> "</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <name type="person">Edward Scott</name>
+                        <lb/>
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm</abbr>
+                              <expan>William</expan>
+                           </choice> S. Kelly</name>
+                     </cell>
+                     <cell>Counsellors acting in behalf <gap agent="damage"/>
+                        <unclear>of</unclear> the <name type="person">Cherokees</name> case <name type="person">Cormick</name> v.s. <name>Cherokee Nation</name> on a reinvestigation of <name type="person">Cormick</name>s claim before a board of Commissioners</cell>
+                     <cell rend="right">300</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <name type="person">Richard Taylor</name>
+                     </cell>
+                     <cell>For horse hire  expenses for Interpreter <choice>
+                           <orig>sommoning</orig>
+                           <reg>summoning</reg>
+                        </choice> witness before the Board </cell>
+                     <cell rend="right">10</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>31st</cell>
+                     <cell>13</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Jno</abbr>
+                              <expan>John</expan>
+                           </choice> Hildebrand</name>
+                     </cell>
+                     <cell>Wages  subsistence for attending a mill for the <name type="person">Cherokees</name> in the 4th quarter of <date when="1812">1812</date>
+                     </cell>
+                     <cell rend="right">49</cell>
+                     <cell rend="right">32</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">" "</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <name type="person">Timothy Meigs</name>
+                     </cell>
+                     <cell>For goods furnished as <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> Invoice sent to the <name type="person">Cherokees</name> on <name type="place">Arkansas river</name>
+                     </cell>
+                     <cell rend="right">853</cell>
+                     <cell rend="right">12</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">" "</cell>
+                     <cell>15</cell>
+                     <cell>Ditto</cell>
+                     <cell>For articles furnished for Sundry purposes Indian Department, see the account</cell>
+                     <cell rend="right">189</cell>
+                     <cell rend="right">61</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">" "</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <name type="person">Nathan Wilkinson</name>
+                     </cell>
+                     <cell>For 5 <choice>
+                           <orig>Spining</orig>
+                           <reg>Spinning</reg>
+                        </choice> wheels for <name type="person">Cherokees</name>
+                     </cell>
+                     <cell rend="right">15</cell>
+                     <cell rend="right"/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">" "</cell>
+                     <cell>17</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm</abbr>
+                              <expan>William</expan>
+                           </choice> Ls Lovely</name>
+                     </cell>
+                     <cell>For salary  Subsistence for the 4th quarter of the year <date when="1812">1812</date>
+                     </cell>
+                     <cell rend="right">125</cell>
+                     <cell rend="right">76</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"  "</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <name type="person">James Carey</name>
+                        <choice>
+                           <abbr>Inter.</abbr>
+                           <expan>Interpreter</expan>
+                        </choice>
+                     </cell>
+                     <cell>For <choice>
+                           <abbr>Do.. Do.. Do.. Do..</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell rend="right">91</cell>
+                     <cell rend="right">25</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rend="right">"</cell>
+                     <cell>19</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Saml</abbr>
+                              <expan>Samuel</expan>
+                           </choice> Riley</name>
+                        <choice>
+                           <abbr>Do</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell>For <choice>
+                           <abbr>Do Do Do Do</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell rend="right">100</cell>
+                     <cell rend="right">76</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>20</cell>
+                     <cell>
+                        <name type="person">Richard Taylor</name>
+                        <choice>
+                           <abbr>Do</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell>For <choice>
+                           <abbr>Do.. Do.. Do.. Do..</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell rend="right">100</cell>
+                     <cell rend="right">76</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>21</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm</abbr>
+                              <expan>William</expan>
+                           </choice> McAllister</name>
+                     </cell>
+                     <cell>For Keeping horses for Indians Witnesses case <name type="person">Cormick</name> v.s. <name>Cherokee Nation</name>
+                     </cell>
+                     <cell rend="right">12</cell>
+                     <cell rend="right">25</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>22</cell>
+                     <cell>
+                        <name type="person">John Ross</name>
+                     </cell>
+                     <cell>For Keel bottomed Boat to transport goods to <name type="place">Arkansas river</name>
+                        <choice>
+                           <abbr>bot</abbr>
+                           <expan>bought</expan>
+                        </choice>
+                        <date when="--12-15">15th <choice>
+                              <abbr>Decr.</abbr>
+                              <expan>December</expan>
+                           </choice>
+                        </date> the flat boat being insufficient</cell>
+                     <cell rend="right">60</cell>
+                     <cell rend="right"/>
+                     <cell rend="right">1907</cell>
+                     <cell rend="right">83</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">$2088</cell>
+                     <cell rend="right">84</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0012b.small.jpg"/>
+            <p>
+               <hi rend="b">A</hi> Abstract of disbursements in the <name type="place">Cherokee Agency</name> in the 4th quarter of the year <date when="1812">1812</date>. <hi>$2088.84</hi> Duplicate</p>
+         </div>
+      </back>
+   </text>
+</TEI>

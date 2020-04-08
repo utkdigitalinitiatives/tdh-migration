@@ -1,0 +1,191 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl210">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Feb. 3, Paris, [to] Governor Sam Houston, Nashville, Tennessee / G. W. Terrill : a machine readable transcription of an image</title>
+            <author>Terrill, G. W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl210</idno>
+            <idno>OCLC: 49945179</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Feb. 3, Paris [to] Governor Sam Houston, Nashville, Tennessee / G. W. Terrill </title>
+               <author>Terrill, G. W.</author>
+               <date when="1828-02-03">February 3, 1828</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter to Governor Sam Houston of Tennessee from G. W. Terrill dated February 3, 1828. Terrill discusses various newspaper articles and the upcoming Gubernatorial election.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence </note>
+               <note type="box" anchored="true">Jackson - Woods, b1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">tl210</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2013033292"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Terrell, George Whitfield, 1803-1846</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl210a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Paris </name>West <choice>
+                        <abbr>Dist</abbr>
+                        <expan>District</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date when="1828-02-03">
+                  <choice>
+                     <abbr>Febry</abbr>
+                     <expan>February</expan>
+                  </choice> 3rd 1828</date>
+               <salute>Dear <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>I hail you welcome on your return, and hope you have had a pleasant trip; but so various and contradictory are the accounts which we have received of the reception the old Chief met with that we are at a loss what to think of it. One of the<name type="place"> New Orleans</name> papers (the Argus) received here yesterday, says the <choice>
+                  <abbr>Genls</abbr>
+                  <expan>General's</expan>
+               </choice> reception was cold &amp; indifferent, that the streets were comparatively deserted as walked them; no demonstrations of Joy or satisfaction welcomed him, except from a few hot headed <choice>
+                  <orig>partizans</orig>
+                  <reg>partisans</reg>
+               </choice>
+               <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> which makes the administration men of this town (and there are a good many) hold up their heads and excitingly taunt us with disappointment. On the contrary the "Advertiser" says the <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> was welcomed by a greater concourse of people than was ever <del type="overstrike">
+                  <unclear/>
+               </del> assembled in the City; which I have no doubt is true; also a cousin of mine, a commission merchant of the city writes me that business of every description was suspended during the old <choice>
+                  <orig>heros</orig>
+                  <reg>hero's</reg>
+               </choice> stay ⁁ <add place="supralinear">among</add> them. Such are the accounts of  celebration in New Orleans, and each party believes that which digests best upon his stomach. <name type="person">Mr Clay's</name> pamphlet is another cause of triumph with the Adams <pb n="2" facs="tl210b.small.jpg"/> men in this section; but I have some facts &amp; arguments " laid up in ordinary" as <name type="person">Mordecai</name> says, which are strong as the decrees of <emph>Fate</emph>, that I intend to bring out in about two weeks, perhaps sooner. I have never yet, except in one instance, and that you did not see, made an attempt at display on this subject, for the reason that were so many scribblers employed in the business that a sober ⁁ <add place="supralinear">or moderate</add> man has scarcely any chance to be heard. I intend to bring forth a production this time that will command attention.—</p>
+            <p>I want you, the first leisure half day you have, to sit down and read the 18. 19 and 20th Numbers of <unclear>Scriblerus</unclear> in the West Tennessean, and say if I am not at home some future day, to gain immortality for the invention or discovery of a new system of <emph>Philosophy</emph> on <emph>Magnetism</emph>! I have been about three years at work at it, in conjunction with a friend, and have at length matured it, and do most <choice>
+                  <orig>sincerly</orig>
+                  <reg>sincerely</reg>
+               </choice> believe it will eventually take; I have gained a number of converts in this country. I have the finest looking, the smartest, and the keenest-eyed son in the state, now six weeks old. I call him, after my friend, <name type="person">
+                  <choice>
+                     <abbr>Saml</abbr>
+                     <expan>Samuel</expan>
+                  </choice> Houston</name>; and think he will succeed him in his office in less than 35 years.</p>
+            <p>It is the prevailing opinion, and common to talk here that <name type="person">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Carroll</name> is to be the opposing candidate at the next Gubernatorial election, and I much fear it <pb n="2" facs="tl210b.small.jpg"/> will even be the case, in that event much exertion will be necessary, for he is a mighty man, I find, amongst the <emph>folks</emph>. But I am gradually gaining an influence with and an extended circulation of my paper, and <choice>
+                  <orig>thing</orig>
+                  <reg>think</reg>
+               </choice> by prudent management, I will be able by that time to yield a considerable influence, if I am able to keep up ⁁ <add place="supralinear">my office</add>  but unless I can make or rather <emph>collect</emph> more money than I have hitherto been able to do I do not know whether I can keep along or not.— I looked for some particulars on the subject of which we talked when I was in <name type="place">Nashville</name>, before you went below, but I suppose the hurry of preparation for so important an affair prevented it. I addressed a letter to<name type="person">
+                  <choice>
+                     <abbr> Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> James I. Green</name> on the subject, but received no answer, the cause of which I cannot account for. Be so good as to throw together all the materials you think  necessary, and forward them to me as soon as convenient, I am anxious to perform that task, and have the vanity to believe I can do it <emph>tolerable</emph> Justice.</p>
+            <p>Desha &amp; <name type="person">Brent</name>, I understand, are going to <emph>fight</emph>, I think it nothing but right that Brent should be slapped for his impertinence, and I reckon none of the Tennessee delegation are better are better calculated to do it than <name type="person">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Desha</name>.</p>
+            <closer>
+               <salute>I remain dear sir with real esteem &amp; respect Your <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">G. W. Terrill</name>
+               </signed>
+               <add place="left">
+                  <address>
+                     <addrLine>His <choice>
+                           <abbr>Exelcy Gov</abbr>
+                           <expan>Excellency Governor</expan>
+                        </choice> Houston}</addrLine>
+                  </address>
+               </add>
+               <pb n="4" facs="tl210d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Hon</abbr>
+                        <expan>Honorable</expan>
+                     </choice> Sam Houston</addrLine>
+                  <addrLine>Nashville <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="above address">
+                  <figure>
+                     <figDesc>postage calculations</figDesc>
+                  </figure>
+               </add>
+               <add place="below address">
+                  <address>
+                     <addrLine>Terrill Paris</addrLine>
+                  </address>
+                  <date when="1828-02-03">
+                     <choice>
+                        <abbr>Feby</abbr>
+                        <expan>February</expan>
+                     </choice> 3rd 1828</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

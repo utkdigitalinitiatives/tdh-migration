@@ -1,0 +1,201 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl203">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1829 Dec. 14 [to] Sam Houston, Knoxville, Tennessee / Stephen Marcum : a machine readable transcription of an image</title>
+            <author>Marcum, Stephen</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl203</idno>
+            <idno>OCLC: 49930675</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1829 Dec. 14 [to] Sam Houston, Knoxville, Tennessee / Stephen Marcum</title>
+               <author>Marcum, Stephen</author>
+               <date when="1829-12-14">December 14, 1829</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Sam Houston regarding a reward for three men who escaped from jail in Knoxville Tennessee.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true">Allen - Strong, b1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">tl203</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fugitives</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Marcum, Stephen</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl203a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>To <choice>
+                        <orig>Knox Vill</orig>
+                        <reg>Knoxville</reg>
+                     </choice> in <name type="place">Tennessee</name>
+                  </addrLine>
+                  <addrLine>To the governor of chief <choice>
+                        <orig>Magestreet</orig>
+                        <reg>Magistrate</reg>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>after my best respects to you we have had a report in our country <choice>
+                  <orig>stateing</orig>
+                  <reg>stating</reg>
+               </choice> that your<choice>
+                  <orig> honner</orig>
+                  <reg>honor</reg>
+               </choice> had <choice>
+                  <orig>offed</orig>
+                  <reg>offered</reg>
+               </choice> a reward for one <name type="person">Elijah Skidmoor</name> &amp; <name>William Skidmore</name> &amp;<name type="person"> Sentin Williamson</name> who had escaped the jail of that place under a charge of <choice>
+                  <orig>feleny</orig>
+                  <reg>felony</reg>
+               </choice> after sentence of Death had <choice>
+                  <orig>passd</orig>
+                  <reg>passed</reg>
+               </choice> on them &amp; was now going at large </p>
+            <p>
+               <choice>
+                  <orig>Deer</orig>
+                  <reg>Dear</reg>
+               </choice> sir if it be the case if you will forward on one of your <choice>
+                  <orig>avertisments</orig>
+                  <reg>advertisements</reg>
+               </choice> by the <choice>
+                  <orig>male</orig>
+                  <reg>mail</reg>
+               </choice> to me I think I can have them<choice>
+                  <orig> befour</orig>
+                  <reg>before</reg>
+               </choice> your <choice>
+                  <orig>honner</orig>
+                  <reg>honor</reg>
+               </choice>
+               <choice>
+                  <orig>once moor</orig>
+                  <reg>once more</reg>
+               </choice>but if there is nothing of it I wish you to let me know by the <choice>
+                  <orig>male</orig>
+                  <reg>mail</reg>
+               </choice> as soon as <choice>
+                  <orig>possibel</orig>
+                  <reg>possible</reg>
+               </choice> for they are as <choice>
+                  <orig>Sli </orig>
+                  <reg>Sly</reg>
+               </choice> as the <choice>
+                  <orig>wildist</orig>
+                  <reg>wildest</reg>
+               </choice> buck in these mountains I would be glad to have <orig>aline</orig> from you on the <choice>
+                  <orig>sub ject</orig>
+                  <reg>subject</reg>
+               </choice> at all events as we may know the truth of the matter Sir if you<choice>
+                  <orig>right</orig>
+                  <reg>write</reg>
+               </choice> to me Direct your letter to <name type="place">Lawrance county kentucky</name>  forks of big sandy <name type="person">Gorge L. Burtons</name> post office</p>
+            <closer>
+               <salute>Sir I remain yours &amp; </salute>
+               <date when="1829-12-14">December the 14th 1829</date>
+               <signed>
+                  <name>
+                     <emph>Stephen Marcum <choice>
+                           <abbr>Esqr</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </emph>
+                  </name>
+               </signed>
+            </closer>
+            <pb n="1" facs="tl203a.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Louisv Ky</abbr>
+                           <expan>Louisville Kentucky</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <date>Dec 14th</date>
+                  </addrLine>
+                  <addrLine>To his excellency <choice>
+                        <orig>Govenor</orig>
+                        <reg>Governor</reg>
+                     </choice> of Tennessee</addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <name>Stephen Marcum</name>
+                  <date when="1829-12-14">14 Dec 29 </date> ani <date>7 <choice>
+                        <abbr>Jny</abbr>
+                        <expan>January</expan>
+                     </choice> 30</date> no reward</add>
+               <add place="below address">
+                  <hi rend="penciled in">1829 <name type="person">Sam Houston</name>no  reward</hi>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

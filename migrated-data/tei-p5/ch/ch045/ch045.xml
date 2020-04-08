@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter], 1831 June 10, New Echota, Cher[okee] Na[tion] to George R. Gilmer, Governor of Georgia / S[amuel] A. Worcester: a machine-readable transcription</title>
+            <author>Worcester, S. A. (Samuel Austin), 1798-1859</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch045</idno>
+            <idno>OCLC: 44844356</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter], 1831 June 10, New Echota, Cher[okee] Na[tion] to George R. Gilmer, Governor of Georgia / S[amuel] A. Worcester</title>
+               <author>Worcester, S. A. (Samuel Austin), 1798-1859</author>
+               <date when="1831-06-10">June 10, 1831</date>
+               <extent>5p</extent>
+               <note type="summary" anchored="true">Letter dated June 10, 1831 from Samuel A. Worcester, Christian missionary living in the Cherokee Nation, to Georgia Governor George R. Gilmer in response to a letter Worcester received from Gilmer. Worcester received Gilmer's letter through Colonel Sanford and is informed by Sanford that he is liable to arrest if he has not removed within ten days. Worcester defends himself against accusations made by the governor, contending that his goal is to stimulate the spiritual growth of the Cherokee people and not to revolt politically against the state. He explains why he cannot in good conscience take the oath of Georgia and describes his progress in translating Christian texts into Cherokee. Worcester is determined to remain with the Cherokee until he is forced to move. Elias Boudinot, editor of the <hi rend="i">Cherokee Phoenix</hi> newspaper is mentioned.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">29</note>
+               <note type="document" anchored="true">ch045</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Worcester, S. A. (Samuel Austin), 1798-1859</term>
+               <term>Cherokee Indians--Missions</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr91036456"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Worcester, S. A. (Samuel Austin), 1798-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch045a.small.jpg"/>
+            <head>
+               <add place="top">I.<lb/>
+                  <name type="person">Mr. Worcester</name>'s reply to <name type="person">Governor Gilmer</name>.
+                  </add>
+            </head>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">New Echota</name>, <name>
+                           <choice>
+                              <abbr>Cher.Na.</abbr>
+                              <expan>Cherokee Nation</expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                  </address>
+                  <date when="1831-06-10">June 10. 1831</date>
+               </dateline>
+               <salute>To His Excellency <name type="person">George R. Gilmer</name>, governor of the State of <name type="place">Georgia</name>.<lb/>Sir,
+                  </salute>
+            </opener>
+            <p>Your communication of the <date when="1831-05-15">15th <choice>
+                     <abbr>ult.</abbr>
+                     <expan>ultimo</expan>
+                  </choice>
+               </date> was put into my hand on the <date when="1831-05-31">31st.</date> by an express from <name type="person">Col. Sanford</name>, accompanied with a notice from him, that I should become liable to arrest, if after ten days, I should still be found residing within the unsettled limits of the state.</p>
+            <p>I am under obligation to your excellency for the information, which I believe I am justified in deriving by inference from your letter, that it is through your influence, that I am about to be removed from the office of postmaster at this place; inasmuch that it gives me the satisfaction of knowing that I am not removed on the ground of any real or supposed unfaithfulness in the performance of the duties of that office.</p>
+            <p> Your excellency is pleased to intimate that I have been guilty of a criminal opposition to the humane policy of the general government.  I cannot suppose that your excellency refers to those efforts for the advancement of the Indians in knowledge, and in the arts of civilized life, which the general government has pursued ever since the days of <name type="person">Washington</name>, because I am sure that no person can have so entirely misrepresented the course which I have pursued during my residence with the <name type="person">Cherokee</name> people.  If by the humane policy of the government,<pb n="2" facs="ch045b.small.jpg"/> are intended those measures which have been recently pursued for the removal of this and other tribes, and if the opposition is no more than that I have had the misfortune to differ in judgement with the executive of the <name type="place">United States</name>, in regard to the tendency of those measures, and that I have freely expressed my opinion, I cheerfully acknowledge the fact, and can only add that this expression of opinion has been unattended with the consciousness of guilt.  If any other opposition is intended, as that I have endeavored to bias the judgement, or influence the conduct of he Indians themselves, I am constrained to deny the charge, and beg that your excellency will not give credit to it, until it shall be sustained by evidence.
+               </p>
+            <p>Your excellency is pleased further to intimate, that I have excited the Indians to oppose the jurisdiction of the State.  In relation to this subject, also, permit me to say, your excellency has been misinformed.  Neither in this particular am I conscious of having influenced, or attempted to influence the Indians among whom I reside.  At the same time I am far from wishing to conceal the fact, that, in my apprehension, the circumstances in which providence has placed me, have rendered it my duty to enquire whose is the rightful jurisdiction over the territory in which I reside; and that this enquiry has led me to a conclusion adverse to the claims of the state of <name type="place">Georgia</name>.  This opinion, also,<pb n="3" facs="ch045c.small.jpg"/>has been expressed  to white men with the greatest freedom; and to Indians, when circumstances elicited my sentiments.
+               </p>
+            <p>I need not, however, enlarge upon these topics.  I thought it proper to notice them in a few words, because I understood your excellency to intimate that, in these respects; I had been guilty of a criminal course of conduct.</p>
+            <p>If for these things I were arraigned before a court of justice, I believe I might safely challenge my accusers to adduce proof of any thing beyond that freedom in the expression of opinion, against which, under the constitution of our country, there is no law.  But as it is, the most convincing evidence of perfect innocence on these points would not screen me from the penalty of the law, which construes a mere residence here, without having taken a prescribed oath, into a high <choice>
+                  <orig>misdemeanour</orig>
+                  <reg>misdemeanor</reg>
+               </choice>.  On this point, therefore, I hope to be indulged a few words in explanation of my motives.</p>
+            <p>After the expression of my sentiments, which I have already made, your excellency cannot fail to perceive, that I could not conscientiously take the oath which the law requires.  That oath implies an acknowledgement of myself as a citizen of the state of <name type="place">Georgia</name>, which might be innocent enough for one who believes himself to be such, but must be perjury in one who is of the opposite opinion.  I may add, that such a course, even if it were innocent of itself, would in the present state of feeling among the<pb n="4" facs="ch045d.small.jpg"/>Indians, greatly impair, or entirely destroy my usefulness as a minister of the gospel among them.  It were better in my judgement, entirely to abandon my work, than so to arm the <choice>
+                  <orig>predjudices</orig>
+                  <reg>prejudices</reg>
+               </choice> of the whole people against me.
+               </p>
+            <p>Shall I then abandon the work in which I have engaged?  Your excellency is already acquainted, in general, with the nature of my object, and my employment, which consist in preaching the gospel, and making known the word of God among the <name type="person">Cherokee</name> people.</p>
+            <p>As to the means used for this end, aside from the regular preaching of the word,  I have had the honor to commence the work of publishing portions of the holy scriptures, and other religious books, in the language of this people.  I have the pleasure of sending to your excellency a copy of the gospel of Matthew, of a  hymn-book, and of a small tract consisting chiefly of extracts from scripture, which, with the aid of an interpreter, I have been enabled to prepare and publish; and also of another tract, which, with my assistant, I have translated for the United Brethren's Mission.  The tract of scripture extracts has been published since my trial and acquittal by the superior court.  This work it would be impossible for me to prosecute at any other place than this, not only on account of the <name type="person">Cherokee</name> press, but because <name type="person">Mr. Boudinott</name>, whose editorial labors require his residence at this place, is the only translator whom I could, and who is competent to<pb n="5" facs="ch045e.small.jpg"/>the task.  My own view of duty is, that I ought to remain, and quietly pursue my labors for the spiritual welfare of the <name type="person">Cherokee</name> people, until I am forcibly removed.  If I am correct in the apprehension that the State of <name type="place">Georgia</name> has no rightful jurisdiction over the territory where I reside, then it follows that I am under no moral obligation to remove, in compliance with her enactments; and if I suffer in consequence of continuing to preach the gospel and diffuse the written work of God among this people, I trust that I shall be sustained by a conscience void of offence,  and by the anticipation of a righteous decision at that tribunal from which there is no appeal.
+               </p>
+            <closer>
+               <salute>Your excellency will accept the assurance of my sincere respect.</salute> (Signed)<signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>S.</abbr>
+                        <expan>Samuel</expan>
+                     </choice> A. Worcester</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl114">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1827,  Feb.21, Philadelphia  [to] Miss Ann J[ane] Bell,     Charlotte, Tennessee / Dr. John Bell : a machine readable transcription of an image</title>
+            <author>Bell, John, Dr.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl114</idno>
+            <idno>OCLC: 50503873</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1827,  Feb.21, Philadelphia  [to] Miss Ann J[ane] Bell,     Charlotte, Tennessee / Dr. John Bell</title>
+               <author>Bell, John, Dr.</author>
+               <date when="1827-02-21">February 21, 1827</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This a letter from Dr. John Bell to his sister Jane Bell dated February 21, 1827. John congratulates Jane on her new profession, and he informs her that he has taken on  new student . He writes about a widow whom he befriended and who has sent a book for Jane.  He also writes of a woman named Mrs. Griffith in New Jersey who has named her farm "Charles Hope" in honor of Sir Walter Scott. The woman is apparently a great agriculturalist, as well as a writer.  Finally, he writes of a lady friend in France whose brother recently passed away.</note>
+               <note type="collection" anchored="true">Bell Collection IV-H-1</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl114</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Women -- employment</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bell, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl114a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Philadelphia</name>
+                     <date when="1827-02-21">
+                        <choice>
+                           <abbr>Febry</abbr>
+                           <expan>February</expan>
+                        </choice> 21st 1827</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>
+               <add place="up the left side of the page ">I was present in the early part of last month with a small select party at the wedding of my old friend <name type="person">Miss Hamilton</name> now <name type="person"> Mrs Corbin</name>.—</add>  Though I have two of your letters, my dear sister, before me unanswered yet I shall only acknowledge the debt of one, since I anticipated a reply to the first by  mine of  the <date when="1827-01-01">1st  January</date>.  I congratulate you on your success in your new profession, and in doing so must compliment myself for having long ago insisted on your ability in this way. Independent  of the satisfaction you  experience at the contemplation of your spending your time thus usefully, you will I doubt not have reason to be pleased with your occupation as a means of making for yourself   useful friends whose advice countenance and assistance may hereafter be of no small moment. I can at present do no more than heartily approve of your scheme of giving the girls in succession the advantage of schooling in <name type="place">Nashville</name>.  Do all you can at the same time to prevent <name type="person">William</name> from being spoiled before I assume the direction of his movements — On the score of <choice>
+                  <orig>superintendance</orig>
+                  <reg>superintendence</reg>
+               </choice>  I forget whether I mentioned to you in a  former letter my having a third student, a <name type="person">Mr. Smith</name> from <name type="place">Orange <pb n="2" facs="sl114b.small.jpg"/>
+                  <choice>
+                     <abbr>Co. Va.</abbr>
+                     <expan>County Virginia</expan>
+                  </choice>
+               </name>:  he has been with me since the fall </p>
+            <p>A conveyance for your shawl and veil offered about ten days ago— of which I availed:— it was with the goods of <name type="person">Mr. Shirley</name> of your place. With them I also sent a book, with which I am sure you will be pleased, not only from it being the work of a highly gifted female, who to her merit as a poet  adds the charm of the purest, &amp; most elevated religious feelings; but also, from its being presented to you by another female of <name> 
+                  <reg>unordinary</reg> un ordinary</name> intellectual endowments, who is kind enough to call herself my friend. But let not your overactive imagination mislead you in this case — the lady is a widow of about eight &amp; forty. true she has daughters but it was not through their intervention or acquaintance with them that I acquired their esteem. While at <name type="person">Mrs. Frazier's</name> she became my patient and required a good deal of attention for which she thinks she cannot be too grateful — Dissatisfied with my bill as too low, she presented me with a handsome seal &amp; key, as a <choice>
+                  <orig>momento</orig>
+                  <reg>memento</reg>
+               </choice>, and took such an interest in my feelings &amp; probable little bachelor wants as quite to throw me out of my  usual <choice>
+                  <orig>armour</orig>
+                  <reg>armor</reg>
+               </choice> of reserve &amp; pride. Among my first proof of confidence I usually allude to my sister, and on this occasion I was soon <pb n="3" facs="sl114c.small.jpg"/> asked various questions about that sister. Both she &amp; her daughter married in this city seemed evidently to feel the hardship of our <choice>
+                  <orig>seperation</orig>
+                  <reg>separation</reg>
+               </choice> without my even alluding to it: they entered into our feelings without asking for explanations, and I had the satisfaction of  observing that you occupied  a place in their thoughts and without solicitation on my part elicited a share of their sympathies. <name type="person">Mrs. Griffith</name> herself,  who is now gone home, resides near  <name type="place">New Brunswick <choice>
+                     <abbr>N</abbr>
+                     <expan>New</expan>
+                  </choice> Jersey</name>, on a farm, which she has called in compliment to<name type="person">Sir Walter Scott</name> "Charles Hope "— She is a scientific &amp; practical agriculturist and horticulturist — &amp; an authoress of these and lighter literature and graver science — She corresponds regularly with <name type="person">Miss <choice>
+                     <orig>Edgworth</orig>
+                     <reg>Edgeworth</reg>
+                  </choice>
+               </name>. I give you <choice>
+                  <orig>there</orig>
+                  <reg>their</reg>
+               </choice> details because they will I am sure interest you, connected as they are  both with any professional advancement &amp; pleasurable feelings —</p>
+            <p> I  received lately a letter from my French friend announcing the death of her only brother just opening into manly bloom — Her sister in <name type="place">Pittsbugh</name>
+               <name type="person">  Mrs. Barlow</name> no sooner <choice>
+                  <orig>head</orig>
+                  <reg>heard</reg>
+               </choice> of this event than she set out for the  seaboard, — &amp; embarked for<name type="place"> France</name> where she had arrived in December last. This unlooked for arrival after a nine years absence restored<name type="person">Harriet</name> to herself, and substituted in her bosom joy for mourning. Nothing from <name type="place">Richmond</name>With love to Sally——</p>
+            <closer>
+               <salute> I remain Your ever affectionate Brother</salute>
+               <signed>
+                  <name type="person">John Bell</name>
+               </signed>
+               <pb n="4" facs="sl114d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Ann <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jane</expan>
+                        </choice> Bell</name>
+                  </addrLine>
+                  <addrLine>Care <name type="person">Mrs. Scott</name>
+                  </addrLine>
+                  <addrLine>
+                     <del type="overstrike">Nashville</del>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Charlotte</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

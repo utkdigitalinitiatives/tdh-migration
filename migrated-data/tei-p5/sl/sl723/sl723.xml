@@ -1,0 +1,178 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl723">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1796 Nov. 8, Tellico Blockhouse [Tennessee, to John] Sevier / Silas Dinsmoor : a machine readable transcription of an image</title>
+            <author>Dinsmoore, Silas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl723</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1796 Nov. 8, Tellico Blockhouse [Tennessee, to John] Sevier / Silas Dinsmoor</title>
+               <author> Dinsmoore, Silas</author>
+               <date when="1796-11-08">November 8, 1796</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor John Sevier from Silas Dinsmoor dated November 8, 1796. Dinsmoor is the agent to the Cherokee Nation. Dinsmoor is writing regarding a recent act of Congress pertaining to relations with the Cherokees. Dinsmoor includes a list of whites he knows who have settled on the Cherokee's land.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">5</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true"> sl723</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Land tenure</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2001120001"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dinsmore, Silas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl723a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Telico</orig>
+                        <reg>Tellico</reg>
+                     </choice> Blockhouse <date>8th November 1796</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>You are doubtless acquainted with an act of the last session of Congress, entitled "An Act to regulate trade &amp; intercourse with <add>the</add> Indian tribes &amp; to preserve peace on the frontier." By my instructions from the honorable the Secretary of War, I am required to report, to you all offences which come within the purview of the 2d 3d &amp; <gap/> sections of the aforesaid acts, of  which I <unclear>can</unclear>
+               <gap/> any knowledge. Offences  against the 5th section of the Act aforesaid are, from the best information I can receive, very numerous. Multitudes of people are already settled on the <name>Cherokee</name> lands, north of the <name>Clinch</name>, &amp; on the border of the <name>Tennessee</name>, among which are the following, settled near this port,- </p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">John Cowan</cell>
+                     <cell role="data" rows="1" cols="1">Baker's creek about 1/2 miles <lb/> from the mouth.</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Deirmon</name>, near the <lb/> mouth of Baker's creek <lb/> on the banks of Tennessee.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Hanse Russel</name>
+                        <lb/>
+                        <name>Joseph Ore</name>
+                        <lb/>
+                        <name>James Gagley</name>
+                        <lb/>
+                        <name>James Hazen</name>
+                        <lb/>
+                        <name>Ezekel Henry</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Near Cownan's</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>David Mongomery</name>
+                        <lb/> near Dierman's</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="sl723b.small.jpg"/>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">__ Bell. at Big Spring <lb/> __ Townsley at Cedar creek</cell>
+                     <cell role="data" rows="1" cols="1">On the road to <name>Knoxville</name>.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Taylor</name>
+                        <lb/> ___ Hannah <lb/>
+                        <name>John Hannah</name>
+                        <lb/>
+                        <name>Samuel Hannah</name>
+                        <lb/> ___ Calbraith <lb/> ___ Robinson <lb/> ___ Condron <lb/>
+                        <name>John Williams</name>
+                        <lb/>
+                        <name>Enoch Williams</name>
+                        <lb/>
+                        <name>John Wallace</name>
+                        <lb/>
+                        <name>James Wallace</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">On Nine mile creek and its waters</cell>
+                  </row>
+               </table>
+            </p>
+            <p>There are many others, but I have not been able to obtain their names, and preparations are, I understand, almost daily making for new settlements,</p>
+            <p>The object of the law appears to have been, to <unclear>convince</unclear> the Cherokees that their rights should be secured if they would remain at peace.</p>
+            <closer>
+               <salute>I have the <choice>
+                     <orig>honour</orig>
+                     <reg>honor</reg>
+                  </choice> to be <lb/> with respectful esteem, <lb/> Sir, <lb/> your obedient Servant</salute>
+               <signed>
+                  <name>Silas Dinsmoore</name>
+                  <add>
+                     <unclear>agent to Cherokees</unclear>
+                  </add>
+               </signed>
+               <address>
+                  <addrLine>His excellency <lb/> Governor Sevier</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

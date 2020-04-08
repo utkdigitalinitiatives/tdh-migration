@@ -1,0 +1,506 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc129">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Estate Sale] 1806 Feb. 27, of goods and chattels belonging to James Law, deceased : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc129</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Estate Sale] 1806 Feb. 27, of goods and chattels belonging to James Law, deceased</title>
+               <date when="1806-02-27">February 27, 1806 
+			 </date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is an inventory of an estate sale dated February 27, 1806. The belongings of James Law, deceased, were sold at a public vendue.</note>
+               <note type="collection" anchored="true">Fink and Dulaney Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sc129</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Estate sales</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc129a.small.jpg"/>
+            <p>
+               <table>
+                  <head>An Inventory of the goods and <choice>
+                        <orig>Chattles</orig>
+                        <reg>Chattels</reg>
+                     </choice> Belonging to the Estate of <name>James Law</name> Deceased and sold at <choice>
+                        <orig>publick</orig>
+                        <reg>public</reg>
+                     </choice> Vendue the 27th <choice>
+                        <abbr>febry</abbr>
+                        <expan>February</expan>
+                     </choice>. 1806</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Purchasers Names</cell>
+                     <cell role="data" rows="1" cols="1">Articles Sold</cell>
+                     <cell role="data" rows="1" cols="1">Price</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Helm</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Spade_</cell>
+                     <cell role="data" rows="1" cols="1">076</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>James Kenny</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Mattock_</cell>
+                     <cell role="data" rows="1" cols="1">080</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Joseph Kerlin</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Corn Hoe_</cell>
+                     <cell role="data" rows="1" cols="1">027</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Robert Macklin</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 falling ax_</cell>
+                     <cell role="data" rows="1" cols="1">0108</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Joseph Kerlin_</cell>
+                     <cell role="data" rows="1" cols="1">4 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">060</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Robert Warren</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 old Ditto</cell>
+                     <cell role="data" rows="1" cols="1">030</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Philip McCardell</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Coulter_</cell>
+                     <cell role="data" rows="1" cols="1">027</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Robert Warren_</cell>
+                     <cell role="data" rows="1" cols="1">4 Corn Hoe_</cell>
+                     <cell role="data" rows="1" cols="1">049</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Ebenezer McEwen</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Cask, Auger &amp; Cutting knife_</cell>
+                     <cell role="data" rows="1" cols="1">046</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Robert Payne</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 half Bushel_</cell>
+                     <cell role="data" rows="1" cols="1">029</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Lewis Jordan</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <orig>fatt</orig>
+                           <reg>fat</reg>
+                        </choice>
+                        <choice>
+                           <orig>Tubb</orig>
+                           <reg>Tub</reg>
+                        </choice>_</cell>
+                     <cell role="data" rows="1" cols="1">021</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Lewis Jordan_</cell>
+                     <cell role="data" rows="1" cols="1">1 Ditto</cell>
+                     <cell role="data" rows="1" cols="1">027</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Lewis Jordan_</cell>
+                     <cell role="data" rows="1" cols="1">4 Meat Tub</cell>
+                     <cell role="data" rows="1" cols="1">071</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Philip McCardell_</cell>
+                     <cell role="data" rows="1" cols="1">4 Cutting Box_</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>George Gillispie</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Kettle_</cell>
+                     <cell role="data" rows="1" cols="1">153</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Old <name>Mrs. Kenny</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">4 Washing Tub</cell>
+                     <cell role="data" rows="1" cols="1">020</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Robert Warren_</cell>
+                     <cell role="data" rows="1" cols="1">2 Sickles_</cell>
+                     <cell role="data" rows="1" cols="1">066</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mrs. Law</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Bucket and drawing knife</cell>
+                     <cell role="data" rows="1" cols="1">021</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Robert Payne_</cell>
+                     <cell role="data" rows="1" cols="1">2 Pails</cell>
+                     <cell role="data" rows="1" cols="1">040</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Gwin</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Set of horse Gears_</cell>
+                     <cell role="data" rows="1" cols="1">0160</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Smith</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">0171</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jesse Payne <choice>
+                              <abbr>Junr</abbr>
+                              <expan>Junior</expan>
+                           </choice>
+                        </name>._</cell>
+                     <cell role="data" rows="1" cols="1">4 Small Plough_</cell>
+                     <cell role="data" rows="1" cols="1">0167</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 Small oven 1 pot &amp; 2 pair of hooks_</cell>
+                     <cell role="data" rows="1" cols="1">0120</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Robert Payne_</cell>
+                     <cell role="data" rows="1" cols="1">2 Honey Crocks_</cell>
+                     <cell role="data" rows="1" cols="1">062</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Henry Payne</name>_</cell>
+                     <cell role="data" rows="1" cols="1">2 Small Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">019-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Williams</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 pair of Bedsteads_</cell>
+                     <cell role="data" rows="1" cols="1">034</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Henry Payne_</cell>
+                     <cell role="data" rows="1" cols="1">2 Chairs_</cell>
+                     <cell role="data" rows="1" cols="1">050</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Robert Warren_</cell>
+                     <cell role="data" rows="1" cols="1">4 Walnut Table_</cell>
+                     <cell role="data" rows="1" cols="1">0125</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Gabriel Seahorn</name>_</cell>
+                     <cell role="data" rows="1" cols="1">2 Chairs_</cell>
+                     <cell role="data" rows="1" cols="1">020</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">3 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">060</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Adam Lowry</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Pressing Iron_</cell>
+                     <cell role="data" rows="1" cols="1">051</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Adam Lowry_</cell>
+                     <cell role="data" rows="1" cols="1">1 Pair of Taylors Shears_</cell>
+                     <cell role="data" rows="1" cols="1">046</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 feather Bed &amp; bedding_</cell>
+                     <cell role="data" rows="1" cols="1">200</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">200</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Barkley</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Bedstead &amp; Cord_</cell>
+                     <cell role="data" rows="1" cols="1">0138</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 Walnut Chest_</cell>
+                     <cell role="data" rows="1" cols="1">0150</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Nancy Law</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">060</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">To Cupboard furniture_</cell>
+                     <cell role="data" rows="1" cols="1">1160</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Robert Warren_</cell>
+                     <cell role="data" rows="1" cols="1">4  Cupboard_</cell>
+                     <cell role="data" rows="1" cols="1">3127</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 Ladys Saddle_</cell>
+                     <cell role="data" rows="1" cols="1">1100</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Robert McClure</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Mans Saddle_</cell>
+                     <cell role="data" rows="1" cols="1">140</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">2 Spinning Wheels_</cell>
+                     <cell role="data" rows="1" cols="1">0150</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Peggy Law</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Reel_</cell>
+                     <cell role="data" rows="1" cols="1">046</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jesse Payne <choice>
+                              <abbr>Senr</abbr>
+                              <expan>Senior</expan>
+                           </choice>
+                        </name>._</cell>
+                     <cell role="data" rows="1" cols="1">1 Cart_</cell>
+                     <cell role="data" rows="1" cols="1">2100</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Brannon</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Large Plough_</cell>
+                     <cell role="data" rows="1" cols="1">224</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Joseph White</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Shovel Plough_</cell>
+                     <cell role="data" rows="1" cols="1">0107</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Joseph Kerlin_</cell>
+                     <cell role="data" rows="1" cols="1">1 flax Brake_</cell>
+                     <cell role="data" rows="1" cols="1">016</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Patton</name>_</cell>
+                     <cell role="data" rows="1" cols="1">2 Sheep_</cell>
+                     <cell role="data" rows="1" cols="1">141</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Doake</name>_</cell>
+                     <cell role="data" rows="1" cols="1">2 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">0152</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">Amount Carried Over £</cell>
+                     <cell role="data" rows="1" cols="1">3363</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="sc129b.small.jpg"/>
+               <table>
+                  <head>Vendue List Continued from the Other Side</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Purchasers Names</cell>
+                     <cell role="data" rows="1" cols="1">Articles Sold</cell>
+                     <cell role="data" rows="1" cols="1">Price</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Amount Brought Over</cell>
+                     <cell role="data" rows="1" cols="1">from the Other Side_</cell>
+                     <cell role="data" rows="1" cols="1">3363</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>James Simpson</name>_</cell>
+                     <cell role="data" rows="1" cols="1">4 Black Ewe_</cell>
+                     <cell role="data" rows="1" cols="1">096</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Thomas Biddle</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Red Cow_</cell>
+                     <cell role="data" rows="1" cols="1">290</cell>
+                     <cell role="data" rows="1" cols="1">Thomas Biddle_</cell>
+                     <cell role="data" rows="1" cols="1">1 Brindled Cow_</cell>
+                     <cell role="data" rows="1" cols="1">260</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Thomas Biddle_</cell>
+                     <cell role="data" rows="1" cols="1">1 Dun Cow and Bell_</cell>
+                     <cell role="data" rows="1" cols="1">330</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Peggy Law</cell>
+                     <cell role="data" rows="1" cols="1">1 Roan Colt_</cell>
+                     <cell role="data" rows="1" cols="1">820</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Barkley</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 Yearling Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">700</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">4 Black Mare_</cell>
+                     <cell role="data" rows="1" cols="1">1004</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">To a Quantity of flax_</cell>
+                     <cell role="data" rows="1" cols="1">401</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Peggy Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 Bed &amp; Bedding_</cell>
+                     <cell role="data" rows="1" cols="1">4101</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">1 Basket and Books_</cell>
+                     <cell role="data" rows="1" cols="1">061</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Tadok Willet</name>_</cell>
+                     <cell role="data" rows="1" cols="1">1 fire Shovel &amp; tongs_</cell>
+                     <cell role="data" rows="1" cols="1">0150</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Ebenezer McEwen_</cell>
+                     <cell role="data" rows="1" cols="1">10 Geese_</cell>
+                     <cell role="data" rows="1" cols="1">171</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mrs. Law_</cell>
+                     <cell role="data" rows="1" cols="1">3 Ditto_</cell>
+                     <cell role="data" rows="1" cols="1">056</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Henry Payne_</cell>
+                     <cell role="data" rows="1" cols="1">1 Churn_</cell>
+                     <cell role="data" rows="1" cols="1">076</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">Total <choice>
+                           <abbr>Amt</abbr>
+                           <expan>Amount</expan>
+                        </choice>. of Vendue_£</cell>
+                     <cell role="data" rows="1" cols="1">7568</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Sale Bill of James Laws Estate</p>
+         </div>
+      </body>
+   </text>
+</TEI>

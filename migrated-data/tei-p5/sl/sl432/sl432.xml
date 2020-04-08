@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl432">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Advertisement] 1848 Morton, Smith &amp; Company   : a machine readable transcription of an image</title>
+            <author>Morton, Smith &amp; Company</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl432</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Advertisement] 1848 Morton, Smith &amp; Company</title>
+               <author>Morton, Smith &amp; Company</author>
+               <date when="1848">1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is an advertisement by Morton, Smith &amp; Company dated 1848 for the sale, by auction, of staple and fancy dry goods.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl432</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Advertising</term>
+               <term>Profit</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">Morton, Smith and Company</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl432a.small.jpg"/>
+            <p>FRESH ARRIVALS <lb/>of  <lb/> NEW STAPLE AND FANCY GOODS, <lb/> for <lb/> AUCTION SALES</p>
+            <p>We have just received, direct from the Eastern Cities, a large, well=assorted and desirable Stock of 	NEW STAPLE AND FANCY DRY GOODS, which we can, and will sell at unusually low prices, and which we will offer at Auction without reserve, on Tuesday, Wednesday and Thursday, the 11th, 12th, and 18th of July next.</p>
+            <p>Our Stock is very complete, embracing almost every variety of Dry Goods.  Also a large lot of Hats, Bonnets, Boots, and Shoes.  Terms Liberal.  And on Friday the 14th, we will sell for cash, a general variety of GROCERIES, LIQUORS, <choice>
+                  <abbr>&amp;C</abbr>
+                  <expan>and et cetera</expan>
+               </choice>. MORTON, SMITH &amp; <choice>
+                  <abbr>CO</abbr>
+                  <expan>Company</expan>
+               </choice>. <name>Nashville</name>, <date>June 17th, 1848</date>
+            </p>
+            <p>FUTURE SALES.  August 8th, 9th and 10th; September 19th, 20th and 21st; October, 10th, 11th and 12th; November, 7th, 8th, and 9th; December 5th, 6th and 7th. <choice>
+                  <abbr>M</abbr>
+                  <expan>Morton</expan>
+               </choice>.<choice>
+                  <abbr>S</abbr>
+                  <expan>Smith</expan>
+               </choice>. &amp; <choice>
+                  <abbr>CO</abbr>
+                  <expan>Company</expan>
+               </choice>. <add>
+                  <name>John T.S. Fall</name>, Book and Job Pr-<name>Nashville</name>, <choice>
+                     <abbr/>
+                     <expan>Tennessee</expan>
+                  </choice>.</add>
+               <pb n="2" facs="sl432b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc>NASHVILLE <choice>
+                           <abbr>T</abbr>
+                           <expan>Tennessee</expan>
+                        </choice> PAID 3</figDesc>
+                  </figure>
+               </add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>A</abbr>
+                        <expan>Adam</expan>
+                     </choice> Fergusson Carthage <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

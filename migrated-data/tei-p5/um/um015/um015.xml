@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Jun. 9 [to] Alexander D. Coffee  / Andrew J. Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um015</idno>
+            <idno>OCLC: 50199754</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1849 Jun. 9 [to] Alexander D. Coffee  / Andrew J. Coffee</title>
+               <author>Coffee, Andrew J.</author>
+               <date when="1849-06-09">June 9, 1849</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a letter to Alexander Coffee, dated June 9, 1849 from his brother Andrew Jackson Coffee regarding the sale of slaves in New Orleans and the death of General Gaines.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers, MS27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">17</note>
+               <note type="document" anchored="true">um015</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Slaves</term>
+               <term>Louisiana</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um015a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">New Orleans</name>
+                  </addrLine>
+               </address>
+               <date when="1849-06-09">June 9th 1849</date>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice>
+                  <name type="person">Alex</name>
+               </salute>
+            </opener>
+            <p>I have made inquiries as to the mode of selling negroes in this state and find that if you refuse to <choice>
+                  <orig>garantee</orig>
+                  <reg>guarantee</reg>
+               </choice> the qualities of  the negro except the title &amp; health the law does not provide for a recovery against you on account of bad habits, and you can safely send your boy Henry here for sale, but this is a bad time of the year to sell &amp; negroes are now very low. <name type="place">Memphis</name> is said to be a good market. If you conclude to send him here I will do all I can to sell him to the best advantage, By the bye speaking of buying negroes I would like to purchase from you Emily and <unclear>Mu??ch</unclear> her daughter ( you got ⁁<add place="supralinear">them</add> from <name type="person">Clinton Heslep</name>.) It has always been the wish of <name type="person">Mrs <choice>
+                     <abbr>C</abbr>
+                     <expan>Coffee</expan>
+                  </choice>
+               </name>— and myself to repurchase them whenever we were able to do so, and I will feel it a particular obligation if you will let me take them off of your hands.</p>
+            <p>I know nothing of the Cotton Market, for I never enquire about it. The overflow of the city still continues though it has not increased for some time</p>
+            <p>You have no doubt seen accounts of the death of the old hero <name type="person">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Gaines</name>, he was to old to be of Service to the country, but he was so proud a man that he is a serious loss to us</p>
+            <p>Give my regards to Ann, Ma &amp; the family and be</p>
+            <closer>
+               <salute>Your Brother</salute>
+               <signed>
+                  <name type="person">
+                     <emph>Andrew J. Coffee</emph>
+                  </name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

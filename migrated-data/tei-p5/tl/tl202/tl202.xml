@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl202">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1829 April 29 [to] Governor Sam Houston, Nashville, Tennessee / T. A. Howard  : a machine readable transcription of an image</title>
+            <author>Howard, T. A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl202</idno>
+            <idno>OCLC: 49930538</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1829 April 29 [to] Governor Sam Houston, Nashville, Tennessee / T. A. Howard  </title>
+               <author>Howard, T. A.</author>
+               <date when="1829-04-29">April 29, 1829</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter written April 29, 1829 by  T. A. Howard to Sam Houston. Howard expresses his deep regret that Sam Houston has resigned as Governor of Tennessee.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true">Allen - Strong, b1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">tl202</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Houston, Sam, 1793-1863</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Howard, T. A.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl202a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Greeneville <choice>
+                        <abbr>(Ten.) </abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                     <date>29 <choice>
+                           <abbr>Apl.</abbr>
+                           <expan>April</expan>
+                        </choice> 1829</date>
+                  </addrLine>
+               </address>
+               <salute>My dear friend,</salute>
+            </opener>
+            <p>Since my arrival here, I saw your resignation of the office of Chief-magistrate of this State, and <emph>I</emph> need not tell <emph>you</emph> that such an item of intelligence, excited my deepest regret.— To remain silent, when my friend had deemed it proper to take such a course, at the moment at which his country was <sic>was</sic> holding out to him the most flattering prospect of a renewal of her confidence, would be unpardonable, and would prove me recreant to every principle of noble and generous friendship.— The confidence I have ever reposed in you, forbids me to imagine that the course was within rank or ill advised; and whilst I deplore the event, and regret with the utmost poignancy, the existence of causes, which may have led to this unexpected and unwelcome catastrophe, permit me to assure you <del type="overstrike">to assure you</del>in the sincerity of my heart, that the spirit of friendship unabated, and of confidence undiminished continues to animate my bosom <choice>
+                  <orig>to wards</orig>
+                  <reg>towards</reg>
+               </choice> you. —</p>
+            <p>In retiring from the scene of political life, you ought to remember that you are still <emph>Houston;</emph> that although you may have misfortunes unforeseen, and therefore unprovided against visited upon you, yet that these things should not be permitted to drink up your spirits, or to prostrate him whose enemies could not in the days of  prosperity find the means to destroy.— Go where you will, — let whatever destiny await you which an inscrutable providence may appoint, I shall still remember with the highest feelings of friendship our mutual and unqualified attachments.</p>
+            <closer>
+               <salute>May heaven preserve you.</salute>
+            </closer>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">T. A. Howard</name>
+                  </emph>
+               </signed>
+               <add>
+                  <address>
+                     <addrLine>Sam: Houston,</addrLine>
+                     <addrLine>Late Governor of <name type="place">Tennessee</name>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+            <pb n="2" facs="tl202b.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>Greeneville <choice>
+                        <abbr>T</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>}</addrLine>
+               </address>
+               <date when="1828-05-03">3rd May 1829</date>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Gen.</abbr>
+                        <expan>General</expan>
+                     </choice> Samuel Houston</addrLine>
+                  <addrLine>Nashville, Tennessee <add place="left of address">mail}</add>
+                  </addrLine>
+               </address>
+               <add>
+                  <name type="person">T.A. Howard</name>
+               </add>
+               <add>
+                  <date when="1829-04-29">29 Apr 29</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

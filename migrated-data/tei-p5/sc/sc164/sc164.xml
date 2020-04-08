@@ -1,0 +1,152 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc164">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1809 Aug. 6, Knoxville [to] Return J. Meigs, Highwassee / John Sevier : a machine readable transcription of an image</title>
+            <author> Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc164</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1809 Aug. 6, Knoxville [to] Return J. Meigs, Highwassee / John Sevier </title>
+               <author>Sevier, John</author>
+               <date when="1809-08-06">August 6, 1809</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter written in 1809 by John Sevier to Return J. Meigs regarding a postponed meeting with various Indian Chiefs.</note>
+               <note type="collection" anchored="true">John Sevier Letters</note>
+               <note type="box" anchored="true">MS-368</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc164</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians of North America -- Treaties</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc164a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <date>August 6, 1809</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I received your letter of the 31 July <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice>. I am sorry the Indian Chiefs cannot attend before the 25th of September and what have induced them to postpone the meeting is strange to me_ I have seen several persons out of the nation who, informed me, the Indians were preparing to meet on the 20th of August. I should have no objection to the postponement, did it not interfere with the meeting of the assembly, which convenes on the 18th of September, and my being a member places it out of my power to attend the Treaty, which is absolutely necessary for me to do, as I have been engaged <del type="overstrike">for</del> in making preparations for some time on that head. I am also <choice>
+                  <orig>fearfull</orig>
+                  <reg>fearful</reg>
+               </choice> that the <choice>
+                  <orig>puting</orig>
+                  <reg>putting</reg>
+               </choice> off so long will be inconvenient for <name>General Robertson</name>, who I expect is in the nation on his way to the Treaty_ If the Indians cannot <pb n="2" facs="sc164b.small.jpg"/>
+               <sic>cannot</sic> convene before the 25th of September, I am <choice>
+                  <orig>doubtfull</orig>
+                  <reg>doubtful</reg>
+               </choice> we cannot attend before late in October, or first of November, of which I will advise you so soon as I may hear from the General</p>
+            <closer>
+               <salute>Very Respectfully, your <choice>
+                     <abbr>obed. Servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>.</salute>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>. Return J Meigs</name>
+               </add>
+            </closer>
+            <pb n="3" facs="sc164c.small.jpg"/>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <p>
+               <address>
+                  <addrLine>Colonel Return J. Meigs <lb/> Agent for the War department <lb/>
+                     <name>Highwassee</name>
+                  </addrLine>
+               </address>
+               <add>mail</add>
+               <add>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice>. Sevier letter <lb/> 6th August 1809 <lb/> postponed</add>
+               <add>Governor Seviers <lb/> letter 6th August <lb/>1809 postponement of <lb/> the treaty _</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

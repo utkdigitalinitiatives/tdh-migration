@@ -1,0 +1,201 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl200">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]    1833 Jul. 10, Brooklia, [to] Sarah M. Claybrooke / John S. Claybrooke : a machine readable transcription of an image</title>
+            <author>Claybrooke, John S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl200</idno>
+            <idno>OCLC: 51196840</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter]    1833 Jul. 10, Brooklia, [to] Sarah M. Claybrooke / John S. Claybrooke</title>
+               <author>Claybrooke, John S. </author>
+               <date when="1833-07-10">July 10, 1833</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated July 10, 1833 to Sarah M. Claybrooke from her brother John S. Claybrooke. John writes that he is concerned over three letters, two including gifts,  not yet received by his family. He gives the family a brief update on the contents of the previous letters and tells them of other matters occurring in Tennessee. His brother Thomas also includes a note to the family saying that he is well.</note>
+               <note type="collection" anchored="true">Orr Collection, IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl200</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Claybrooke, John S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl200a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Brooklia</name>
+                     <date when="--07">July</date>
+                     <date when="1833-07-10">July 10th 1833</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear relations</salute>
+            </opener>
+            <p>I received your letter dated June 16th which should have been answered sooner but as it was intended for <del type="overstrike">him</del> ⁁ <add place="supralinear">brother <choice>
+                     <abbr>JSC</abbr>
+                     <expan>John S. Claybrooke</expan>
+                  </choice>
+               </add> as well as myself, I concluded to wait until he arrived. He arrived a few days ago <choice>
+                  <orig>accompanyed</orig>
+                  <reg>accompanied</reg>
+               </choice> by<name type="person"> James May</name>
+            </p>
+            <p>I am sorry that you have not received my letters for I have never failed to answer yours almost as soon as <choice>
+                  <abbr> recvd</abbr>
+                  <expan>received</expan>
+               </choice>  Let me <unclear>entreat?</unclear> you never to be uneasy on my account for if any misfortune should <choice>
+                  <orig>befal</orig>
+                  <reg>befall</reg>
+               </choice> me so as to disable me from writing, I will get some of my friends to write for me Recollect it is not in my power to carry my letters to the office as easily as you can therefore you <unclear>must calculately meily</unclear>  as to the times you will <choice>
+                  <orig>receve</orig>
+                  <reg>receive</reg>
+               </choice> them. I am not in mood for writing at this ⁁ <add place="supralinear">time</add> as I have been pestered with surveyors and <unclear>chimicasrios?</unclear> for several days. Tell <name type="person">Jim</name> he must salt the colts well, particularly Star and he must not let the mules kill them, tell <name type="person">Sal </name>she need be <unclear>Sure</unclear> to knit my socks I must conclude as John is hurrying of me. Give my love to all enquiring friends <choice>
+                  <abbr>TWC</abbr>
+                  <expan>Thomas W. Claybrooke</expan>
+               </choice>
+            </p>
+            <p>My Dear Relations (Continued) I have just read over your letter directed to Thomas and find by said letter you have not <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a letter from me since the death our Uncle. I have written you three letters since the <date when="1833-04-12">12th of April</date>, at which time our Uncle departed this life. The first letter I wrote you , was in a few days after his death, giving you all the particulars relative to his sickness and his death, and in said letter, I enclosed a beautiful purse, made of beads, as ⁁ <add place="supralinear">a</add> present for my nephew <name type="person">James Hart</name>, with a piece poetry attached to the purse, of which I was <pb n="2" facs="sl200b.small.jpg"/> the author. — I took a great deal of trouble &amp; pains in sending this purse. I sealed up the letter in the presence of the Postmaster in <name type="place">Nashville</name> &amp; paid the double postage. In my next letter, I enclosed a beautiful belt made of beads for S.O. This second ⁁ <add place="supralinear">letter</add> was written <del type="overstrike">in</del> about ten days after the first, bearing date about <date when="1833-05-01">1st May</date>, and completing a full history and a minute detail of matters relative to my Uncles death, and as to ⁁ <add place="supralinear">the</add> management of his estate. I waited with a great deal of patience and anxiety to <choice>
+                  <orig>receve</orig>
+                  <reg>receive</reg>
+               </choice> answers to these several letters, but alas in vain!— I heard you all were in usual health, a few days previous to my departure from <name type="place">Williamson County</name> on the <date when="1833-07-01">1st July</date>, through a letter <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> from <name type="person">Dr. Coates</name>, in  answer to one I had written sometime about the <date when="1833-05-15">15th of May</date>. I am truly sorry, if said letters containing the above named presents are lost, <choice>
+                  <orig>particuly</orig>
+                  <reg>particularly</reg>
+               </choice> too, as they contained other valuable &amp; important information. I hope you have <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> them before this time and they are <choice>
+                  <abbr>answd</abbr>
+                  <expan>answered</expan>
+               </choice> ; if otherwise, I shall get the <choice>
+                  <abbr>PM</abbr>
+                  <expan>Post Master</expan>
+               </choice> General to enquire into the cause of their not going to <name type="place">Pottiesville</name>. It is possible they may have been broken &amp; destroyed by the servant you send to the office. You can easily ascertain by reference to the P. M. at Pottiesville. I have been very sick for the last six weeks with the <choice>
+                  <orig>meazles</orig>
+                  <reg>measles</reg>
+               </choice>, until within in a few day past</p>
+            <p>When I left Nashville, I was so weak, it was with the greatest difficulty I ⁁ <add place="supralinear">could</add> ride however the nature of my business required my presence in this section of the State, and I mended every day until I have entirely regained my strength &amp; health. There has been more sickness in <name type="place"> Williamson &amp; Davidson Counties</name>, and more deaths within <pb n="3" facs="sl200c.small.jpg"/> the last ten months, than there has been in the whole ten years previous. There were as many as 60 cases of Cholera in a day, in the little town  Nashville. Many of its most conspicuous, enterprising and valuable citizens have died with this malady. Eighty, out of 85 convicted in the Penitentiary had the Cholera. My friends were very uneasy for fear I would take it , as it is considered contagious in this country. I was compelled to be in Nashville when it was raging there. I found Thomas &amp; all the negroes well. Crops are good here as well as ⁁ <add place="supralinear">in</add> middle Tennessee. We rather <choice>
+                  <orig>overcroped</orig>
+                  <reg>over cropped</reg>
+               </choice> ourselves owing to this circumstance <choice>
+                  <abbr>i.e.</abbr>
+                  <expan>id est</expan>
+               </choice> I expected we should get more hands, when I pitched the crop. We have not got the P. Office established as yet, on account of my having so much business on hand which was obliged to be attended to, and of course, I could not correspond with P. M. G. upon the subject. I shall write to him in the course of a few days. I have written upwards of one hundred letters since my Executorship commenced, and these too, were generally written after sunset. I recd a few days since, a very friendly ⁁ <add place="supralinear">letter</add> from the President of the United States. I shall answer it, so soon as I return to Nashville. I shall leave here tomorrow on my journey through 8 counties to pay the taxes on lands⁁ <add place="supralinear">that were</add> belonging to <name type="person">Judge Overton</name>, ⁁ <add place="supralinear">and</add> I will then return by here on <add place="supralinear">my</add> way to Nashville and from there to my S <add place="supralinear">c</add> hool house, to resume an occupation, from which in long, I hope to retire, and to repair an already shattered constitution, although I have never had any sickness to prevent me from attending to my avocation since I crossed the <name type="place">
+                  <choice>
+                     <orig>Alleghany </orig>
+                     <reg>Allegheny</reg>
+                  </choice>Mountains</name>, notwithstanding I cannot <pb n="4" facs="sl200d.small.jpg"/> undergo half the fatigue, that I could two years ago. You must write me a letter directly this is <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> informing me whether my letters have ever been <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> — Give my respects to all acquaintances, for friends, (except my relations) I have but few. We are all well, tell Father, and I think are doing well. Give my love to him and ask him to save for ⁁ <add place="supralinear">me</add> the colt called <gap agent="damage"/> , as I hope next spring to visit <choice>
+                  <abbr>Va.</abbr>
+                  <expan>Virginia</expan>
+               </choice>  to see all once ⁁ <add place="supralinear">more</add> provided I decline teaching this fall.</p>
+            <p>
+               <choice>
+                  <abbr>NB</abbr>
+                  <expan>Nota Bene</expan>
+               </choice> It is past 12 Oclock in the night. Excuse me }as I am fatigued from surveying}</p>
+            <closer>
+               <salute>Yours relations affectionately</salute>
+               <signed>
+                  <name type="person">John S Claybrooke</name>
+               </signed>
+               <add place="middle of page">
+                  <address>
+                     <addrLine>via <name type="place">Washington City</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Canisburg <choice>
+                              <abbr>Ten</abbr>
+                              <expan>Tennessee </expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                     <addrLine>
+                        <date when="1833-07-12">12 <choice>
+                              <abbr>Jul</abbr>
+                              <expan>July</expan>
+                           </choice>
+                        </date>
+                     </addrLine>
+                     <addrLine>
+                        <name type="person">Miss Sarah M. Claybrooke</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Pottiesville</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Louisa County</name>,</addrLine>
+                     <addrLine>
+                        <name type="place">Virginia</name>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

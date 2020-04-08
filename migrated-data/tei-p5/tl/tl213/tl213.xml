@@ -1,0 +1,157 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl213">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Apr. 19, Greeneville, Tenn[essee] [to] Governor Sam Houston, Nashville, Tennessee / Richard M. Woods: a machine readable transcription of an image</title>
+            <author>Woods, Richard M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl213</idno>
+            <idno>OCLC: 49961038</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Apr. 19, Greeneville, Tenn[essee] [to] Governor Sam Houston, Nashville, Tennessee / Richard M. Woods</title>
+               <author>Woods, Richard M.</author>
+               <date when="1828-04-19">April 19, 1828</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter to Tennessee Governor Sam Houston from Richard M. Woods, Sheriff of Greene County regarding an escaped convict. The Sheriff asks the Governor to offer a reward for the capture of Daniel Dyche who was convicted for the murder of David Adams.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true"> Jackson - Woods, b1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">tl213</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dyche, Daniel</term>
+               <term>Fugitive from justice</term>
+               <term>Houston, Sam, 1793-1863</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Woods, Richard M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl213a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Greeneville</name>
+                     <name type="place">Greene County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">East Tennessee</name>
+                     <date when="1828-04-19">19th April 1828</date>
+                  </addrLine>
+               </address>
+               <salute>His Excellency <name type="person">Samuel Houston</name> esquire</salute>
+            </opener>
+            <p>On the night of the 15th of this <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> a fellow by the name of  <name type="person">Daniel Dyche</name> with another in Company broke the Jail of this County and made his escape. He was tried and convicted at the last September Term of the Circuit Court here for the wanton and unprovoked Murder of his Neighbor and Friend— <name type="person">David Adams</name>, as appeared from the Evidence on the Trial—and no extenuating Circumstance but the too free use of Whiskey—</p>
+            <p>The object of this is to ask your Excellency to offer a Reward for the Villain proportioned to the magnitude of his Crime, that he may suffer that punishment which the Law has directed to be inflicted— but from which with the Assistance of one or more villains from the <choice>
+                  <orig>Out-side</orig>
+                  <reg>Outside</reg>
+               </choice> of the Jail he has at present escaped— Adams's <choice>
+                  <orig>connexions</orig>
+                  <reg>connections</reg>
+               </choice> are poor, respectable, but unable to offer any Reward for his Apprehension—</p>
+            <p>Be pleased to direct as General a Publication as the Case will admit of particularly in the Papers of East Tennessee</p>
+            <closer>
+               <salute>Respectfully <choice>
+                     <abbr>Yr. Obdt</abbr>
+                     <expan>Your Obedient</expan>
+                  </choice>.</salute>
+               <signed>
+                  <name type="person">Richard M. Woods</name>
+               </signed>
+               <signed>Sheriff of Greene County</signed>
+               <add place="bottom">
+                  <note>
+                     <p>Daniel Dyche is about 22 or 23 years of Age but appears much younger than he really is—smooth face—not much Beard— dark Skin—bleached by a length of confinement in prison— dark, thick, straight hair <choice>
+                           <orig>trimed</orig>
+                           <reg>trimmed</reg>
+                        </choice> in <pb n="3" facs="tl213c.small.jpg"/> the modern Fashion round the forehead and ears— small dark or black eyes—Down look, his Countenance that of a desperate unfeeling Villain, tinged with Melancholy— round full face, tolerably well set, about 5 Feet 6 or 8 inches high— of Dutch extraction, speaks pretty good English— but slow with a fine Voice—fond of Spirituous Liquors and clothed in Home Spun—His legs and Wrists it is thought will bear the marks of his Irons for some time— It is probable that he will endeavor to make his Way to <name type="place">Virginia</name>—</p>
+                  </note>
+               </add>
+               <pb n="3" facs="tl213c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Greenville</orig>
+                        <reg>Greeneville</reg>
+                     </choice> Tenn} 18 3/4</addrLine>
+                  <addrLine>
+                     <date when="1828-04-20">April 20, 1828</date>
+                  </addrLine>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>Samuel Houston Esquire</addrLine>
+                  <addrLine>Governor of <name type="place">Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+               </address>
+               <add place="left">Mail</add>
+               <add place="under address" rend="different hand and ink">
+                  <note>
+                     <p>from Jos. Woods Sheriff of Greene <choice>
+                           <abbr>Cty</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </p>
+                     <p> Let the reward offered be to the limit of the <emph>Statute!</emph>
+                     </p>
+                  </note>
+               </add>
+               <add place="side of address" rend="penciled in ">Reward Houston <date when="1828">1828</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

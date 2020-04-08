@@ -1,0 +1,222 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1802 Feb. 13, [to] Governor [Archibald] Roane of the
+			 State of Tennessee / Benjamin Hawkins: a machine-readable transcription of an
+			 image</title>
+            <author>Hawkins, Benjamin</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Chadwell</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl002</idno>
+            <idno>OCLC: 47783699</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1802 Feb. 13, [to] Governor [Archibald] Roane of the
+				State of Tennessee / Benjamin Hawkins </title>
+               <author>Hawkins, Benjamin</author>
+               <date when="1802-02-13">February 13, 1802 </date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter written by Benjamin
+				Hawkins, Agent for Indian Affairs South of Ohio, to Tennessee Governor
+				Archibald Roane (1801-1803) on February 13, 1802. In the letter Hawkins
+				recommended that all horses and cattle be branded specific to their location,
+				and he offered guidelines for how this should be done. </note>
+               <note type="Collection"> Governor Roane Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">5</note>
+               <note type="Document">tl002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indian agents</term>
+               <term>Cattle--marking</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80118339"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hawkins, Benjamin, 1754-1816</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl002a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Creek <choice>
+                           <orig>agency</orig>
+                           <reg>Agency</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1802-02-13">13th of 
+					 <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice>. 1802</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>I find it important to the preservation of the property of my fellow
+			 citizens bordering on the <choice>
+                  <orig>agency</orig>
+                  <reg>Agency</reg>
+               </choice> for Indian Affairs
+			 South of 
+			 <name type="place">Ohio</name> to recommend <del type="overstrike">to
+		  recommend</del> to their consideration the adoption of the following
+		  regulations All horses and cattle to have brands distinct from those of
+		  property to serve as a guide for the agents, as well as the honest dealers in
+		  horses and cattle. the brands to be Roman letters an inch and half in length to
+		  be put on the right side of the neck under the <choice>
+                  <orig>main</orig>
+                  <reg>mane</reg>
+               </choice> for
+		  horses and two and a half inches in length for cattle to be put on the right
+		  side</p>
+            <p>For 
+			 <name type="place">Tennessee</name> horses <add place="supralinear">and cattle</add> belonging to people on the West side of 
+			 <name type="place">
+                  <choice>
+                     <orig>Cumbarland</orig>
+                     <reg>Cumberland</reg>
+                  </choice>
+				mountain</name> to be branded with the letter A and those on the East side of
+			 that mountain the letter B</p>
+            <p>For 
+			 <name type="place">
+                  <choice>
+                     <orig>NorthCarolina</orig>
+                     <reg>North Carolina</reg>
+                  </choice>
+               </name> the letter C<lb/> For 
+			 <name type="place">
+                  <choice>
+                     <orig>SouthCarolina</orig>
+                     <reg>South Carolina</reg>
+                  </choice>
+               </name> D
+			 <gap agent="damage"/> counties the letter E</p>
+            <p>From 
+			 <name type="place">Jackson County</name> to the forks of
+			 <unclear>Ocmulpee</unclear> and 
+			 <name type="place">Oconee</name> the letter F on the
+			 <unclear>alatamaha</unclear> G From <unclear>alatamaha</unclear> to <unclear>
+                  <name type="unc">St. Marges</name>
+               </unclear> and down that river
+			 H</p>
+            <p>For the 
+			 <name type="place">Mississippi</name> territory</p>
+            <pb n="2" facs="tl002b.small.jpg"/>
+            <p>The settlements on 
+			 <name type="place">Tombigby</name> the letter I and those bordering
+			 on the 
+			 <name type="place">Mississippi</name> K.</p>
+            <p>If your Excellency should concur with me in opinion I request you to
+			 publish this regulation and to recommend to my fellow citizens over whom you
+			 have the <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice> to preside and who may be affected by
+			 it to conform to it.</p>
+            <closer>
+               <salute>I have the <choice>
+                     <orig>honour</orig>
+                     <reg>honor</reg>
+                  </choice> to be very
+				respectfully<lb/>
+                  <unclear>unc</unclear> your Excellencys <lb/> most obedient
+				<unclear>
+                     <choice>
+                        <abbr>srvt</abbr>
+                        <expan>Servant</expan>
+                     </choice>
+                  </unclear>
+               </salute>
+               <signed>
+                  <name type="person">Benjamin Hawkins</name>
+                  <choice>
+                     <orig>agent</orig>
+                     <reg>Agent</reg>
+                  </choice> for Indian <choice>
+                     <orig>affairs</orig>
+                     <reg>Affairs</reg>
+                  </choice>
+                  <lb/>South
+				of 
+				<name type="place">Ohio</name>
+               </signed>
+               <add place="bottom, left">His Excellency <lb/> The Governor of the State <lb/> of 
+			 <name type="place">Tennessee</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="3" facs="tl002c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>the Governor of the State</addrLine>
+                  <addrLine>of 
+				<name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Nov. 23 [to] Charles F. Welcker, Talladega, Ala[bama]  / Richard Grantham : a machine readable transcription of an image</title>
+            <author>Grantham, Richard</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc023</idno>
+            <idno>OCLC: 50472547</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Nov. 23 [to] Charles F. Welcker, Talladega, Ala[bama]  / Richard Grantham</title>
+               <author>Grantham, Richard</author>
+               <date when="1835-11-23">November 23, 1835</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated November 23, 1835 to Charles F. Welcker from Richard Grantham regarding various business deals Grantham is working on for Welcker.</note>
+               <note type="collection" anchored="true">Welker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">June-Dec. 1835</note>
+               <note type="document" anchored="true">mc023</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Grantham, Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc023a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Rogersville <choice>
+                           <abbr>Ten.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                     <date when="1835-11-23">November <add place="supralinear">the</add> 23 1835</date>
+                     <name type="person">Mr. Welcker</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>We have landed safe I found all my Connection well. I saw your Brother at <name type="place">Knoxville</name> as I came on, he had <choice>
+                  <orig>sucseeded</orig>
+                  <reg>succeeded</reg>
+               </choice> in <choice>
+                  <orig>Puting</orig>
+                  <reg>putting</reg>
+               </choice> the<name type="person"> Inmon </name>
+               <choice>
+                  <orig>Bisness</orig>
+                  <reg>Business</reg>
+               </choice> in a note it was left with<name type="person"> S.H. Inmon</name> in <name type="place">Dandridge</name> for Collection. Which on <choice>
+                  <orig>to morrow</orig>
+                  <reg>tomorrow</reg>
+               </choice>
+               <name type="person">James</name> or me one will start to see about it. Frederick told me that he thought he <choice>
+                  <orig>wold</orig>
+                  <reg>would</reg>
+               </choice> have some money for you as I return. With regard to Bacon &amp; Flour the prices <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> James thinks the best plan will be for us to buy at the landing the prices are so <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> high in this Country. We find more hogs than ever was in this county at one season. There will be as much more flour as was thought for in the fore part of the fall every Bushel of Wheat will be sent down the river &amp; all about the same time. James was<choice>
+                  <orig> Desapointed</orig>
+                  <reg>disappointed</reg>
+               </choice> in the Contract he made and is not sorry as yet the Sheriff of this County<name type="person">
+                  <choice>
+                     <abbr> Maj.</abbr>
+                     <expan>Major</expan>
+                  </choice> Bradly</name> told me on Saturday that there was more Hogs in <name type="place">Hawkins County</name>  than he ever Saw before <pb n="2" facs="mc023b.small.jpg"/> and that he thought that pork would fall that in <name type="place">Virginia</name> it was worth six dollars &amp; they are asking $4.50 here, and from the quantity that was here and the prices they were asking and not <del type="overstrike">cell</del>
+               <choice>
+                  <orig>Celling</orig>
+                  <reg>selling</reg>
+               </choice> any. the article pork would fall as such if I <choice>
+                  <orig>cant</orig>
+                  <reg>can't</reg>
+               </choice> buy pork at 4.00 &amp; flour @ 4.00 I <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> think I shall buy here at all. I had some notion of trading our horse for Iron if I Could get a fair Shake We intend to get <name type="person">Sharp</name> to Cast our Mill Irons Shields &amp; Sharp have Connected them selves in <choice>
+                  <orig>Bisness</orig>
+                  <reg>Business</reg>
+               </choice>
+               <name type="person">Shields</name>
+               <choice>
+                  <orig>dose</orig>
+                  <reg>does</reg>
+               </choice> not like the Contract you made with <name type="person">Sharp</name> he thinks Sharp has not got as much as the Casting are worth. I did not get<name type="person"> Biddle'</name> money will try <choice>
+                  <orig>agane</orig>
+                  <reg>again</reg>
+               </choice> before I start. James will be down <choice>
+                  <orig>soone</orig>
+                  <reg>soon</reg>
+               </choice>. all is well <name type="person">Frances</name> &amp; <name type="person">A. E.</name> are well wishes to be remembered. Give our respects to <name type="person">Mrs. Welcker</name>
+               <emph>also</emph>
+               <name type="person"> Henry</name> &amp; <choice>
+                  <orig>actcept</orig>
+                  <reg>accept</reg>
+               </choice> of them yourself as your unworthy Friend</p>
+            <closer>
+               <signed>
+                  <name type="person">Richard Grantham</name>
+               </signed>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>N. B.</abbr>
+                     <expan>Nota Bene</expan>
+                  </choice> Please Excuse my awkwardness in Commencing this letter R. G.</add>
+               <pb n="3" facs="mc023c.small.jpg"/>
+               <add place="top of letter">18 3/5</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. Charles F. Welcker</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Talladega <choice>
+                           <abbr>Ala.</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+            <closer>
+               <add place="bottom of letter">
+                  <choice>
+                     <orig>male</orig>
+                     <reg>mail</reg>
+                  </choice>}</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

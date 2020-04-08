@@ -1,0 +1,200 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Apr. 26, Knoxville, [Tennessee, to] Benj[amin]
+			 Hawkins / J[ohn] S[evier]: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl042</idno>
+            <idno>OCLC: 47832181</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Apr. 26, Knoxville, [Tennessee, to] Benj[amin]
+				Hawkins / J[ohn] S[evier]</title>
+               <author>Sevier, John</author>
+               <date when="1797-04-26">April 26, 1797</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Governor
+				John Sevier (1796-1801, 1803-1809) to Benjamin Hawkins, agent and
+				superintendent to the Creek Nation, dated April 26, 1797. Sevier wrote the
+				letter on behalf of a woman by the name of Lillean Williams, who was taken
+				prisoner by Creeks several years ago. While under Creek supervision, Williams
+				had given birth to a daughter, and since the girl was born in the Creek Nation,
+				she was not released with her mother. Sevier requested that Hawkins make
+				enquiries regarding the whereabouts and possible release of the girl, who was
+				then eight years old.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl042</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek Indians--Claims against</term>
+               <term>Creek Indians--Government relations</term>
+               <term>Hostages</term>
+               <term>Creek Indians--Legal status, laws, etc.</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl042a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name> 
+                        <reg>place</reg> Knoxville</name>
+                     <date when="1797-04-26">26th April 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name type="person">Mrs Lillean Williams</name> an inhabitant of the
+			 State of 
+			 <name type="place">
+                  <choice>
+                     <orig>Gorgia</orig>
+                     <reg>Georgia</reg>
+                  </choice>
+               </name> informed
+			 <add place="supralinear">me</add> on yesterday, that She was taken a prisoner
+			 <del type="overstrike">Several</del> some years ago by the 
+		  <name type="person">Creeks</name> ,  that at the time she was
+		  liberated She left behind her in the town called 
+		  <name type="place">
+                  <unclear>cahjoy</unclear>
+               </name> A small daughter,
+		  which she called <hi rend="underlined">Molly</hi>. the indians called her 
+		  <name type="person">Esnahatehee</name>, about 8 years old </p>
+            <p>
+               <name type="person">Mrs. Williams</name> says that at the time of her
+			 release, the indians refused to let the child come in with her, because it was
+			 born in their Nation, she being pregnant at the time of Being made a prisoner
+			  the child is on the <choice>
+                  <orig>uper</orig>
+                  <reg>upper</reg>
+               </choice>
+               <name type="person">Creek</name> towns about 60 miles below 
+			 <name type="place">
+                  <choice>
+                     <orig>Turky</orig>
+                     <reg>Turkey</reg>
+                  </choice> town</name>
+               <del type="overstrike">You will please to make</del> I have no doubt
+		  you will make the proper enquiry and have the Girl sent in either to this place
+		  or 
+		  <name type="place">
+                  <choice>
+                     <orig>ninty</orig>
+                     <reg>Ninety </reg>
+                  </choice> Six</name>
+            </p>
+            <closer>
+               <salute>I have the honor to be Sir  
+				<choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>JS.</abbr>
+                        <expan>John Sevier</expan>
+                     </choice>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Benj.</abbr>
+                           <expan>Benjamin</expan>
+                        </choice> Hawkins 
+					 <choice>
+                           <abbr>esqr.</abbr>
+                           <expan>esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl042b.small.jpg"/>
+            <p>copy of a letter <lb/> to 
+			 <name type="person">Benjamin Hawkins</name>
+               <lb/> Esquire
+			 Superintendent <lb/>
+               <date when="1797-04-26"> 26 April 1797</date>
+               <lb/>
+               <choice>
+                  <abbr> No</abbr>
+                  <expan>Number</expan>
+               </choice> 9 <lb/> Copy Issued  <hi rend="underlined">Recorded</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

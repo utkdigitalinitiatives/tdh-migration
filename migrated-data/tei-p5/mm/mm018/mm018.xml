@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Photograph of mid-18th century central hearth Cherokee
+			 townhouse at Tomotley, taken in 1976] / [by Gerald F. Schroedl] : a
+			 machine-readable transcription</title>
+            <author>Schroedl, Gerald F.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. 3k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>mm018</idno>
+            <idno>OCLC: 45081581</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Museum, University of
+				Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Photograph of mid-18th century central hearth Cherokee
+				townhouse at Tomotley, taken in 1976] / [by Gerald F. Schroedl]</title>
+               <author>Shroedl, Gerald F.</author>
+               <date>1976</date>
+               <extent>1p</extent>
+               <note type="summary">This is a photograph of a central hearth of a
+				Cherokee townhouse from the Overhill village of Tomotley dating back to the
+				mid-18th century. All political and social events were held in these large
+				winter townhouses, which were cone-shaped and appeared to look like a small
+				mountain from a distance. Some were large enough to hold 500 people. The seats
+				were arranged like an amphitheater with the seats rising one above another,
+				leaving an area in the center for a fire. Excavations of Tomotley were
+				conducted by the University of Tennessee in 1976 as part of the Tellico
+				Archaeological Project in anticipation of the flooding of the Lower Little
+				Tennessee River by the Tellico Dam Reservoir. The excavations were conducted
+				under contract with the National Park Service and the Tennessee Valley
+				Authority (TVA). Principal investigator, Alfred K. Guthe. Field Director,
+				Gerald F. Schroedl</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note type="document">mm018</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Antiquities</term>
+               <term>Salvage archaeology</term>
+               <term>Historic sites</term>
+               <term>Hearths</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n78090514"
+                        role="Photographer http://id.loc.gov/vocabulary/relators/pht">Schroedl, Gerald F.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm018.small.jpg"/>
+            <p>
+               <figure>
+                  <head>UT TVA 40<unclear/>5 Tomotley Feature 393 
+				  <date when="1976-08-21">21 August 1976</date>
+                     <unclear/> 135 30</head>
+                  <figDesc>Central hearth Cherokee townhouse at Tomotley, mid-18th
+				  century. Excavations by the University of Tennessee, 1976. Photograph by Gerald
+				  F. Schroedl. This information was provided by the Frank H. McClung
+				  Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

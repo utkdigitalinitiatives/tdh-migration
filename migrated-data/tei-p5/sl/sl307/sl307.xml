@@ -1,0 +1,146 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl307">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1837 Oct. 5, Washington [City, D. C.] [to] Adam Fergusson / W. B. Campbell   : a machine readable transcription of an image</title>
+            <author>Campbell, W. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl307</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1837 Oct. 5, Washington [City, D. C.] [to] Adam Fergusson / W. B. Campbell</title>
+               <author>Campbell, W. B.</author>
+               <date when="1837-10-05">October 5, 1837</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from W. B. Campbell to Adam Fergusson, dated October 5, 1837. Campbell writes about Mr. Fair, a man who was wrongly dropped from the pension rolls. He wants to have Congress pass a law in favor of the man. He also writes of the state of Mrs. Kezia McCarroll's claim, and of trying to get information on other people that Fergusson has written to him about. Campbell also bemoans a resolution proposed in the House to not fund a National Bank.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b2</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl307</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War pensions</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007144179"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Campbell, William Bowen, 1807-1867</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl307a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>House of Representatives</addrLine>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1837-10-05">
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 5. 1837</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I have received your letter and have delayed an answer for the purpose of obtaining the information you requested.</p>
+            <p>As to the claim of <name type="person">Mr Fair</name>, nothing can be done until the regular session, a law will  have to be passed for his special benefit to enable him to get his pension for the time that he was dropped or stricken from the pension roll and this congress determined early in the session that they would entertain no business except that which touches the recommendations in the Presidents message, This was against my wishes, but I assure you that nothing can be done until the regular session, at which time I will use every endeavor to have a law passed to <unclear>remunerate</unclear> him for his lost time It will be necessary to take <del type="overstrike">the</del> evidence to show that Mr Fair was improperly <choice>
+                  <orig>droped</orig>
+                  <reg>dropped</reg>
+               </choice> by <pb n="2" facs="sl307b.small.jpg"/> the commissioner of Pensions. the case will be <choice>
+                  <orig>refered</orig>
+                  <reg>referred</reg>
+               </choice> to the committee on claims, and if it is sufficiently made out to receive a <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> report from that committee I doubt not but that the law can be passed.</p>
+            <p>As to the claim of  Mrs.<name type="person"> Kezia Mc Carroll</name> I have not been able to obtain any information, which will be of service to her  claim. I have addressed <name type="person">Mr. Edwards</name> the commission of Pensions, upon the subject of her <del type="overstrike">class</del> case, but have not yet received an answer,_ As soon as I have learned from him, the specific objections to her case, and what is the <unclear>point</unclear> needing additional proof I will write to you &amp; let you know_ I have enquired of the Representative from <name type="place">New Jersey</name> &amp; from the district of <name type="place">Morristown</name> &amp; he can give me no information  about the persons or families you named in your letter. <pb n="3" facs="sl307c.small.jpg"/> I learned that the <choice>
+                  <abbr>Hon.</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <name type="person">Lewis Condit</name> of Morristown will probably be able to give more information about it than any one else, as he has <unclear>been</unclear> engaged in the pension business. I will write to him, as soon as I get an answer from the Commissioner of Pensions should that answer make it necessary to obtain further information._</p>
+            <p>I shall be at home by the last of this month, and will then see you &amp; cheerfully attend to any business here which you may have_ In the mean time</p>
+            <closer>
+               <salute> I am with respect your <choice>
+                     <abbr>Obt Servt</abbr>
+                     <expan>Obedient Servent</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Wm  B Campbell</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Adam <choice>
+                           <orig>Ferguson</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                     <choice>
+                        <abbr>Eqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl307d.small.jpg"/> I have only to add that the administration <unclear>party</unclear> having the majority in this house introduced a resolution declaring that it was <del type="overstrike"><?xm-replace_text {del}?></del> inexpedient to charter a national Bank, and without permitting discussion have called the previous question upon it &amp; cut off all debate_ They are determined to keep out the light, to keep the people in darkness if they can &amp; to <unclear>prevent a fair</unclear> discussion as long as they have the majority_ If I could have got the floor I should have said something upon that <unclear>resolution</unclear>_ at the regular session the Bank question will be brought forward by its friends_ &amp; then we will be heard. <salute>your <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and etcetera</expan>
+                  </choice>
+               </salute>
+               <signed>W.B.<choice>
+                     <abbr>C.</abbr>
+                     <expan>Campbell</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

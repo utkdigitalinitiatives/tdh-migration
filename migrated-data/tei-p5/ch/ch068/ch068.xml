@@ -1,0 +1,162 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch068">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter], 1823 Oct. 20, Newtown / Path Killer ... [et al.] : a machine-readable transcription</title>
+            <author>Path Killer</author>
+            <author>Ridge, Major, ca. 1771-1839</author>
+            <author>Ross, John, 1790-1866</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch068</idno>
+            <idno>oclc: 44861898</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter], 1823 Oct. 20, Newtown / Path Killer ... [et al.]</title>
+               <author>Path Killer</author>
+               <author>Ridge, Major, ca. 1771-1839</author>
+               <author>Ross, John, 1790-1866</author>
+               <date when="1823-10-20">October 20, 1823</date>
+               <extent>6p</extent>
+               <note type="summary" anchored="true">Copy of a letter dated October 20, 1823 from the Cherokee Council to (U.S. Commissioners Duncan G. Campbell and James Meriwether ?) in response to the commissioners' request for negotiation of further land cessions. The Council explains that the Cherokee government will not make anymore cessions of land and offers several arguments for this position.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">ch068</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="https://id.loc.gov/authorities/names/n82214557"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ross, John, 1790-1866</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n85180705"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ridge, Major, approximately 1771-1839</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Path Killer</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch068a.small.jpg"/>
+            <opener>The following is a copy of an answer from the <name type="person">Cherokee</name> Council <address>
+                  <addrLine>
+                     <name type="place">Newtown</name>
+                  </addrLine>
+               </address>
+               <date when="1823-10-20">20th Oct. 1823</date>
+               <salute>In General Council,<lb/>Friends  Brothers,
+                  </salute>
+            </opener>
+            <p>The very friendly manner in which you have expressed yourselves towards the members of Council, and those of them with whom you have contracted individual friendships; and the liberal view which you have taken of the progress of improvement, in the arts of civilized life and the regular and becoming manner in which the affairs of the nation are conducted are respectfully flattering; and we beg leave to return you our grateful acknowledgements for the compliment.  The many favors which have been bestowed on us by the fostering hands of our Father the President are always fresh in our recollection, and we are ever ready to acknowledge our <choice>
+                  <orig>grattitude</orig>
+                  <reg>gratitude</reg>
+               </choice>.  The cooperation of the red man and the white man in subduing the common enemy during the late war and the blood, which have been lost on that occasion<pb n="2" facs="ch068b.small.jpg"/>at <name type="place">Tallassehatchie</name>
+               <name type="place">Talledega</name>, <name type="place">Hillabee</name>s, <name type="place">
+                  <unclear>Enotechassee</unclear>
+               </name>, <name type="place">Emucfaw</name>s, and <name type="place">
+                  <unclear>Tehopkah</unclear>
+               </name> (<name type="place"> 
+                  <reg>Horseshoe Bend</reg> Horse Shoe</name>)  we conceive to be no more than what might have been expected from our hands as children and true friends to our father the President; those acts performed are a demonstrative proof of the Sincerity of our affections and fidelity and shows the firm hold by which the hands of our father is grasped, and speaks more forcible than volumes of promises.
+               </p>
+            <p>Brothers, we have fully deliberated your communication; the application which you have made under the authority of your mission from the President of the <name type="place">United States</name> for the extinguishment of the <name type="person">Cherokee</name> title to the <hi>whole</hi> or a part of the lands now occupied  by them and lying within the chartered limits of <name type="place">Georgia</name>; either by exchange for lands west of the <name type="place">Mississippi River</name>, or by purchase; We have to state that the unfortunate part of our nation who have emigrated to the west, have suffered severely, during their separation from this nation and Settlement in their New Country; Sickness, Wars, and<pb n="3" facs="ch068c.small.jpg"/>other fatality have visited them and lessened their numbers, and many of them no doubt would, willingly return to the land of their nativity, if it was practicable for them to do so without undergoing various difficulties, which would be almost insurmountable in so fatiguing and so long a journey by men, women, and children, without friends, and without money to perform  When we call to recollection the periods which departed our countrymen, acquaintances, friends  relatives from us and look to the circumstances and means which caused our separation, we are grieved, the tears flow in our eyes and we weep;  Had it been the desire of the remaining part of this nation to have left this country, they would have embraced the opportunity, and emigrated with their <add place="supralinear">fellow</add> Countrymen; but this was not heir desire, they loved the soil which gave them birth, and they have continued thereon; the limits of this nation is small, and embraces Mountains, Hills, and poor lands which can never be settled.  The <name type="person">Cherokees</name> once possessed an extensive country, and they have made cession after cession to our father the President, to gratify the wishes<pb n="4" facs="ch068d.small.jpg"/>of our neighboring brethren, <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> our limits have become circumscribed; and it appears from the eager desire of our brethren to obtain our lands, that it would be unreasonable for us to presume that a small cession at any time would ever satisfy them.
+                  
+               </p>
+            <p>Brothers, the improving situation of this Nation is visible, and have been acknowledged, and it would be reproachful and degrading to our character did we not look to its interest, prosperity and future happiness; you give us one reason why a cession is urged, that is, from <q>the crowded Settlements of the people, of <name type="place">Georgia</name>
+               </q>,  We presume that if <name type="place">Georgia</name> were in possession of the whole extent of her chartered limits, that it would not remedy the inconvenience complained of.  Brothers, from the comparative view which you have taken of the population of <name type="place">Georgia</name> and the <name>Cherokee Nation</name> you say <q>that the difference is too great ever to have been intended by the <hi>great father</hi> of the <hi>Universe</hi> who must have given the <hi>Earth equally</hi> as the inheritance of his white and red children.</q>  We do not know the intention of the <hi>Supreme Father</hi>
+               <pb n="5" facs="ch068e.small.jpg"/>in this particular, but it is evident that this principle has never been observed or respected by nations, or by individuals.  If your assertion be a correct idea of <hi>this</hi> intention, why does the laws of civilized and enlightened nations allow a man to monopolize more land than he can cultivate to the exclusion of others.
+               </p>
+            <p>Brothers, we cannot <unclear>accede</unclear> to your application for a cession  It is the fixed and unalterable determination of this nation, never again to cede <hi>one foot</hi> more of land.  We will make known to you a coming from our father the President that the boundary line from the <name type="place">Unicoy Turnpike</name> on the <name type="place"> 
+                  <reg>Mountains</reg> Blue Ridge</name> to the source of the <name type="place"> 
+                  <reg>River</reg> Chestatee</name> has not been run by the <name type="place">United States</name> Surveyor agreeably to the stipulation or intention of the Treaty of <date when="1819">1819</date> but it has been run so as to include a larger tract of land than admitted by said Treaty, to the great inconvenience and injury of this Nation, particularly to those of our citizens who lived in that quarter, and have been compelled to remove<pb n="6" facs="ch068f.small.jpg"/>As this fact have been reported to the President, we trust that he has given you some instructions relative to the investigation of the subject. 
+               </p>
+            <closer>
+               <salute>With the brightness of the Sun, we renew our assurances of respect  Brotherly friendship</salute>
+               <signed>
+                  <name type="person">Path Killer</name>
+                  <choice>
+                     <abbr>Pl</abbr>
+                     <expan>Principal</expan>
+                  </choice> Chief his X mark<lb/>
+                  <name type="person">Major Ridge</name> Speaker of Council his X mark<lb/>
+                  <name type="person">John Ross</name>
+                  <choice>
+                     <abbr>Prest.</abbr>
+                     <expan>President</expan>
+                  </choice> National Committee<name type="person">
+                     <choice>
+                        <abbr>A</abbr>
+                        <expan>Alexander</expan>
+                     </choice> McCoy</name>
+                  <choice>
+                     <abbr>Clk</abbr>
+                     <expan>Clerk</expan>
+                  </choice> of<choice>
+                     <abbr> Nl.</abbr>
+                     <expan>National</expan>
+                  </choice> Committee<lb/>
+                  <name type="person">Elijah Hicks</name>, <choice>
+                     <abbr>Clk</abbr>
+                     <expan>Clerk</expan>
+                  </choice>
+                  <choice>
+                     <abbr>Nl.</abbr>
+                     <expan>National</expan>
+                  </choice> Council
+                        
+                     
+                  </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

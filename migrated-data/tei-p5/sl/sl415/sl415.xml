@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl415">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1831, Apr. 6, Carthage [Tennessee] [to unknown recipient] / [Adam Fergusson]: a machine readable transcription of an image</title>
+            <author>Fergusson, Adam</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl415</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1831, Apr. 6, Carthage [Tennessee] [to unknown recipient] / [Adam Fergusson]</title>
+               <author>Fergusson, Adam</author>
+               <date when="1831-04-06">April 6, 1831</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter to an unknown person dated April 6, 1831. The author is probably Adam Fergusson. Fergusson is writing about what he sees as the growing corruption in government and particularly politicians. Fergusson believes that elected officials are misusing their power against people whose opinions differ from their own. He writes that many people are outraged by a recently passed law. Fergusson believes that all Congressmen should take oaths of loyalty to the U.S. constitution and  the Tennessee constitution. He mentions the Alen family that has gained control over many local offices of trust. Fergusson believes that this monopoly is harmful to the other citizens of the county. Fergusson gives some new information pertaining to a recent scandal involving defalcation, Colonel Parrish, a Mr. Cooper and the State Bank.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl415</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Political corruption</term>
+               <term>Banks and banking</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fergusson, Adam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl415a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <date>6th april 1831</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I <choice>
+                  <orig>adress</orig>
+                  <reg>address</reg>
+               </choice> you by letter because I have <add>no</add> time to come and have a conversation with you. And because also the facts I intend to submit to you can better be weighted by reading and examining them at leisure. When a fact is placed on paper it is a tangible thing and gives to a person who holds the opposite <choice>
+                  <orig>oppinion</orig>
+                  <reg>opinion</reg>
+               </choice> a chance to disprove it. The present State of <choice>
+                  <orig>publick</orig>
+                  <reg>public</reg>
+               </choice> Sentiment and tone of feeling requires the <choice>
+                  <orig>imediate</orig>
+                  <reg>immediate</reg>
+               </choice> attention of every freeman. If <name>Tennessee</name>
+               <add>can now <unclear>pre</unclear>
+               </add>
+               <gap/> true-born patriot (and I trust there are many) it is to him I wish to direct my oppinions It is with his <choice>
+                  <orig>oppinions</orig>
+                  <reg>opinions</reg>
+               </choice> I hope mine will <choice>
+                  <orig>coinside</orig>
+                  <reg>coincide</reg>
+               </choice>. This Sir is <choice>
+                  <orig>trully</orig>
+                  <reg>truly</reg>
+               </choice> the age of demigogueism a time when our <choice>
+                  <orig>hapy</orig>
+                  <reg>happy</reg>
+               </choice> country is governed in Shadow not in Substance. a time when each aspirant to office considers before and after his election to office not what will benefit the people whom he may represent; but how many good men and honest republicans he can injure or destroy who may be in his way or think differently with him The last Legislature Sir contains examples of corruption and Petty ambition that must be truly appalling to every lover of his country. And it now ought to be the Serious consideration of every voter of <name>Smith County</name> whether men who pursued the course that our delegation adopted last Session should be entitled to their confidence a Second time You will think Sir by this time perhaps <del type="overstrike">I have</del> there is some personal feeling between myself and the members that went from Smith last year if there is Sir I trust I have too much respect for you and your <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> to introduce Such a Subject amoung you to; permit me to say I have a higher object in  view <unclear>it is</unclear>
+               <add>to</add> open <gap/> of the people that they may <gap agent="damage"/>
+               <pb n="2" facs="sl415b.small.jpg"/> by falsehood for there is nothing intended  <del type="overstrike">in</del> to be <unclear>discussed</unclear> in this letter but what is the imediate interest of every man in the community. Sir the unconstitutional law passed last Session is one of the acts complained of by the people as a base violation of their rights and liberties. and Sir they complain Justly for the constitution owes its origin to a higher tribunal than legislative enactments that instrument was written <add>by</add>
+               <del type="overstrike">with</del> the mighty hand of the people themselves <add>and</add>
+               <choice>
+                  <sic>one one</sic>
+                  <corr>one</corr>
+               </choice> of principle objects is <add>to</add> keep legislation within reasonable bounds hence every member of the Legislature before he is <choice>
+                  <orig>authorised</orig>
+                  <reg>authorized</reg>
+               </choice> to enter upon the discharge of his duties has to take an oath that he well <choice>
+                  <orig>suport</orig>
+                  <reg>support</reg>
+               </choice> the constitution of the United States and that of the State of Tennessee then Sir a <del type="overstrike">leg</del> representative in all his deliberations is governed and restrained by his oath and the constitution every bill or resolution that comes before him his first enquiry is whether it is constitutional the next enquiry is or should be will it promote the interest of people but Sir you will discover that in the passaged of this law neither of these things were thought of  I will now Sir turn your attention to another subject which Seems to threaten the whole country with destruction. I will first give you the oppinions that I have advanced for three years to my friends and I will then, give you the open declarations of some men to confirm that oppinion In the beginning of the <date>
+                  <choice>
+                     <orig>Sumer</orig>
+                     <reg>Summer</reg>
+                  </choice> of 1828</date> and Some time before the <name>Jackson</name> dinner I discovered that Something was intended I could see frequent consultations__ billings and cooings between certain individuals. I was not long before I come to the conclusion that they were <del type="overstrike">a kindly swarm</del> meditating the downfall of every public<gap/> in the county and bill the <gap/> In the <pb n="3" facs="sl415c.small.jpg"/> first place <name>Judge Williams</name> was obnoxious to <add>the</add>
+               <name>Alens</name> and their <choice>
+                  <orig>dependants</orig>
+                  <reg>dependents</reg>
+               </choice> because he would not let a road run through their land. He therfore must be remove from office <name>Abram Caruthers</name> was a young man lately married into the Alen family he was without <choice>
+                  <orig>buisiness</orig>
+                  <reg>business</reg>
+               </choice> with out money and was a suitable Subject for the office of Judge <add>
+                  <unclear>Neal was ? boy it will be recolected he was put in morning free when without</unclear>
+               </add>
+               <unclear>Mr Hart</unclear> the circuit court clerk than whom a more honest and intelegent clerk there is not in the State of Tennessee would be turned out as a matter of course <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Allen had a Son or an adopted Son who would be most likely to fill his place. <name>Mr Picket</name> who Seems to be a very excellent <del type="overstrike">clerk is</del> county court clerk is sometimes given to intemperance he of course would go out and another of the party would be most likely <choice>
+                  <sic>to to</sic>
+                  <corr>to</corr>
+               </choice> fill his place the Bank agent would not loan to Colonel Allens creditors nor to his Son to <unclear>checkover</unclear> wit,h he of course must be turned out and a suitable person must be in that would answer certain purposes. The trustee ranger and register yes and the Post office too would Share the Same fate thus Sir by the Shuffling of the cards you would See one <choice>
+                  <orig>conextion</orig>
+                  <reg>connection</reg>
+               </choice> and one family enjoy all the <add>offices</add>
+               <del type="overstrike">Profits</del> of the county all the power and all the money now Sir put all the offices of trust and profit of one county into the hands of one family or one <choice>
+                  <orig>conection</orig>
+                  <reg>connection</reg>
+               </choice> and you might as well make <add>them</add> a deed in fee Simple of all the lands and all property as well as the people within the county in the <date>fall of 1828</date> I told Several of my friends the Sum and Substance of what I discovered and what I here relate to you and Since on Several <choice>
+                  <orig>occations</orig>
+                  <reg>occasions</reg>
+               </choice> to individuals most of  those I talked thought it was only conjecture of mine until on <choice>
+                  <orig>movd</orig>
+                  <reg>moved</reg>
+               </choice>
+               <gap/>  last on <gap/> avowal was made in a speech <gap/>
+               <pb n="4" facs="sl415d.small.jpg"/> would pull down the Judges and the clerks out of their Seats that he would break down the present System of the Judiciary and if the Judges and clerks went out as a matter of course let them go Among other things that was said in that slump Speech was the defalcation of the officers of the new State Bank I think the words were that <name>Mr Cooper</name> had Stole thirty seven thousand dollars out of the Bank I was at Nashville last week and asked the present Cashier and clerk; they told one that <name>Col Parrish</name> had long since Settled his individual <choice>
+                  <abbr>acct</abbr>
+                  <expan>account</expan>
+               </choice> and So had Mr Cooper that as to the <del type="overstrike">derange</del> true State of the Bank they could tell nothing nor did it appear who was defaulter. I know Col Parrish considers himself exonerated as well as Cooper and that if there is any money missing the fault lies not with them. But I  will tell you what is whispered about <name>Nashville</name> and that is that Col Parrish was at <choice>
+                  <orig>devers</orig>
+                  <reg>diverse</reg>
+               </choice> times taken away from the Bank for to go on other buisiness and that the defalcation <choice>
+                  <orig>hapenned </orig>
+                  <reg>happened</reg>
+               </choice>
+               <del>after</del> in his absence. now if this is the case he should not be charged with the faults of others one case is particularly mentioned of his going to <name>Knoxville</name> to visit the Branch Bank during the Sitting of the Legislature. It is <unclear>said</unclear> about that time Some of the members of the Legislature got impatient wanted to count the money and broke into the vaults <gap agent="damage"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

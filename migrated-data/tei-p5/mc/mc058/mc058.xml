@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 June 15, Murfreesboro [to] Mr. Charles Welcker, Kingston, Tennessee / H. Yoakum : a machine readable transcription of an image</title>
+            <author>Yoakum, H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc058</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 June 15, Murfreesboro [to] Mr. Charles Welcker, Kingston, Tennessee / H. Yoakum</title>
+               <author>Yoakum, H.</author>
+               <date when="1839-06-15">June 15, 1839</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated June 15, 1839, from H. Yoakum in Murfreesboro, Tennessee to Charles Welcker in  Kingston.  Yoakum writes that he has been expecting Welcker's sister and niece to arrive in Murfreesboro for school, and he briefly mentions upcoming examinations.  He also briefly mentions the political atmosphere and the democratic party.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc058</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee, East</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2015007013"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Yoakum, H. (Henderson King), 1810-1856</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc058a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Murfreesboro</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>June 15. 1839</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Sir,</salute>
+            </opener>
+            <p>We have been expecting your sister and niece <unclear>here</unclear> for sometime to go to school.  The examination took place two days since, and went off with great eclat.</p>
+            <p>The next session will commence about the 15th of July.  Perhaps you may not be out of the notion of sending them.  Write us upon this point; and also to give us the news of your country.</p>
+            <p>We have nothing here, more than what is common with yourselves_ a high political excitement, which will abate in August.  The prospect of a glorious triumph of Democracy is bright.  How is it with you?</p>
+            <p>The health of our place is very fine this summer.</p>
+            <p>Evaline sends her respects to yourself and best compliments to Caroline, in which I join her, barely adding, that I am</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yr.</abbr>
+                     <expan>Your</expan>
+                  </choice> friend.</salute>
+               <signed>
+                  <name>H. Yoakum</name>
+               </signed>
+               <pb n="2" facs="mc058b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc>postmark stamp: June 17, Murfreesboro, Te.</figDesc>
+                  </figure>
+               </add>
+               <add>12½</add>
+               <address>
+                  <addrLine>
+                     <name>Mr Charles Welcker</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Kingston</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

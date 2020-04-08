@@ -1,0 +1,147 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc249">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Dec. 7, New Market, Tennessee [to] Messieurs Thornton / James L. Long : a machine readable transcription of an image</title>
+            <author> Long, James L.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc249</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1846 Dec. 7, New Market, Tennessee [to] Messieurs Thornton / James L. Long </title>
+               <author> Long, James L.</author>
+               <date when="1846-12-07"> 
+			 December 7, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from James L. Long to Messieurs Thornton regarding a medicine he is recommending called Doctor Baring's Lung Syrup of Naphtha.</note>
+               <note type="collection" anchored="true">James L. Long Letter</note>
+               <note type="box" anchored="true">New Accessions</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc249</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Medicine</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Long, James L.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc249a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>New Market</name>
+                     <choice>
+                        <abbr>Decmr</abbr>
+                        <expan>December</expan>
+                     </choice> 7 1846</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>Messieurs Thornton</name>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen_</salute>
+            </opener>
+            <p>Since my visit at your place a few evenings since I feel, concerned in regard to your health and therefore take the liberty of recommending to <choice>
+                  <abbr>y'r</abbr>
+                  <expan>your</expan>
+               </choice> use a medicine in, which I have much faith &amp; think if you will procure it you will derive much <choice>
+                  <orig>benifit</orig>
+                  <reg>benefit</reg>
+               </choice> from its use. <name>
+                  <choice>
+                     <orig>Doctrs</orig>
+                     <reg>Doctor</reg>
+                  </choice> Baring's</name> Lung Syrup of <unclear>Naphtha</unclear> a certain care for asthma &amp; consumption,</p>
+            <p>As health is to be prefered to all else I hope you will not delay in procuring the above article &amp; <choice>
+                  <orig>useing</orig>
+                  <reg>using</reg>
+               </choice> it_ If you cannot get it in <name>Knoxville</name>_ Write immediately to our house &amp; they will take pleasure in getting it for you__ I will give you directions where it can be had in <name>Baltimore</name> so in case you write you can direct them where to get it.</p>
+            <p>This article is an English remedy &amp; comes highly recommended, don't neglect it procure it as soon as possible &amp; write me as soon as you have used it and, let me Know if you derive any benifit from it__</p>
+            <p>Hopefully soon to hear of your entire recovery</p>
+            <closer>
+               <salute>I am with, much respect your <lb/> friend</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jas</abbr>
+                        <expan>James</expan>
+                     </choice> L Long</name>
+               </signed>
+               <add>"address in <choice>
+                     <abbr>Balt</abbr>
+                     <expan>Baltimore</expan>
+                  </choice>" <lb/>  Mr Moore- Book seller <lb/> &amp; agent for Barings <lb/> Lung Syrup of Naphtha <lb/> No 114 Baltimore Street</add>
+               <pb n="2" facs="sc249b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc>drawing on back of letter</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

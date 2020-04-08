@@ -1,0 +1,92 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice [of the arrival] of appraising agents for settling claims [of the Cherokees]: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch081</idno>
+            <idno>OCLC: 44869336</idno>
+            <availability status="restricted">
+               <p>This work is the property of The  Tennessee State  Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Notice [of the arrival] of appraising agents for settling claims [of the Cherokees]</title>
+               <date/>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is an undated notice of the arrival of agents appointed to settle the claims of the Cherokee Indians under the New Echota Treaty (1835).  The notice indicates that Cherokee claims will be received and filed according to the terms of the treaty.  It is unclear precisely who wrote this notice or to whom it is directed.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">ch081</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Claims</term>
+               <term>Indian agents</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch081a.small.jpg"/>
+            <head>Notice</head>
+            <p>As one of the commissioners of the <name type="place">U. States</name> for settling claims, under the provisions of the late treaty with the <name type="person">Cherokee Indians</name>- I shall attend at <name type="place">New Echota</name> on the <date when="--10-10">10th day of October</date> next- when  where I anticipate being met by my associate commissioners- prepared to enter upon all the duties of our appointment.  Having by a late visit to the <name type="person">Cherokee</name> Country, made the necessary arrangements for entering upon business,  being delayed, <hi>alone</hi>, on account of the absence of my associate-  I have deemed it expedient to  <del type="overstrike">unite</del>
+               <add place="supralinear">notify</add> all persons whom it may concern, that from  after the time above <choice>
+                  <orig>specifyed</orig>
+                  <reg>specified</reg>
+               </choice>, their claims will be received  registered, and acted upon with as much promptitude as circumstances will permit- all written evidence in support of claims will also be received  filed.  The Indian committee appointed under the <name type="person">Cherokee</name> Treaty, <del type="overstrike">have been <unclear>duty until</unclear>
+               </del> (a part of whom have been consulted in this arrangement) are hereby requested to attend at the time  place <choice>
+                  <orig>specifyed</orig>
+                  <reg>specified</reg>
+               </choice>, for the purpose of discharging the duties assigned them under the Treaty, they will also notify the <name type="person">Cherokee</name> people of this arrangement, and request the attendance of all such as may have business to transact with the commissioners under the late Treaty.</p>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch081b.small.jpg"/>
+            <p>Notice<lb/> List of appraising Agents
+               </p>
+         </div>
+      </back>
+   </text>
+</TEI>

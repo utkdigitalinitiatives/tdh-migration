@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl770">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>  [Letter] 1825 Oct. 24, Department of War [to William Carroll] Tennessee / James Barbour : a machine readable transcription of an image</title>
+            <author>Barbour, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl770</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1825 Oct. 24, Department of War [to William Carroll] Tennessee / James Barbour</title>
+               <author> Barbour, James</author>
+               <date when="1825-10-24">October 24, 1825</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor William Carroll from James Barbour, dated October 25, 1825. Barbour is the Secretary of War. Barbour writes to ask Carroll to have the Civil Engineer of Tennessee meet Captain Poussia and Lieutenant Trimble, who will be surveying for the national road from Washington D.C. to New Orleans.</note>
+               <note type="collection" anchored="true">Governor William Carroll Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl770</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Surveying</term>
+               <term>National Road</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n83044753"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Barbour, James, 1775-1842</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl770a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Department of War</addrLine>
+                  <addrLine>
+                     <date>October 24th 1825</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>One of the members of the Board of Internal Improvement, Mr <name>David Shriner</name>, having resigned and the other member General <name>Bernard</name> being required to attend personally at the seat of Government to objects connected with Internal Improvements which will necessarily detain him here for several months and which are considered of paramount national importance, the employment of the Board of Internal Improvement in the examination of the Westernmost route contemplated for the national Road proposed to be established between this place and <name>New Orleans</name>, which you were informed by the letter of this Department of the <date>28th of February</date> last, would be undertaken by the Board after the other two routes should have been examined, has become impracticable.</p>
+            <p>To fulfil the expectation of Congress and to satisfy the solicitude which prevails throughout the country and particularly in those sections through which the westernmost route will pass the Department has determined to resort to the best means available of having that route examined without delay and accordingly has <pb n="2" facs="sl770b.small.jpg"/> caused the performance of that duty to be assigned to Captain <name>Poussia</name> Assistant Topographical Engineer to be assisted by <choice>
+                  <abbr>Lieut</abbr>
+                  <expan>Lieutenent</expan>
+               </choice>
+               <name>Trimble</name> of the Army both of whom accompanied the Board of Internal Improvement in the examination of the other routes.</p>
+            <p>These officers will leave here tomorrow and will proceed in the direction of Rock Fish Gap through it into and along the valley to <name>Knoxville</name> thence by the most direct route that may be practicable to New Orleans; and their progress will be probably at the rate of 20 or 25 miles a day. If it would be convenient for the Civil Engineer of the State of <name>Tennessee</name> to intercept and cooperate with them on that part of the route passing through the State of Tennessee such an arrangement would be very acceptable and desirable</p>
+            <closer>
+               <salute>I have the honor to be, <lb/> Sir, <lb/> Your <choice>
+                     <abbr>Obt Servt.</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>James Barbour</name>
+               </signed>
+               <address>
+                  <addrLine>The Governor of</addrLine>
+                  <addrLine>the State of</addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

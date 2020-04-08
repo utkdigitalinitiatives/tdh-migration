@@ -1,0 +1,116 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl424">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Sep. 22, Carthage, Tennessee [to unknown recipient] / A[dam] Fergusson: a machine readable transcription of an image</title>
+            <author>Fergusson A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl424</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1844 Sep. 22, Carthage, Tennessee [to unknown recipient] / A[dam] Fergusson</title>
+               <author>Fergusson, A.</author>
+               <date when="1844-09-22">September 22, 1844</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from Adam Fergusson dated September 22, 1844. The recipient is unknown, but may be James K. Polk. Fergusson describes a military parade. He mentions some military groups by name.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl424</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Military Parade</term>
+               <term>Politics.</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fergusson, Adam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl424a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+                  <addrLine>22d September 1844</addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>You no doubt have been fully apprised of the turn out at Peytons creek on the 19th instant with the military parade and the effects upon the whigs are plain and visible. <name>Mr Baddie</name>s speech is every where spoken of as being argumentative Plain and conclusive. The Tenth Legion has also gained a name that is truly enviable Their  fine <choice>
+                  <orig>decipline</orig>
+                  <reg>discipline</reg>
+               </choice> lofty bearing and gentlemanly department has been the remark of many nor are the Polk Guard to be forgotten They were the ones headed by their fearless Captain and aided by the Hickory Snags and our Carrol Invincibles that exhibited in our town the <choice>
+                  <orig>transparant</orig>
+                  <reg>transparent</reg>
+               </choice>
+               <unclear>lights</unclear> on the night previous to the gratification of our citizens and the discomfiture of whiggery I am informed another Barbecue is to come off at <name>Lafayette</name>
+               <name>macon county</name> on the 13th of next month but the time is not certainly fixed upon when the time is <choice>
+                  <orig>acertained</orig>
+                  <reg>ascertained</reg>
+               </choice> an invitation will be extended to the tenth Legion and other Military company <gap/> and they <unclear>must</unclear> be Sure to attend. We are all here <gap/> in high Spirits Some changes in our <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> while the <gap/> enemy has not captured a man from us</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>A.</abbr>
+                        <expan>Adam</expan>
+                     </choice> Fergusson</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

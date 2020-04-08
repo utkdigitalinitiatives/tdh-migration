@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl476">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 Feb. 28, Philadelphia [ Pennslyvania, to] David Henley, Knoxville [Tennessee] / Samuel Hodgdon: a machine readable transcription of an image</title>
+            <author>Hodgdon, Samuel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl476</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1798 Feb. 28, Philadelphia [ Pennslyvania, to] David Henley, Knoxville [Tennessee] / Samuel Hodgdon</title>
+               <author>Hodgdon, Samuel</author>
+               <date when="1798-02-28">February 28, 1798</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Samuel Hodgdon to David Henley, dated February 28, 1798. Hodgdon informs Henley that there are  some wagons headed to him with supplies for an upcoming treaty meeting.</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">33</note>
+               <note type="document" anchored="true">sl476</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Henley, David, 1749-1823.</term>
+               <term>Cherokee Indians -- Treaties</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n91109005"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hodgdon, Samuel, 1745-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl476a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Philadelphia</name>
+                     <date>28th February 1798</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>Yesterday two <choice>
+                  <orig>Waggoners</orig>
+                  <reg>Wagoners</reg>
+               </choice> by the names of <name>Wolfe</name> &amp; <name>Beard</name> left this City with the <choice>
+                  <orig>Waggons</orig>
+                  <reg>Wagons</reg>
+               </choice> loaded to your address containing a number of Articles for the intended Treaty with the <name>Cherokee Indians</name>, and also the  Presses and Papers necessary for carrying the Law relative to Stamps into full execution in the State of Tennessee I have furnished each of them with Two hundred and twenty five Dollars to enable them to proceed if from any unforeseen circumstance these Sums should prove insufficient, you will please to make them a farther advance and it shall be placed to your credit in my Books___</p>
+            <p>If there is any Public Loading on hand at the time of their arrival you will please to commit it to them as return Loads, as in that way it will be transported for a small Expense____</p>
+            <closer>
+               <salute>I am, <lb/> Sir, <lb/> Your most Obedient Servant</salute>
+               <signed>
+                  <name>Samuel Hodgdon</name>
+               </signed>
+               <address>
+                  <addrLine>Colonel <name>David Henley</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl476b.small.jpg"/>
+               <address>
+                  <addrLine>Colonel David Henley</addrLine>
+                  <addrLine>Knoxville</addrLine>
+                  <addrLine>South Western Territory United States</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Phila</abbr>
+                        <expan>Philadelphia</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>28 <choice>
+                        <abbr>Febry</abbr>
+                        <expan>February</expan>
+                     </choice> 1798</addrLine>
+                  <addrLine>Samuel Hodgdons</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

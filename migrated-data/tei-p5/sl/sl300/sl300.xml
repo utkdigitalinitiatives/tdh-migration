@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl300">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Jun. 23, Gallatin, Tennessee [to] A. Fergusson, Carthage, Tennessee / Abram Bradley   : a machine readable transcription of an image</title>
+            <author>Bradley, Abram</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl300</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1845 Jun. 23, Gallatin, Tennessee [to] A. Fergusson, Carthage, Tennessee / Abram Bradley</title>
+               <author>Bradley, Abram</author>
+               <date when="1845-06-23">June 23, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Abram Bradley to A. Fergusson, dated June 23, 1845. He is reminding Fergusson that he promised to send some business to the War Department for Mrs. Dorris. Bradley writes that it is important for Fergusson to take care of it as soon as possible, as Mrs. Dorris is very old and sick.</note>
+               <note type="collection" anchored="true">Fergusson Papers </note>
+               <note type="box" anchored="true">IV-G-1 b2</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl300</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Financial, personal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bradley, Abram</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl300a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Sumner County</name>
+                     <name type="place">Tennessee</name>
+                     <date when="1845-06-23">June 23. 1845</date>
+                  </addrLine>
+                  <addrLine>Mr <name type="person">A. <choice>
+                           <orig>Furgason</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name type="person">Mrs Dorris</name> has heard nothing from you Since I Saw you at <name type="place">Galatin</name> at the <choice>
+                  <orig>Barbacue</orig>
+                  <reg>Barbeque</reg>
+               </choice> and She is <choice>
+                  <orig>giting</orig>
+                  <reg>getting</reg>
+               </choice> impatient and wishes to know whether you have Sent on her business to the war Department and if So whether you have got a return and how the matter is Standing at this time.</p>
+            <p>The old lady is <choice>
+                  <orig>verry </orig>
+                  <reg>very</reg>
+               </choice>old and failing verry fast and She is needy and if any thing can be had the Sooner the better for my present impression is that She will not last verry much longer and the little <unclear>pitance</unclear> would be lost to her and yourself too <choice>
+                  <orig>plaese</orig>
+                  <reg>please</reg>
+               </choice> hurry the business as fast as you can write to me as Soon as you receive this and inform me how the business is at this time when you write Send your letter to <name type="place">Fountain ⁁ <add place="supralinear">Head</add>
+               </name>
+               <choice>
+                  <abbr>P. O.</abbr>
+                  <expan>Post Office</expan>
+               </choice> your attention to the above will confer a verry great <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> on </p>
+            <closer>
+               <salute>you verry <choice>
+                     <orig>Sincear</orig>
+                     <reg>Sincere</reg>
+                  </choice> friend and well wisher</salute>
+               <signed>Abram Bradley</signed>
+               <pb n="2" facs="sl300b.small.jpg"/>
+               <add place="upper left corner">
+                  <address>
+                     <addrLine>
+                        <name>Gallatin</name>
+                        <choice>
+                           <abbr>Tn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                     <addrLine>
+                        <date when="1845-06-24">June 24</date>
+                     </addrLine>
+                  </address>
+               </add>
+               <address>
+                  <addrLine>Mr. A. Furgason Esqr</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Carthadge</orig>
+                           <reg>Carthage</reg>
+                        </choice>
+                     </name> Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

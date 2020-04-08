@@ -1,0 +1,118 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl453">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1850 Jul. 19, Nashville [Tennessee] [to] Jo[h]n / R. H. McEwen: a machine readable transcription of an image</title>
+            <author>McEwen, R. H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl453</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Jul. 19, Nashville [Tennessee] [to] Jo[h]n / R. H. McEwen</title>
+               <author>McEwen, R. H.</author>
+               <date when="1850-07-19">July 19, 1850</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from R. H. McEwen to his son John, dated July 19, 1850. McEwen reports that the cholera epidemic is abating. He tells John that he should be taking good care of himself for his child, friends and family. </note>
+               <note type="collection" anchored="true">McEwen Papers</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl453</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Communications in the family</term>
+               <term>Cholera</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2017070045"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McEwen, R. H. (Robert Houston), 1790-</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl453.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>19 July 1850</date>
+                  </addrLine>
+               </address>
+               <salute>My Son <choice>
+                     <abbr>Jno</abbr>
+                     <expan>John</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>I wrote you at <choice>
+                  <orig>lenth</orig>
+                  <reg>length</reg>
+               </choice> on the 17_ we are very anxious to hear from you. we hope that you will take care of your health_ you now have something to live for it is your duty to take care of your own health_ you have not only to live for the dear little babe but for your kin &amp; friends_ your mother is extremely nervous I have sent her to <name>Mr Trimbles</name> both yesterday &amp; to day. we can scarce realize the past it has cast a gloom on all around_ none <choice>
+                  <orig>sympathiseth</orig>
+                  <reg>sympathised</reg>
+               </choice> more deeply than your good old Mother. I really get alarmed <del type="overstrike">that</del> at her, very often, lest she may loose her balance. I hope you will go immediately to Some watering place_ If you only Stay one week_ you need it badly</p>
+            <p>Nothing doing here_ I Send you two letters the only ones that need any notice Since you left_</p>
+            <p>The cholera has <unclear>certainly</unclear> abated considerably Since Tuesday <choice>
+                  <orig>altho</orig>
+                  <reg>although</reg>
+               </choice> we have several deaths daily_ to day the people look more Cheery_ some trade going on_ I have not heard of more than one or two new cases of cholera to day_ <name>Mrs Dr. Edgar</name> is quite sick, the only acquaintance that I know of being Seriously ill_ I trust she will recover_</p>
+            <p>
+               <choice>
+                  <abbr>Maj</abbr>
+                  <expan>Major</expan>
+               </choice> Trimble is Some better to day_ some of the children not very well_ we are about as usual.</p>
+            <p>My love &amp; Sympathy to Mr &amp; Mrs Fri <gap agent="damage"/> do write soon</p>
+            <closer>
+               <salute>You <gap/> ten affectionately</salute>
+               <signed>
+                  <name>R.H. McEwen</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl120">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837, April 17th, Clover Dale, TN [to]  Miss Ann Jane Bell, Philadelphia, [PA]  / Sarah B. Bell and   M[argaret] V. Bell     : a machine readable transcription of an image</title>
+            <author>Bell, Sarah,  B. </author>
+            <author>Bell, Margaret, V.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl120</idno>
+            <idno>OCLC: 50505075</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837, April 17th, Clover Dale, TN [to]  Miss Ann Jane Bell, Philadelphia, [PA]  / Sarah B. Bell and   M[argaret] V. Bell</title>
+               <author>Bell, Sarah B.</author>
+               <author>Bell, Margaret V.</author>
+               <date when="1837-04-17">April 17, 1837</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">These are two letters written together to Ann Jane Bell dated April 17, 1837. They are from her sisters, Sarah B. Bell and Margaret V. Bell. Sarah has had a cold this week. She writes of where some people are going to school. James Gould has bought them some gifts that he has been unable to send them. She mentions how well liked a preacher named Mr. Pope is. She also says that the weather has been good for the fruit trees. Margaret writes of the muster they recently hosted. Their mother wanted to listen to a Mr. Allen's speech. Apparently the ladies were not allowed to actually attend it. They sat on the porch and had Mr. Allen speak very loudly. She also summarizes the happenings in the neighbors.</note>
+               <note type="collection" anchored="true">Bell Collection IV-H-1</note>
+               <note type="box" anchored="true">B:1</note>
+               <note type="folder" anchored="true">F:11</note>
+               <note type="document" anchored="true">sl120</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bell, Margaret</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl120a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Clover Dale</name>
+                     <date when="1837-04-17">April 17th 1837</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Sister</salute>
+            </opener>
+            <p>I wrote you the week after you left, which I hope you have received ere this, we are all very anxious to hear from you, I thought you would certainly have written a few lines to us from <name type="place">
+                  <choice>
+                     <abbr>Cincti</abbr>
+                     <expan>Cinncinnati</expan>
+                  </choice>
+               </name> or <name type="place">
+                  <choice>
+                     <orig>Pittsburg</orig>
+                     <reg>Pittsburgh</reg>
+                  </choice>
+               </name>, <name type="person">Mr. T Collier</name> read part of his brothers letter to us, saying you were well and in exc<add place="supralinear">el</add>lent health, that you spent a day with your cousin <name type="person">Mr. W. Bell</name>,  that he <choice>
+                  <orig>drunk</orig>
+                  <reg>drank</reg>
+               </choice> tea with them, and was very much pleased with the family particularly the young ladies who <choice>
+                  <orig>sung</orig>
+                  <reg>sang</reg>
+               </choice> and played charmingly. We received a letter last week for you from brother <name type="person">John</name>, I opened it before I thought of <choice>
+                  <orig>their</orig>
+                  <reg>there</reg>
+               </choice> being any thing in it but what you would have read to us, which was the case, he can tell you there was nothing in it worth preserving or sending to you, I will burn it if you wish, we also received one from <name type="person">Ellennora <del type="overstrike">y</del>
+               </name> her brother was here at the time and knew her hand writing, tell her I should judge from the tenor of her letter, she was agreeably disappointed to find <name type="person">Mr. Collier</name> was still a single man, give our love to her. You must have taken brother on surprise as he did not expect you so soon, were I in your place I would feel much better satisfied now, than if I were under obligations to any of the Citizens of <name type="place">Nashville</name> as some of them would not turn round to oblige you, <name type="person">William</name> wrote a post script to my letter in <name type="place">Charlotte</name>, informing you that <name type="person">James Gould</name> could not send on your <choice>
+                  <orig>parsel</orig>
+                  <reg>parcel</reg>
+               </choice> this spring or summer, as <choice>
+                  <orig>their</orig>
+                  <reg>there</reg>
+               </choice> are no persons going on with whom he could send <del>the</del>
+               <name type="person">Mr. and Mrs. Pearl</name> have declined going this year, he purchased some articles for you I do not know what they were, we desired him <pb n="2" facs="sl120b.small.jpg"/> to take them back, but as he purchased them in different stores, he could not return them, he wishes to get clear of them, and he is quite anxious to send them down here. I wish you were here to see how well every thing looks, the fruit trees are in full bloom, in fact every thing speaks well for a good crop of fruit this year. <name type="person">Mr. Marshel</name> and a <name type="person">Mr. Pope</name> are our circuit Preachers this year, the latter one is thought to be the best we have ever had on this circuit. <name type="person">Jane Caldwell</name> is in <name type="place">Shelbyville</name> going to school, <name type="person">Caroline</name> is at school in <name type="place">Franklin</name>, <name type="person">Mary</name> is also there on a visit at this time, she wishes you to write her soon, as she is desirous of corresponding with you, she forgot to name it to you the last evening she saw you   I have had one of my bad kind of colds this week, which you know always makes me very sick I could say a great deal more, but <name type="person">Margaret</name> wishes to give you a splendid <choice>
+                  <orig>discription</orig>
+                  <reg>description</reg>
+               </choice> of the muster.</p>
+            <closer>
+               <salute>ever your affectionate Sister.</salute>
+               <signed>
+                  <name type="person">Sarah B. Bell.</name>
+               </signed>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <opener>
+               <salute>dear Sister</salute>
+            </opener>
+            <p>You can easily imagine how much you are missed by us all, some of your friends are wondering how we shall possibly do without you. <name type="person">Dr. Carter</name> observed last week when he was here at muster, if he remained in <name type="place">Dickson</name> much longer he would lose all his friends. All the necessary arrangements were made in due time for the muster  <choice>
+                  <abbr>viz.</abbr>
+                  <expan>videlicet</expan>
+               </choice> plastering  white washing, painting, <choice>
+                  <abbr>&amp;c &amp;c &amp;c</abbr>
+                  <expan>et cetera et cetera et cetera</expan>
+               </choice>  though it snowed  in the evening, and the day was very cold, it all passed off as it should have done, 16 gentlemen dined with us that day. <pb n="3" facs="sl120c.small.jpg"/> Your <choice>
+                  <orig>perticulars</orig>
+                  <reg>particulars</reg>
+               </choice>, <name type="person">The.</name>
+               <name type="person">Dr. C.</name>,<name type="person">Capt. V</name>, and <name type="person">Messrs <unclear>Ro &amp;. T. M. Weilly.</unclear>
+               </name> were of the number, the candidates for the assembly delivered their speeches in the evening Mother requested <name type="person">Mr. Allen</name> to speak loud so she wou<add place="supralinear">ld</add>  hear him in the po<del type="overstrike">a</del>rch, we  heard part of his <choice>
+                  <orig>speach</orig>
+                  <reg>speech</reg>
+               </choice> very distinctly, <name type="person">Capt. N</name>, you know is offering for second Col, he made a <choice>
+                  <orig>speach</orig>
+                  <reg>speech</reg>
+               </choice> and it was pronounced by good judges to be <emph>first rate</emph>,  one of the candidates said he would make a speach equal to <name type="person">
+                  <emph>
+                     <unclear>Sissily</unclear>
+                  </emph>
+               </name>, <name type="person">Dr. Carter</name> was of the opinion, <name type="person">Cicero</name> would <add place="supralinear">be</add> left quite in the shade, your friend <name type="person">
+                  <emph>The</emph>
+               </name>, was highly  entertaining I wish you had seen his <choice>
+                  <orig>jestures</orig>
+                  <reg>gestures</reg>
+               </choice>. and heard his <choice>
+                  <orig>exclimation</orig>
+                  <reg>exclamation</reg>
+               </choice> when he heard <name type="person">Eleanora</name> was so anxious <gap agent="damage"/> return home, and also to have seen the manner <gap agent="damage"/> which he handed us the Chinese <unclear>purrle</unclear> which <gap agent="damage"/> had given him, by way of amusement, when he saw the books, he exclaimed if there was two books written on the subject he would not  attempt to put the <choice>
+                  <orig>pices</orig>
+                  <reg>pieces</reg>
+               </choice> in the box ! <name type="person">Mrs. Fanar</name> has left <name type="place">Charlotte</name> and is living in <name type="place">Pulaski</name>, <name type="person">Mrs Gould</name> is again keeping house she occupies<name type="person"> Mrs. F.</name> house, <name type="person">Eleanora</name> thinks the Dr. is very much like you, only a little handsomer — —<name type="person">Mr. L. Adams</name> is very attentive to <name type="person">Miss <emph>Hurdle</emph>
+               </name>, and I think it very pro<add place="supralinear">b</add>able <add place="supralinear">he</add> will be the accepted one, the Old Lady finds it very expensive entertaining her beaux, they eat so much of her flour. Mother bought some beautiful flour from <name type="person">Mr. Vunlier</name>, just from <name type="place">St. Louis</name>. for the <unclear/> the puffs with some of <name type="person">Cousin David's</name> preserves on them <del type="overstrike">
+                  <unclear/>
+               </del> was too delicious to talk about, give our love to <name type="person">Eleanora</name>, We all join in love to you &amp; brother <name type="person">John</name>
+            </p>
+            <closer>
+               <salute>I remain your affectionate sister</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>M.</abbr>
+                        <expan>Margaret</expan>
+                     </choice> V. Bell</name>
+               </signed>
+               <add place="left margin">excuse this, as I have no <gap agent="damage"/> to have some the next letter I write.</add>
+               <pb n="4" facs="sl120d.small.jpg"/>
+               <add rend="different hand" place="top, right">Answered <date when="1837-05-08">May 8th</date>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="place">Charlotte <choice>
+                           <abbr>Tnn</abbr>
+                           <expan>Tennesse</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1837-04-19">
+                        <choice>
+                           <abbr>Apl</abbr>
+                           <expan>April</expan>
+                        </choice> 19th</date>
+                     <add place="right of return">}</add>
+                     <add place="right of address">25</add>
+                  </addrLine>
+                  <addrLine>
+                     <name type="peson">Miss Ann Jane Bell</name>.</addrLine>
+                  <addrLine>Care of <name type="person">Dr. John Bell</name>.</addrLine>
+                  <addrLine>
+                     <name type="place">Philadelphia</name>.</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl567">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] [to] James Winchester / R. H. Hobart     : a machine readable transcription of an image</title>
+            <author>Hobart, RH</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl567</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] [to] James Winchester / R. H. Hobart</title>
+               <author>Hobart, RH</author>
+               <date when="1815">ca. 1815</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is an undated letter most likely written to James Winchester during the War of 1812. R.H. Hobart wrote the letter to warn of military personnel killing and stealing beef and other goods near Pearl River.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl567</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Militia</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hobart, R. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl567.small.jpg"/>
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>I received a line from <choice>
+                  <abbr>Maj</abbr>
+                  <expan>Major</expan>
+               </choice> goodwin which informs me that Leneir further states that where he <gap agent="damage"/> at a place called the old chimney 6 miles on this side the pass there was five officers and about 40 or 50 privates they were killing and carrying away beef <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice> , he states that he thinks their scouts <add>have</add> much more risque at present than  Before on account that <choice>
+                  <abbr>Majr </abbr>
+                  <expan>Major</expan>
+               </choice> Farrargut through to much zeal for the common cause has committed an error by making his business <add>known</add> to <choice>
+                  <orig>allmost</orig>
+                  <reg>almost</reg>
+               </choice> every body and thereby to some <add>perhaps</add> as unfriendly as the <name>British</name> and by that means perhaps <gap agent="damage"/> of our business in this quarter I understand he has employee <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Ware of the Militia to go to the mouth of <name>pearl river</name> Ware is very friendly with the people who were on horn Island last week killing <gap agent="damage"/> he is a stranger to me but I am well informed that he is a most torn down Drunkard and when in a state of intoxication Might be off his guard I gave a copy of the General Order you sent me to Maj Goodwin and Lenier and sent another Up the river which I <del>supp</del> supposed ought to be made known to the <choice>
+                  <orig>inhabitans</orig>
+                  <reg>inhabitants</reg>
+               </choice>
+            </p>
+            <closer>
+               <signed>RH Hobart</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

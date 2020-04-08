@@ -1,0 +1,146 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0296">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Invoice] 1810 Jan. 1, The United States to Return J. Meigs / [signed by] Return J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, Return Jonathan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0296</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Invoice] 1810 Jan. 1, The United States to Return J. Meigs / [signed by] Return J. Meigs</title>
+               <author>Meigs, Return Jonathan</author>
+               <date when="1810-01-01">January 1, 1810</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is an invoice of money due Return J. Meigs by the United States covering the months October 1st through December 31st 1809. Meigs worked as agent to the War Department and agent for the Cherokee Indians.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0296</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Invoices</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0296a.small.jpg"/>
+            <p>
+               <table>
+                  <head>The <name>United States</name> To Return J. Meigs.........<choice>
+                        <abbr>Dr.</abbr>
+                        <expan>Debtor</expan>
+                     </choice>
+                  </head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <date>1809 <choice>
+                              <abbr>Nov.</abbr>
+                              <expan>November</expan>
+                           </choice> 16</date>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">To 12 days service with a Detachment of regular troops in removing Intruders off Indian lands in <name>Sequchee Valley</name>, <name>Crow Town</name> &amp; <name>Battle Creek</name> at 3$ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day..</cell>
+                     <cell role="data" rows="1" cols="1">36.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">To 12 days <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice> for Self Interpreter &amp; waiter having 3 Horses at 3$ pr. day.........</cell>
+                     <cell role="data" rows="1" cols="1">36.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <date>1810 January 1</date>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">To 1 quarter years's salary commencing <date>1st October</date> ending <date>31st December 1809</date>........</cell>
+                     <cell role="data" rows="1" cols="1">350.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">To 92 days rations at 6 rations pr. day 552 <add>rations</add> at 16 <choice>
+                           <abbr>cts</abbr>
+                           <expan>cents</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">88.32</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">To 3 months forage for 1 Horse at 6$ pr. month ending 31st December 1809...........</cell>
+                     <cell role="data" rows="1" cols="1">18.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Highwassee Garrison</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">January 1st 1810 <name>Return J. Meigs</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">$528.32</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="pa0296b.small.jpg"/>  4. <lb/> Return J. Meigs account <lb/> commencing 1st October <lb/> ending 31st December <lb/>  _1809._  <lb/>―<lb/> $528.32 <lb/> ― <lb/> Copy</p>
+         </div>
+      </body>
+   </text>
+</TEI>

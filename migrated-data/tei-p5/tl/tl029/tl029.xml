@@ -1,0 +1,236 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Jan. 17, Knoxville, [Tennessee, to] each of our
+			 members in Congress / John Sevier, Governor of the state of Tennessee: a
+			 machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl029</idno>
+            <idno>OCLC: 47826684</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Jan.17, Knoxville, [Tennessee, to] each of our
+				members in Congress / John Sevier, Governor of the state of Tennessee </title>
+               <author>Sevier, John</author>
+               <date when="1797-01-17">January 17, 1797 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Tennessee
+				Governor John Sevier (1796-1801) to the members of Congress, dated January 17,
+				1797. Sevier reported that it was believed that Cherokees had been plundering
+				the wagons of frontier settlers along the Cumberland road and taking their
+				horses, and he stated that the Cherokee agent had complained about the size of
+				the territory awarded to frontier settlers. Also reported, was that at least
+				one Indian had been killed, but Sevier had doubts about this because the
+				subject had not been brought before him by the Cherokees or their agent. After
+				he made complaints about inefficiencies within the postal system, Sevier
+				explained that Captains Wades and Sparks had arrived in the frontier but that
+				their companies were insufficient. Sevier requested that three companies of
+				infantry and a troop of horses be sent to help protect the frontier. </note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Horse stealing</term>
+               <term>United States--Congress</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl029a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-01-17">17 January 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Since my last nothing of material moments excepting that Several
+			 <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> on the road through the wilderness to 
+			 <name type="place">Cumberland</name> have been plundered by the
+			 indians <del type="overstrike">supposed to be the Cherokees</del> , and Some of
+		  them left without a horse, supposed to be done by the Cherokees</p>
+            <p>The agent to the Cherokees has complained about
+			 <choice>
+                  <orig>Setlements</orig>
+                  <reg>Settlements</reg>
+               </choice> being made as low down as 
+			 <name type="place">the <choice>
+                     <orig>tennessee</orig>
+                     <reg>Tennessee</reg>
+                  </choice>
+               </name>
+			 , on which Subject I to him replied, a copy of which is <del type="overstrike">herein</del>
+               <choice>
+                  <orig>inclosed</orig>
+                  <reg>enclosed</reg>
+               </choice> for your
+		  information, Should <choice>
+                  <orig>any thing</orig>
+                  <reg>anything</reg>
+               </choice> on that head be
+		  <del type="overstrike">brought</del>
+               <add place="supralinear">Sent</add>
+		  forward to the department of war. It will elucidate in Some measure the
+		  circumstances all ending the matter, and you will take such Measures as your
+		  Wisdom Will best promote the interest of this state:  I wish the line
+		  could be extended to 
+		  <name type="place">the Tennessee</name>. </p>
+            <p>It has for Some time past been reported that one Indian was killed,
+			 and another Wounded, on the Waters of 
+			 <name type="place">Clinch</name> ; I hope the report is not true, and
+			 I am induced so to believe from this reason, that neither the indians nor agent
+			 have complained to me on the Occasion.</p>
+            <p>our post <add place="supralinear">
+                  <unclear>was</unclear>
+               </add> has
+			 several times been disappointed in meeting with and receiving in order the mail
+			 at 
+			 <name type="place">Abingdon</name>, which neglect may prove Very
+			 injurious to us. A letter from the Department <lb/>
+               <choice>
+                  <sic>of
+			  of 
+                     </sic>
+                  <corr>of</corr>
+               </choice> War to the executive of this State, Dated 
+			 <date when="--08-13">13 August</date> last only arrived here on
+			 the 
+			 <date when="---11">11th</date> instant, brought by 
+			 <name type="person">Mr. John Deadrick</name> from 
+			 <name type="place">Cumberland</name>, Another from the same
+			 department dated 
+			 <date when="--09-29">29 September</date> came by our post A few
+			 days, before. How these irregularities happen I am at A loss to know. It is not
+			 the first time <del type="overstrike">my</del> letters Directed to me at this
+			 place from 
+			 <name type="place">Philadelphia</name> , has went round by the way of
+			 
+			 <name type="place">Cumberland</name>, and some of them came forward
+			 with a broken seal.
+               </p>
+            <p>I hope you will <add place="supralinear">please</add>
+			 Acquaint the post master General of such Irregularities, in order <add place="supralinear">that</add> the defect May be <choice>
+                  <orig>remidied</orig>
+                  <reg>remedied</reg>
+               </choice>.</p>
+            <p> Captains 
+			 <name type="person">Wades</name> and 
+			 <name type="person">Spark's</name> companies have arrived
+			 <del type="overstrike">here</del> neither of them <choice>
+                  <orig>compleat</orig>
+                  <reg>complete</reg>
+               </choice>, <del type="overstrike">I
+		  <unclear>unk</unclear>
+               </del> if no more is sent, these will be inadequate to
+		  the protection of our Frontiers, and the defect ought to be
+		  <choice>
+                  <orig>Supplyed</orig>
+                  <reg>Supplied</reg>
+               </choice> by militia. Three companies of Infantry
+		  and a troop of horse, would answer the purpose, in which I have wrote the
+		  secretary of war</p>
+            <closer>
+               <salute>I have the honor to be  
+				<choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+                  <lb/> Signed
+                  </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>to each of <del type="overstrike">the</del>
+                     <add place="supralinear">our</add> members <lb/> in Congress 
+				  
+                     </addrLine>
+               </address>
+               <add place="bottom right, on side">
+                  <add>John Sevier</add> Letter to the <lb/> members
+			 in Congress <lb/>
+                  <date when="1797-01-17">17th January <lb/> 1797
+                           </date>
+                  <lb/> (<choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice> 17) <lb/>
+                  <hi rend="underlined">Recorded</hi>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

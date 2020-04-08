@@ -1,0 +1,123 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl221">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[License to practice law] 1828 Mar. 19, State of Tennessee /  [signed by John Catron et. al.] : a machine readable transcription of an image</title>
+            <author>Catron, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl221</idno>
+            <idno>OCLC: 49962855</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[License to practice law] 1828 Mar. 19, State of Tennessee /  [signed by John Catron et. al.]</title>
+               <author>Catron, John</author>
+               <date when="1828-03-19">March 19, 1828</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a license to practice law in the state of Tennessee granted to Sandy Owens of Davidson County. The license is dated March 19, 1828 and is signed by John Catron, Robert Whyte, and Jacob Peck, all judges in the Tennessee Supreme Court of Errors and Appeals.</note>
+               <note type="collection" anchored="true">License to practice law</note>
+               <note type="box" anchored="true">IV-C-2</note>
+               <note type="folder" anchored="true">Tennessee State Library, Miscellaneous documents 81-45</note>
+               <note type="document" anchored="true">tl221</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Owens, Sandy</term>
+               <term>Law license</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no92001347"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Catron, John, approximately 1786-1865</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Whyte, Robert</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2001040541"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Peck, Jacob, 1779-1869</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl221a.small.jpg"/>
+            <head>State of <name type="place">Tennessee</name>,</head>
+            <p>Whereas <name type="person">Sandy Owen</name> of the County of <name type="place">Davidson</name> &amp; State aforesaid has applied to us <name type="person">Robert Whyte</name>
+               <name type="person">Jacob Peck </name>&amp; <name type="person">John Catron,</name> Judges of the Supreme Court of  Errors and Appeals in &amp; for said State, and has produced to us from the Court of Pleas &amp; Quarter Sessions for said County of Davidson testimonials of his age &amp; moral character as required by Law: And Whereas, We the Judges aforesaid having examined the said Sandy Owen Vouching his legal attainments &amp; being satisfied therein: Do hereby License &amp; admit him to <choice>
+                  <orig>practise</orig>
+                  <reg>practice</reg>
+               </choice> as an Attorney and Counsellor at Law in the several Courts of Law &amp; Equity in this State</p>
+            <p>In testimony whereof we have hereunto set our hands &amp; Seals at <name type="place">Nashville</name> this <date when="1828-03-19">19th day of March <choice>
+                     <abbr>A. D.</abbr>
+                     <expan>Anno Domini</expan>
+                  </choice> 1828</date>—</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Jn</abbr>
+                     <expan>John</expan>
+                  </choice> Catron</signed>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>handwritten seal</figDesc>
+                  </figure>
+               </add>
+               <signed>Robert Whyte</signed>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>handwritten seal</figDesc>
+                  </figure>
+               </add>
+               <signed>Jacob Peck</signed>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>handwritten seal</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

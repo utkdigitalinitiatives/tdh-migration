@@ -1,0 +1,110 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc243">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Ordination Certificate] 1844 Oct. Pleasant L. Henderson /  R.W. January  : a machine readable transcription of an image</title>
+            <author>January, R.W. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc243</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Ordination Certificate] 1844 Oct. Pleasant L. Henderson /  R.W. January</title>
+               <author>January, R.W.  </author>
+               <date when="1844-10">October 1844 
+			 </date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a certificate of ordination declaring Pleasant L. Henderson a regularly ordained Minister of the Gospel of Jesus Christ for the Baptist church of Enon located in Rutherford county, Tennessee.  It is dated in the month of October 1844, and is signed by ordained Ministers of the Baptist Denomination.  The ordination was witnessed by the church members located at Brawley's Fork, in Cannon county, Tennessee. </note>
+               <note type="collection" anchored="true">Certificate of Ordination</note>
+               <note type="box" anchored="true">New Accessions</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc243</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Jesus Christ</term>
+               <term>Ordination</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">January, R. W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc243a.small.jpg"/>
+            <opener>
+               <add>Ordination Certificate</add>
+            </opener>
+            <p>We the subscribers, ordained Ministers of the Baptist Denomination, having learned that our brother <name>Pleasant L Henderson</name> is a member of the Baptist church at <name>Enon</name>, <name>Rutherford county</name>, <name>Tennessee</name>, and having also received the assurances of said church, that if is their desire that he be solemnly ordained to the work of the Ministry; and having also obtained satisfactory information as so the acceptableness of this <unclear>gift as a licerbrate</unclear>, his soundness in the faith, and the purity of his conversation; did, in the presence of the church at <name>Brawley's Fork</name>, <name>Cannon county</name> , and of a full assembly met, ordain him to the work of an Evangelist, by the imposition of hands, by prayer, and other rites <unclear>used</unclear> in our churches</p>
+            <p>We do therefore, by these presents, declare him to be a regularly ordained Minister of the Gospel of Christ, and as such recommend him to the affectionate attention of the churches and brethren, among whom in the providence of God, his sphere of action may be <unclear>determined</unclear> ; fervently praying that his labors in the Lord may be crowned with <unclear>abundant</unclear> success</p>
+            <closer>Brawley's Fork, Cannon <choice>
+                  <abbr>Co</abbr>
+                  <expan>County</expan>
+               </choice>
+               <choice>
+                  <abbr>Tenn</abbr>
+                  <expan>Tennessee</expan>
+               </choice>. October the 1844 <signed>R W January </signed>
+               <unclear/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

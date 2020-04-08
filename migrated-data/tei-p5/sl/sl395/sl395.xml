@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl395">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1832 Nov. 12, Dover, T[ennessee] [to] E[lizabeth] Fitzgerald, Dresden, Tennessee / W[illiam] Fitzgerald: a machine readable transcription of an image</title>
+            <author>Fitzgerald, W[illiam]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl395</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1832 Nov. 12, Dover, T[ennessee] [to] E[lizabeth] Fitzgerald, Dresden, Tennessee / W[illiam] Fitzgerald</title>
+               <author>Fitzgerald, William</author>
+               <date when="1832-11-12">November 12, 1832</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Congressman William Fitzgerald to his wife Elizabeth, dated November 12, 1832. William is trying to get Elizabeth to move the family to their farm. He reports that Cholera is spreading through the smaller towns. William asks her to take the children out of school if people start getting sick in her area.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl395</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fitzgerald, William</term>
+               <term>Tennessee</term>
+               <term>Communication in the family</term>
+               <term>Cholera</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fitzgerald, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl395a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Dover</addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 12 1832</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear</salute>
+            </opener>
+            <p>All here are well__ I wish you would move to our farm as quick as possible the Cholera is spreading in all the little towns carried there by persons from the river__ look at the Republican of  the 8th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> you will see <name>Dr. Drakes</name> directions &amp; attend to them so soon as the <unclear>Chimny</unclear> is finished move all out there &amp; have no communication with Town  go nor send to any place where persons are suddenly taken sick <pb n="2" facs="sl395b.small.jpg"/> do not subject to <unclear>attend</unclear> to this &amp; if necessary stop the Children from going to School</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yr.</abbr>
+                     <expan>your</expan>
+                  </choice> Husband</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>W</abbr>
+                        <expan>William</expan>
+                     </choice> Fitzgerald</name>
+               </signed>
+               <pb n="3" facs="sl395c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Dover</name>
+                     <name>
+                        <choice>
+                           <abbr>T</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>13th Nov</addrLine>
+               </address>
+               <add>Free</add>
+               <address>
+                  <addrLine>W. Fitzgerald</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>Mrs <choice>
+                           <abbr>E.</abbr>
+                           <expan>Elizabeth</expan>
+                        </choice> A. Fitzgerald</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Dresden</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

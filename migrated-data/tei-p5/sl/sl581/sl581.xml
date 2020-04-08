@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl581">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1812 Feb. 24, Huntsville, Mississippi [to] James Winchester,  Cragfont, Sumner County Tennessee/ John Read   : a machine readable transcription of an image</title>
+            <author>Read, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl581</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1812 Feb. 24, Huntsville, Mississippi [to] James Winchester,  Cragfont, Sumner County Tennessee/ John Read</title>
+               <author>Read, John</author>
+               <date when="1812-02-24">February 24, 1812</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from John Read in Huntsville, Mississippi to General James Winchester in Sumner County, Tennessee. In the letter,   Read requests to be commissioned into the army for the coming war with Great Britain.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl581</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>War of 1812</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Read, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl581a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Huntsville Mississippi <unclear>Territory</unclear>
+                  </addrLine>
+               </address>
+               <date>February 24 1812</date>
+               <salute>Dear General,</salute>
+            </opener>
+            <p>war with <name>great Britain</name> appears to be the only topic of conversation at this time, should it take place I feel anxious to be found among those who step forward to make a lender of their Services to government,</p>
+            <p>will you, Sir, have the goodness to recommend me to the president of the <name>United States</name>, your friends in congress, or otherwhere, for an appointment in the army of the United States, I cannot pretend to say what commission I should feel authorized to ask for, but sir, you, who know me can say what rank I ought to be entitled to, I make this application under <choice>
+                  <orig>assurancy</orig>
+                  <reg>assurance</reg>
+               </choice> that war will most certainly take place &amp; that <pb n="2" facs="sl581b.small.jpg"/> the united states will raise a very considerable force, but should our differences be amicably adjusted with <name>England</name> (which I fear will not be the case) I have no wish to join the army, having served some time in a peace establishment which is a very unpleasant service, and not <unclear>deemed</unclear> very honorable.</p>
+            <closer>I am Sir, Very respectfully your most <choice>
+                  <abbr>obt servt</abbr>
+                  <expan>obedient servant</expan>
+               </choice>
+               <signed>
+                  <name>John Read</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Genl. Ja</abbr>
+                        <expan>General James</expan>
+                     </choice>. Winchester Cragfont Sumner County Tennessee</addrLine>
+               </address>
+               <pb n="3" facs="sl581c.small.jpg"/>
+               <address>
+                  <addrLine>Genl. James Winchester Cragfont Sumner County Tennessee</addrLine>
+               </address>
+               <add>mail <name>John Read</name>
+                  <date>24th <choice>
+                        <abbr>Feb</abbr>
+                        <expan>February</expan>
+                     </choice>. 1812</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

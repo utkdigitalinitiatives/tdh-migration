@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1820 May 3 / William Blythe : a machine readable transcription of an image</title>
+            <author>Blythe, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc011</idno>
+            <idno>OCLC: 50448612</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1820 May 3 / William Blythe </title>
+               <author>Blythe, William</author>
+               <date when="1820-05-03">May 3, 1820</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a receipt dated May 3, 1820. William Blythe of the Cherokee Nation, for the sum of five hundred dollars sells to Henry Welker a thirty year old man named George Kemp.</note>
+               <note type="collection" anchored="true">Welker Papers</note>
+               <note type="box" anchored="true">MS-12, b1</note>
+               <note type="folder" anchored="true">1820-1830</note>
+               <note type="document" anchored="true">mc011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Nation</term>
+               <term>Slavery</term>
+               <term>Southern States</term>
+               <term>Receipts</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blythe, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc011a.small.jpg"/>
+            <opener>
+               <dateline rend="penciled in">1820 May 3</dateline>
+            </opener>
+            <p>Know all men by these presents that I <name type="person">William Blythe</name> of the <name type="person">Cherokee</name> Nation doth <choice>
+                  <orig>Bargin</orig>
+                  <reg>bargain</reg>
+               </choice> and sell to unto <name type="person">Henry Welker</name> one negro man by the name of <name type="person">George Kemp</name>  aged about thirty years for the sum of five hundred dollars to me in hand paid and <sic>and</sic> I do agree to warrant and defend against all other <choice>
+                  <orig>lawfuls</orig>
+                  <reg>lawful</reg>
+               </choice> claims for life in witness <choice>
+                  <orig>wherof</orig>
+                  <reg>whereof</reg>
+               </choice> I have hereunto set my hand and seal this <date when="1820-05-03">3rd day of May in the year of our Lord 1820</date>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Blythe</name>
+               </signed>
+               <add>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                  </figure>
+               </add>
+               <add>
+                  <choice>
+                     <abbr>Test</abbr>
+                     <expan>testify</expan>
+                  </choice>
+               </add>
+               <name type="person">R. B. Locke</name>
+               <name type="person">Roswell Hall</name>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="mc011b.small.jpg"/>
+      <back>
+         <head>
+            <hi>Bill of Sale William Blythe to Henry Welker for George Kemp</hi>
+         </head>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl450">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Appointment] 1812 Nov. 21, Nashville, Tennessee [to] William Lauderdale appointment as 1st Lt., Infantry   / Willie Blount: a machine readable transcription of an image</title>
+            <author>Blount, Willie</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl450</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Appointment] 1812 Nov. 21, Nashville, Tennessee [to] William Lauderdale appointment as 1st Lt., Infantry   / Willie Blount</title>
+               <author>Blount, Willie</author>
+               <date when="1812-11-21">November 21, 1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is notice of formal appointment of William Lauderdale as First Lieutenant in a volunteer company of infantry, commanded by Captain William L. Alexander.</note>
+               <note type="collection" anchored="true">Lauderdale Papers</note>
+               <note type="box" anchored="true">Correspondence</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl450</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>First Lieutenant</term>
+               <term>Military</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98009970"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blount, Willie, 1768-1835</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl450a.small.jpg"/>
+            <opener>
+               <name>
+                  <choice>
+                     <abbr>Lieut</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Lauderdale</name>
+               <pb n="2" facs="sl450b.small.jpg"/>
+               <name>NASHVILLE</name>, <date>NOVEMBER 21st, 1812</date>
+               <salute>SIR,</salute>
+            </opener>
+            <p>You are hereby notified that you are appointed First <choice>
+                  <abbr>Lieut</abbr>
+                  <expan>Lieutenant</expan>
+               </choice>__ in a volunteer company of infantry in the service of the <name>United States</name> commanded by Captain <name>William L. Alexander</name>__ who hath been commissioned conformably to the acts of Congress of February 6th and <date>July 6th 1812</date>, respecting volunteers; and you are hereby authorized to act as First Lieut__ in said company until you may be commissioned by the President: and you are further entitled to receive all the pay and emoluments of First Lieut__ in said company: and required to execute all the duties enjoined by law; and to exercise all the privileges secured by law to an officer of your rank in the service of the <name>United States</name>__ Given under my hand at <name>Nashville</name>, this <date>21st day of November, 1812</date>.</p>
+            <closer>
+               <signed>Willie Blount</signed> by authority of the president of the United States <add>Lieut William Lauderdale</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

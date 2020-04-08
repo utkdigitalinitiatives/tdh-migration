@@ -1,0 +1,103 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc124">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1815 Jan. 17, Daniel Bartly to First Collection District in the State of Tennessee : a machine readable transcription of an image</title>
+            <author> Bartly, Daniel </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc124</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1815 Jan. 17, Daniel Bartly to First Collection District in the State of Tennessee </title>
+               <author> Bartly, Daniel</author>
+               <date when="1815-01-17"> 
+			 January 17, 1815</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This is a property tax receipt dated January 17, 1815.  It was  paid by Daniel Bartly of Washington County, Tennessee.</note>
+               <note type="collection" anchored="true">Fink &amp; Dulaney Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true"> sc124</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Property tax</term>
+               <term>Receipts.</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Bartly, Daniel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc124a.small.jpg"/>
+            <p>RECEIVED this <date>17 day of January 1815</date> from <name>Daniel Bartly</name> the sum of 4  Dollars 4 Cents ,  5 Mills,  for Direct Tax upon the property of <name>John bartly</name>
+               <unclear>des</unclear> in the county of <name>Washington</name> in the First Collection District in the State of <name>Tennessee</name>, under the Act of Congress passed the <name>2d August, 1818</name>, to lay and collect Direct Taxes within the <name>United States</name>.  DOLLARS 4=4=5 <name>
+                  <choice>
+                     <abbr>Nathl </abbr>
+                     <expan>Nathanial</expan>
+                  </choice> Davis</name>
+               <add>Collector of the First Collection District of Tennessee.</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

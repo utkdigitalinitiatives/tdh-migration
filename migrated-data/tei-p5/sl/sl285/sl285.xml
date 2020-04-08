@@ -1,0 +1,120 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl285">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  [ca 1834] Alexandria, D.C.] [ to] A[ndrew] J[ackson] Donelson, President's House, [Washington City, D.C.] / Edgar Snowden   : a machine readable transcription of an image</title>
+            <author>Snowden, Edgar</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl285</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter]  [ca 1834] Alexandria, D.C.] [ to] A[ndrew] J[ackson] Donelson, President's House, [Washington City, D.C.] / Edgar Snowden</title>
+               <author>Snowden, Edgar</author>
+               <date when="1834">ca 1834</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Andrew Jackson Donelson from Edgar Snowden of unknown date. It is believed to be around 1834. Snowden is writing in reference to President Jackson's upcoming address to Congress. He wants a copy in advance for his father's newspaper. He assures absolute secrecy as to the contents. Snowden also mentions that this is the way it has always been done in the District.</note>
+               <note type="collection" anchored="true">A. J. Donelson Papers</note>
+               <note type="box" anchored="true">I-D-3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl285</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Snowden, Edgar</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl285a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Browns Hotel. Wednesday Evening _</addrLine>
+               </address>
+               <salute>Sir:_</salute>
+            </opener>
+            <p>It being expected that the Message of the President will be delivered to Congress on Tuesday next, I take the liberty of asking you to <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> me with an order  <add place="supralinear">to the Printer</add> for a copy, <del type="overstrike">of</del> in anticipation, in order that it may be inserted in my fathers paper _ The Alexandria <choice>
+                  <orig>Phenix</orig>
+                  <reg>Phoenix</reg>
+               </choice> Gazette_ at the same time that is in the Washington papers. It has always been customary to place the papers in the District on the same footing in this respect. Thinking that an order for this purpose might be necessary, I have made this application to you. If we receive the message on Saturday, Sunday or Monday, of course, the same <choice>
+                  <orig>secresy</orig>
+                  <reg>secrecy</reg>
+               </choice> as has heretofore been observed will be continued, as to its contents, <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> it shall have been delivered. Your favour will much oblige</p>
+            <closer>
+               <salute>Your Most Obedient Humble Servant</salute>
+               <signed>Edgar Snowden</signed>
+               <add place="left of signature">
+                  <choice>
+                     <abbr>N. B.</abbr>
+                     <expan>Nota Bene</expan>
+                  </choice> Please direct in reply to "<name type="place">Alexandria. <choice>
+                        <abbr>DC</abbr>
+                        <expan>District of Columbia</expan>
+                     </choice>
+                  </name>."</add>
+               <pb n="2" facs="sl285b.small.jpg"/>
+               <address>
+                  <addrLine>to A. J. Donaldson Esq</addrLine>
+                  <addrLine>Presidents House</addrLine>
+               </address>
+               <add place="down right margin">Edgar Snowden _ <lb/> for the message</add>
+               <add place="down right margin">to print the message</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

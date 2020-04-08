@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc163">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1793 Sep. 16, Knoxville, Tennessee [to] Colonel Daniel Kenedy, Greene County, Tennessee / John Sevier : a machine readable transcription of an image</title>
+            <author> Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc163</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1793 Sep. 16, Knoxville, Tennessee [to] Colonel Daniel Kenedy, Greene County, Tennessee / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1793-09-16">September 16, 1793</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written in 1793 by John Sevier to Colonel Daniel Kenedy. Sevier complained that only half of the men from Greene County had shown up for for military service on the frontier. Sevier demanded Colonel Kenedy to send the other half of the troops.</note>
+               <note type="collection" anchored="true">John Sevier Letters</note>
+               <note type="box" anchored="true">MS-368</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc163</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Military assistance</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc163a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>16th September 1793</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Only about the one half of the Quota of Militia of <name>Greene County</name> have appeared notwithstanding the urgent necessity for their being at this time on the frontier which appears liable to be over run and totally destroyed by the enemy. It gives me pain to think that the County of Greene so brave on all former occasions should be so slack at a time of such imminent danger_ You will <choice>
+                  <orig>therfore</orig>
+                  <reg>therefore</reg>
+               </choice> please to send out without delay the remaining part of this number called for in my former order</p>
+            <closer>
+               <salute>I have the honor to be Sir Your <choice>
+                     <abbr>obed. Hbl. Servt.</abbr>
+                     <expan>obedient Humble Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <add>
+                  <name>Colonel Kenedy</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="sc163b.small.jpg"/>
+      <back>
+         <div subtype="1">
+            <p>Public Service <lb/>  Colonel Daniel Kenedy <lb/> Greene County</p>
+         </div>
+      </back>
+   </text>
+</TEI>

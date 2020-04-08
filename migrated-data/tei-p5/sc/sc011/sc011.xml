@@ -1,0 +1,282 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1793 Aug. 31, [to] David Henley Esq[ui]r[e] / Henry
+			 Knox: a machine-readable transcription of an image</title>
+            <author>Knox, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc011</idno>
+            <idno>OCLC: 50008623</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1793 Aug. 31, [to] David Henley Esq[ui]r[e] / Henry
+				Knox</title>
+               <author>Knox, Henry</author>
+               <date when="1793-08-31">August 31, 1793</date>
+               <extent>6p</extent>
+               <note type="summary">This document is a letter written by Henry Knox,
+				Secretary of War, to David Henley on August 31, 1793. In the letter, Knox
+				appointed Henley as an agent for the War Department in the Southwest Territory.
+				Knox further detailed the duties of Henley's new position, which mostly
+				included regulating payments and supplies of all sorts for the troops of the
+				Southwest Territory and also preventing and correcting improper expenditures.
+				David Allison was appointed as a subordinate paymaster, who would be working
+				under Henley. Henley's position was initially established on a temporary basis
+				in response to recent occurrences in the Southwest Territory that required the
+				deployment of more troops and greater expenditures by the War
+				Department.</note>
+               <note type="Collection"> David Henley, 1748-1823</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-736</note>
+               <note type="Document">sc011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States Politics and government, 1789-1797</term>
+               <term>Southern States</term>
+               <term>Knox, Henry, 1750-1806</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n50042395"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Knox, Henry, 1750-1806</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc011a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>To 
+				  <name type="person">David Henley</name>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice> Agent for the War
+				  Department</addrLine>
+                  <addrLine>in the 
+				  <name type="place"> territory <choice>
+                           <orig>South
+					 west</orig>
+                           <reg>southwest</reg>
+                        </choice> of the Ohio</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>The objects of <choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> having been
+			 considerably multiplied by recent occurrences in the territory of the Unites
+			 States South of the Ohio, it has been deemed <choice>
+                  <orig>adviseable</orig>
+                  <reg>advisable</reg>
+               </choice> with the approbation of the President of the
+			 United States to appoint you as an Agent of the War Department in that
+			 territory. This appointment will have a temporary aspect until other and more
+			 regular measures shall be ordained by the Congress of the 
+			 <name type="place">United States</name>.</p>
+            <p>All the supplies in the Quarter masters, Ordnance, Clothing, Pay,
+			 Commissaries of Provisions Departments or other objects within the general
+			 Department of War, will come under your cognizance.</p>
+            <p>You are in all cases to use the highest vigilance to prevent all
+			 abuse or injury to the public interests which may arise from negligence or
+			 design.</p>
+            <p>All militia which have been or shall be raised at the
+			 <choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> of the Union are to be regularly and rigidly
+			 mustered and inspected upon entering and quitting the service. The regular
+			 troops are to be mustered monthly, and all militia who shall serve more than
+			 two months, are also besides <add place="bottom right">the</add>
+               <pb n="2" facs="sc011b.small.jpg"/>			 the before mentioned musters at entering and quitting the service also to be
+			 mustered and inspected monthly in all practicable cases. This duty is if
+			 possible to be performed by a regular Officer in your presence, but if a
+			 regular Officer cannot be obtained you will appoint some respectable character
+			 for the purpose. 
+               </p>
+            <p>All returns of public property belonging to the Quarter Master's,
+			 Ordnance, or Provisions Departments must be signed by the commanding Officer of
+			 the Battalion or Regiment, and all deficiencies must be accounted for at each
+			 inspection.</p>
+            <p>The payment of the regular troops and militia to be made according
+			 to the rules established by the Comptroller of the Treasury herewith delivered
+			 you, together with the explanations of the Accountant of the War
+			 Department.</p>
+            <p>You are considered in the aforesaid territory as vested with the
+			 powers of Pay Master to the troops. 
+			 <name type="person">David Allison</name> is appointed a subordinate
+			 pay master and Storekeeper of all public property within your cognizance, and
+			 he is to obey your orders in all things relatively to the modes of issuing the
+			 Stores and keeping of the Accounts.</p>
+            <p>Mr. Allison is to make the actual payments when the persons having
+			 just claims shall appear for the purpose of receiving them. In all other cases
+			 you <add place="bottom right">are</add>
+               <pb n="3" facs="sc011c.small.jpg"/> are to hold the money in
+			 possession until it is to be paid to the person entitled to it.
+               </p>
+            <p>You have also herewith delivered to you the forms of accounts for
+			 the Indian Department established by the Comptroller of the Treasury which must
+			 be rigidly observed. The Indian Goods are to be delivered to the written orders
+			 of 
+			 <name type="person">Governor Blount</name>, and also all other stores
+			 destined for the militia troops.</p>
+            <p>The following mode of payment of the militia in the territory South
+			 of the Ohio is to be observed as to the accounts already settled at the pay
+			 Office  The money to be advanced in the first instance to you as Agent
+			 for the Department of War upon Warrants of the Secretary of War.  To be
+			 paid by you to Mr Allison subordinate paymaster and storekeeper upon Warrants
+			 of Governor Blount countersigned by you, each of which Warrants will be for the
+			 whole sum expressed on a payroll of a company or detachment.</p>
+            <p>But the money is to be advanced to Mr Allison by you in parcels,
+			 that is, in sums upon account of each Warrant in proportion as they shall be
+			 wanted for actual <choice>
+                  <orig>disbursment</orig>
+                  <reg>disbursement</reg>
+               </choice>. These advances
+			 to be made weekly, receipts for each advance to be endorsed on the Warrant.</p>
+            <p>To obtain them Mr. Allison will furnish you with a
+			 <add place="bottom right">statement</add>
+               <pb n="4" facs="sc011d.small.jpg"/> statement of the sum
+			 probably wanted from period to period, and when a further sum is applied for a
+			 statement of the <choice>
+                  <orig>disbursment</orig>
+                  <reg>disbursement</reg>
+               </choice> of the preceding
+			 advance to be rendered to 
+			 <name type="person">Mr Glowell</name>, Accountant of the War
+			 Department, who will furnish copies of the pay abstracts as settled.
+               </p>
+            <p>It is difficult if not impracticable to detail with precision the
+			 different parts of your duty, such details can only arise from experience. But
+			 it is proper to be observed that you are to be placed in the territory South of
+			 the Ohio as the public eye to regulate payments and supplies of all sorts for
+			 the troops  to prevent and correct every improper expenditure relatively
+			 to the Indians on Military Departments. The Government are desirous that all
+			 stipulations or legal supplies shall be furnished most punctually; but at the
+			 same time that energy pervades every Department, it is necessary it should be
+			 accompanied by discretion purity and economy.</p>
+            <p>You will therefore diligently endeavor to observe the public
+			 interests in all respects  that you take all means in your power to
+			 prevent or remedy <choice>
+                  <orig>every thing</orig>
+                  <reg>everything</reg>
+               </choice> which may be wrong
+			 by making the necessary representations to the commanding Officers and to this
+			 Office  <add place="bottom right">while</add>
+               <pb n="5" facs="sc011e.small.jpg"/>
+            </p>
+            <p>While you are correcting abuses in others, you must be peculiarly
+			 circumspect with respect to yourself. For this purpose you will not hold any
+			 public property in your possession, but deliver such as may come into your
+			 possession to the persons who have been, or may be appointed to distribute
+			 them, making all persons accountable to you for their receipts and
+			 expenditures.</p>
+            <p>You will make monthly reports to this office of all objects under
+			 your direction, keeping each separate by itself </p>
+            <p>You may in this business necessarily require assistance, which you
+			 will obtain upon the best terms. All objects of reasonable expenditure
+			 connected with the safety of the public stores, or the advancement of the
+			 public business will be allowed you.</p>
+            <p>Given at the War Office of the United States the 
+			 <date when="1793-08-31">
+                  <choice>
+                     <orig>thirty first</orig>
+                     <reg>thirty-first</reg>
+                  </choice>
+				day of August, in the year of our Lord One thousand seven hundred and ninety
+				three</date>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>H</abbr>
+                        <expan>Henry</expan>
+                     </choice> Knox
+				  </name>
+                  <lb/>
+                  <choice>
+                     <abbr>Secy</abbr>
+                     <expan>Secretary</expan>
+                  </choice> of War
+                  </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="letter">
+            <pb n="6" facs="sc011f.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>War Office</addrLine>
+                  <addrLine>
+                     <date when="1793-08-31">August 31  1793
+				  </date>
+                  </addrLine>
+                  <addrLine>Instructions from</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>H </abbr>
+                        <expan>Henry</expan>
+                     </choice> Knox</addrLine>
+                  <addrLine>Secretary of War</addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

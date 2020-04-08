@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl080">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1812 Dec. 12, Nashville, [Tennessee] [to] Richard Alexander / W. B. Lewis : a machine readable transcription of an image</title>
+            <author>Lewis, W. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl080</idno>
+            <idno>OCLC: 50137304</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1812 Dec. 12, Nashville, [Tennessee] [to] Richard Alexander / W. B. Lewis</title>
+               <author>Lewis, W. B.</author>
+               <date when="1812-12-12">December 12, 1812</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by W. B. Lewis to Richard Alexander on December 12, 1812. Lewis requests that Alexander send him a report with the number of companies in his regiment, how many men and officers are in each company, and the quantities of different equipment they have, such as tents, kettles, pans, and axes.</note>
+               <note type="collection" anchored="true">Alexander Papers Outgoing</note>
+               <note type="box" anchored="true">VI-G-2</note>
+               <note type="box" anchored="true">5</note>
+               <note type="document" anchored="true">sl080</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military planning</term>
+               <term>Military supplies</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr95015169"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lewis, William Berkeley, 1784-1866</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl080a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1812-12-19">
+                        <choice>
+                           <abbr>Decr.</abbr>
+                           <expan>December</expan>
+                        </choice> 19th 1812</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>You will, without delay, make out to me a return of the number of companies in your Regiment, — how many men (including officers) are in each company; also, how many tents with, and without poles; — how many tin kettles, tin pans, and axes, and every other article of camp equipage <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> for said regiment</p>
+            <closer>
+               <salute>yours respectfully,</salute>
+               <signed>
+                  <name type="person">W. B. Lewis</name>
+                  <lb/>
+                  <emph>A. D. Quarter master</emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Richd.</abbr>
+                           <expan>Richard</expan>
+                        </choice> Alexander</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Q.</abbr>
+                        <expan>Quarter</expan>
+                     </choice> Master to 1st</addrLine>
+                  <addrLine>regiment Infantry }</addrLine>
+               </address>
+               <add place="below address">
+                  <choice>
+                     <abbr/>
+                     <expan>Post Script</expan>
+                  </choice> no more articles will be delivered to your regiment until the statement, as above required, be furnished. <lb/> W. B. Lewis <lb/> A. D. <choice>
+                     <abbr>Q. M.</abbr>
+                     <expan>Quarter Master</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="sl080b.small.jpg"/>
+               <address>
+                  <addrLine>Richard Alexander</addrLine>
+                  <addrLine>Regimental <choice>
+                        <abbr>Q.</abbr>
+                        <expan>Quarter</expan>
+                     </choice> Master</addrLine>
+               </address>
+               <add place="below address, sideways">W. B. Lewis <lb/> Order</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

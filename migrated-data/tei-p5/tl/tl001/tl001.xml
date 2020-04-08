@@ -1,0 +1,390 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1802 June 11, Nashville, [Tennessee], [to] Gov[ernor]
+			 Archibald Roane of Tennessee / Jim Overton: a machine-readable transcription of
+			 an image</title>
+            <author>Overton, Jim</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Chadwell</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl001</idno>
+            <idno>OCLC: 47783575</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1802 June 11, Nashville, [Tennessee], [to] Gov[ernor]
+				Archibald Roane of Tennessee / Jim Overton</title>
+               <author>Overton, Jim</author>
+               <date when="1802-06-11">June 11, 1802 </date>
+               <extent>8p</extent>
+               <note type="summary">This document is a letter dated June 11, 1802
+				from Jim Overton to Tennessee Governor Archibald Roane (1801-1803). Overton
+				requests the Governor's help regarding the opening of the Natchez road near the
+				Indian Boundary line that would run from Franklin to Davidson County. </note>
+               <note type="Collection"> Governor Roane Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">5</note>
+               <note type="Document">tl001</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians of North America--Government relations</term>
+               <term>Roads--Design and construction</term>
+               <term>Boundaries</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Overton, Jim</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl001a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1802-06-11">June 11th 1802</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>,</opener>
+            <p>Since the setting of 
+			 <name type="place">Davidson Court</name>I received your letter
+			 relative to the opening of the 
+			 <name type="place">Natchez</name> road. agreeably thereto, the
+			 subject was brought before last 
+			 <name type="place">Williamson County</name> Court. An order was then
+			 and there made for a jury to view a road the nearest and best was from <hi>
+                  <name type="place">Franklin</name>
+               </hi> to the 
+			 <name>Davidson County</name> line in the direction to 
+			 <name type="place">Nashville</name>, and also order for a jury to
+			 view a road the nearest and best way from <hi>
+                  <name type="place">Franklin</name>
+               </hi> to the 
+			 <name type="place">Natchez</name> road cut by the troops of the 
+			 <name type="place">United States</name>, where the Indian Boundary
+			 line intersects the same or to the North <add place="supralinear">of
+			 that</add>point. A motion was made at the same court to procure an order for a
+			 view of a road from where the 
+			 <name type="place">Natchez</name> road intersects the Indian boundary
+			 line, the nearest and best way towards 
+			 <name type="place">Nashville</name> to the 
+			 <name type="place">Davidson County</name> line, but the court
+			 unanimously opposed it. Because they said there was now a reduction of the
+			 army, and they had received information that the troops were ordered to cease
+			 cutting the 
+			 <name type="place">Natchez</name> road any further; and then said
+			 that road would be an intolerable <unclear>
+                  <choice>
+                     <orig>burthen</orig>
+                     <reg>burden</reg>
+                  </choice>
+               </unclear> on the citizens of the said County
+			 without any benefit, for it would pass <unclear>
+                  <choice>
+                     <orig>thou</orig>
+                     <reg>through</reg>
+                  </choice>
+               </unclear> a County very thinly <pb n="2" facs="tl001b.small.jpg"/> settled
+			 and that said road would not pass <choice>
+                  <orig>thro</orig>
+                  <reg>through</reg>
+               </choice>
+               <name type="place">Franklin</name> and would be against the interest
+			 of said Town and its vicinity which they thought they ought to promote; and
+			 this last reason appeared to be the only <unclear>actuating</unclear> one; the
+			 others were <unclear>ostensible</unclear>. it had such weight that it was
+			 mentioned <del type="overstrike">by</del> by several and not denied by any that
+			 even if the 
+			 <name type="place">United States</name> troops were to cut said road
+			 they ought not to permit them
+               </p>
+            <p>If said order had been obtained in 
+			 <name type="place">Williamson</name> there would I believe have been
+			 no difficulty in <choice>
+                  <orig>obtaing</orig>
+                  <reg>obtaining</reg>
+               </choice> an order from the County
+			 Court of 
+			 <name type="place">Davidson</name> for a road from 
+			 <name type="place">Nashville</name> the nearest
+			 <del type="overstrike">way</del> and best way to the 
+		  <name type="place">Davidson County</name> line in the direction to the
+		  intersection of the 
+		  <name type="place">Natchez</name> road and the Indian boundary</p>
+            <p>And thereby said viewers viewing said road and marking it in concert
+			 with 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Butler</name>,
+			 the object of the secretary at war might be obtained to wit. the having a road
+			 opened the nearest and best way from 
+			 <name type="place">Nashville</name> to 
+			 <name type="place">Natchez</name>. But now 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Butler</name>
+               <pb n="3" facs="tl001c.small.jpg"/> declines to open the road from 
+			 <name type="place">Nashville</name> agreeably to the order of view of
+			 Williamson court <choice>
+                  <orig>alledging</orig>
+                  <reg>alleging</reg>
+               </choice> that it does not accord
+			 with the letter spirit nor intent of the order of the secretary at war
+			 <del type="overstrike">unclear</del> for he says the road the nearest and best
+			 way from 
+			 <name type="place">Nashville</name> to 
+			 <name type="place">Natchez</name> road now opened at the Indian
+			 boundary would be four miles nearer than any road which could be cut passing
+			 through 
+			 <name type="place">Franklin</name> to the same places Said road will
+			 be of much importance to the citizens of <unclear>Meroe</unclear> generally and
+			 to <choice>
+                  <orig>travelers</orig>
+                  <reg>travellers</reg>
+               </choice> to and from 
+			 <name type="place">Natchez</name> but unless exertions are used, we
+			 shall be deprived of the <choice>
+                  <orig>benifit</orig>
+                  <reg>benefit</reg>
+               </choice> of it by the local
+			 policy of the County of 
+			 <name type="place">Williamson</name>; the town of 
+			 <name type="place">Franklin</name> and it vicinity, and the narrow
+			 interested views of a few individuals.
+               </p>
+            <p>Suffer me to suggest to the consideration of your excellency whether
+			 there would not be a propriety in writing to the County court of 
+			 <name type="place">Williamson</name> and 
+			 <name type="place">Davidson</name>, to make such order as would
+			 enable 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Butler</name>
+			 to cut out said road agreeably to the orders of the secretary at war
+			 <pb n="4" facs="tl001d.small.jpg"/> Or to write to the secretary at war to permit 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Butler</name>
+			 to cut said road according to his discretion from 
+			 <name type="place">Nashville</name> to where it is already open at
+			 the Indian boundary having first obtained permission of the owners of the lands
+			 through which it may pass: and permission of your excellency. 
+               </p>
+            <p>Or that the secretary will permit 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Butler</name>
+			 to open such road from 
+			 <name type="place">Nashville</name> to the intersection of the 
+			 <name type="place">Natchez</name> road and the Indian boundary line
+			 as the county Court of 
+			 <name type="place">Davidson</name> and 
+			 <name type="place">Williamson</name> may respectively
+			 direct.</p>
+            <p>I have not a copy by me of the above mentioned order of 
+			 <name type="place">Williamson County</name> Court.
+			 <add place="supralinear">it</add> is merely recited from memory and
+			 possibly may not be altogether correct. </p>
+            <p>It is the earnest desire of most of the respectable characters in
+			 this district that said road should be opened; and I am confident if it could
+			 <pb n="5" facs="tl001e.small.jpg"/> be obtained through the intervention of your excellency with the
+			 secretary at war, or with the County courts of 
+			 <name type="place">Davidson</name> and 
+			 <name type="place">Williamson</name> your regard for the interest of
+			 this District would be great <add place="supralinear">ful</add>ly
+			 remembered.
+               </p>
+            <p>Possibly the most eligible way of effecting it might be by your
+			 giving permission immediately to the troops to open away agreeably to the
+			 orders of secretary at war with the consent of the County Courts of 
+			 <name type="person">Davidson</name>
+               <name type="place">Williamson</name> and with the consent of ye
+			 respective owners of the lands, through, which it may pass. </p>
+            <p>And at the same time to provide against the possibility of the
+			 courts and individuals not giving said consent, to write to the secretary to
+			 permit the said way to be opened as the County courts of 
+			 <name type="place">Davidson</name> and 
+			 <name type="place">Williamson</name> may respectfully order. 1st 
+			 <choice>
+                  <abbr>Gov.</abbr>
+                  <expan>Governor</expan>
+               </choice> to write to County courts of 
+			 <name type="place">Davidson</name>
+               <name type="place">Williamson</name> to permit the <choice>
+                  <sic/>
+                  <corr>U.S.</corr>
+               </choice> to open the road according to
+			 orders 2. to write to secretary at war to permit troops to cut the road
+			 according to wish of 
+			 <name type="place">Davidson</name>
+               <name type="place">Williamson</name>, and if they are unwilling to
+			 make order 3. <choice>
+                  <orig>Thin</orig>
+                  <reg>Then</reg>
+               </choice>, to permit the troops to cut the
+			 road with permission of the owners of the lands through which it passes.
+			 </p>
+            <p>4th. Then to permit the troops to cut the road with the permission
+			 of the County Courts <add place="supralinear"> and</add> of the
+			 <del type="overstrike">unclear</del> owners of the lands</p>
+            <p>I have got a young man who <unclear>sits</unclear> with me to
+			 <unclear>throw</unclear> three <unclear>unc</unclear> together  I have
+			 been sick nearly three weeks and am not now able to sit up long The
+			 <unclear>unc</unclear> are not <unclear>commenced up</unclear> I could wish
+			  The road is of great consequence; and <unclear>unless an
+			 order</unclear> is obtained from the secretary of <unclear>war</unclear>to open
+			 it by 
+			 <name type="place">Franklin</name>. The <unclear>troops</unclear>
+               <pb n="7" facs="tl001g.small.jpg"/> will be withdrawn, and the road lost for it would be difficult to
+			 get the consent of the owners of land not in the Country  
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Butler</name>
+			 says an order must be got from the Secretary of War, or he can't <unclear>do
+			 it</unclear> As an individual let me intreat you to <choice>
+                  <orig>indeavour</orig>
+                  <reg>endeavor</reg>
+               </choice> to get the order of the secretary of War to
+			 open by 
+			 <name type="person">Franklin</name>, by immediate representation
+               </p>
+            <p>I believe 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Butler</name>
+			 expects such an application will be made</p>
+            <closer>
+               <salute>I am exhausted <lb/>with great 
+				<choice>
+                     <abbr>resp</abbr>
+                     <expan>respects</expan>
+                  </choice>
+                  <lb/> I am 
+				<choice>
+                     <abbr>yr mo obs</abbr>
+                     <expan>your most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <hi>
+                     <name type="person">
+                        <unclear>
+                           <choice>
+                              <abbr>Jim</abbr>
+                              <expan>John</expan>
+                           </choice>
+                        </unclear> Overton</name>
+                  </hi>
+               </signed>
+               <add place="bottom, left">
+                  <name type="person">
+                     <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice>
+				Roane</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="8" facs="tl001h.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <unclear>
+                        <choice>
+                           <abbr>Sup</abbr>
+                           <expan>Superior</expan>
+                        </choice>
+                     </unclear>
+				officer</addrLine>
+                  <addrLine>
+                     <unclear>Fm</unclear>
+                     <hi>
+                        <name type="person">
+                           <unclear>Jim</unclear>
+				  Overton</name>
+                     </hi>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Governor Roane</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 July 4, [to] James Robertson, James Stuart,
+			 Lochlen [i.e. Lachlan] McIntosh / John Sevier : a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl045</idno>
+            <idno>OCLC: 47832429</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 July 4, [to] James Robertson, James Stuart,
+				Lochlen [i.e. Lachlan] McIntosh / John Sevier : a machine-readable
+				transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1798-07-04">July 4, 1798</date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter of instructions
+				written by the Governor of Tennessee, John Sevier (1796-1801,1803-1809) to
+				state agents James Robertson, James Stuart, and Lachlan McIntosh. The letter is
+				dated July 4, 1798. Sevier stated that he appointed the agents to represent the
+				interests of the state of Tennessee on the issues of a treaty to be made
+				between the United States and the Cherokee. Among the issues Sevier noted for
+				the three men to pay close attention to were the Indian boundary lines and the
+				state districts in close contact with those boundaries. Sevier also commanded
+				the men to examine the grounds of the Cherokee, to question the
+				constitutionality of Cherokee land claims whenever possible, and to try to get
+				more roads, rivers, and ports in the possession of the state.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">6</note>
+               <note type="Document">tl045</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Boundaries</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl045a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Messrs 
+				  <name type="person">James Robertson</name>, 
+				  <name type="person">James Stuart </name>and 
+				  <name type="person">
+                        <choice>
+                           <orig>Lochlen</orig>
+                           <reg>Lochlan</reg>
+                        </choice>
+					 McIntosh</name>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>Having appointed you as Agents on the part of this State, to attend
+			 the <choice>
+                  <orig>insuing</orig>
+                  <reg>ensuing</reg>
+               </choice> treaty now about to be held between the 
+			 <name type="place">United States</name> and the 
+			 <name type="person">Cherokee</name> indians.</p>
+            <p>You will therefore please to repair to 
+			 <name type="place">Tellico Blockhouse</name>, at which place you will
+			 be on the 
+			 <date when="---06">sixth</date> instant prepared to attend the
+			 negotiations, at whatever point they may open.</p>
+            <p>It will be impossible to instruct you in the minutia of those
+			 interests, to which you are called to attend; as an outline, you will
+			 understand the State to require as extensive an extension of the indian claim
+			 North of the 
+			 <name type="place">Tennessee</name>, as may be obtained.</p>
+            <p>The communication of the 
+			 <name type="place">Holston</name> and 
+			 <name type="place">Clinch</name> with the 
+			 <name type="place">Tennessee</name>, and the right bank of the last
+			 river from our <choice>
+                  <orig>south east</orig>
+                  <reg>southeast</reg>
+               </choice> boundary to its
+			 confluence with the 
+			 <name type="place">Clinch</name>, are points to which you will direct
+			 your attention, as also to secure from future molestation the settlements so
+			 far as they have progressed, on the northern and western borders of the State,
+			 the connecting the districts of 
+			 <name type="place">Mero</name> and 
+			 <name type="person">Hamilton</name>, now separated by a space of
+			 unextinguished hunting grounds of near eighty miles in <choice>
+                  <orig>wedth</orig>
+                  <reg>width</reg>
+               </choice>, will be considered by you Gentlemen as an object of
+			 great importance, as the inconveniencies resulting from the present state of
+			 our Settlements must be obvious to every mind conversant with the geography of
+			 the country, and is certainly too irksome to be continued when the facts are
+			 fairly represented.</p>
+            <p>Among your duties will be an examination of
+			 <add place="bottom right">the</add>
+               <pb n="2" facs="tl045b.small.jpg"/> the ground of the Cherokee
+			 claim, either as derived from original rights, or founded on treaties, and if
+			 on investigation you shall find such right settle into a mere temporary use,
+			 antecedent to the 
+			 <name type="place">Holston</name> treaty, it may perhaps be proper to
+			 question the constitutionality of that measure, that prostrated the guaranteed
+			 rights of the whole people of the State, and to show the act of Cession
+			 operative on the government, prior to this treaty. In all appointments
+			 however of this kind much must necessarily be left discretionary, and perhaps
+			 there is no instance where that <choice>
+                  <orig>disscretion</orig>
+                  <reg>discretion</reg>
+               </choice> must
+			 be suffered to assume a wider range, than on the present occasion.
+               </p>
+            <p>Accept the assurances of my belief, that it cannot be better placed,
+			 and will in no instance be used more to the advantage of the State you
+			 represent. I trust it is unnecessary to remind you, that your duties,
+			 and your objects will be so connected with the Commissioners on the part of the
+			 
+			 <name type="place">United States</name>; that you will yield
+			 <choice>
+                  <orig>every thing</orig>
+                  <reg>everything</reg>
+               </choice> short of the interest and dignity of
+			 the State you represent to preserve yourselves well with them; please advise me
+			 frequently of the features your negotiations assume.</p>
+            <p>Roads opened from this State, to any of the adjacent ones, and to
+			 settlements in various parts of our own State, will be of much utility and
+			 convenience, and also to have the privilege of the unmolested navigation of all
+			 rivers, and waters within the chartered bounds of the State, and particularly
+			 to obtain where it may be necessary, suitable ports for deposit, and carrying
+			 places from river to river, so as to facilitate, and make easy as possible the
+			 importation and exportation of all the articles necessary for the commercial
+			 intercourse of the State.</p>
+            <p>You will please engage some suitable person to supply you with
+			 necessary stores for your support, during your attendance at the treaty, and
+			 for the discharge of the same I will grant a <add place="bottom right">warrant</add>
+               <pb n="3" facs="tl045c.small.jpg"/> warrant or warrants on the
+			 treasury for the necessary sum to be expended on that occasion, which is to be
+			 understood, not to exceed in the whole expenditure relative to the objects of
+			 your agency, one thousand dollars.
+               </p>
+            <p>Wishing you every success compatible with the interest of the
+			 State.</p>
+            <closer>
+               <salute>I have the honor to be respectfully <lb/> Your 
+				<choice>
+                     <abbr>Mo Obedt and Huml.</abbr>
+                     <expan>Most Obedient and Humble</expan>
+                  </choice>
+				Servant
+                  </salute>
+               <lb/> / signed /; 
+			 <signed>
+                  <name type="person">John Sevier</name>
+               </signed>
+               <add place="bottom, left">
+                  <address>
+                     <addrLine>
+                        <name type="place">Knoxville</name>
+                     </addrLine>
+                     <addrLine>
+                        <date when="1798-07-04">4 July 1798</date>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="tl045d.small.jpg"/>
+            <p> / Copy / <lb/> Letter of Instructions, from <lb/> the Governor, to
+			 the State <lb/> Agents  
+			 <date when="1798-07-04"> 4 July 1798</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc109">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Feb. 8 [to] Col[onel] John Roper, Dandridge, Tennessee / L[awson] D. Franklin :a machine readable transcription of an image</title>
+            <author>Franklin, Lawson D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc109</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Feb. 8 [to] Col[onel] John Roper, Dandridge, Tennessee / L[awson] D. Franklin</title>
+               <author>Franklin, Lawson D.</author>
+               <date when="1836-02-08">Febuary 8, 1836</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 8, 1836 from Lawson D. Franklin to Colonel John Roper of Dandridge, Tennessee.  In the letter Franklin offers Roper some insights into local elections and some political wrangling.</note>
+               <note type="collection" anchored="true">Lawson D. Franklin Papers</note>
+               <note type="box" anchored="true">MS-780 b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sc109</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>Politics</term>
+               <term>Local Elections</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Franklin, Lawson D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc109a.small.jpg"/>
+            <opener>
+               <date when="1836-02-08">
+                  <choice>
+                     <abbr>Feb</abbr>
+                     <expan>February</expan>
+                  </choice> 8th 1836</date>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> John Roper</name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>  there is a great anxiety with the people for me to offer for Col. it is thought that <name>
+                  <choice>
+                     <abbr>Majr</abbr>
+                     <expan>Major</expan>
+                  </choice>. <unclear>Mions</unclear>
+               </name> will offer he will be hard to beat though my Opinion is I can beat him if we both run it will produce great Excitement &amp; every exertion will be made to beat me as he will be <choice>
+                  <orig>blaimed</orig>
+                  <reg>blamed</reg>
+               </choice> by the friends of fine and myself by the opposite side though I have greater Claims to Fines friends than he can harm I have always supported them except for sheriff last I then voted for Mcmahhan and we lost our Election by 13 votes My Friends Claim me to run for Col they  say I am the only man that Can beat the opposite side and if I do not run they say  I will treat them <del>(unclear)</del>
+               <add>worse</add> than they treated me in my last Election, know sir I want you to advise me as you would a son my calculation is to settle    down in <name>New Port</name> to Business &amp; I want to act so as to <unclear>Commissioned</unclear> with my Interest as well as my popularity write me a line by the by &amp; inform  me when the Elections will come on for military officers</p>
+            <closer>Yours very Respectfully <choice>
+                  <abbr>&amp;C.</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+               <signed>
+                  <choice>
+                     <abbr>L.</abbr>
+                     <expan>Lawson</expan>
+                  </choice> D. Franklin</signed>
+               <pb n="2" facs="sc109b.small.jpg"/>
+               <address>
+                  <addrLine>Col. John Roper</addrLine>
+                  <addrLine>
+                     <name>Dandridge</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

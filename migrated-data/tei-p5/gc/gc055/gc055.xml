@@ -1,0 +1,137 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Mar. 7 [to] James King / Thomas Moore: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc055</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 Mar. 7 [to] James King / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1850-03-07">March 7, 1850</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter written on March 7, 1850 to James King, from Thomas Moore. Moore discusses his farm and the desire for more slaves for himself and other family members.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1850</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">gc055</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Slavery</term>
+               <term>Louisiana</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc055a.small.jpg"/>
+            <opener>
+               <choice>
+                  <abbr>Thos</abbr>
+                  <expan>Thomas</expan>
+               </choice>. O. Moore <add>1850-</add>
+               <pb n="2" facs="gc055b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Alexa</abbr>
+                        <expan>Alexandria</expan>
+                     </choice>
+                     <choice>
+                        <abbr>La</abbr>
+                        <expan>Louisiana</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>7th March 1850</date>
+               <salute>Dear <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p> On my return from the city about the middle of <choice>
+                  <abbr>Feby</abbr>
+                  <expan>February</expan>
+               </choice> I found your long &amp; very welcome letter of the 6th <choice>
+                  <abbr>Jan.y</abbr>
+                  <expan>January</expan>
+               </choice> and was gratified to hear that all were well.  I remained in the city a month, two weeks of the time on my back very ill, many of my friends thought the jig was up, but it was another failure &amp; I am now as stout &amp; as healthy as ever, the fact is, I am kept so cornfounded busy that I have not time to think of being sick or dying within.  My last years expenses has almost ruined me, so you see that a man has molly to break before he is prepared for sugar, they were very little short of Twenty Thousand dollars, and not yet near fixed as I wish to be &amp; hope to be if I live.</p>
+            <p>I <choice>
+                  <abbr>red</abbr>
+                  <expan>received</expan>
+               </choice> a letter from Sarah expressing a wish to sour three of the negroes that are to be sold, &amp; wants my aid, my opinion in regard to the matter coincides with yours (vig) as they are to be sold under excention they will sell high &amp; for <choice>
+                  <orig>mor</orig>
+                  <reg>more</reg>
+               </choice> than this value, I shall therefore advise Sarah <del type="overstrike">is</del> such should be the case to let them go, if the oldest should sell for no mor than what she should be worht to her, &amp; you or Butler will bug her for her &amp; wifoverur of it, I will remit the amt to you immediately through Hill McLean Hes. but <add>it</add> is nonsense for one not able, to pay a high price for a negro be- <pb n="3" facs="gc055c.small.jpg"/> cause they raised them.  The fact is if I live, in a year or two I intend to try &amp; do something for Sarah, but I have worn ??? out that idea to her for fear of Brothers relaxing in his excecutions to make a suport for his family, as I suppose he is already lazy enough.  If you find it convenient to ??? over of them for her at a fair price you shall be refunded immediately in the aut.. if so had you not better take the title in my name, however act in that matter as you please, my object bring to prevent her bring horrassed by conditions.</p>
+            <p>I hope to make with a fair season at least four hundred hogsheads sugar this season, if so, I think I shall go north next summer &amp; will spend a short time in Turn.  I have been expecting Tom down for some time <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> Butlers formerly have been with us for six weeks &amp; will remain with us until his return from <name>Baton Rouge</name>  he bring in the senate from <name>Natchetchez</name>
+            </p>
+            <p>We are all in good health, Erin is off at school &amp; well.  Give our best love to Cousin Patsy &amp; family, love &amp; family, Aunt Butler, &amp; all our friends, &amp; accept my sincere progress for the good health of all &amp; your cousin to Democracy</p>
+            <closer>Your Friend &amp; relative <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+               <add>I have not time to say any thing about poor old jack, but will in my next <pb n="4" facs="gc055d.small.jpg"/> Take cousin Patsy &amp; come down &amp; spend a few weeks this spring, I will write Sarah in a day or two.  I would write more but my ??? hurt my head hurt my hand so much this morning that I can not for the pain</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

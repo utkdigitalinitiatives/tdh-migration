@@ -1,0 +1,116 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document] 1821 May 1 [to] Sheriff of Rhea County, Tennessee / [witnessed by] Daniel Rawlings : a machine readable transcription of an image</title>
+            <author>Rawlings, Daniel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl071</idno>
+            <idno>OCLC: 50132752</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal document] 1821 May 1 [to] Sheriff of Rhea County, Tennessee / [witnessed by] Daniel Rawlings</title>
+               <author>Rawlings, Daniel</author>
+               <date when="1821-05-01">May 1, 1821</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a legal summons witnessed by Daniel Rawlings to the Sheriff of Rhea County, Tennessee on May 1, 1821. The summons orders the sheriff to appear at the court house on May 8, 1821 in Rhea County to testify in a case between the state of Tennessee and a man named Laban Stuart.</note>
+               <note type="collection" anchored="true">Thomas McCallie Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">15</note>
+               <note type="document" anchored="true">sl071</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2001044158"
+                        role="Witness http://id.loc.gov/vocabulary/relators/wit">Rawlings, Daniel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl071a.small.jpg"/>
+            <head>The State of <name type="place">Tennessee</name> to the Sheriff of <name type="place">
+                  <hi rend="written text">Rhea</hi> County</name>;</head>
+            <head>GREETING.</head>
+            <p>WE COMMAND YOU TO SUMMON <gap agent="damage"/> instantly to appear before the JUSTICES of our Court of Pleas and Quarter Sessions now sitting in <hi rend="written text">Rhea</hi> County at the Court-House in <name type="place">
+                  <hi rend="written text">Washington</hi>
+               </name> to testify and the truth to say in a cause depending in said Court between <hi rend="written text">The State</hi> Plaintiff and <hi rend="written text">
+                  <name type="person">Laban Stuart</name>
+               </hi> Defendant on behalf of the <hi rend="written text">State</hi> and this <hi rend="written text">he</hi> shall not omit under the lawful penalty</p>
+            <p>WITNESS, <name type="person">
+                  <hi rend="written text">Daniel Rawlings</hi>
+               </name> CLERK of said court the <date when="1821-05">
+                  <hi rend="written text">1st</hi> Monday of <hi rend="written text">May</hi> 18<hi rend="written text">21</hi>
+               </date>
+               <hi rend="written text">
+                  <choice>
+                     <abbr>D</abbr>
+                     <expan>Daniel</expan>
+                  </choice> Rawlings Clerk</hi>
+               <pb n="2" facs="sl071b.small.jpg"/>
+               <unclear>Spa Hoste</unclear>
+               <lb/> The State <lb/>
+               <choice>
+                  <abbr>vs</abbr>
+                  <expan>versus</expan>
+               </choice>
+               <lb/> Laban Stuart <lb/>
+               <unclear>Lem for State</unclear>
+               <lb/>
+               <name type="person">
+                  <emph>Henry Haynes</emph>
+               </name>
+               <lb/> issued <date when="1821-05-07">7th May</date> to <lb/> attend &amp; give evidence <lb/> before the Grand Jury <lb/>
+               <emph>on the<date when="1821-05-08"> 8th May 1821</date>
+               </emph>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

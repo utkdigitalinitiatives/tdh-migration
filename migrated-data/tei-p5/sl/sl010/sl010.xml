@@ -1,0 +1,532 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Jul. 28, Hermitage [to] Fr. P. Blair Esq[ui]re / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl010</idno>
+            <idno>OCLC: 50008362</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Jul. 28, Hermitage [to] Fr. P. Blair Esq[ui]re / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1840-07-28">July 28, 1840</date>
+               <extent>12p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Andrew Jackson to Fr. P. Blair on July 28, 1840. In the letter, Jackson defends Blair and General Jessup against allegations made by General Scott. General Scott alleged that  Blair and General Jessup recalled him from military duty in Florida, when in fact it was Jackson. General Scott had been ordered to Florida to look for Indian warriors and to prevent a war with the Creeks. Instead of following orders to go directly to Florida, taking eight days worth of supplies on the soldiers' backs, Scott took three weeks waiting for wagons to take the supplies to Florida. Several of the soldiers were killed in an attack while waiting for the wagons, and Scott became ill. General Jessup was sent to fight the now explosive war with the Creeks and Scott went to where Jessup's soldiers were and attempted to take command of them. Because of this action, as well as not arming his troops for six weeks on the frontier, Jackson recalled General Scott from his command duties. Jackson also mentions political events in the letter, such as the pass of the Independent Treasury bill and the next Presidential election.</note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">26</note>
+               <note type="document" anchored="true">sl010</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Creek War, 1813-1814</term>
+               <term>United States -- Politics and government -- 1809-1817</term>
+               <term>Military supplies</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl010a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Hermitage</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1840-07-28">July 28th 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Sir,</salute>
+            </opener>
+            <p>I have <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> your letter of the 12th instant, and rejoice with the whole democracy of the union on the final passage of the Independent Treasury bill — It is a death blow to the Tides ⁁ <add place="supralinear">hard</add>
+               <choice>
+                  <orig>ciderites</orig>
+                  <reg>siderites</reg>
+               </choice>  — The republican members of Congress deserve well of their country — they fought the battle well, &amp; ⁁ <add place="supralinear">like heroes</add> conquered.</p>
+            <p>Our political <choice>
+                  <orig>horrison</orig>
+                  <reg>horizon</reg>
+               </choice> brightens and I have no fears but republicanism will succeed in November next &amp; <name type="person">Van Buren</name> will be elected ⁁ <add place="supralinear">by a large majority</add> — and The exposure of the frauds committee in the <name type="place">New Jersey</name> case and that of <name type="person">Ingersol &amp; Naylor</name> in <name type="place">
+                  <choice>
+                     <orig>Pensylvania</orig>
+                     <reg>Pennsylvania</reg>
+                  </choice>
+               </name>, will prevent the reiteration of them, next fall — these frauds &amp; corruptions has opened the eyes of the people &amp; all will be awake ⁁ <add place="supralinear">&amp; <choice>
+                     <orig>vigilent</orig>
+                     <reg>vigilant</reg>
+                  </choice>
+               </add> to prevent <del type="overstrike">
+                  <unclear/>
+               </del>
+               <add place="supralinear">a <choice>
+                     <orig>repition</orig>
+                     <reg>repetition</reg>
+                  </choice>
+               </add> of them at the polls— all honest men must unite in preserving the purity of elections— all must be <choice>
+                  <orig>vigilent</orig>
+                  <reg>vigilant</reg>
+               </choice> ⁁ <add place="supralinear">hereafter</add> to prevent frauds at the polls. I have duly <pb n="2" facs="sl010b.small.jpg"/> your <choice>
+                  <orig>referrence</orig>
+                  <reg>reference</reg>
+               </choice> to the attack upon you &amp; <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jessup</name>
+               <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> the instrument of <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> W. Scott</name> in the House— I have waited before answering your letter to see it, but the Globe containing it has not reached me, I therefore take up my pen to reply to your letter that part that relates to <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott</name>, I send that ⁁ <add place="supralinear">part so that</add> it can be <choice>
+                  <orig>seperated</orig>
+                  <reg>separated</reg>
+               </choice> from this and used as an extract of this letter — you will see to bring the case fairly out I have ⁁ <add place="supralinear">had</add> to take a review of <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott <name type="place">Florida</name> campaign which owing to his delay at the <choice>
+                  <orig>depo</orig>
+                  <reg>depot</reg>
+               </choice> of provision ⁁ <add place="supralinear">for weeks</add>
+               <unclear>scouting</unclear> for <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> to <name type="place">Baltimore</name>
+               <choice>
+                  <abbr>&amp;c&amp;c</abbr>
+                  <expan>et cetera et cetera</expan>
+               </choice>, contrary to my admonition to him the evening that he left <name type="place">
+                  <choice>
+                     <abbr>Washing</abbr>
+                     <expan>Washington</expan>
+                  </choice>
+               </name> to take command in the South — instead of finding out where the Indian women were, &amp; having two company of spies woodsmen &amp; <choice>
+                  <orig>lead</orig>
+                  <reg>led</reg>
+               </choice> by gallant officers ⁁ <add place="supralinear">&amp; taking his eight day rations on their backs</add> he planned a campaign, on a magnificent scale, in three <choice>
+                  <orig>colums</orig>
+                  <reg>columns</reg>
+               </choice> to march from three <choice>
+                  <orig>differrent</orig>
+                  <reg>different</reg>
+               </choice> points to meet in the <choice>
+                  <orig>centre</orig>
+                  <reg>center</reg>
+               </choice> of the wilderness — ? for what? to surround an owl, for he knew not where the body of the Indian women were — They all got lost &amp; never found each other until they met at <name type="place">Tampa bay</name> where the campaign ended in entire failure. <pb n="3" facs="sl010c.small.jpg"/> You inform me in your ⁁ <add place="supralinear">letter</add> of the 12th ⁁ <add place="supralinear">instant</add> that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott through his ⁁ <add place="supralinear">supple tool</add>, <del type="overstrike">friend</del>
+               <name type="person">Mr Biddle</name> in Congress; is treating <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup most basely — you say you are told that on yesterday he attacked Jessup most bitterly — that one of the charges heaped upon ⁁ <add place="supralinear">him</add> was, that I had recalled <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott in consequence of your <choice>
+                  <orig>interferrence</orig>
+                  <reg>interference</reg>
+               </choice>, and ask me for the facts of the case ⁁ <add place="supralinear">I answer</add> you are charged <choice>
+                  <orig>falsly</orig>
+                  <reg>falsely</reg>
+               </choice> — and if this case is fully brought out <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott will have reason to exclaim — <emph>Save me from my friends.</emph> In giving you a proper state  <choice>
+                  <sic>of of</sic>
+                  <corr>of</corr>
+               </choice> the facts alluded to, I must go back to <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scotts campaign in Florida to bring to your view how it happened that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup was ordered to proceed to the South and take the command of the <name type="place">Georgia</name> &amp; <name type="place">Alabama</name> Troops called for, to put down the Sudden rising and war with the <name type="person">Creeks</name> — and I ⁁ <add place="supralinear">must</add> refer to the files of the War department, if I  err in my recollection <pb n="4" facs="sl010d.small.jpg"/> these will correct me as I write from memory. From the mismanagement &amp; <choice>
+                  <orig>desasters</orig>
+                  <reg>disasters</reg>
+               </choice> that had <choice>
+                  <orig>ocurred</orig>
+                  <reg>occurred</reg>
+               </choice> in Florida the Executive was determined to put this <choice>
+                  <orig>punie</orig>
+                  <reg>puny</reg>
+               </choice> war ⁁ <add place="supralinear">down</add> in Florida — <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott with all the disposable regular force, and the ⁁ <add place="supralinear">requisitions</add> Georgia &amp; <name type="place">South Carolina</name> militia were ordered on this service — <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott <choice>
+                  <orig>cloathed</orig>
+                  <reg>clothed</reg>
+               </choice> with full powers to call for all necessary supplies for his army for prompt &amp; efficient movement — The regular force with supplies had been ordered to Florida to form a <choice>
+                  <orig>depo</orig>
+                  <reg>depot</reg>
+               </choice> at the most advanced &amp; <choice>
+                  <orig>eligable</orig>
+                  <reg>eligible</reg>
+               </choice> point on which to concentrate the militia ordered into service. The evening of the night that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott left <name type="place">Washington</name>, I had an interview with the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> ⁁ <add place="supralinear">in the presence of <name type="person">Major Donelson</name>
+               </add> at which I suggested to him the propriety of ordering the officer ⁁ <add place="supralinear">in command</add> in advance to procure at all <choice>
+                  <orig>hazzard</orig>
+                  <reg>hazard</reg>
+               </choice> &amp; <choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> a knowledge of where the Indian women were — to have two good spy companies <choice>
+                  <orig>organised</orig>
+                  <reg>organized</reg>
+               </choice> led by gallant men, good woodsmen &amp; ⁁ <add place="suprlinear">well</add> acquainted  with Indian cunning &amp; treachery — ⁁ <add place="supralinear">for the <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </add> to pass <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> South Carolina &amp; Georgia, hasten on the militia to the <choice>
+                  <orig>Depo</orig>
+                  <reg>Depot</reg>
+               </choice> of provisions have  them mustered into service and having procured the information where the Indian women were, to take eight days rations on their backs; and by <pb n="5" facs="sl010e.small.jpg"/>
+               <add place="top of page">sheet 2nd</add> by <del type="overstrike">a</del> forced march reach the deposit of the women &amp; children, where he would be sure to find all the warriors, and where by one blow he could put an end to the war. I admonished him against the attempt of entering the wields, &amp; swamps of Florida with <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> that if he did he never could find an Indian — But by taking eight days rations on each soldiers back, which with economy, &amp; killing a beef when the came across cattle, the men would not suffer much in thirteen days march, ordering the supplies to follow him — referring the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> to the attempt of <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Gains</name> &amp; <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Glasscock</name> to take baggage <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> with the Georgia militia on the <name type="person">Seminole</name> Campaign — had <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott adopted these suggestions he would have put an end to the war in less than three months, for at that very period <name type="person">powel</name> had all his women and children in the <name type="place">Withlecouckey</name> hammocks. Have for  the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+               <choice>
+                  <orig>profitted</orig>
+                  <reg>profited</reg>
+               </choice> by these admonitions of mine his communications on file in the war office will show — When he reached the <choice>
+                  <orig>depo</orig>
+                  <reg>depot</reg>
+               </choice> of provisions with <pb n="6" facs="sl010f.small.jpg"/> the militia, he waited there several weeks awaiting the arrival of <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> &amp; there planned his campaign of three grand <choice>
+                  <orig>colums</orig>
+                  <reg>columns</reg>
+               </choice> to meet in the center, to surround what — the Indians, no, for as far as any official document has come to my view <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott had no positive information where the Indian women &amp; children were — he knew where powel &amp; his warriors were as they had checked the march of <del type="overstrike">that</del>
+               <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> ⁁ <add place="supralinear">Gains</add> at <choice>
+                  <orig>Withlecoocky</orig>
+                  <reg>Withlecouckey</reg>
+               </choice>, &amp; made him fortify &amp; defend himself for some days until relieved by <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Clinch</name> &amp; 600 men — <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott at length took the field with his three columns, — they got lost, never met until they united at Tampa bay without finding an Indian except those who lay in ambush, — fired on <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scotts <choice>
+                  <orig>collumn</orig>
+                  <reg>column</reg>
+               </choice>, killing &amp; wounding some ten or twelve men — The summer <del type="overstrike">ad</del> having advanced the sickly season coming <del type="overstrike">easy</del>⁁ <add place="supralinear">on</add> the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> abandoned the campaign &amp; he returned to <name type="place">St. Augustine</name> sick, &amp; from there made his report to the Secretary of War — <emph>(See it)</emph>
+            </p>
+            <p>The Secretary of War was instructed by me, the campaign being over to permit the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> ⁁ <add place="supralinear">being sick</add> to return to <name type="place">New York</name>, to <pb n="7" facs="sl010g.small.jpg"/> to regain his health. About this time the creek War broke out — a dispute arose between the Georgia <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> and the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> commanding the Alabama militia who had a right to the command of the united forces of the two states — To put down this contention between the two <choice>
+                  <abbr>Genls</abbr>
+                  <expan>Generals</expan>
+               </choice> and <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott having reported himself sick and having leave to return to New York to repair his health, <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup was ordered to proceed to the South and assume the command of the Georgia &amp; Alabama troops &amp; crush the War in is bud. <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup promptly obeyed this order proceeded to the South to take the command, and on his way to <name type="place">Columbus Georgia</name>, <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott who had not left St. Augustine hearing of the hostility of the Creeks, passed to Georgia, met <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup, assumed the command &amp; order <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup to pass <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> the Indian country to where the Alabama troops were encamped &amp; assume the command of them — Jessup found the Alabamians ready for active operations &amp; of sufficient force <pb n="8" facs="sl010h.small.jpg"/> to quell the enemy — and <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Patterson</name> having obtained positive information where the hostile chief with his warriors were concealed in a swamp — well knowing the Indian character that if he was not surprised in his hiding place  &amp; captured or destroyed — <add place="supralinear">he would evade pursuit by separating into small parties</add>
+               <add place="left margin">and annoy the whole Georgia &amp; Alabama borders</add> insisted upon <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup forthwith to lead them to the attack of the hostile chief who was in striking distance of their encampment, and from whence daily, parties sallied forth upon the frontier &amp; was murdering, their wives &amp; children, burning and destroying. The <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> could not allay the order of the brave <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+               <choice>
+                  <orig>Paterson</orig>
+                  <reg>Patterson</reg>
+               </choice> &amp; his brave followers, under such circumstances as these — Jessup ordered the line of march for the hostile chiefs hiding place, got within six miles of his camp met an order from <del type="overstrike">Jessup</del>
+               <add place="supralinear">Scott</add> to halt &amp; await his further orders ⁁ <add place="supralinear">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott not being ready to take field</add> of course <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup obeyed, but <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+               <choice>
+                  <orig>Paterson</orig>
+                  <reg>Patterson</reg>
+               </choice> declared that he should not — ⁁ <add place="supralinear">that</add> by obeying the order of <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott the hostile chief with his warriors would make their <pb n="9" facs="sl010i.small.jpg"/> escape, prolong the war as in Florida — that he then by a prompt &amp; silent movement <del type="overstrike">he</del> could reach capture &amp; destroy him — therefore he would take upon himself the responsibility — <emph>did so</emph>, and that night — surprised the chief captured him &amp; the whole concentrated <del type="overstrike">enemy</del> ⁁ <add place="supralinear">warriors</add> and put an end to the war.</p>
+            <p>Refer to the documents on file — you will there find that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott had been with the militia on the frontier for about six weeks without arms in their hands instead of marching the men to the <choice>
+                  <orig>arsnel</orig>
+                  <reg>arsenal</reg>
+               </choice> &amp; arming them there ⁁ <add place="supralinear">They were</add> marching to the frontier <choice>
+                  <orig>exausting</orig>
+                  <reg>exhausting</reg>
+               </choice> their supplies &amp; keeping those who had arms to guard &amp; protect the unarmed Soldier, and because he <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott was not in a situation to operate &amp; finding Jessup with the Alabamians in motion to attack the hostile chief &amp; his warriors orders him to halt until he <add place="supralinear">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott</add> is ready to cooperate &amp; before that  ⁁ <add place="supralinear">time</add> the hostile chief would have removed himself &amp; that <choice>
+                  <orig>campain</orig>
+                  <reg>campaign</reg>
+               </choice> would have failed like the <choice>
+                  <abbr>Genls</abbr>
+                  <expan>Generals</expan>
+               </choice> in <pb n="10" facs="sl010j.small.jpg"/> Florida — Before you <choice>
+                  <orig>shew</orig>
+                  <reg>show</reg>
+               </choice> me the letter of <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup to you, it appeared that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott had communicated <del type="overstrike">&amp; so had, perhaps <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jessup,</del>
+               <add place="supralinear"> these facts to the Secretary of War</add> but the Secretary had not <choice>
+                  <orig>shewn</orig>
+                  <reg>shown</reg>
+               </choice> the letters to me — On your producing to me the letter of <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup, I forthwith sent it to the secretary of war, and requested him to report to me all communications he had received on that subject — The Secretary of war came to my office ⁁ <add place="supralinear">whilst you were there</add>  &amp; brought the letters and observed that the reason why he had not reported the letters to me, that he knew from <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scotts ⁁ <add place="supralinear">failure in Florida and</add> late <choice>
+                  <orig>ineficiency</orig>
+                  <reg>inefficiency</reg>
+               </choice> I would have ⁁ <add place="supralinear">forthwith</add> recalled him — your had no agency in this matter except <choice>
+                  <orig>shewing</orig>
+                  <reg>showing</reg>
+               </choice> me <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessups letter &amp; inquiring into the facts — I had heard with surprise that after <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scotts entire failure in Florida reporting himself sick at St. Augustine, having leave to repair to <choice>
+                  <abbr>N. York</abbr>
+                  <expan>New York</expan>
+               </choice> for the benefit of his health, and without <add place="supralinear">giving</add> information ⁁ <add place="supralinear">to the</add> Department, hearing that Jessup was ordered ⁁ <add place="supralinear">to that command</add> for the reason given, <del type="overstrike">to repair to the South</del> &amp; ⁁ <add place="supralinear">to</add> assume the command of the Troops ordered against the creeks, that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott should proceed from St. Augustine <pb n="11" facs="sl010k.small.jpg"/> to Georgia intercept Jessup &amp; assume the command, &amp; instead of marching the men to the <choice>
+                  <orig>arsenel</orig>
+                  <reg>arsenal</reg>
+               </choice> &amp; arming them that he had them concentrated at <name type="place">Columbia Georgia</name> without arms within 25 &amp; 30 miles of where the Indians were daily murdering and plundering our Citizens displayed such <choice>
+                  <orig>inefficency</orig>
+                  <reg>inefficiency</reg>
+               </choice> that I should have recalled him from the command but when I heard that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup <del type="overstrike">was</del> when in six miles of the enemy ⁁ <add place="supralinear">was</add> ordered <add place="supralinear">by <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott</add> to halt, &amp; not <del type="overstrike">to</del> advance until further orders &amp; until he was ⁁ <add place="supralinear">ready to move</add> having been several weeks at <name type="place">Columbus</name>, I determined forthwith to recall him as too <choice>
+                  <orig>inefficent</orig>
+                  <reg>inefficient</reg>
+               </choice> to wield an army against Indians— therefore the charge that you or <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jessup had any thing do with the recall of <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott is unjust &amp; groundless — it was the facts reported to me, that assured me that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott had not promptness &amp; energy enough to succeed in an Indian war.</p>
+            <p>
+               <name type="person">Andrew Jackson <choice>
+                     <abbr>Junr</abbr>
+                     <expan>Junior</expan>
+                  </choice>
+               </name> is quite sick &amp; has been for some time my little family wish me in kind regard to you &amp; yours — <pb n="12" facs="sl010l.small.jpg"/>
+            </p>
+            <closer>
+               <salute>I remain your friend</salute>
+               <signed>
+                  <name type="person">
+                     <emph>Andrew Jackson</emph>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Fr. P. Blair <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> your letter was put on file in the war office, &amp; was very improperly brought into view by <del type="overstrike">the</del> ⁁ <add place="supralinear">
+                     <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice> Scotts</add> court ⁁ <add place="supralinear">of inquiry</add> for which I gave them a  very modest reprimand — as that court had nothing to do with <del type="overstrike">you <unclear/>
+                  </del>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jessup — he nor his military proceedings was not before them in any way. Had Jessup &amp; Scott been before that court, how could it excuse <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott for his delay of six weeks on the frontier with men without arms, — and could any military court excused him or justified his order to Jessup to halt when he was in sufficient force to destroy the enemy &amp; within six miles — The order ought to have broke Scott, or at least deeply censured him, when it appears by his letter to Jessup that he <del type="overstrike">will</del> ⁁ <add place="supralinear">would</add> not be ready to  ⁁ <add place="supralinear">move</add> under three days — in that time there would have been ⁁ <add place="supralinear">this <choice>
+                        <orig>Crek</orig>
+                        <reg>Creek</reg>
+                     </choice>
+                  </add> chief &amp; warriors — perhaps in Florida — at any rate where <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott could not have found him with his train of baggage <choice>
+                     <orig>waggons</orig>
+                     <reg>wagons</reg>
+                  </choice> — <choice>
+                     <abbr>A. J.</abbr>
+                     <expan>Andrew Jackson</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

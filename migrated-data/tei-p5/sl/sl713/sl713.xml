@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl713">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1803 Aug. 27, Knoxville [Tennessee, to] William Dickson / Archibald Roane : a machine readable transcription of an image</title>
+            <author> Roane, Archibald</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl713</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1803 Aug. 27, Knoxville [Tennessee, to] William Dickson / Archibald Roane</title>
+               <author> Roane, Archibald</author>
+               <date when="1803-08-27"> 
+			 August 27, 1803</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor Archibald Roane to Doctor William Dickson, dated August 27, 1803. Roane is writing regarding a special session of Congress to discuss the recent acquisition of the Louisiana. Roane believes that Dickson has been elected to the congress, and should not wait for notification before going.</note>
+               <note type="collection" anchored="true">Governor Archibald   Roane Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl713</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Roane, Archibald, 1759-1819</term>
+               <term>Louisiana Purchase</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96010062"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Roane, Archibald, 1759-1819</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl713a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>27th <choice>
+                           <abbr>Augt</abbr>
+                           <expan>August</expan>
+                        </choice> 1803</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>I have received official information that the President by Proclamation has required the members of congress to convene on the <date>7th of October</date> next. The late "Conventions with the French Republic involving a Cession of <name>Louisiana</name>" which is to be submitted to congress is a Subject very important to the Interest of the <name>United States</name>. and to the Western Country in particular ___ <name>Tennessee</name> ought to be fully represented  at the Commencement of the Session.</p>
+            <p>It is certain that you are again elected a Representative I would therefore request you not to wait for the official notification of your Election, as it might probably not reach you in time after the <del type="overstrike">votes are counted out by the</del>
+               <add>returns from the</add> several counties <del type="overstrike">are exam</del>
+               <add>
+                  <del type="overstrike">shall</del>
+               </add> are examined by the Legislature</p>
+            <closer>
+               <salute>I am <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Archibald Roane</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Dr</abbr>
+                        <expan>Doctor</expan>
+                     </choice>
+                     <name>William Dickson</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl713b.small.jpg"/>
+               <add>Dr <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Dickson <lb/> 27th <choice>
+                     <abbr>Augt</abbr>
+                     <expan>August</expan>
+                  </choice> 1803 <lb/> (Copy)</add>
+               <add>Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

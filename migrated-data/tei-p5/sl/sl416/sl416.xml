@@ -1,0 +1,148 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl416">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Jan. 5, Peyton's Creek, Smith County [Tennessee to unknown recipient] / [Adam Fergusson]   : a machine readable transcription of an image</title>
+            <author>Fergusson, Adam</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl416</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1835 Jan. 5, Peyton's Creek, Smith County [Tennessee to unknown recipient] / [Adam Fergusson]</title>
+               <author>Fergusson, Adam</author>
+               <date when="1835-01-05">January 5, 1835</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated January 5, 1835 to an unknown person. It is probably from Adam Fergusson who is head of Tennessee's pension office. Fergusson asks the recipient some questions about pension law, especially pertaining to widows and heirs of deceased soldiers. He also enquires about a recently passed Congressional act.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl416</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Pensions</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fergusson, Adam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl416a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Peytons Creek</name>
+                     <name>Smith</name>
+                  </addrLine>
+                  <addrLine>County <date>5th January 1835</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <lb/> Sir</salute>
+            </opener>
+            <p>The Presidents message has been duly <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> and read with an unusual degree of Interest by many of your friends</p>
+            <p> I am instructed to enquire of you in behalf of Several individuals who are not Sufficiently <choice>
+                  <orig>acquauted</orig>
+                  <reg>acquainted</reg>
+               </choice> with the Pension laws and as they are among the number of Your constituents they wish me to address you upon Subject </p>
+            <p>And 1st I is there any law of the <name>United States</name> making compensation in money <add>instead of land</add> to the widow or heirs of such persons as by law were entitled to land bounties but have never recieved the land nor can it be <choice>
+                  <orig>accertained</orig>
+                  <reg>ascertained</reg>
+               </choice> where it lies Say that it is lost</p>
+            <p>2d are the heirs of revolutionary Soldiers of the regular army entitled to the bounty of land which <del type="overstrike">should</del> the Parent was entitled to but <del type="overstrike">from some cause</del> never recieved it while living on do they recieve a sum of money by way of commutation</p>
+            <p>There is a case of an <choice>
+                  <orig>invaled</orig>
+                  <reg>invalid</reg>
+               </choice> Soldier or rather a volunteer who has been rendered So by disease contracted while in actual Service at <name>Pensacola</name>
+               <gap/>
+               <pb n="2" facs="sl416b.small.jpg"/> he is what we <choice>
+                  <orig>generall</orig>
+                  <reg>generally</reg>
+               </choice> call a <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> bad cripple have lost the entire use of <del type="overstrike">knees</del> one of his legs so that he is unable to walk but with difficulty. As you <del type="overstrike">are</del> no doubt have frequent <choice>
+                  <orig>oppurtunities</orig>
+                  <reg>opportunities</reg>
+               </choice> of Seeing the commissioner of Pensions, I would ask whether such a case would come within the law for the relief of Invalid Pensioner The certificate of the attending <choice>
+                  <orig>Phissisians</orig>
+                  <reg>Physicians</reg>
+               </choice> could be easily procured Stating their unqualified <choice>
+                  <orig>oppoinion</orig>
+                  <reg>opinion</reg>
+               </choice> that it was from the hardships of the tour of Service he has been thus disable <add>for life</add>
+               <del type="overstrike">from procuring a <choice>
+                     <orig>livelyhood</orig>
+                     <reg>livelihood</reg>
+                  </choice> in the usual way</del>
+            </p>
+            <p>any information respecting the above enquiries will be thankfully recieved or a statement of such cases as entitles an applicant to a pension under any of the existing laws <choice>
+                  <orig>authorising</orig>
+                  <reg>authorizing</reg>
+               </choice> Pensions would be <choice>
+                  <orig>eaqually</orig>
+                  <reg>equally</reg>
+               </choice> Satisfactory</p>
+            <p>I am told there is an act of Congress of the last Session giving Pensions to all <unclear>Soldiers their</unclear> heirs and <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> by way of commution for all claims they have either in land or money but as I never <gap/>
+               <unclear>Saw</unclear> it I am <choice>
+                  <orig>ignorent</orig>
+                  <reg>ignorant</reg>
+               </choice>
+               <gap/>
+               <unclear>of</unclear> its provisions</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl346">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1834 Jan. 17, Nashville [to] Rev[erend] Finis Ewing,  Lexington, MO / T. C. Anderson : a machine readable transcription of an image</title>
+            <author>Anderson, T. C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl346</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1834 Jan. 17, Nashville [to] Rev[erend] Finis Ewing,  Lexington, MO / T. C. Anderson</title>
+               <author>Anderson, T. C.</author>
+               <date when="1834-01-17">January 17, 1834</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter, dated January 17, 1834, to Reverend Finis Ewing from T.C. Anderson, who worked in the office of  the Revivalist, a publication of the Cumberland Presbyterian Church.  Anderson's letter is in reply to the reception of Ewing's most recent article for publication and also Ewing's expression of disapproval of a recently-published article by a man named Amicus.  Anderson explains that Amicus had deceived him into thinking the article was approved by James Smith, Ewing's nephew and the Revivalist's editor.  </note>
+               <note type="collection" anchored="true">Finis Ewing Papers</note>
+               <note type="box" anchored="true">I-A-4</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl346</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Religious study and teaching</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Anderson, T. C.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl346a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Revivalist Office</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>
+                        <choice>
+                           <abbr>Jan</abbr>
+                           <expan>January</expan>
+                        </choice> 17 <add>1834</add>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>Father Ewing,</salute>
+            </opener>
+            <p>
+               <add>p.s. Should you again notice <unclear>Amicus</unclear>, say nothing of the information herein given, still <unclear>sprat</unclear> of him as the unknown</add> Your communication has just been handed to the printer.  As a whole I am <choice>
+                  <orig>hugly</orig>
+                  <reg>hugely</reg>
+               </choice> pleased with it.  <unclear>Amicus</unclear> was as unacceptable in this country as in yours.  You may ask why was it published?  I will answer</p>
+            <p>The author of that thing is a man of high political standing- has represented his country in different branches of the Government -- now fills a highly responsible station <del type="overstrike">is a</del> in the <choice>
+                  <orig>Judicary</orig>
+                  <reg>Judiciary</reg>
+               </choice> department- is an ordained Minister in the church - wears gray hairs.  A few days after brother <name>Smith</name> left for <name>
+                  <choice>
+                     <abbr>pa</abbr>
+                     <expan>Pennsylvania</expan>
+                  </choice>
+               </name> , <unclear>Amicus</unclear> came into <pb n="2" facs="sl346b.small.jpg"/> the Office, read me his communication and intimated to me that he and Smith had had a conversation on the subject, and that it was with the knowledge and approbation of brother Smith that he wrote upon that subject.  I disliked the production, and had I exercised my own judgement I should not have published; but as I was acting as agent for brother Smith and as I supposed he had approved the authors intention to write, being thus delicately situated, I determined to let it go for <choice>
+                  <orig>waht</orig>
+                  <reg>what</reg>
+               </choice> it was worth without <choice>
+                  <orig>not</orig>
+                  <reg>note</reg>
+               </choice> or comment.  Had I approved of the thing I would have expunged the <choice>
+                  <orig>acceptionable</orig>
+                  <reg>exceptionable</reg>
+               </choice> parts, but I determined not to lay hands upon it.</p>
+            <p>Brother Smith has not yet returned but in a letter he recently inquired of me who <unclear>Amicus</unclear> was, and expressed his disapprobation of the piece.</p>
+            <p>So much for <unclear>Amicus</unclear>.</p>
+            <p>I am well pleased with your friendly <choice>
+                  <orig>advise</orig>
+                  <reg>advice</reg>
+               </choice>, and hope it will be profitable.  <pb n="3" facs="sl346c.small.jpg"/>  But did you know the multiplicity of business devolving upon me in brother Smiths absence.  you would be prepared to <choice>
+                  <orig>appologize</orig>
+                  <reg>apologize</reg>
+               </choice> for an occasional typographical error, However I know the Revivalist to be a clear of errors as an paper in West.</p>
+            <p>Your remark in the communication I have taken the liberty to erase for the following reasons: First, it could not profit any person but the Editor _  and he will <choice>
+                  <orig>receve</orig>
+                  <reg>receive</reg>
+               </choice> all the <unclear>benefits</unclear>
+               <gap/> without publishing that could be realized by its <choice>
+                  <orig>admition</orig>
+                  <reg>admission</reg>
+               </choice>. Second, An Old Observer so stamps himself upon his communication that all who know the <del type="overstrike">and</del> man recognize him.  And I was unwilling that censure should go forth from so high a sources without the privilege of making an offset by way of exploration, and  this would have been throwing more stuff into the Revivalist when I am sorry to say too much is already <choice>
+                  <orig>fond</orig>
+                  <reg>found</reg>
+               </choice>, <pb n="4" facs="sl346d.small.jpg"/> I hope the course <choice>
+                  <orig>persued</orig>
+                  <reg>pursued</reg>
+               </choice> with this <choice>
+                  <orig>expanation</orig>
+                  <reg>explanation</reg>
+               </choice> will meet your approbation.  The <unclear>Garrons</unclear> thought will not be lost.  It is still floating upon the Ocean of mind and will yet find a resting place. <add>
+                  <address>
+                     <addrLine>Rev <name>Finis Ewing</name>
+                     </addrLine>
+                     <addrLine>
+                        <name>Lexington</name>
+                     </addrLine>
+                     <addrLine>
+                        <name>
+                           <choice>
+                              <abbr>Mo</abbr>
+                              <expan>Missouri</expan>
+                           </choice>
+                        </name>,</addrLine>
+                  </address>
+                  <add>T C Anderson <lb/> Jan 17- 1834</add>
+               </add>
+            </p>
+            <p>Brother Smith will be at home in a few days- Give us another sermon soon- Your communications are always  a treat- </p>
+            <closer>
+               <salute>With feelings of filial affection I subscribe myself a son in the Ministry of Christ</salute>
+               <signed>
+                  <name> T. C. Anderson</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

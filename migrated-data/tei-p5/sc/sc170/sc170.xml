@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc170">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 May 1, Nashville, [to] Andrew Jackson / William B. Lewis : a machine readable transcription of an image</title>
+            <author> Lewis, William B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc170</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 May 1, Nashville, [to] Andrew Jackson / William B. Lewis</title>
+               <author>Lewis, William B.</author>
+               <date when="1833-05-01">May 1, 1833</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter from William B. Lewis to President Andrew Jackson. Lewis writes on various topics, including cholera, the troubles with the United States Bank, and politics.</note>
+               <note type="collection" anchored="true">William B. Lewis Letter</note>
+               <note type="box" anchored="true">MS-857</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc170</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>United States -- Politics and government</term>
+               <term>Cholera</term>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+               <term>Alabama</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr95015169"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lewis, William Berkeley, 1784-1866</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc170a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville</addrLine>
+               </address>
+               <date>1 May 1833</date>
+               <salute>
+                  <choice>
+                     <abbr>D. Genl.</abbr>
+                     <expan>Dear General</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>Yours of the 14th was <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice>. some two or three days ago, and I am happy to learn that your health is improving_ and particularly so that Mary was in good health. I left her with a cold and cough and <choice>
+                  <abbr>altho</abbr>
+                  <expan>although</expan>
+               </choice>' she appeared to be getting better, I felt uneasy, as I always do when she is afflicted with a cold. As long as she expected <name>Mr. Pagat</name> would be with me she wrote me every mail, but I have not heard from her since his departure but <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice>' you.</p>
+            <p>I saw <name>Mr Nichal</name> the next morning after I recd. your letter, and read to him that part of it which had reference to the trunks of books and pamphlets which you say, were sent to him for <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Wilson</name>. He told me that he was sure they had never been sent to him, but promised he would see Col. Wilson and enquire of him about them and as soon as he could get hold of them, would send them up to the <name>Hermitage</name>. I will also enquire of Wilson about them, as soon as I can see him.</p>
+            <p>
+               <name>Mr Crutcher</name> and myself are at work on our accounts with the Estate, but have not yet got them quite ready of the clerk <pb n="2" facs="sc170b.small.jpg"/> and master. As soon as they are I shall set out for <name>Pulaski</name> to see my sister and children. I shall not remain there I think, more than 3 or 4 days, and if my law-business, here will permit me, I shall, in a week after my return, set out for <name>Washington</name>.</p>
+            <p>I have not been up to the <name>Hermitage</name> since my first trip, but understand your family there all all well, except Hannah. I have not yet had an opportunity of seeing <name>Dr. Haggand</name> talking with him about her_ He is still with <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>. Coffee</name>, or at least, I have not yet heard of his return. I saw <name>Mr. McLemore</name> two days ago, and enquired if he had heard from the Genl. since <choice>
+                  <abbr>Dr. Hagg</abbr>
+                  <expan>Dr. Haggand</expan>
+               </choice> had left us_ he told me he had not. Your friends here, generally are well. <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Love</name> called to see me this morning and informed me that Mrs. Love as well as the balance of his family were <del type="overstrike">well</del> in pretty good health. The cholera, it is said, is still lingering in <name>Nashville</name>. I understand yesterday evening when in town, that <name>Duncan Robertson</name>, and <name>Isaac Sitler</name> had it, and that Duncan <unclear>must</unclear> die. I have not heard from him this morning, but I fear he is no more._ I wish you would tell <name>Mr. Earle</name> that I have seen and enquired of <name>William Robertson</name>, Duncans son, about his prints, and learn from him that <pb n="3" facs="sc170c.small.jpg"/> the whole number (200) ordered to Nashville had been recd. after being 6 or 7 months on the way. That he had sold only two and the balance were still on hand. I advised him to write to Mr. Earle, as he never had done so, and give him all the information he had with <unclear>response</unclear> to them. He thinks the price <del type="overstrike">is</del> too high. I told him I thought Mr. Earle expected to have some of them sent to <name>New Orleans </name>and some to the counties south of Nashville where no doubt <del type="overstrike">some of them</del>
+               <add>they</add> might be disposed of. Mr. Earle promised to write to me after I got to Nashville, and inform me of his wishes in relation to those prints, but he has not yet done so. I doubt myself, whether Mr. Robertson would dispose of ten in ten years to come. If a few were sent to the neighbouring towns in this state, and a few to <name>Florence</name> and <name>Tuscumbia</name>, in <name>Alabama</name> I think it probable they might be sold!</p>
+            <p>Times in Nashville are exceedingly dull and hard. All the money that can be raised finds its way into the <name>United States</name> Bank to pay debts owing to that Institution. I am owing <name>Hutchings</name> 1000 or 1200 dollars, and I have been endeavoring to sell some property <pb n="4" facs="sc170d.small.jpg"/> to pay him, but am afraid I shall not be able to do so. Bridge stock which yields a dividend of 10 to 12 per cent every year cannot, I believe, be sold for any thing like its value. I am <choice>
+                  <abbr>determd</abbr>
+                  <expan>determined</expan>
+               </choice> to get out of debt and if I can sell such property as I can spare I will do so_ or let those to whom I am indebted have it at even less than its value.</p>
+            <p>I very much fear , our friend McLemore will scarcely be able to weather the storm much longer. He is, I understand, exceedingly oppressed at this time. Every body, it is said, to whom he is indebted, is making a push at him as if <del type="overstrike">they are </del> afraid he is about to <del type="overstrike">
+                  <unclear>brake</unclear>
+               </del> fail. He is here, but will leave again in a few days for the Western District.</p>
+            <p>What has become of <name>Eaton</name>? He ought to be here. The <name>Foster</name> and <name>Grundy</name> parties are waxing very hot. It is thought there will be some fighting in the families, before the August elections.</p>
+            <closer>
+               <salute>Please present my respects to your family and believe me to be, D. Genl. <lb/> Sincerely yours <lb/>
+               </salute>
+               <signed>
+                  <name>W.B. Lewis</name>
+               </signed>
+               <add>To,<name>Genl. Jackson</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

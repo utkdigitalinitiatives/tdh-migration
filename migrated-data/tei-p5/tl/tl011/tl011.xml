@@ -1,0 +1,264 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1818 Nov. 19, Cherokee Agency, [to] Daniel Graham /
+			 Jos[eph] McMinn: a machine-readable transcription of an image</title>
+            <author>McMinn, Joseph</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl011</idno>
+            <idno>OCLC: 47800302</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1818 Nov. 19, Cherokee Agency, [to] Daniel Graham /
+				Jos[eph] McMinn: a machine-readable transcription of an image</title>
+               <author>McMinn, Joseph</author>
+               <date when="1818-11-19">November 19, 1818 </date>
+               <extent>4p</extent>
+               <note type="summary">This document was written by Governor Joseph
+				McMinn (1815-1821) to Secretary of State Daniel Graham on November 19, 1818.
+				Governor McMinn writes that he will soon have taken the land east of the
+				Mississippi River from the Cherokee and that if they want compensation, they
+				must relinquish their possessions and claims to the United States within a
+				certain number of years. He adds that the Cherokee look up to him for guidance,
+				and he has been witness to vast amounts of monies and supplies trading hands
+				for the trip west.</note>
+               <note type="Collection">Governor McMinn Letters</note>
+               <note type="Box">10</note>
+               <note type="Folder">59</note>
+               <note type="Document">tl011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Relocation</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Indian land transfers</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl011a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>cherokee</orig>
+                        <reg>Cherokee</reg>
+                     </choice> agency 
+				  <date when="1818-11-19">19 Nov 1818 </date>
+                  </addrLine>
+               </address>
+               <salute>Dear Secretary</salute>
+            </opener>
+            <p>I have arisen this morning at 4 <choice>
+                  <orig>oclock</orig>
+                  <reg>o'clock</reg>
+               </choice> to
+			 avail <choice>
+                  <orig>my self</orig>
+                  <reg>myself</reg>
+               </choice> of the pleasure of advising you that,
+			 we are still engaged here in the business of exchanging Countries, with
+			 brightened <add place="supralinear">prospects</add> every day, and
+			 <choice>
+                  <orig>its</orig>
+                  <reg>it's</reg>
+               </choice> now confidently believed by my friends that I will
+			 effect a total extinguishment of Cherokee <choice>
+                  <orig>tittle</orig>
+                  <reg>title</reg>
+               </choice> to
+			 all <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> land, east of the 
+			 <name type="place">Mississippi</name> For <choice>
+                  <orig>my
+			 self</orig>
+                  <reg>myself</reg>
+               </choice> when I reflect upon the importance of such an event, and that I
+			 have to continue Single handed with an opposition as formidable as the one in
+			 question, I can Scarcely be as Sanguine as my friends, but if I Should succeed
+			 which God grant I may, I Shall <del type="overstrike">always</del> live and Die
+		  under the pleasing belief that his hand led to the victory</p>
+            <p>I occupied their attention for nearly three hours on yesterday in
+			 reading and explaining, and <choice>
+                  <orig>to day</orig>
+                  <reg>today</reg>
+               </choice> I have promised to
+			 Send them a long written Talk, in which I Shall come <pb n="2" facs="tl011b.small.jpg"/>
+               <add place="supralinear">to a point</add> where I will halt, they will learn
+			 this day, that, if the Boon is to be theirs, they must Surrender their
+			 <del type="overstrike">Possessission</del> Possession  claim to the 
+			 <name type="place">United States</name> within
+			 <gap agent="damage"/> years, this course will lead to a
+			 conclusion in a few days, and <choice>
+                  <orig>inable</orig>
+                  <reg>enable</reg>
+               </choice> me to return to
+			 the more retired walks of life, which I assure you will be no less pleasing to
+			 my mind, than beneficial to my health, which I have not yet recovered, nor is
+			 it possible I can while I remain here, amidst the hurry, bustle  noise of
+			 a disorderly multitude, who can only be kept in bound, by
+			 <del type="overstrike">the</del> military force, and <del type="overstrike">at</del>
+               <add place="supralinear">add</add> to that the
+			 immense weight of business in purchasing, Boats, Stores and<choice>
+                  <orig>equiping</orig>
+                  <reg>equipping</reg>
+               </choice> vast numbers to Sail for the west  not
+			 less than $30,000 will <add place="supralinear">have</add> Passed
+			 <choice>
+                  <orig>thro</orig>
+                  <reg>through</reg>
+               </choice> my hand Since I came here, and before I can
+			 depart for all which duplicate receipts <pb n="3" facs="tl011c.small.jpg"/> must be taken, the greater
+			 part of those are in my own <choice>
+                  <orig>hand writing</orig>
+                  <reg>handwriting</reg>
+               </choice>, In
+			 fact there is next to nothing done here unless I am present, night and day, hot
+			  Cold weather forms no excuse, nor <choice>
+                  <orig>evan</orig>
+                  <reg>even</reg>
+               </choice> sickness
+			  so <choice>
+                  <orig>perfictly</orig>
+                  <reg>perfectly</reg>
+               </choice> are they Satisfied with my
+			 possessing all requisite power, that they are opposed to its being
+			 <choice>
+                  <orig>exerised</orig>
+                  <reg>exercised</reg>
+               </choice> by any other person
+                     </p>
+            <p>This letter will be handed you by a 
+			 <name type="person">mr. Gamble Mescht</name>of 
+			 <name type="place">Richmond 
+				<choice>
+                     <abbr>V.A.</abbr>
+                     <expan>Virginia</expan>
+                  </choice>
+               </name>who I presume you will
+			 conceive to be very worthy of your attention  He has only
+			 <del type="overstrike">been</del>
+               <add place="supralinear">tarried</add> here 2
+		  days and I have been so much engaged that I fear he will think I have neglected
+		  him  Remember Me as usual and believe me to be your friend</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos.</abbr>
+                        <expan>Joseph</expan>
+                     </choice>
+				  McMinn</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Honb</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <lb/>
+                     <name type="person">Daniel Graham</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="tl011d.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Honorable</addrLine>
+                  <addrLine>
+                     <name type="person">Daniel Graham</name>
+                  </addrLine>
+                  <addrLine>Secretary of State</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Murfreesborough</orig>
+                           <reg>Murfreesboro</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left">politeness<lb/>
+                  <name type="person">Colonel Gamble</name>
+               </add>
+               <add place="bottom, center">
+                  <name type="person">
+                     <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice> McMinn</name>
+                  <lb/>
+                  <date when="1818-11-19">19 
+			 <choice>
+                        <abbr>N</abbr>
+                        <expan>November</expan>
+                     </choice> 1818</date>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

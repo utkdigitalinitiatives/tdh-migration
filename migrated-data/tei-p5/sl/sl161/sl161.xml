@@ -1,0 +1,187 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl161">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1834 Mar. 6, Vernon [to] James A. Woods, Nashville, Tennessee / J. H. Thomas : a machine readable transcription of an image</title>
+            <author>Thomas, J. H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl161</idno>
+            <idno>OCLC: 51106353</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1834 Mar. 6, Vernon [to] James A. Woods, Nashville, Tennessee / J. H. Thomas</title>
+               <author>Thomas, J. H.  </author>
+               <date when="1834-03-06">March 6, 1834</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated March 6, 1834, from J.H. Thomas to James A. Woods in Nashville.  Thomas discusses a girl who Woods is apparently expected to marry and other personal affairs. Thomas also mentions a recent bill passed in the Mississippi legislature reforming the state's prison system.</note>
+               <note type="collection" anchored="true">Woods Family</note>
+               <note type="box" anchored="true">Layton-West</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sl161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Thomas, J. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl161a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Vernon</name>
+                     <date when="1834-03-06">March 6th 1834</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Woods</salute>
+            </opener>
+            <p>I take this early opportunity to acknowledge receipt of your kind <choice>
+                  <orig>favr</orig>
+                  <reg>favor</reg>
+               </choice> of <gap agent="damage"/>
+               <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice> I am gratified to learn that you have abandoned your <name type="place">Vicksburg</name> affair, and have concluded to fix your views nearer my <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice>, I am certain that you can not find a young lady of her age who is more agreeable, and who promises better for becoming a splendid and accomplished Lady.  I have excited her curiosity very much to see you, you must apply yourself  closely to your books, <choice>
+                  <orig>endeavour</orig>
+                  <reg>endeavor</reg>
+               </choice> to improve your present opportunities.  you are both too young to think of consummating matters for some time, in the mean time no efforts will be spared on the part of her Father to give every accomplishment she can get in the best schools of the <name type="place">United States</name>. It is probable you will have an opportunity to see her this Summer, as the Dr. has at present a  private instructor he will probably travel the <choice>
+                  <orig>ensueing</orig>
+                  <reg>ensuing</reg>
+               </choice> Summer and take his teacher with him, I will <choice>
+                  <orig>tel</orig>
+                  <reg>tell</reg>
+               </choice> you know however before they leave, that you <unclear>may</unclear> be prepared to expect them. Since receiving your letter I have been told that a number of the Nashville ladies were in Vicksburg on the 20th <choice>
+                  <abbr>utl</abbr>
+                  <expan>ultimo</expan>
+               </choice>, the   news came too late for me  <pb n="2" facs="sl161b.small.jpg"/>
+               <choice>
+                  <abbr>tho'</abbr>
+                  <expan>though</expan>
+               </choice>, I had an idea of going to <name type="place">
+                  <choice>
+                     <abbr>NO</abbr>
+                     <expan>New Orleans</expan>
+                  </choice>
+               </name>  to see them, but feared that my trip would be unavailing, as I was told they would only remain a few days in the City.  I now promise myself <choice>
+                  <abbr>tho'</abbr>
+                  <expan>though</expan>
+               </choice> the pleasure of seeing them all the ensuing Summer I have the names of <name type="person">Miss Crabb</name>
+               <name type="person">Dunn</name>
+               <name type="person">Norville</name>
+               <name type="person">Woods</name> and some others  I was much pleased to hear that the ladies received the attention at Vicksburg of all the gallants about town there was a Ball on the <unclear>Edlen Kir Kruin</unclear>, and <choice>
+                  <abbr>altho'</abbr>
+                  <expan>although</expan>
+               </choice> there was one on the same night in the City, yet the  <unclear>Edlen Kir Kruin</unclear>, was crowded, I have passed my time since you were here in a quiet business like way, but I confess there is rather too much quiet in <name type="place">Madison <choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> for me to stay at home constantly. I am fond of society and you too have but little, and there scattered over a vast country, some five, six and eight miles off, you see your Friends here over a week and probably not oftener than once a month But all this is calculated to make men, industrious and active, to relieve themselves of the <unclear>enure</unclear> which must come over all men so situated, and idle at the same time, Our Legislature has adjourned, at this Session some very important acts were passed, among others the abolishment of Imprisonment for Debt, a Bill to suppress tippling shops and <choice>
+                  <orig>Gameing</orig>
+                  <reg>Gaming</reg>
+               </choice> — houses, a Bill for the Protection of married-women, besides <unclear>divies</unclear> others.  Our Laws too have been Revised and corrected, and we now have some prospect <unclear>hereafter</unclear> of knowing what are the Laws of <name type="place">Mississippi</name>
+               <pb n="3" facs="sl161c.small.jpg"/> which hitherto has always been a subject of great doubt by a last Act of the Legislature Crime in Mississippi will be punished in some shape it is to be hoped the act I allude to is an act changing the punishment of several Capital offences to <choice>
+                  <orig>Improsement</orig>
+                  <reg>Imprisonment</reg>
+               </choice> in the <choice>
+                  <orig>Penetentiary</orig>
+                  <reg>Penitentiary</reg>
+               </choice> Our <choice>
+                  <orig>Penetentiary</orig>
+                  <reg>Penitentiary</reg>
+               </choice> is now going on to completion rapidly and will soon be ready to <choice>
+                  <orig>recieve</orig>
+                  <reg>receive</reg>
+               </choice> Convicts, Our State house too a most <choice>
+                  <orig>magnificint</orig>
+                  <reg>magnificent</reg>
+               </choice> building is nearly completed, which when com<gap agent="damage"/> will cost over half a <choice>
+                  <orig>milion</orig>
+                  <reg>million</reg>
+               </choice>, I think I am<gap agent="damage"/> I could safely advise you when you settle yourself to come to Mississippi we raise fine crops here, and here there is no avocation in life more certain and secure of profit than planting, it is true we sometimes fail to make a full crop, but the increased price, marked up for the deficit, My Brother and his wife both <gap agent="damage"/>ire me to remember them to you they are now preparing to leave for your City, it is possible I shall be up with them, I hope you will answer me soon and give all the news, tell me who are married, and who is courting and all about the Girls With this I take leave of you for the present, reluctantly too. I wish I could be with you to tell you a great deal more and possibly you might be more interested as I could then follow the current of your thoughts rather than my own</p>
+            <closer>
+               <salute>your Friend truly</salute>
+               <signed>
+                  <name type="person">J.H. Thomas</name>
+               </signed>
+               <add place="bottom left">I desire to be affectionately remembered to the girls —</add>
+               <pb n="4" facs="sl161d.small.jpg"/>
+               <add place="top right" rend="different hand, ink">25</add>
+               <add place="top left">
+                  <figure>
+                     <figDesc>postmark for March 8</figDesc>
+                  </figure>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">James A Woods <choice>
+                           <abbr>Esqr Jr</abbr>
+                           <expan>Esquire Junior</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address, to left">mail }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1814 Apr. 7 Nashville, [to] Hon[ora]ble John Armstrong / Willie Blount : a machine readable transcription of an image</title>
+            <author>Blount, Willie</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl016</idno>
+            <idno>OCLC: 50013830</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1814 Apr. 7 Nashville, [to] Hon[ora]ble John Armstrong / Willie Blount</title>
+               <author>Blount, Willie</author>
+               <date when="1814-04-07">April 7, 1814</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written to  John Armstrong, Secretary of War, from Willie Blount on April 7, 1814. In the letter, Blount commissions Captain James Cowan's company of soldiers to act as the militia cavalry on the Franklin County frontier. The cavalry have been asked to protect the settlers on the frontier from  Indian attacks.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Willie Blount, b1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl016</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Miltary assistance</term>
+               <term>Indians of North America -- Claims against</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98009970"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, Willie, 1768-1835</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl016a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1814-04-07">
+                        <choice>
+                           <abbr>Apl</abbr>
+                           <expan>April</expan>
+                        </choice> 7th 1814</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I have the honor in <choice>
+                  <orig>complyance</orig>
+                  <reg>compliance</reg>
+               </choice> with your request to report to you by the inclosed copies of Deposition <choice>
+                  <abbr>&amp;c &amp;c</abbr>
+                  <expan>et cetera, et cetera</expan>
+               </choice>, The circumstances relative to the service and property of ordering, at the time it may done, <name type="person">Captain James Cowans</name>
+               <add place="supralinear" rend="different hand, ink">
+                  <name type="person">Cowan</name>
+               </add>Company into service to act as rangers, or a Militia Cavalry, on the frontier of <name type="place">Franklin County</name> in this state, for the protection of the Inhabitants of that County, which from its exposed situation to Indian depredation, and from the actual murders which had been just before committed there, by Indians, was <choice>
+                  <orig>indespensably</orig>
+                  <reg>indispensable</reg>
+               </choice> necessary to be done, to keep that frontier settlement from being entirely abandoned by the settlers — That County including much of <name type="place">Cumberland Mountain</name>, and extensive frontier, very contiguous to Indian settlements, is very broken and mountainous, so much so, that marauding parties of the Enemy might be concealed, or elude the <choice>
+                  <orig>vigilence</orig>
+                  <reg>vigilance</reg>
+               </choice> of any Company smaller than the one ordered into service, for a considerable time; during which, they might commit many murders — that Company was called out upon the recommendation, and upon the application for protection made to me therefor, of &amp; by, the members of the General <pb n="2" facs="sl016b.small.jpg"/> Assembly, then here, from that County, as well as of hundreds of other respectable citizens of Franklin County, expressed by petition — The Company has been discharged upon your suggestion of the propriety — Their services have been very important to that frontier, which they rendered safe — They merit compensation as fully as any men who have were been in service upon our frontier, and I hope and trust, that they will be paid by your order therefor — The <choice>
+                  <orig>vigilence</orig>
+                  <reg>vigilance</reg>
+               </choice> of that company has prevented that frontier from being abandoned by the settlers, and the Indians knowing, <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> the <name type="person">Cherokees</name>, that they were in service on that frontier, have kept away — I wish they may continue to do so — The Inhabitants are again petitioning for protection there —</p>
+            <p>You will discover by the copy of my letter written to you, stating that I had called that company into service, &amp; enclosing a deposition as the basis for the order, that I did not omit to advise you of the measure taken for the defense and protection of that frontier, and not having heard from you in answer, together with my belief, founded upon correct information from time to time <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice>, of existing danger, the Company was kept in service, until the receipt of yours suggesting their discharge — I have with transmit copies of the rolls, showing when the company was mustered into, and out of service — And have the honor to be very respectfully,</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>obt</abbr>
+                     <expan>obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <emph>
+                     <name type="person">Willie Blount</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>The <name type="person">
+                        <choice>
+                           <abbr>Hon'ble</abbr>
+                           <expan>Honorable</expan>
+                        </choice> John Armstrong</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Secy</abbr>
+                        <expan>Secretary</expan>
+                     </choice> War</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

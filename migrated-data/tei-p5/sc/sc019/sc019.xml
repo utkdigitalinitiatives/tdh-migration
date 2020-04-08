@@ -1,0 +1,187 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 July 29, Nashville [to] Gen[era]l John McCalla,
+			 Lexington, Kentucky / Andrew Jackson Donelson : a machine-readable
+			 transcription of an image</title>
+            <author>Donelson, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc019</idno>
+            <idno>OCLC: 50030786</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1844 July 29, Nashville [to] Gen[era]l John McCalla,
+				Lexington, Kentucky / Andrew Jackson Donelson</title>
+               <author>Donelson, Andrew Jackson</author>
+               <date when="1844-07-29">July 29, 1844</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter dated July 29, 1844,
+				to General John McCalla from Andrew Jackson Donelson, nephew of Andrew Jackson.
+				Donelson invites McCalla to Nashville to speak at a mass meeting and visit the
+				"old General".</note>
+               <note type="Collection">Andrew Jackson Donelson</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-931</note>
+               <note type="Document">sc019</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>McCalla, John</term>
+               <term>United States Politics and government 1841-1845</term>
+               <term>Tennessee Politics and government To 1865</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Donelson, Andrew Jackson, 1799-1871</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc019a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1844-07-29">July 29, 1844</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>I requested 
+			 <name type="person">Mr. Ficklin</name> the other day to send you an
+			 invitation to our mass meeting on the 
+			 <date when="--08-15">15 August</date> next. But I wish to be more
+			 special. Come by all means and spend a day or two with the old 
+			 <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Our people here wish to see you
+			 and to hear you on the stump. You can say something about 
+			 <name type="person">Mr. Clay</name> better than <choice>
+                  <orig>any one</orig>
+                  <reg>anyone</reg>
+               </choice> else, and what you say will tell before the
+			 audience that will be here.</p>
+            <p>Your election will be over, and you will have done all that you can
+			 at home Come  give us a lift here, and bring 
+			 <name type="person">Bullock</name> and other young men who like to
+			 speak in a good cause.</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yr</abbr>
+                     <expan>Your</expan>
+                  </choice> Friend</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>A J</abbr>
+                        <expan>Andrew Jackson</expan>
+                     </choice>
+				  Donelson</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice> John
+					 McCalla</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="sc019b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice> John
+				  McCalla</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Lexington Kentucky</name>
+                  </addrLine>
+               </address>
+               <add place="bottom">
+                  <choice>
+                     <abbr>Maj A. J.</abbr>
+                     <expan>Major Andrew Jackson</expan>
+                  </choice>
+                  <choice>
+                     <orig>Donaldson</orig>
+                     <reg>Donelson</reg>
+                  </choice>
+                  <lb/>
+                  <date when="1844-07-29">29 July 1844</date>
+               </add>
+               <add>Visit to Nashville</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

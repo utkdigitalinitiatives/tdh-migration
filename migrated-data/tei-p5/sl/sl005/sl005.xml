@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1813 Dec. 19 [to] William B. Lewis Esq[uire] Nashville, Tennessee / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl005</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1813 Dec. 19 [to] William B. Lewis Esq[uire] Nashville, Tennessee / Andrew Jackson </title>
+               <author>Jackson, Andrew</author>
+               <date when="1813-12-19">December 19, 1813</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is an early transcription of a  letter dated December 19th 1813 to William B. Lewis from Andrew Jackson. In the letter, Jackson complains about losing the Tennessee Volunteers to sickness and desertion. He requests that Lewis convince the Governor of Tennessee to issue an order to keep the Tennessee Militia involved in the Creek War. The original letter, and later transcription can be seen by viewing document sl006.</note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">15</note>
+               <note type="document" anchored="true">sl005</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Creek War, 1813-1814</term>
+               <term>Military offenses</term>
+               <term>Military assistance</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" xml:id="letter">
+            <pb n="1" facs="sl005a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Head quarters <name type="place">Fort Strother</name>
+                     <date when="1813-12-19">
+                        <choice>
+                           <abbr>Decbr</abbr>
+                           <expan>December</expan>
+                        </choice> 19th 18 <gap agent="damage"/>
+                        <unclear>13</unclear>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>The Blankets has not reached this place as yet whenever they come up, I will send you the order to cover the number sent on, and the quarter master's receipt for the same. I fear before they reach me I shall have 20 men to buy or wear them and my camp will be deserted without any means taken by the Governor fill their vacancy, by Draft. I have wrote by several expresses, in due time to have reached him and his answer have been to hand before the 10th instant, had is answer been such as I am now told it is the <name type="place">Tennessee</name> Volunteers Infantry would have been still here doing there duty as good soldiers or receiving examplarory punishment for disobedience</p>
+            <p>The East Tennessee  it appears was only brought into the field for three months, and not one under the requisition of the Secretary of War. All named Marching home but one  <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> whose time will be up the 14th proximo, and behold the Militia from my Division has caught the disease, and home they must be on the 4th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> Months — I have said to them— that they are in for the campaign or under the act of Congress, but I shall be governed by the opinion of the Governor. This a campaign so necessary for the safety and protection of the <choice>
+                  <orig>fronteers</orig>
+                  <reg>frontiers</reg>
+               </choice>, so far as Tennessee has to take a part in it is likely to be shamefully abandoned, and the reputation of the state eternally disgraced, and no ----- act as far as I can learn to prevent it, what is the Governor about, is his feelings ready to submit to such a disgraceful scene, after our boasted patriotism, and fervent wishes to be <choice>
+                  <orig>permited</orig>
+                  <reg>permitted</reg>
+               </choice> to carry war and destruction into the hands <add place="supralinear">bowels</add> of the Creek Nation, and after the fortunate ----- <add place="supralinear">entrance</add> made into it contrary to the underhand <choice>
+                  <orig>endeavour</orig>
+                  <reg>endeavor</reg>
+               </choice> to prevent me from <choice>
+                  <orig>opperation</orig>
+                  <reg>operation</reg>
+               </choice> from the want of supplies, which I expected from <name type="person">
+                  <choice>
+                     <abbr>Genl </abbr>
+                     <expan>General</expan>
+                  </choice>Cocke</name>and his command  to <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> White</name> (which I  enclose to the governor and will explain all and every matter and thing as it respects the cooperation and supplies promised by <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Cocke</name>, all which is noted and in due time will be attended to— for the Lord's sake arouse the governor from his Lethargy — bring to his view the disgraceful precipice, on which the credit of the State stands and he will exert himself  — let the Militia under the requisition of the President, as adopted under the late law of the State be drafted for six months, and sent on to fill up the disgraceful retrograde of the Volunteers, or let him peremptory, order the Volunteers to return if he believes he has not the power to discharge them and let him issue a general order, directing all deserters to be apprehended,  and transferred to the regular army, there to serve the balance of their time, let him do this and explain at what time <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Roberts</name> Brigade Service ends, and should it end on the 4th proximo say to him unless at that period our cooperation as and from Tennessee as promised and expected by the President of  the <name type="place">United States</name>, and by <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Pinkney</name>. The commander<add place="supralinear"> in</add> chief, is to end and our state eternally disgraced, that he must exert himself fulfill his powers and order a requisition to be up against the days that those in service expires, this is the conduct of the Surgeons and others. <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Floyd's</name> Brigade time of Service has expired having served 6 months, &amp; till the express informs me, that the Governor of <name type="place">Georgia</name> has the (relief) is at hand and (will) reach him before the first requisition is discharged— this is proper and right— and I hope the Governor will exert himself, and save our State from everlasting disgrace. I have ordered <name type="person">
+                  <choice>
+                     <abbr>Genl </abbr>
+                     <expan>General</expan>
+                  </choice>Cocke</name> back to fill up the requisition of the Secretary of War made <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> Governor of the State, <emph>had this been done at first regardless of the disgraceful retrograde of the T. V. S. Infantry I should been moving on and soon put an end to the Creek War</emph>. My respects to your lady<name type="person"> Mrs. Lewis</name> and all the family &amp; receive my thanks for the cheese and Butter and believe me respectfully <choice>
+                  <abbr>yrs &amp; c &amp; c </abbr>
+                  <expan>yours and et cetera and et cetera</expan>
+               </choice>
+            </p>
+            <closer>
+               <signed>
+                  <emph>Andrew Jackson</emph>
+               </signed>
+               <add>
+                  <address>
+                     <addrLine>William B. Lewis <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </addrLine>
+                     <addrLine>
+                        <choice>
+                           <abbr>Asst</abbr>
+                           <expan>Assistant</expan>
+                        </choice>. D. Q. M. <choice>
+                           <abbr>Genl.</abbr>
+                           <expan>General</expan>
+                        </choice>
+                     </addrLine>
+                     <addrLine>Nashville, <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

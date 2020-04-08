@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipts] 1804 Oct 25 [of] Josiah Nichol and Return J. Meigs : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl050</idno>
+            <idno>OCLC: 50030339</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipts] 1804 Oct 25 [of] Josiah Nichol and Return J. Meigs</title>
+               <date when="1804-10-25">October 25, 1804</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a receipt dated October 25, 1804 allowing Josiah Nichol to deliver money to Indian Agent Return J. Meigs.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Correspondence by Author 1809 I-A-3</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl050</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Meigs, Return Jonathan, 1767-1823</term>
+               <term>Indian agent</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl050a.small.jpg"/>
+            <p>
+               <choice>
+                  <abbr>Rec.d</abbr>
+                  <expan>Received</expan>
+               </choice>
+               <date when="1804-10-26">26 <choice>
+                     <abbr>Oct.</abbr>
+                     <expan>October</expan>
+                  </choice> 1804</date> of <name type="person">
+                  <choice>
+                     <abbr>Chas.</abbr>
+                     <expan>Charles</expan>
+                  </choice> T. Porter <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </name> three hundred forty four dollars in silver &amp; a receipt of <name type="person">
+                  <choice>
+                     <abbr>Col. </abbr>
+                     <expan>Colonel</expan>
+                  </choice>Meigs</name> for fifty one dollars for &amp; on a/c of <choice>
+                  <abbr>Col. R. J.</abbr>
+                  <expan>Colonel Return Jonathan</expan>
+               </choice> Meigs—<name type="person">Josiah Nichol</name>
+               <pb n="2" facs="sl050b.small.jpg"/> M</p>
+            <p>
+               <name type="person">Return J. Meigs</name>
+            </p>
+            <p>&amp; Nichols <choice>
+                  <abbr>Rect.</abbr>
+                  <expan>Receipt</expan>
+               </choice>
+            </p>
+            <p>
+               <date when="1804-10-25">25th Octor. 1804</date>
+               <pb n="3" facs="sl050c.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>
+                        <name type="place">Tellico</name>
+                     </addrLine>
+                  </address>
+                  <date when="1804-10-25">25 <choice>
+                        <abbr>Octo.</abbr>
+                        <expan>October</expan>
+                     </choice> 1804</date>
+               </add>
+            </p>
+            <p>Sir</p>
+            <p>I have just now received your favor of the yesterdays date. It's not in my power to come to<name type="place"> Knoxville</name> for two or three days. If you will leave any sum of money in the hands of Josiah Nichol <choice>
+                  <abbr>esqr</abbr>
+                  <expan>esquire</expan>
+               </choice> or <name type="person">Captain<choice>
+                     <abbr> Jno.</abbr>
+                     <expan>John</expan>
+                  </choice> Croquir</name> &amp; take a receipt. I will within a few days call &amp; take the money &amp; send you Bills of Exchange on the Secretary of War for the amount including fifty dollars left in my hands the last-time I <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> money of you</p>
+            <closer>
+               <salute>I am Sir <choice>
+                     <abbr>Yr Obdt </abbr>
+                     <expan>Your Obedient</expan>
+                  </choice>Servant</salute>
+               <signed>Return J. Meigs A War</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

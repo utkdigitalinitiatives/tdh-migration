@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl091">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Stock Certificate] 1835 October 30 [for] Robert C Foster 1st : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl091</idno>
+            <idno>OCLC: 50178887</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Stock Certificate] 1835 October 30 [for] Robert C Foster, 1st</title>
+               <date when="1835-10-30">October 30, 1835</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a stock certificate dated October 30, 1835, stating that Robert C. Foster, I,   has 5 shares of stock in the Nashville, Murfreesborough, and Shelbyville Turnpike Company.  He has attached a note dated February 18, 1842, stating that he is transferring these stocks to Robert C. Foster, IV .</note>
+               <note type="collection" anchored="true">Foster Family</note>
+               <note type="box" anchored="true">I-A-4</note>
+               <note type="document" anchored="true">sl091</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Certificate of stocks</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl091a.small.jpg"/>
+            <p>
+               <hi rend="written text">
+                  <add place="top left corner">48</add>
+               </hi> These are to certify, that <hi rend="written text">
+                  <name type="person">Robert C Foster</name>
+               </hi> is the holder of <hi rend="written text">Five</hi> Shares of Stock of the "<name type="place">Nashville</name>, <name type="place">Murfreesborough</name> and <name type="place">Shelbyville</name>, Turnpike Company" upon which <hi rend="written text">Five hundred</hi> dollars have been paid. Transferable on the Books of the Company only</p>
+            <p>  In testimony whereof, the President of the Board of Commissions has affixed his name this <date when="1835-10-30">
+                  <hi rend="written text">30th</hi> day of  <hi rend="written text">October</hi> 183<hi rend="written text">5</hi>
+               </date>
+               <name type="person">
+                  <hi rend="written text">
+                     <name type="person">
+                        <unclear>Reefell </unclear> Dance</name>
+                  </hi>
+               </name> Secretary, <hi rend="written text">
+                  <name type="person">
+                     <choice>
+                        <abbr>  R.</abbr>
+                        <expan>Robert</expan>
+                     </choice> C.  Foster</name>
+               </hi> President.</p>
+            <p>
+               <note type="written," anchored="true">In Consideration of <emph>Love</emph>, <emph>Name</emph>, and <emph>affection</emph>, I transfer the above Five shares of <emph>Stock</emph> in the <name type="place">Nashville</name>, <name type="place">
+                     <choice>
+                        <abbr>Murfreesb</abbr>
+                        <expan>Murfeesborough</expan>
+                     </choice>
+                  </name>; <name type="place">Shelbyville</name> Turn-Pike Company, To <name type="person">Robert. C.  Foster 4th</name> Son of   <name type="person">
+                     <choice>
+                        <abbr>R.</abbr>
+                        <expan>Robert</expan>
+                     </choice> C. Foster  Jr.</name>
+                  <p>
+                     <emph>
+                        <date when="1842-02-18">
+                           <choice>
+                              <abbr>Feby</abbr>
+                              <expan>February</expan>
+                           </choice> 18,, 1842</date>
+                     </emph>
+                     <emph>
+                        <name type="person">
+                           <choice>
+                              <abbr>R.</abbr>
+                              <expan>Robert</expan>
+                           </choice> C. Foster, 1st</name>
+                     </emph>
+                  </p>
+                  <p>
+                     <add>Transferred as above required on the Books of the Company <date when="1842-02-18">
+                           <choice>
+                              <abbr>Feby</abbr>
+                              <expan>February</expan>
+                           </choice> 18th 1842 </date>
+                        <lb/>
+                        <name type="person">M Spence Suty</name>
+                     </add>
+                  </p>
+               </note>
+            </p>
+            <pb n="2" facs="sl091b.small.jpg"/>
+            <p>  Five Shares <lb/> of <lb/>
+               <choice>
+                  <abbr>T-P</abbr>
+                  <expan>Turnpike</expan>
+               </choice> Stock <lb/> }  <choice>
+                  <abbr>   R.</abbr>
+                  <expan>Robert</expan>
+               </choice> C.  Foster 4th } </p>
+         </div>
+      </body>
+   </text>
+</TEI>

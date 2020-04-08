@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Aug. 28 [to] Mrs. William R. Caswell / William Caswell : a machine readable transcription of an image</title>
+            <author>Caswell, William R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc033</idno>
+            <idno>OCLC: 50474549</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Aug. 28 [to] Mrs. William R. Caswell / William Caswell</title>
+               <author>Caswell, William R.</author>
+               <date when="1846-08-28">August 28, 1846</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 28, 1846 from William Caswell to his wife in Jefferson County, Tennessee. Caswell served during the Mexican-American War and was part of the Tennessee volunteers. In this letter Caswell writes news of illness in the camp near Carmango, Mexico.</note>
+               <note type="collection" anchored="true">William R. Caswell Papers</note>
+               <note type="box" anchored="true">MS-18, b1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">mc033</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>United States</term>
+               <term>Mexico</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Caswell, William Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc033a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <emph>No 14</emph>In Camp near <name type="place">Carmango</name>
+                  </addrLine>
+               </address>
+               <date when="1846-08-28">28th August 1846</date>
+               <salute>My Dear Wife—</salute>
+            </opener>
+            <p>I write to let you know how I am, and how desirous I am to see you, our children friends and home again,— I defer the small news with my observations upon the country— upon the "horrors of war"—<choice>
+                  <abbr>&amp;c &amp;c,</abbr>
+                  <expan>and et cetera and et cetera</expan>
+               </choice> until my return— Since I wrote you last, I have been doing nothing but loafing about our camps— writing, copying and recording orders for the Brigade, and but little besides— The Adjutant General assigned to this Brigade has just joined our family— he is one <gap agent="damage"/>  the men promoted for his gallantry in the battles of <date>8th &amp; 9th— May</date>—<name type="person">
+                  <choice>
+                     <abbr> Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> O. F. Winship</name>—</p>
+            <p>Our Army are slowly moving off from here towards <name type="place">Monterey</name>— I think we will get off next week—</p>
+            <p>Last night, <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Kays</name> and <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Peyton</name> took supper with us,— Kays is just from the interior, he brings news that <name type="person">Paredes</name> is a prisoner, and that <name type="place">Santa Anna</name> is recalled, if so, we shall have no battle, and in all probability a peace will be made between the two governments before we ever march beyond the Mountains—</p>
+            <p>There is a great deal of sickness in camps— It is <choice>
+                  <orig>oweing</orig>
+                  <reg>owing</reg>
+               </choice> to the imprudent exposure of the men, and imprudence in diet, and want of cleanliness— Some however with all precautions, in this climate take sick—As for myself, I am as well as usual, I think if I had kept with my company I should have fattened— It has been a long while since I have heard from you; and I must now certainly⁁<add place="supralinear">begin to</add> get some letters in a few days— I am very anxious to hear as you must know I am how your health is, and all about that little boy— I have been encouraged to hope that you had regained your strength— I shall fly to see you as soon as I am discharged from the Army— Since I am here, and came for the purpose, I would be glad to have an engagement with the enemy, but having now but little hopes, of doing anything for the Country or for myself— I am getting impatient, so much so, and so pleasant a place does Russelville now seems to me, that I think I will be contented to live there </p>
+            <closer>
+               <salute>Your affectionate husband—</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm. R.</abbr>
+                        <expan>William Richard</expan>
+                     </choice> Caswell</name>
+               </signed>
+               <pb n="2" facs="mc033b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <unclear>Ft Trubel</unclear> 10<date>
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice>
+                     </date>
+                     <name type="person">Mrs. <choice>
+                           <abbr>Wm. R. </abbr>
+                           <expan>William Richard</expan>
+                        </choice>Caswell</name>
+                     <name type="place">Russelville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jefferson County.</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

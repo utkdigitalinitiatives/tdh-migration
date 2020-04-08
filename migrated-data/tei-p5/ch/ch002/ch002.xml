@@ -1,0 +1,178 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1804 Oct. 6, Creek Agency [to] Colo[nel Return J.] Meigs, Southwest Point, [Tennessee] / Benjamin Hawkins: a machine-readable transcription</title>
+            <author>Hawkins, Benjamin, 1754-1816</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch002</idno>
+            <idno>OCLC: 44743114</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1804 Oct. 6, Creek Agency [to] Colo[nel Return J.] Meigs, Southwest Point, [Tennessee] / Benjamin Hawkins</title>
+               <author>Hawkins, Benjamin, 1754-1816</author>
+               <date when="1804-10-06">October 6, 1804</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Benjamin Hawkins, U.S. agent to the Creek Indians, to Colonel Return J. Meigs, U.S. agent to the Cherokee Indians, dated October 6, 1804.  Hawkins reports to Meigs that he has found several horses belonging to Abraham Bird.  In addition, he commends Meigs on his plans to remove Wafford and Co., who have caused great distress to the Indians and inhibited further transactions.  The letter is written from the Creek Agency and directed to Meigs at Southwest Point.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true"> 8</note>
+               <note type="document" anchored="true">ch002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>Indian agents</term>
+               <term>Indians, Treatment of</term>
+               <term>Creek Indians</term>
+               <term>Cherokee Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80118339"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hawkins, Benjamin, 1754-1816</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch002a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Creek agency</name>
+                     </addrLine>
+                  </address>
+                  <date when="1804-10-06">6th <choice>
+                        <abbr>Octr.</abbr>
+                        <expan>October</expan>
+                     </choice> 1804</date>
+               </dateline>
+            </opener>
+            <p>I have three horses of the <choice>
+                  <orig>discription</orig>
+                  <reg>description</reg>
+               </choice> of those from <name type="person">Abraham Bird</name>.  One Chestnut sorrel and one <unclear>dim</unclear> brand A and one black  I forget his brand but the <choice>
+                  <orig>discription</orig>
+                  <reg>description</reg>
+               </choice> answers for <name type="person"> 
+                  <reg>Abraham</reg> Mr. Bird</name>  They were brought <add place="supralinear">
+                  <unclear>from</unclear>
+               </add> some whose <unclear/> the <name type="place">Mississippi</name>.  Since your letter to me I have one from him via <name type="place">New Orleans</name> and I address them to you b<gap agent="damage"/>
+               <unclear>document damaged</unclear>ause I know not where to address to him.</p>
+            <p>I am glad to find that you are likely soon to remove <name type="person">Wafford</name> and Co. which has caused your and my department so much trouble and which has lessened the confidence the Indians have in the justice of our government and  <unclear>miscarrys</unclear> all our transactions with Indians-</p>
+            <closer>
+               <salute>I am with much esteem  regard <lb/>Sir, your obedient <choice>
+                     <abbr>ser</abbr>
+                     <expan>servant</expan>
+                  </choice>
+               </salute>
+               <lb/>
+               <signed>
+                  <name type="person">Benjamin Hawkins</name>
+               </signed>
+               <lb/>
+               <address>
+                  <addrLine>
+                     <name type="person"> 
+                        <reg>R. J.</reg> 
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Meigs</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch002b.small.jpg"/>
+            <p>From <name type="person"> 
+                  <reg>Benj</reg> 
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Hawkins</name>
+               <date when="1804-09-06">
+                  <choice>
+                     <abbr>Septr.</abbr>
+                     <expan>September</expan>
+                  </choice> 6th 1804</date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>A</abbr>
+                     <expan>Abraham</expan>
+                  </choice> Bird</name>s horses found <date when="1804-10-08">8th October 1804</date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <hi>25</hi>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <unclear>Lt.</unclear>
+               <name type="person"> 
+                  <reg>R. J.</reg> 
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Meigs</name> agent for the <name type="person">Cherokees</name>
+               <name type="place">
+                  <choice>
+                     <abbr>S.W.</abbr>
+                     <expan>Southwest</expan>
+                  </choice> Point</name>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl443">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Jun. 12, Sumner County [Tennessee] [to] Robert / [unknown author] : a machine readable transcription of an image</title>
+            <author>[unknown]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl443</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1845 Jun. 12, Sumner County [Tennessee] [to] Robert / [unknown author]</title>
+               <author>[unknown]</author>
+               <date when="1845-06-12">June 12, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 12, 1845. The author is unknown, but is writing to a brother named Robert. The author describes a recent business trip. He writes about the people he has seen. He is pleased with his trip, but did not accomplish much on it. The author also mentions how well his rye and wheat crops are doing.</note>
+               <note type="collection" anchored="true">Daniel Montgomery Papers</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl443</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Communication in the family</term>
+               <term>Business enterprises</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">unknown</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl443a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Sumner County</name>
+                     <date>June 12 1845</date>
+                  </addrLine>
+               </address>
+               <salute>Brother Robert</salute>
+            </opener>
+            <p>I received yours dated the <date>3rd may</date> after <choice>
+                  <orig>riting</orig>
+                  <reg>writing</reg>
+               </choice> to you before I now have little of <choice>
+                  <orig>intrest</orig>
+                  <reg>interest</reg>
+               </choice> to you On the <date>21 May</date> being at a <unclear>loss to <choice>
+                     <orig>now</orig>
+                     <reg>know</reg>
+                  </choice> how</unclear> to <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> along well determined to make a hard trial to sell the <unclear>Turell Place</unclear> and <name>Hugh Kirkpatrick <choice>
+                     <abbr>Snr</abbr>
+                     <expan>Senior</expan>
+                  </choice>
+               </name> had <choice>
+                  <orig>bean</orig>
+                  <reg>been</reg>
+               </choice> talking some about buying my first trial was with him and that <choice>
+                  <orig>wold</orig>
+                  <reg>would</reg>
+               </choice> take me 7 or 8 days to me I <choice>
+                  <orig> thot verry</orig>
+                  <reg>thought very</reg>
+               </choice> hard work started and got <add>to</add>
+               <name>Franklen</name> the first mile and after enquiring I could <choice>
+                  <orig>here</orig>
+                  <reg>hear </reg>
+               </choice> of but <choice>
+                  <orig>thre</orig>
+                  <reg>three</reg>
+               </choice> persons that I <choice>
+                  <orig>new</orig>
+                  <reg>knew</reg>
+               </choice> and did not <choice>
+                  <orig>se</orig>
+                  <reg>see</reg>
+               </choice> them on the 22 <choice>
+                  <orig>pased</orig>
+                  <reg>passed</reg>
+               </choice>
+               <name>Columbia</name> and <choice>
+                  <orig>sean</orig>
+                  <reg>seen</reg>
+               </choice> some of that <choice>
+                  <orig>butiful</orig>
+                  <reg>beautiful</reg>
+               </choice> country due west and got to <name>William Ralstous</name> that Evening and found him and <choice>
+                  <orig>familey</orig>
+                  <reg>family</reg>
+               </choice> all well the 2 little children now about Twelve years old and look <choice>
+                  <orig>harty</orig>
+                  <reg>hardy</reg>
+               </choice> was going to  school he <choice>
+                  <orig>seams</orig>
+                  <reg>seems</reg>
+               </choice> to be doing well on the 23 got Mr Kirkpatricks <choice>
+                  <orig>staid</orig>
+                  <reg>stayed</reg>
+               </choice> with him to next Evening <choice>
+                  <orig>maid</orig>
+                  <reg>made</reg>
+               </choice> not trade went to <name>Hugh Catron</name>s and found his family well <choice>
+                  <orig>onley</orig>
+                  <reg>only</reg>
+               </choice> he has the fever &amp; <unclear>ague</unclear> a little seams to be doing well on <choice>
+                  <orig>sonday</orig>
+                  <reg>sunday</reg>
+               </choice> morning left for Brother Johns a long crooked lonesome Road for one day pasing a watering <add>place</add> some Improved on Beaver dam creek and forded Duck River and got to Brother Johns a little before dark found all well but his wife and she was verry sick spent the next day with him his mills is fine but the <choice>
+                  <orig>cuntry is mitey Ruff</orig>
+                  <reg>country is mighty rough</reg>
+               </choice> on Tuesday the 27th started for home and got to <name>Ellason</name> on harper and got home on the 28th Found every thing <choice>
+                  <orig>geting</orig>
+                  <reg>getting</reg>
+               </choice> along <choice>
+                  <orig>midling</orig>
+                  <reg>middling</reg>
+               </choice> well I was <choice>
+                  <orig>intirely</orig>
+                  <reg>entirely</reg>
+               </choice> satisfied with Trip <choice>
+                  <orig>altho</orig>
+                  <reg>although</reg>
+               </choice> I had <choice>
+                  <orig>effected</orig>
+                  <reg>affected</reg>
+               </choice> nothing <pb n="2" facs="sl443b.small.jpg"/> I began to cut wheat on the 5th and has <choice>
+                  <orig>bean cuting</orig>
+                  <reg>been cutting</reg>
+               </choice> nearley every day since and it began to rain and <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice> me from giting done my wheat is verry good and my <choice>
+                  <orig>Ry</orig>
+                  <reg>Rye</reg>
+               </choice> is the best I have ever had and I am determined to sow more than I have ever sowed I think we would <choice>
+                  <orig>dou</orig>
+                  <reg>do</reg>
+               </choice> better to <orig>Raise</orig> Ry to <choice>
+                  <orig>fead</orig>
+                  <reg>feed</reg>
+               </choice> horses on if it would do as well every year as I think it will this some of my Ry and wheat will make near twenty Bushels to the acre I lefted your note to <name>A G Payn</name> $70,,50 <add>Intr 1.75</add> and it was hard for me to spare the <choice>
+                  <orig>mone</orig>
+                  <reg>money</reg>
+               </choice> so much <choice>
+                  <orig>neded</orig>
+                  <reg>needed</reg>
+               </choice> to Settle my own debts</p>
+         </div>
+      </body>
+   </text>
+</TEI>

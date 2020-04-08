@@ -1,0 +1,248 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Mar. 29 [to] Mrs. W[illia]m R. Caswell / W[illiam] R. Caswell : a machine readable transcription of an image</title>
+            <author>Caswell, William R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc019</idno>
+            <idno>OCLC: 50473797</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Mar. 29 [to] Mrs. W[illia]m R. Caswell / W[illiam] R. Caswell</title>
+               <author>Caswell, William R.</author>
+               <date when="1847-03-29">March 29, 1847</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by William R. Caswell to his wife on March 29, 1847. In the letter, Caswell states that he is stationed near Vera Cruz and gives accounts of events going on in the war and with himself. He describes buildings in the area, some of which have been destroyed by bomb shells. Caswell expresses the mood of the men and his desire to come home, as well as describing the character of several other soldiers. Caswell concludes the letter by stating where his Regiment will be stationed next, and his opinion that the war is almost over.</note>
+               <note type="collection" anchored="true">William R. Caswell Papers</note>
+               <note type="box" anchored="true">MS-18, b1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">mc019</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>United States</term>
+               <term>Mexico</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Caswell, William Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc019a.small.jpg"/>
+            <opener>
+               <add place="top of page">
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 37</add>
+               <address>
+                  <addrLine>Camp near <name type="place">Vera Cruz</name>
+                     <date when="1847-03-29">29th March 1847</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Wife</salute>
+            </opener>
+            <p>As I have got behind hand in writing to you, I feel that I ought to write again without delay, especially as I am situated where it may be thought there is danger and since commencing this letter I have received two letters from you. <choice>
+                  <abbr>Nos</abbr>
+                  <expan>Numbers</expan>
+               </choice> 28 and 29 — containing a little lock of "that boys" hair — your letters are received now with much more regularity than formerly and with much less delay than at first ⁁<add place="supralinear">
+                  <choice>
+                     <abbr>Nos</abbr>
+                     <expan>Numbers</expan>
+                  </choice> 26 and 27 <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice> also since I arrived here.</add> But I have nothing new to write more than you will see in the papers in <choice>
+                  <orig>enformation</orig>
+                  <reg>information</reg>
+               </choice> of the news in my last of the ⁁<add place="supralinear">unconditional</add> surrender of the City of <name type="place">Vera Cruz</name> and Castle of <name type="place">San Juan <unclear>Deulloa</unclear>
+               </name> . <choice>
+                  <orig>To-day</orig>
+                  <reg>Today</reg>
+               </choice> we have had a pageant such as is seldom witnessed in modern days — The formal surrender of the city, castle, arms, public stores, and of the soldiers themselves as prisoners of war — (They were however released upon <choice>
+                  <orig>parol</orig>
+                  <reg>parole</reg>
+               </choice>). <add place="supralinear">took place <choice>
+                     <orig>to-day</orig>
+                     <reg>today</reg>
+                  </choice>
+               </add>
+               <unclear>Worths &amp; Sillow</unclear>. Brigades were drawn up, on each side of an open plain in front of the city. The <name>Mexicans</name> marched out of the city into the plain. A white flag was placed in the <choice>
+                  <orig>centre</orig>
+                  <reg>center</reg>
+               </choice> of the ground. At 10 O'clock the Mexicans marched out <del type="overstrike">into the</del> between our ranks ⁁<add place="supralinear">to the flag</add> at the head of the column came the women and children, and with them the <name type="person">Ranchero's</name> bearing heavy bundles of household goods such as bedding <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> — When I saw this — my greatest sympathy was excited for their unfortunate situation, and the deaths among them we had been forced to occasion — After the women came the column of Mexican Soldiers — They stacked their arms and lay down their flags and musical instruments and dispersed in every direction — They made a very poor show, compared with our army — with a few exceptions they are miserable looking creatures — and I believe are mostly gratified at the <del type="overstrike">result</del> termination of the battle, and probably of the war for my opinion is that this is the end of the war — <pb n="2" facs="mc019b.small.jpg"/>
+            </p>
+            <p>
+               <date when="--03-31">31st March</date> I went into the city <choice>
+                  <orig>to-day</orig>
+                  <reg>today</reg>
+               </choice> (as did a great many of our Regiment) and intended to mail this letter, but forgot to take it with me, and will therefore add something to it. <unclear>Jas.</unclear>
+               <name type="person">Gillespie</name> and <name type="person">Bob Foster</name> went with me, we visited the celebrated castle — and it is truly a very powerful fortification, and supplied with tremendous <choice>
+                  <orig>ordnance</orig>
+                  <reg>ordinance</reg>
+               </choice> &amp; <choice>
+                  <orig>ordnance</orig>
+                  <reg>ordinance</reg>
+               </choice> stones — We also traversed the city — It does not equal my expectations in size or beauty or wealth — The churches are very grand and there are many of them — Two of which we entered and found them crowded with the sick &amp; wounded of the Mexican army. It ⁁<add place="supralinear">(the city)</add> is inferior to <name type="place">Tampico</name> and <name type="place">Monterey</name> in my opinion. <name type="person">Bob Foster</name> is not in good health, has had several chills — <name type="person">Sam Carter</name> — <name type="person">
+                  <unclear>Jas.</unclear> David</name>, &amp; <name type="person">Frank Gillespie</name> are all well — Frank has amused me very much by an account of his voyage — he says the ship pitched so much in a storm <del type="overstrike">the</del> as ⁁<add place="supralinear">to</add> throw him out of his sleeping birth — he tied himself into it; by a slip knot in a greasy rope, and when the ship rolled again it was drawn close around his neck — coming very nigh hanging him — He tells me too, that after I left Tampico, he went into town there and got into a spree — and coming to a Mexican Soldier at a large door in the council house he drew his Mexican <choice>
+                  <orig>Sabre</orig>
+                  <reg>Saber</reg>
+               </choice> (which by the bye he always carries with him when upon a frolic) and demanded admittance his noise attracted the notice of the Alcalde, who came out, and ordered the Soldier to admit him, he says he saw the Alcalde laugh — and when he entered he found himself in the Mexican prison with <choice>
+                  <orig>felous</orig>
+                  <reg>fellows</reg>
+               </choice> of every character — He was badly plagued, but was not detained long.</p>
+            <p>I suppose you would be more entertained and interested with the war scenes of this place and of the present time. A great many letters are being written &amp; you will see them in the paper. We have seen <choice>
+                  <orig>to-day</orig>
+                  <reg>today</reg>
+               </choice> very much of the ruin produced by our bomb shells — <name type="person">
+                  <unclear>Jas</unclear> Gillespie</name> and myself looked <choice>
+                  <orig>thro'</orig>
+                  <reg>through</reg>
+               </choice> the stores to find something for me to bring you home, but could not find <choice>
+                  <orig>any thing</orig>
+                  <reg>anything</reg>
+               </choice> extra fine except a $20 fan, which price I thought would not suit our climate — Goods are enormously high priced <pb n="3" facs="mc019c.small.jpg"/> After the Mexicans retired we hoisted our flag upon the castle and forts of the town fired a National Salute and <unclear>
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>Generals</expan>
+                  </choice> Worths</unclear> Division marched into town — I marched in also with a few of my men being the only <choice>
+                  <orig>Tennesseeans</orig>
+                  <reg>Tennesseans</reg>
+               </choice> who entered the town — very many of the houses are in ruins, and the dead bodies have not all been buried — But a thousand things may be said, affording much interest — which will come before the public in time — I say I think this is the end of the war — I do believe the Mexicans will never make another fight — Yet <name type="person">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Scott</name>, will move on towards the city of Mexico with very little delay to the interior — I think however that our <choice>
+                  <abbr>Regimt</abbr>
+                  <expan>Regiment</expan>
+               </choice> will soon be discharged. I have no information which authorizes me to say so; but I think so, because we have been so cut up by leaving men at every stopping place in <name type="place">Texas</name>, <name type="place">Matamoros</name>, and <name type="place">Tampico</name>. and are here <choice>
+                  <orig>with ⁁</orig>
+                  <reg>without</reg>
+               </choice> a single horse ⁁<add place="supralinear">at present</add> except my 26 — that we are (with the <unclear>dragoon annis</unclear>) fitted for very little service — I am anxious now to get off — And will go for the discharge of the <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> as far as I can consistently with my credit; <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> I will not apply in haste for leave to go home before those who have done more fighting — There is a very general wish to quit the service, among the men of our Regiment —</p>
+            <p>I will conclude my letter at this time short as it is, because I intend to write again in a few days if I am not discharged. <name type="person">Sam Carter</name> is here — I met him a few evenings since as <del type="overstrike">I</del>
+               <add place="supralinear">he</add> came off with a body of Sailors to take charge of the battery on our side of the town — and he promised to visit my camp, but the Naval officers are very <choice>
+                  <orig>strick</orig>
+                  <reg>strict</reg>
+               </choice> and he could not get off —</p>
+            <closer>
+               <salute>My love to all,</salute>
+               <salute>Your Affectionate husband.</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm.</abbr>
+                        <expan>William</expan>
+                     </choice> R Caswell</name>
+               </signed>
+               <add place="bottom, left of page">I will go to see Sam Carter on board the <name type="place">Ohio</name>
+                  <choice>
+                     <orig>to-morrow</orig>
+                     <reg>tomorrow</reg>
+                  </choice> if I can get a boat to take me off —}</add>
+            </closer>
+         </div>
+      </body>
+      <pb n="4" facs="mc019d.small.jpg"/>
+      <back>
+         <div subtype="1" type="letter">
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Mrs. <choice>
+                           <abbr>Wm.</abbr>
+                           <expan>William</expan>
+                        </choice> R. Caswell</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>
+               <lb/>
+               <name type="place">Russelville</name>
+               <lb/>
+               <name type="place">Jefferson County</name>
+               <lb/>
+               <name type="place">Tennessee</name>
+               <lb/>
+               <name type="place">
+                  <choice>
+                     <abbr>U.S.</abbr>
+                     <expan>United States</expan>
+                  </choice>
+               </name>
+               <add place="left of address">It is understood this evening that we are to march to <name type="place">Jalapa</name>, as soon as the horses of the <choice>
+                     <abbr>Regimt.</abbr>
+                     <expan>Regiment</expan>
+                  </choice> arrive — A Detachment of the Army under <name type="person">
+                     <choice>
+                        <abbr>Gen.</abbr>
+                        <expan>General</expan>
+                     </choice> Shields</name> is to proceed in a day or two, (<del type="overstrike">under Gen. Shields</del>) to take possession, of that place — We cannot get our horses here and be ready to move sooner than 2 or 3 weeks. I ought not to calculate upon a discharge before the expiration of my term; but I still have some hopes. My love to Eliza &amp; that boy. to you; <choice>
+                     <abbr>Ma'</abbr>
+                     <expan>Mary</expan>
+                  </choice> Ann &amp; family  Your affectionate <lb/> Husband</add>
+               <add place="right of address">We went into a "Fonda" or Coffee house about dinner time and called for a cup of Coffee and a loaf of bread. The coffee was as strong as brandy — and being tired by our walk we enjoyed it very much. The room was elegantly furnished with several ⁁<add place="supralinear">white</add> marble tables and other corresponding furniture —We observed the paved floor torn up by a bomb shell which had entered the window — I asked the Mexican attendant if that shell had caused the death of <choice>
+                     <orig>any one</orig>
+                     <reg>anyone</reg>
+                  </choice> — With a sad countenance he held up two fingers —</add>
+               <add place="below address">I have worn out my clothes — bought others, and now having my <unclear>camp in the chaparral</unclear>, I have torn &amp; almost ruined a pair of pants for which I gave $13.00 I will try &amp; come home decent — but Sam Carter says I look like a barbarian.</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

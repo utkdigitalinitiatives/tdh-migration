@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc209">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Legal] 1794 Aug. 15, Territory of the US south of the Ohio River [to] Justices of Hawkins [County] / David Campbell : a machine readable transcription of an image</title>
+            <author> Campbell, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc209</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal] 1794 Aug. 15, Territory of the US south of the Ohio River [to] Justices of Hawkins [County] / David Campbell</title>
+               <author> Campbell, David</author>
+               <date when="1794-08-15"> 
+			 August 15, 1794</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a court order from David Campbell dated August 15, 1794. Campbell, a judge for the Territory south of the Ohio River, is ordering the Justices of Hawkins County to send him the documents involving John King versus John Collinsworth.</note>
+               <note type="collection" anchored="true">David Campbell Papers</note>
+               <note type="box" anchored="true">MS 1157</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc209</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Legal document</term>
+               <term>Campbell, David</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2011132538"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Campbell, David, 1750-1812</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc209a.small.jpg"/>
+            <opener>
+               <add>
+                  <name>United States of America</name>
+               </add>
+               <address>
+                  <addrLine>To the Justices of the County Court of Pleas &amp; Quarter Sessions of <name>Hawkins</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>Whereas <name>John King</name>
+               <choice>
+                  <abbr>Junr</abbr>
+                  <expan>Junior</expan>
+               </choice> lately before you <unclear>impleaded</unclear>
+               <name>John Collinsworth</name> in an Action of <choice>
+                  <orig>Tresspass</orig>
+                  <reg>Trespass</reg>
+               </choice> and thereupon before you obtained Judgement for the sum of three hundred Dollars against the said John Collinsworth And we being desirous for certain reasons that the said record should be <choice>
+                  <orig>certifyed</orig>
+                  <reg>certified</reg>
+               </choice> to us__ </p>
+            <p>We Command you that you send under your hands seals the said record of the said Recovery with all things touching the same into our Superior Court of Law to be held for the <name>District of Washington</name> in <name>
+                  <choice>
+                     <orig>Jonesbro</orig>
+                     <reg>Jonesboro</reg>
+                  </choice>
+               </name> on the third Monday in September next plainly and <choice>
+                  <orig>destincly</orig>
+                  <reg>distinctly</reg>
+               </choice> and in as full and ample manner as now remains before you together with this writ before the Judges of our said Court so that they on the part of the said John King may be able to proceed to the execution of the said Judgement and <unclear>ordain</unclear> what shall appear of right ought to be done Witness <name>David Campbell</name> Esquire <pb n="2" facs="sc209b.small.jpg"/> One of the Judges for the Territory of the United States South of <name>Ohio</name>__</p>
+            <closer>
+               <add>
+                  <date>August 15th 1794</date>
+               </add>
+               <signed>David Campbell</signed>
+               <add>John King <lb/>
+                  <unclear>vs</unclear> S Certio <lb/>
+                  <choice>
+                     <abbr> Jno</abbr>
+                     <expan>John</expan>
+                  </choice> Collinsworth <lb/>
+                  <unclear>the <choice>
+                        <abbr>actt</abbr>
+                        <expan>account</expan>
+                     </choice> known to</unclear>
+                  <lb/> King <lb/>
+                  <unclear>
+                     <name>
+                        <choice>
+                           <abbr>Thos</abbr>
+                           <expan>Thomas</expan>
+                        </choice>. Berry</name>
+                  </unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

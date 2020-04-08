@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl716">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1802 Jul. 24, Kingston, Tennessee [to] W. Thomas Clark / T.A. Smith : a machine readable transcription of an image</title>
+            <author>Smith, T.A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl716</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1802 Jul. 24, Kingston, Tennessee [to] W. Thomas Clark / T.A. Smith </title>
+               <author>Smith, T.A. </author>
+               <date when="1802-07-24">July 24, 1802</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated July 24, 1802 from Major T.A. Smith to W. Thomas Clark.       The subject of the letter is the opening of a turnpike road, specifically the terms and expense related to the clearing.</note>
+               <note type="collection" anchored="true">Governor Archibald Roane Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true"> sl716</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Office of the Governor.</term>
+               <term>Roane, Archibald, 1759-1819</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Smith, T. A.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl716a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Kingston</addrLine>
+               </address>
+               <date>24th July 1802</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>Having become the proprietors of <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> A Outlaws interest in the Turnpike road from <name>Hambleton</name> to <name>Mero District</name>         I am <choice>
+                  <orig>prepairing</orig>
+                  <reg>preparing</reg>
+               </choice> to do my part of opening the said road agreeable to the act of assembly, and shall set my hands to work next week as I am prepared to comply with the requisites of the law, as far as respected <choice>
+                  <abbr>Colo</abbr>
+                  <expan>Colonel</expan>
+               </choice> Outlaws, and not knowing on what terms you get your <choice>
+                  <orig>labourers</orig>
+                  <reg>laborers</reg>
+               </choice>, the <choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> was amount to more than I can have it done for, of course, more than I would be willing to give, I therefore notify you of my willingness &amp; intentions of doing all the law require </p>
+            <closer>
+               <add>I am very respectfully <choice>
+                     <abbr>yrs &amp;c</abbr>
+                     <expan>yours and et cetera</expan>
+                  </choice>
+               </add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice>. Smith</name>
+               </signed>
+               <add>
+                  <name>W. Thomas N. Clark</name>
+               </add>
+               <pb n="2" facs="sl716b.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>W. Thomas H. Clark<lb/>
+                        <choice>
+                           <abbr>Maj</abbr>
+                           <expan>Major</expan>
+                        </choice> T.A. Smith</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

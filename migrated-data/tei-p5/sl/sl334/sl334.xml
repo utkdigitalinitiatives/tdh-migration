@@ -1,0 +1,160 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl334">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1850 Jun. 4, [to] Mr. Adam Fergusson, Nashville, Ten[nessee] / Samuel D. Hughes : a machine readable transcription of an image</title>
+            <author>Hughes, Samuel D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl334</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1850 Jun. 4, [to] Mr. Adam Fergusson, Nashville, Ten[nessee] / Samuel D. Hughes</title>
+               <author>Hughes, Samuel D.</author>
+               <date when="1850-06-04">June 4, 1850</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Samuel D. Hughes to Adam Fergusson, dated June 4, 1850.  Hughes asks Fergusson to send him two pistols that he can use to defend himself against a man by the name of Ross, who had earlier threatened Hughes' life.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b4</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl334</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hughes, Samuel D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl334a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <orig>Nashvill</orig>
+                           <reg>Nashville</reg>
+                        </choice> tennessee</name>
+                     <name>mr <choice>
+                           <abbr>A</abbr>
+                           <expan>Adam</expan>
+                        </choice>
+                        <choice>
+                           <orig>ferguson</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>this is the <date>4 of June 1850</date> we <choice>
+                  <orig>ar</orig>
+                  <reg>are</reg>
+               </choice> all well at this time my life is at stake and I <choice>
+                  <orig>wat</orig>
+                  <reg>want</reg>
+               </choice> you to to send or fetch me two of the Best <choice>
+                  <orig>pistoles</orig>
+                  <reg>pistols</reg>
+               </choice> that you can <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> in nashvill <name>Ross</name> came in <del type="overstrike">f</del> the fall and <choice>
+                  <orig>thretend</orig>
+                  <reg>threatened</reg>
+               </choice> to <choice>
+                  <orig>shut</orig>
+                  <reg>shoot</reg>
+               </choice>
+               <del type="overstrike">be</del> me <choice>
+                  <orig>twist</orig>
+                  <reg>twice</reg>
+               </choice> or three times and drew a large <choice>
+                  <orig>hickry</orig>
+                  <reg>hickory</reg>
+               </choice> stick on me and Swore that he would kill me we are <choice>
+                  <orig>dun planten</orig>
+                  <reg>done planting</reg>
+               </choice> corn I believe that I   <choice>
+                  <orig>shant</orig>
+                  <reg>shouldn't</reg>
+               </choice>
+               <choice>
+                  <orig>wright</orig>
+                  <reg>write</reg>
+               </choice> any more at this time only that he drew his pistol or started to But he did not quite <unclear>cumet</unclear> do not <choice>
+                  <orig>for git</orig>
+                  <reg>forget</reg>
+               </choice> to Bring them if you <choice>
+                  <orig>pleas</orig>
+                  <reg>please</reg>
+               </choice> Sir</p>
+            <closer>
+               <salute>yours and <unclear>soforth</unclear>
+               </salute>
+               <signed>
+                  <name>Samuel D Hughes</name>
+               </signed>
+               <pb n="2" facs="sl334b.small.jpg"/>
+               <address>
+                  <addrLine>Mr Adam Fergusson</addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

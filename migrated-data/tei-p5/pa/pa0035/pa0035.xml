@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Receipt] 1815 Nov. 1 [to] Return J. Meigs / The Path Killer et al. : a machine readable transcription of an image</title>
+            <author>The Path Killer</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0035</idno>
+            <idno type="OCLC">OCLC: 44930753</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1815 Nov. 1 [to] Return J. Meigs / The Path Killer et al</title>
+               <author>The Path Killer</author>
+               <date when="1815-11-01">November 1, 1815</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a receipt dated November 1, 1815, acknowledging that Return J. Meigs, acting as agent to the Cherokee Nation, paid thirty-six thousand dollars to the Cherokee for their annuities for the years 1813 through 1816.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0035</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Cherokee Indians -- Annuities</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Path Killer</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0035a.small.jpg"/>
+            <p>Received of <name>Return J Meigs</name> Thirty Six Thousand Dollars that sum being the amount of the <name>Cherokee</name> annuities for the years 1813 14 15 &amp; 16 received for the said <name>Cherokee Nation</name>
+               <choice>
+                  <orig>infull</orig>
+                  <reg>in full</reg>
+               </choice> for the years above stated</p>
+            <closer>
+               <address>
+                  <addrLine>Cherokee Agency</addrLine>
+                  <addrLine>
+                     <date>1st <choice>
+                           <abbr>Novr.</abbr>
+                           <expan>November</expan>
+                        </choice> 1815</date>
+                  </addrLine>
+               </address>
+               <signed>
+                  <name>The Path Killer</name>
+                  <add>his X mark</add>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Richd.</abbr>
+                        <expan>Richard</expan>
+                     </choice> Brown</name>
+                  <add>his X mark</add>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Jno.</abbr>
+                        <expan>John</expan>
+                     </choice> McIntosh </name>
+                  <add>his X mark</add>
+                  <lb/>
+                  <name>The Duck</name>
+                  <add>his X mark</add>
+               </signed>
+               <add>Witness <lb/>
+                  <name>Caleb Starr</name>
+                  <lb/>
+                  <name>Richard Taylor</name> Interpreter <lb/> Ross</add>
+               <pb n="2" facs="pa0035b.small.jpg"/>  D <lb/>
+               <choice>
+                  <abbr>Recpt.</abbr>
+                  <expan>Receipt</expan>
+               </choice> the Cherokees for part of their annuity for the year 1817. <lb/>  $30000.33 ½ <choice>
+                  <abbr>cts</abbr>
+                  <expan>cents</expan>
+               </choice>
+               <lb/> $36000.00 <lb/> November 1st. 1815</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

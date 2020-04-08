@@ -1,0 +1,168 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Jul. 26, Fayetteville, North Carolina [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore :   a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc023</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Jul. 26, Fayetteville, North Carolina [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, </title>
+               <author>Moore, Thomas O.</author>
+               <date when="1833-07-26">July 26, 1833</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">A letter dated July 26, 1833 from Thomas O. Moore to his cousin James Moore King.  Moore tells King of his recent acquisition of new slaves, and his desire to acquire additional slave hands, as well as the ravages of the Cholera in the Southern states.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1833</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">gc023</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cholera</term>
+               <term>Slaves</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc023a.small.jpg"/>
+            <opener>From <name type="person">
+                  <choice>
+                     <abbr>T</abbr>
+                     <expan>Thomas</expan>
+                  </choice>.O. Moore</name> 1833— <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name>
+                     <name type="place">Murfreesboro</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="top right of envelope">50</add>
+               <add place="top left of envelope">
+                  <name type="place">Fayetteville <choice>
+                        <abbr>N.C</abbr>
+                        <expan>North Carolina</expan>
+                     </choice>
+                  </name>. <choice>
+                     <abbr>Jul</abbr>
+                     <expan>July</expan>
+                  </choice> 1833</add>
+               <add place="bottom left of envelope">(cholera) </add>
+               <add place="bottom left corner of envelope">Mail</add>
+               <pb n="2" facs="gc023b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Fayetteville </name>
+                  </addrLine>
+               </address>
+               <date when="1833-07-26">26th July 1833</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>I read your esteemed favor some time since but have been so busily engaged in riding about in search of negroes that I have not had the leisure to do myself the pleasure of answering it before.  negroes are remarkably scarce particularly such as will suit me, I have bought four men at $500 each two women a boy and girl &amp; three children and expect a man to return this evening who left some days since to purchase for me, I expect to take on for myself twenty and twelve or fourteen for uncle Walter.  I am truly sorry to see in the papers the dreadful ravages of the cholera in <name type="place">Kentucky</name> &amp; <name type="place">Tennessee</name> both of which I should have thought would have been exempt from it, but I am convinced that none will be unless it is the high pine hills if they are.  I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a letter from <name type="person">
+                  <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice> Heynson</name> of <name type="place">
+                  <choice>
+                     <abbr>Alex.d</abbr>
+                     <expan>Alexandria</expan>
+                  </choice>
+               </name> yesterday who states the cholera was disappearing in our Parish though it had killed a great many negroes, he had escaped himself also uncle W. it had been on plantations above &amp; below adjoining me but so far had not attacked my place.  John had been sick with the fever but was getting well.  many crops have been thrown away, mine was good</p>
+            <pb n="3" facs="gc023c.small.jpg"/>
+            <p>I shall leave in a few days for the <name type="place">White Sulphur springs Virginia</name> and return by the 20th or 25th August &amp; leave here for home in six or eight days afterwards I shall not come through <name type="place">Tennessee</name>  unless your country &amp; the <name type="place">Mississippi</name> are <choice>
+                  <orig>entirly</orig>
+                  <reg>entirely</reg>
+               </choice> clear of <choice>
+                  <orig>cholerea</orig>
+                  <reg>cholera</reg>
+               </choice>, if I can find a young man in whom I can confide, I will endeavor to call myself so as to intersect my <choice>
+                  <orig>negroes</orig>
+                  <reg>Negroes</reg>
+               </choice> in <name type="place">Alabama</name>
+            </p>
+            <p>I wish you would endeavor to get father to move to <name type="place">Tennessee</name> as I think he is half way in the notion write to him often about it, they are all well crops poor as usual my love to cousin Martha &amp; <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> (in haste</p>
+            <closer>Your <choice>
+                  <abbr>aff.te</abbr>
+                  <expan>affectionate</expan>
+               </choice> relative <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Tho.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> O. Moor</name>
+               </signed>
+               <add place="bottom of page">P.S. I enclose you a fifty dollar bill for Walter please hand it to him and request him to write to John that he had <choice>
+                     <abbr>red</abbr>
+                     <expan>received</expan>
+                  </choice> that amount <choice>
+                     <abbr>T O M</abbr>
+                     <expan>Thomas O. Moore</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

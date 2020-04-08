@@ -1,0 +1,216 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc063">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal] 1787 Aug. [to] The Sheriff of Greene County / State of Franklin : a machine readable transcription of an image</title>
+            <author>State of Franklin</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc063</idno>
+            <idno>OCLC: 51314887</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal] 1787 Aug. [to] The Sheriff of Greene County / State of Franklin</title>
+               <author>State of Franklin</author>
+               <date when="1787-08">August 1787</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a legal writ to the sheriff of Greene County, in the state of Franklin (Tennessee) dated 1787. The writ commands that the tenements of Abraham Purnut pay  eight pounds, four shillings, and eleven pence. This amount was awarded to Charles Hays  in the court of pleas.</note>
+               <note type="collection" anchored="true">State of Franklin</note>
+               <note type="box" anchored="true">MS-1463</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc063</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n85389264"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Franklin (State)</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc063a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of <name type="place">Franklin</name> }</addrLine>
+                  <addrLine>To the Sheriff of <name type="place">Greene County</name>
+                     <choice>
+                        <abbr>&amp;c</abbr>
+                        <expan>et cetera</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>We Command you that of the Good &amp; <unclear>Challels</unclear> Land, and <unclear>Tinements</unclear> of Abraham <unclear>Purnut</unclear> in your<unclear>Baclenich</unclear> you Cause to be made the sum of eight pounds, five shillings and eleven pence <unclear>Beredes</unclear> Sheriffs endorsed <unclear>?</unclear>. Which <name>Charles Hays</name> lately in our court of pleas <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> recovered against for <unclear>Court</unclear> costs and charges <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> Where if he is convicted <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> and have you the <unclear>send</unclear> money ready and render at our next court of pleas <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> he beheld for the county of <name type="place">Greene</name> at <name type="place">Greeneville</name> on the second Monday in <date when="--11">November</date> next — Together with this <unclear>non</unclear> witness <name type="person">Daniel Kennedy Clark</name> of our said court at office the second Monday in <date>August AD 1787</date> &amp; <unclear>Tavelfmr???</unclear> year of <name type="person">American</name>
+               <add>
+                  <unclear>Indifirndc</unclear>
+               </add>
+            </p>
+            <closer>Kennedy C.G.C.</closer>
+         </div>
+      </body>
+      <pb n="2" facs="sc063b.small.jpg"/>
+      <back>
+         <div subtype="1" type="letter">
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Recovered By Jury</cell>
+                     <cell role="data" rows="1" cols="1">6"9"0</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>K. Fa.</unclear>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Leading process</cell>
+                     <cell role="data" rows="1" cols="1">7"6</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Chas</abbr>
+                           <expan>Charles</expan>
+                        </choice> Hays</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">One Continuance</cell>
+                     <cell role="data" rows="1" cols="1">2"3</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>ditto marks</unclear>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Determination of Suit</cell>
+                     <cell role="data" rows="1" cols="1">5"7 ½</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Abram</abbr>
+                           <expan>Abraham</expan>
+                        </choice> Purnut</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Attorney fee</cell>
+                     <cell role="data" rows="1" cols="1">18"9</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>Cibt</unclear>
+                        <choice>
+                           <abbr>&amp;c</abbr>
+                           <expan>et cetera</expan>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">This <unclear>encicition</unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">2"9½</cell>
+                     <cell role="data" rows="1" cols="1">To</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">8"5"11</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Sheriff Arrest <choice>
+                           <abbr>&amp;c</abbr>
+                           <expan>et cetera</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">7"6</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <date when="1787-11">
+                           <choice>
+                              <abbr>Nov</abbr>
+                              <expan>November</expan>
+                           </choice> Term 1787</date>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Tryal</orig>
+                           <reg>Trial</reg>
+                        </choice> by Jury</cell>
+                     <cell role="data" rows="1" cols="1">3"9</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear> 23d Aug</unclear>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Total</cell>
+                     <cell role="data" rows="1" cols="1">£8"17"2</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Received of the above Amount in Cash</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>7..10.0</unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">balance due</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>1..7.2</unclear>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

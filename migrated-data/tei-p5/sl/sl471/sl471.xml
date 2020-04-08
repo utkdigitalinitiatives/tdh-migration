@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl471">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1796 Apr. 10, Tellico Blockhouse [Tennessee, to] David Henley, Knoxville [Tennessee] / John McKee: a machine readable transcription of an image</title>
+            <author>McKee, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl471</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1796 Apr. 10, Tellico Blockhouse [Tennessee, to] David Henley, Knoxville [Tennessee] / John McKee</title>
+               <author>McKee, John</author>
+               <date when="1796-04-10">April 10, 1796</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from John McKee to David Henley, dated April 10, 1796. McKee quotes a letter from Governor William Blount stating that his requests for money should be directed to Henley. He  is an agent for the War Department. One expected expense is buying whiskey for Cherokee Chiefs.</note>
+               <note type="collection" anchored="true">David Henley</note>
+               <note type="box" anchored="true">Collection</note>
+               <note type="folder" anchored="true">23</note>
+               <note type="document" anchored="true">sl471</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>Blount, William, 1749-1800</term>
+               <term>Cherokee Indians -- Government policy</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n88244913"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McKee, John, 1771-1832</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl471a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Tellico Blockhouse</name>
+                     <date>April 10th 1796</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>A letter from <name>Governor Blount</name> to me of the 10th Instant contains this paragraph "Contingent <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> will unavoidably occur "such as the the public good will require to  be submitted to and in "such cases you will make them known to the Agent of the Depart"ment of war whose duty it will be to provide accordingly." One of the principal articles of expence will be provisions and some whiskey for such chiefs or other <name>cherokee</name>s as may visit me  at this place on public business the uncertainty of the time of such visits and the distance from this to <name>Knoxville</name> will point out the necessity of some person being here whose duty it will be to furnish such supplies to my order as may be indispensably necessary__  Will you oblige me with a line on this subject?</p>
+            <closer>
+               <salute>I am with due respect <lb/> Your obedient Servant</salute>
+               <signed>
+                  <name>John McKee</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col D.</abbr>
+                        <expan>Colonel David</expan>
+                     </choice> Henley</addrLine>
+                  <addrLine>Agent <choice>
+                        <abbr>Dept</abbr>
+                        <expan>Department</expan>
+                     </choice> War</addrLine>
+               </address>
+               <pb n="2" facs="sl471b.small.jpg"/>
+               <address>
+                  <addrLine>Colo <name>David Henley</name>
+                  </addrLine>
+                  <addrLine>Agent Department of  War</addrLine>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <add>
+                  <name>Mr Byers</name>
+               </add>
+               <add>Tellico <lb/> April 10 1795 <lb/> John McKee</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

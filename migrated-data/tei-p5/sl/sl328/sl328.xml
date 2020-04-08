@@ -1,0 +1,109 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl328">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Mar. 14, Washington [City, D. C.] [to Adam Fergusson] / Andrew Ewing   : a machine readable transcription of an image</title>
+            <author>Ewing, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl328</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Mar. 14, Washington [City, D. C.] [to Adam Fergusson] / Andrew Ewing</title>
+               <author>Ewing, Andrew</author>
+               <date when="1850-03-14">March 14, 1850</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from Andrew Ewing dated March 14, 1850. It is probably to Adam Fergusson. Ewing writes about pension claims and a decision by Mr. Edwards and Mr. Legare about them. He also mentions that the slavery question has not yet been resolved.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b3</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl328</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War pensions</term>
+               <term>Slavery</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2001010974"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ewing, Andrew, 1813-1864</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl328a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1850-03-14">March 14 1850</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Your last letter enclosing certificate of Clerk of Court as to his search and inability to find license bond of <name type="person">Mr &amp; Mrs Kendricks</name> with accompanying letter was duly received and the Papers immediately enclosed to <name type="person">Mr Edwards</name> with my request for prompt action to which he has not yet answered</p>
+            <p>I received last night from Mr Edwards the enclosed letter and copy of Pension Laws with his decision as to the application of the Heirs of <name type="person">Mrs Brent</name>. as the Pension Laws were too bulky to be forwarded to you I have extracted the opinion of <name type="person">Mr Legare</name> referred to in the Letter of Mr <choice>
+                  <abbr>E</abbr>
+                  <expan>Edwards</expan>
+               </choice> and enclosed it to you with his letter</p>
+            <p>I am sorry for his decision. but it cannot be prevented —</p>
+            <p>No prospect of any settlement of slavery question as yet You hear much of compromise. but all is yet dark and dangerous</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yrs</abbr>
+                     <expan>Yours</expan>
+                  </choice> Respectfully</salute>
+               <signed>
+                  <name type="person">Andrew Ewing</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

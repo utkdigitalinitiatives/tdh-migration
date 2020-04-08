@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Dec. 25 [to] Mr. Alexander D. Coffee, Nashville, Tennessee / Andrew Jackson Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um009</idno>
+            <idno>OCLC: 50198209</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Dec. 25 [to] Mr. Alexander D. Coffee, Nashville, Tennessee / Andrew Jackson Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1839-12-25">December 25, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 25, 1839 to Alexander Coffee from his brother Andrew Jackson Coffee who writes of Christmas, their family, and a recent surveying trip. </note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903, MS27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">um009</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- History</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um009a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. Alexander D. Coffee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">University of Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="above address">postmark</add>
+               <pb n="2" facs="um009b.small.jpg"/>
+               <address>
+                  <addrLine>Hickory Hill</addrLine>
+               </address>
+               <date when="1839-12-25">
+                  <choice>
+                     <abbr>Dec.</abbr>
+                     <expan>December</expan>
+                  </choice> 25th 1839</date>
+               <salute>
+                  <choice>
+                     <abbr>Dr </abbr>
+                     <expan>Dear</expan>
+                  </choice>Alex</salute>
+            </opener>
+            <p>Christmas Gifts! &amp; so on, if you please I arrived here last Saturday and am quite happy to find myself here again, All our friends and relations are well except Andrew H's little Boy Coffee who is quite sick with cold and several ails beside but I hope he will soon be well. Andrew and myself will farm it together this coming year &amp; in that time I will be able to buy a farm some where, or other. I succeeded very well indeed in my trip of Surveying and will make several hundred dollars by it. There is no news that I can hear of so I will only add at your requests made to Ma some time since. I send you ten dollars, which I hope will <emph>amply</emph> supply you, All unite in love to you and relations and wish you a speedy and honorable end of your <choice>
+                  <orig>Colegiate</orig>
+                  <reg>Collegiate</reg>
+               </choice> career, until I see you or write to you again</p>
+            <closer>
+               <salute>Farewell, Your affectionate Brother</salute>
+               <signed>
+                  <emph>
+                     <name type="person">
+                        <choice>
+                           <abbr>A. J.</abbr>
+                           <expan>Andrew Jackson</expan>
+                        </choice> Coffee</name>
+                  </emph>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

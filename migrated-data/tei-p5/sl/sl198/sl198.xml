@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl198">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 March 3, Dresden, Tenn[essee] [to] John Overton, Nashville, Tenn[essee]    / John Charlton : a machine readable transcription of an image</title>
+            <author>Charlton, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl198</idno>
+            <idno>OCLC: 51196706</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 March 3, Dresden, Tenn[essee]  [to] John Overton, Nashville, Tenn[essee]    / John Charlton</title>
+               <author>Charlton, John</author>
+               <date when="1828-03-03">March 3, 1828</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter, dated March 3, 1828 to John Overton from John Charlton concerning land that Charlton had purchased for Overton in Tennessee.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl198</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Real property</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Charlton, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl198a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Dresden</name>
+                  </addrLine>
+               </address>
+               <del type="overstrike">February</del>
+               <date when="1828-03-03"> March 3rd 1828</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Owing to several failures in our mail yours of the <date when="1828-01-26">26th <choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice>
+               </date> did not come to hand until a few days ago —</p>
+            <p>Your tract <choice>
+                  <abbr>no.</abbr>
+                  <expan>number</expan>
+               </choice> 321 has been regularly reported and I shall certainly as our land sales next fall purchase it in for you-for the next two years the land business of this county will be entirely under my contract — I am acting as deputy Sheriff &amp; the collection of the lanes and all business relating to the lands in the county will be done by me — I have not yet taken deeds for the lands which I purchased for you and myself in 1826 — I should have done it before this time if I had known the dates of the papers in which they were advertised — you have these papers the <name type="place">Nashville</name>Gazette &amp; <name type="place">Jackson</name> Gazette in which they were published you will please be so good as to write me as early as convenient and give me the dates of the papers &amp; I will proceed forthwith to take the deeds and have them recorded —</p>
+            <p>I shall be in Nashville some time in April next when I hope to see you &amp; we will compare our accounts &amp; see how they stand —</p>
+            <closer>
+               <salute>very respectfully your <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno,,</abbr>
+                        <expan>John</expan>
+                     </choice>  Charlton</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Jno. Overton Esq</abbr>
+                        <expan>John Overton Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl198b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">John Overton</name> Esq.</addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="above recipients name">
+                  <address>
+                     <addrLine>Dresden <choice>
+                           <abbr>Tn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                  </address>March 3rd</add>
+               <add place="right margin">
+                  <name type="person">John Charlton <choice>
+                        <abbr>Mar</abbr>
+                        <expan>March</expan>
+                     </choice> 3rd 1828</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

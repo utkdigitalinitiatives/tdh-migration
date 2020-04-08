@@ -1,0 +1,84 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Engraving of the likeness of] Lewis Cass, [Secretary of War from 1831-1836] / engraved by P.[?] B. Welch : a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch092</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Engraving of the likeness of] Lewis Cass, [Secretary of War from 1831-1836] / engraved by P.[?] B. Welch</title>
+               <extent>1p</extent>
+               <date when="1835">ca. 1835</date>
+               <note type="summary" anchored="true">An engraving of the likeness of Lewis Cass, Secretary of War from 1831-1836, by P.(?) B. Welch. Cass was appointed Secretary of War by President Andrew Jackson and served in that position just prior to the removal of the Cherokees.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">18</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">ch092</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <pb n="1" facs="ch092.small.jpg"/>
+      <body>
+         <div subtype="1" type="letter">
+            <p>
+               <figure>
+                  <head>Engraved by <unclear>P</unclear>.B. Welch from a Drawing by J.B. <unclear/>
+                     <lb/>
+                     <name type="person">LEWIS CASS</name>.<lb/>
+                     <name type="person">Lewis Cass</name>
+                     <lb/>
+                     <unclear/>
+                  </head>
+                  <figDesc>An engraving of the likeness of Lewis Cass</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

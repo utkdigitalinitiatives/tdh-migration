@@ -1,0 +1,109 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl174">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]    1831 June 1 Near Woodville [to] Joseph Brown / William Brown : a machine readable transcription of an image</title>
+            <author>Brown, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl174</idno>
+            <idno>OCLC: 51165358</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter]    1831 June 1 Near Woodville [to] Joseph Brown / William Brown</title>
+               <author>Brown, William </author>
+               <date when="1831-06-01">June 1, 1831</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a letter dated June 1, 1831 to Joseph Brown from his brother William. William writes of crop losses due to drought and his opinion on whether or not the nullification issue is worth civil war.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">144-147</note>
+               <note type="document" anchored="true">sl174</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Crop losses</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brown, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl174a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Near <name type="place">Woodville</name>
+                     <date when="1831-06-01">June the 1st 1831</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Brother</salute> ,</opener>
+            <p>After a long silence I once more address you a few lines to inform you that myself &amp; family &amp; Brother George and his family are at this time enjoying the blessing of common health, &amp; hope that these few lines may find you &amp; your family and all our family connections in your part of country enjoying the same blessing. The last summer was very dry in this country &amp; corn crops were not generally good but the late rains made generally very good crops of cotton. The last winter was the severest that I have seen in this country &amp; the  early part of spring very wet &amp; we are now suffering for the want of <del type="overstrike">the</del> rain. I have nothing to say on political subjects only that our State does not go with <name type="person">South Carolina</name> in its nullifying policy; although most of our Citizens think the tariff of the <name type="person">United States</name> is oppression in the Southern section of the Union, but they still think it a small evil compared to civil war with its accompanying horrors. Please give our most affectionate respects to my aged Mother, <choice>
+                  <orig>Brothir</orig>
+                  <reg>Brother</reg>
+               </choice> &amp; <choice>
+                  <orig>Sistir</orig>
+                  <reg>Sister</reg>
+               </choice> Anderson &amp; accept them for yourself &amp; family, remember us affectionately to <name type="person">Aunt Duffill</name> and all our relatives in your section of country. Please to write as often as convenient you know the difficulty that I <choice>
+                  <orig>labour</orig>
+                  <reg>labor</reg>
+               </choice> under in writing from my hand being crippled, but you could write frequently.</p>
+            <closer>
+               <salute>I remain with respect your affectionate brother</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Brown</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

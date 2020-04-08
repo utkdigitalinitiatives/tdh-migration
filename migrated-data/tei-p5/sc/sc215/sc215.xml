@@ -1,0 +1,193 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc215">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1815 May 13, Columbia [Tennessee, to] A[ndrew] Jackson / Edward Mitchell : a machine readable transcription of an image</title>
+            <author> Mitchell, Edward</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc215</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1815 May 13, Columbia [Tennessee, to] A[ndrew] Jackson / Edward Mitchell</title>
+               <author> Mitchell, Edward</author>
+               <date when="1815-05-13"> 
+			 May 13, 1815</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter from Edward Mitchell to Major General Andrew Jackson, dated May 13, 1815. Mitchell claims that some Chickasaws stole items from his traveling party near Bear Creek.</note>
+               <note type="collection" anchored="true">Edward Mitchell Papers</note>
+               <note type="box" anchored="true">MS 2041</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc215</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Chickasaw Indians  -- Claims against</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Mitchell, Edward</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc215a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <orig>Collumbia</orig>
+                           <reg>Columbia</reg>
+                        </choice>
+                     </name>
+                     <date>13th May 1815</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>The day that I <choice>
+                  <abbr>pasd</abbr>
+                  <expan>passed</expan>
+               </choice>
+               <choice>
+                  <orig>bare</orig>
+                  <reg>bear</reg>
+               </choice> creek Say the 10 the Indians of that Village <choice>
+                  <abbr>robd</abbr>
+                  <expan>robbed</expan>
+               </choice> two of Company of <add>a</add> hat &amp; a pistol &amp; <choice>
+                  <orig>Snapt</orig>
+                  <reg>Snapped</reg>
+               </choice> the pistol at one of mens <choice>
+                  <orig>brests</orig>
+                  <reg>breasts</reg>
+               </choice> then <choice>
+                  <abbr>Snatchd</abbr>
+                  <expan>Snatched</expan>
+               </choice> a hat <choice>
+                  <orig>of </orig>
+                  <reg>off</reg>
+               </choice> a negro boys head &amp; Carried it of the men came to me <choice>
+                  <orig>Verry Mutch</orig>
+                  <reg>very much</reg>
+               </choice>
+               <choice>
+                  <abbr>alarmd</abbr>
+                  <expan>alarmed</expan>
+               </choice> I <choice>
+                  <abbr>talkd</abbr>
+                  <expan>talked</expan>
+               </choice> to <unclear>send word he sd</unclear> that he would have things returned <choice>
+                  <orig>whitch</orig>
+                  <reg>which</reg>
+               </choice> was done by their paying Six <unclear>bit</unclear> if <unclear>
+                  <choice>
+                     <orig>Sartch</orig>
+                     <reg>such</reg>
+                  </choice> Crimes</unclear> is these not noticed what will be done next the <unclear>gods <choice>
+                     <orig>oneley</orig>
+                     <reg>only</reg>
+                  </choice>
+               </unclear> knows you will oblige the travelling by having these things taken notice of by Government I shall notify <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Cocke</name> by the first <choice>
+                  <orig>males</orig>
+                  <reg>mails</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>your <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Edward Mitchell</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Maj Genl</abbr>
+                        <expan>Major General</expan>
+                     </choice>
+                     <name>
+                        <choice>
+                           <abbr>A</abbr>
+                           <expan>Andrew</expan>
+                        </choice> Jackson</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sc215b.small.jpg"/>
+               <add>
+                  <choice>
+                     <orig>E</orig>
+                     <reg>Edward</reg>
+                  </choice> Mitchels <lb/> Statement of <choice>
+                     <orig>Cheke  -saw</orig>
+                     <reg>Chickasaw</reg>
+                  </choice> Indians <unclear>assult</unclear>
+                  <lb/> Bear Creek__ <lb/> 13 May 1815</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

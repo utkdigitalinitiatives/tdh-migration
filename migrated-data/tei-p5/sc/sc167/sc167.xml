@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc167">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 21 Feb. Knoxville [to] David Henl[e]y / John Sevier : a machine readable transcription of an image</title>
+            <author> Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc167</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 21 Feb. Knoxville [to] David Henl[e]y / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-02-21">February 21, 1797</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by John Sevier requesting forty dollars in payment for a house he built at Southwest Point. The letter was written to David Henley in 1797.</note>
+               <note type="collection" anchored="true">John Sevier Letters</note>
+               <note type="box" anchored="true">MS-368</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc167</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc167a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <date>21 February 1797</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>If <choice>
+                  <orig>conveinant</orig>
+                  <reg>convenient</reg>
+               </choice> would be glad to receive the forty dollars I paid for building the home at <name>
+                  <choice>
+                     <abbr>S.W</abbr>
+                     <expan>South West</expan>
+                  </choice>. Point</name>. You are best acquainted with the form in which receipts ought to be drawn. Any one that you might think proper to send for the purpose will be <choice>
+                  <orig>agreable</orig>
+                  <reg>agreeable</reg>
+               </choice> to me_</p>
+            <closer>
+               <salute>I have the honor to be <lb/> With esteem &amp; respect <lb/> your <choice>
+                     <abbr>obet. servt.</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>. <choice>
+                        <orig>Henly</orig>
+                        <reg>Henley</reg>
+                     </choice>
+                  </name>
+               </add>
+               <pb n="2" facs="sc167b.small.jpg"/>
+               <add>
+                  <name>Colonel Henly</name>
+               </add>
+               <add>
+                  <address>
+                     <addrLine>Knoxville</addrLine>
+                  </address>
+                  <date>21 <choice>
+                        <abbr>Feby </abbr>
+                        <expan>February</expan>
+                     </choice>1797</date>
+                  <name>John <choice>
+                        <orig>Seveir</orig>
+                        <reg>Sevier</reg>
+                     </choice>
+                  </name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

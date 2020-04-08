@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl068">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Feb. 9, Woodbery [Woodbury], [Tennessee] [to] Miss Martha Burger / Susan Burger : a machine readable transcription of an image</title>
+            <author>Burger, Susan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl068</idno>
+            <idno>OCLC: 50079148</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1844 Feb. 9, Woodbery [Woodbury], [Tennessee] [to] Miss Martha Burger / Susan Burger</title>
+               <author>Burger, Susan</author>
+               <date when="1844-02-09">February 9, 1844</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Susan Burger to her cousin, Martha Burger, on February 9, 1844. In the letter, Susan tells Martha what subjects she is studying in school and recommends that she  attend school also.</note>
+               <note type="collection" anchored="true">Reams Collection Correspondence</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl068</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Schools</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Burger, Susan</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl068a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Woodbery</orig>
+                           <reg>Woodbury</reg>
+                        </choice>
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1844-02-09">9th of <choice>
+                           <orig>Febuary</orig>
+                           <reg>February</reg>
+                        </choice> 1844</date>
+                  </addrLine>
+               </address>
+               <salute>Dear cousin</salute>
+            </opener>
+            <p>I take the opportunity of writing to you a few lines that we are all well at this time hoping that <choice>
+                  <orig>thes</orig>
+                  <reg>these</reg>
+               </choice> few lines will find you in the same state of health. I am going to school at this to <name type="person">Mr  <unclear>Ress</unclear>
+               </name> I am studying Grammar Philosophy Astronomy &amp; <choice>
+                  <orig>Arrithmatick</orig>
+                  <reg>Arithmetic</reg>
+               </choice> I want to you to come and go to school if you cannot come to school I <add place="supralinear">
+                  <choice>
+                     <orig>wat</orig>
+                     <reg>want</reg>
+                  </choice>
+               </add> you to <add place="infralinear">come</add> and see me very soon <name type="person">Elizabeth Sullivan</name> sends <choice>
+                  <orig>ther</orig>
+                  <reg>her</reg>
+               </choice> best love and respects to you</p>
+            <p>I want you to write to me as soon as you can</p>
+            <p>I want you to tell <del type="overstrike">doct</del>
+               <name type="person">
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Raggling</name> that I send my best love and respects to him.</p>
+            <closer>
+               <signed>
+                  <name type="person">Susan Burger</name>
+               </signed>
+               <pb n="2" facs="sl068b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Woobery</orig>
+                        <reg>Woodbury</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Miss Martha Burger</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

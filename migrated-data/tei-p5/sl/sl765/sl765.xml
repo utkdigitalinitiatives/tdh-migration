@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl765">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1815 Aug. 12, Nashville [Tennessee, to] H.L. White, Knoxville [Tennessee] / Willie Blount : a machine readable transcription of an image</title>
+            <author>Blount, Willie</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl765</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1815 Aug. 12, Nashville [Tennessee, to] H.L. White, Knoxville [Tennessee] / Willie Blount</title>
+               <author> Blount, Willie</author>
+               <date when="1815-10-12">August 12, 1815</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor Willie Blount to H.L. White, dated August 12, 1815. White is the president of the state bank in Knoxville. The letter refers to the suspension of specie payments by banks due to the War of 1812.</note>
+               <note type="collection" anchored="true">Governor William Blount Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl765</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Banks and banking</term>
+               <term>Politics, society, and economy</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98009970"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, Willie, 1768-1835</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl765a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>
+                        <choice>
+                           <abbr>Augt</abbr>
+                           <expan>August</expan>
+                        </choice> 12th 1815</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>yours of the <date>20th July</date> came to hand in the usual course of Mails after date but owing to indisposition it has not been in my power to acknowledge the receipt until now</p>
+            <p>The measure adopted by the Directors of the State Bank to suspend for the present payments in specie is so correct under the existing State of things through out the world that all well disposed and well informed men will approve it but more especially on Knowing the reasons assigned__ The measure not only meets my approbation but entitles the Directors to my thanks, given as the Executive of the State, for their close attention to the interest of the State in that Bank which I ask the favor of you Sir to present in the highest terms of approbation of their conduct__ </p>
+            <p>The Reasons by you assigned in explanation <pb n="2" facs="sl765b.small.jpg"/> of the manner in which the Business has been conducted and likewise the reasons and information by which the Directors have been governed in relation to the adopted measure are entirely satisfactory and conclusive__ Information of that measure or a copy of the correspondence as you may prefer will be laid before the General Assembly.</p>
+            <p>I have the honor to be with the highest respect and esteem</p>
+            <closer>
+               <salute>your <choice>
+                     <abbr>obt</abbr>
+                     <expan>obedient</expan>
+                  </choice> servant</salute>
+               <signed>
+                  <name>Willie Blount</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>H L White</name>
+                  </addrLine>
+                  <addrLine>President of the State Bank</addrLine>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <pb n="3" facs="sl765c.small.jpg"/>
+               <add>Proceedings of the <lb/> State Bank <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

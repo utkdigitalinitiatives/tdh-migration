@@ -1,0 +1,347 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> An abstract of disbursement on account of expenses of the War Department, 1809 Apr. 1 - 1809 Oct. 29: a machine-readable transcription</title>
+            <author>Meigs, Return Jonathan, 1740-1823</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0007</idno>
+            <idno>OCLC: 44921622</idno>
+            <availability status="restricted">
+               <p>This work is the property of The University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> An abstract of disbursement on account of expenses of the War Department, 1809 Apr. 1 - 1809 Oct. 29</title>
+               <author>Meigs, Return Jonathan, 1740-1823</author>
+               <date when="1809-04-01">April 1, 1809</date>
+               <date when="1809-10-29">October 29,1809</date>
+               <extent>2p</extent>
+               <note type="summary">This document is an abstract of the funds disbursed in relation to expenses incurred (at the Cherokee Agency ?) from April 1, 1809 through October 29, 1809, compiled by Return J. Meigs, U.S. Agent to the Cherokees, for the War Department.  The expenses are itemized to include date, person by whom expense incurred, brief description of expense, and total cost.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box">1</note>
+               <note type="folder">7</note>
+               <note type="document">pa0007</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Expenses accounts</term>
+               <term>Cherokee Indians</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0007a.small.jpg"/>
+            <p>
+               <table>
+                  <head>Abstract of disbursements made by <name type="person">Return J. Meigs</name> Agent for the War Department in <name type="place">Tennessee</name> on account of Incidental  Contingent <choice>
+                        <orig>expences</orig>
+                        <reg>expenses</reg>
+                     </choice> of the War Department from the <date when="1809-04-01">1st of April 1809</date> to the <gap agent="damage"/>
+                  </head>
+                  <row>
+                     <cell>dates of payments</cell>
+                     <cell>No.</cell>
+                     <cell>Payments to whom made</cell>
+                     <cell>Nature of disbursements</cell>
+                     <cell>Amount</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-04-01">1809 April 1st</date>
+                     </cell>
+                     <cell rend="right">1</cell>
+                     <cell>
+                        <name type="person">Timothy Meigs</name> [Clerk]</cell>
+                     <cell>Salary for the 4th quarter of <date when="1808">1808</date>  1st quarter of the year <date when="1809">1809</date>
+                     </cell>
+                     <cell rend="right">250.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7th</cell>
+                     <cell rend="right">2</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Geo:</abbr>
+                              <expan>George</expan>
+                           </choice> Willson</name> [printer</cell>
+                     <cell>for printing <choice>
+                           <orig>inlistments</orig>
+                           <reg>enlistments</reg>
+                        </choice>  Muster Rolls for <name type="person">Capt. Vandyke</name>s Company</cell>
+                     <cell rend="right">13.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9th</cell>
+                     <cell rend="right">3</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Revd.</abbr>
+                              <expan>Reverend</expan>
+                           </choice> G. Blackburn</name>
+                     </cell>
+                     <cell>Money appropriated for schools in the <name>Cherokee Nation</name>
+                     </cell>
+                     <cell rend="right">150.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>13th</cell>
+                     <cell rend="right">4</cell>
+                     <cell>
+                        <name type="person"> John Purdon</name>
+                     </cell>
+                     <cell>For Draining off the Stagnant waters in front of Agency house  Factory</cell>
+                     <cell rend="right">47.25</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-06-14">June 14</date>
+                     </cell>
+                     <cell rend="right">5</cell>
+                     <cell>
+                        <name type="person">Jacob Harman</name>
+                     </cell>
+                     <cell>Money paid for corn for the Military Agency at this Garrison   <name type="place">Highwassee</name>
+                     </cell>
+                     <cell rend="right">119.25</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-08-06">
+                           <choice>
+                              <abbr>Augst</abbr>
+                              <expan>August</expan>
+                           </choice> 6</date>
+                     </cell>
+                     <cell rend="right">6</cell>
+                     <cell>
+                        <name type="person">J.S. McMeans</name>
+                     </cell>
+                     <cell>An Attorney employed in a magistrates Court in prosecution of <name type="person">Mahalalel Drain</name> charged with the killing of a <name type="person">Cherokee</name>
+                     </cell>
+                     <cell rend="right">10.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <del type="overstrike">" 10th</del>
+                     </cell>
+                     <cell rend="right">
+                        <del type="overstrike">7</del>
+                     </cell>
+                     <cell>
+                        <del type="overstrike">
+                           <name type="person">Wm Jones</name>/ by</del>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-08-10"> " 10th</date>
+                     </cell>
+                     <cell rend="right">7</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm.</abbr>
+                              <expan>William</expan>
+                           </choice> Jones</name> by <choice>
+                           <abbr>atty.</abbr>
+                           <expan>attorney</expan>
+                        </choice>
+                     </cell>
+                     <cell>For services rendered as Interpreter in taking Statistical  account of the <name>Cherokee Nation</name>
+                     </cell>
+                     <cell rend="right">64.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1909-08-11"> " 11th</date>
+                     </cell>
+                     <cell rend="right">8</cell>
+                     <cell>
+                        <name type="person">George Smith</name>
+                     </cell>
+                     <cell>For his services as superintendent of public works at this Garrison <name type="place">Highwassee</name>
+                        <add place="supralinear">for Military agency</add>
+                     </cell>
+                     <cell rend="right">287.50</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-08-09"> "  28th</date>
+                     </cell>
+                     <cell rend="right">9</cell>
+                     <cell>
+                        <name type="person">
+                           <choice>
+                              <abbr> Revd. Jno.</abbr>
+                              <expan>Reverend John</expan>
+                           </choice> Gambold</name>
+                     </cell>
+                     <cell>Money appropriated for encouragement of schools in the <name>Cherokee Nation</name>
+                     </cell>
+                     <cell rend="right">100.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-10-01">
+                           <choice>
+                              <abbr>Octor.</abbr>
+                              <expan>October</expan>
+                           </choice> 1</date>
+                     </cell>
+                     <cell rend="right">10</cell>
+                     <cell>
+                        <name type="person">Timothy Meigs</name> (clerk)</cell>
+                     <cell>Salary for the 2  3 quarters of the year <date when="1809">1809</date>
+                     </cell>
+                     <cell rend="right">250.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-10-09">9th</date>
+                     </cell>
+                     <cell rend="right">11</cell>
+                     <cell>
+                        <name type="person">James Park</name>
+                     </cell>
+                     <cell>For 1 Ream of Paper</cell>
+                     <cell rend="right">6.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">1297.00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-10-19">19th</date>
+                     </cell>
+                     <cell rend="right">12</cell>
+                     <cell>
+                        <name type="person">Stephen Haynes</name>
+                     </cell>
+                     <cell>
+                        <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice> attending the trial of <name type="person">
+                           <unclear>Mahalalel</unclear> Drain</name> in the Circuit court of the <name type="place">U States</name>. Charged with killing a <name type="person">Cherokee</name>
+                     </cell>
+                     <cell rend="right">12.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1809-10-29">29</date>
+                     </cell>
+                     <cell rend="right">13</cell>
+                     <cell>
+                        <name type="person">William Payne</name>
+                     </cell>
+                     <cell>For Stationary and other articles furnished</cell>
+                     <cell rend="right">28.25</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell rend="right">14</cell>
+                     <cell>
+                        <name type="person">Return J Meigs</name>
+                     </cell>
+                     <cell>For Salary Subsistence, forage  <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice>  Stated</cell>
+                     <cell rend="right">2209.88</cell>
+                     <cell rend="right">2250.13</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>$3547.13</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0007b.small.jpg"/>
+            <p>Abstract. <hi rend="b">B</hi> of incidental  contingent <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> for the war department commencing  <date when="1809-04-01">1st April</date>, ending <date when="1809-10-29">29th October 1809</date>
+               <lb/>
+               <hi>$3547.13</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

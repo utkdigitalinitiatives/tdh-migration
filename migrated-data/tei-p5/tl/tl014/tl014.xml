@@ -1,0 +1,96 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl014">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Map of U.S. states and territories to the edge of the Louisiana
+			 Territory showing Native American distribution, 1778: a machine-readable
+			 transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl014</idno>
+            <idno>OCLC: 47800969</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Map of U.S. states and territories to the edge of the
+				Louisiana Territory showing Native American distribution, 1778</title>
+               <date when="1778">1778</date>
+               <extent>1p</extent>
+               <note type="summary">This is a map of the States in 1778. State
+				boundaries, rivers, and Indian tribes living in the area at the time appear.
+				</note>
+               <note type="Collection"> Tennessee Historical Society</note>
+               <note type="Box">10</note>
+               <note type="Folder">MI</note>
+               <note type="Document">tl014</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maps</term>
+               <term>Indians of North America</term>
+               <term>United States--History--Revolution, 1775-1783</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl014a.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>Map of Southeastern United States; Indian tribes
+				  noted</figDesc>
+               </figure>
+               <add place="right, middle">
+                  <date when="1778">1778</date>(B)</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

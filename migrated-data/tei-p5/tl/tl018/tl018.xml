@@ -1,0 +1,386 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1814 Feb. 4, Fort Armstrong, [Alabama], [to] Colo[nel]
+			 R[eturn] J[onathan] Meigs / Gideon Morgan: a machine-readable transcription of
+			 an image</title>
+            <author>Morgan, Gideon</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl018</idno>
+            <idno>OCLC: 47808971</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1814 Feb. 4, Fort Armstrong, [Alabama], [to]
+				Colo[nel] R[eturn] J[onathan] Meigs / Gideon Morgan</title>
+               <author>Morgan, Gideon</author>
+               <date when="1814-02-04"> February 4, 1814</date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter written by Cherokee
+				Colonel Gideon Morgan to Colonel Return J. Meigs on February 4, 1814. The
+				letter is Morgan's account of a battle during the Creek War of 1813-1814, in
+				which General Andrew Jackson's American forces allied with the Cherokee against
+				Creek warriors. While it first appeared that the Creeks had the upper-hand in
+				the battle, Jackson's troops were able to maintain their ground and gain
+				victory in the end. Morgan was able to estimate the losses on both sides, and
+				he stated that afterwards the Cherokee were permitted to return to their homes.
+				Morgan, who was writing from Fort Armstrong, also reported that more troops and
+				Cherokees were expected to arrive at the fort, and he noted that at that time
+				provisions were scarce.</note>
+               <note type="Collection"> Morgan Papers</note>
+               <note type="Box">10</note>
+               <note type="Folder">n/a</note>
+               <note type="Document">tl018</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek War, 1813-1814</term>
+               <term>Creek War, 1813-1814--Participation, Indian</term>
+               <term>Cherokee Indians--Warfare</term>
+               <term>Jackson, Andrew</term>
+               <term>Alabama</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Morgan, Gideon</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl018a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Fort <choice>
+                           <orig>armstrong</orig>
+                           <reg>Armstrong</reg>
+                        </choice>
+                     </name>
+                     <date when="1814-02-04">
+                        <choice>
+                           <abbr>Febry</abbr>
+                           <expan>February</expan>
+                        </choice> 4th
+					 1814</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo.
+						R. J.</abbr>
+                           <expan>Colonel Return Jonathan</expan>
+                        </choice> Meigs</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>:</opener>
+            <p>a number of Cherokees having assembled at this place who
+			 <choice>
+                  <orig>appeard</orig>
+                  <reg>appeared</reg>
+               </choice> determined on an
+			 <unclear>emertion</unclear> into the 
+			 <name type="person">Creek</name> nation to form a Junction with 
+			 <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson </name>
+			 in his Late tour on 
+			 <name type="place">the <unclear>
+                     <choice>
+                        <orig>talapoosy</orig>
+                        <reg>Tallapoosa</reg>
+                     </choice>
+                  </unclear>
+               </name> I <choice>
+                  <orig>viwd</orig>
+                  <reg>viewed</reg>
+               </choice> the enterprise highly <choice>
+                  <orig>impropper</orig>
+                  <reg>improper</reg>
+               </choice> as being too weak to act by ourselves and 
+			 <name type="person">Jacksons</name> situation was but imperfectly
+			 known to us <choice>
+                  <orig>inded</orig>
+                  <reg>indeed</reg>
+               </choice> I had but Little hopes of Joining
+			 him as I then thought his object might be different from the prevailing opinion
+			 which I thought had obtained Circulation. the better to Secure his Real object.
+			 My <choice>
+                  <orig>intreaties</orig>
+                  <reg>entreaties</reg>
+               </choice> were without effect nothing Could
+			 Remove their Stubborn determination when I agreed to accompany them we Left
+			 this on the 
+			 <date when="--01-23">23rd 
+				<choice>
+                     <abbr>Janry</abbr>
+                     <expan>January</expan>
+                  </choice>
+               </date> and directed our Course
+			 for the 
+			 <name type="place">Hillabees</name> but on our arrival at the fork of
+			 the path which Leads to the 
+			 <name type="place">Hillabees</name> and 
+			 <name type="place">Chinabees</name> fort of friendly 
+			 <name type="person">Creeks</name> on the <unclear>Choctaw
+			 Coches</unclear> they Changed their <choice>
+                  <orig>Rout</orig>
+                  <reg>Route</reg>
+               </choice> to fall in
+			 the Rear of 
+			 <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name>
+			 on our arrival at the fort we found from the Relation of the 
+			 <name type="person">Creeks</name> that 
+			 <name type="person">Jackson</name> had on the 
+			 <date when="---22">22nd</date> two <choice>
+                  <orig>ingagements</orig>
+                  <reg>engagements</reg>
+               </choice> with the hostile party in which a number
+			 of <choice>
+                  <orig>woonded</orig>
+                  <reg>wounded</reg>
+               </choice> was <choice>
+                  <orig>throne
+			 uppon</orig>
+                  <reg> thrown upon</reg>
+               </choice> his hands which <choice>
+                  <orig>Compeld</orig>
+                  <reg>Compelled</reg>
+               </choice> him to
+			 <choice>
+                  <orig>Retrogade</orig>
+                  <reg>Retrograde</reg>
+               </choice> on the 
+			 <date when="---24">24</date> the indians having
+			 <choice>
+                  <orig>Reenforced</orig>
+                  <reg>Reinforced</reg>
+               </choice> in Considerable numbers made a
+			 Vigorous attack on his Rear who in a cowardly manner Retreated and Left the
+			 company of <choice>
+                  <orig>artilery</orig>
+                  <reg>artillery</reg>
+               </choice> to maintain the
+			 <unclear>unqiet</unclear> Content. they However maintained their Ground and
+			 eventually <pb n="2" facs="tl018b.small.jpg"/> put the enemy to Rout. they have proven what a few
+			 determined <orig resp="#disciplined">diciplined</orig> men can perform they have
+			 <choice>
+                  <orig>cloathed</orig>
+                  <reg>clothed</reg>
+               </choice> themselves with immortal <choice>
+                  <orig>honours</orig>
+                  <reg>honors</reg>
+               </choice>.  finding 
+			 <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name>
+			 unable with Safety to maintain his situation I had no difficulty in inducing
+			 them to follow the army to the to Islands which we <choice>
+                  <orig>Reachd</orig>
+                  <reg>Reached</reg>
+               </choice> the same day with 
+			 <name type="person">Jackson</name>in there Several
+			 <choice>
+                  <orig>ingagements</orig>
+                  <reg>engagements</reg>
+               </choice> the enemy have Lost 200 of them but
+			 <choice>
+                  <orig>wariors</orig>
+                  <reg>warriors</reg>
+               </choice> we have to Lament the Loss of some brave
+			 men 20 fell on the field and 5 have since died of their <choice>
+                  <orig>woonds</orig>
+                  <reg>wounds</reg>
+               </choice>. and 55 additional <choice>
+                  <orig>woonded</orig>
+                  <reg>wounded</reg>
+               </choice> many badly but none dangerous.
+               </p>
+            <p>The Cherokees were permitted to Return to their Respective homes on
+			 the <unclear>tattered</unclear> lands to <choice>
+                  <orig>Rendesvous</orig>
+                  <reg>Rendezvous</reg>
+               </choice> at this place on the 
+			 <date when="---20">20th</date> at which time it is hoped they
+			 will Generally attend active operations will Commence about the 
+			 <date when="---25">25th</date> at which time it is Supposed the
+			 whole army will <choice>
+                  <orig>moove</orig>
+                  <reg>move</reg>
+               </choice>. be pleased to urge 
+			 <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Taylor</name>
+			 to attend his Services I found on our former movements of some importance. I
+			 shall <choice>
+                  <orig>indeavour</orig>
+                  <reg>endeavor</reg>
+               </choice> to Call at 
+			 <name type="place">Highawassee</name> before Long when I will more
+			 fully detail to you our <choice>
+                  <orig>moovement</orig>
+                  <reg>movement</reg>
+               </choice>.</p>
+            <p>
+               <name type="person">Mayor Walker</name> is here and intends
+			 Continuing with about 100 <choice>
+                  <orig>wariors</orig>
+                  <reg>warriors</reg>
+               </choice>
+               <name type="person">the Ridge</name>. <unclear>Three</unclear>boats
+			 and the indians from that Quarter are daily expected. I have Requested him to
+			 delay his Junction to the 
+			 <date when="---20">20th</date>
+               <name type="person">Lowry Brown</name> and their men who were about
+			 marching have been advised to delay also. provisions are <choice>
+                  <orig>Scearce</orig>
+                  <reg>Scarce</reg>
+               </choice> and no prospect of an immediate Supply. Should
+			 <pb n="3" facs="tl018c.small.jpg"/> they <choice>
+                  <orig>arive</orig>
+                  <reg>arrive</reg>
+               </choice> they must depend on their
+			 Guns for <choice>
+                  <orig>Subsistance</orig>
+                  <reg>Subsistence</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>accept <choice>
+                     <orig>assureances</orig>
+                     <reg>assurances</reg>
+                  </choice> of My <lb/>				perfect Esteem
+                  </salute>
+               <signed>
+                  <name type="person">Gideon Morgan</name>
+                  <lb/>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Cherokee forces
+                  </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Return 
+					 <choice>
+                           <abbr>J</abbr>
+                           <expan>Jonathan</expan>
+                        </choice> Meigs</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="tl018d.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Return 
+				  <choice>
+                           <abbr>J</abbr>
+                           <expan>Jonathan</expan>
+                        </choice>. Meigs</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <unclear>Mc Intosh </unclear>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Highwassee Garrison</name>
+                  </addrLine>
+               </address>
+               <add place="bottom, upside down">
+                  <name type="person">
+                     <choice>
+                        <abbr>Col.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> G. Morgans</name>
+		  letter <lb/> account of 
+		  <name type="person">
+                     <choice>
+                        <abbr>G</abbr>
+                        <expan>General</expan>
+                     </choice> Jacksons</name> last
+		  <lb/> Battle in 
+		  <date when="--01">January</date> last. <lb/> The sale of this
+		  letter 
+		  <date when="1814-02-06">February <lb/> 6th 1814
+                              </date>.
+                        
+                     
+                  </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

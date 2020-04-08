@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl324">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1845 Mar. 10, Hartsville, Ten[nessee] [to] Adam Fergusson, Carthage,   Ten[nessee] / Ja[me]s S. Dyer : a machine readable transcription of an image</title>
+            <author>Dyer, James S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl324</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1845 Mar. 10, Hartsville, Ten[nessee] [to] Adam Fergusson, Carthage,   Ten[nessee] / Ja[me]s S. Dyer</title>
+               <author>Dyer, James S.</author>
+               <date when="1845-03-10">March 10, 1845</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated March 10, 1845, from James S. Dyer to Adam Fergusson in Carthage, TN.  Dyer writes about political matters, particularly upcoming congressional elections and the strategy of the democratic party.  He offers some advice as to how campaigning should be done in Smith County, where Fergusson resides.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b3</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl324</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dyer, James S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl324a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Hartsville</name>
+                     <date when="1845-03-10">10th March 1845</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Sir.</salute>
+            </opener>
+            <p>You can see from the editorial of the last <name type="place">Gallatin</name> Union that our democratic friends will have a convention, not only to nominate candidates for the lower house but also for the higher officers — I was told last evening that <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> R A Bennett</name> had written out his declension and was ready to Submit his claims to the convention.  This is as it should be.  Men should <choice>
+                  <orig>waite</orig>
+                  <reg>wait</reg>
+               </choice> till public sentiment settles down in their favor before they become candidates for the law making power.  I wish to make a few suggestions <choice>
+                  <orig>thro</orig>
+                  <reg>through</reg>
+               </choice> , you to some of our friends.  1st do not understand me that I wish to run for Senate or Congress_  for my business &amp; situation of my family <choice>
+                  <orig>for bids</orig>
+                  <reg>forbids</reg>
+               </choice> that I should be absent long enough to take such a <unclear>canvas</unclear> 2nd I think <name type="place">Smith County</name> should take the lead in selecting a man.  If <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Robinson</name> will not run, <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Guild</name> has as much management in conducting a canvas as any one we can start.  <name type="person">
+                  <unclear>Boddie</unclear>
+               </name> is more popular in Smith but his health forbids his running.  His manner suits the occasion better than Guilds.  Dr  Robinson can get the Democratic vote of this county.  Had you not better have a convention before we do.</p>
+            <p>3rdly _ We ought not to nominate a candidate for Congress.  We are in the minority and on a fair ma<add place="supralinear">t</add>ch race cant succeed.  Had we not better turn that matter over to <name type="place">Davidson</name>. Let <name type="person">Peyton</name> &amp; <name type="person">McDonald</name> contend who shall sit on the nest till <pb n="2" facs="sl324b.small.jpg"/> they roll some of the eggs  <add place="supralinear">(votes)</add> out to be used by the democrats.  It has been my anxious wish that the whigs, in their confidence, should start a multiplicity of candidates for senate &amp; congress _ (and while I was making some advances towards accomplishing this object som<gap agent="damage"/> mean democrats, about here <choice>
+                  <orig>susspecting</orig>
+                  <reg>suspecting</reg>
+               </choice> from my addresses that my object was against them, or that they could cull from my correspondence something to injure me with in this county, sent the <choice>
+                  <orig>immotal</orig>
+                  <reg>immotile</reg>
+               </choice> Bennett to Carthage for copies <choice>
+                  <abbr>&amp;c &amp;c</abbr>
+                  <expan>and et cetera, and et cetera</expan>
+               </choice> ) while they were busy at home misrepresenting my cause &amp; impugning my motives _</p>
+            <p>I wish you &amp; our friends to consider _ of this matter &amp; whatever conclusions you come to, apprise <name type="person">Gaskin</name> of the <choice>
+                  <abbr>G</abbr>
+                  <expan>Gallatin</expan>
+               </choice> Union,.  We wish to act in concert with Smith County in Senatorial &amp; Congressional nominations.  If you have any  <add place="supralinear">efficient</add> debaters in Smith County of good standing that can carry a few hundred whig votes, he is the man for the Senate.  Write me as soon as convenient</p>
+            <closer>
+               <salute>Your friend</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jas.</abbr>
+                        <expan>James</expan>
+                     </choice> S. Dyer</name>
+               </signed>
+               <address>
+                  <addrLine>A Fergusson <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sl324c.small.jpg"/>
+               <add place="top left corner">July</add>
+               <choice>
+                  <abbr>P S.</abbr>
+                  <expan>Post Script</expan>
+               </choice> This is all the paper I have <signed>
+                  <choice>
+                     <abbr>J.S.D</abbr>
+                     <expan>James S. Dyer</expan>
+                  </choice>
+               </signed>
+               <pb n="4" facs="sl324d.small.jpg"/>
+               <address>
+                  <addrLine>Hartsville <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice> }</addrLine>
+                  <addrLine>March 10 }</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Adam Fergusson</name> Esqr</addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                  </addrLine>
+                  <addrLine>Ten</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

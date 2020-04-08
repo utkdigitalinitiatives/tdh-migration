@@ -1,0 +1,95 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal agreement] 1819 Dec. 13 [between Jesse Maxwell and John R. Dunn, et.al.] : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl032</idno>
+            <idno>OCLC: 50021698</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal agreement] 1819 Dec. 13 [between Jesse Maxwell and John R. Dunn, et.al.]</title>
+               <date when="1819-12-13">December 13, 1819</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a legal agreement between Jesse Maxwell and John R. Dunn, et.al., the trustees of a school. The agreement states that Maxwell has given an acre of his property to the school in order to build a brick schoolhouse. The agreement also states that the trustees paid Maxwell $1.00 for the use of a water spring and a pathway used by the teachers and students of the school to access the spring. It is stated that both Maxwell and the school are to have equal access to the spring.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">THS 270 Miscellaneous documents, b1</note>
+               <note type="folder" anchored="true">I-D-1</note>
+               <note type="document" anchored="true">sl032</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal document</term>
+               <term>School management and organization</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl032.small.jpg"/>
+            <p>Whereas <name type="person">Moses Speer</name> did in the <date when="1819-10-30">30th day of October 1819</date> convey to <name type="person">William Ewing</name>, <name type="person">Michael C. Dunn</name>, <name type="person">Thomas Edmiston</name> and Moses Speer as Trustees, for the use of a Seminary of learning One Acre of land adjoining the Eastern boundary of the tract of land on which <name type="person">Jesse Maxwell</name> now lives, on which acre of land conveyed as aforesaid there is now erected a Brick Schoolhouse, and whereas it is necessary that the Teachers, Students and others attending said Schoolhouse should have the free, common and uninterrupted use of a Spring of Water that is on the land of the said Jesse Maxwell &amp; contiguous to said Schoolhouse —</p>
+            <p>Now therefore this Indenture made this <date when="1819-12-13">thirteenth day of December 1819</date> between Jesse Maxwell of <name type="place">Davidson County</name> on the one part &amp; William Ewing , Michael C. Dunn, Thomas Edmiston and Moses Speer trustees as aforesaid. Witnesseth, that for &amp; in consideration of the Sum of one dollar to him in hand paid the receipt whereof is hereby acknowledged, the said Jesse doth give, grant and allow to the Teachers Scholars &amp; others attending said Schoolhouse either for the purpose of teaching or being instructed in the Languages, Sciences or Morality the free &amp; common use of said Spring of Water; as also the free &amp; uninterrupted use of a footway or path to &amp; from said Spring — But it is always to be understood that the said Jesse his heirs or assigns is also to have a like common &amp; equal privilege of said Spring so the neither are to be deprived of the use &amp; benefit thereof — In witness whereof the said Jesse hath hereunto set his hand &amp; seal the date above</p>
+            <closer>
+               <signed>Jesse Maxwell <add place="right of address">
+                     <figure>
+                        <figDesc>seal</figDesc>
+                     </figure>
+                  </add>
+               </signed>
+               <add place="left of signature">Witness present <lb/>
+                  <emph>
+                     <name type="person">John R Dunn</name>
+                  </emph>
+                  <lb/>
+                  <name type="person">James D Williamson</name>
+                  <lb/>
+                  <name type="person">Marcus Boyd</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc080">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1812 Nov. 16 Knoxville, [to] Winchester &amp; Cage / Hugh L. White : a machine readable transcription of an image</title>
+            <author>White, Hugh L.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc080</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1812 Nov. 16 Knoxville, [to] Winchester &amp; Cage / Hugh L. White</title>
+               <author>White, Hugh L.</author>
+               <date when="1812-11-16">November 16, 1812</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter to Winchester &amp; Cage from Hugh L. White, with a return message from Cage, dated November 16, 1812. In the letter, White asks Winchester &amp; Cage to either return the lottery tickets that he sent them to sell, or the money they acquired from the sale of the tickets. Cage replies to the letter by returning the 50 tickets that were sent to them.</note>
+               <note type="collection" anchored="true">Hugh Lawson White</note>
+               <note type="box" anchored="true">MS-45</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc080</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Lottery ticket sellers</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2017180154"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">White, Hugh Lawson, 1773-1840</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc080a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1812-11-16">Nov. 16th 1812</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>Our desire, to bring to a close, the lottery, for the benefit of East Tennessee College, induces us, to solicit, that you will, as soon as possible, have your account settled, by returning the Tickets you received, or rewriting to us the amount of the money, for which you may have sold. <add place="left of salute">
+                  <hi rend="different hand">50 tickets }</hi>
+               </add>
+            </p>
+            <closer>
+               <salute>By order of the Trustees</salute>
+               <signed>
+                  <name type="person">Hugh White</name>
+                  <unclear>ch</unclear>
+               </signed>
+               <add>Included the 50 above mentioned tickets to <name type="person">Hugh L White</name>
+                  <choice>
+                     <abbr>Esq</abbr>
+                     <expan>Esquire</expan>
+                  </choice> by mail <date when="1812-11-30">30th Nov. 1812</date>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Cage</name>
+               </add>
+               <pb n="2" facs="sc080b.small.jpg"/>
+               <address>
+                  <addrLine>The Honorable</addrLine>
+                  <addrLine>
+                     <name type="person">Hugh L White</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sc080c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Messrs.</abbr>
+                        <expan>Messieurs</expan>
+                     </choice>
+                     <name type="person">Winchester &amp; Cage</name>
+                  </addrLine>
+                  <addrLine>Merchants <name type="place">Cairo</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="above address on left">
+                  <name type="place">Knoxville</name>
+                  <choice>
+                     <abbr>Ten</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+                  <lb/>
+                  <date when="--11-21">21 November</date> } </add>
+               <add place="above address on right">Paid 17</add>
+               <add place="bottom left corner of page, sideways">
+                  <name type="person">Hugh L White</name>
+                  <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <lb/>
+                  <date when="1812-11-16">16th Nov. 1812</date>
+                  <lb/> concerning lottery <lb/> tickets</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

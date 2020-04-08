@@ -1,0 +1,415 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Account of] Return J. Meigs, 1805 Oct. 1 - 1808 Oct. 1, Tennessee: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0006</idno>
+            <idno>OCLC: 44921575</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Account of] Return J. Meigs, 1805 Oct. 1 - 1806 Oct. 1, Tennessee</title>
+               <date when="1805-10-01">October 1, 1805</date>
+               <date when="1808-10-01">October 1, 1808</date>
+               <extent>2p</extent>
+               <note type="summary">This document is an account of the pay and expenses of Return J. Meigs, principal U.S. agent to the Cherokee Indians, from October 1, 1805 through October 1, 1808.  The ledger contains descriptions of his various duties, the dates they were carried out, and the expense incurred for each.  The majority of his activities with the Cherokees were carried out in Tennessee.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box"/>
+               <note type="folder"/>
+               <note type="document">pa0006</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Georgia Libraries Electronic Text Center</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Expense accounts</term>
+               <term>Cherokee Indians</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0006a.small.jpg"/>
+            <p>
+               <table>
+                  <head>The <name type="place">United States</name>: To <name type="person">Return J. Meigs</name> A. War in <name type="place">Tennessee</name>.  Dr..</head>
+                  <row>
+                     <cell>
+                        <date when="1808-10-01">1808 October 1st</date>
+                     </cell>
+                     <cell>To salary commencing <date when="1805-10-01">1st October 1805</date>, ending <date when="1808-10-01">1st October 1808</date>.-3 years at 1400 $ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> year</cell>
+                     <cell rend="right">4200.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>To subsistence commencing <date when="1805-10-01">1st October 1805</date>, ending <date when="1806-10-01">1st October 1806</date>. 365 days, 6 rations <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day 2190 ration at 14. <choice>
+                           <abbr>cts</abbr>
+                           <expan>cents</expan>
+                        </choice>
+                     </cell>
+                     <cell rend="right">306.60</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>To subsistence commencing <date when="1806-10-01">1st October 1806</date>. ending <date when="1806-10-01">1st October 1808</date>. 731 days. 6 rations <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day 4386 <choice>
+                           <abbr>ra</abbr>
+                           <expan>ration</expan>
+                        </choice>: at 15  cts</cell>
+                     <cell rend="right">679.83</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>To forage for 1 Horse commencing <date when="1805-10-01">1st October 1805</date> ending <date when="1808-10-01">1st October 1808</date>, 36 months at 6 $ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> month</cell>
+                     <cell rend="right">216.00</cell>
+                     <cell rend="right">5402.43</cell>
+                  </row>
+                  <row>
+                     <cell>To cash expended on a Tour to <name type="place">Eustinalee</name> at the request of the <name type="person">Cherokee</name> Chiefs, 14 days, including Packhorse  provisions</cell>
+                     <cell rend="right">28.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-04-30">April 1806. 30</date>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-05-27">May 27</date>
+                     </cell>
+                     <cell>To cash expended on 2 journeys to <name type="place">Tellico</name>, on account of a <name type="person">Cherokee</name> man having been killed by a whiteman</cell>
+                     <cell rend="right">6.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-07-05">July 5</date>
+                     </cell>
+                     <cell>To cash expended on a Journey to <name type="place">Colberts ferry</name> by order of The Secretary of war 20 days. 150 cents <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">30.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-07-05">"</date>
+                     </cell>
+                     <cell>To  "  to <unclear>Sawta</unclear> 16 days at 150.00. <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">24.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-08-08">August 8</date>
+                     </cell>
+                     <cell>To cash expended on a Journey to <name type="place">Knoxville</name> to procure money 6 days at 150 cents <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">9.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-08-24">"  24</date>
+                     </cell>
+                     <cell>To <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice> 5 days for self  surveyor on laying out the site for building the Garrison at <name type="place">Highwassee</name> 2 $ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">10.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-09-04">September 4</date>
+                     </cell>
+                     <cell>To <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice> at <name type="place">Knoxville</name> on the prosecution of <name type="person">
+                           <choice>
+                              <abbr>Jno.</abbr>
+                              <expan>John</expan>
+                           </choice> Ferguson</name> for Killing an Indian in may last</cell>
+                     <cell rend="right">3.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">110.00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-11-17">November 17</date>
+                     </cell>
+                     <cell>To cash expended with 2 Horses on a Journey to <name type="place">Knoxville</name> to procure money 5 days, 2$ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">10.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-11-29">November 29</date>
+                     </cell>
+                     <cell>To 7 days expenses, tour to <name type="place">Highwassee</name> to pay the troops 2$ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">14.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-12-02">December 2</date>
+                     </cell>
+                     <cell>To cash expended on a Journey to <name type="place">Tellico</name> 3 days to pay the troops</cell>
+                     <cell rend="right">4.50</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1806-12-19">December 19</date>
+                     </cell>
+                     <cell>To "  "  with 2 horses 4 days to procure money 2 $ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">8.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-01-30">1807 January 30</date>
+                     </cell>
+                     <cell>To cash paid <name type="person">Thomas N. Clark</name> for 5 quires paper  box wafers</cell>
+                     <cell rend="right">2.35</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-04-10">April 10</date>
+                     </cell>
+                     <cell>To  "  "  on Journey to <name type="place">Tellico</name> to pay the troops</cell>
+                     <cell rend="right">2.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-04-12">April 12</date>
+                     </cell>
+                     <cell>To  "  6 days  "  to <name type="place">Knoxville</name> to procure money</cell>
+                     <cell rend="right">6.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-04-22">April 22</date>
+                     </cell>
+                     <cell>To  "  "  with 2 horses <unclear>brot.</unclear> 3000$</cell>
+                     <cell rend="right">7.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-05-07">May 7</date>
+                     </cell>
+                     <cell>To  "  "  with 2 horses to <name type="place">Knoxville</name> for money</cell>
+                     <cell rend="right">5.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">58.85</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-05-13">May 13</date>.<date when="1807-05-14">14</date>.<date when="1807-05-15">15</date>.<date when="1807-05-16">16</date>
+                     </cell>
+                     <cell>To  "  expended having 3 pack horses  2 men for a guard from <name type="place">
+                           <choice>
+                              <abbr>So.</abbr>
+                              <expan>South</expan>
+                           </choice> West point</name> to <del type="overstrike">Knox</del>
+                        <name type="place">Highwassee</name> having in charge 7870 $ 5 days going  returning</cell>
+                     <cell rend="right">7.56</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-06-22">June 22nd</date>
+                     </cell>
+                     <cell>To cash expended 5  "  going to <name type="place">Knoxville</name> for money 150 cts <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">7.50</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-08-01">August 1</date>
+                     </cell>
+                     <cell>To  "  "  5 days going to <name type="place">Tellico</name> to pay the troops</cell>
+                     <cell rend="right">7.25</cell>
+                     <cell>
+                        <date when="1807-08-03">  "  3</date>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To  "  paid <name type="person">James Rogers</name> for bringing 1000$ 40 miles</cell>
+                     <cell rend="right">2.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1807-11-09">
+                           <choice>
+                              <abbr>Novemr</abbr>
+                              <expan>November</expan>
+                           </choice> 9</date>
+                     </cell>
+                     <cell>To  "  expended with <name type="person">Col. Earle</name> looking for Iron ore 12 days</cell>
+                     <cell rend="right">24.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1808-01-01">1808 January 1</date>
+                     </cell>
+                     <cell>To  "  "  Journey to <name type="place">Knoxville</name> for money  to <name type="place">Tellico</name> to pay the troops.  2 horses 10 days</cell>
+                     <cell rend="right">15.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1808-02-02">
+                           <choice>
+                              <abbr>Feby</abbr>
+                              <expan>February</expan>
+                           </choice> 2</date>
+                     </cell>
+                     <cell> To cash expended going to <name type="place">Knoxville</name> to obtain money to pay the troops at <name type="place">Highwassee</name>
+                        <name type="place">Tellico</name>  absent 10 days with 2 horses. 2$ <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day</cell>
+                     <cell rend="right">20.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1808-04-02">April 2</date>
+                     </cell>
+                     <cell>To cash expended  on journey to <name type="place">Kingston</name> for money <date>wh.</date> 2 horses 5 days</cell>
+                     <cell rend="right">10.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1808-07-26">June 26</date>
+                     </cell>
+                     <cell>To cash paid <name type="person">
+                           <choice>
+                              <abbr>Benja.</abbr>
+                              <expan>Benjamin</expan>
+                           </choice> White</name> mail carrier for carrying in his stage 2000$ from <name type="place">Carthage</name> to the turnpike 90 miles to <name type="place">Highwassee</name>
+                     </cell>
+                     <cell rend="right">5.00</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>To cash paid <name type="person">Brittain Goodwin</name> to carry the same money 35 miles</cell>
+                     <cell rend="right">2.50</cell>
+                     <cell rend="right">100.81</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">$5672.09</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0006b.small.jpg"/>
+            <p>No 16<lb/>
+               <name type="person">Return J. Meigs</name> acct.<lb/>Dollars <hi>5672.09</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

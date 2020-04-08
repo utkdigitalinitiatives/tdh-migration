@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc206">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document] 1842 Apr. 30 Moses Swafford to the State of Tennessee : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc206</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal document] 1842 Apr. 30 Moses Swafford to the State of Tennessee</title>
+               <date>1842-04-18</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document dated between March and April 30th 1842 has two parts. The first part is a land grant by the State of Tennessee to Moses Swafford of 80 acres of land in the Ocoee District of Polk County. The second part is the sale of that land by Moses Swafford to the State of Tennessee for the sum of Ten dollars.</note>
+               <note type="collection" anchored="true">Moses Swafford Document</note>
+               <note type="box" anchored="true">MS-1688</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc206</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal document</term>
+               <term>Land transfers</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc206a.small.jpg"/>
+            <opener>The State of <name>Tennessee </name>
+               <choice>
+                  <abbr>No</abbr>
+                  <expan>Number</expan>
+               </choice>. 4580 <lb/> TO ALL TO WHOM THESE PRESENTS SHALL COME GREETING:</opener>
+            <p>Know ye, that in consideration of an entry made in the Entry Taker's Office of the <name>Ocoee District</name>, of No. 4506_ dated the Fourteenth day of December 184/, by <name>Moses Swafford</name> as General Enterer_<lb/> there is granted by the said State of Tennessee, to the said Moses Swafford and his heirs, a certain tract or parcel of Land, containing Eighty_ acres, lying in the county of <name>Polk</name>_ in the said District, situate in the Second Range East_of the basis line_ First Township and Third Section, being the West half of the North East_</p>
+            <p>Quarter of said Section: <choice>
+                  <orig>begining</orig>
+                  <reg>beginning</reg>
+               </choice> at the North West corner of said_ hold the said tract or parcel of Land, with its appurtenances, to the said Moses Swafford_ and his heirs forever.</p>
+            <p>In Witness whereof, <name>James C. Jones,</name> Governor of the State of Tennessee, hath hereunto set his hand and caused the Great Seal of the State of Tennessee, to be affixed at <name>Nashville</name>, on the 9th day of March in the year of our Lord one thousand eight hundred and forty two and of American Independence the sixty sixth</p>
+            <closer>
+               <salute>By the Governor,</salute>
+               <signed>
+                  <name>James C Jones</name>
+                  <name>S Young</name>
+               </signed>Secretary <lb/>
+               <signed>
+                  <name>Moses Swafford</name>
+               </signed>
+               <add>Hath title to the above described land.</add>
+               <signed>
+                  <name>J.C. Tipton</name>
+               </signed>
+               <add>Register of the Ocoee District</add>
+               <pb n="2" facs="sc206b.small.jpg"/>
+               <add>
+                  <note>
+                     <p>For and in Consideration of the sum of Ten dollars to me in hand paid by <name>Luke Lea</name> Entry Taker of the Ocoee District, I Moses Swafford do hereby assign and transfer to the State of Tennessee, all my right title claim interest and demand which I have or may have had of in and to <del type="overstrike">forty</del> Eighty acres of land, it being the <add>West half of </add>
+                        <del type="overstrike">South East corner</del> of the North <del type="overstrike">West</del>
+                        <add>East</add> Quarter of Section <del type="overstrike">Two</del> Three, in Township One, and Range Two East of the Basis line in the Ocoee District, to have and to hold the same from me and my heirs forever_</p>
+                     <p>Witness my hand and seal this 30th day of April 1842.</p>
+                  </note>
+               </add>
+               <signed>Moses <add>his x mark</add> Swafford</signed>
+               <add>Witness</add>
+               <signed>
+                  <name>J.C. Tipton</name>
+                  <name>F. L. Lea</name>
+               </signed>
+               <pb n="3" facs="sc206c.small.jpg"/>
+               <add>Recorded 25th April 1842 <lb/> J. C. Tipton <lb/>
+                  <choice>
+                     <abbr> Reg. O. D.</abbr>
+                     <expan>Register Ocoee District</expan>
+                  </choice>
+               </add>
+               <add>Grant 4580 <lb/> Moses Swafford</add>
+            </closer>
+            <closer>
+               <add/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

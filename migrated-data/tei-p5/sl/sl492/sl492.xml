@@ -1,0 +1,158 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl492">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1823 Mar. 11, Bellview [to] Francis McGavock, Murfre[es]boro, Tennessee / W[illiam] Martin: a machine readable transcription of an image</title>
+            <author>Martin, Wm.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl492</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1823 Mar. 11, Bellview [to] Francis McGavock, Murfre[es]boro, Tennessee / W[illiam] Martin</title>
+               <author>Martin, Wm.</author>
+               <date when="1823-03-11">March 11th, 1823</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from Colonel William Martin to Francis McGavock, dated March 11, 1823. Martin writes about a mutual acquaintance named Brier. He also mentions his children and that he hopes they can becomes successful. Martin writes about the importance of patronage to a person's success.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl492</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Martin, William, 1767-1846.</term>
+               <term>Letters</term>
+               <term>Financial, Personal</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2009202801"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Martin, William, 1765-1846</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl492a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Bellview</name>
+                     <date>11th March 1823</date>
+                  </addrLine>
+               </address>
+               <salute>My friend</salute>
+            </opener>
+            <p>By <name>Brier</name> I send you a line &amp; my love I hear that you are located at <choice>
+                  <orig>Murfreboro</orig>
+                  <reg>Murfreesboro</reg>
+               </choice> this I hope will be no longer than the next  legislature can make provision for your office to be removed back to <name>Nashville</name>, where for the advantage of those interested it ought to be. This needs no argument to prove, because it must be obvious to all and why it was at first <del type="overstrike">taken</del> ordered from there, is what I never could account for__ as the public Interest <choice>
+                  <abbr>shd</abbr>
+                  <expan>should</expan>
+               </choice> be the object of public measures. But I fear this is not always the case</p>
+            <p>Brier <choice>
+                  <orig>complaines</orig>
+                  <reg>complains</reg>
+               </choice> a good deal of a pain in his side I fear that the evil will increase in proportion to his want of <unclear>
+                  <choice>
+                     <orig>exercercise</orig>
+                     <reg>exercise</reg>
+                  </choice>
+               </unclear> shd this affliction increase it will be <choice>
+                  <orig>indispensible</orig>
+                  <reg>indispensable</reg>
+               </choice> for him to pursue more active employment.</p>
+            <p> Should he continue there, would not his prospects for a clerkship to the Legislature be such as to Justify the attempt. To him it would be an object of considerable Interest, as well pecuniary as otherwise In want of success, his absence from your business would be but short. And <del type="overstrike">I</del> were I <pb n="2" facs="sl492b.small.jpg"/> to Judge of the future from the past, and from the conceptions <del type="overstrike">of your</del> I have formed of your character, I would expect every facility reasonably in your power to be promptly afforded to promote his Interest The <unclear>corp</unclear> &amp; <choice>
+                  <orig>cordeal</orig>
+                  <reg>cordial</reg>
+               </choice> relations of friendship which has <del type="overstrike">so long</del> subsisted between your Father &amp; me, together with the kindness of yourself to me &amp; mine, warrants this opinion. I being compa <add>ra</add> tively poor, &amp; having many children, increases the necessity for them to use exertions <del type="overstrike">for them</del> to provide for themselves. I have labored to prepare them for useful life, but how far they will <choice>
+                  <orig>realise</orig>
+                  <reg>realize</reg>
+               </choice> those advantages remains to be proven a young man Just entering on the great theatre of human life is much dependent on the friendship of those in advance of himself for success.That let his personal worth be what it may it is with great difficulty he can progress without the aid of friends and when it happens that a young man has in this way, arrived at prosperity his gratitude to his patrons is a source of unerasing pleasure as well as it is to those who have been instrumental in promoting the advancement of the worthy. On this subject I speak not from speculation, but <choice>
+                  <orig>expearence</orig>
+                  <reg>experience</reg>
+               </choice> having often <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice>
+               <del type="overstrike">many</del> acts of disinterested friendship and in my turn have enjoyed much pleasure in assisting others <pb n="3" facs="sl492c.small.jpg"/> who needed my help such are the <unclear>social</unclear> obligation which devalue on us all, that when properly indulged, they <choice>
+                  <orig>consitute</orig>
+                  <reg>constitute</reg>
+               </choice> the highest enjoyment of human life, which on the other <choice>
+                  <orig>had</orig>
+                  <reg>hand</reg>
+               </choice> were they withheld the wheels of the social compact would scarcely move</p>
+            <p>I  expect to make a trip to <name>Winchester</name> some time this spring, as Murfreboro lies not much out of  my way, design to call them &amp; pay you a visit</p>
+            <p>The winter here has been un <gap/> cold but it <add>is</add> now over &amp; gone, &amp; the spring is ushered in with pleasing prospects. Now my friend farewell, may you long live to enjoy life &amp; do good, &amp; when your days are numbered, and you are called to go the way of all flesh, may you be prepared for &amp; accepted into the mansions of immortal bliss to enjoy the company of Angels &amp; the spirits of Just men made perfect is my prayer for Christs sake____</p>
+            <closer>
+               <salute>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Martin</name>
+               </salute>
+               <pb n="4" facs="sl492d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Frances McGavock</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name>Murfreboro</name>
+                  </addrLine>
+                  <addrLine>
+                     <abbr>W</abbr> Martin } <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

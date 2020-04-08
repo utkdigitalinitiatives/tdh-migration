@@ -1,0 +1,139 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch087">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter with sworn statement], 1834 Apr. 3, Aquohee Dist[rict] to the [Cherokee ?] Delegation / John Smith: a machine-readable transcription</title>
+            <author>Smith, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca.6k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch087</idno>
+            <idno>OCLC: 44870145</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter with sworn statement], 1834 Apr. 3, Aquohee Dist[rict] to the [Cherokee ?] Delegation / John Smith</title>
+               <author>Smith, John</author>
+               <date when="1834-04-03">April 3, 1834</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">Letter with sworn statement dated April 3, 1834 from John Smith in the Aquohee District to the (Cherokee ?) Delegation, concerning a property dispute. A portion of the property that Smith claims as his own was awarded to a man named Hosea Morgan, a recent emigrant to the Arkansas who claims to be Catawba, and Smith believes that Morgan has no right to this property since he is not a citizen of the nation nor Cherokee. He has presented his case to Major Curry, but has received no satisfaction and is now petitioning the delegation.</note>
+               <note type="repository" anchored="true"> The  Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection)</note>
+               <note type="box" anchored="true">4</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">ch087</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Smith, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch087a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>Aquohee <choice>
+                           <abbr>Dist</abbr>
+                           <expan>District</expan>
+                        </choice>
+                     </addrLine>
+                  </address>
+                  <date when="1834-04-03">Apr. 3. 1834.</date>
+               </dateline>
+               <salute>To the Gentlemen of the Delegation. Gentlemen.</salute>
+            </opener>
+            <p>I take the liberty to inform you that Hosea Morgan who kept my mill has had the field and houses assessed to him as an emigrant to the Arkansas.  And Major Curry Gave the good will of it to a White man named Roland Terry.</p>
+            <p>I waited on Major Curry and stated the case to him and I had many witnesses Pre<del type="overstrike">s</del>sent to prove my right to the place and that the man who had the place assessed was no Citizen of the Nation nor had any right of claim whatever to enrol as a Cherokee.</p>
+            <p>The Old man Is supposed to be a Spaniard but calls himself a Catawba Indian.  His wife  children are Negroes</p>
+            <closer>
+               <signed>John Smith his X mark </signed>
+               <lb/>
+               <choice>
+                  <abbr>Test</abbr>
+                  <expan>Testimony</expan>
+               </choice>
+               <signed>E Jones</signed>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <p>We the undersigned certify that a man named Hosea Morgan Having the appearance of a Spaniard but representing himself to be a Catawba Indian having spent many years among the Spaniards and having with him a Negro family, came into this District six or seven years ago or there abouts.</p>
+            <p>On his first arrival he applied to the Council for permission to reside in the Nation as a Citizen but was refused  About two years ago Mr. Smith obtained a permit for him to attend <del type="overstrike">my</del>
+               <add place="supralinear">his</add> mill.  But he has never made any <choice>
+                  <orig>pretentions</orig>
+                  <reg>pretensions</reg>
+               </choice> to have any right or title to land or Citizenship in the Nation till he was received as an emigrant to the Arkansas.</p>
+            <p>Now we respectfully but earnestly protest against, persons having no Cherokee blood and possessing no sort of title in our country being allowed to alienate portions of the land in this way which we conceive to <gap agent="damage"/>
+               <unclear>be</unclear> utterly unlawful for our own acknowledged citizens to do.</p>
+            <closer>Signed on behalf of a full meeting of the Citizens of the <choice>
+                  <abbr>Dist.</abbr>
+                  <expan>District</expan>
+               </choice>
+               <lb/>
+               <choice>
+                  <abbr>Test.</abbr>
+                  <expan>Testimony</expan>
+               </choice>
+               <signed>
+                  <unclear>Situagi</unclear> his X mark <lb/>Sweetwater his X mark <lb/>Peter his X mark
+                     
+                  </signed>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch087b.small.jpg"/>
+            <p>
+               <hi>No. 2  3.</hi>
+            </p>
+            <p>Case of Hosea Morgan</p>
+         </div>
+      </body>
+   </text>
+</TEI>

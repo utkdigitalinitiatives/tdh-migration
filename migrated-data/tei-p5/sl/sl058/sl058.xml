@@ -1,0 +1,233 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1816 Jan. 19, Cabarrus County, North Carolina [to] Thomas  Campbell / Cha[rle]s Harris : a machine readable transcription of an image</title>
+            <author>Harris, Charles</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl058</idno>
+            <idno>OCLC: 50078292</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1816 Jan. 19, Cabarrus County, North Carolina [to] Thomas Campbell / Cha[rle]s Harris</title>
+               <author>Harris, Charles</author>
+               <date when="1816-01-19">January 19, 1816</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Charles Harris to Thomas Campbell on January 19, 1816. In the letter, Harris claims that a George Calhoun wishes to have a dispute over land that Charles' brother Samuel Harris sold him in Williamson County, Tennessee. Samuel Harris sold Calhoun 350 acres of land that was a parcel of land that was made up of 1000 acres. Calhoun disputes the amount of land that was actually sold to him, and has not paid any of the expenses or taxes that have accrued to the land.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">13</note>
+               <note type="document" anchored="true">sl058</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Land tenure</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Harris, Charles</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl058a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Cabarrus County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">North Carolina</name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <orig>Deer</orig>
+                     <reg>Dear</reg>
+                  </choice> Sir</salute>
+            </opener>
+            <p>
+               <name type="person">Mr George <choice>
+                     <orig>Calhoon</orig>
+                     <reg>Calhoun</reg>
+                  </choice>
+               </name> has been to see me for the purpose of knowing what can be done relative to his claim of 350 acres of land for which he has a bond executed by my Brother <name type="person">Samuel</name> to <name type="person">John Wilson</name> to be laid out of a thousand acre tract which land is now found to be in <name type="place">
+                  <choice>
+                     <orig>Williamsoon</orig>
+                     <reg>Williamson</reg>
+                  </choice> County Tennessee</name>
+            </p>
+            <p>Now Sir I have every reason to believe that bond was given with a just intention for the performance as practicable it appears that older claims do cover a consider <add place="supralinear">able</add> portion of it Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> has manifested a disposition to be <choice>
+                  <orig>satisfyed</orig>
+                  <reg>satisfied</reg>
+               </choice> with his proportionate share of the safe <del type="overstrike">lan</del> land and has provided accordingly — How far those men may be considered as just and impartial who were concerned and appointed by order of Court to lay off and divide the land in their own <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> I know not but common report speaks well of them here as far as I have any <pb n="2" facs="sl058b.small.jpg"/> knowledge of their characters for this reason I would ⁁ <add place="supralinear">rather</add> abide by their <choice>
+                  <orig>decison</orig>
+                  <reg>decision</reg>
+               </choice> than be at the trouble of doing the works all over again —</p>
+            <p>When I admit that my Brother Samuels Bond was given for a just consideration and Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> has shown no <choice>
+                  <orig>dispostion</orig>
+                  <reg>disposition</reg>
+               </choice> to claim any more than his proportionate share of the safe land and if he can remove any <del type="overstrike">do</del> doubt that may <unclear>arise</unclear> whether he came honestly by the bond (for my part I have none) I cannot see where a just cause of Lawsuit will <choice>
+                  <orig>lye</orig>
+                  <reg>lie</reg>
+               </choice> — I hold that Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> ought in Justice to pay his proportionate share of the office <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> taxes <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice> that have accrued while the land was common between him &amp; me —</p>
+            <p>With respect to that part of the land which has been covered by older titles I am of the opinion that Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice>
+               <del type="overstrike">would not oug</del> was bound in justice to <choice>
+                  <orig>loose</orig>
+                  <reg>lose</reg>
+               </choice> his proportionate share — The bond was given to execute a deed of three hundred and fifty acres of land out of a <choice>
+                  <orig>specifyed</orig>
+                  <reg>specified</reg>
+               </choice> tract of one thousand acres of land viz from a tract of 1008 acres of land entered in <name type="person">John Armstrongs</name> office by said Harris <choice>
+                  <abbr>No</abbr>
+                  <expan>Number</expan>
+               </choice> 1804: I would  ask in this case admit that the whole of this 1000 acres had been covered by Older State grants how would Samuel Har <pb n="3" facs="sl058c.small.jpg"/> ris or his kin have made a little for any part of it or how could Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> claiming by virtue of that bond compel the heirs of <name type="person">Samuel Harris</name> to do a thing which in its nature is morally impossible.</p>
+            <p>But this difficulty has been removed by the conduit of Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> he has set up his claim for no more thanks proportionate share of the safe land — he proposes <unclear>further that</unclear> if any doubt should still exist in your mind of an <choice>
+                  <orig>injurrous</orig>
+                  <reg>injurious</reg>
+               </choice>
+               <choice>
+                  <orig>partiallity</orig>
+                  <reg>partiality</reg>
+               </choice> having been practised by those men who divid ⁁ <add place="supralinear">ed</add> the land that you are perfectly welcome to choose any other five free holders to lay it off again and he well abide by the award if you I should think that necessary to be done (which I hope you will not) I hold that Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> ought to be confined to his share of the safe land which he ⁁ <add place="supralinear">has</add>
+               <unclear>voluntarily</unclear> done and which I have a right to expect where a piece of business can be <choice>
+                  <orig>setled</orig>
+                  <reg>settled</reg>
+               </choice> amicably what is the rise of going to <unclear>row</unclear>? Any person that pleases can break into law but it is not every one that can <del type="overstrike">buc</del>
+               <pb n="4" facs="sl058d.small.jpg"/> break out of law when he pleases As I had no kind of secrets to communicate I have with a spirit of <choice>
+                  <orig>candeur</orig>
+                  <reg>candor</reg>
+               </choice> and love of peace shown Mr <choice>
+                  <orig>Calhoon</orig>
+                  <reg>Calhoun</reg>
+               </choice> this letter in order that you might both understand my sentiments <unclear>precisely</unclear> in the same point of view.</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">
+                        <choice>
+                           <abbr>Chas</abbr>
+                           <expan>Charles</expan>
+                        </choice> Harris</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <date when="1816-01-19">January 19th 1816</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. Thomas Campbell</name>
+                  </addrLine>
+                  <addrLine>By Mr <choice>
+                        <abbr>G</abbr>
+                        <expan>George</expan>
+                     </choice> Calhoon</addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address, upside down">
+                  <choice>
+                     <abbr>Ch</abbr>
+                     <expan>Charles</expan>
+                  </choice> Harris <lb/>
+                  <date when="1816">1816</date>
+                  <lb/> respecting Calhoon <lb/>
+                  <unclear>received</unclear> —</add>
+               <add place="left of address, sideways">
+                  <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received</expan>
+                  </choice>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Roberson</name> of <name type="place">Cabarrus <choice>
+                        <abbr>Co. No. C</abbr>
+                        <expan>County North Carolina</expan>
+                     </choice>
+                  </name> will Prove that <choice>
+                     <abbr>Geo</abbr>
+                     <expan>George</expan>
+                  </choice> Calhoun was to pay his proportion of the <unclear>expence</unclear> of, the suit with <name type="person">Smith &amp; Johnston</name> — And also <name type="person">James Bradshaw</name> of <name type="place">Bedford County</name> —</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Feb. 17, Knoxville, [Tennessee, to] Captains
+			 Sparks  Wade / John Sevier</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl035</idno>
+            <idno>OCLC: 47828002</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Feb. 17, Knoxville, [Tennessee, to] Captains
+				Sparks  Wade / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-02-17">February 17, 1797 </date>
+               <extent>1p</extent>
+               <note type="summary">This document is a letter written by Governor
+				John Sevier to Captains Sparks and Wade, dated February 17, 1797. Sevier wrote
+				this letter in regards to a conference the captains were preparing to hold with
+				the settlers living within Indian lands. Sevier pleaded with Sparks and Wade to
+				show compassion and tenderness towards those people, for they would soon be
+				forced to relocate.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl035</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians of North America--Land tenure</term>
+               <term>Indians of North America--Government relations</term>
+               <term>Trespass</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl035a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-02-17">17 February 1797</date>
+                  </addrLine>
+                  <addrLine>Captains 
+				  <name type="person">Sparks</name>
+                     <name type="person">Wade</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>As you are now on the eve of <choice>
+                  <orig>siting</orig>
+                  <reg>setting</reg>
+               </choice> out
+			 to hold A <choice>
+                  <orig>Conferance</orig>
+                  <reg>Conference</reg>
+               </choice> with the inhabitants settled
+			 in what is called the <choice>
+                  <orig>indian</orig>
+                  <reg>Indian</reg>
+               </choice> lands,
+			 <add place="supralinear">I hope</add> permit me to Solicit your paternal,
+			 benevolent, and favorable indulgences towards those unfortunate people, by
+			 Granting <add place="supralinear">unto</add> them all the time and suitable
+			 opportunity <del type="overstrike">that may be</del> adequate to a preparation
+		  for their removal; and in every other instance <choice>
+                  <orig>affoard</orig>
+                  <reg>afford</reg>
+               </choice> unto them such marks of your humanity and
+		  tenderness As the <choice>
+                  <orig>dutyes</orig>
+                  <reg>duties</reg>
+               </choice> of your offices and the
+		  nature of the Case will <del type="overstrike">admit of</del>
+               <add place="supralinear">permit you</add> in doing of which you will lay me
+		  under <del type="overstrike">high</del>
+               <add place="supralinear">very</add>
+		  great and lasting obligations</p>
+            <closer>
+               <salute>I have the honor to be <lb/> With much Esteem  respect
+				<lb/> Your 
+				<choice>
+                     <abbr>Mo. ob. Sevt.</abbr>
+                     <expan>Most obedient servant</expan>
+                  </choice>
+                  <lb/>				Signed
+                        
+                     
+                  </salute>
+               <signed>
+                  <name type="person">John Sevier</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

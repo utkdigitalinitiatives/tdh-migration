@@ -1,0 +1,274 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1817 May 13, Nashville [to] Geo[rge] Graham / Andrew
+			 Jackson: a machine-readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc013</idno>
+            <idno>OCLC: 50009022</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1817 May 13, Nashville [to] Geo[rge] Graham / Andrew
+				Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1817-05-13">May 13, 1817</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated May 13, 1817 to
+				George Graham, Acting Secretary of War, from General Andrew Jackson. Jackson
+				gives instructions on opening a military road from the northern boundary of
+				Mississippi territory to Lake Ponchetrain.</note>
+               <note type="Collection" anchored="true">Andrew Jackson</note>
+               <note type="Box" anchored="true">n/a</note>
+               <note type="Folder" anchored="true">MS-755</note>
+               <note type="Document" anchored="true">sc013</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military roads</term>
+               <term>Southern States </term>
+               <term>Jackson, Andrew, 1767-1845 </term>
+               <term> Graham, George </term>
+               <term>United States Politics and government, 1817-1825 </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc013a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Head Quarters</addrLine>
+                  <addrLine>Division of the South</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1817-05-13">13th May 1817</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name type="person">Major Perrault</name> of the Topographical
+			 Department having a few days since reported himself at this place. I have
+			 determined not to await the return of 
+			 <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> Young</name>
+			 but immediately to commence opening the contemplated military road from the
+			 northern <choice>
+                  <orig>boundery</orig>
+                  <reg>boundary</reg>
+               </choice> of the 
+			 <name type="place">Mississippi Territory</name> to the lake
+			 <choice>
+                  <orig>Pon cher train</orig>
+                  <reg>Ponchetrain</reg>
+               </choice>, commencing at the first named
+			 point with the troops (one company) <del type="overstrike">now</del> at 
+		  <name type="place">Fort Hampton</name>, <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice>
+		  the affair of the upper Mississippi will justify the removal of the two
+		  companies of the 8th Infantry now there.  Orders have been given to 
+		  <name type="person">General Ripley</name> to furnish two companies to
+		  commence cutting at the southern extremity of the road under the directions of 
+		  <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice> Young, 
+		  <choice>
+                  <abbr>Topo.</abbr>
+                  <expan>Topographical</expan>
+               </choice> Engineer, who has been
+		  instructed to open its thirty feet wide, causway all marshes  swamps 20
+		  feet wide, raising them above high water mark, and to make bridges of durable
+		  materials over all streams that their means will permit. </p>
+            <p>It is much to be regretted that the 
+			 <choice>
+                  <abbr>Topo</abbr>
+                  <expan>Topographical</expan>
+               </choice> Engineers have not been
+			 furnished with the necessary mathematical instruments, as none can be procured
+			 here, and <pb n="2" facs="sc013b.small.jpg"/> Major Perrault's <add place="superlinear">total</add>
+			 want thereof, will, I am apprehensive, cause delay <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> they can be obtained from 
+			 <name type="place">
+                  <choice>
+                     <orig>Philidelphia</orig>
+                     <reg>Philadelphia</reg>
+                  </choice>
+               </name>, as it is improbable that he can
+			 procure either a quadrant or Sextant to take the latitude, necessary on
+			 commencing the road at the north point of beginning. But as it appears to be
+			 important to connect the different sections of land cut by this road, and 
+			 <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Coffee</name>
+			 having commenced the duty enjoined upon him; I shall <choice>
+                  <orig>loose</orig>
+                  <reg>lose</reg>
+               </choice> no time in <choice>
+                  <orig>compleating</orig>
+                  <reg>completing</reg>
+               </choice> it
+			 as far south as the hundred Townships, which he is directed to lay out,
+			 extends;  and shall leave this for the 
+			 <name type="place">Tennessee river</name>
+               <add place="supralinear">for that purpose</add> between the 15th and 20th 
+			 <choice>
+                  <abbr> Inst</abbr>
+                  <expan>Instant</expan>
+               </choice>; or as soon as my health is
+			 sufficiently re-established to encounter the fatigue of <choice>
+                  <orig>travelling.</orig>
+                  <reg>traveling</reg>
+               </choice> Before I proceed to meet the 
+			 <name type="person">Cherokee</name> chiefs at 
+			 <name type="place">Hiwassee</name> on the 
+			 <date when="--06-20">20th June</date> next. I shall expect your
+			 instructions to what specific in subjects. I shall be confined in that
+			 conference; not having, as yet, received an answer to my letter to you of the 
+			 <date when="--04-22">
+                  <choice>
+                     <orig>22d</orig>
+                     <reg>22nd</reg>
+                  </choice> April</date>
+			 last.
+               </p>
+            <closer>
+               <salute>I am Sir</salute>
+               <salute>very 
+				<choice>
+                     <abbr>Respy</abbr>
+                     <expan>Respectfully</expan>
+                  </choice>
+               </salute>
+               <salute>
+                  <choice>
+                     <abbr>Yo. Mo. Obt.
+				  St.</abbr>
+                     <expan>Your Most Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <signed>Major 
+				<choice>
+                     <abbr>Genl Comdg</abbr>
+                     <expan>General Commanding</expan>
+                  </choice>
+               </signed>
+               <address>
+                  <addrLine>To 
+				  <name type="person">
+                        <choice>
+                           <abbr> Geo.</abbr>
+                           <expan>George</expan>
+                        </choice>
+					 Graham</name>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Actg Secy</abbr>
+                        <expan>Acting Secretary</expan>
+                     </choice> of
+				  War</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="sc013c.small.jpg"/>
+            <p>Nashville 
+			 <date when="1817-05-13">13 May 1817</date>
+            </p>
+            <p>
+               <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Andrew Jackson advises of the
+			 arrival of Major Perrault  who will be ordered to commence the
+			 <add place="supralinear">military</add> Road from the northern boundary of the
+			 Mississippi to 
+			 <name type="place">Lake <choice>
+                     <orig>Ponchestrain</orig>
+                     <reg>Ponchetrain</reg>
+                  </choice>
+               </name> wants instructions in
+			 relation to the Cherokee Treaty. <add place="bottom center">
+                  <date when="1817-06">June 1817</date>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

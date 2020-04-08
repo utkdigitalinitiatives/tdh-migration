@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0326">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Depositions of   John Rogers and James Cary] 1844 Jul. 3, District of Columbia : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0326</idno>
+            <idno type="OCLC">OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>  [Depositions of   John Rogers and James Cary] 1844 Jul. 3, District of Columbia</title>
+               <date when="1844-07-03">July 3, 1844</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a deposition given by John Rogers and James Cary, of the Cherokee Nation West. The deposition concerns land taken by the United States under the Treaty of 1817 belonging to The Pathkiller, also a member of the Cherokee Nation.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> pa0326</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Cherokee Indians -- Legal status, laws, etc.</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0326a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>District of Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Washington County</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>This day personally appeared before me <add>
+                  <name>John D. Clark</name>
+               </add>__ a Justice of the Peace of said County <name>John Rodgers</name> and <add>
+                  <name>James Cary</name>
+               </add>
+               <del type="overstrike">Big Drawn</del> Cherokee Citizens of the Cherokee Nation West, and being duly Sworn say they were well acquainted with <name>PathKiller</name> a Cherokee and his family at the dates of the cherokee treaties of 1817 &amp; 1819- He was then the head of a Cherokee family having a wife and children by her- He then and for many years afterwards resided on the south side of <name>Tennessee river </name>at a place since called <name>Blairs Ferry</name> in the state of <name>Tennessee </name>and on the Territory ceded by the Cherokee Treaties of ,17 and, 19 and then had a ferry at that place - He departed this life in 1841, leaving Arch, or Archilaws, or <name>Archibald Path-Killer</name> and <name>Alsy Eldridge</name> his only Children, by his said wife long since <unclear>deceased</unclear>, and his heirs at law</p>
+            <closer>
+               <signed>
+                  <name>John Rogers</name>
+                  <lb/>
+                  <add>his x mark</add>
+                  <name>James Cary</name>
+               </signed>
+               <add>Subscribed and Sworn <lb/> before me this 3rd day <lb/> of July 1844</add>
+               <signed>
+                  <name>John D  Clark <choice>
+                        <abbr>J </abbr>
+                        <expan>Justice</expan>
+                     </choice>Peace</name>
+               </signed>
+               <pb n="2" facs="pa0326b.small.jpg"/>
+               <add>60 <lb/> argument inside <lb/> 4th <choice>
+                     <abbr>comm</abbr>
+                     <expan>commission</expan>
+                  </choice>. <lb/> Path Killers <lb/> Reservation <lb/>
+                  <choice>
+                     <abbr> Depo's </abbr>
+                     <expan>Depositions</expan>
+                  </choice> of <lb/> John Rogers and <lb/> James Cary</add>
+               <add>July 6th 44</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Excerpt from] Early history of the Cherokees, 1917 / Emmet Starr: a machine-readable transcription</title>
+            <author>Starr, Emmet</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch097</idno>
+            <idno>OCLC: 44909133</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Excerpt from] Early history of the Cherokees, 1917 / Emmet Starr</title>
+               <author>Starr, Emmet</author>
+               <publisher>Emmet Starr</publisher>
+               <date when="1917">1917</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a brief excerpt from Early history of the Cherokees by Emmet Starr, 1917, pertaining to the education of the Cherokees in one district in 1826. This excerpt contains several minor typographical variations from Starr's original.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">19</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">ch097</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Missions</term>
+               <term>Cherokee Indians--Education</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79090186"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Starr, Emmet</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch097.small.jpg"/>
+            <head>
+               <name type="person"> 
+                  <reg>Emmet</reg> Starr</name>: Early History of the <name type="person">Cherokees</name>, p. 84</head>
+            <q>
+               <p>In one district (in <date when="1826">1826</date>) there were about 1,000 good books and eleven periodicals, both religious and political.  They were subscribed for and read at this time.  Most of the schools are under the care of Christian missionaries.</p>
+            </q>
+            <p>(from the Chamberlain Mss.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

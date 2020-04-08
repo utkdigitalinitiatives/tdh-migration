@@ -1,0 +1,161 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl134">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal, Letter] 1847 July 24 [to] W[illia], Bell, Deckson [i.e., Dickson] county, TN / Robert Anderson   : a machine readable transcription of an image</title>
+            <author>Anderson, Robert</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl134</idno>
+            <idno>OCLC: 50542010</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal, Letter] 1847 July 24 [to] W[illia], Bell, Deckson [i.e., Dickson] county, TN / Robert Anderson</title>
+               <author>Anderson, Robert</author>
+               <date when="1847-07-24">July 24, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Robert Anderson to William Bell, referring to their legal transactions. It is dated July 24, 1847. Anderson writes that he received one slave, John, in good health. He agrees to keep him because of his bad eye sight. He also agrees to allow Bell to return another slave named Jack, as long as he is still in good health.</note>
+               <note type="collection" anchored="true">Bell Collection IV-H-1</note>
+               <note type="box" anchored="true">B:3</note>
+               <note type="folder" anchored="true">F:15</note>
+               <note type="document" anchored="true">sl134</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Slavery</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Anderson, Robert</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl134a.small.jpg"/>
+            <opener>
+               <add place="top of page" rend="different hand, ink">[Re=Hiring Slaves]</add>
+               <dateline>
+                  <date when="1847-07-24">July the 24th 1847</date>
+               </dateline>
+               <salute>
+                  <name type="person">Mr. <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice>  Bell</name>
+               </salute>
+            </opener>
+            <p>, this day I <choice>
+                  <orig>hove</orig>
+                  <reg>have</reg>
+               </choice>
+               <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice>
+               <del type="overstrike">my</del> in fine plight. By <name type="person">William D. Beatman</name> my <name type="person">Jack</name>. you ask to have the Refusal of him Next spring so you shall have the  Refusal of him provided both my <name type="person">Jack</name> lives and in good <choice>
+                  <orig>helth</orig>
+                  <reg>health</reg>
+               </choice>
+            </p>
+            <p>Negro Man <name type="person">John</name> hath come <choice>
+                  <orig>Holm</orig>
+                  <reg>Home</reg>
+               </choice> in good <choice>
+                  <orig>Helth</orig>
+                  <reg>Health</reg>
+               </choice> his Eyes <choice>
+                  <orig>Excped</orig>
+                  <reg>Excepted</reg>
+               </choice>. he always was Near <choice>
+                  <orig>sighed</orig>
+                  <reg>sighted</reg>
+               </choice>. <del type="overstrike">
+                  <unclear>tax</unclear>
+               </del> ⁁ <add place="supralinear">but</add> Never Lost time on that account. he <unclear>Now</unclear> say in warm weather <del type="overstrike">water</del> ⁁ <add place="supralinear">he</add> work hard and <choice>
+                  <orig>swets</orig>
+                  <reg>sweats</reg>
+               </choice> he <choice>
+                  <orig>gits</orig>
+                  <reg>gets</reg>
+               </choice> Blind, and Can not <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> his Wood being his situation to be so, if you are Willing I am <choice>
+                  <orig>Willig</orig>
+                  <reg>Willing</reg>
+               </choice> to Keep him at <choice>
+                  <orig>holm</orig>
+                  <reg>home</reg>
+               </choice>
+               <choice>
+                  <orig>ad</orig>
+                  <reg>and</reg>
+               </choice> Credit you with the balance of his time</p>
+            <closer>
+               <salute>your with Respect</salute>
+               <signed>
+                  <name type="person">Robert Anderson</name>
+               </signed>
+               <pb n="2" facs="sl134b.small.jpg"/>
+               <address>
+                  <addrLine>To <name type="person">Mr. William Bell</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <orig>Deckson</orig>
+                           <reg>Dickson</reg>
+                        </choice> County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

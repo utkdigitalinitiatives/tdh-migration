@@ -1,0 +1,104 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document]  1834 Apr. 9 [Certificates concerning the enrollment of Charles Jones and Edward Welch]: a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0043</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal document]  1834 Apr. 9 [Certificates concerning the enrollment of Charles Jones and Edward Welch]</title>
+               <date when="1843-04-09">April 9, 1834</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document, dated April 9, 1834, is statements regarding the alleged false enrollment of Charles Jones And Edward Welch into the Cherokee Nation by the United States agent to the Cherokee. The men claim to have been coerced into signing the enrollment papers.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0043</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Relocation</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0043a.small.jpg"/>
+            <p>I was present at <name>David Ross</name>'s old place when the Enrolling agent <name>Major Curry</name> was there in company with a number of Emigrants.  <unclear>Simons tryed</unclear> to persuade <name>Charles Jones</name>, (who was drunk, to <choice>
+                  <orig>enrol</orig>
+                  <reg>enroll</reg>
+               </choice>.  Jones refused Then <name>Alexander McGray</name> Dragged him to the enrolling agent and Simons held his hand to sign the paper.  Jones then complained that he had been ill used by being served so.  Simons then gave him four lashes with a horse whip.  Ross waned his whip in a threatening manner but did not strike him</p>
+            <p>Witness my hand this <date>9th day of April 1834</date>
+            </p>
+            <closer>
+               <signed>
+                  <name>
+                     <unclear>Gardegi</unclear>
+                  </name> her x mark</signed>
+               <add>Test. <name>JD. Wofford</name>
+               </add>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <p>On the Day Major Curry was at Ross's old place I was there drinking.  David Ross <del type="overstrike">adver</del> wanted to buy my place and offered $25 for it I refused.  <name>Jas McGrey</name> took me aside rather privately and offered the same and wished me to let him have it  I refused him also- Then Ross and McGrey endeavored to persuade me to enroll but I refused This is the last I remember for I went to sleep.  afterwards a white man who was present told me that they wakened me up and took me to the agent and <choice>
+                  <orig>tryed</orig>
+                  <reg>tried</reg>
+               </choice> to make me take hold of the pen to mark but did not do it, but they put my name down.  Next day when I recovered from a state of inebriety and was told I had enrolled I thought they were in jest.  In three or four days I was told that they held me bound as an emigrant.  and some white people are now claiming my place and threatening to turn me out of doors having bought the good will of James McGrey</p>
+            <p>Signed this 9th April 1834</p>
+            <closer>
+               <signed>
+                  <name>Edward Walsh</name> his x mark</signed>
+               <add>Test. <name>Jesse Bushyhead</name>
+               </add>
+               <pb n="2" facs="pa0043b.small.jpg"/> No 4. &amp; 5. <lb/> Certificate of E54 <lb/> concerning Chas. Jones being enrolled- <lb/> also <lb/> Edwd Welch's Certificate</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

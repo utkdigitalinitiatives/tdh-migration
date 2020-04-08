@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Drawing of the mid-18th century Cherokee village of Chota] /
+			 [by Gerald F. Schroedl] : a machine-readable transcription</title>
+            <author>Schroedl, Gerald F.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. 3k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>mm011</idno>
+            <idno>OCLC: 45076445</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Museum, University of
+				Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Drawing of the mid-18th century Cherokee village of Chota] /
+				[by Gerald F. Schroedl]</title>
+               <author>Schroedl, Gerald F.</author>
+               <date/>
+               <extent>1p</extent>
+               <note type="summary">This drawing depicts the layout of Chota or
+				Echota, an 18th century Overhill Cherokee village. It shows a central village
+				plaza with both a circular winter council house and rectangular summer council
+				house, which were used for public, social, and political events. Shown also are
+				domestic dwellings with the same set-up, a circular winter house alongside a
+				rectangular summerhouse. Also drawn are areas of dense refuse-filled pits.
+				Archeological studies by the University of Tennessee from 1969 -1974 indicate
+				that in the mid -1700's Chota had a population of around 300-500. There were
+				approximately 60 domestic houses surrounding the village plaza that extended
+				along the river for about a mile. Chota was recognized by Europeans as well as
+				other Indians for its powerful social and economic influence and was regarded
+				as the capital of the Cherokee nation. The excavations were conducted under
+				contract with the National Park Service and the Tennessee Valley Authority
+				(TVA). Principal investigator, Alfred K. Guthe. Field Directors, J. Worth
+				Greene, Duane H. King, and Gerald F. Schroedl</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note type="document">mm011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architectural drawing</term>
+               <term>Cherokee Indians--Antiquities</term>
+               <term>Salvage archaeology</term>
+               <term>Historic sites</term>
+               <term>Tennessee</term>
+               <term>Chota Site (Tenn.)</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n78090514"
+                        role="Artist http://id.loc.gov/vocabulary/relators/art">Schroedl, Gerald F.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm011.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>Plan of Chota, mid 18th century Cherokee village, shows
+				  townhouse, domestic dwellings, village plaza, and areas of dense refuse-filled
+				  pits, based on archaeological excavations by University of Tennessee 1969-1974.
+				  Drawing by Gerald F. Schroedl. This information was provided by the Frank H.
+				  McClung Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

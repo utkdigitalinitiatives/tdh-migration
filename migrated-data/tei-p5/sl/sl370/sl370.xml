@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl370">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1835 Jul. 9, Tallahassee [to Andrew Jackson Donelson, Washington, D.C.] / Dan[ie]l S. Donelson : a machine readable transcription of an image</title>
+            <author>Donelson, Daniel S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl370</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1835 Jul. 9, Tallahassee [to Andrew Jackson Donelson, Washington D.C.] / Dan[ie]l S. Donelson</title>
+               <author>Donelson, Daniel S.</author>
+               <date when="1835-07-09">July 9, 1835</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated July 9, 1835, from Daniel S. Donelson in Tallahassee, FL to his brother Andrew Jackson Donelson, who was at the time serving as personal secretary to their uncle President Andrew Jackson.  Daniel writes primarily about his struggles farming in Florida and about the incessant sickness and death in the region.</note>
+               <note type="collection" anchored="true">Bettie M. Donelson Papers</note>
+               <note type="box" anchored="true">III-E-2-3, b1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl370</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Donelson, Andrew Jackson 1799-1871</term>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Sicknesses</term>
+               <term>Farming</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Donelson, Daniel S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl370a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Tallahassee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>July 9th 1835</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Brother</salute>
+            </opener>
+            <p>I am indebted to you some two or three letters, which would have been sooner answered but for indisposition- I am not yet well though sufficiently so to attend to the contents of your last letter which was <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> on the 7th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> You will see that I have placed my signature to the obligations, as desired, I hope, as they will (if no barrier interposes) <del type="overstrike">they</del> reach you in time to be presented to the Gentlemen from whom the purchase was made- I consider it an excellent bargain, and shall ever feel under lasting obligations to you for it- be assured of one thing that they payment shall be promptly met; you say that  <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Williams</name> and myself have only to advance $840. has this been done? if not inform me and the amount shall be forwarded forthwith. </p>
+            <p>The Siths purchase is a good one, the Negroes <add>are</add> low, but my  <unclear>fears are</unclear> are not a little <pb n="2" facs="sl370b.small.jpg"/> around <unclear>when</unclear> reflection is made of the large amount of money which I will have to pay- the first payment being made the others could be very easily met by the labor of the Negroes provided we had cleared land to put them on immediately, but this we have not without going more deeply in debt- having  however, left the land of our nativity in search of wealth I must <choice>
+                  <orig>riske</orig>
+                  <reg>risk</reg>
+               </choice>
+               <del>
+                  <unclear>inr</unclear>
+               </del> something, therefore this enterprise perhaps too hazardous for one in my circumstances.</p>
+            <p>Considering all things I have a pretty good Cotton crop, since the 1st of June I have frequently <add>been</add> unable to have out of 14 hands more than 3 or 4 in the crop to work in consequence of sickness- about the 15th of that month my overseer with his family reached my house on the 22nd <choice>
+                  <abbr>ult.</abbr>
+                  <expan>ultimo</expan>
+               </choice> he died of  bilious fever, leaving a wife and 3 helpless children, all now and sometime before his death <choice>
+                  <orig>sicke</orig>
+                  <reg>sick</reg>
+               </choice> - I have now 10 sicke blacks amongst the number large whom I am afraid I shall lose, this is his 10th <unclear>weeke. margaret</unclear> Nancy and our youngest child have been  sicke though we are 5 miles from the place I rented in <pb n="3" facs="sl370c.small.jpg"/> the pine woods- in a word this is the most sickly if not the most deadly country extant; I have seen more sickness for the last two months than I ever witnessed before during my whole life.  My expenses will therefore be heavy in the way of Doctor's bills, etc. though I hope to make something clear notwithstanding having been pretty much without an Overseer since the <date>1st of April</date> I have been a good deal exposed to the hot sun and feel no surprise at my own sickness, I cannot now stand it consequently feel the want of my overseer greatly; I cannot now get one I fear of any description- the greatest difficulty will be   in the picking out of my crop, my hands being almost all sicke, <del type="overstrike">and</del> no overseer and I myself indisposed 5 miles distance, but enough.</p>
+            <p>I sometime begin to think though will not indulge the thought, that if I were again in <choice>
+                  <abbr>Ten.</abbr>
+                  <expan>Tennessee</expan>
+               </choice> I should be content to remain there, though there is money to be made here, at the riske of life.   I would <pb n="4" facs="sl370d.small.jpg"/> greatly have <choice>
+                  <orig>prefered</orig>
+                  <reg>preferred</reg>
+               </choice> it had I gone to <name>Mississippi</name>, there I would have been in it <choice>
+                  <orig>rideing</orig>
+                  <reg>riding</reg>
+               </choice> distance of a healthy region I still entertain <add>the hope</add> that at no distant period my wishes in this respect will be realized, though I doubt whether <del type="overstrike">it</del>
+               <add>they</add> should be at this time.</p>
+            <p>Margaret and Nancy, <unclear>air mm</unclear> in love to sister Emily and the family- present me affectionately to the <choice>
+                  <abbr>Genrl</abbr>
+                  <expan>General</expan>
+               </choice> and believe me sincerely</p>
+            <closer>
+               <salute>your Brother</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Danl</abbr>
+                        <expan>Daniel</expan>
+                     </choice> S. Donelson</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

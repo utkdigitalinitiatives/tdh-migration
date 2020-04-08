@@ -1,0 +1,211 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl157">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1839 Aug. 30, Nashville, [to] Robert Woods, Tyrus Springs, Tennessee / James Woods : a machine readable transcription of an image</title>
+            <author>Woods, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl157</idno>
+            <idno>OCLC: 50564745</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1839 Aug. 30, Nashville, [to] Robert Woods, Tyrus Springs, Tennessee / James Woods</title>
+               <author>Woods, James </author>
+               <date when="1839-08-30">August 30, 1839</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written from James Woods in Nashville to his brother Robert Woods, dated August 30, 1839.  The majority of the letter concerns a Major Norvill who has become quite ill, and James reports that he is taking calomel to treat his illness.</note>
+               <note type="collection" anchored="true">Woods Family</note>
+               <note type="box" anchored="true">Foster-West</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sl157</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Medicine</term>
+               <term>Norvill, Major</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Woods, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl157a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1839-08-30">
+                        <choice>
+                           <abbr>Augt.</abbr>
+                           <expan>August</expan>
+                        </choice> 30th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Brother Robert,</salute>
+            </opener>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Majr</abbr>
+                     <expan>Major</expan>
+                  </choice> Norvill</name> is quite Sick,  he came in Town on Monday Morning, he was taken very unwell soon after getting in and had to <choice>
+                  <orig>ritourn</orig>
+                  <reg>return</reg>
+               </choice> home, he has been closely Confined to his Bed and his <choice>
+                  <orig>diseas</orig>
+                  <reg>disease</reg>
+               </choice> growing worse up to the present time, for as yet his <choice>
+                  <orig>Medecine</orig>
+                  <reg>Medicine</reg>
+               </choice> has had no effect, on but little, he had a <choice>
+                  <orig>sevear</orig>
+                  <reg>severe</reg>
+               </choice> Chill on Tuesday which last two hours, no chill since, his <choice>
+                  <orig>stomac</orig>
+                  <reg>stomach</reg>
+               </choice> very <unclear>unstable</unclear>
+               <choice>
+                  <orig>dificult</orig>
+                  <reg>difficult</reg>
+               </choice> to get anything to lay on it, think his <choice>
+                  <orig>Phisicians</orig>
+                  <reg>Physicians</reg>
+               </choice> consider his situation critical, <name type="person">Dr. Kelly</name>
+               <choice>
+                  <abbr>calld.</abbr>
+                  <expan>called</expan>
+               </choice> in <name type="person">Dr. Irving</name> Yesterday evening, his case is <choice>
+                  <orig>conjestive</orig>
+                  <reg>congestive</reg>
+               </choice> Fever, on tending that way, he has a <unclear/>
+               <unclear>Constitution</unclear>, he is yet strong and I have <choice>
+                  <orig>hops</orig>
+                  <reg>hopes</reg>
+               </choice> will recover, I <choice>
+                  <orig>havennt herd</orig>
+                  <reg>haven't heard</reg>
+               </choice> either of the <choice>
+                  <abbr>Doctrs</abbr>
+                  <expan>Doctors</expan>
+               </choice> express any <choice>
+                  <orig>decidid</orig>
+                  <reg>decided</reg>
+               </choice> opinion <del type="overstrike">about</del> on his case, Dr Kelly told  me this morning that his pulse was better then it had been  since he was attacked, but still the <choice>
+                  <orig>medecine</orig>
+                  <reg>medicine</reg>
+               </choice> did not have its effect— I will write you again tomorrow and let you know what change, if any, takes place —</p>
+            <p>
+               <name type="person">Mr Erwin</name> is at his post, and has his Son to do the active business about the Bank —</p>
+            <p>Nothing from <choice>
+                  <abbr>Br.</abbr>
+                  <expan>Brother</expan>
+               </choice>
+               <name type="person"> Joseph</name> that I know of Since you left home, except a Letter to your Son <name type="person">James</name> Contents of which I suppose has been <choice>
+                  <orig>comunicated</orig>
+                  <reg>communicated</reg>
+               </choice> to you.</p>
+            <p>If I hear anything further from Mr. Norvill before it is time to mail this, will add a postscript—</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Vy</abbr>
+                     <expan>Very</expan>
+                  </choice>
+                  <choice>
+                     <orig>Truley</orig>
+                     <reg>Truly</reg>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <emph>James Woods</emph>
+                  </name>
+               </signed>
+               <pb n="2" facs="sl157b.small.jpg"/>
+               <choice>
+                  <abbr>P.S.</abbr>
+                  <expan>Post Script</expan>
+               </choice> I <unclear>See</unclear> Dr. Kelly this evening, at 11 Oclock today he says <choice>
+                  <abbr>Majr</abbr>
+                  <expan>Major</expan>
+               </choice> Norvill's <choice>
+                  <orig>Simptoms</orig>
+                  <reg>Symptoms</reg>
+               </choice> were all more <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice>, says he has taken 300 grains Calomel Since Monday, 100 of which last night, rather <choice>
+                  <orig>Strang doasing</orig>
+                  <reg>Strange dosing</reg>
+               </choice> — You will hear from me again tomorrow — <choice>
+                  <abbr>J.W</abbr>
+                  <expan>James Woods</expan>
+               </choice>
+               <pb n="3" facs="sl157c.small.jpg"/>
+               <add place="top, center">single</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Robert Woods</name>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tyrus Springs</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

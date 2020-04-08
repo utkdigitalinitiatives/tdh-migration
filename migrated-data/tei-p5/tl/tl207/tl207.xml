@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl207">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1827 Oct. 9, Blountville, [Tennessee] [to] Samuel Houston, Nashville, Tennessee / Tho[ma]s White: a machine readable transcription of an image</title>
+            <author>White, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl207</idno>
+            <idno>OCLC: 49932166</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1827 Oct. 9, Blountville, [Tennessee] [to] Samuel Houston, Nashville, Tennessee / Tho[ma]s White</title>
+               <author>White, Thomas</author>
+               <date when="1827-10-09">October 9, 1827</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">The following document is a letter, dated October 9, 1827, written to Governor Sam Houston (1827-1829) from Thomas White, sheriff of Sullivan County.  White writes in regards to a man by the name of James Havron who had recently escaped from Blountville Jail.  He encloses a description of Havron and encourages the governor to offer a reward for the fugitive's capture.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true"> Brown - White, b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">tl207</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Houston, Sam, 1793-1863</term>
+               <term>Fugitives from justice</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">White, Thomas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl207a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Blountville</name>
+                     <date when="1827-10-09">9 October 1827</date> —</addrLine>
+               </address>
+            </opener>
+            <p>Broke Blountville Jail (<name type="place">Sullivan County</name>) on the night of the <date when="1827-09-05">5th Instant </date>
+               <name type="person">James P. Havron</name> who was imprisoned in said Jail for murdering <name type="person">William Humphries</name>, said Havron is about the age of Twenty five years, five feet nine or ten inches high, sandy hair rather light, grey eyes, and bad <add place="supralinear">or down</add> countenances, Tolerably <unclear>esoat</unclear> made</p>
+            <p>
+               <address>
+                  <addrLine>His Excellency <name type="person">Samuel Houston</name> Governor of</addrLine>
+               </address>
+            </p>
+            <p>
+               <choice>
+                  <abbr>Dr.</abbr>
+                  <expan>Dear</expan>
+               </choice> Sir, I have thought it best to send to you the above description that you might if you think proper, offer a reward for the above described <choice>
+                  <orig>fellon</orig>
+                  <reg>felon</reg>
+               </choice>, it is believed that  his chance of escaping the gallows could only be affected by his not <choice>
+                  <orig>comeing</orig>
+                  <reg>coming</reg>
+               </choice> to trial, several persons committed to Jails in this District lately for like offences have, made their escapes or broke  Jail, and the good of society no doubt requires that some of them at least should be apprehended and punished. I have made great exertions since he broke Jail to apprehend him, but have been <choice>
+                  <orig>unsucessful</orig>
+                  <reg>unsuccessful</reg>
+               </choice>, Our representatives Messrs <name type="person">Gammon</name> &amp; <name type="person">McClellan</name> who are acquainted particularly I presumed with the circumstances can relate them to you, and give you more particular accounts of the murder, and character of said Havron than I have —</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>Obt</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Thos.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> White</name> Sheriff of</signed>
+               <signed>Sullivan County</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl207b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Blountville <choice>
+                        <abbr>T</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date when="--10-09">
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 9</date>
+                     <add place="right margin">Paid 18 ¾</add>
+                  </addrLine>
+                  <addrLine>His Excellency Samuel Houston <choice>
+                        <orig>Govenor</orig>
+                        <reg>Governor</reg>
+                     </choice> of</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="middle of page">J P Havron <lb/> Fugitive <lb/> $50. " <lb/>
+                  <date when="1827-10-29">29 Oct 1827</date>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

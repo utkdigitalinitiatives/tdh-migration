@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1825 Feb. 20 [to] Col[onel] George Wilson, Nashville, Tennessee / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl040</idno>
+            <idno>OCLC: 50029353</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1825 Feb. 20 [to] Col[onel] George Wilson, Nashville, Tennessee / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1825-02-20">February 20, 1825</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated February 20, 1825 from Andrew Jackson to Colonel George Wilson regarding the recent Presidential election. Jackson charges that President John Quincy Adams and Henry Clay made a corrupt bargain that resulted in Clay being offered the position of Secretary of State.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">27J</note>
+               <note type="document" anchored="true">sl040</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States -- Politics and government -- 1817-1825</term>
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Clay, Henry, 1777-1852</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl040a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">County of Washington</name>
+                  </addrLine>
+               </address>
+               <date when="1825-02-20">
+                  <choice>
+                     <abbr>Febry</abbr>
+                     <expan>February</expan>
+                  </choice>20th 1825</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>The public Journals will have given you the result of the presidential election, and how it was brought about by the Union of <name type="person">Clay</name> and his friends with <name type="person">Mr Adams</name>— The predictions in past have been fulfilled, Mr Clay, it is said, has been offered the office of <choice>
+                  <abbr>Sec</abbr>
+                  <expan>Secretary</expan>
+               </choice> of State, and it is also said he has agreed to accept it. This to my mind is the most open daring corruption that has ever shewn itself under our government, and if not checked by the people, will lead to open direct bribery in less than twenty years— for what is this barter of office for votes but bribery— Mr Clay is prostrate here in the minds of all honest &amp; <choice>
+                  <orig>honourable</orig>
+                  <reg>honorable</reg>
+               </choice> men— What will be his fate in <name type="place">Kentucky</name> I cannot say, but <name type="person">Mr Bibb</name> who is here, says this act will promote him in Kentucky.</p>
+            <p>I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> your letter and disposed of it as you had directed, I regret I had not it in my power to serve you, it will give me pleasure when occasion occurs. I can do nothing with your claim, had <name type="person">Mr Dercker</name> sent on his deposition I have no doubt but I could have got the account settled; I could have obtained a <choice>
+                  <orig>refference</orig>
+                  <reg>reference</reg>
+               </choice> to the <choice>
+                  <abbr>atto. genl.</abbr>
+                  <expan>attorney</expan>
+               </choice>
+               <del type="overstrike">on</del> had your statement or memorial <del type="overstrike">have &amp;</del> been deposed to, I could have obtained a <choice>
+                  <orig>refference</orig>
+                  <reg>reference</reg>
+               </choice> and the<choice>
+                  <abbr> atto. genls</abbr>
+                  <expan>attorney generals</expan>
+               </choice> opinion, as it is, I will bring on <pb n="2" facs="sl040b.small.jpg"/> your letter &amp; memorial, and you can have them changed, and transmitted in the recess, and have the opinion of the <choice>
+                  <abbr>atto genl</abbr>
+                  <expan>attorney general</expan>
+               </choice> on it.</p>
+            <p>Mrs. J. has been unwell for about 3 weeks She is recovering, and I hope will be able to travel so soon as the senate can rise. I cannot leave it <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> it rises, for <del type="overstrike">in</del> the virtue of the Senate I have great hopes will prevent the consecration of those corrupt bargains for office.</p>
+            <p>Mrs. J. joins me in respects to you, your amiable daughter &amp; family &amp; believe me sincerely your friend</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <pb n="3" facs="sl040c.small.jpg"/>
+               <address>
+                  <addrLine>Free <name>
+                        <emph>Andrew Jackson</emph>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice> George Wilson</name>
+                     <name type="place">Nashville Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="right of address">Ct 1825 Genl. A Jackson Charges H. Clay with bribery &amp; corruption</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

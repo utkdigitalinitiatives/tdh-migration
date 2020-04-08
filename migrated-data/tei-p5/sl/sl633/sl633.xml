@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl633">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1849 Dec. 13, Indianapolis [Indiana, to William Trousdale] / J. Mitchell : a machine readable transcription of an image</title>
+            <author> Mitchell, J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl633</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1849 Dec. 13, Indianapolis [Indiana, to William Trousdale] / J. Mitchell</title>
+               <author> Mitchell, J.</author>
+               <date when="1849-12-13"> 
+			 December 13, 1849</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor William Trousdale from J. Mitchell, dated December 13, 1849. Mitchell is writing on behalf of the African Colonization Society. He advocates spending more resources on the colonization of Liberia than on the African Squadron. </note>
+               <note type="collection" anchored="true">Governor William Trousdale Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl633</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Slavery - Anti slavery movements - United States</term>
+               <term>Liberia</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr98019139"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Mitchell, James, 1818-1903</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl633a.small.jpg"/>
+            <opener>
+               <add>The African Slave Trade and Colonization.</add>
+               <salute>Dear Sir:-</salute>
+            </opener>
+            <p>Doubtless you are apprised of the horrors of the "African Slave Trade," by which over 80,000 Africans are exported from <name>Africa</name> annually, and sold into bondage; and how ineffectual the policy pursued for many years by the <name>United States</name>, <name>England</name>, and <name>France</name>, has been to effect its suppression, and likewise their fruitless expenditure of money to the amount of over one hundred million of dollars.</p>
+            <p>And likewise, we suppose, you know how much good has been accomplished by colonization. A few benevolent men in this land having settled and erected the Republic of <name>Liberia</name>, for the sum of not more than one million dollars, which sum would not support the American Squadron on the African coast three years.</p>
+            <p>And further we suppose that you are acquainted with the doings of the British Parliament on this subject, from whose movements we learn that the English Government desires to change the policy of blockading the coast of Africa into that of settling said coast with colonists.</p>
+            <p>After reminding you of these facts, we respectfully request that you will use your influence in securing a change of our national policy on this point, and have the thousands of dollars that are regularly voted to the support of the African Squadron diverted in part from that object, and applied to maintaining a line of transports, which shall carry our free people of color who desire to emigrate to Africa. In doing this you will render a great service to the American Colonization Society, which is unable to meet the growing demand for mean of transportation.</p>
+            <closer>
+               <salute>Yours respectfully,</salute>
+               <signed>
+                  <name>J. Mitchell</name>
+               </signed>
+               <add>, Agent <choice>
+                     <abbr>A. C.</abbr>
+                     <expan>American Colonization</expan>
+                  </choice> Society.</add>
+               <address>
+                  <addrLine>
+                     <name>Indianapolis</name>, <date>
+                        <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 13, 1849</date>.</addrLine>
+               </address>
+               <address>
+                  <addrLine>To His <choice>
+                        <abbr>Exceley</abbr>
+                        <expan>Excellency</expan>
+                     </choice> the</addrLine>
+                  <addrLine>Governor of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

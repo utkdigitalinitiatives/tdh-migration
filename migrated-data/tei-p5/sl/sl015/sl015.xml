@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Invitation] 1834 Dec. 20 [Invitation to the Jackson Dinner and Ball to]   Gov[ernor] Robert Sucat: a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl015</idno>
+            <idno>OCLC: 50009739</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Invitation] 1834 Dec. 20 [Invitation to the Jackson Dinner and Ball to]   Gov[ernor] Robert Sucat</title>
+               <date when="1834-12-20">December 20, 1834</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is an invitation to the Jackson Dinner and Ball, dated December 20, 1834. The dinner and ball is to be held in Medina, Tennessee on January 8, 1835. The invitation was sent to Governor Robert Sucat.</note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">8</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl015</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Invitation cards</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Tennessee</term>
+               <term>Sucat, Robert</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl015a.small.jpg"/>
+            <head>
+               <figure>
+                  <figDesc>eagle and shield</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>eagle and shield</figDesc>
+               </figure>LIBERTY. <date when="1835">1835</date>.</head>
+            <head>
+               <emph>
+                  <name type="person">JACKSON</name> DINNER AND BALL</emph>
+            </head>
+            <p>THE COMPANY OF <lb/>
+               <hi rend="written text">
+                  <name type="person">
+                     <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice> Robert <unclear>Sucat</unclear>
+                  </name>
+               </hi>
+               <hi rend="b">Is</hi> respectfully solicited at the ASSEMBLY ROOM of <name type="person">William King</name>, in<name type="place">MEDINA</name>, on Thursday, the <hi rend="b">
+                  <date when="1835-01-08">8TH OF JANUARY, 1835</date>
+               </hi>, at one o'clock, p.m.</p>
+            <p>
+               <list type="simple">
+                  <item>
+                     <name type="person">J. CHADWICK</name>,</item>
+                  <item>
+                     <name type="person">A. WILDER</name>,</item>
+                  <item>
+                     <name type="person">V. WOOD</name>,</item>
+                  <item>
+                     <name type="person">A. MORTON</name>,</item>
+                  <item>
+                     <name type="person">S. HUMPHREVILLE</name>,</item>
+                  <item>
+                     <name type="person">W. WELTON</name>,</item>
+                  <item>
+                     <name type="person">D. BARNHART</name>,</item>
+                  <item>
+                     <name type="person">G. BATES</name>
+                  </item>
+               </list>} <add place="right of list">
+                  <hi rend="i">Committee</hi> OF <hi rend="i">Arrangements</hi>.</add>
+               <add place="bottom left corner">
+                  <date when="1834-12-20">
+                     <choice>
+                        <abbr>Dec.</abbr>
+                        <expan>December</expan>
+                     </choice> 20th, 1834</date>
+               </add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

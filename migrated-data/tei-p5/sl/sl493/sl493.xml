@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl493">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]    1806 Nov. 6 [to] James Winchester / Alex Alexander: a machine readable transcription of an image</title>
+            <author>Alexander, Alex</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl493</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1806 Nov. 6 [to] James Winchester / Alex Alexander</title>
+               <author>Alexander, Alex</author>
+               <date when="1806-11-06"> November 6, 1806</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Alex Alexander to General James Winchester, dated November 6, 1806. Alexander owes money to Winchester. He explains that he is working for General Andrew Jackson, but still does not have the money. Alexander asks if Winchester would be willing to take property instead.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl493</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Winchester, James, 1766-1826</term>
+               <term>Debt service</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Alexander, Alex</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl493a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Nov.</abbr>
+                           <expan>November</expan>
+                        </choice> 6th 1806</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Winchester,</salute>
+            </opener>
+            <p>Sir I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> yours wishing to know where I was and what prospect of receiving your pay from me I am in the employ of <name>Genl <choice>
+                     <abbr>A</abbr>
+                     <expan>Andrew</expan>
+                  </choice> Jackson</name>, in his distillery and Shall be during this season, I have not cash at present but if you will take property I can make you payment, at any moment, if that will not suit you, I hope you <add>wait</add> will a little <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> I can have a little time to make the money, when you shall receive it <choice>
+                  <orig>honourably</orig>
+                  <reg>honorably</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute> I am Sir <lb/> yours</salute>
+               <signed>
+                  <name>Alex Alexander</name>
+               </signed>
+               <pb n="2" facs="sl493b.small.jpg"/>
+               <address>
+                  <addrLine>Genl <name>James Winchester</name>
+                  </addrLine>
+               </address>
+               <add>A. Alexander <lb/>
+                  <date>6 <choice>
+                        <abbr>Oct</abbr>
+                        <expan>October</expan>
+                     </choice> 1806</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

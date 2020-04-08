@@ -1,0 +1,175 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl302">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Nov. 7, Fountain Head, Sumner County, Tennessee [to] A[dam] Fergusson, Carthage, Tennessee / Abram Bradley   : a machine readable transcription of an image</title>
+            <author>Bradley, Abram</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl302</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Nov. 7, Fountain Head, Sumner County, Tennessee [to] A[dam] Fergusson, Carthage, Tennessee / Abram Bradley</title>
+               <author>Bradley, Abram</author>
+               <date when="1850-11-07">November 7, 1850</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Abram Bradley to Adam Fergusson, dated November 7, 1850. Bradley writes that his father received 274 acres for his service in the Revolutionary War. It is possible that he is due another 160 acres. Bradley wants Fergusson, a pension attorney,  to write him and let him know for sure. </note>
+               <note type="collection" anchored="true">Fergusson Papers IV-G-1</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl302</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Land tenure</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bradley, Abram</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl302a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Fountain Head</name>
+                     <name>Sumner County</name> Tennes<gap/>
+                     <unclear>see</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Novr</abbr>
+                           <expan>November</expan>
+                        </choice> 7th 1850</date>
+                  </addrLine>
+                  <addrLine>
+                     <name>Mr  <choice>
+                           <abbr>A.</abbr>
+                           <expan>Adam</expan>
+                        </choice>
+                        <choice>
+                           <orig>Furgason</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>after parting with you in <name>Gallatin</name> I felt Sorry that I had not Said Something more to you on the <choice>
+                  <orig>Sebject</orig>
+                  <reg>Subject</reg>
+               </choice> of Land <choice>
+                  <orig>claimes</orig>
+                  <reg>claims</reg>
+               </choice> in regard to the old Revolutionary Soldiers and know if my Father or his Heirs is entitled to any thing for his Services. He enlisted <date when="1777-08-09">August the 9th 1777</date> for three years Served his time out was Discharged drew his monthly pay drew a Land Warrant for 274 acres was all he ever drew <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> he was <choice>
+                  <orig>enscribed</orig>
+                  <reg>inscribed</reg>
+               </choice> on the <choice>
+                  <orig>Pention</orig>
+                  <reg>Pension</reg>
+               </choice> List Some few years before his Death. But he has never drew any Land except the 274 acres that he was entitled <choice>
+                  <orig>too</orig>
+                  <reg>to</reg>
+               </choice> under his enlistment I see that in the different <choice>
+                  <orig>discriptions</orig>
+                  <reg>descriptions</reg>
+               </choice> of Troops named by this man at <name type="place">Detroit</name> he names the Soldiers of the Revolution as being entitled to 160 acres if there is any such ⁁ <add>Act</add> passed Since the Revolutionary War closed he has never Received any thing only what  is named above. <del type="overstrike">If th</del> Please Write to me and let me know whether or not there is any thing due. Myself and Brother is well and remain your friends <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and etcetera</expan>
+               </choice>
+            </p>
+            <closer>
+               <signed>
+                  <name>Abram Bradley</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> Direct your letter to Fountain Head <choice>
+                     <abbr>P. O.</abbr>
+                     <expan>Post Office</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="sl302b.small.jpg"/>
+               <add place="upper left corner">
+                  <address>
+                     <addrLine>Fountain Head Paid</addrLine>
+                     <addrLine>
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                        <date>Nov 9</date>
+                     </addrLine>
+                  </address>
+               </add>
+               <address>
+                  <addrLine>Mr A. Furgason Esqr</addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <orig>Carthradge</orig>
+                           <reg>Carthage</reg>
+                        </choice> Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Dec. 7 Washington City, [to] W[illia]m H Crawford / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl007</idno>
+            <idno>OCLC: 50007863</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Dec. 7 Washington City, [to] W[illia]m H Crawford / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1815-12-07">December 7, 1815</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written  to William H. Crawford from Andrew Jackson on December 7, 1815. The letter discusses two French Fours, which are two four horse teams that Jackson found in Pensacola. The owners of the teams could not be identified and Jackson hopes that the United States will consider the teams their property so that he will not be monetarily charged for their upkeep.</note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">16</note>
+               <note type="document" anchored="true">sl007</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Horses</term>
+               <term>Indians of North America -- Claims against</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl007a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington City</name>
+                     <date when="1815-12-07">7 <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 1815</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>When I <choice>
+                  <abbr>enterd</abbr>
+                  <expan>entered</expan>
+               </choice>
+               <name type="place">Pensacola</name> in the month of <date when="1814-12">
+                  <choice>
+                     <abbr>Nov.</abbr>
+                     <expan>November</expan>
+                  </choice> 1814</date>, a Battery in the main street mounted with two French Fours , was opened upon my column, which was immediately charged &amp; carried. These <choice>
+                  <orig>peices</orig>
+                  <reg>pieces</reg>
+               </choice>, it is <choice>
+                  <orig>beleived</orig>
+                  <reg>believed</reg>
+               </choice>, were landed by the British, &amp; were British property: — The Spaniards have never claimed them</p>
+            <p>Having good carriages they were conveyed to <name type="place">Mobile</name>, where they remained until the restoration of peace, when the officer commanding at that fort (<name type="person">
+                  <choice>
+                     <abbr>Col. Wm</abbr>
+                     <expan>Colonel William</expan>
+                  </choice> P Anderson</name>) was directed to have them, with their equipments forwarded to <name type="place">Nashville</name> with the discharged militia: The Colonel dismounted them, &amp; sent only the barrels.</p>
+            <p>The threatened hostility of the Indians on the <name type="place">Mississippi</name> induced me to have them remounted &amp; made ready for the field — The <choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> attending which (amounting to $ 258) has been paid out of the public funds, under the <unclear>rapposition</unclear> that they had become the property of the <name type="place">United States</name>
+            </p>
+            <p>On this subject, the circumstances of which are thus laid before you, I wish some order to be taken.</p>
+            <p>If the government cannot consider them as the property of the nation &amp; shall refuse to receive them the <choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> of recounting them will be charged to me &amp; the guns ⁁ <add place="supralinear">be subject to <del type="overstrike">
+                     <unclear/>
+                  </del>
+               </add>
+               <del type="overstrike">
+                  <unclear>resoudes</unclear> at</del> my ⁁ <add place="supralinear">own</add> disposition</p>
+            <closer>
+               <salute>I have the honor <choice>
+                     <abbr>&amp; c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <emph>Andrew Jackson</emph>
+                  </name>
+               </signed>
+               <signed>
+                  <choice>
+                     <abbr>Mjor Genl Comd. O. S.</abbr>
+                     <expan>Major General Commander of Service</expan>
+                  </choice>
+               </signed>
+               <address>
+                  <addrLine>at my <add place="supralinear">own</add>
+                     <unclear>disposition</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Hon Wm</abbr>
+                           <expan>Honorable William</expan>
+                        </choice> H Crawford</name>}</addrLine>
+               </address>
+               <pb n="2" facs="sl007b.small.jpg"/>
+               <address>
+                  <addrLine>Washington City</addrLine>
+                  <addrLine>
+                     <date when="1815-12-07">7 <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 1815</date>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Genl A.</abbr>
+                        <expan>General Andrew</expan>
+                     </choice> Jackson</addrLine>
+               </address>
+               <add place="below address">relative to the payment <choice>
+                     <abbr>&amp; c</abbr>
+                     <expan>et cetera</expan>
+                  </choice> of <choice>
+                     <orig>Expences</orig>
+                     <reg>Expenses</reg>
+                  </choice> incurred in mounting 2-4 pounders taken at Pensacola <choice>
+                     <abbr>&amp; c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </add>
+               <add place="bottom">
+                  <date when="1815-12">
+                     <choice>
+                        <abbr>Decr.</abbr>
+                        <expan>December</expan>
+                     </choice> 1815</date>
+               </add>
+               <pb n="3" facs="sl007c.small.jpg"/>
+               <address>
+                  <addrLine>The <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>W.</abbr>
+                           <expan>William</expan>
+                        </choice> H. Crawford</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Sec.</abbr>
+                        <expan>Secretary</expan>
+                     </choice> of war</addrLine>
+                  <addrLine>present</addrLine>
+               </address>
+               <add place="below address, upside down">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Woolley of the Order <unclear>Patting</unclear> has been directed to take charge of the <unclear>Gant</unclear> — <name type="person">J morton</name>
+                  <date when="1815-12-20">
+                     <choice>
+                        <abbr>Dec.</abbr>
+                        <expan>December</expan>
+                     </choice> 20 1815</date>
+               </add>
+               <add place="right of address, sideways">The <choice>
+                     <orig>Superintendant</orig>
+                     <reg>Superintendent</reg>
+                  </choice> of the <choice>
+                     <orig>ordonance</orig>
+                     <reg>ordinance</reg>
+                  </choice> department will take the necessary <del type="overstrike">ordence</del>
+                  <add place="supralinear">measures</add> to preserve the property &amp; the <unclear>accsnitant</unclear> will allow the <unclear>sin</unclear> expended <del type="overstrike">upon</del>
+                  <add place="supralinear">in</add> remounting them<add rend="different ink">
+                     <name type="person">
+                        <abbr>Colonel</abbr> Bumford</name>
+                  </add>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

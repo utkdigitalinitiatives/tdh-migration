@@ -1,0 +1,178 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Feb. 9, Washington [to] Capt[ain] John Donelson / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl039</idno>
+            <idno>OCLC: 50029265</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 Feb. 9, Washington [to] Capt[ain] John Donelson / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1824-02-09">February 9, 1824</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter from Andrew Jackson to Captain John Donelson, dated February 9, 1824. In the letter, Jackson discusses international affairs, and the bad relationship between England and the United States, Russia, South America, and Europe. Jackson states to Donelson that he will run for President of the United States in the 1824 election if he feels that the public wants him to run.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents  J1</note>
+               <note type="folder" anchored="true">26J</note>
+               <note type="document" anchored="true">sl039</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States -- Politics and government -- 1817-1825</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl039a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">City of Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1824-02-09">
+                        <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice> 9th 1824</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Your letter of the 22nd ultimo which is last and afforded me much pleasure. The account you give me of my overseer, &amp; the progress of my farm &amp; <choice>
+                  <orig>Domestec</orig>
+                  <reg>Domestic</reg>
+               </choice> concerns is gratifying — I feel <choice>
+                  <orig>gratefull</orig>
+                  <reg>grateful</reg>
+               </choice> to my young female friends for their attention to Mrs. <choice>
+                  <abbr>J</abbr>
+                  <expan>Jackson</expan>
+               </choice>. that her spirits should be kept up is all together important to her heart; and nothing as likely to obtain this, as the company of her young female friends. The view you have taken of our relations with <name type="place">Europe</name>; and the <choice>
+                  <orig>entention</orig>
+                  <reg>intention</reg>
+               </choice> of the combination of the Holy <choice>
+                  <orig>alience</orig>
+                  <reg>alliance</reg>
+               </choice>, one well founded. I have no confidence in <name type="place">England</name>; nothing but her interest will induce her to take a stand against the combination of Europe, but this may; her ⁁ <add place="supralinear">own</add> situation is not without its perils; <choice>
+                  <orig/>
+                  <reg>Russia</reg>
+               </choice> has been endeavouring to shut her <unclear>harbors</unclear> from her Dominion, <name type="place">South America</name> has opened to her view a profitable commence, &amp; a <choice>
+                  <orig>markett</orig>
+                  <reg>market</reg>
+               </choice> for her <unclear>many</unclear> fortunes, this may induce England to act in behalf of South America, and her interest will induce her; If ⁁ <add place="supralinear">it</add> does; with the stand the  <name type="place">
+                  <choice>
+                     <abbr>U</abbr>
+                     <expan>United</expan>
+                  </choice> States</name>  has, &amp; will take, the — <pb n="2" facs="sl039b.small.jpg"/> despots of Europe will pour before they attempt to interfere with South America.</p>
+            <p>The presidential question begin to agitate the minds of the people much; the attempt of a small minority of the members of Congress to get up a caucus &amp; form public opinion to take up a particular candidate will still agitate it more; &amp; I trust will eventuate in prostrating the caucus system all together; should the people suffer themselves to be dictated to by <unclear>designcy</unclear> demagogues, who carry on anything by intrigue, &amp; management they cannot expect to see their present happy government perpetrated; it must sink under the scenes of corruption that will be procured under such a system; and in time open <unclear>bribery may</unclear>, &amp; I have no doubt will be resorted to, to obtain a seat in the Presidential chair, if the people do not assume their rights of choosing a President themselves.</p>
+            <p>In this contest I take no  part; I have long since prepared my mind to say with heart felt <unclear>submission</unclear>, may the lords will be done; If it is intended by providence that I should fill the Presidential chair. I will submit to it with all humility, &amp; endeavour to <choice>
+                  <orig>labour</orig>
+                  <reg>labor</reg>
+               </choice> four years with an eye single to the public good, employing the guidance of providence in all things; but be assured, it will be an event that I <unclear>never</unclear> wished, nor expected. My only ambition was <pb n="3" facs="sl039c.small.jpg"/> to spend the remainder of my days in domestic retirement, with my little family; it has turned out otherwise to very great annoyance; still I submit with proper resignation.</p>
+            <p>I thank you for your kind attention to Mrs. J.  be good enough to continue your attention to her, present me respectfully to  your good lady, Emily &amp; little family &amp; believe me your friend,</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt J.</abbr>
+                           <expan>Captain John</expan>
+                        </choice> Donelson</name> Sir</addrLine>
+               </address>
+               <add place="below address">
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> present me to my <choice>
+                     <abbr>Mrs. J.</abbr>
+                     <expan>Mrs. Jackson</expan>
+                  </choice> say I wrote her two days ago.</add>
+               <pb n="4" facs="sl039d.small.jpg"/>
+               <address>
+                  <addrLine>Free <emph>Andrew Jackson</emph>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Capt</abbr>
+                        <expan>Captain</expan>
+                     </choice> John Donelson Sir</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address, sideways">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Jacksons letter <lb/>
+                  <date when="1824-02-09">
+                     <choice>
+                        <abbr>Febry</abbr>
+                        <expan>February</expan>
+                     </choice> 9th <lb/> 1824</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

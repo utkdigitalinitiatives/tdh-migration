@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl321">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Feb. 11, Rome [to] Adam Fergusson / G. G. Dillard   : a machine readable transcription of an image</title>
+            <author>Dillard, G. G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl321</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Feb. 11, Rome [to] Adam Fergusson / G. G. Dillard</title>
+               <author> Dillard, G. G.</author>
+               <date when="1850-02-11">February 11, 1850</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Adam Fergusson dated February 11, 1850. There is a letter from a representative of the firm C. W. Ferguson &amp; Co. claiming that Adam Fergusson is trying to steal their tobacco suppliers. Written on the bottom of this letter is one from G. G. Dillard. </note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b3</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl321</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dillard, G. G.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl321a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Rome</name>
+                     <date when="1850-02-11">
+                        <choice>
+                           <abbr>Feb</abbr>
+                           <expan>February</expan>
+                        </choice> 11th 1850</date>
+                  </addrLine>
+                  <addrLine>Mr <name type="person">Adam <choice>
+                           <orig>Ferguson</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr Sr</abbr>
+                     <expan>Dear Sir</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>reports come to us from different persons that you are <choice>
+                  <orig>useing</orig>
+                  <reg>using</reg>
+               </choice> your <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> best efforts to <del type="overstrike">ing</del> damage us by buying tobacco from persons that we have previously purchased. using your legal knowledge in trying to make them fly from their contracts telling them that the contract is not binding <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and etcetera</expan>
+               </choice> all this may not be true we hope that it is not if it is you are aware that you are  doing us great injustice. The <unclear>writer</unclear> of this is one of the firm of C W Ferguson &amp; <choice>
+                  <abbr>Co.</abbr>
+                  <expan>Company</expan>
+               </choice> and Know you to be a mason &amp; I am one my self &amp; I think that you should pursue a different course,</p>
+            <closer>
+               <salute>Yours <choice>
+                     <abbr>Resp</abbr>
+                     <expan>Respectfully</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">C W Ferguson</name>
+               </signed>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <opener>
+               <address>
+                  <addrLine>Mr. <choice>
+                        <abbr>A,,</abbr>
+                        <expan>Adam</expan>
+                     </choice> Furguson</addrLine>
+               </address>
+               <salute>Dr Sir</salute>
+            </opener>
+            <p>The above named gentlemen have purchased the Tobacco above alluded to.  J. <gap agent="damage"/> told them that you would not do any thing <gap agent="damage"/> about it, <name type="person">Mr. Haukins</name> is a gentleman <gap agent="damage"/> mason I have been in <del type="overstrike">
+                  <unclear>his</unclear>
+               </del> employment for <add place="supralinear">some</add> time</p>
+            <closer>
+               <salute>I am Brother Fraternally</salute>
+               <signed>G. G. Dillard</signed>
+               <pb n="2" facs="sl321b.small.jpg"/>
+               <address>
+                  <addrLine>Mr Adam Ferguson</addrLine>
+                  <addrLine> Present</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

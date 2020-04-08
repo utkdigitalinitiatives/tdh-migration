@@ -1,0 +1,116 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl691">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Jun. 1 [to] Sam Houston, Nashville, Tennessee / L.T. Greenfield : a machine readable transcription of an image</title>
+            <author> Greenfield, L.T.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl691</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Jun. 1 [to] Sam Houston, Nashville, Tennessee / L.T. Greenfield</title>
+               <author> Greenfield, L.T. </author>
+               <date when="1828-06-01">June 1, 1828</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a brief letter dated June 1, 1828, from L.T. Greenfield to the governor of Tennessee, Sam Houston.  The subject of the letter is a slave, owned by Greenfield, who had recently been convicted of breaking into a store near Williamsburg, Virginia, and sentenced to be hung.  Greenfield believes that much of the testimony against his slave in the trial was coerced, and asks Houston if he may send his slave out of state.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl691</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Houston, Sam, 1793-1863.</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Greenfield, S. T.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl691a.small.jpg"/>
+            <opener>
+               <salute>Dear General,</salute>
+               <date>June 1st 1828</date>
+            </opener>
+            <p>I have just <del>bu</del>  been informed that one of my negroes has been convicted of breaking open a store near <name>Williamsburg</name> and sentenced to be hung.__  You will excuse the liberty, I have taken, as well as this scrawl__ my health has been very bad, ever since  I had the pleasure of seeing you at Washington which  has prevented me from returning home, I am still under medical advice.  I have to request it as a great favor to be permitted to send the negro out of the state, I am unable and have been confined, in <name>Maryland</name>, and it appear, my enemies are determined to ruin my estate__ I have reason to believe, <unclear>his <del>[unclear]</del>
+               </unclear> his trial was not an impartial one, and his <add>he</add> evidence from some of the negroes were coerced.__ I feel much agitated and believe this justice will not be done, I therefore as a friend to humanity and citizen of <name>Tennessee</name> want by your permission to send him out of the state__ you will excuse this scrawl, and accept my friendship.</p>
+            <closer>
+               <add>Your <choice>
+                     <abbr>obsev</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </add>
+               <signed>
+                  <name>L.T. Greenfield</name>
+               </signed>
+               <pb n="2" facs="sl691b.small.jpg"/>
+               <add>paid 25 <lb/> Horse Lead  <date>June 2 1828</date>
+                  <address>
+                     <addrLine>General Sam Houston Nashville Davidson County West Tennessee</addrLine>
+                  </address>
+                  <lb/> mail <lb/> Greenfield negro June 1828</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

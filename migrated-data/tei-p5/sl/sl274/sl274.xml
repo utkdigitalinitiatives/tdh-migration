@@ -1,0 +1,114 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl274">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1821 July 14, Knoxville [TN] [to] James Park / C. H. White   : a machine readable transcription of an image</title>
+            <author>White, C. H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl274</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1821 July 14, Knoxville [TN] [to] James Park / C. H. White</title>
+               <author>White, C. H.</author>
+               <date when="1821-07-14">July 14, 1821</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from C. H. White to James Park, dated July 14, 1821. White writes that he and Park's daughter  Nancy  want to get married. This letter's purpose is to notify the Parks, and to give them a chance to let their wishes be known.</note>
+               <note type="collection" anchored="true">Orr Collection</note>
+               <note type="box" anchored="true"> IV-J-2</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sl274</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Marriage</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">White, C. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl274a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1821-07-14">July 14th 1821</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your daughter, Nancy and myself have concluded that an union between us would be mutually conducive to our happiness, and have therefore agreed to form a matrimonial <choice>
+                  <orig>connexion</orig>
+                  <reg>connection</reg>
+               </choice>. In matters of this sort property requires that the parents of the respective parties should be consulted and their wishes regarded. Hence it is that I have thought proper to trouble you with the perusal of this note.</p>
+            <p>You will confer a <unclear>few on</unclear> by ascertaining of the feelings of  <name type="person">Mrs. Park</name> upon this subject and signifying them as well as those of yourself, so soon as may be convenient</p>
+            <closer>
+               <salute>Very respectfully Yours</salute>
+               <signed>
+                  <name type="person">C. H. White</name>
+               </signed>
+               <address>
+                  <addrLine>James Park <choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl274b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">James Park</name> Esquire</addrLine>
+                  <addrLine>Present</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

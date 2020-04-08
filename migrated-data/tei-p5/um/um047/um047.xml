@@ -1,0 +1,179 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Sep. 15 [to] E. H. Porter, Shelby County, Tennessee / Ja[me]s Stafford : a machine readable transcription of an image</title>
+            <author>Stafford, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um047</idno>
+            <idno>OCLC: 50286335</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Sep. 15 [to] E. H. Porter, Shelby County, Tennessee / Ja[me]s Stafford </title>
+               <author>Stafford, James</author>
+               <date when="1837-09-15">September 15, 1837</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter to E. H. Porter of Memphis Tennessee from James Stafford regarding possible business ventures in the state of Illinois.</note>
+               <note type="collection" anchored="true">Porter-Rice Family Papers, MS-154, 1830-1839</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um047</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Stafford, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um047a.small.jpg"/>
+            <opener>
+               <add place="above address">18 ¼</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr <choice>
+                           <abbr>E. H.</abbr>
+                           <expan>Ethel Henry</expan>
+                        </choice> Porter</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Raleigh Shelby <choice>
+                           <abbr>Co.</abbr>
+                           <expan>County</expan>
+                        </choice> Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Greenville<choice>
+                           <abbr> Ill </abbr>
+                           <expan>Illinois</expan>
+                        </choice>
+                     </name>
+                     <date when="--09-21">
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 21</date>
+                     <pb n="2" facs="um047b.small.jpg"/>
+                     <name type="place">Bond <choice>
+                           <abbr>Co. Ill.</abbr>
+                           <expan>County Illinois</expan>
+                        </choice>
+                     </name>
+                     <date when="1837-09-15">
+                        <del type="overstrike">Aug</del>
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice>15 1837</date>
+                  </addrLine>
+               </address>
+               <salute>Dear sir</salute>
+            </opener>
+            <p>yours was <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a few days since I write you at present to comply with your request. I have, the past summer, traveled extensively <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> this state and from observation could tell you much about it. It has been unusually healthy in this state the past season. The most desirable part of the state is that portion which lies between the <name> 
+                  <reg>place</reg> Illinois</name> &amp; <name type="place">Mississippi </name>rivers. Called the <choice>
+                  <orig>military</orig>
+                  <reg>military</reg>
+               </choice> trail. And of that portion, <name type="place">Warren <choice>
+                     <abbr>Co.</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> is the best. It has a rich soil and a salubrious climate chills and fevers are scarcely known except near the large <choice>
+                  <orig>streames</orig>
+                  <reg>streams</reg>
+               </choice>. It is a well watered region. You will frequently find springs &amp; <sic>and</sic>
+               <choice>
+                  <orig>permenant streames</orig>
+                  <reg>permanent streams</reg>
+               </choice> flowing from them <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> the prairies. Water can be had any where by digging at a convenient depth. <name type="place">Monmouth </name> is the <choice>
+                  <abbr>Co</abbr>
+                  <expan>County</expan>
+               </choice> seat 12 miles from the river. <name type="place">Okauka</name>, lately laid out on the river, will be a considerable place.<name type="place"> Burlington</name>, about 200 miles north of <name type="place">St Louis</name>, on the west side of the river, is a flourishing town I would advise to go to Burlington and make <choice>
+                  <orig>enquiries</orig>
+                  <reg>inquires</reg>
+               </choice> &amp; explore the country on both sides of the river. It is probably the best portion of <name type="place">North America</name>. Stone-coal is abundant.  I was better pleased with <name type="place">Warren</name> than any part of the western country I have seen. I have had a call from the church in Monmouth and had at one <pb n="3" facs="um047c.small.jpg"/> time concluded to go there this fall: But for certain reasons have put it off <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> next spring.</p>
+            <p>The eastern part of the state when you get as far north as 39° 30." is a very sick country, but it is low &amp; unhealthy. A great number of Eastern people are coming into the state. The harvests in the more northern parts of the state were excellent. The corn is very good <choice>
+                  <abbr>thro.</abbr>
+                  <expan>throughout</expan>
+               </choice> the state Improvements of all sorts are going on with great rapidity. I am glad you have made a final <choice>
+                  <orig>settlemen</orig>
+                  <reg>settlement</reg>
+               </choice> of my business. My money $300.00 was paid over to <name type="person">David Reinhardt</name> of <name type="place">Lincolnton</name> on the <date when="1837-01-08">8th of <choice>
+                     <abbr>Jan</abbr>
+                     <expan>January</expan>
+                  </choice>
+               </date>. and I see from your letter that <name type="person">C. E. Reinhardt</name> has not acknowledged it until the <date when="1837-07-08">8th of July</date>. I cannot see what right they had to the use of  $300.00 of my money for six months. I have heard of the fall of <name type="person">Mr Edmonson</name> of <name type="place">Paris</name>. If you have the paper in which he is published, I would like you to send it to me. </p>
+            <p>In the midst of the sickness and mortality that has prevailed in your town, I am glad your family have escaped. I have been from home for 5 months, with the exception of calling &amp; staying a few days 3 or 4 times. My agency is now nearly out, and I design to spend the winter at home.</p>
+            <closer>
+               <salute>My respects to your family <lb/>yours<choice>
+                     <abbr> &amp;c</abbr>
+                     <expan>and et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Jas. Stafford</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

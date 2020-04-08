@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm070">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Photograph of a representative selection of Qualla rim sherds
+			 from the Chattooga site, taken in 1993] / [by Gerald F. Schroedl] : a
+			 machine-readable transcription</title>
+            <author>Schroedl, Gerald F.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version: </resp>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name>Debra Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>mm070</idno>
+            <idno>OCLC: 48019798</idno>
+            <availability status="restricted">
+               <p>This work in the property of the Frank H. McClung Museum,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. All other use is prohibited without the
+				express written permission of the copyright holder.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Photograph of a representative selection of Qualla rim sherds
+				from the Chattooga site, taken in 1993] / [by Gerald F. Schroedl] : a
+				machine-readable transcription</title>
+               <author>Schroedl, Gerald F.</author>
+               <date when="1993">1993</date>
+               <extent>1p</extent>
+               <note type="summary">This is a photograph of a representative
+				selection of Qualla rim sherds from the Chattooga site. Chattooga is a Cherokee
+				archaeological site that was formerly called 'Cherokee Town.' Cherokee Town was
+				an 18th century village associated with the Lower town Cherokee communities of
+				northern Georgia and western South Carolina. The site is thought to have been
+				occupied for only 160 years and was abandoned by the Cherokees in the 1740s.
+				This site is given special attention because it retained early 18th century
+				Cherokee material culture. This material culture is difficult to find and
+				distinguish on other Cherokee sites of the same time period. The University of
+				Tennessee (UT) and the Francis Marion National Forest conducted archaeological
+				excavations at Chattooga during 1989-1994. The focus of these excavations was
+				to develop a better understanding of the nature of the historical Cherokee
+				occupation at the site and compare these findings with those found on other
+				18th century Cherokee sites. As a result of these excavations, archaeologists
+				were able to identify and partially excavate the remains of five superimposed
+				council houses. In addition, the excavations of two winter structures and one
+				summer domestic structure were conducted. Through the use of surface
+				collection, test pit excavations, and remote sensing equipment, vast amounts of
+				artifacts and the location of additional buildings and features were found with
+				minimal disturbance to the site. The excavation of Chattooga is still an active
+				research project with additional findings in the process of being
+				documented.</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note>mm070</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Photographs</term>
+               <term>Cherokee Indians--Antiquities</term>
+               <term>Chattooga Site (Ga. and S.C.)</term>
+               <term>Cherokee pottery</term>
+               <term>Historic sites</term>
+               <term>Georgia</term>
+               <term>South Carolina</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n78090514"
+                        role="Photographer http://id.loc.gov/vocabulary/relators/pht">Schroedl, Gerald F.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm070.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>This is a photographic image of a representative selection
+				  of Qualla rim sherds from the 
+				  <name type="place">Chattooga</name> site. Photograph taken by 
+				  <name type="person">Gerald F. Schroedl</name> in 1993. This
+				  information was provided by the 
+				  <name type="person">Frank H. McClung</name> Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl037">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Mar. 17, Knoxville, [Tennessee, to] His Excellency
+			 Governor Garrard / John Sevier: a machine-readable transcription of an
+			 image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl037</idno>
+            <idno>OCLC: 47828136</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Mar. 17, Knoxville, [Tennessee, to] His
+				Excellency Governor Garrard / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-03-17">March 17, 1797 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter, dated March 17, 1797,
+				written by Governor John Sevier of Tennessee (1796-1801, 1803-1809) to Governor
+				Garrard of Kentucky. Sevier discussed the murders of Red Bird and another
+				Cherokee by two Tennessee residents, Edward Mitchell and John Levingston.
+				Sevier called the murders "wanton and unprovoked," and stated that he wished to
+				have the perpetrators apprehended and taken to Kentucky to be punished.
+				However, Sevier also stated that it would be difficult to apprehend the
+				offenders. </note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl037</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Violent against</term>
+               <term>Tennessee</term>
+               <term>Kentucky</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl037a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-03-17">17 March 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Yours of the <del type="overstrike">8th instant</del>
+               <date when="---10">10th</date> Instant I am duly honored With.
+		  and shall observe the contents,</p>
+            <p>The wanton and unprovoked murder Committed on the 
+			 <name type="person">
+                  <choice>
+                     <orig>red</orig>
+                     <reg>Red</reg>
+                  </choice> Bird</name> and
+			 <add place="supralinear">another</add>
+               <del type="overstrike">others</del>
+		  Indian of the 
+		  <name type="person">Cherokee</name> tribe, is a crime so Atrocious and
+		  <choice>
+                  <orig>Agrevating</orig>
+                  <reg>Aggravating</reg>
+               </choice> in its nature, that
+		  <del type="overstrike">I am determined</del>
+               <add place="supralinear">it is my
+		  Sincere wish  desire</add> to have the perpetrators apprehended, in order
+		  they may Suffer <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice> to the demerit of their
+		  Crimes. The taking of them will be Attended with Some difficulty. 
+		  <name type="person">
+                  <choice>
+                     <orig>Levinstone</orig>
+                     <reg>Levingston</reg>
+                  </choice>
+               </name>, I
+		  have been informed left this state in A few days after it was known he had been
+		  guilty of the murder, and <del type="overstrike">the other</del>
+               <add place="supralinear">Mitchell</add> is constantly on his <choice>
+                  <orig>Gaurd</orig>
+                  <reg>Guard</reg>
+               </choice> in Such a manner, that <del type="overstrike">it</del>
+		  will render it difficult to have him apprehended  you may <pb n="2" facs="tl037b.small.jpg"/>		  rest assured that nothing shall or will be lacking in the executive, to have
+		  them taken and safely conducted into <del type="overstrike">your</del> the
+		  State of 
+		  <name type="place">Kentucky</name>, if by any means the same can be
+		  accomplished
+               </p>
+            <closer>
+               <salute>I have the honor to be very respectfully <lb/> Your
+				Excellencys 
+				<choice>
+                     <abbr>Mo. ob. Hbe,
+				  Sert.</abbr>
+                     <expan>Most obedient Humble, Servant</expan>
+                  </choice>
+                  <add place="left">By the governor</add>
+               </salute>
+               <address>
+                  <addrLine>His Excellency <lb/>
+                     <name type="person">Governor Garrard </name>
+                  </addrLine>
+               </address>
+               <add place="below, right, on side">Governor of <lb/>
+                  <name type="place">Kentucky</name>
+                  <lb/>
+                  <date when="1797-03-17">17 March 1797 </date>
+                  <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 9 <lb/>
+                  <hi rend="underlined">Recorded</hi>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

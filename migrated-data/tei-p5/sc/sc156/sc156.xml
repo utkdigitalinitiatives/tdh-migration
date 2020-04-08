@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc156">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal] 1802 Mar., State of Tennessee [to] Court Clerk of Cocke County / [witnessed by Francis A. Ramsey] : a machine readable transcription of an image</title>
+            <author> [witnessed by Francis A. Ramsey]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc156</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal] 1802 Mar., State of Tennessee [to] Court Clerk of Cocke County / [witnessed by Francis A. Ramsey]</title>
+               <author> [witnessed by Francis A. Ramsey]</author>
+               <date when="1802-03"> 
+			 March 1802</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a court order to the clerk of the Cocke County Court in Tennessee, dated March 1802. The order is witnessed by Francis A. Ramsey. The clerk is ordered to certify a transcript of the case McPeters vs Todd.</note>
+               <note type="collection" anchored="true">Francis A. Ramsey Papers</note>
+               <note type="box" anchored="true">MS 764</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc156</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Legal document</term>
+               <term>Court administration</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007053135"
+                        role="Witness http://id.loc.gov/vocabulary/relators/wit">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc156a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To the Clerk of the Court of <name>Cocke County</name>
+                  </addrLine>
+               </address>
+               <salute>Greeting</salute>
+            </opener>
+            <p>you are hereby commanded to <del type="overstrike">a</del> Certify under your hand and the Seal of your  office a perfect and <choice>
+                  <orig>compleat</orig>
+                  <reg>complete</reg>
+               </choice> Transcript at the of the process Judgement and Record made in your Court upon a Suit <choice>
+                  <orig>brot</orig>
+                  <reg>brought</reg>
+               </choice> by <name>John McPeters</name> by his <unclear>next</unclear> Friend against <name>Lone Todd</name> and the same to <choice>
+                  <orig>certifyed</orig>
+                  <reg>certified</reg>
+               </choice> to Transmit to our <unclear>next</unclear> superior County Law to be holden for the District of <name>Hamilton</name> at the Court House in <name>Knoxville</name> the Fourth Monday of September next_ in order that the said Court may do therein what to them appears of Right and according to Law ought to be done, send you there also This writ witness <name>Francis A. Ramsey</name> Clerk of our Said Court at office the Fourth Monday of March anno Domini 1802 and XXVI of american Independence</p>
+            <closer>
+               <signed>FA. Ramsey</signed>
+               <pb n="2" facs="sc156b.small.jpg"/>
+               <add>Certiorarii <lb/> John McPeters <lb/>
+                  <choice>
+                     <abbr>vs</abbr>
+                     <expan>versus</expan>
+                  </choice>
+                  <lb/> Lone Todd <lb/> Issued <date>22 april</date>
+                  <lb/> To September Term <lb/> 1802</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

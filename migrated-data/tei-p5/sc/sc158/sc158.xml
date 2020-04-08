@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc158">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Receipt] 1795 Jul. 2, Knoxville, Territory of US south of Ohio River [to] David Henley / William Blount : a machine readable transcription of an image</title>
+            <author> Blount, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc158</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Receipt] 1795 Jul. 2, Knoxville, Territory of US south of Ohio River [to] David Henley / William Blount</title>
+               <author> Blount, William</author>
+               <date when="1795-07-02"> 
+			 July 2, 1795</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a receipt given to David Henley of the War Department from Governor William Blount. It is for money given to William Rickard to be used for troop salaries. The receipt is dated July 2, 1795.</note>
+               <note type="collection" anchored="true">David Henley Papers</note>
+               <note type="box" anchored="true">MS 736</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Blount, William, 1749-1800</term>
+               <term>Receipts</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n84136128"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blount, William, 1749-1800</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc158a.small.jpg"/>
+            <opener>
+               <add>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 278 Dollars 137.8</add>
+               <address>
+                  <addrLine>
+                     <name>William Blount</name> Governor in and over the Territory of the <name>United States</name> south of the <name>river Ohio</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To <name>David Henley</name> Esquire Agent for the Department of war</addrLine>
+               </address>
+            </opener>
+            <p>Pay to <name>William Rickard</name> Pay. Master pro tem to the Troops in the Territory aforesaid one hundred and thirty seven dollars eight cents out of the money on your hands appropriated for the defensive protection of the frontiers for the pay of a Department of Mounted Infantry of <name>Mero District</name>Colonel <name> James Ford</name>s Regiment under the command of Captain <name>George Briscoe</name> from the <date>fourteenth February</date>, to the <date>twentieth February 1794</date> agreeably to pay roll and your report thereon of this date, for which this shall be your warrant.</p>
+            <p>Given at <name>Knoxville</name> under my hand and seal this <date>2d July 1795</date>
+            </p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Blount</signed>
+               <add>By the Governor <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Chas</abbr>
+                        <expan>Charles</expan>
+                     </choice> McClung</name>
+                  <lb/> Pro Secretary</add>
+               <add>Recorded in the Secretary's Office July 2d 1795 Chas MClung Pro. Secretary</add>
+               <pb n="2" facs="sc158b.small.jpg"/>
+               <add>Received One hundred and thirty one dollars and eighty three cents in part of the within</add>
+               <signed>Wm Rickard</signed>
+               <address>
+                  <addrLine>Knoxville 2 July</addrLine>
+                  <addrLine>to <date>October 1795</date>
+                  </addrLine>
+               </address>
+               <add>Warrant No 27</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

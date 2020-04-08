@@ -1,0 +1,302 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl409">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Sep. 25, Monterey, Mexico [to] A.P. Greer, Paris, Tenn[essee] / E. Greer   : a machine readable transcription of an image</title>
+            <author>Greer, E.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl409</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1846 Sep. 25, Monterey, Mexico [to] A.P. Greer, Paris, Tenn[essee] / E. Greer</title>
+               <author>Greer, E.</author>
+               <date when="1846-09-25">September 25, 1846</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from E. Greer to his brother A.P. Greer, dated September 25, 1826. Greer's Texas military unit has just taken over the Mexican town of Monterey. E. apologizes for not writing in a while, but explains that it is very difficult to obtain the necessary materials. E. writes about how fortified a town Monterey is, and that it is very beautiful. Greer describes the approach and attack on Monterey and mentions some Generals involved including Taylor and Worth. He also mentions the Mexican General Armpudia and his surrender to Taylor.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">28</note>
+               <note type="document" anchored="true">sl409</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monterey, Mexico</term>
+               <term>Mexican War, 1846-1848 Campaigns</term>
+               <term>Military History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Greer, E.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl409a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Monterey</name> headquarters. <date>
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 25th <choice>
+                           <abbr>/46</abbr>
+                           <expan>1846</expan>
+                        </choice>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>Dear Brother</salute>
+            </opener>
+            <p>I received your letter by a due <choice>
+                  <orig>corse</orig>
+                  <reg>course</reg>
+               </choice> of mail &amp; circumstances were such that I could not answer it until now I have many <choice>
+                  <orig>apoligies</orig>
+                  <reg>apologies</reg>
+               </choice> to make <choice>
+                  <orig>fore</orig>
+                  <reg>for</reg>
+               </choice> this seeming negligence of mine in not writing <add>to</add>
+               <del type="overstrike">for</del>
+               <add>you</add>
+               <del type="overstrike">such</del>  before now I s <add>u</add> ppose you have some <choice>
+                  <orig>idier</orig>
+                  <reg>idea</reg>
+               </choice> of a <choice>
+                  <orig>soldires</orig>
+                  <reg>soldier's</reg>
+               </choice> life. of the great <choice>
+                  <orig>inconveniance</orig>
+                  <reg>inconvenience</reg>
+               </choice> &amp; <choice>
+                  <orig>troble</orig>
+                  <reg>trouble</reg>
+               </choice> we have in getting pen ink &amp; paper and often that is <unclear>ssrecared</unclear> a position to write &amp; so I am now sitting flat on the ground writing on a book with a number of my comrades around <choice>
+                  <orig>gaberring</orig>
+                  <reg>jabbering</reg>
+               </choice> about the battle &amp; our future <choice>
+                  <orig>prospectes</orig>
+                  <reg>prospects</reg>
+               </choice> for another fight. the noise <choice>
+                  <orig>bussel</orig>
+                  <reg>bustle</reg>
+               </choice> &amp; confusion of camp at present is such that I can <choice>
+                  <orig>scarsely</orig>
+                  <reg>scarcely</reg>
+               </choice> collect my <choice>
+                  <orig>scatered</orig>
+                  <reg>scattered</reg>
+               </choice> idiers to pen a few lines to you <choice>
+                  <orig>therfore</orig>
+                  <reg>therefore</reg>
+               </choice> I beg you to excuse all had writing &amp; grammatical errors &amp; you have long since heard of the capture of monterey it is <choice>
+                  <orig>cirtenly</orig>
+                  <reg>certainly</reg>
+               </choice> so our flag now waves in triumph over its almost impregnable fortresses monterey is a very beautiful place in fact a city. <choice>
+                  <orig>streetes</orig>
+                  <reg>streets</reg>
+               </choice> beautifully <choice>
+                  <orig>macadmised</orig>
+                  <reg>macadamised</reg>
+               </choice> with rock one of the <choice>
+                  <orig>stronges</orig>
+                  <reg>strongest</reg>
+               </choice> fortified places almost in the world a city of fortresses every house is a fo <add>u</add> rt &amp; every street is <choice>
+                  <orig>barracated</orig>
+                  <reg>barricaded</reg>
+               </choice> it has about ten thousand inha <add>bitants</add>
+               <pb n="2" facs="sl409b.small.jpg"/> I received your letter at the mouth of the <name>Rio Grand</name> we were then <choice>
+                  <orig>tranpoted</orig>
+                  <reg>transported</reg>
+               </choice> up the river to <name>Sarmorgo</name> some hundred &amp; fifty miles we rested <del type="overstrike">oln</del> only one day on the <date>7th of Sept</date> we <choice>
+                  <orig>tuck</orig>
+                  <reg>took</reg>
+               </choice> up the line of march for monterey during which time we suffered immensely from the long &amp; <choice>
+                  <orig>fatigueing</orig>
+                  <reg>fatiguing</reg>
+               </choice> marches &amp; the scanty supply of <choice>
+                  <orig>subsistance</orig>
+                  <reg>subsistence</reg>
+               </choice> given us on the twentieth day <add>of our march</add> we <unclear>arrived</unclear> in sight of monterey on <date>20th of  Sept</date>
+               <name>
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Worth</name> with the second division of the army was sent around to attack the city on the west side on 21st monday morning bright &amp;  early we wore drawn <add>up</add> in battle or <add>v</add> ay our division was under the command of <name>Gen Butler</name> after taken our position on the field of battle we remained posted for half on how behind a small <choice>
+                  <orig>nole</orig>
+                  <reg>knoll</reg>
+               </choice> the attack was commenced by <name>Gen Haymer</name> with the third &amp; fourth infantry they were repulsed &amp; beaten back they rallied again &amp; made the second attack &amp; meet with the same success our <choice>
+                  <orig>bregade</orig>
+                  <reg>brigade</reg>
+               </choice> was then ordered to <unclear>train</unclear> relief composed of the <name>mississippi</name> Regiment &amp; a Regiment of Tennesseeing. we march up in front of the fort &amp; under a <choice>
+                  <orig>distructive</orig>
+                  <reg>destructive</reg>
+               </choice> crossfirring of three <choice>
+                  <orig>battries</orig>
+                  <reg>batteries</reg>
+               </choice>
+               <unclear>after discharge</unclear> our <choice>
+                  <orig>rifels</orig>
+                  <reg>rifles</reg>
+               </choice>
+               <choice>
+                  <orig>severral</orig>
+                  <reg>several</reg>
+               </choice> times the charge was sounded we made a <choice>
+                  <orig>simultannious</orig>
+                  <reg>simultanious</reg>
+               </choice> rush for the <choice>
+                  <orig>fourt</orig>
+                  <reg>fort</reg>
+               </choice> . <name>
+                  <choice>
+                     <abbr>Lut</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice> Cornel McClang</name> was the first that mounted the walls &amp; waved his sword three time &amp; ride come on my brave <unclear>boys</unclear> with nimble <choice>
+                  <orig>stepes</orig>
+                  <reg>step</reg>
+               </choice> we followed we made no <pb n="3" facs="sl409c.small.jpg"/> in the first but <choice>
+                  <orig>pursude</orig>
+                  <reg>pursued</reg>
+               </choice> the flying mexicans to a second fort tuck that after securing the <choice>
+                  <orig>prisnors</orig>
+                  <reg>prisoners</reg>
+               </choice> we commenced a <orig>charg</orig> on a third fort cros a small river running through the city &amp; advanced within forty or fifty <choice>
+                  <orig>yardes</orig>
+                  <reg>yards</reg>
+               </choice> of the fort when we were ordered back to take shelter <del type="overstrike">we</del> behind some rock houses close by the Mexicans were seen leaving the third fort in large numbers but as soon as they saw us <unclear>knelt</unclear> they returned &amp; <unclear>firered</unclear> with more rapidity than ever the fireing continued from both sides until five o,clock in the evening without the least <choice>
+                  <orig>sessation</orig>
+                  <reg>cessation</reg>
+               </choice> or <choice>
+                  <orig>intermition</orig>
+                  <reg>intermission</reg>
+               </choice> the battle commenced at 5' o,clock in the morning &amp; <choice>
+                  <orig>seased</orig>
+                  <reg>ceased</reg>
+               </choice> at five our victory was brilliant &amp; glorious the fight <unclear>lasted</unclear> for three days the second day our division rested &amp; <name>Gen Worth</name> made his attack &amp; <choice>
+                  <orig>tuck</orig>
+                  <reg>took</reg>
+               </choice> two other forts the third day the fort that we attacked the first day was evacuated &amp; <name>
+                  <choice>
+                     <orig>cornel </orig>
+                     <reg>Colonel</reg>
+                  </choice>Davis</name> tuck his Regiment &amp; <choice>
+                  <orig>penitrated</orig>
+                  <reg>penetrated</reg>
+               </choice> town <choice>
+                  <orig>thair</orig>
+                  <reg>there</reg>
+               </choice> he commenced a <unclear>drariller</unclear> warfare many were killed the killed &amp; wounded in all were about four or five hundred the mexicans about eight or ten hundred perhaps more the fo <add>u</add> rth day <name>general <choice>
+                     <orig>armpada</orig>
+                     <reg>armpudia</reg>
+                  </choice>
+               </name> sent in a flag of truce &amp; they formed an <choice>
+                  <orig>armastice</orig>
+                  <reg>armistice</reg>
+               </choice>
+               <name>Taylor </name>
+               <choice>
+                  <orig>permeted</orig>
+                  <reg>permitted</reg>
+               </choice> armpuda to leave with all of his small <choice>
+                  <orig>armes</orig>
+                  <reg>arms</reg>
+               </choice> &amp; four <choice>
+                  <orig>peases</orig>
+                  <reg>pieces</reg>
+               </choice> of cannon so I <choice>
+                  <orig>suppos</orig>
+                  <reg>suppose</reg>
+               </choice> we will remain here until we <choice>
+                  <orig>negosiate</orig>
+                  <reg>negotiate</reg>
+               </choice> on the <choice>
+                  <orig>diffeculty</orig>
+                  <reg>difficulty</reg>
+               </choice> settled which I trust may be soon you must write soon</p>
+            <closer>
+               <salute>&amp; believe me your Brother</salute>
+               <signed>
+                  <name>E Greer</name>
+               </signed>
+               <pb n="4" facs="sl409d.small.jpg"/>
+               <choice>
+                  <abbr>P.S.</abbr>
+                  <expan>Post Script</expan>
+               </choice> gave my love to Brother &amp; family you I have no time to correct &amp; revise the <choice>
+                  <orig>exspress</orig>
+                  <reg>express</reg>
+               </choice> will start in a few minutes __  <add>E<choice>
+                     <abbr>G</abbr>
+                     <expan>Greer</expan>
+                  </choice>
+               </add>
+               <add>
+                  <address>
+                     <addrLine>Monterey</addrLine>
+                     <addrLine>Mexico</addrLine>
+                  </address>
+                  <address>
+                     <addrLine>Mr. A. P. Greer</addrLine>
+                     <addrLine>{ <name>Paris</name>
+                     </addrLine>
+                     <addrLine>
+                        <name>
+                           <choice>
+                              <abbr>Tenn</abbr>
+                              <expan>Tennessee</expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                  </address>
+               </add>
+               <add>mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

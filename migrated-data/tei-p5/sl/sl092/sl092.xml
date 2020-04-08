@@ -1,0 +1,93 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Loan Request] 1842 May 8, [to] Mr. Thomas Abernathy / Lucy Ann Pully. : a machine readable transcription of an image</title>
+            <author> Lucy Ann Pully</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl092</idno>
+            <idno>OCLC: 50178958</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Loan Request] 1842 May 8, [to] Mr. Thomas Abernathy / Lucy Ann Pully.</title>
+               <author>Lucy Ann Pully</author>
+               <date when="1842-05-08">May 8, 1842</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a short note from Lucy Ann Pully to Mr. Thomas Abernathy dated May 8, 1842, in which she requests 12 dollars.</note>
+               <note type="collection" anchored="true">Abernathy Papers</note>
+               <note type="box" anchored="true">II-H-3</note>
+               <note type="folder" anchored="true">folder 11</note>
+               <note type="document" anchored="true">sl092</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Loans</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Pully, Lucy Ann</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl092a.small.jpg"/>
+            <opener>
+               <date when="1842-05-08">May 8 1842</date>
+               <salute>
+                  <name type="person">Mr Thomas Abernathy</name>
+               </salute>
+            </opener>
+            <p> I want you to let me have $12 dollars. If you Please</p>
+            <closer>
+               <signed>
+                  <name type="person">Lucy Ann Pully</name>
+               </signed>
+               <pb n="2" facs="sl092b.small.jpg"/>
+               <name type="person">Lucy Pully</name> order</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

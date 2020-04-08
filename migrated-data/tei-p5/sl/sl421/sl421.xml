@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl421">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841 Mar. 24, Carthage, Tennessee [to unknown recipient] / [Adam Fergusson]: a machine readable transcription of an image</title>
+            <author>[Fergusson, Adam]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl421</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1841 Mar. 24, Carthage, Tennessee [to unknown recipient]  / [Adam Fergusson]</title>
+               <author>[Fergusson, Adam]</author>
+               <date when="1841-03-24">March 24, 1841</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to an unknown recipient dated March 24, 1841. The author is probably Adam Fergusson. The letter is to an agent involved with treaties with Native nations. Fergusson is trying to find information on Mary Jameson, an American who, as a child was taken captive by a Seneca tribe in New York state. He wants to find out if she has any living descendants in order to ascertain whether her two brothers in Tennessee are  her legal heirs. This is in relation to land given by the Seneca Nation in a treaty with the United States.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl421</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>New York</term>
+               <term>Seneca Nation</term>
+               <term>Land question</term>
+               <term>Tennessee</term>
+               <term>
+                  <name>[Fergusson, Adam]</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl421a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>24th the march 1841</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <del type="overstrike">I am instructed to write the following by those who are interested</del> about 15 or 20 years ago there died a woman among the <name>Seneca</name>
+               <add>tribe</add>  Indians of your State named <name>Mary Jameson</name> otherwise called the <del type="overstrike">Indian</del> white woman she lived in the <name>
+                  <choice>
+                     <orig>Genese valey</orig>
+                     <reg>Genesee valley</reg>
+                  </choice>
+               </name> upon what was called the Gardow tract a reservation of about ten thousand acres. The <add>manner</add>
+               <del type="overstrike">proof</del> how she came to be Captured by the Indians and the murder of her Parent and the whole family except two of her Brothers is now in part before me. She has left <del type="overstrike">Several</del> relations <choice>
+                  <orig>decended</orig>
+                  <reg>descended</reg>
+               </choice> from the two Broth <gap/>
+               <unclear>ers</unclear> last Spoken of who reside in this <add>State</add>
+               <del type="overstrike">vicinity</del> and who have given me <del type="overstrike">the above</del> instructions to restitute <add>this <choice>
+                     <orig>enquirey</orig>
+                     <reg>enquiry</reg>
+                  </choice> . it can be Satisfactorily proved as I am informed that the two Brothers <unclear>were the only legal heirs of  the said mary, been heard of</unclear>
+               </add> You will do me as well as <del type="overstrike">them a</del> great <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> by Sending me the <del type="overstrike">contents</del>
+               <add>substance</add> of the treaty <add>with the seneca lending</add> in part or in whole <choice>
+                  <orig>wherin</orig>
+                  <reg>wherein</reg>
+               </choice> the Gardow tract of land <add>ten thousand acres</add> is included or <add>reserved to the white woman otherwise called mary Jameson</add> by <choice>
+                  <orig>refering</orig>
+                  <reg>referring</reg>
+               </choice> me to where it can be obtained (It is <del type="overstrike">in</del> said she died with out leaving any children <add>living all having died except <unclear>good</unclear> children and whose of or by indian marriages</add>
+               <del type="overstrike"> and the presumption here is that her relatives here are the next of Kin</del> It is <del type="overstrike">further</del>
+               <add>reported here <del type="overstrike">that it</del>
+               </add>
+               <del type="overstrike">Stated</del> that <gap/> state of <name>New York</name> having acquired the land by<gap/>
+               <unclear>by</unclear> treaty Since her death has Sold the Gardow <gap/> tract as publick land <add>it is  further I would like in the information you give to inform me <gap/>
+                  <unclear>nor</unclear> as you can <choice>
+                     <orig>bord</orig>
+                     <reg>board</reg>
+                  </choice> the land was finally <unclear>despoiled</unclear>
+               </add> If you have not <gap/> information asked for in your possession <gap/> refer this letter to the officers or other <gap/> most likely to have it and one too <pb n="2" facs="sl421b.small.jpg"/> who is not interested. You will discover the form of these remarks and then intention and I need not trouble you at this time with any remark whether her relatives here may or may not be her legal representatives. If however it is necessary to enclose to you any fees of offer  or other <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> before giving the information asked for you will please send your account and the amount and <del type="overstrike">I</del>
+               <add>we</add> will endeavor to comply with the Same <del type="overstrike">You are at liberty</del> If you will take the trouble you may show this letter to some experienced attorney whose age and Practice in his profession qualifies him to understand the whole matter and if he will venture any <choice>
+                  <orig>oppinion</orig>
+                  <reg>opinion</reg>
+               </choice> upon <add>it</add> as to the tract of land or any other property she may have left upon the Promise of his being in future (Should it be thought expedient) retained as <choice>
+                  <orig>consel</orig>
+                  <reg>counsel</reg>
+               </choice> he may do so. Believing that all the treaties with the Seneca Indians are on file in your office I have addressed this letter particularly to you as you can</p>
+         </div>
+      </body>
+   </text>
+</TEI>

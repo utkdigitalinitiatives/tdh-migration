@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc177">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1800 Mar. 20, Nashville [Tennessee to] David Henley, Knoxville [Tennessee] / A. Foster : a machine readable transcription of an image</title>
+            <author> Foster, A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc177</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1800 Mar. 20, Nashville [Tennessee to] David Henley, Knoxville [Tennessee] / A. Foster</title>
+               <author> Foster, A.</author>
+               <date when="1800-03-20"> 
+			 March 20, 1800</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter from A. Foster to David Henley, dated March 20, 1800. Foster requests that Henley give assistance to a man travelling from Nashville to Knoxville, whose last name is May.</note>
+               <note type="collection" anchored="true">A. Foster Papers</note>
+               <note type="box" anchored="true">MS 1961</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc177</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>Financial, personal</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Foster, A.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc177a.small.jpg"/>
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>A few days since (say then) Mr <name>F.B. Sappington</name> and <name>
+                  <unclear>
+                     <choice>
+                        <abbr>Doer</abbr>
+                        <expan>Doctor</expan>
+                     </choice>
+                  </unclear> May</name>
+               <choice>
+                  <abbr>differd</abbr>
+                  <expan>differed</expan>
+               </choice> and fought the former <unclear>fell.</unclear> the business was conducted gentlemanly on both side after meeting on the <unclear>ground</unclear> . as I have been <choice>
+                  <abbr>informd</abbr>
+                  <expan>informed</expan>
+               </choice> by both seconds. the <unclear>
+                  <choice>
+                     <abbr>Docr</abbr>
+                     <expan>Doctor</expan>
+                  </choice>
+               </unclear> leaves this place for <name>Knoxville</name> whether he will be interrupted or not I cant say. should he stand in need of any assistance or want money I would be much oblige to you. furnish him and I will refund to you on sight. though I rather suppose he is <choice>
+                  <abbr>prepard</abbr>
+                  <expan>prepared</expan>
+               </choice> I have barely named the above in case he should stand in need</p>
+            <closer>
+               <salute>your with much <lb/>  respect &amp; <choice>
+                     <orig>reguard</orig>
+                     <reg>regard</reg>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>A Foster</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>N. Ville</abbr>
+                     <expan>Nashville</expan>
+                  </choice>
+                  <lb/>
+                  <date>march 20th 1800</date>
+               </add>
+               <pb n="2" facs="sc177b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name> March 20</addrLine>
+                  <addrLine>1800 Mr Foster</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>David Henley</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <add>
+                  <unclear>Docr</unclear> May</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

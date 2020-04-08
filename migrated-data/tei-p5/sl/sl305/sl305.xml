@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl305">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Sep. 9, Knoxville, Tennessee [to] Adam Fergusson, Carthage, Tennessee / J. J. Burnett   : a machine readable transcription of an image</title>
+            <author>Burnett, J. J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl305</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Sep. 9, Knoxville, Tennessee [to] Adam Fergusson, Carthage, Tennessee / J. J. Burnett</title>
+               <author>Burnett, J. J.</author>
+               <date when="1850-09-09">September 9, 1850</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from J. J. Burnett to Adam Fergusson, dated September 9, 1850. Burnett writes that the Supreme Court is convening in Knoxville. He also mentions how excited the people in Knoxville are about the railroad and that they also seem like nice people.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b2</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl305</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Railroads</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Burnett, J. J.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl305a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 9 1850</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I <choice>
+                  <orig>arived</orig>
+                  <reg>arrived</reg>
+               </choice> at this place <unclear>nearly ? doing</unclear> but hope I shall be able to do my duty I <choice>
+                  <orig>canot</orig>
+                  <reg>cannot</reg>
+               </choice> say at what time I shall back home but shall press my business as rapidly as possible. My eyes are much informed — I hope to be able to be <choice>
+                  <sic>at at</sic>
+                  <corr>at</corr>
+               </choice> home on the last Saturday in this month but Cannot tell. please Call and See my family, should any thing go wrong please attend to it. The Supreme Court Convenes in Knoxville to day it will sit some four or five weeks. <name>East Tennessee</name> is <choice>
+                  <orig>dertemined</orig>
+                  <reg>determined</reg>
+               </choice> to be a Great Country. <choice>
+                  <orig>Greate</orig>
+                  <reg>Greate</reg>
+               </choice> excitement about rail roads — Knoxville is looking up the people appear quite friendly — We are behind the age in <name>Carthage</name> Some fifty years. I shall <choice>
+                  <orig>leav</orig>
+                  <reg>leave</reg>
+               </choice> tomorrow for <name>Tazewell</name>
+               <name>Claiborne County</name>  and shall return as soon as possible to this place should any thing happen I will write to you I shall attend the Mason Lodge to night</p>
+            <closer>
+               <salute>Yours Fraternally</salute>
+               <salute>
+                  <name>J J Burnett</name>
+               </salute>
+               <address>
+                  <addrLine>
+                     <name>Adam Fergusson</name> Esq</addrLine>
+                  <addrLine>Carthage <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc228">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Nov. 13, [to] Abram P. Maury and John Fitzgerald / William G. Hunt : a machine readable transcription of an image</title>
+            <author>Hunt, William G. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc228</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1824 Nov. 13, [to] Abram P. Maury and John Fitzgerald / William G. Hunt</title>
+               <author> Hunt, William G.</author>
+               <date when="1824-11-13">November 13, 1824</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated November 13, 1824 from William G. Hunt to Messieurs Maury &amp; Fitzgerald, editors of the Nashville Republican newspaper.  In the letter, Hunt demands to know the name of the author of an article printed in the newspaper concerning him.</note>
+               <note type="collection" anchored="true">Nashville Republican Article</note>
+               <note type="box" anchored="true">New Accessions</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc228 </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Editorial.</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr92003369"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hunt, William Gibbes, 1791-1833</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc228a.small.jpg"/>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>The reasons I have to offer for an application to you for the name of the author of the article signed " A Citizen of <name>Nashville</name>" are such as must, I think, readily suggest themselves to your minds.  The article in question contains a direct personal attack upon me by name, in such a manner is according to all the principles of fair dealing, entitles me to know by whom I am this assailed: and when an editor admits such articles into his columns, I have always understood him bound to make known the name of the author to the person assailed, or as assuming, by a refusal, the responsibilities of the authorship upon himself.</p>
+            <p>Under these circumstances, I presume you will no longer hesitate to comply with my request.</p>
+            <closer>Yours <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice>
+               <signed>W.G. Hunt</signed>
+               <date>
+                  <choice>
+                     <abbr>Nov.</abbr>
+                     <expan>November</expan>
+                  </choice> 13, 1824</date>
+               <pb n="2" facs="sc228b.small.jpg"/> Messieurs Maury &amp; Fitzgerald Editor of the Nashville Republican</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl386">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Jun. 25, University [of Nashville] [to] James P. Clark [et. al.] Nashville [Tennessee] / Phillip Lindsley: a machine readable transcription of an image</title>
+            <author> Lindsley, Phillip</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl386</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1839 Jun. 25, University [of Nashville] [to] James P. Clark [et. al.] Nashville [Tennessee] / Phillip Lindsley</title>
+               <author>Lindsley, Phillip</author>
+               <date when="1839-06-25">June 25, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Dr. Phillip Lindsley of the University of Nashville, dated June 25, 1839. It is to some esquires including James P. Clark and Andrew Ewing who are hosting a dinner party in honor of General Sam Houston. Lindsley declines the invitation because of his responsibilities at the university.</note>
+               <note type="collection" anchored="true">Gaines Papers</note>
+               <note type="box" anchored="true">I-C-3</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sl386</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Houston, Sam, 1793-1863</term>
+               <term>Associations, institutions, etc.</term>
+               <term>Manners and Customs</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n85221174"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lindsley, Philip, 1786-1855</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl386a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>University, <date>June 25th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>It would afford me great pleasure to accept your polite invitation to a public dinner to be given to-day to <name>
+                  <choice>
+                     <abbr>Gen.</abbr>
+                     <expan>General</expan>
+                  </choice> Houston</name>, could I do so consistently with indispensable official engagements. My duties in the college lecture-room &amp; chapel require my presence until after five o'clock this evening; __ when, of course, it will be too late to pay my respects to your distinguished guest, or to partake of the good cheer of your worthy host.</p>
+            <closer>
+               <salute>I have the <choice>
+                     <orig>honour</orig>
+                     <reg>honor</reg>
+                  </choice> to be Gentlemen, <lb/> very respectfully, <lb/> Your most <choice>
+                     <abbr>obdt_ servt_</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Philip Lindsley</name>
+               </signed>
+               <add>J.P. Clark <lb/> L.C.K. Martin <lb/> A. Ewing <lb/> A.A. Hall <lb/> G.M. Fogg <lb/> Esquires } com of <unclear>hintation</unclear> &amp;c.</add>
+               <pb n="2" facs="sl386b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>James P Clark</name>, <name>L.C.K. Martin</name>, <name>Andrew Ewing</name>, <name>A.A. Hall</name>, &amp; <name>G.M. Fogg</name>, Esquires</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+               </address>
+               <add>Phillip Lindsley</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

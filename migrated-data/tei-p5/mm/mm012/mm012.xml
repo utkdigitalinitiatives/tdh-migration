@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A draught of the Cherokee Country, / taken by Henry Timberlake:
+			 a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. 3k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>mm012</idno>
+            <idno>OCLC: 45076698</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Museum, University of
+				Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>A draught of the Cherokee Country, / taken by Henry
+				Timberlake</title>
+               <date>1974</date>
+               <extent>3p</extent>
+               <note type="summary">This is a (1974 ?) facsimile of a map,
+				originally drawn in 1762 by British army officer Henry Timberlake, depicting
+				the Overhill Cherokee villages in the lower Little Tennessee River Valley. This
+				map shows the villages of Toskegee [Tuskeegee], Tomotley [Tomotley], and
+				Settaco [Citico], which were among the 60 Cherokee settlements in the
+				Southeastern states during the 18th century. Lieutenant Timberlake went to the
+				village of Chota, considered to be the capital of the Cherokee settlements, in
+				1761 to explain the provisions of a peace treaty with the colonists after the
+				siege of Fort Loudoun. Timberlake lived among the Cherokees for a year and
+				visited many of the Overhill villages.</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note type="document">mm012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maps</term>
+               <term>Cherokee Indians--Antiquities</term>
+               <term>Little Tennessee River Valley (Ga.-Tenn.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm012.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>Timberlake Map. Time: 1762, shows Overhill Cherokee
+				  villages in the Lower Little Tennessee River Valley. Timberlake was a British
+				  army officer who lived among the Cherokee 1760-61, following the Cherokee war
+				  of 1759-1760 (siege of Fort Loudoun). This map is published in Henry
+				  Timberlake, 1765, Lt. Henry Timberlake's Memoirs 1756-1765, edited by Samuel C.
+				  Williams, various versions 1927, 1948. This information was provided by the
+				  Frank H. McClung Museum.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="2"/>
+            <p>
+               <figure>
+                  <figDesc>Detail of Timberlake map of Cherokee sites in Lower Little
+				  Tennessee River Valley, shows area between Citico (Settacco) and Toqua. This
+				  information was provided by the Frank H. McClung Museum.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="3"/>
+            <p>
+               <figure>
+                  <figDesc>Detail of Timberlake map of Cherokee sites in Lower Little
+				  Tennessee River Valley shows area between Mialoquo and Toqua. This information
+				  was provided by the Frank H. McClung Museum.</figDesc>
+               </figure>
+            </p>
+            <note>This document consists of three images only.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

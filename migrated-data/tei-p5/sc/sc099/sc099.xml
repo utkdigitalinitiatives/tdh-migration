@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc099">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1809 Sep. 18, Knoxville, Tennessee [to] Colonel Jonathan Meigs / John Sevier :a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc099</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1809 Sep. 18, Knoxville, Tennessee [to] Colonel Jonathan Meigs / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1809-09-18">September 18, 1809</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated September 18, 1809 from John Sevier to Colonel Jonathan Meigs.  This is a very brief note concerning the Kentucky convention with the Chickasaw Indians, and negotiations of a treaty.</note>
+               <note type="collection" anchored="true">John Sevier Collection</note>
+               <note type="box" anchored="true">MS-1941 b1</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sc099</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee--History</term>
+               <term>Chickasaw Indians -- Treaties</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc099a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <date>18 September 1809</date>
+               <salute>Sir</salute>
+            </opener>
+            <p> Yours of the 15th instant, I have unduly honored with, and am extremely happy to find that yourself and <name>General Robertson</name> agree so perfectly in regard to the time of holding the Treaty-In regard to my own ideas on the subject, am of opinion loom various reasons that about the first of December will be the most proper time, as it would not be held on the time first proposed, an which I have advised you in my letter of the second instant which I presume <unclear>are</unclear> this have went to hand.  We shall not on the new arrangement be pestered with the rabble part of the nation that at most other seasons would attend, by which means shall take a considerable expense which we wish to avoid as much as possible-any arrangement you may think proper to make with respect to the <name>Kentucky</name> convention with the <name>chickasaws</name>, will be perfectly agreeable to us, so as to suit your own <choice>
+                  <orig>convienience</orig>
+                  <reg>convenience</reg>
+               </choice> and not interfere with the meeting here-I most cordially agree with you, that to procrastinate will answer very good purposes, and will in the end, finally ensure success-.  I hope you will procure some confidential person to attend the meeting at <name>Wills town</name> on the 24th- It will be of great importance to know the result of their conclusion-From information recently obtained I learn that the person that seem most obstinate are them we know to be friendly-no <choice>
+                  <orig>unfaverable</orig>
+                  <reg>unfavorable</reg>
+               </choice> circumstance-I shall most certainly attend the Treaty in person</p>
+            <closer>I have the honor to be very respectfully Your most <choice>
+                  <abbr>obedt</abbr>
+                  <expan>obedient</expan>
+               </choice>. and <choice>
+                  <abbr>Hble</abbr>
+                  <expan>Humble</expan>
+               </choice>, <choice>
+                  <abbr>Servt</abbr>
+                  <expan>Servant</expan>
+               </choice>.<signed>John Sevier</signed>
+               <add>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Meigs</add>
+               <pb n="2" facs="sc099b.small.jpg"/> Colonel Return J Meigs  Highwassee Garrison <add>Mail</add>
+               <add>
+                  <figure>
+                     <figDesc>Knoxville, Tennessee</figDesc>
+                  </figure>
+               </add>
+               <add>
+                  <choice>
+                     <orig>govenor</orig>
+                     <reg>governor</reg>
+                  </choice> Sevirs letter <date>18 <choice>
+                        <abbr>Sept</abbr>
+                        <expan>September</expan>
+                     </choice>. 1809</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

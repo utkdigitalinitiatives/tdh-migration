@@ -1,0 +1,200 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl558">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1812 Sep. 1, Cantonment [Tennessee, to] James Winchester, Lexington, Kentucky / W[illia]m Anderson   : a machine readable transcription of an image</title>
+            <author>Anderson, W[illia]m</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl558</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1812 Sep. 1, Cantonment [Tennessee, to] James Winchester, Lexington, Kentucky / W[illia]m Anderson</title>
+               <author>Anderson, W[illia]m</author>
+               <date when="1812-09-01">September 1, 1812</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from Colonel William Anderson to Brigadier General James Winchester, dated September 1, 1812. Anderson reports on the amount of soldiers they have. He writes about an incompetent doctor in his regiment. Anderson mentions many fellow officers. He mentions how poor his recent recruits are.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl558</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>War of 1812</term>
+               <term>Soldiers</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Anderson, W[illia]m</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl558a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Cantonment near <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>1st September 1812</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your communications of the 12th &amp; 14th of last month are both before me.</p>
+            <p>This mornings report furnishes 268 recruits at this place <name>Harman</name> has enlisted 25 more at warren <choice>
+                  <abbr>Ct</abbr>
+                  <expan>Court</expan>
+               </choice> house and is on his way here with them, <name>Captain Armstrong</name>has left <name>Knoxville</name> with 40 some odd and <name>
+                  <choice>
+                     <abbr>Lieut</abbr>
+                     <expan>Lieutenent</expan>
+                  </choice> Stephens</name>
+               <gap/> recruits with him there Add all these together and we will have upwards of 350 soldiers of the new army in <name>West Tennessee</name>.</p>
+            <p>
+               <name>Captain Gray</name>s company is complete and <name>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Desha</name>s will be so shortly; for he has now eighty some odd men in it.</p>
+            <p>I have had yesterday a General Muster &amp; shall discharge four a five to day or tomorrow, who are unfit for service.</p>
+            <p>The soldier who I wrote you was dangerously ill has since died. This was owing to the bad management of our physician or Surgeons mate <name>Carlisle Humphreys</name>, who I have freely permitted to cross the mountains and most sincerely wish he may never join the regiment again.</p>
+            <p>He is not at all qualified for the business he is in and would if suffered to practice upon the regiment soon kill the whole of us.</p>
+            <p>With respect to <choice>
+                  <orig>cloathing</orig>
+                  <reg>clothing</reg>
+               </choice> , arms, camp equipage <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> I have surely said enough__  If I have gone two far, the General will pardon me.</p>
+            <p>I send herewith Captain Deshas recruiting and contingent <pb n="2" facs="sl558b.small.jpg"/> account and vouchers, <choice>
+                  <abbr>Captn</abbr>
+                  <expan>Captain</expan>
+               </choice> Armstrong and <name>Captn Philips</name>recruiting and contingent accounts without vouchers, they will however here after be forwarded. Lieut Stephens recruiting &amp; contingent account with vouchers__ A receipt from <name>Ensign Johnston</name>
+               <choice>
+                  <abbr>no</abbr>
+                  <expan>number</expan>
+               </choice> 9 for 50$ for bounties &amp; premiums a receipt from Captain Desha for 26$ no 4 for Counties &amp; premiums and also his receipt for 20$ no 3 for contingencies, these are all for July; and my August accounts shall go on by the next mail.</p>
+            <p>
+               <gap/> last mail that the president and directors of the Nashville bank would take any reasonable quantity of your bills drawn on Government, and I hope you will have made the most ample provision before this shall have reached head quarters, to relieve me from my most disagreeable situation___ I have not only been compelled to raise men, by private contribution for the last month; but have been ashamed to exhibit them to public view least their poverty and nakedness appear.</p>
+            <p>Lieut Kingsly has been enabled since his men have put on fine coats to add at least a dozen to his list of recruits</p>
+            <p>The copy of my two receipts per 1000$ are received and I am thankful to the General for the trouble he has taken to forward them.</p>
+            <p>I have the honor to enclose a list of officers of the regiment under my command as arranged by the Inspector General and transmitted to me by the adjutant <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice>
+            </p>
+            <p>I have too pursuant to this information proceeded to the arrangement of the officers to companies in the manner <pb n="3" facs="sl558c.small.jpg"/> and form set forth in paper marked No2.</p>
+            <p>The General will see that this is only a temporary step which has been made through necessity.</p>
+            <p>I was compelled to muster and cause the men to be paid their deferred bounties.</p>
+            <p>In this arrangement I shall anxiously wait to see the exercise of his superior authority.</p>
+            <p>What has become of <name>Major McCalla</name>
+               <unclear>will</unclear> the General if he think proper <unclear>either order <gap/>
+               </unclear>  him the enclosed dispatch.</p>
+            <closer>
+               <salute>I have the honor to <lb/> be <choice>
+                     <abbr>mot</abbr>
+                     <expan>most</expan>
+                  </choice> respectfully <lb/> his mot <choice>
+                     <abbr>ob st</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+                  <lb/> N</salute>
+               <signed>W L Anderson <lb/>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+                  <unclear>
+                     <choice>
+                        <abbr>Co'ng</abbr>
+                        <expan>Commanding</expan>
+                     </choice>
+                  </unclear> 24th <choice>
+                     <abbr>Reg</abbr>
+                     <expan>Regiment</expan>
+                  </choice>
+                  <lb/>
+                  <choice>
+                     <abbr>U.S. Infty</abbr>
+                     <expan>United States infantry</expan>
+                  </choice>
+               </signed>
+               <pb n="4" facs="sl558d.small.jpg"/>
+               <add>Public Service <lb/> Nashville <choice>
+                     <abbr>Sept</abbr>
+                     <expan>September</expan>
+                  </choice> 1</add>
+               <address>
+                  <addrLine>W L And <gap/>
+                  </addrLine>
+                  <addrLine>Colo 24 <gap/>
+                     <unclear>gt U <lb/> Infty</unclear>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Brigr</abbr>
+                        <expan>Brigadier</expan>
+                     </choice> Genl <name>James Winchester</name>
+                  </addrLine>
+                  <addrLine>Head Quarters</addrLine>
+                  <addrLine>
+                     <name>Lexington</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Kentucky</name>
+                  </addrLine>
+               </address>
+               <add>Col Wm L Anderson  <lb/> 1st <choice>
+                     <abbr>Sep</abbr>
+                     <expan>September</expan>
+                  </choice> 1812</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

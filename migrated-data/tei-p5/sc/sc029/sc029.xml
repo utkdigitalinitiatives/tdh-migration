@@ -1,0 +1,435 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Apr. 10 Bean Station, Grainger Co[unty, Tennessee]
+			 [to] Board of Managers of the A, B, Society, Nassau, New York / Thomas
+			 Springfield : a machine-readable transcription of an image</title>
+            <author>Springfield, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc029</idno>
+            <idno>OCLC: 50037526</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Apr. 10 Bean Station, Grainger Co[unty,
+				Tennessee] [to] Board of Managers of the A, B, Society, Nassau, New York /
+				Thomas Springfield</title>
+               <author>Springfield, Thomas</author>
+               <date when="1846-04-10">April 10, 1846</date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter dated April 10, 1846
+				and written by the Reverend Thomas Springfield to the board managers of the
+				A.B. Society in Nassau, New York. Springfield details his evangelistic travels
+				all over East Tennessee, Western North Carolina, and Western Virginia.</note>
+               <note type="Collection"> Thomas Stringfield</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-1945</note>
+               <note type="Document">sc029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>North Carolina</term>
+               <term>Virginia</term>
+               <term>Southern States</term>
+               <term>Evangelistic work</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Springfield, Thomas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc029a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Beans Station, Grainger 
+					 <choice>
+                           <abbr>Co</abbr>
+                           <expan>County</expan>
+                        </choice>
+                        <choice>
+                           <abbr>Tn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                     <date when="1846-04-10">April 10th 1846</date>
+                  </addrLine>
+                  <addrLine>To the Board of Managers of the A, B, Society</addrLine>
+               </address>
+               <salute>Dear brothers and friends</salute>
+            </opener>
+            <p>After spending a few days with my family, I left home on the 
+			 <date when="---20">20th</date>
+               <unclear>ult</unclear> for 
+			 <name type="place"> Mossy Creek</name>, which place I
+			 <choice>
+                  <orig>reachd</orig>
+                  <reg>reached</reg>
+               </choice> on Saturday time enough to preach at 12
+			 O'clock  there being a sacramental <unclear>meeting</unclear>
+               <add place="supralinear">there.</add>
+               <del type="overstrike">at that
+		  place.</del> It is in a good <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice>,
+		  bounded on the South, by 
+		  <name type="place">Bays Mountain</name> and on the North by poor
+		  ridges.</p>
+            <p>On the Sabbath I addressed the people on the great subject of my
+			 agency  After I had closed, <unclear>Dr</unclear>
+               <choice>
+                  <abbr>Rev</abbr>
+                  <expan>Reverend</expan>
+               </choice> added some well timed remarks. We
+			 obtained a pledge of $ 17.  collected some <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice>, and <choice>
+                  <orig>organised</orig>
+                  <reg>organized</reg>
+               </choice> the
+			 Mossy Creek Bible Society. The <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> collected were
+			 left with the <unclear>Treasurer</unclear> until he could obtain more. I think
+			 the Society will gradually increase and do much good. From that neighbourhood I
+			 went to 
+			 <name type="place">Beans Station</name>, <unclear>via</unclear>
+			 Rutledge,  where I spent two days, preached on Saturday and Sabbath
+			  I formed a small Bible Society containing <del type="overstrike">some</del> about fifty members, some fifteen of whom are
+		  <choice>
+                  <orig>coloured</orig>
+                  <reg>colored</reg>
+               </choice> people, who take a <emph>deep</emph>
+		  interest in the cause, paying $3.00 of what was collected. This Society is
+		  surrounded by a vast range of <add place="supralinear">partial</add>
+               <choice>
+                  <orig>distibution</orig>
+                  <reg>distribution</reg>
+               </choice>
+               <unclear>O</unclear> , May it be as
+		  a Light in a dark place"!</p>
+            <p>
+               <date when="--03-30">March 30.th</date> I went across the country
+			 some twenty miles <add place="supralinear">near</add> to the Mouth of Chucky
+			  at <unclear>Beth Carr M. ?. </unclear> There being held a
+			 protracted meeting there, at which I remained until Wednesday. I
+			 <add place="supralinear">there </add>formed the Beth Carr Bible Society,
+			 <unclear>?</unclear>  collected for it $8.23. and obtained
+			 <choice>
+                  <orig>aditional</orig>
+                  <reg>additional</reg>
+               </choice> pledges, most of which will be, if they
+			 have not already been paid.</p>
+            <p>This Society is designed to supply with Bibles 
+			 <choice>
+                  <orig>Testerments</orig>
+                  <reg>Testaments</reg>
+               </choice> a poor destitute section which lies
+			 between the 
+			 <name type="place">Chucky and French Broad rivers</name>, north of
+			 the 
+			 <name type="place">Paint Mountain</name>. They have a <hi>great
+			 work</hi> to perform; with <hi>small means.</hi> I have situated places for
+			 these Small Societies where they could do much, as distributors "of other man's
+			 bounties" I think it is better to have small societies than Bible
+			 <choice>
+                  <orig>Committies</orig>
+                  <reg>Committees</reg>
+               </choice>. My views on this subject have been
+			 previously given with <unclear>??riess.</unclear>
+            </p>
+            <p>Wednesday evening, 
+			 <date when="--04-01">April 1st</date> I crossed the Chucky 
+			 French Broad to 
+			 <name type="place">Newport</name>. The Society <pb n="2" facs="sc029b.small.jpg"/>
+               <add place="top left corner">2,</add> There had been <unclear>urged</unclear>
+			 until it had collected and sent on some $40. for books, which are daily
+			 expected.
+               </p>
+            <p>From Newport I passed up the French Broad, <hi>via</hi> Warm Springs
+			 , 
+			 <choice>
+                  <abbr>c</abbr>
+                  <expan>et cetera</expan>
+               </choice> to <choice>
+                  <orig/>
+                  <reg>Asheville</reg>
+               </choice> N.C. where I spent the
+			 Sabbath and two following days. In 
+			 <date when="1844-10">Oct 1844</date>. The Holston Conference held
+			 its session within seven miles of <choice>
+                  <orig>Ashville</orig>
+                  <reg>Asheville</reg>
+               </choice>. 
+			 <name type="person">Bishop Jones</name> was there  and a fresh
+			 impulse was given to the Bible Cause. 
+			 <name type="person">Rev-ern Langdon</name>; Agent of the A  N.e.
+			 Bible Society was in attendance, and obtained some cash, and pledges from
+			 <unclear>sundry</unclear> persons <hi>to take in</hi> all, about 800 Bibles.
+			 Its been some 8 months before these Bibles came in, <hi>three fourths</hi> of
+			 the subscribers <del type="overstrike">negle</del> refused or neglected 
+		  as they <hi>have still done</hi>  to take them. Learning the state of
+		  things there  and believing the cause was suffering, I went up 
+		  delivered an address on the subject  formed or ? 
+		  <choice>
+                  <orig>organised</orig>
+                  <reg>organized</reg>
+               </choice> a Bible Society  collected $42.00
+		  and made arrangements to have the Bibles distributed  myself taking away
+		  <hi>one hundred <del type="overstrike">Bibles</del>
+               </hi> of them. It is of
+		  great importance to an agent to be personally <choice>
+                  <orig>accquainted</orig>
+                  <reg>acquainted</reg>
+               </choice> with the leading
+		  <unclear>citizens</unclear> of a country. By this means I <choice>
+                  <orig>seceeded</orig>
+                  <reg>succeeded</reg>
+               </choice> in obtaining such assistance as I trust, will
+		  ere long supply that mountain country with the word of God.</p>
+            <p>Wednesday, 
+			 <date when="--04-08">April 8th</date> I passed 20 miles down the
+			 French Broad  on the 
+			 <date when="---09">9th</date>, I crossed the Paint Mountain
+			 into 
+			 <name type="place">
+                  <choice>
+                     <orig>Green</orig>
+                     <reg>Greene</reg>
+                  </choice>
+                  <choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name>
+               <choice>
+                  <abbr>Tn</abbr>
+                  <expan>Tennessee</expan>
+               </choice> I sent 30 Bibles to the Beth Carr 
+			 <choice>
+                  <abbr>B.</abbr>
+                  <expan>Bible</expan>
+               </choice> Society and left with a pious lady
+			  
+			 <name type="person">Mrs Nelson</name>  near the 
+			 <name type="place">Warm Springs</name>, 20 <del type="overstrike">Bibles</del> for distribution among the destitute in the
+		  mountains, South of the Warm Springs. The 
+		  <name type="persons">Methodists</name> and 
+		  <name type="persons">Baptists</name> have small Societies out there. I
+		  also left ten Bibles with a pious lady, 
+		  <name type="person">Miss Eliza Jane Coutter</name>, fifteen miles South
+		  of <choice>
+                  <orig>Greenville</orig>
+                  <reg>Greeneville</reg>
+               </choice>, near Paint Mountain. I have heard
+		  of <del type="overstrike">many</del> some affecting cases of destitution, but
+		  deem it unnecessary to relate them, unless they were uncommonly
+		  <unclear>touching</unclear>. I then passed through <choice>
+                  <orig>Greenville</orig>
+                  <reg>Greeneville</reg>
+               </choice>  in which place I am
+		  <add place="supralinear">hereafter</add> to make a <hi>special</hi> effort,
+		  <hi>via</hi>
+               <name type="place">Rhea </name>
+               <unclear>Towers</unclear>, to
+		  <choice>
+                  <orig/>
+                  <reg>Jonesboro</reg>
+               </choice>, to meet a Sabbath
+		  appointment of 3 weeks standing. It was a rainy time on Sabbath, we collected a
+		  <hi>respectable</hi> congregations however, at 12 O'clock, in the Presbyterian
+		  Church, and <choice>
+                  <orig>organised</orig>
+                  <reg>reorganized</reg>
+               </choice> or <choice>
+                  <orig> organised</orig>
+                  <reg>reorganized</reg>
+               </choice> a Bible Society which I presume
+		  has been officially reported. The cash pledged and paid down was some $50.00
+		   which will be doubled soon, I hope, as the <pb n="3" facs="sc029c.small.jpg"/>
+               <add place="top right corner">3</add> friends from the country, who will
+		  hereafter unite in the common cause, were kept away by the rain. The funds
+		  collected were left with the Treasurer, as he expects soon to be in 
+		  <name type="place">New York</name>. At early candle lighting we met in
+		  the Methodist Church and organised the 
+		  <name type="place">Washington 
+			 <choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> Juvenile Bible Society,
+		  Auxiliary 
+		  <choice>
+                  <abbr>c</abbr>
+                  <expan>et cetera</expan>
+               </choice>  collecting $20. This
+		  Society intends to supply <hi>the</hi> County Sunday Schools with Testaments. I
+		  believe it <hi>will</hi> do well.
+               </p>
+            <p>Monday 
+			 <date when="---13">13th</date> I <hi>drove</hi> to 
+			 <name type="place">Blountville, Sullivan 
+				<choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> and <hi>finished</hi> the
+			 organization of a Society previously <unclear>convened</unclear> there. I 
+			 <choice>
+                  <abbr>collecd</abbr>
+                  <expan>collected</expan>
+               </choice> of the Treasurer $38.86
+			  over what had been paid for carriage on the 3 boxes. The people in
+			 that place are waking up to the subject, and before the close of the year, they
+			 will probably dispose of nearly a thousand Bibles, and more than that number of
+			 Testaments  increasing your funds some $500.00 </p>
+            <p>From Blountville I went to 
+			 <name type="place">Scott County 
+				<choice>
+                     <abbr>Va.</abbr>
+                     <expan>Virginia</expan>
+                  </choice>
+               </name> taking with me an
+			 <choice>
+                  <orig>aditional</orig>
+                  <reg>additional</reg>
+               </choice> supply of one hundred and thirteen
+			 Bibles and Testaments. I made arrangements to have most of these sold in 
+			 <name type="place"> Scott</name> and <choice>
+                  <orig/>
+                  <reg>Lee</reg>
+               </choice> Counties, by <unclear>several
+			 responsible</unclear> individuals, who will <hi>cheerfully</hi> serve
+			 <hi>the</hi> good cause without charge</p>
+            <p>From these parts I returned and passed through 
+			 <name type="place">Kingsport</name>, and was glad to find that the
+			 Society there had received their books and were doing well. I came on through 
+			 <name type="place">Rogersville</name>, <hi>also</hi>, where I shall
+			 make a spiral effort, in due time. I had an appointment at this place on Friday
+			 evening, which I attended to, The Society which I found here 3 weeks ago is
+			 doing well, for a <hi>small place</hi>
+            </p>
+            <p>I have <hi>now</hi> closed my monthly <unclear>report</unclear> The
+			 prospects are brightening. I am satisfied I have never been engaged in so great
+			 a work  O may I be enabled to advance <add place="supralinear">it</add>
+			 more effectually!</p>
+            <closer>
+               <salute>Yours truly</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Thos.</abbr>
+                        <expan>Thomas</expan>
+                     </choice>
+				  Springfield</name>
+               </signed>
+               <add place="bottom left">Inclosed is my
+			 account</add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="4" facs="sc029d.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <unclear>Beor Rotin ?</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1846-04-10">Ap. 10, 46</date>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Rev T.</abbr>
+                        <expan>ReverendThomas</expan>
+                     </choice> Springfield ?</addrLine>
+                  <addrLine>
+                     <unclear>by his hand to his</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>Agency ? </unclear>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Rutledge</name>
+                     <choice>
+                        <abbr>Tn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date when="--04-21">April 21st</date>
+                  </addrLine>
+                  <addrLine>On 
+				<date when="--05-01">May 1</date>
+                     <add place="right of text">20?</add>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Rev J C Bringham</name> and</addrLine>
+                  <addrLine>
+                     <name type="person">Dr Noah Levings</name>
+                  </addrLine>
+                  <addrLine>no 115 
+				<name type="place">Nassau, New York</name>
+                  </addrLine>
+                  <addrLine>A, B, Societys House</addrLine>
+               </address>A.C.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

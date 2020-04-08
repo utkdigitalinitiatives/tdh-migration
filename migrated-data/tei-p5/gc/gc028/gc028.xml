@@ -1,0 +1,176 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1834 Dec. 22, Alexandria, Louisiana [to] James King, Murfreesboro, Tennessee / Thomas Moore :  a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc028</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1834 Dec. 22, Alexandria, Louisiana [to] James King, Murfreesboro, Tennessee / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1834-12-22">December 22, 1834</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">A letter dated December 22, 1834 from Thomas Moore to his cousin James King.  In addition to telling King that his crops were destroyed by fierce rains, he also tells of his hopes of  financial gain with his spring crops.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1834</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">gc028</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Crop losses</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc028a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name> near <name>Murfreesboro</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <choice>
+                  <abbr>Rec.d</abbr>
+                  <expan>received</expan>
+               </choice> January 1835 Answered <date when="1835-02-14">14th <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice> 1835</date>
+               <add>Mail</add>
+               <add place="top left of envelope">Alexandria <choice>
+                     <abbr>Dec</abbr>
+                     <expan>December</expan>
+                  </choice> 2<gap agent="damage"/>
+               </add>
+               <add place="top center of envelope">
+                  <choice>
+                     <abbr>T</abbr>
+                     <expan>Thomas</expan>
+                  </choice>.O. Moore</add>
+               <add>25</add>
+               <pb n="2" facs="gc028b.small.jpg"/>
+               <address>
+                  <addrLine>Alexandria </addrLine>
+               </address>
+               <date when="1834-12-22">22nd <choice>
+                     <abbr>Dec.r</abbr>
+                     <expan>December</expan>
+                  </choice> 1834</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>After waiting with great  impatience for a long time I had the pleasure yesterday of receiving your very affectionate and interesting letter of the 24th <choice>
+                  <abbr>ult.</abbr>
+                  <expan>Ultimo</expan>
+               </choice> giving me the pleasing <choice>
+                  <orig>intelligince</orig>
+                  <reg>intelligence</reg>
+               </choice> of the good health of yourself &amp; family and friends generally. my family are in good health our little son has had a severe attack of <choice>
+                  <orig>dysintery</orig>
+                  <reg>dysentery</reg>
+               </choice> but is improving.  I have been very unfortunate this year with my negroes have lost four likely fellows one of <choice>
+                  <orig>cholerea</orig>
+                  <reg>cholera</reg>
+               </choice> two of fever and one of dysintery (Randal) the latter disease has been quite prevalent this fall and very fatal though has nearly <choice>
+                  <orig>disappeard.</orig>
+                  <reg>disappeared</reg>
+               </choice>
+            </p>
+            <p>Our crops in this section of country were destroyed by a succession of storms and heavy rains, some distance above us on red river they are remarkably fine the storms did not reach so far.  I calculated on making three hundred bales but have made but one hundred &amp; sixty have <choice>
+                  <orig>shiped</orig>
+                  <reg>shipped</reg>
+               </choice> all and sold seventy eight from 12 1/2 to 13 1/2 my crop will bring me as much this year as it did last though my former was much better; my crop of last year made by twenty <del type="overstrike">one</del> hands brought me $10.300 a part I shiped to Liverpool brought me 16 cents, a considerable lot sold a few days ago in New Orleans at 19 cents the rise was produced by speculation and immediately fell to from 12 to 16 again but is thought will be better in the spring <pb n="3" facs="gc028c.small.jpg"/> As regards a blacksmith I have had one purchased some time in Carolina by <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Henry for me at $900- and expect to <choice>
+                  <orig>recieve</orig>
+                  <reg>receive</reg>
+               </choice> him soon after christmas I was informed while there that he was a first rate workman.</p>
+            <p>You state you <del type="overstrike">you</del> have an idea of bringing ten or twelve negroes to the Mississippi for sale and you also state provided you could get lands on <choice>
+                  <orig>accomadating</orig>
+                  <reg>accommodating</reg>
+               </choice> terms and the location of the country such as suits you that you would like to settle a farm, if that be your intention and you conclude to establish a place you ought not to sell negroes unless your object be to purchase them that would suit you better, if you wish to settle in the southern country I would advise you to visit red river above this place it is a fine county &amp; settling up very fast, the Bosleys are up there &amp; Tom Sutton  from Sampson and several theirs, negroes are selling from seven to eight hundred dollars,  I was at a sale the other day where negroes sold on a credit of twelve months (a estimate) likely <choice>
+                  <orig>mor</orig>
+                  <reg>more</reg>
+               </choice> sold from twelve to thirteen &amp; eighty dollars.</p>
+            <p>It is uncertain whether I shall come up next summer or not I will write you on the subject in a month or two.  Sarah &amp; wife join me in love to you cousin Martha &amp; family and the rest of our relations remember me to all my acquaintances and accept my bet wishes</p>
+            <closer>
+               <choice>
+                  <abbr>Yr</abbr>
+                  <expan>Your</expan>
+               </choice>
+               <choice>
+                  <abbr>affte</abbr>
+                  <expan>affectionate</expan>
+               </choice> relative <signed>
+                  <choice>
+                     <abbr>Tho.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O. Moor</signed>
+               <add>remember me to <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice> Wilson</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

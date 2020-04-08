@@ -1,0 +1,108 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Feb. 15 [to] Alexander D. Coffee / Andrew Jackson Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um012</idno>
+            <idno>OCLC: 50199384</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1849 Feb. 15 [to] Alexander D. Coffee / Andrew Jackson Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1849-02-15">February 15, 1849</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a letter dated February 15, 1849 to Alexander D. Coffee from Andrew Jackson Coffee regarding a mix-up in their newspaper subscriptions.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903, MS27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">14</note>
+               <note type="document" anchored="true">um012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Newspaper vendors</term>
+               <term>Letters</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um012a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Washington, D. C.</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Feby </abbr>
+                     <expan>February</expan>
+                  </choice>15th 1849</date>
+               <salute>Dear Alex</salute>
+            </opener>
+            <p>Herewith I enclose you a receipt for two dollars, which I paid today for your subscription of the Weekly Union to include <date when="1850-02-15">15 <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice> 1850</date>. I tried to ascertain the state of your account by the books but was not able to do so. You have no credits on the books at all, and I knew that was not right and did not pay the back amount. You began to take the papers on the first of <date when="1845-05">May 1845</date>. Will you state the amounts you first paid and indeed the whole history of the affair, and ⁁<add>send me</add> any receipts you may have to show the matter, and did you ever subscribe for the Globe before that time, The cause of your paper being discontinued was the similarity between our names (A. J. &amp; A. D.) when I went to <name type="place">New Orleans</name> I directed my paper to be sent to that place, and to discontinue it at Florence, and they mistook the names, Write early on the subject.</p>
+            <p>This is a <emph>horrible</emph> place, worse than at <name type="place">San Antonio</name>, Horrid climate, horrid manners, and horrid people, I would not live here for a <choice>
+                  <abbr>mint</abbr>
+                  <expan>minute</expan>
+               </choice>. <name type="person">Frank</name> has been quite sick since we have been here, but I am happy to report him better, I am in great haste so you will excuse me. <note type="person" anchored="true">Betty</note> joins me in love to one &amp; all friends</p>
+            <closer>
+               <salute>Yours truly</salute>
+               <signed>
+                  <name type="person">Andrew J. Coffee</name>
+               </signed>
+               <add place="left margin">I believe you wanted the weekly paper, if I am mistaken let me know.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

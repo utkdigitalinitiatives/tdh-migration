@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl151">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal] 1800 July 27,  Tennessee [ to] James White / Charles McClung  : a machine readable transcription of an image</title>
+            <author> McClung, Charles</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc151</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal] 1800 July 27, Tennessee [to] James White / Charles McClung</title>
+               <author> McClung, Charles</author>
+               <date when="1800-07-27"> 
+			 July 27, 1800</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Charles McClung to James White, dated July 27, 1800. McClung empowers White to call before him and to question Abraham Job regarding another court case.</note>
+               <note type="collection" anchored="true">Charles McClung Letters</note>
+               <note type="box" anchored="true">MS 764</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc151</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>White, James, 1749-1809</term>
+               <term>Legal document</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McClung, Charles</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc151a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of <name>Tennessee</name>,</addrLine>
+               </address>
+               <address>
+                  <addrLine>To <add>
+                        <name>Thos <unclear>Carbuty</unclear>
+                        </name>
+                     </add>
+                     <del type="overstrike">Joseph Gen</del>
+                     <add>
+                        <name>James White</name>
+                     </add> Esquire</addrLine>
+               </address>
+               <salute>Eires, or either of you, Greeting:</salute>
+            </opener>
+            <p>Know ye, that we <unclear>trustirto</unclear> your faithfulness and impartiality, in examining whatsoever <unclear>witsses</unclear> , as well for the plaintiff as the defendant, do, by these presents, <unclear>impower</unclear> you to call and cause to come before you <name>Abraham Job</name> and his examination, on <unclear>ch</unclear> or affirmation, as the law directs, to take in writing, on behalf of <unclear>Brammin</unclear> White in a certain matter of controversion our <add>county</add>
+               <del type="overstrike">superior</del> court of law, for the County <del type="overstrike">district</del> of Knox <gap/> epending, wherein <name>Christian Pike</name> is plainti <gap/> and <name>William owens</name> and <name>Benjamin White</name> on defendant and the same so taken to certify under you hand and seals, and inclose, <unclear>al</unclear> , and direct, together with this writ, to our <add>county</add>
+               <del type="overstrike">interior</del> court <del type="overstrike">of law</del> , to <unclear>holden</unclear> for the <add>County</add>
+               <del type="overstrike">distict</del> aforesaid, at the court house in <name>Knoxville</name> on the <unclear>second</unclear> Monday of October next ere to be given in evidence at the trial of that suit. <add>
+                  <name>Charles McClung</name>
+               </add>
+               <del type="overstrike">Witness Francis Ramsey</del> clerk of our said court, at office, the Second Monday of July Anno Domini <unclear>1790</unclear> and the 25 year of American <unclear>independence</unclear>.</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Chas</abbr>
+                     <expan>Charles</expan>
+                  </choice> MClung</signed>
+               <pb n="2" facs="sc151b.small.jpg"/>
+               <add>Commission <lb/> Pitch <lb/>
+                  <choice>
+                     <abbr>v</abbr>
+                     <expan>versus</expan>
+                  </choice>
+                  <lb/> Owens and white <lb/>
+                  <unclear>Io</unclear>
+                  <date>27th July 1800</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

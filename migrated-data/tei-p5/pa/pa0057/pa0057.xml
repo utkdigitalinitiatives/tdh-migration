@@ -1,0 +1,340 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Claim] 1838  Sept. United States to George Still of Cherokee Nation East : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0057</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Claim] 1838  Sept. United States to George Still of Cherokee Nation East</title>
+               <date when="1838-09"> 
+			 September 1838</date>
+               <extent> 7p</extent>
+               <note type="summary" anchored="true">This document dated September 1838 is a spoliation claim for George Still of the Cherokee Nation East. Still is requesting that the United States government reimburse him for horses, steer, and cows that he claims were stolen from him by white men.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians -- Claims</term>
+               <term>Theft</term>
+               <term>Legal documents</term>
+               <term>United States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0057a.small.jpg"/>
+            <opener>The <name>United States </name>
+               <lb/> To <name>George Still </name>(of <name>Hickory Log <choice>
+                     <abbr>Dist</abbr>
+                     <expan>District</expan>
+                  </choice>
+               </name>
+               <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Debtor</expan>
+               </choice> for</opener>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Bay Horse 5 year old</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>estamated</orig>
+                           <reg>estimated</reg>
+                        </choice> at</cell>
+                     <cell role="data" rows="1" cols="1">$100.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Brown Horse 5 year old </cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">70.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 senball Horse 8 year old</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">80.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Black Horse 7 year old </cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">80.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Sorrel mare 3 year old</cell>
+                     <cell role="data" rows="1" cols="1"> estamated at</cell>
+                     <cell role="data" rows="1" cols="1">40.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Sorrel Horse 4 year old</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">40.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Grey Mare 10 year old</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">70.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Sorrel Mare 2 year old</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">75.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Bay Mare &amp; colt 5 year old</cell>
+                     <cell role="data" rows="1" cols="1">estamate at</cell>
+                     <cell role="data" rows="1" cols="1">60.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Bay colt 2 year old </cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">25.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Black mare 7 year old</cell>
+                     <cell role="data" rows="1" cols="1">estamate at</cell>
+                     <cell role="data" rows="1" cols="1">100.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Grey Mare 7 years old</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">80.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 large steers</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">80.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">82 Head of Cows</cell>
+                     <cell role="data" rows="1" cols="1">estamated at</cell>
+                     <cell role="data" rows="1" cols="1">820.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 forged note and Interest</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">37.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 forged note and Interest</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> ―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$1807.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Personally came before me <name>George Still</name> the Claimant of the <name>Cherokee Nation East</name> and <choice>
+                  <orig>solemly</orig>
+                  <reg>solemnly</reg>
+               </choice> affirmed that the above is a just account of property stolen from him by white men citizens of the United States the two first <choice>
+                  <orig>discribed</orig>
+                  <reg>described</reg>
+               </choice> horses as discribed was stolen by two white men one named  <name>Gilmer</name> and the other <name>Beaver</name>
+               <del type="overstrike">done</del> both citizens of the United States done on Standing Peach tree about 13 years ago The <choice>
+                  <orig>clamant</orig>
+                  <reg>claimant</reg>
+               </choice> states he saw a white man named <name>Binion</name> who told him that he saw the above discribed horses in the possession of said named white man claimant says that the said Binion was well acquainted with Himself and property claimant states he then pursued the said Gilmer &amp; Beaver to <name>Jasper County</name> in <name>Georgia</name> &amp; then heard that they had sold the horses to a white man named <name>Speers</name> He then went to the said Speers house and told him that he wanted to see his horses Speers said he should see them in the morning The next morning the said Speers said that the horses was gone <pb n="2" facs="pa0057b.small.jpg"/>
+            </p>
+            <p>The next senball <add>and Black</add> Horses as discribed was stolen by one <name>Taitem</name> a white man citizen of the United States done at standing peach tree about 12 years ago the claimant says he employed a white man named <name>Jones</name> to <choice>
+                  <orig>persue</orig>
+                  <reg>pursue</reg>
+               </choice> the said Taitem <name>Jones</name>
+               <choice>
+                  <orig>persued</orig>
+                  <reg>pursued</reg>
+               </choice> him to <name>Abervill Dist</name>
+               <name>South Carolina</name> Jones stated when he returned that he fund the Horses in the <choice>
+                  <orig>Possesion</orig>
+                  <reg>Possession</reg>
+               </choice> of a white man who told him that he bought the said horse from one Taitem who lived in Georgia and that he would not let claimant have the horse <choice>
+                  <orig>unles</orig>
+                  <reg>unless</reg>
+               </choice> he would come and make proof to the Horse but as it was some distance from home the claimant could not comply The next Black Horse as discribed was stolen at the same time and by the same Taitem and was seen in the posession of the same white man at the same time that the senball horse was seen.</p>
+            <p> The next sorrel horse as discribed was stolen by <name>Charles Harris</name> a white citizen of the United States done at standing peach tree about 12 years ago claimant states he saw one <name>Campbell</name> a white man who told him that he saw the said Harris have the horse in his posession Campbell was well acquainted with claimant and his property as he lived a <choice>
+                  <orig>neibor</orig>
+                  <reg>neighbor</reg>
+               </choice> to claimant</p>
+            <p>The next sorrel as discribed was stolen by one Gilmer a white man done at standing peach tree about 16 year ago claimant states a month after his horse was stolen that <name>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Carol</name> a white man told him that he saw the said horse in the posession of a white man named <name>Williams</name> in <name>Gwinette County Georgia</name> in the said Carrol was well acquainted with claimant and horse. The next a Grey mare as discribed was stolen by one <name>Philpot</name> a white man done on <name>Little River</name> about 7 years ago claimant saw one <name>Poriss</name> a white man who told him that he saw the said mare in the posession of a white man who told him he bought her from said Philpot but short before. <pb n="3" facs="pa0057c.small.jpg"/>
+            </p>
+            <p>The next a sorrel mare as discribed was stolen by <name>William Heard</name> a white man done at Standing Peach Tree about 12 years ago claimant states he <choice>
+                  <orig>didnot</orig>
+                  <reg>did not</reg>
+               </choice> see the said mare in the posessions of said <name>Heard</name> but that he has good reasons for so believing</p>
+            <p>The next a Bay mare and colt and a bay colt 2 years old as discribed was stolen by a white man name not recollected done at Standing Peach tree about 12 years ago claimant states <sic>claimant states</sic> that his horses was taken out of the range and that there was no people but whites living near him</p>
+            <p>The next a Black mare was stolen by one <name>Springen</name> a white man done at Standing Peach Tree about 13 years ago <choice>
+                  <orig>claiment</orig>
+                  <reg>claimant</reg>
+               </choice> states that he didnot see the mare in the posession of said Springen but that he has good reason for so believing said Springen stole her He also says that he saw one <name>Kice</name> a white man who told him he saw the mare in the posession of said Springen Kice was well acquainted with the claimant and knew the mare</p>
+            <p>The next discribed a Grey Mare was stolen by one <name>Welck</name> a white man done at Talapoosee about 10 years ago claimant states he did not see the mare in the possession of said Welck but has good reasons for so <choice>
+                  <orig>beliefing</orig>
+                  <reg>believing</reg>
+               </choice>
+            </p>
+            <p>The 2 Head of steers as discribed was stolen by one <name>Brown</name> a white man also the 82 Head of cows was stolen by the same Brown a white man done at Standing Peach tree about 13 years ago <choice>
+                  <orig>claiman</orig>
+                  <reg>claimant</reg>
+               </choice> says that the said Brown took the steers &amp; cow out of the range The next was a note forged for $27 dollars made payable to <name>James Barker</name> or Bearer dated 14th day of April 1830 claimant states that he never knew any such man as Barker nor never <del type="overstrike">knew</del>
+               <add>gave</add> any such note to any person He also say that he was sued on said note and had it to pay with interest and cost amounting to $37 dollars <pb n="4" facs="pa0057d.small.jpg"/> The next was a note forged by a white man for $10 dollars made payable to <name>Ezekiel Ralston</name> a white man dated the 3rd day of May 1810 claimant states that he never knew any such man as the said Ralston nor never gave any such note to any person He further says that a white man named <name>Bogan</name> who had this note in his posession sued him and attached his property and caused him to pay the sum of $50 dollars for the principal interest and cost He further affirms that all the above prices for the above mentioned property are reasonable and that he has had no pay for the same</p>
+            <p>
+               <add>affirmed to before me this <lb/> day of Sept 1838 <lb/>
+                  <name>Moss Daniel</name>
+                  <lb/> Agent for collecting claims{</add>
+               <name>George <add>his x mark</add> Still</name>
+            </p>
+            <p>Personally came before me <name>Jack Still</name> of the Cherokee Nation East and solemly affirmed that he saw the <add>two</add> first discribed Bay &amp; Brown Horse in the posession of a white man who told him that he bought said Horses from said Gilmer and Beaver both white men and that they lived in Georgia He knew the horses to be the same alluded to above He further affirms that the prices are reasonable and that the claimant has had no pay for the same to the best of his knowledge &amp; belief</p>
+            <p>
+               <add> affirmed to before me this <lb/> day of Sept 1838 <lb/> Moss Daniel <lb/>
+                  <del type="overstrike">[unclear]</del> agent for collections &amp; claims {</add>
+               <name>Jack <add>his x mark</add> Still</name>
+               <pb n="5" facs="pa0057e.small.jpg"/> Personally came before me <name>Tunday</name> of the Cherokee Nation East and solomly affirmed that he saw a white man who told him that he saw the said Taitem have the two horses as described a senball &amp; a black horse in his posession and the white man said that he knew them to be the claimants horses He further says that the prices are reasonable and that the claimant has had no pay for the same to the best of his knowledge and belief</p>
+            <p>
+               <add>Affirmed to before me this <lb/> day of Sept 1838 <lb/> Moss Daniel <lb/> agent for collecting claims {</add>
+               <name>Tunday</name>
+               <add>his x mark</add>
+            </p>
+            <p>Personally came before <name>Tie,can,es,kee</name> and Jack Still of the Cherokee Nation East and solemly affirmed that they was well acquainted with the claimant and knew his property and also knew that he had all the above discribed horse and cows stolen from <add>him</add> and they believe it to be done by white men citizens of the United States They further say that the prices are reasonable and that the claimant has had no pay for the same to the best of their knowledge and belief.</p>
+            <p>
+               <add>Affirmed to before me this  <lb/> day of Sept 1838 <lb/> Moss Daniel <lb/> Agent for collecting claims {</add>
+               <name>Tie,can,es,kee</name>
+               <add>His x mark</add>
+            </p>
+            <p>Personally came before me <name>Tally Tie,can,es,kee</name> a white woman and solemly affirmed that she saw said sorrel mare in the posession of said Williams a white man and knew it to be the same alluded to above She further says that the price is reasonable and that the claimant has had no pay for the same to the best of her knowledge and belief</p>
+            <p>
+               <add>Affirmed to before me this <lb/> day of Sept 1838 <lb/> Moss Daniel <lb/> Agent for collecting claims {</add>
+               <name>Tally Tie,can,es,kee</name>
+               <add>her x mark</add>
+               <pb n="6" facs="pa0057f.small.jpg"/> Personally <del type="overstrike">came</del> came before me <name>Thomas Woodall</name> a white man and solemly affirmed that he saw <add>the</add> above mentioned steers and cows in the possession of said Brown a white man in a short time after they was taken and knew them to be the same alluded to above He also says that the prices are reasonable and that the claimant has had no pay for the same to the best of his knowledge and belief</p>
+            <p>
+               <add>Affirmed to before me this <lb/> day of Sept 1838 <lb/> Moss Daniel <lb/> Agent for collecting claims{</add>
+               <name>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Woodall</name>
+            </p>
+            <p>Personally came before me Tican,es,kee and <name>Edward Still </name>of the Cherokee Nation East and solemly affirmed that the claimant paid the said forged notes to the said named white men and that they do not believe that claimant ever gave any such notes they further affirm that the amounts are correct and that the claimant has had no pay for the same to the best of their knowledge and belief <add>affirmed to before me this <lb/> day of Sept 1838 <lb/> Moss Daniel <lb/> Agent for collecting claims {</add>
+               <name>Tie,can,es,kee <add>his x mark</add>
+               </name>
+               <lb/>
+               <name>Edward <add>his x mark</add> Still</name>
+            </p>
+            <p>
+               <pb n="7" facs="pa0057g.small.jpg"/>
+               <name>Hickory Log District </name>
+               <lb/> George Still <lb/> claim for <lb/> Spoliation</p>
+            <p>
+               <add>
+                  <choice>
+                     <abbr>Referd</abbr>
+                     <expan>Referred</expan>
+                  </choice> through <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Ross</name>
+                  <lb/>
+                  <choice>
+                     <abbr>Pr</abbr>
+                     <expan>Principle</expan>
+                  </choice> Chief to <name>
+                     <choice>
+                        <abbr>Maj Genl</abbr>
+                        <expan>Major General</expan>
+                     </choice>
+                     <lb/> Scott</name> commanding U.S. <lb/> Army for settlement <name>
+                     <choice>
+                        <abbr>Richd</abbr>
+                        <expan>Richard</expan>
+                     </choice> Taylor</name>
+                  <choice>
+                     <abbr>pres</abbr>
+                     <expan>president</expan>
+                  </choice>
+                  <lb/> N.Committee<name> J Jones</name>
+                  <choice>
+                     <abbr>clk</abbr>
+                     <expan>clerk</expan>
+                  </choice> protem <lb/>N.Committee</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

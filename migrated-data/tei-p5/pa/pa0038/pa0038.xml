@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1817 May 19, Highwassee [to] Col[onel] R[eturn] J. Meigs, Highwassee / Russell Goodrich : a machine readable transcription of an image</title>
+            <author>Goodrich, Russell</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0038</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1817 May 19, Highwassee [to] Col[onel] R[eturn] J. Meigs, Highwassee / Russell Goodrich</title>
+               <author>Goodrich, Russell</author>
+               <date when="1817-05-19">May 19, 1817</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated May 19, 1817 and addressed to Return J. Meigs, agent to the Cherokee Nation, from Russell Goodrich.   Goodrich writes to inform Meigs about work being done on a turnpike road between Georgia and Tennessee that will significantly decrease travel time between the two states.  Goodrich also inquires if some land could be taken from the Cherokee Nation and given as a favor to a woman.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0038</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Meigs, Return Jonathan, 1764-1825</term>
+               <term>Roads</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Goodrich, Russell</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0038a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Highwassee</name>
+                     <date>May 19th 1817</date>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col R J</abbr>
+                           <expan>Colonel Return Jonathan</expan>
+                        </choice> Meigs</name>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I left <name>augusta</name> to see the situation of the Unicoi Turnpike road The hands are now at work and I think the road will be finished in about six weeks from this time; and that a four horse Team will carry through 2500 might without  difficulty- A trip will be made from <name>Tennessee</name> to augusta in 10 to 12 days less <unclear>this</unclear> road than has heretofore been done which will be a matter of great importance- when the <name>Savannah</name>  is opened to the head of <unclear>Roatuble</unclear> water on <name>Tugaloo</name> the <unclear>coverage</unclear> from Tennessee to Tugaloo will be about 120 miles-</p>
+            <p>
+               <name>Mr Hobly</name> sent a Letter by me for you which I should have been very happy in delivering and paying my respects to you in person</p>
+            <p>If a <pb n="2" facs="pa0038b.small.jpg"/> a <unclear>Resem</unclear> of Land could with propriety be made by the Nation for <name>Mrs <unclear>Gueareneau</unclear>
+               </name> it would be a particular <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> done her you will recollect <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice> 12 months ago  she wrote you on the subject by me, at that time you were absent and I had not the pleasure of seeing you-</p>
+            <closer>
+               <salute>I am <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir with great Respect your most <choice>
+                     <abbr>obd Ser</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Russell Goodrich</name>
+               </signed>
+               <pb n="3" facs="pa0038c.small.jpg"/>
+               <address>
+                  <addrLine>Col. R. J. Meigs</addrLine>
+                  <addrLine>Highwassee</addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <orig>Russel</orig>
+                     <reg>Russell</reg>
+                  </choice> Goodrich esqr. his letter &amp; other letters <lb/> received <date>22nd May 1817 </date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

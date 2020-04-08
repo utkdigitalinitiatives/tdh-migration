@@ -1,0 +1,184 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl414">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1831 Mar. 22, Carthage [Tennessee] [to unknown recipient] / [Adam Fergusson]: a machine readable transcription of an image</title>
+            <author>Fergusson, Adam</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl414</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1831 Mar. 22, Carthage [Tennessee] [to unknown recipient] / [Adam Fergusson]</title>
+               <author>Fergusson, Adam</author>
+               <date when="1831-03-22">March 22, 1831</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter to an unknown person dated March 22, 1831. It is probably from Adam Fergusson. Fergusson is upset by what he sees as corrupt Demagogues. He writes about a corrupt law passed, and about supposed fraud during election time. He mentions a Colonel Parrish in relation to defalcation and the State Bank.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl414</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Law and legislation</term>
+               <term>Elections corrupt practices</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fergusson, Adam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl414a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <date>22d March 1831</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>When I last wrote you I did not expect to trouble you so soon with another communication for which I offer no <choice>
+                  <orig>appology</orig>
+                  <reg>apology</reg>
+               </choice> but that which I suggested in my first letter namely the love of truth and to endeavor to <choice>
+                  <orig>undecieve</orig>
+                  <reg>undeceive</reg>
+               </choice> the citizens of my county For Sir if this is not the <del type="overstrike">age</del>
+               <add>reign</add> of corruption and Demigogism then Sir all I have ever <choice>
+                  <orig>leart</orig>
+                  <reg>learned</reg>
+               </choice> of honesty of virtue in its most extended sense and political integrity is false And here Sir I would not attribute to myself a greater portion of influence to any declaration of my own than belongs to the humblest individual of Society. What I have to say of them is that I recieved them in youth from those whose character is revered by all who know them from men who drank deep at the fountain of knowledge and have not mingled corruption in the draught. consequently Sir they are not my own Sentiments but by adaption with regard to the unconstitutional law passed last Session a more corrupt measure is <choice>
+                  <orig>attribbuted</orig>
+                  <reg>attributed</reg>
+               </choice> to its enactment. It is <choice>
+                  <orig>supossed</orig>
+                  <reg>supposed</reg>
+               </choice> by some that the law was passed <del type="overstrike">in violation of the constitution</del> to Screen a darker measure of <choice>
+                  <orig>fraude</orig>
+                  <reg>fraud</reg>
+               </choice> and Dishonesty; even newspaper <choice>
+                  <orig>rumour</orig>
+                  <reg>rumor</reg>
+               </choice> confirms this Suspicion. It is thought that the defalcation of<name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Parrish</name> is not attributable to him that the money drawn from the Bank was drawn for electioneering purposes during the Presidential canvass__ that it was drawn from time to time by a number of Respectable citizens about <name>Nashville</name>
+               <gap/> more especially by one now holding a  <pb n="2" facs="sl414b.small.jpg"/> a high office of trust under the general Govern <gap/> that the money thus drawn went to <choice>
+                  <orig>Suport</orig>
+                  <reg>Support</reg>
+               </choice> newsp <gap/>
+               <unclear>newspaper</unclear> presses and buying up the influence of Strong parties__ <del type="overstrike">that</del> the money thus <del type="overstrike">drawed</del>
+               <add>taken</add> away by thousands left no resources in the Bank to meet the continual demands for loans by the people and caused So much <unclear>
+                  <choice>
+                     <orig>desatesfation</orig>
+                     <reg>dissatisfaction</reg>
+                  </choice>
+               </unclear> with regard to its <choice>
+                  <orig>opperations</orig>
+                  <reg>operations</reg>
+               </choice> For my own part Sir I never had the last reason or idea of suspecting Col Parrish's honesty; but during the four years that I acted as agent for the Bank I had every reason to believe him a high mended honorable man <del type="overstrike">and</del> nor has that opinion been abated by any of the <choice>
+                  <orig>suppossed</orig>
+                  <reg>supposed</reg>
+               </choice> defalcations I will now state to you one fact that goes to prove that there must have been a great demand for money at the principle Bank for Some uncommon purpose. In the spring of 1827 was the first call made by the mother Bank on the agency for <name>Smith County</name> which was followed up by repeated calls <del type="overstrike">from</del> from time to time. In the course of two years I paid from eight to nine thousand dollars as <unclear>agent</unclear> to the principle Bank amounting to more than one third of the capital of Smith County now Sir this accounts for the reason why the people of Smith County could get no money to borrow out of the Bank I have the cashiers <choice>
+                  <orig>reciepts</orig>
+                  <reg>receipts</reg>
+               </choice> to show and can producer them at any time. Now Sir when these things came to be understood at Nashville or Suspected the question arose what has become of the money. Col P <gap/> would not give up the names of the <unclear>individual</unclear>
+               <gap/> he permitted (according to his own state <gap/>
+               <pb n="3" facs="sl414c.small.jpg"/>
+               <gap/> overcheck. nor would he give up the Books. <del type="overstrike">the reason was that</del> many characters of high standing would be detected in by the disclosure and <add>
+                  <unclear>lest</unclear>
+               </add> the <del type="overstrike">swordling</del> System of electioneering with the money of the Bank I would be brought into open daylight- and that instead of <name>
+                  <choice>
+                     <abbr>gen</abbr>
+                     <expan>general</expan>
+                  </choice> Jackson</name>s being elected by the voice of the people he was actually elected by the money of the Bank of the State Now Sir I lay down these facts as Self evident from the circumstances. why did not the officers of that Bank proceed to enforce the law against Col Parrish for the abuse of his trust why not for the <unclear>detention of the Books</unclear> ? the reason is obvious he had too many friends and the Legislature  knew that it would not do to tamper with him. what was to be done in Such a case. If the common law was enforced against him he would disclose every thing to Screen himself. now we know that most of the members of the Legislature were Jackson men if any of them knew it they could not bear So base an intrigue to come to light and So they permitted the Suposed defaulter of a cashier to make his own terms with them. This though was known would not Satisfy the common people who are always honest in their intentions; for the <del>officers</del>
+               <add>President &amp; <unclear>Directors</unclear>
+               </add> of the Bank would be called on to exercise the laws of its charter which amply provides for all abuses of its officers Something must be done to put Publick opinion to rest a law must be passed unprecedented in its <choice>
+                  <orig>Severeties</orig>
+                  <reg>Severities</reg>
+               </choice> unconstitutional in its origin <gap/> violating the most Sacred rights of the <gap/> law calculated to lull to Sleep the igno <gap/> the proceeding of the Bank in colect <gap/>
+               <pb n="4" facs="sl414d.small.jpg"/>
+               <choice>
+                  <orig>colecting</orig>
+                  <reg>collecting</reg>
+               </choice> its debts and <choice>
+                  <orig>aranging</orig>
+                  <reg>arranging</reg>
+               </choice> its concerns to g <gap/> time to those who drew money out to replace it and <gap/> finally to defeat the intentions for which it was first created. Now Sir <add>if this the fact and I have no reasons to doubt it what man in his senses but must pronounce upon their guilt</add> any man in his senses can see how corrupt were the actions of the last legislature, to cover over one crime they must commit a fresh one they must violate their <unclear>oath</unclear>
+               <gap/>
+               <choice>
+                  <orig>deleberately</orig>
+                  <reg>deliberately</reg>
+               </choice> and Palpably for none of us believe but most of them have read the constitution of the State and of the united States <choice>
+                  <orig>therfore</orig>
+                  <reg>therefore</reg>
+               </choice> at the time they passed the law they must be certain that it was a dead letter and would have no tendency whatever to <choice>
+                  <orig>asist</orig>
+                  <reg>assist</reg>
+               </choice> the Bank in its operations. But it has like many other acts of that <choice>
+                  <orig>bodey</orig>
+                  <reg>body</reg>
+               </choice> served the purpose for which it was <del type="overstrike">made</del> intended. It has Served to lull the people into Security that their <choice>
+                  <orig>representives</orig>
+                  <reg>representatives</reg>
+               </choice> done their best It has also <choice>
+                  <orig>seved </orig>
+                  <reg>served</reg>
+               </choice> to keep from <choice>
+                  <orig>publict</orig>
+                  <reg>public</reg>
+               </choice> view the real situation of the Bank and especially its defalcations It has Served to hide the corrupt views of the members in tolerating the most flagrant abuses in Some of its officers and visiting others of its officers who always acted in good faith with a vindictive Spirit that never belonged to a high minded and honest politician To Sum up all on this point Sir the most base and palpable falsehoods are now endeavoured to be palmed on the people for Solid truthes and that too by those who were in the Legislature last session and are now Seeking a reelection with regard to the time Spent in <unclear>passing the last</unclear>
+               <gap/> also in prying into the Situation of <gap/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

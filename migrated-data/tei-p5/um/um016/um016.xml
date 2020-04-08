@@ -1,0 +1,146 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Jul. 17 [to] Alex[ander D. Coffee] / Andrew J[ackson] Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um016</idno>
+            <idno>OCLC: 50199863</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 Jul. 17 [to] Alex[ander D. Coffee] / Andrew J[ackson] Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1850-07-17">July 17, 1850</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Andrew Jackson Coffee to his brother Alexander D. Coffee, dated July 17, 1850. The letter speaks of family matters, such as taking over guardianship of their nephew, John Coffee, and the birth of Andrew's new son. The letter also speaks of events going on in the country, such as General Taylor's death, disputes over the boundary line of Texas, and the prediction by Andrew that a Civil War is imminent if the South does not get to keep its rights to owning slaves.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903 MS 27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">20</note>
+               <note type="document" anchored="true">um016</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Louisiana</term>
+               <term>Slaves</term>
+               <term>United States -- Politics and government -- 1849-1853</term>
+               <term>Letters</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um016a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">New Orleans</name>
+                     <date when="1850-07-17">July 17th 1850</date>
+                  </addrLine>
+               </address>
+               <salute>My dear <name type="person">Alex</name>
+               </salute>
+            </opener>
+            <p>I received your letter sometime ago, and have at last taken up my pen to answer it, premising that I am however a poor letter writer, and a worse correspondent.</p>
+            <p>I thank you for reminding me of <emph>our</emph> duty in this respect, and I will try and write to at least some one of you all occasionally. I am of the opinion that you have done a wise thing to embark your fortune in the line of business you have now adopted, and more especially as it will <choice>
+                  <orig>seperate</orig>
+                  <reg>separate</reg>
+               </choice> you from the <name type="person">Hutchings</name> place, and has given you <emph>your own home</emph> . When you first went to live at the plantation I thought ⁁ <add place="supralinear">it</add> a wise thing, and one that would benefit both parties, but I not long after that event changed my opinion, especially as to the benefit to accrue to yourself, and would have freely advised you on the subject, but for two reasons. One was my own <choice>
+                  <orig>unsuccessfull</orig>
+                  <reg>unsuccessful</reg>
+               </choice> career up to that time, and the other, the Coolness that grew up about that time between us. I am convinced that you would have done better on your own hook, and you would have been saved much anxiety <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> Well it is now over and you have embarked in an interesting and safe business; with industrious and rising men, and I have no doubt you will be very <choice>
+                  <orig>successfull</orig>
+                  <reg>successful</reg>
+               </choice>
+               <pb n="2" facs="um016b.small.jpg"/>
+            </p>
+            <p>You ask my advice as to the prosperity of becoming <name type="person">John Coffee's</name> guardian, <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> and intimate that you had written to Sis on the subject. If that is the case, I presume you have committed yourself, at least so far as to say "if she wishes it and so on". And in that case you can have no backing out, although it is an office that will bring only trouble to you. I think Sis ought to keep the guardianship in her own hands and employ the property for John's benefit as seems best, she will then know that she has done what she believed to be best, and John will surely be content with his Mothers management of the property she gave him, On the other hand, You will know Sis is not at all times reasonable, and from evidences John has shown of his disposition I should say he will not be unlike his mother in that respect, therefore you have no <choice>
+                  <orig>guarentee</orig>
+                  <reg>guarantee</reg>
+               </choice> that either will be satisfied with your management, and if you once take hold you ought not, to please them, at any future time resign the trust, and in that event bitterness will arise of the severest cast. At best it is a thankless trust. I write <unclear>fully</unclear> as I feel and I hope you will not let this hand a farther circulation than the most discreet &amp; confidential friends, if even so far. I have not forgotten my former <emph>troubles</emph> and do not wish them renewed. <pb n="3" facs="um016c.small.jpg"/>
+            </p>
+            <p>The death of <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Taylor</name> has upset things terribly, and as yet we <choice>
+                  <orig>groap</orig>
+                  <reg>grope</reg>
+               </choice> in the dark nobody appears to know anything certain of <name type="person">Mr Filmores</name> opinions or wishes, I am myself in great hopes and expectancy that he will throw his influence in the scale of the "Compromise", and let us have that matter settled, otherwise we are in a bad box, and have but little mercy to expect from the North. What does those old friends of "Hal of the West" the Whigs of Old <name type="place">Lauderdale</name> think of the "Taylor Administration"? Old Zack began this work by a fling at <name type="person">Clay</name>, and kept it up to the end, he was a glorious old chap he could hate so cordially and <choice>
+                  <orig>preseveringly</orig>
+                  <reg>perseveringly</reg>
+               </choice>. Now <choice>
+                  <orig>isn't</orig>
+                  <reg>is not</reg>
+               </choice> it strange how things work around these latter days. Give my Regards to <name type="person">Martin</name>, and <name type="person">S. Weakley</name> and tell them I congratulate them on the Whig administration, especially the <name type="person">Galpins</name>. I am glad the Judge did not go to <name type="place">Nashville</name>, although my feelings was with them at first and would have been ⁁ <add place="supralinear">so to the end</add> if it had been a general movement of the slave holding states, yet when I saw how it was I did not want to see my friends mixed up in the affair, and the result has justified my expectation, "it has done no good." We people of the South are fighting for that which has in fact gone from us, and we ought to get the compromise through if we can. I now fear it is impossible, and in that event we will have a new approach to <pb n="4" facs="um016d.small.jpg"/> Civil War, and heart burnings in all time to come. The settlement of the <name type="place">Texas</name> boundary question ought to take place, and if our members of Congress had any regard to treaty stipulations and concessions made by themselves they would give Texas her rights and thus end the difficulty, but our great men of these latter day have become so much accustomed to blowing hot and cold in the same breath, that they do not care for these little changes and inconsistencies, hoping I suppose that the fast rolling tide of stirring events will obliterate the evil. Well I heartily wish some of them fairly at the Devil and better men in their place. <name type="person">God</name> grant they may get safely through all trouble.</p>
+            <p>I have no knowledge of the cotton market or commercial affairs of any sort and must refer you to the papers and your merchants for such affairs. I have another fine Son, stout, hearty, and good looking now <choice>
+                  <orig>dont</orig>
+                  <reg>do not</reg>
+               </choice> you envy me, I really believe I have four as fine children as any body can show, and as smart as steel traps.</p>
+            <p>Give our best regards to <name type="person">Ann</name>, to Ma, to <name type="person">Rachel</name> and <name type="person">Cate</name>, <name type="person">William</name> and <name type="person">Joshua</name>, and to <name type="person">John</name> and <name type="person">Andrew</name>, and to <emph>your own little ones</emph>, and accept the same for yourself.</p>
+            <closer>
+               <salute>truly your Brother</salute>
+               <signed>
+                  <name type="person">Andrew <choice>
+                        <abbr>J.</abbr>
+                        <expan>Jackson</expan>
+                     </choice> Coffee</name>
+               </signed>
+               <add place="up left side of page">Remember me kindly to <name type="person">Judges Weakley</name> &amp; <name type="person">Posey</name> and their families.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

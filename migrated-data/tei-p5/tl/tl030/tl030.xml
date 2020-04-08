@@ -1,0 +1,233 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Jan. 17, Knoxville, [Tennessee, to] Sec[retar]y of
+			 the Department of War / John Sevier, Governor of the state of Tennessee: a
+			 machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl030</idno>
+            <idno>OCLC: 47826811</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Jan. 17, Knoxville, [Tennessee, to] Sec[retar]y
+				of the Department of War / John Sevier, Governor of the state of Tennessee
+				</title>
+               <author>Sevier, John</author>
+               <date when="1797-01-17">Jan. 17, 1797 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Governor
+				John Sevier of Tennessee (1796-1801) to Secretary of War James McHenry, dated
+				January 17, 1797. Sevier reported that the companies of Captains Wade and
+				Sparks had arrived, but were incomplete. He requested three companies of
+				infantry and a troop of cavalry be sent as well in order to protect the
+				frontier settlers and scare the Indians. Sevier also informed McHenry that
+				several families had their horses stolen and wagons plundered along the
+				Cumberland road, and he had written to Cherokee chiefs and their agent to
+				prevent such acts. Sevier ended his letter by claiming that he would endeavor
+				to prevent encroachments upon the hunting grounds of the Indians.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl030</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Military assistance</term>
+               <term>Horse stealing</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl030a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-01-17">17 
+					 <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I had the honor of receiving your favors of 
+			 <date when="--09-29">29 Sep.</date> by the mail on the 
+			 <date when="---11">11</date> instant, and that of the 
+			 <date when="--08-13">13th of August</date> on the same day, the
+			 letter came to hand by 
+			 <name type="person">Mr. John Deadrick</name> from the district of 
+			 <name type="unc">Mero</name>, from such Circumstances it appears
+			 there is great <unclear>(document damaged)</unclear> And irregularities in
+			 carrying your dispatches to this place.</p>
+            <p>Captains 
+			 <name type="person"> Wade</name> and 
+			 <name type="person">Sparks</name> have arrived, neither of
+			 <unclear>their</unclear> Companies <choice>
+                  <orig>compleat</orig>
+                  <reg>complete</reg>
+               </choice>. I
+			 would beg leave to mention, that three companies of Infantry And a troop of
+			 horse, in my opinion would <add place="supralinear">not</add> be more than
+			 adequate: The Valuable Consequences that would result from cavalry being
+			 employed in addition to the infantry would ensure the safety of the Frontiers.
+			 The very appearance of well appointed cavalry will always have powerful
+			 effects, in <unclear>Owing</unclear> and <choice>
+                  <orig>detering</orig>
+                  <reg>deterring</reg>
+               </choice>
+			 the indians from Hostilities. </p>
+            <p>I have continued the Militia <choice>
+                  <orig>Gaurd</orig>
+                  <reg>Guard</reg>
+               </choice> at 
+			 <name type="place">Fort Blount</name>, to remain there
+			 <choice>
+                  <orig>untilrelieved</orig>
+                  <reg>until relieved</reg>
+               </choice> by regular troops.</p>
+            <p>Several families on the road to 
+			 <name type="place">Cumberland</name> through the wilderness have had
+			 their horses stolen and <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> plundered by the
+			 indians. I have wrote the agent  <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice>
+               <lb/> on
+			 <pb n="2" facs="tl030b.small.jpg"/> on the Occasion, and have my hopes they will put a stop to any
+			 further <choice>
+                  <orig>roberies</orig>
+                  <reg>robberies</reg>
+               </choice>
+               <add place="supralinear">being</add> committed of the kind.
+                  
+               </p>
+            <p>I shall endeavor to prevent encroachments on the land
+			 <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> to the indians for their hunting grounds, 
+			 <choice>
+                  <abbr>Altho</abbr>
+                  <expan>Although</expan>
+               </choice> as in a former letter I observed
+			 to you, it will be difficult to accomplish, and will require time and address,
+			 nonetheless have no Doubt I shall effect it, Without having recourse to any
+			 Violent and <choice>
+                  <orig>coersive</orig>
+                  <reg>coercive</reg>
+               </choice> means </p>
+            <closer>
+               <salute>I have the honor to be <lb/> With great respect <lb/> your 
+				<choice>
+                     <abbr>obedt. Servt.</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+                  <lb/>				(Signed)
+                        
+                     
+                  </salute>
+               <signed>
+                  <name type="person">John Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Secy</abbr>
+                        <expan>Secretary</expan>
+                     </choice> of the department of
+				  war</addrLine>
+               </address>
+               <add place="left, on side">Letter to the <lb/>
+                  <choice>
+                     <abbr>Honble</abbr>
+                     <expan>Honorable</expan>
+                  </choice>
+                  <name type="person">James <lb/> McHenry
+                        </name>
+                  <choice>
+                     <abbr>Sec</abbr>
+                     <expan>Secretary</expan>
+                  </choice> of War <lb/>
+                  <date when="1797-01-17">17 
+				<choice>
+                        <abbr>Jany</abbr>
+                        <expan>January</expan>
+                     </choice> 1797<lb/> (<choice>
+                        <abbr>No.</abbr>
+                        <expan>Number</expan>
+                     </choice> 100)
+                           </date>
+                  <lb/> Record.
+                        
+                     
+                  </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

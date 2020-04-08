@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl654">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Nov. 30, Georgia [to] Newton Cannon, Tennessee / George M. Gilmer : a machine readable transcription of an image</title>
+            <author> Gilmer, George M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl654</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1837 Nov. 30, Georgia [to]  Newton Cannon, Tennessee / George M. Gilmer</title>
+               <author> Gilmer, George M.</author>
+               <date when="1837-11-30"> 
+			 November 30, 1837</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from George Gilmer, Governor of Georgia to Governor Newton Cannon, dated November 30, 1837. The letter is about coordinating representatives between the respective state legislatures. The plan is to approve a law allowing the Western and Atlantic Rail Road to run across their joint border from Georgia to the Tennessee River.</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl654</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Georgia</term>
+               <term>Tennessee</term>
+               <term>Rail Roads</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Gilmer, George Rockingham, 1790-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl654a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Executive Department, <name>Georgia</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>30th November 1837</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To his Excellency</addrLine>
+                  <addrLine>
+                     <name>Governor Cannon</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I enclose to you the resolution of the Legislature of <name>Georgia</name> authorizing the appointment of an agent to negotiate with the Legislature of the State of <name>Tennessee</name> for the right of way for this State for its Western and Atlantic rail road from the Georgia line to the <name>Tennessee River</name> through the territory of Tennessee. General <name>Daniel Newman</name> is the agent the State appointed in pursuance of the resolution of the Legislature.</p>
+            <p>The objects to be accomplished by the construction of the Western and Atlantic rail road are so great and so equally important to the states of Georgia and Tennessee that it is hoped that the Legislature of Tennessee will find no difficulty in granting to Georgia the right to construct its rail-road from the line of the state to the Tennessee river through the territory of Tennessee. May I ask of your Excellency to present this subject to the Legislature for its consideration in the most favorable light and that you will give your assistance to the agent of this State in accomplishing the object of his mission.</p>
+            <closer>
+               <salute>Very respectfully, yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>George M. Gilmer</name>
+               </signed>
+               <pb n="2" facs="sl654b.small.jpg"/>
+               <add>Letter of the <lb/>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice> of Georgia</add>
+               <add>Gov Gilmer</add>
+               <add>To Gov Cannon <lb/> asking <choice>
+                     <orig>permition</orig>
+                     <reg>permission</reg>
+                  </choice>
+                  <lb/> to build <choice>
+                     <abbr>RR</abbr>
+                     <expan>Rail Road</expan>
+                  </choice> through <lb/> port of <choice>
+                     <abbr>Tenn.</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+                  <lb/> 1837.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

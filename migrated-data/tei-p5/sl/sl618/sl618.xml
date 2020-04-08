@@ -1,0 +1,136 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl618">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 May 24, Memphis, Tennessee [to] James Jones, Nashville, Tennessee / Eastin Morris : a machine readable transcription of an image</title>
+            <author> Morris, Eastin</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl618</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1842 May 24, Memphis, Tennessee [to] James Jones, Nashville, Tennessee / Eastin Morris</title>
+               <author>  Morris, Eastin</author>
+               <date when="1842-05-24"> 
+			 May 24, 1842</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter originating from Memphis, Tennessee, and written by  Eastin Morris, the president of L&amp;M railroad company. The subject of the letter is dissolved injunctions against the Lagrange and Memphis Rail Road.  The purpose of the injunctions was  for the state to secure a lien upon the company's property.  </note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl618</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor (1841-1845 : Jones)</term>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no99079162"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Morris, Eastin, 1795-1863</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl618a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Memphis</name>
+                  </addrLine>
+               </address>
+               <date>May 24 1842</date>
+               <salute>Dear sir</salute>
+            </opener>
+            <p>I hasten to inform you that chancellor <name>M Campbell</name> has dissolved the injunctions obtained by the state to secure the states lien upon the property of the Lagrange and Memphis Rail Road and if something is not done the consequences will be ruinous not only to the individual stock holders but to the state.  If the property of the company is forced to sale for cash my opinion is that the state will run the <choice>
+                  <orig>hazzard</orig>
+                  <reg>hazard</reg>
+               </choice> of losing her whole stock__ I have heretofore rested contended     as I presumed no chancellor would refuse to enforce the states lien.  It would therefore be well to consult the attorney general and see whether any thing can be done.  I understand the Chancellor will not grant an appeal without security which of course the state can not give</p>
+            <closer>
+               <add>Respectfully</add>
+               <signed>
+                  <name>Eastin Morris,</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>Pres</abbr>
+                     <expan>President</expan>
+                  </choice> L&amp;M <choice>
+                     <abbr>RR Co</abbr>
+                     <expan>Rail Road Company</expan>
+                  </choice>
+                  <lb/> His Excellency <name>James C. Jones </name>Please answer immediately</add>
+               <pb n="2" facs="sl618b.small.jpg"/>
+               <add>His Excellency <name>
+                     <choice>
+                        <abbr>J.C.</abbr>
+                        <expan>James Chamberlain</expan>
+                     </choice> Jones</name>
+                  <name>Nashville</name>
+                  <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

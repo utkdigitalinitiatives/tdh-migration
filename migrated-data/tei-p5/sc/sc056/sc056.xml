@@ -1,0 +1,121 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc056">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Jun 1 Washington [D.C.], [to] Stockly / A.J. Donelson : a machine readable transcription of an image</title>
+            <author>Donelson, A.J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc056</idno>
+            <idno>OCLC: 51301784</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Jun 1 Washington [D.C.], [to] Stockly / A.J. Donelson</title>
+               <author>Donelson, A.J.</author>
+               <date when="1835-06-01">June 1, 1835</date>
+               <extent>4 p</extent>
+               <note type="summary" anchored="true">This document is a letter written by A.J. Donelson on June 1, 1835. The letter discusses several students attending West Point and their scholastic abilities. Donelson also gives his political views on several candidates and practices that are important to the politics of the time.</note>
+               <note type="collection" anchored="true">William J. McCoy</note>
+               <note type="box" anchored="true">MS-1158</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc056</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Military education</term>
+               <term>United States -- Politics and government -- 1829-1837</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Donelson, Andrew Jackson, 1799-1871</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc056a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1835-06-01">June 1st 1835</date> Monday</addrLine>
+               </address>
+               <salute>Dear <name type="person">Stockly</name>:</salute>
+            </opener>
+            <p>We reached this place on Saturday last <unclear>buy</unclear> out nine days from Nashville. <name type="person">John</name> &amp; <name type="person">Andrew</name> will go on to West Point day after tomorrow. They are promising youths and I trust will be distinguished at the Academy —</p>
+            <p>I found <name type="person">Emily</name> &amp; my children, as well as Uncle &amp; <name type="person">Sarah</name> &amp; hers, in excellent health. They were delighted to hear from you all and to find that their connections in <name type="place">Tennessee</name> were doing well. Tell Laura Anne that Mary &amp; John accept their presents with much gratitude and promise not to be behind her in the pleasing <pb n="2" facs="sc056b.small.jpg"/> offices of friendship and love. When I see <name type="person">Jackson</name> I shall be able to tell whether he can ⁁ <add place="supralinear">keep</add> up with Johns rapid studies as a student. I understand that <choice>
+                  <abbr>W.</abbr>
+                  <expan>West</expan>
+               </choice> Point gives him credit for much <unclear>aptness</unclear> in learning languages; if so I shall not <choice>
+                  <orig>dispair</orig>
+                  <reg>despair</reg>
+               </choice> of him in other matters.</p>
+            <p>There was a good deal to amuse us on the road in the way of politics, particularly in <name type="place">Kentucky</name> and <name type="place">Ohio</name>. In the latter state I saw no one who thought of <name type="person">White</name> as a candidate. Several Gentlemen of great intelligence and standing told me that there were not men enough of their knowledge in the state to make up an electoral ticket for him. It was almost as bad in Kentucky where he is only known as <pb n="3" facs="sc056c.small.jpg"/> an auxiliary to the interests of the opposition to the administration, not of sufficient importance to be <unclear>dreaded</unclear> by the one side or to be made <emph>much of</emph> by the other. The fact is that the elections in <choice>
+                  <abbr>Va</abbr>
+                  <expan>Virginia</expan>
+               </choice> have completely over thrown the Judge, and he must either get permission from <name type="person">Bell</name> to withdraw or be content with the honor of having been thought worthy of the Presidency by a few of his neighbors and by such <emph>no party politicians</emph> as are willing to unite with the <unclear>Nullies</unclear> and Whigs and to call the leading measures of the administration <emph>
+                  <unclear>Lumbusserg</unclear>
+               </emph>. These no party men can never be better employed than in abusing the power <pb n="4" facs="sc056d.small.jpg"/> which they derive from the party that has trusted or may trust them.</p>
+            <p>Do not forget to counsel Pool &amp; Stacky: and to see occasionally that portion of my affairs which would require my attention of at home. By the <date>10th or 15th of June</date>, the <unclear>cardcacian filly</unclear> must be turned out and Mambrins refreshed by a little pasturage. He must <unclear>cover</unclear> my Bolivian mare in July, but no other in that month or after it.</p>
+            <p>We all send our love to Mother, yourself &amp; sister <unclear>
+                  <name type="person">Philicin</name>
+               </unclear>, &amp; to cousin <name type="person">William</name> &amp; Elizabeth. Tell Mr. Randolph that Emily will write to him.</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yrs</abbr>
+                     <expan>yours</expan>
+                  </choice>
+                  <unclear>truly</unclear>
+               </salute>
+               <signed>
+                  <name type="person">A J Donelson</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

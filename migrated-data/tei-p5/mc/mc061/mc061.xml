@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc061">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Dec. 24, Chattanooga [to] Mr. C[harles]  F. Welcker, Kingston, Tennessee /  R. A. Ramsey : a machine readable transcription of an image</title>
+            <author>Ramsey, R. A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc061</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Dec. 24, Chattanooga [to] Mr. C[harles]  F. Welcker, Kingston, Tennessee /  R. A. Ramsey</title>
+               <author>Ramsey, R. A.</author>
+               <date when="1839-12-24">December 24, 1839</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 24, 1839, from R. A. Ramsey in Chattanooga, Tennessee to Charles F. Welcker in Kingston, Tennessee.  Ramsey is responding to an enquiry from Welcker and states that he intends to retain his current blacksmith at a price of 350 dollars.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc061</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Financial, Personal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ramsey, R. A.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc061a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Chattanooga</name>
+                     <date>
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 24th 1839</date>
+                  </addrLine>
+                  <addrLine>To Mr. <name>
+                        <choice>
+                           <abbr>C. F.</abbr>
+                           <expan>Charles Frederick</expan>
+                        </choice> Welcker</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>Yours of the 10th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> has been received.  in answer to which I have to say that I am <choice>
+                  <orig>hireing</orig>
+                  <reg>hiring</reg>
+               </choice> the smith I have at $350, I consider him  amongst the best of smiths.  I cannot think that your woman would more than feed &amp; <choice>
+                  <orig>cloth</orig>
+                  <reg>clothe</reg>
+               </choice> her 3 children, of course consider it to my advantage to continue the smith I have, I hope this time by notice will enable you to hire your <choice>
+                  <orig>negros</orig>
+                  <reg>negroes</reg>
+               </choice> to advantage</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name>R. A. Ramsey</name>
+               </signed>
+               <pb n="2" facs="mc061b.small.jpg"/>
+               <add>12 ½</add>
+               <add>
+                  <figure>
+                     <figDesc>postmark stamp: Dec. 25, Chattanooga, Te.</figDesc>
+                  </figure>
+               </add>
+               <address>
+                  <addrLine>C. F. Welcker <choice>
+                        <abbr>Esq.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name>Kingston</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

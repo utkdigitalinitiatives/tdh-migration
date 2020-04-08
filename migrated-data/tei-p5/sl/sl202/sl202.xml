@@ -1,0 +1,149 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl202">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1830 Aug. 7, Louisville [to] John Overton, Nashville, Tennessee /    F. Cosby : a machine readable transcription of an image</title>
+            <author>Cosby, F.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl202</idno>
+            <idno>OCLC: 51196804</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1830 Aug. 7, Louisville [to] John Overton, Nashville, Tennessee /    F. Cosby </title>
+               <author>Cosby, F. </author>
+               <date when="1830-08-07">August 7, 1830</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 7, 1830 to John Overton from F. Cosby regarding politics and Cosby's desire to send his grandson to West Point.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl202</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>United States Mititary Academy</term>
+               <term>United States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Cosby, Fortunatus</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl202a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Louisville</name>
+                  </addrLine>
+               </address>
+               <date when="1830-08-07">
+                  <choice>
+                     <abbr>Aug.</abbr>
+                     <expan>August</expan>
+                  </choice> 7th 1830</date>
+               <salute>My Friend</salute>
+            </opener>
+            <p>Some days past I wrote you two letters which I hope have reached you <choice>
+                  <orig>Shoul</orig>
+                  <reg>should</reg>
+               </choice> you desire any further information on the subjects mentioned in your letter write me, and all in my power will be given with pleasure — The Advertizer will give you the result of our elections so far as that has been <choice>
+                  <orig>assertained</orig>
+                  <reg>ascertained</reg>
+               </choice> here — I entertain sanguine hopes that we shall have a majority in the next Legislature — Our majority here was greater than I had anticipated, great exertions were made on both sides — So much for the veto, and if I do not greatly miscalculate, no act of his useful and glorious life, will have given him greater popularity, and certainly none in my humble judgement more deservedly so, he has saved the Constitution — I believe I mentioned to you, that <name type="person">W. Thruston</name> contemplated offering for congress sorely against my inclination as well as my decided conviction of his and <unclear>family</unclear>
+               <gap agent="damage"/>
+               <unclear>bottom line unclear</unclear>
+               <pb n="2" facs="sl202b.small.jpg"/> extensive and profitable and rapidly increasing — he consequently declines his<unclear> pretensions</unclear> to the Attorneyship, should it be vacant— Your letter to the President shall be disposed of as you may direct— I requested you to give to my grandson R Todd your friendly aid with <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name>— Since writing you I have read the report of the <unclear>Visitors at West Point</unclear> which confirms me in the preference expressed to you, which I would give to that establishment — I repeat to you that he is a fine promising boy — I feel great solicitude on this subject — If he can get admission there, the sooner the better — I regretted very much that I was not in the City when the President arrived here, it would have given me great pleasure to have seen him — present us affectionately to your family</p>
+            <closer>
+               <salute>As always <choice>
+                     <abbr>Yr</abbr>
+                     <expan>Your</expan>
+                  </choice> Friend</salute>
+               <signed>
+                  <name type="person">F. Cosby <choice>
+                        <abbr>Sen</abbr>
+                        <expan>Senior</expan>
+                     </choice>
+                  </name>
+               </signed>
+               <pb n="3" facs="sl202c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">John Overton <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Att.</abbr>
+                        <expan>Attorney</expan>
+                     </choice> at Law</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="side of address">F. Cosby</add>
+               <date>Aug. 7th 1830</date>
+               <address>
+                  <addrLine>
+                     <name type="place">Ferrison Ohio</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

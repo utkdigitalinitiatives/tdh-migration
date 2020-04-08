@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl061">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 May 22 [to] John Dickenson Esq[ui]r[e] / Neill &amp;Harley : a machine readable transcription of an image</title>
+            <author>Neill &amp; Harley</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl061</idno>
+            <idno>OCLC: 50078377</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 May 22 [to] John Dickenson Esq[ui]r[e] / Neill &amp;Harley</title>
+               <author>Neill &amp; Harley</author>
+               <date when="1815-05-22">May 22, 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Neill &amp; Harley to John Dickenson on May 22, 1815. In the letter, Neill &amp; Harley notify Dickenson that they have recommended him to a Mr. Samuel Ferguson, a merchant in New York, to collect debts for him in Nashville, Tennessee.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">20</note>
+               <note type="document" anchored="true">sl061</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Debt service</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Neill &amp; Harley</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl061a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">John Dickenson <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir/</salute>
+            </opener>
+            <p>We have this day <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> a letter from <name type="person">Mr. Samuel Ferguson</name> of <name type="place">New York</name>, requesting us to recommend to him a Suitable Person in <name type="place">Nashville</name> to collect a debt for him, we have recommended you to him, &amp; have Enclosed this letter to him as an introductory letter to you. Mr. Ferguson is a friend of ours &amp; we trust you will use your customary diligence in transacting any business he may entrust you with Mr Ferguson is a respectable Merchant living in the City of New York &amp; we hope this introduction may be equally advantageous</p>
+            <closer>
+               <salute>We remain respectfully your friends</salute>
+               <signed>
+                  <name type="person">Neill &amp; Harley</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Philada</abbr>
+                           <expan>Philadelphia</expan>
+                        </choice>
+                     </name>
+                     <date when="1815-05-22">May 22 1815</date>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl061b.small.jpg"/>
+               <address>
+                  <addrLine>John Dickenson <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Nashville</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,199 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0302">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1815 Nov. 30, Return J. Meigs and John Ross to the United States : a machine readable transcription of an image</title>
+            <author/>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0302</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Receipt] 1815 Nov. 30, Return J. Meigs and John Ross to the United States</title>
+               <date when="1815-11-30"> 
+			 November 30, 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a receipt for tobacco for the Cherokee Indians paid to the United States by Return J. Meigs, agent to the Cherokee and John Ross, a Cherokee Chief</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Cherokee Indians</term>
+               <term>Tobacco</term>
+               <term>Receipts</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0302a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>The <name>United States</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To <name>
+                        <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jonathan</expan>
+                        </choice> Meigs</name> &amp; Ross <choice>
+                        <abbr>Dr.</abbr>
+                        <expan>Debtor</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>1815<lb/>
+                  <date>
+                     <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice> 30th</date>
+               </add>
+            </opener>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To</cell>
+                     <cell role="data" rows="1" cols="1">107 1/2 <choice>
+                           <abbr>lbs</abbr>
+                           <expan>pounds</expan>
+                        </choice> Tobacco <choice>
+                           <abbr>pr</abbr>
+                           <expan>per</expan>
+                        </choice>
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Meigs for <lb/>
+                        <name>Cherokee</name>s _____ 1/3</cell>
+                     <cell role="data" rows="1" cols="1">$22.39 1/2 <choice>
+                           <abbr>cts</abbr>
+                           <expan>cents</expan>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">111 lbs Ditto__ Do _____ 1/3 ___</cell>
+                     <cell role="data" rows="1" cols="1">23.12 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$ 45.52</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Received of <name>Return J Meigs </name>forty five dollars &amp; fifty Two cents in full for the above <choice>
+                  <abbr>a/c</abbr>
+                  <expan>account</expan>
+               </choice> Signed Duplicates for Meigs &amp; Ross</p>
+            <closer>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jn</abbr>
+                        <expan>John</expan>
+                     </choice> Ross</name>
+               </signed>
+               <address>
+                  <addrLine>Cherokee Agency</addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Decr.</abbr>
+                           <expan>December</expan>
+                        </choice> 8th 1815</date>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="pa0302b.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice> 72  <lb/> Meigs &amp; Ross <lb/> receipt pay for Tobacco <lb/> for Cherokees ___   ― <lb/> ― <lb/> $ 45,,52 <lb/> ― <lb/> ―</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

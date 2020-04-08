@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl718">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1803 Apr. 15, Cragfort [to] Archibald Roane / James Winchester : a machine readable transcription of an image</title>
+            <author> Winchester, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl718</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1803 Apr. 15, Cragfort [to] Archibald Roane / James Winchester</title>
+               <author> Winchester, James</author>
+               <date when="1803-04-15">April 15, 1803</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated April 15, 1803 from James Winchester to Tennessee governor Archibald Roane in Nashville.  The subject of the letter is Louisiana and indirectly its acquisition by the United States.  In the letter he states that the people of Louisiana are pleased with the measures taken by president Thomas Jefferson to add their territory to the United States.</note>
+               <note type="collection" anchored="true">Governor Archibald Roane Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true"> sl718</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Office of the Governor.</term>
+               <term>Roane, Archibald, 1759-1819</term>
+               <term>Tennessee -- History</term>
+               <term>Louisiana Purchase</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96115844"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Winchester, James, 1752-1826</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl718a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Cragfort</addrLine>
+               </address>
+               <date>15th <choice>
+                     <abbr>apl</abbr>
+                     <expan>april</expan>
+                  </choice> 1803</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I received your Excellency letters of the 6th and 7th instant accompanied by a Copy of a letter from the president, one from the secretary of State and one from the Secretary of war  all of which should be duly attended to__</p>
+            <p>With relation to hostile intentions against the province of <name>Louisiana</name> I have not heard the most violent in this part of the country express an idea, favoring an unauthorized Expedition against any part of His catholic <choice>
+                  <orig>majestys</orig>
+                  <reg>majesties</reg>
+               </choice> dominions__ on the contrary the people here generally are well  pleased with the measures pursued by the Executive of the <name>United States</name>, believing if negotiations fail that our Expedition will be authorized by government and that they can then take by force what they been deprived unjustly &amp; refused to be restored peaceably__</p>
+            <p>Every attention in my power shall be used to carry into effect the Militia System in conformity with existing laws.__ <pb n="2" facs="sl718b.small.jpg"/> I believe the returns have not yet been from this District entirely correct with respect to arm's ammunition and accountiments owing partly to a want of prescribed forms and partly to inattention in the commanding officers of Regiments and Companies__ which is now in part done away By blank returns being furnished from the proper officer</p>
+            <p>I send by this post to <add>the</add>  Adjutant <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>  my Brigade return It has been delayed owing to the great difficulty in <choice>
+                  <orig>geting</orig>
+                  <reg>getting</reg>
+               </choice>  Returns from the commanding officers of Regiments__ It is however my determination to visit &amp; review all the regiments in my Brigade at the fall General Musters immediately <add>after</add>   which I trust it will be in my power to make a correct &amp; <unclear>complete</unclear> Return</p>
+            <closer>
+               <add>I am with great respect Your <choice>
+                     <orig>Excellencys</orig>
+                     <reg>Excellencies</reg>
+                  </choice> obedient Servant </add>
+               <signed>
+                  <name>J. Winchester</name>
+               </signed>
+               <add>His Excellency <name>Archibald Roane</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

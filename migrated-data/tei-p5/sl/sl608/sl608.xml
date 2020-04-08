@@ -1,0 +1,189 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl608">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1831 Aug. 5 [to] William Carroll, Carthage, Tennessee / Nath. W. Williams  : a machine readable transcription of an image</title>
+            <author> Williams, Nath. W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl608</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1831 Aug. 5 [to] William Carroll, Carthage, Tennessee / Nath. W. Williams  </title>
+               <author>  Williams, Nath. W.</author>
+               <date when="1831-08-05"> 
+			 August 5, 1831</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This is a letter dated August 5, 1831 from Nath. W. Williams to Tennessee governor William Carroll.  The purpose of the letter is to inform the governor that he has been afflicted with Rheumatism, and as a result is confined to his bed, and therefore will not be able to fulfill his duties in the circuit courts of Smith County.</note>
+               <note type="collection" anchored="true">Governor William Carroll Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl608</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Carroll, William, 1788-1844</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, Nathan W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl608a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Carthage,</addrLine>
+               </address>
+               <date>5 august 1831</date>
+               <salute>
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice>. <name>William Carroll</name>
+                  <lb/>Governor of the State of <name>Tennessee</name>
+                  <lb/> Dear Sir__</salute>
+            </opener>
+            <p>The undersigned, judge of the Circuit Court for the third judicial circuit hereby notified you, that within a few days past he had been afflicted  with the Rheumatism__  the attack is so severe that he is now confined to his room, and will be unable to attend and hold the <choice>
+                  <orig>insuing</orig>
+                  <reg>ensuing</reg>
+               </choice> terms of the circuit courts in said Circuit, without <choice>
+                  <orig>indangering</orig>
+                  <reg>endangering</reg>
+               </choice> his health__</p>
+            <p>The fall term if the courts in said circuit commence at <unclear>sparts</unclear> on the third monday in this month</p>
+            <closer>
+               <add>I am dear Sir, <lb/>  respectfully </add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Nath</abbr>
+                        <expan>Nathan</expan>
+                     </choice>. W. Williams</name>
+               </signed>
+               <add>aug 13 v</add>
+               <add>
+                  <unclear>[names]</unclear>
+               </add>
+               <pb n="2" facs="sl608b.small.jpg"/>
+               <add>
+                  <note>
+                     <address>
+                        <addrLine>Carthage</addrLine>
+                     </address>
+                     <date>5 <choice>
+                           <abbr>aug</abbr>
+                           <expan>august</expan>
+                        </choice> 1831</date>
+                     <name>
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice>
+                        <choice>
+                           <abbr>Willm</abbr>
+                           <expan>William</expan>
+                        </choice> Carroll</name>
+                     <p>Governor <choice>
+                           <abbr>&amp;C</abbr>
+                           <expan>etcetera</expan>
+                        </choice>  Dear Sir,  The honorable <choice>
+                           <abbr>Nath</abbr>
+                           <expan>Nathan</expan>
+                        </choice> W Williams being confined to his bed by an attack of Rheumatism, and being unable to use his pen, has directed me, as clerk of the Circuit court for <name>Smith County</name>, in his name, to notify you of his indisposition, and of his inability to set out on his circuit, which commences at <name>sparta</name> on the <choice>
+                           <abbr>3d</abbr>
+                           <expan>3rd</expan>
+                        </choice> monday in this month__ I am dear Sir respectfully  <choice>
+                           <abbr>Yr. mo obt. Willlm Carl</abbr>
+                           <expan>Your most obedient servant William Carroll</expan>
+                        </choice>
+                     </p>
+                  </note>
+               </add>
+               <pb n="3" facs="sl608c.small.jpg"/>
+               <address>
+                  <addrLine>Carthage <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Aug</abbr>
+                     <expan>August</expan>
+                  </choice> 6 1831</date>
+               <add>10 <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice>. William Carroll Governor of the State of <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>.</addrLine>
+                  </address>
+                  <name>Nath. W. Williams</name> Augt. 5 1831 cant hold count </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

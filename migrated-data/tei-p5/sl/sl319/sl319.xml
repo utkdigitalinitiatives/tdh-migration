@@ -1,0 +1,111 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl319">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] ca. 1840 June 28,  Lebanon [to] A. Fergusson / W. G. Davis   : a machine readable transcription of an image</title>
+            <author>Davis, W. G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl319</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] ca. 1840 June 28,  Lebanon [to] A. Fergusson / W. G. Davis</title>
+               <author>Davis, W. G.</author>
+               <date when="1840-06-28">June 28, ca. 1840</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter to A. Fergusson from his brother W. G. Davis, dated June 28 ca. 1840. He writes that he has been ill, but that it is not cholera. He also writes briefly about business.</note>
+               <note type="collection" anchored="true">Fergusson Papers </note>
+               <note type="box" anchored="true">IV-G-1 b3</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl319</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Cholera</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Davis, W. G.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl319a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Lebanon</name>
+                     <date when="--06-28">June 28th</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Brother</salute>
+            </opener>
+            <p>I received your letter this morning and I <choice>
+                  <orig>know</orig>
+                  <reg>now</reg>
+               </choice> take the opportunity to answer it I am not very well at present no symptoms of cholera I am glad to hear that you are doing so well <choice>
+                  <orig>Buisness</orig>
+                  <reg>Business</reg>
+               </choice> is very dull at present I sold since you left $14 dollars worth there is not but a very few persons in this place of present the cholera is very bad down about <name type="place">Cooks <unclear>Campbound</unclear>
+               </name> Some of Buisness houses has closed up I will see <name type="person">Dr Pearson</name> as soon as I can <name type="person">Dr Liflard</name> is walking about</p>
+            <p>I have $4 <unclear>7</unclear>
+               <add place="supralinear">7</add> of you money the Bank has not opened yet <name type="person">D Appleton</name> Say that they have not received that fifty dollar which you forwarded to them no other news of importance I sent that paper over this morning by the omnibus from that place I did not send the Books I <choice>
+                  <orig>herd</orig>
+                  <reg>heard</reg>
+               </choice> that you had left and I did not send them I am <del type="overstrike">taking</del>
+               <add place="supralinear">doing</add> the Best Buisness I can</p>
+            <closer>
+               <salute>Your Brother</salute>
+               <signed>
+                  <name type="person">W. G. Davis</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

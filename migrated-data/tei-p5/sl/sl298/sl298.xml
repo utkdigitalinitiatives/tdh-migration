@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl298">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1830 Mar. 16, Nashville [to] A. Fergusson, Carthage, Tenne[ssee] / William H. Barker   : a machine readable transcription of an image</title>
+            <author>Barker, William H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl298</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1830 Mar. 16, Nashville [to] A. Fergusson, Carthage, Tenne[ssee] / William H. Barker</title>
+               <author>Barker, William H.</author>
+               <date when="1830-03-16">March 16, 1830</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from William Barker to A. Fergusson, dated March 16,1830. Barker is requesting that Fergusson send him money that is due to  Barker from  Mr. Green.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b2</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl298</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Debt service</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Barker, William H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl298a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1830-03-16">March 16th 1830</date>
+                  </addrLine>
+                  <addrLine>Mr <name type="person">A. Fergusson</name>
+                  </addrLine>
+               </address>
+               <gap agent="damage"/>
+               <salute>Sir</salute>
+            </opener>
+            <p>yours of <date when="1830-02-15">
+                  <choice>
+                     <orig>Febuary</orig>
+                     <reg>February</reg>
+                  </choice> 15</date> came duly to hand __ please send me the proceeds of <name type="person">Mr Green</name>s note by the first safe hand and <unclear>Oblige Yours</unclear>
+            </p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name type="person">William <gap agent="damage"/> Barker</name>
+               </signed>
+               <add place="below, left of signature">The Steam Boat Franklin<lb/> will be in on at your City soon <lb/>
+                  <choice>
+                     <orig>prehaps</orig>
+                     <reg>perhaps</reg>
+                  </choice> you will have a chance <lb/> to send it by <choice>
+                     <orig>som</orig>
+                     <reg>some</reg>
+                  </choice> one of your a <lb/> quantance</add>
+               <add place="upside down, bottom of page">
+                  <unclear>O Green Dr</unclear> $ 16,, &amp; 8 <lb/> amount to be sent to <choice>
+                     <abbr>Will</abbr>
+                     <expan>William</expan>
+                  </choice> H Barker $ 72 </add>
+               <pb n="2" facs="sl298b.small.jpg"/>
+               <address>
+                  <addrLine>A. Fergusson <gap agent="damage"/>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                  </addrLine>
+                  <addrLine>Tenne <gap agent="damage"/>
+                  </addrLine>
+               </address>
+               <add place="left of address">mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

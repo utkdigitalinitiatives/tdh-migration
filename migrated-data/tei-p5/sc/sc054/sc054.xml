@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 May 19, Washington [to] Felix Grundy / Andrew Jackson: a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent> ca. </extent>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc054</idno>
+            <idno>OCLC: 51301597</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For commercial use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 May 19, Washington [to] Felix Grundy / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1833-05-19">May 19, 1833</date>
+               <extent>1 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated May 19, 1833, from President Andrew Jackson to Felix Grundy.  Jackson writes in response to Grundy's May 6th letter, in which Grundy asked Jackson to vouch for his conduct at a recent session of Congress. </note>
+               <note type="collection" anchored="true">Felix Grundy</note>
+               <note type="box" anchored="true">MS-1039</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc054</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States -- Politics and government -- 1829-1837</term>
+               <term>Tennessee</term>
+               <term>Grundy, Felix</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc054a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1833-05-19">May 19th 1833</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Sir</salute>
+            </opener>
+            <p>Your letter of the <date when="--05-06">6th of May</date> with its enclosure has been received.  I am in some doubt whether I should reply to your interrogatories, as any answer I can give may not protect me from the charge of interfering in the choice of Senator, soon to be made by the legislature of <name type="place">Tennessee</name>. But the fear of this imputation ought not to prevent an answer, so far as my knowledge of the relation in which you stand to the question proposed may be necessary to do you justice.  Under this obligation therefore I feel at   liberty to repeat now what I have often said before in conversation: that your conduct during the last session of Congress in opposition to the absurd and wicked doctrines of Nullification and Secession was highly useful <unclear>&amp; energetic</unclear> and throughout, as far as I could judge from your votes and conversation, no one could have manifested a greater zeal to give effect to the measures of the Administration.</p>
+            <p>In stating thus generally my opinion of your conduct in the Senate, on the subjects alluded to,  I trust no one will infer that I have any other object in view, but of satisfying you that I am incapable of doing you injustice.  With the choice which the Legislature are called upon to make I can have nothing to do.  Believe me very sincerely</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>Obt. Servt</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Andrew Jackson</name>
+               </signed>
+               <address>
+                  <addrLine>The <choice>
+                        <abbr>Hon.</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Felix Grundy</name>
+                  </addrLine>
+               </address>
+               <add place="bottom left">True copies of the originals in my possession. <lb/>
+                  <choice>
+                     <abbr>F</abbr>
+                     <expan>Felix</expan>
+                  </choice> Grundy</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

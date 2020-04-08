@@ -1,0 +1,282 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1821 Aug. 25 [to] Capt[ain] John Donelson / Rachel Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Rachel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl013</idno>
+            <idno>OCLC: 50008910</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1821 Aug. 25 [to] Capt[ain] John Donelson / Rachel Jackson</title>
+               <author>Jackson, Rachel</author>
+               <date when="1825-08-25">August 25, 1821</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 25, 1821 from Mrs. Andrew  Jackson (Rachel) to her brother Captain John Donelson. The letter contains her views on the Seminole Campaign, her husbands troubles, and her grief over the death of her nephew.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">B-4</note>
+               <note type="folder" anchored="true">725</note>
+               <note type="document" anchored="true">sl013</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seminole Indians -- Wars</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Florida</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n86022542"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Rachel, 1767-1828</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl013a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Pansacola</orig>
+                        <reg>Pensecola</reg>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date when="1821-08-25">August 25- 1821</date>
+               <add place="under date">Box J1 No. 72 J</add>
+               <salute>My Dear Brother</salute>
+            </opener>
+            <p>I have often thought I would sit Down &amp; write you a few lines so <choice>
+                  <orig>maney</orig>
+                  <reg>many</reg>
+               </choice>
+               <choice>
+                  <orig>comeing</orig>
+                  <reg>coming</reg>
+               </choice> in to interrupt me and more then all that a mind never at rest, <choice>
+                  <orig>O</orig>
+                  <reg>Oh</reg>
+               </choice> what will our poor old sister say when she <choice>
+                  <orig>hers</orig>
+                  <reg>hears</reg>
+               </choice> the <choice>
+                  <orig>mealancholey</orig>
+                  <reg>melancholy</reg>
+               </choice> Death of her son He has found a grave in this land in this land of  <choice>
+                  <orig>stangers</orig>
+                  <reg>strangers</reg>
+               </choice>, he was<choice>
+                  <orig>purfectly</orig>
+                  <reg>perfectly</reg>
+               </choice> in his <choice>
+                  <orig>sences</orig>
+                  <reg>senses</reg>
+               </choice> to the last his lungs <choice>
+                  <orig>wer</orig>
+                  <reg>were</reg>
+               </choice> much affected— <name type="person">Dr Bronough</name> was very attentive <choice>
+                  <orig>tehi</orig>
+                  <reg>to him</reg>
+               </choice> Andrew waited on him Day and night indeed all was kind to them—— I have <emph>not</emph> enjoyed myself no was contented no health but I hope to see you all <choice>
+                  <orig>againe</orig>
+                  <reg>again</reg>
+               </choice>
+               <choice>
+                  <orig>ther</orig>
+                  <reg>there </reg>
+               </choice> never was a man more Disappointed than he has been in the first place he has not the power to<choice>
+                  <orig> apoint</orig>
+                  <reg>appoint</reg>
+               </choice> one of his friends which I thought was in part the reason of his <choice>
+                  <orig>comeing</orig>
+                  <reg>coming</reg>
+               </choice> But far has it Exceeded Every Calculation it has almost taken His life— <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Call</name> says its <choice>
+                  <orig>equel</orig>
+                  <reg>equal</reg>
+               </choice> to the <choice>
+                  <orig>Simenole Campaine</orig>
+                  <reg>Seminole Campaign</reg>
+               </choice>, well I knew it would be a <choice>
+                  <orig>ruening concerne</orig>
+                  <reg>ruining concern</reg>
+               </choice> I shall not pretend to <choice>
+                  <orig>Disscribe</orig>
+                  <reg>Describe</reg>
+               </choice> the<choice>
+                  <orig> toile</orig>
+                  <reg>toil</reg>
+               </choice> fatigue &amp; trouble, those Spaniards had as here Dye as give up their Country, he has had <choice>
+                  <orig>turrible</orig>
+                  <reg>terrible</reg>
+               </choice>
+               <choice>
+                  <orig>senes</orig>
+                  <reg>senses</reg>
+               </choice> the <choice>
+                  <orig>governer</orig>
+                  <reg>governor</reg>
+               </choice> has been put in the <choice>
+                  <orig>Callibous</orig>
+                  <reg>Calaboose</reg>
+               </choice>
+               <choice>
+                  <orig>wich</orig>
+                  <reg>which</reg>
+               </choice> a <choice>
+                  <orig>turrible</orig>
+                  <reg>terrible</reg>
+               </choice> thing <choice>
+                  <orig>realy</orig>
+                  <reg>really</reg>
+               </choice> I was <choice>
+                  <orig>afraide</orig>
+                  <reg>afraid</reg>
+               </choice>
+               <choice>
+                  <orig>ther</orig>
+                  <reg>there</reg>
+               </choice> would be a <choice>
+                  <orig>rebelion</orig>
+                  <reg>rebellion</reg>
+               </choice> But the Spanish Troops <choice>
+                  <orig>wer</orig>
+                  <reg>were</reg>
+               </choice> all <choice>
+                  <orig>gon</orig>
+                  <reg>gone</reg>
+               </choice> to the Havannah Several officers remaining Here yet we have a hope of <orig>gitting</orig> out the first<pb n="2" facs="sl013b.small.jpg"/>
+               <choice>
+                  <orig>october</orig>
+                  <reg>October</reg>
+               </choice> for home <name type="person">Little Andrew</name> and <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Butler</name> has started for <name type="place">Tennessee</name> he was the most anxious creature I ever saw in my life <choice>
+                  <orig>Theay</orig>
+                  <reg>They</reg>
+               </choice> all begin to think with me that Tennessee is the best Country yet <name type="person">Stockley Hutchings</name>
+               <choice>
+                  <orig>widdow</orig>
+                  <reg>widow</reg>
+               </choice> and <choice>
+                  <orig>famaly</orig>
+                  <reg>family</reg>
+               </choice> will return this fall poor thing  She expects her Brother to come for her tell our friends and all I hope to see them <choice>
+                  <orig>againe</orig>
+                  <reg>again</reg>
+               </choice> in our Country and to know it is the best I ever saw what a <choice>
+                  <orig>pitty</orig>
+                  <reg>pity</reg>
+               </choice> that some do not know when <choice>
+                  <orig>theay</orig>
+                  <reg>they</reg>
+               </choice>
+               <choice>
+                  <orig>ar</orig>
+                  <reg>are</reg>
+               </choice> well <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> in this world <choice>
+                  <orig>theay</orig>
+                  <reg>they</reg>
+               </choice> not only hurt themselves but those that is innocent—But still all things worketh together for good— Say to sister Mary I have <choice>
+                  <orig>herd</orig>
+                  <reg>heard</reg>
+               </choice> but one sermon <choice>
+                  <orig>sine</orig>
+                  <reg>since</reg>
+               </choice> I <choice>
+                  <orig>herd</orig>
+                  <reg>heard</reg>
+               </choice>
+               <name type="person">Mr Hoge</name> he promised me to come to this place in June but no he never came I have mourned for Zion my tears has ran down in the night season— Mr J has been very unwell no wonder my health is delicate— The Lord is my help in him will I trust &amp; I will praise him with joyful lips remember me to all my Dear friends the young ones <choice>
+                  <orig>O</orig>
+                  <reg>oh</reg>
+               </choice> how I want <add place="supralinear">to</add> hear them tell that Jesus the hope of glory is formed in them tell Brother Sunday I have many things to say to him— <choice>
+                  <orig>farwell</orig>
+                  <reg>farewell</reg>
+               </choice> my Dear Brother &amp; my you say as pious job I knew that my redeemer <add place="bottom of page">Cap John Donelso<gap agent="damage"/>
+                  <unclear>Donelson</unclear>
+               </add>
+               <pb n="3" facs="sl013c.small.jpg"/> liveth </p>
+            <gap/>
+            <!-- dropping the following unclear element -->
+            <!--<unclear>page blank between top word and bottom signature</unclear>-->
+            <closer>
+               <signed>
+                  <name>Rachel Jackson</name>
+               </signed>
+               <pb n="4" facs="sl013d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice> John Donelson</name>
+                  </addrLine>
+                  <addrLine>State of Tennessee</addrLine>
+                  <addrLine>mail <unclear>unk</unclear>
+                  </addrLine>
+               </address>
+               <add place="right of address">Mrs. <emph>Rachel Jackson</emph>(wife of <choice>
+                     <abbr>Genl. J.</abbr>
+                     <expan>General Jackson</expan>
+                  </choice>  to her brother <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Donelson</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

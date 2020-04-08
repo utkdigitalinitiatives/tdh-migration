@@ -1,0 +1,111 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl099">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1841 Nov. 3 [receipt for Robert Paine &amp; Tho[ma]s Abernathy] / signed by David Shelton : a machine readable transcription of an image</title>
+            <author>Shelton, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl099</idno>
+            <idno>OCLC: 50488485</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1841 Nov. 3 [receipt for Robert Paine &amp; Tho[ma]s Abernathy] / signed by David Shelton</title>
+               <author>Shelton, David</author>
+               <date when="1841-11-03">November 3, 1841</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a receipt signed by David Shelton on behalf of Robert Paine and Thomas Abernathy dated November 3, 1841. The receipt is from a turnpike company that is paying Paine and Abernathy $1219.75 in state bonds and $1719.50 in cash.</note>
+               <note type="collection" anchored="true">Abernathy Papers</note>
+               <note type="box" anchored="true">II-H-3</note>
+               <note type="folder" anchored="true">14</note>
+               <note type="document" anchored="true">sl099</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Toll roads</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Autographer http://id.loc.gov/vocabulary/relators/ato">Shelton, David</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl099a.small.jpg"/>
+            <p>
+               <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice> of <name type="person">Robert Paine</name> &amp; <name type="person">
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Abernathy</name>
+               <unclear>knons</unclear> of James Paine <choice>
+                  <abbr>decd</abbr>
+                  <expan>deceased</expan>
+               </choice> in order on the Commissioners of the Turnpike Company of the <name type="place">Columbia</name>
+               <name type="place">Pulaski</name>
+               <name type="place">Elkton</name> &amp; <name type="place">Alabama</name> turnpike road the sum of twelve hundred &amp; nineteen dollars &amp; seventy five cents in bonds of the state of <name type="place">Tennessee</name> and seven hundred &amp; nineteen dollars &amp; fifty cents in money this <date when="1841-11-03">3rd day of November 1841</date>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">David Shelton</name>
+               </signed>
+               <pb n="2" facs="sl099b.small.jpg"/>
+               <name type="person">
+                  <choice>
+                     <abbr>Edwd</abbr>
+                     <expan>Edward</expan>
+                  </choice> Shelton</name>
+               <lb/> to <unclear>} Rich</unclear>
+               <lb/>
+               <emph>Executors</emph>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

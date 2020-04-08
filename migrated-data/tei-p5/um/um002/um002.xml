@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Military Order] 1827 May 19, [to] Gen[era]l John Coffee / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um002</idno>
+            <idno>OCLC: 50192906</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Military Order] 1827 May 19, [to] Gen[era]l John Coffee / Andrew Jackson </title>
+               <author>Jackson, Andrew</author>
+               <date when="1827-05-19">May 19, 1827</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a military order from Andrew Jackson allowing General John Coffee to deliver  to  Edmund Winston a bond due by Colonel Anthony Winston  for the sum one thousand, sixty six dollars and two third cents. </note>
+               <note type="collection" anchored="true">Andrew Jackson 1804-1844, MS28</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military history</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um002a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl </abbr>
+                           <expan>General</expan>
+                        </choice>John Coffee</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr Winston</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="um002b.small.jpg"/> Deliver the note over to <name type="person">Anthony Winston</name>
+               <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Winston</name>
+            </opener>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Coffee</name>  will deliver unto <name type="person">Mr Edmond Winston</name> a bond due by <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Anthony Winston</name> on the<date when="1827-03-01"> first day of March 1827</date>  for the sum of one thousand sixty six dollars sixty six &amp; two third cents he having <choice>
+                  <orig>indetted</orig>
+                  <reg>indebted</reg>
+               </choice> me for the sum of nine hundred forty one dollars nineteen &amp; a half cents in the purchase of the tract of land sold to <name type="person">William Word</name> &amp; by sum sold to me &amp; given me less my due bill for one hundred twenty five dollars &amp; nineteen &amp; a half cents</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <emph>Andrew Jackson</emph>
+                  </name>
+               </signed>
+               <date when="1827-05-19">May 19th 1827—</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 May 22, Cherokee Agency [to] Charles R. Hicks / Joseph McMinn : a machine-readable transcription of an image</title>
+            <author>McMinn, Joseph, 1758-1824</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch011</idno>
+            <idno>OCLC: 44759288</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 May 22, Cherokee Agency [to] Charles R. Hicks / Joseph McMinn </title>
+               <author>McMinn, Joseph, 1758-1824</author>
+               <date when="1824-05-22">May 22, 1824</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter from Joseph McMinn, U.S. agent to the Cherokee Indians at the Cherokee Agency in Tennessee, to Cherokee leader Charles R. Hicks, dated May 22, 1824.  McMinn reports to Hicks on the attempts to prevent intruders from trespassing on Cherokee land and refers to the efforts of Colonel Archibald R. Turk to remove the outlaws.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true"> 15</note>
+               <note type="document" anchored="true">ch011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch011a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Cherokee Agency</name>
+                     </addrLine>
+                  </address>
+                  <date when="1824-05-22">22nd May 1824</date>
+               </dateline>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your letter of the 20 <choice>
+                  <abbr>inst</abbr>
+                  <expan>instant</expan>
+               </choice> was this moment handed me by your express, with whom, I send the following reply.  I will communicate <del type="overstrike">the</del> its contents to the <choice>
+                  <abbr>Honl</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <choice>
+                  <abbr>Secy</abbr>
+                  <expan>Secretary</expan>
+               </choice> of War by next mail, who, I have no doubt will adopt the most <choice>
+                  <orig>efficent</orig>
+                  <reg>efficient</reg>
+               </choice> Course, of which you shall obtain the earliest information</p>
+            <p>I had entertained high expectations that the severity of the measures <choice>
+                  <orig>inforced</orig>
+                  <reg>enforced</reg>
+               </choice> by <name type="person">Col. Turk</name>
+               <del type="overstrike">Turk</del> would have had a more lasting impression, and at least have restrained them one year from the  <choice>
+                  <orig>repetision</orig>
+                  <reg>repetition</reg>
+               </choice> of their old offences, but, I now entertain doubts whether the presence of the Sub Agent or any other Person, will be  <choice>
+                  <orig>Sufficent</orig>
+                  <reg>Sufficient</reg>
+               </choice> to restrain so numerous a band of out lawed men in the absence of an armed force from, violating the laws  treaties of the Government.</p>
+            <closer>
+               <salute>I am very respectfully your <choice>
+                     <abbr>obd.</abbr>
+                     <expan>obedient</expan>
+                  </choice>
+                  <choice>
+                     <abbr>Sevt</abbr>
+                     <expan>Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos.</abbr>
+                        <expan>Joseph</expan>
+                     </choice> McMinn</name>
+               </signed>
+               <lb/>
+               <address>
+                  <addrLine>Mr <name type="person">Charles R. Hicks</name>
+                  </addrLine>
+                  <addrLine>Head chief of the</addrLine>
+                  <addrLine>
+                     <name>Cherokee Nation</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch011b.small.jpg"/>
+            <p>Letter to <name type="person">Charles R Hicks</name>
+               <date when="1834-05-22">22nd May 1834</date>
+               <lb/>Subject Removal of Intruders
+               </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Aug. 7, Frankfort, [Kentucky] [to] E. H. Foster / J. J. Crittenden : a machine readable transcription of an image</title>
+            <author>Crittenden, J. J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl085</idno>
+            <idno>OCLC: 50178005</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1845 Aug. 7, Frankfort, [Kentucky] [to] E. H. Foster / J. J. Crittenden</title>
+               <author>Crittenden, J. J.</author>
+               <date when="1845-08-07">August 7, 1845</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by J. J. Crittenden to E. H. Foster on August 7, 1845. In the letter, Crittenden wishes good luck to Foster who is running for Governor of Tennessee. He also mentions the meeting he had with Governor Jones of Kentucky. Crittenden concludes by predicting that the number of Whig Representatives in Congress will increase over time.</note>
+               <note type="collection" anchored="true">Foster Family</note>
+               <note type="box" anchored="true">I-A-4</note>
+               <note type="folder" anchored="true">Correspondence Allen-Fogg</note>
+               <note type="document" anchored="true">sl085</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n87804945"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Crittenden, John J. (John Jordan), 1787-1863</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl085a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Frankfort</name> — <date when="1845-08-07">August 7th 1845</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Foster,</salute>
+            </opener>
+            <p> On this day your eventful election in <name type="place">Tennessee</name> takes place. I am anxious, and yet fearful, to hear the result — You have mighty odds to contend against — and <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> I have the greatest confidence in your prowess, I fear for you in this unequal contest. If you succeed, you will, indeed, deserve a crown of Victory, and if you fail, your fate will be but that of the brave soldier who keeps the field to the last, &amp; falls sword in hand —</p>
+            <p>You may see from all this, that I am a good deal <emph>troubled in my mind</emph> about you — I <choice>
+                  <abbr>don't</abbr>
+                  <expan>do not</expan>
+               </choice> know, why I should be, for I am sure you will at least <emph>deserve</emph> success, and, whether you obtain it or not, that you will still be happy, &amp; <choice>
+                  <orig>stil</orig>
+                  <reg>still</reg>
+               </choice> enjoy that joyous laugh <pb n="2" facs="sl085b.small.jpg"/> of yours, which can only come from a sound, manly &amp; triumphant heart —</p>
+            <p>I would rather you should lose the office of Governor, than be deprived of that glorious laugh — I <choice>
+                  <abbr>don't</abbr>
+                  <expan>do not</expan>
+               </choice> know, upon the whole, if it would not be better for you to be beaten, as <name type="person">Mrs Foster</name> will then, perhaps, be able to keep you at home, and make <emph>some thing</emph> out of you, to recompense her for all the case &amp; trouble such a political run = about husband must have given her. Do you, present my very kindest regards to Mrs Foster, and also my congratulations on the result of the election, <emph>whatever it may be</emph> — for if she does not share in your success, she will succeed in getting back her husband.</p>
+            <p>I sat down to do little more than to request you to give me the earliest information of the probable result of your election — I shall hardly draw an easy breath till I know what it is.</p>
+            <p>I met with your <name type="person">Governor <pb n="3" facs="sl085c.small.jpg"/> Jones</name> at <name type="place">Lexington</name> — He was well received &amp; well treated, &amp; returned home, I hope, will pleased — He made a good impression on our people.</p>
+            <p>Farewell, Foster, — and if you really want to be Governor, I hope you may be elected — and whether elected or not, that you may always be just as happy as you desire.</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yr</abbr>
+                     <expan>Your</expan>
+                  </choice> Friend</salute>
+               <signed>
+                  <name type="person">J J Crittenden</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Hon:</abbr>
+                           <expan>Honorable</expan>
+                        </choice> E. H. Foster</name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> Our elections terminated yesterday — as yet our information is too partial to determine much about the results — There is no doubt, I think, but that our Whig Representatives in Congress will be increased. <lb/> J J <choice>
+                     <abbr>C</abbr>
+                     <expan>Crittenden</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

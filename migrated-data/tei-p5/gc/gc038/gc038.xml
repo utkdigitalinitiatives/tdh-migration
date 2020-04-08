@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Jun. 4, Ross Landing, Louisiana [to] James King, Murfreesboro, Tennessee / Henry King : a machine readable transcription of an image</title>
+            <author>King, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc038</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Jun. 4, Ross Landing, Louisiana [to] James King, Murfreesboro, Tennessee / Henry King</title>
+               <author>King, Henry</author>
+               <date when="1838-06-04">June 4, 1838</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 4, 1838 from Henry King to his father  James King.  In the letter, Henry details a few days in his life as a soldier, and some details of his movements.  </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1838</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">gc038</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Military planning</term>
+               <term>Working life</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc038a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>. James M King <add>From</add> Murfreesborough <name>
+                        <add>Henry a. J. King</add>
+                     </name> Rutherford County <add>war</add> Tennessee</addrLine>
+               </address>
+               <add>
+                  <name>Ross Landing <choice>
+                        <abbr>La</abbr>
+                        <expan>Louisiana</expan>
+                     </choice>
+                  </name>
+                  <date>June 6th</date>
+               </add>
+               <add>12 1/2</add>
+               <pb n="2" facs="gc038b.small.jpg"/>
+               <date>the 4th of June 1838</date>
+               <salute>Dear father</salute>
+            </opener>
+            <p> I now take the pleasure of <add>writing</add>
+               <gap agent="damage"/> a few lines to you the second time <gap agent="damage"/> you may <choice>
+                  <orig>now</orig>
+                  <reg>know</reg>
+               </choice> the <choice>
+                  <orig>arangements</orig>
+                  <reg>arrangements</reg>
+               </choice> and situation of the army In the first instance when we <choice>
+                  <orig>arive</orig>
+                  <reg>arrive</reg>
+               </choice> at <name>Calhoon</name> we <choice>
+                  <orig>nocke</orig>
+                  <reg>knock</reg>
+               </choice> about <choice>
+                  <orig>ther</orig>
+                  <reg>there</reg>
+               </choice> about there too <choice>
+                  <orig>weaks</orig>
+                  <reg>weeks</reg>
+               </choice> during this time we held an election <choice>
+                  <abbr>capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Yoakum was elected commanding colonel <name>David Buckeley</name> run for mayor but he was not <del>seek</del>elected Rogers an east <choice>
+                  <orig/>
+                  <reg>Tennessean</reg>
+               </choice> was elected mayor  Hunter from <name>martial county</name> was elected lieutenant <choice>
+                  <orig>Colone</orig>
+                  <reg>Colonel</reg>
+               </choice>
+               <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> mc Murry is our <choice>
+                  <orig>sargent</orig>
+                  <reg>sergeant</reg>
+               </choice> major also <name>D. B. Moloy</name>
+               <del>was</del> is appointed our quarter master thence <add>we</add>
+               <del>w</del>elected <name>John A. Macklin</name> captain <name>P. Y. Warren</name> lieutenant we set out on a march from <name>calhoon</name> on the 27th of May we <choice>
+                  <orig>reache</orig>
+                  <reg>reach</reg>
+               </choice>
+               <del>rd</del>
+               <name>Rosses landing</name> on the <date>30th of May</date>
+               <del>when</del> whar we are now stationed and expect to stay the balance of our time there are four companies stationed <del>with</del> with us we have never sent a <choice>
+                  <orig>seaction</orig>
+                  <reg>section</reg>
+               </choice> party yet the boys are all anxious to to go one or ten men from <choice>
+                  <orig>thre</orig>
+                  <reg>three</reg>
+               </choice> companies <pb n="3" facs="gc038c.small.jpg"/> back but they received fresh orders and <choice>
+                  <orig>wer</orig>
+                  <reg>were</reg>
+               </choice> discharged until Sunday <choice>
+                  <orig>nex</orig>
+                  <reg>next</reg>
+               </choice> There are some of our boys complaining but none dangerous The remainder are all in good health.</p>
+            <p>Cousin Hidliam and Albert <add>and</add> myself are enjoying good health, <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Macklin also <name>John L. Banson</name> and <name>Benjamine F. Ranson</name> all <choice>
+                  <orig>sen</orig>
+                  <reg>send</reg>
+               </choice> their respect to you <choice>
+                  <orig>whene</orig>
+                  <reg>when</reg>
+               </choice> you writ to me direct your letter to <name>rosses landin</name>
+               <name>Hamilton County</name>. I have received your letter give my best respect <del>to</del> and love to all of my relations and friends Cousin William and Albert joins me in love and respect tell my dear little sisters and brothers of me</p>
+            <p>Tel the negroes all <choice>
+                  <orig>hwday</orig>
+                  <reg>howdy</reg>
+               </choice>
+            </p>
+            <closer>Your Dear Son <signed>H,,A,,J,, King</signed>
+               <add>James,,M,,King</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

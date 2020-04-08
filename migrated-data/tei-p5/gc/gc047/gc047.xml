@@ -1,0 +1,347 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Jun. 10, Rural Rest [to] James King, Tuskaloosa, Alabama / Henry King: a machine readable transcription of an image</title>
+            <author> King, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc047</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Jun. 10, Rural Rest [to] James King, Tuskaloosa, Alabama / Henry King</title>
+               <author> King, Henry</author>
+               <date when="1839-06-10"> June 10, 1839</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 10, 1839 from Henry King to his father James King.  He tells his father that despite the cold weather, his cotton crops are tolerable, and the other crops are in fine order.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1839</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">gc047</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Crops</term>
+               <term>Alabama</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc047a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice>
+                        <choice>
+                           <abbr> J</abbr>
+                           <expan>James</expan>
+                        </choice>.. <abbr>M</abbr>. King</name>
+                     <name>Tuskaloosy</name>
+                     <name>
+                        <choice>
+                           <abbr>ala</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add> From <name> Henry a.j. King </name>
+               </add>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <name>Murfreesboro</name>
+                        <choice>
+                           <abbr/>
+                           <expan>Tennessee</expan>
+                        </choice>
+                        <choice>
+                           <abbr> Jun</abbr>
+                           <expan>June</expan>
+                        </choice> 13. [Postmark]</figDesc>
+                  </figure>
+               </add>
+               <add> 18 3/4</add>
+               <pb n="2" facs="gc047b.small.jpg"/>
+               <address>
+                  <addrLine> Rural Rest </addrLine>
+               </address>
+               <date> June 10th 1839 </date>
+               <salute> Dear Father </salute>
+            </opener>
+            <p>  With contentment I now seat myself to write you the <choice>
+                  <orig>nuse</orig>
+                  <reg>news</reg>
+               </choice> concerning <orig resp="#different">diferent</orig>
+               <choice>
+                  <orig>affaires</orig>
+                  <reg>affairs</reg>
+               </choice> Uncle Gannaway received yours dated 3rd of June Which I had the opportunity of reading and hearing that you all enjoyed your health and your trip so well and being kindly received by your relations and finding them all in good health I was truly glad. you stated that cousin Ann <del type="overstrike">was</del>
+               <add>has</add> not <del type="overstrike">recived</del> reco<del type="overstrike">ived</del>
+               <add>vered</add> her strength yet which I was sorry to hear <del>
+                  <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice> Ship</del>
+            </p>
+            <p>The session of at <name>salem</name> ended on friday last on which day the examination was held the congregation was only tolerable large <choice>
+                  <orig>neithe</orig>
+                  <reg>neither</reg>
+               </choice> did the students perform <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice>
+               <choice>
+                  <orig>supperior</orig>
+                  <reg>superior</reg>
+               </choice> in their studies.</p>
+            <p>Mr Ship and myself <choice>
+                  <orig>agrea</orig>
+                  <reg>agree</reg>
+               </choice>
+               <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> well and <del type="overstrike">manag</del>
+               <add>has every</add> affair in as good order as before you <choice>
+                  <orig>lefet</orig>
+                  <reg>left</reg>
+               </choice>
+               <choice>
+                  <orig>yor</orig>
+                  <reg>your</reg>
+               </choice> cotton is <choice>
+                  <orig>onley</orig>
+                  <reg>only</reg>
+               </choice> tolerable the dry weather and cold together has <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice> it from <choice>
+                  <orig>groing</orig>
+                  <reg>growing</reg>
+               </choice>
+               <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> much it is as good as common it has been verry dry since you left the tobacco was set out after a <choice>
+                  <orig>smal</orig>
+                  <reg>small</reg>
+               </choice>
+               <choice>
+                  <orig>shour</orig>
+                  <reg>shower</reg>
+               </choice> but the most of it <choice>
+                  <orig>dyed</orig>
+                  <reg>died</reg>
+               </choice> your crop <choice>
+                  <orig>thruout</orig>
+                  <reg>throughout</reg>
+               </choice> the hole is as clear of grufs and <choice>
+                  <orig>weades</orig>
+                  <reg>weeds</reg>
+               </choice> as I ever knew it before at this time of the year</p>
+            <p>We will commence harvesting the wry this evening Your wry and wheat is uncommonly good oats is not so good We shall commence harvesting wheat the later part of the <choice>
+                  <orig>weak</orig>
+                  <reg>week</reg>
+               </choice>.  I cannot relate you what w <add>i</add> l be done with the flour I have not seen <choice>
+                  <orig>unkle</orig>
+                  <reg>uncle</reg>
+               </choice> Gannaway since he received your letter <add> I expect </add> he <choice>
+                  <orig>wil</orig>
+                  <reg>will</reg>
+               </choice> state to you when he <choice>
+                  <orig>writess</orig>
+                  <reg>writes</reg>
+               </choice> what he <choice>
+                  <orig>wil</orig>
+                  <reg>will</reg>
+               </choice> do with the flour he has give out the notion of sending it to <name>Nashville</name> your stocks of all kind remain sound and healthy.  Your <choice>
+                  <orig>coalts</orig>
+                  <reg>colts</reg>
+               </choice> has been tended to verry well  <pb n="3" facs="gc047c.small.jpg"/> and are in fine order we have sold eight <choice>
+                  <orig>barels</orig>
+                  <reg>barrels</reg>
+               </choice> of corn <choice>
+                  <orig>las</orig>
+                  <reg>last</reg>
+               </choice>
+               <choice>
+                  <orig>weak</orig>
+                  <reg>week</reg>
+               </choice> and <del type="overstrike">Led</del>
+               <choice>
+                  <abbr>Maj</abbr>
+                  <expan>Major</expan>
+               </choice> Ledbetter <choice>
+                  <orig>wil</orig>
+                  <reg>will</reg>
+               </choice> come after sixteen this <choice>
+                  <orig>weak</orig>
+                  <reg>week</reg>
+               </choice> We examined the bacon this morning and found it to remain sound.</p>
+            <p>Relate to mother her garden is in good order her cabbage and peas <choice>
+                  <orig>wartermelon</orig>
+                  <reg>watermelon</reg>
+               </choice> vines snaps and all other things are in good order her chickens and fouls are <choice>
+                  <orig>groing</orig>
+                  <reg>growing</reg>
+               </choice>
+               <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> well.</p>
+            <p>Tel <choice>
+                  <orig>Gran</orig>
+                  <reg>Grand</reg>
+               </choice> Mother her crop is tolerable clean and comes on finely Wilmington has been verry sick he is now on the mend the doctress Mariah has has been tending on him here this is the <choice>
+                  <orig>twelf</orig>
+                  <reg>twelfth</reg>
+               </choice> day of his sickness.</p>
+            <p>Cousin Henry &amp; <choice>
+                  <abbr>mr</abbr>
+                  <expan>mister</expan>
+               </choice> Clinton left for the <choice>
+                  <orig>deastrick</orig>
+                  <reg>district</reg>
+               </choice> on monday last.  <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Brothers left on the <choice>
+                  <orig>fourt</orig>
+                  <reg>fourth</reg>
+               </choice> of June for <name>north Carolina</name>.  Cousin Sam Butler <choice>
+                  <orig>arived</orig>
+                  <reg>arrived</reg>
+               </choice> here on <choice>
+                  <orig>wensday</orig>
+                  <reg>Wednesday</reg>
+               </choice> last with his lady Permelia <choice>
+                  <orig>thay</orig>
+                  <reg>they</reg>
+               </choice>
+               <choice>
+                  <orig>ar</orig>
+                  <reg>are</reg>
+               </choice> both in fine health.  <name>W. F. Leiper</name>
+               <choice>
+                  <orig>arived</orig>
+                  <reg>arrived</reg>
+               </choice> at town las <choice>
+                  <orig>weak</orig>
+                  <reg>week</reg>
+               </choice>.</p>
+            <p>I have not time to write anything more I have to  go to plowing this evening.</p>
+            <p>Give my love and respects to E. Grand mother &amp; mother &amp; Sister julia ann &amp; to <choice>
+                  <abbr>mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Parish &amp; family.  &amp; <del type="overstrike">Cuis</del>
+               <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> King &amp; family and the <choice>
+                  <orig>enquireing</orig>
+                  <reg>enquring</reg>
+               </choice> friends of mine Mr Ship joins me in respect to you     all.  the children are all except Betty she has been <choice>
+                  <orig>alittle</orig>
+                  <reg>a little</reg>
+               </choice>
+               <del type="overstrike">puny</del> puny ever since you left She does not fret as much as she did at first. </p>
+            <p>Tell Juliann to me &amp; not only to me but to her other friends and relation I think it wil improve her mind <pb n="4" facs="gc047d.small.jpg"/> Write &amp; talk more than she has been in the habit of Father write to me <del type="overstrike">soon</del>. I remain in good health</p>
+            <closer>I am your <choice>
+                  <orig>Sone</orig>
+                  <reg>son</reg>
+               </choice>
+               <signed>H. A. J. King</signed>
+               <add>J. M. King</add>
+               <add>
+                  <choice>
+                     <orig>tel</orig>
+                     <reg>tell</reg>
+                  </choice> F.A. "Bird to write to me if he has not Easter sends howdy to you all she says she has a heap of <choice>
+                     <orig>frute</orig>
+                     <reg>fruit</reg>
+                  </choice> gathered for Mother.  <choice>
+                     <orig>Dicy</orig>
+                     <reg>Dicey</reg>
+                  </choice> sends howdy to you.   Cousin Lizzey and Martha sends their love and respects to you Cousin Martha and Brack are traveling backwards and <choice>
+                     <orig>fowards</orig>
+                     <reg>forward</reg>
+                  </choice>
+                  <choice>
+                     <orig>evry</orig>
+                     <reg>every</reg>
+                  </choice> day  Lizzy comes her but She so <choice>
+                     <orig>lonsome</orig>
+                     <reg>lonesome</reg>
+                  </choice> she cant stay long at a <unclear>time</unclear> Brack says you must bring him a <choice>
+                     <orig>poney</orig>
+                     <reg>pony</reg>
+                  </choice>.  Sampson sends how dy to you all Aunt Jane received Mothers letter and <choice>
+                     <orig>wil</orig>
+                     <reg>will</reg>
+                  </choice> write in a <choice>
+                     <orig>fu</orig>
+                     <reg>few</reg>
+                  </choice>
+                  <choice>
+                     <orig>dayes</orig>
+                     <reg>days</reg>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

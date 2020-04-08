@@ -1,0 +1,160 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl208">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1827 Nov. 6,  [to] Major W[illia]m Crisp, Nashville, Tennessee / Jas Royall : a machine readable transcription of an image</title>
+            <author>Royall, Jas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl208</idno>
+            <idno>OCLC: 49932393</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1827 Nov. 6 [to] Major W[illia]m Crisp, Nashville, Tennessee / Jas Royall</title>
+               <author>Royall, Jas</author>
+               <date when="1827-11-06">November, 6, 1827</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated November 6th, 1827 to Major William Crisp from Jas Royall regarding a journal manuscript that Royall is waiting to be printed.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true"> Brown - White, b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">tl208</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Manuscripts</term>
+               <term>Tennessee -- History</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Royall, Jas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl208a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                     <date when="1827-11-06"> Nov 6th 1827</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr </abbr>
+                     <expan>Dear</expan>
+                  </choice>Sir</salute>
+            </opener>
+            <p>You will please make inquiry at the office of the<name type="person"> Whig</name> &amp; <name type="person">Banner  </name>   whether they have received a manuscript Journal of the Tennessee Caravan to <choice>
+                  <orig/>
+                  <reg>Santa Fe</reg>
+               </choice> &amp; if so the reason that it is not printed as I had a right to expect from the editors <choice>
+                  <orig>leter</orig>
+                  <reg>letter</reg>
+               </choice> to me if he does not design it you please call for it &amp; forward the manuscript by the earliest <choice>
+                  <orig>oportunity</orig>
+                  <reg>opportunity</reg>
+               </choice> to Memphis: I have no interesting intelligence from our quarter more than have possibly heard <name type="person">Miller</name> &amp; <name type="person">Phoebus</name> report says met in <name type="place">Bolivar</name> &amp; the interposition of friends prevented serious consequences: public opinion appears to have received additional force in opposition to the advocate growing out of the opposition they have manifested since the election as well as someone other reasons which are considered liberal &amp; personal. I been recently warmly solicited to commence the publication of the star in opposition with the promise of nearly universal patronage: but my private circumstances has hitherto prevented its appearance will possibly <choice>
+                  <orig>doo</orig>
+                  <reg>do</reg>
+               </choice> so <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> spring:</p>
+            <closer>
+               <salute> I am dear sir with sentiments of esteem yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>Jas Royall</signed>
+               <add>
+                  <address>
+                     <addrLine>
+                        <name type="person">
+                           <choice>
+                              <abbr>Maj Wm</abbr>
+                              <expan>Major William</expan>
+                           </choice> Crisp</name>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+            <pb n="2" facs="tl208b.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis </name>
+                     <unclear>Nw y 18/11?</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Maj Wm</abbr>
+                           <expan>Major William </expan>
+                        </choice> Crisp</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+            <closer>
+               <unclear>Polt?</unclear>
+               <choice>
+                  <abbr>Maj</abbr>
+                  <expan>Major</expan>
+               </choice>
+               <name type="person"> Robertson</name>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

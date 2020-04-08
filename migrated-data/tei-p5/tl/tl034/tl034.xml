@@ -1,0 +1,234 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Feb. 17, Knoxville, [Tennessee, to] Benjamin
+			 Hawkins , Superintendent of Indian Affairs / John Sevier: a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl034</idno>
+            <idno>OCLC: 47827917</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Feb. 17, Knoxville, Tennessee, to] Benjamin
+				Hawkins, Superintendent of Indian Affairs / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-02-17"> February 17, 1797</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written to Benjamin
+				Hawkins, Superintendent of Indian Affairs, from Tennessee Governor John Sevier
+				(1796-1801, 1803-1809) on February 17, 1797. In this letter, Sevier accounted
+				the story of two slaves belonging to Captain James Richardson who had run away
+				and ended up in the Cherokee Nation. The slaves were then taken by a member of
+				the Creek Nation, who announced he would not relinquish possession of the
+				slaves until some of his horses stolen by Cherokees, were returned. Sevier also
+				told Hawkins that it is suspected that Creeks and/or Cherokees had recently
+				been exerting aggression against settlers in the Cumberland, having killed one
+				man and stealing several horses. Sevier requested that Hawkins attempt to have
+				the slaves and horses returned as soon as possible. </note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl034</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek Indians--Claims against</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Horse stealing</term>
+               <term>Fugitive slaves</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl034a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-02-17">17 February 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>Sometime past two Negro fellows belonging to 
+			 <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> James
+				Richardson</name> of this Country ran away and went into the 
+			 <name type="place">Cherokee Nation</name>, from
+			 <del type="overstrike">whence</del>
+               <add place="supralinear">thence</add> to
+		  the 
+		  <name type="person">Creeks</name>, Where they were taken by a
+		  halfbreed, by <del type="overstrike">sold</del> some called
+		  <del type="overstrike">the</del> Fife and by others Lastly; He pretend to hold
+		  them until he is made whole for some horses stolen from him by the 
+		  <name type="person">Cherokees</name> there has been also
+		  <add place="supralinear">a man killed <del type="overstrike">lately
+		  </del>
+               </add>  a number of horses <del type="overstrike">lately</del>
+               <add place="supralinear">lately</add> taken from the 
+		  <name type="place">
+                  <choice>
+                     <orig>cumberland</orig>
+                     <reg>Cumberland</reg>
+                  </choice>
+               </name>
+		  Settlements, supposed to be done by the 
+		  <name type="person">Creeks</name>
+               <add>or 
+		  <name type="person">Cherokees</name>
+               </add>
+            </p>
+            <p>I beg of you to exert your influence <add place="supralinear">to
+			 keep those <choice>
+                     <orig>indians</orig>
+                     <reg>Indians</reg>
+                  </choice> within bounds</add> And have
+			 <del type="overstrike">the</del> both the Negroes and horses returned
+		  <add place="supralinear">as soon as possible</add>, <choice>
+                  <orig>otherways</orig>
+                  <reg>otherwise</reg>
+               </choice>
+               <del type="overstrike">it will be
+		  impossible</del>
+               <add place="supralinear">we need not expect</add> to Support
+		  peace and tranquility Much longer <del>to</del> the negroes belongs to a person
+		  in Moderate Circumstances, and the loss is very <del type="overstrike">injurious considerably</del>
+               <add place="supralinear">Sensibly</add> felt by him and his family  I hope
+		  the pleasure of seeing <pb n="2" facs="tl034b.small.jpg"/> You in the spring at this place, in the
+		  <choice>
+                  <orig>mean time</orig>
+                  <reg>meantime</reg>
+               </choice>
+               <del type="overstrike">hope</del>
+               <add place="supralinear">request</add> you will communicate to me
+		  <del type="overstrike">any</del>
+               <choice>
+                  <orig> thing</orig>
+                  <reg>everything</reg>
+               </choice> that may be interesting to our
+		  frontiers or the state.
+               </p>
+            <closer>
+               <salute>I have the honor 
+				<choice>
+                     <abbr> c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <orig>Benjaman</orig>
+                           <reg>Benjamin</reg>
+                        </choice> Hawkins 
+					 <choice>
+                           <abbr>esqr</abbr>
+                           <expan>esquire</expan>
+                        </choice>
+                     </name>
+                     <lb/>
+                     <choice>
+                        <orig>Superintendant</orig>
+                        <reg>Superintendent</reg>
+                     </choice> of Indian affairs
+				  
+                     </addrLine>
+               </address>
+               <add place="below, right, on side">
+                  <name type="person">Benjamin Hawkins</name>
+                  <lb/>
+                  <choice>
+                     <orig>Superintendant</orig>
+                     <reg>Superintendent</reg>
+                  </choice>
+                  <lb/>
+                  <date when="1797-02-17">17 
+				<choice>
+                        <abbr>Feby</abbr>
+                        <expan>February</expan>
+                     </choice> 1797</date>
+                  <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 1 <lb/> Recorded
+                           
+                        
+                     
+                  </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

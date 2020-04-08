@@ -1,0 +1,161 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl655">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Mar. 7, Frankfort, Kentucky [to] N[ewton] Cannon, Nashville, Tennessee / Ja[me]s Clark : a machine readable transcription of an image</title>
+            <author> Clark, Jas.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl655</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1838 Mar. 7, Frankfort, Kentucky [to] N[ewton] Cannon, Nashville, Tennessee / Ja[me]s Clark</title>
+               <author>Clark, Jas.</author>
+               <date when="1838-03-07">March 7, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from James Clark, Governor of Kentucky to Governor Newton Cannon, dated March 7, 1838. Clark writes about the internal improvements the two states are implementing. He mentions plans to  build Macadamized roads.</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true"> sl655</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kentucky</term>
+               <term>Tennessee</term>
+               <term>Macadamized Turnpikes</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n82219707"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Clark, James, 1779-1839</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl655a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Executive Department</addrLine>
+                  <addrLine>
+                     <name>Frankfort</name>
+                     <choice>
+                        <abbr>Ky</abbr>
+                        <expan>Kentucky</expan>
+                     </choice>
+                     <date>March 7th 1838</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To His Excellency</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>N</abbr>
+                        <expan>Newton</expan>
+                     </choice> Cannon</addrLine>
+                  <addrLine>Governor of the State of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Yours of the 18th <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice> was duly <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> the tenor of which, manifesting the great anxiety you entertain for the successful progress of the system of Internal Improvement in the respective States of Tennessee and <name>Kentucky</name>, is to me particularly gratifying. It indicates a future and hearty co-operation of the energies of the two States in works of Improvement calculated to advance the interest and prosperity of both, that may hereafter be projected.</p>
+            <p>Inclosed I send you a diagram exhibiting all the material facts connected with the <choice>
+                  <orig>McAdamised</orig>
+                  <reg>Macadamised</reg>
+               </choice> Turnpikes pointing to the borders of your State, which when connected with those of Tennessee will not only add much to the comfort of traveling and the encouragement of agriculture and trade, but will facilitate and increase the social, commercial and friendly intercourse of the respective States, the results of which can but be mutually beneficial to Tennessee and Kentucky, States wealthy in their own internal resources, a development of which only awaits the completion of their systems of Internal Improvement.</p>
+            <closer>
+               <salute>very Respectfully <lb/> Your Excellencys <lb/>
+                  <choice>
+                     <abbr>Obt</abbr>
+                     <expan>Obedient</expan>
+                  </choice> servant</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jas</abbr>
+                        <expan>James</expan>
+                     </choice> Clark</name>
+               </signed>
+               <pb n="2" facs="sl655b.small.jpg"/>
+               <address>
+                  <addrLine>To His Excellency</addrLine>
+                  <addrLine>N. Cannon</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice> of Kentucky</add>
+               <add>Gov of Ky. <lb/> March 7  18<del type="overstrike">37</del>
+               </add>
+               <add>1838</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

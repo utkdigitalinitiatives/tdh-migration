@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Nov. 28, Columbia Institute [to] Col[onel] Robert J. Chester, Jackson, Tennessee / Mary Jane Chester : a machine readable transcription of an image</title>
+            <author>Chester, Mary Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um032</idno>
+            <idno>OCLC: 50275036</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Nov. 28, Columbia Institute [to] Col[onel] Robert J. Chester, Jackson, Tennessee / Mary Jane Chester </title>
+               <author>Chester, Mary Jane</author>
+               <date when="1840-11-28">November 28, 1840</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated November 28, 1840, from Mary Jane Chester, student of the Female Institute in Columbia, Tennessee, to her parents Colonel Robert J. and Elizabeth Chester. Mary Jane requests that her mother send her clothing,  food, and pleads with her family to write her more often.</note>
+               <note type="collection" anchored="true">Chester Family Papers, MS25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um032</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Mary Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um032a.small.jpg"/>
+            <opener>
+               <add place="left of address">
+                  <figure>
+                     <figDesc>postmark</figDesc>
+                  </figure>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col. Robt.</abbr>
+                           <expan>Colonel Robert</expan>
+                        </choice> J Chester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address">mail</add>
+               <add place="bottom" rend="different ink">
+                  <date when="1840-11-28">28 <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice> 1840</date>
+               </add>
+               <pb n="2" facs="um032b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia<choice>
+                           <abbr> F.</abbr>
+                           <expan>Female</expan>
+                        </choice> Institute</name>
+                     <date when="1840-11-28">November 28th 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Mother,</salute>
+            </opener>
+            <p>I declare it seems that you do not intend answering my letters. If I do not receive one soon, I will not write to you again until you write to me. I believe that is the best way after all to take it time about, but I will write you this one as I want you to send me some things by Aunt Narcissa. I wish that you would get me a Purple <choice>
+                  <orig>Marino</orig>
+                  <reg>Merino</reg>
+               </choice> &amp; have it made high up in the neck &amp; send it by her There are no handsome ones here nor any good milliners. have it made longer in the waist than any other Dresses. Cousin <name type="person">Jane</name> purchased me a Bonnet <choice>
+                  <orig>lat</orig>
+                  <reg>last</reg>
+               </choice> week and had it lined and <choice>
+                  <orig>trimed</orig>
+                  <reg>trimmed</reg>
+               </choice> very <choice>
+                  <orig>prettyly</orig>
+                  <reg>prettily</reg>
+               </choice>. Cousin <name type="person">Elen</name> has persuaded me not to wear Draws but if you think that I had better wear them you can send them. Every Saturday I answer my letters and mend my clothes. Sometimes when I am mending them I get <pb n="3" facs="um032c.small.jpg"/> so much <emph>Bothered</emph> that I do not know what to do. You see that I have been so used to going to you to show me that it goes harder with me. But I expect that I will learn how to shift for myself by &amp; by. Sending me from home I am convinced is the best thing that ever was done for me. If I could only see you all often or even hear from you <choice>
+                  <orig>oftener</orig>
+                  <reg>more often</reg>
+               </choice> I should be happy. O! I forgot to ask you to send me the Cherries that you spoke of before I left home if you can get them made in time. Give my love to Pappa and kiss all of the children. Give my love to all of my relations.</p>
+            <closer>
+               <salute>I remain your affectionate Daughter</salute>
+               <signed>
+                  <choice>
+                     <abbr>M. J.</abbr>
+                     <expan>Mary Jane</expan>
+                  </choice> Chester</signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Mrs. Elizabeth Chester</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

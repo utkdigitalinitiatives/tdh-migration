@@ -1,0 +1,260 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Mar. 28, Knoxville, [Tennessee, to] the warriors
+			  chiefs of the Cherokee Nation / John Sevier: a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl039</idno>
+            <idno>OCLC: 47828272</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Mar. 28, Knoxville, [Tennessee, to] the warriors
+				 chiefs of the Cherokee Nation / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-03-28">March 28, 1797 </date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter addressed to the
+				warriors and chiefs of the Cherokee Nation, written by Tennessee Governor John
+				Sevier (1796-1801, 1803-1809 ) on March 28, 1797. Sevier reported that he had
+				been requested by the Governor of Kentucky to have the two Tennessee citizens
+				who murdered Red Bird and another Cherokee apprehended and sent to Kentucky to
+				be tried for their crime. Sevier stated that he had sent forth orders in
+				compliance with this request, and he was now urging the Cherokee leaders to
+				capture those from amongst their people who were responsible for the murders of
+				several white citizens. Sevier warned the Cherokees of the dangers of bringing
+				about a war, which could be the consequence of further acts of aggression
+				between the citizens of the United States and those of the Cherokee Nation.
+				</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl039</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Tennessee</term>
+               <term>Kentucky</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl039a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-03-28">28 March 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Brothers</salute>
+            </opener>
+            <p>I have 
+			 <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> an express from the Governor of 
+			 <name type="place">Kentucky</name> which informs me that two men
+			 Citizens of the State of 
+			 <name type="place">Tennessee</name> , <add place="supralinear">has</add> murdered two men of your nation (one of the name
+			 of 
+			 <name type="person">Red Bird</name>.) This murder was committed
+			 within the bounds and State of 
+			 <name type="place">Kentucky</name>, and the Governor thereof has
+			 demanded of me to send them into that State to be <choice>
+                  <orig>tryed</orig>
+                  <reg>tried</reg>
+               </choice> for the murder <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice>
+			 to the laws of the <del type="overstrike">that</del> State  I have sent
+		  forth orders to have the <choice>
+                  <orig>Murderors</orig>
+                  <reg>Murderers</reg>
+               </choice> taken, and when
+		  taken to be <choice>
+                  <orig>immeadiately</orig>
+                  <reg>immediately</reg>
+               </choice> sent to 
+		  <name type="place">Kentucky</name> in order that they may
+		  <del type="overstrike">receive their</del>
+               <add place="supralinear">be</add>
+               <choice>
+                  <orig>tryed</orig>
+                  <reg>tried</reg>
+               </choice>, and receive <del type="overstrike">their</del>
+               <add place="supralinear">the</add> punishment <add place="supralinear">due
+		  their crime</add> if found Guilty  now my brothers you have had time
+		  enough to find out the persons that have killed the <add place="supralinear">several</add> people belonging to the state of 
+		  <name type="place">
+                  <choice>
+                     <orig>tennessee</orig>
+                     <reg>Tennessee</reg>
+                  </choice>
+               </name>, one
+		  has been Killed and another wounded on the 
+		  <name type="place">Kentucky</name>
+               <pb n="2" facs="tl039b.small.jpg"/> road Since I wrote you
+		  before; I therefore request and demand of you, that you have those
+		  <choice>
+                  <orig>Murderors</orig>
+                  <reg>Murderers</reg>
+               </choice> apprehended and punished
+		  <choice>
+                  <orig>Agreably</orig>
+                  <reg>Agreeably</reg>
+               </choice> to the treaty entered into between your
+		  nation And the 
+		  <name type="place">United States</name>. I am determined to have the
+		  white transgressors taken and punished if it Can be done, And I shall expect
+		  <add place="supralinear">You will apprehend the<choice>
+                     <orig>murderors</orig>
+                     <reg>murderers</reg>
+                  </choice> on your part  have them punished</add>
+               <del type="overstrike">it will be the Case with your nation</del>  let
+		  us convince Such disorderly people, that they Shall not be the Cause of
+		  <choice>
+                  <orig>Sheding</orig>
+                  <reg>Shedding</reg>
+               </choice> the blood of innocent people And bringing
+		  about a War, which never fails to produce very fatal and
+		  <choice>
+                  <orig>disagreable</orig>
+                  <reg>disagreeable</reg>
+               </choice> event
+               </p>
+            <p>
+               <del type="overstrike">I have frequently Wrote you the disadvantages
+		  a war would</del>
+            </p>
+            <p>I have frequently informed you how <choice>
+                  <orig>disagreable</orig>
+                  <reg>disagreeable</reg>
+               </choice> A War would be to the white people
+			 <add place="supralinear">of this State</add> And the 
+			 <name type="place">United States</name> in General, and also the
+			 dangerous consequences, that in all probability might and would attend your
+			 nation Should Such a <del type="overstrike">thing take</del> went take place
+		  </p>
+            <p>I hope your nation will consider well the dangerous consequences,
+			 and put a <add place="supralinear">final</add> Stop to the further effusion of
+			 blood, <choice>
+                  <orig>otherways</orig>
+                  <reg>otherwise</reg>
+               </choice> I am <choice>
+                  <orig>a
+			 fraid</orig>
+                  <reg>afraid</reg>
+               </choice> it will <pb n="3" facs="tl039c.small.jpg"/> tend to bring about Very
+			 <choice>
+                  <orig>disagreable</orig>
+                  <reg>disagreeable</reg>
+               </choice> events, which
+			 <del type="overstrike">it</del> is the wish of this government to prevent
+               </p>
+            <closer>
+               <salute>Your friend</salute>
+               <signed>
+                  <name type="person">John Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>The Warriors  <choice>
+                        <orig>Cheifs</orig>
+                        <reg>Chiefs</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine> of the 
+				  <name type="place">Cherokee Nation</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="tl039d.small.jpg"/>
+            <p>
+               <add place="left, on side">Letter to the <lb/> Cherokees <lb/>
+                  <date when="1797-03-28"> 28 March 1797</date>
+                  <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 10 <lb/> Recorded 
+			 <figure>
+                     <figDesc>miscellaneous doodling</figDesc>
+                  </figure>
+               </add> I will thank the 
+			 <choice>
+                  <abbr>Secy.</abbr>
+                  <expan>Secretary</expan>
+               </choice> to make out the copy early this 
+			 <choice>
+                  <abbr>morng.</abbr>
+                  <expan>morning</expan>
+               </choice> having an opportunity to Send it
+			 to the Nation </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1808 Jan. 1, Pittsburgh, [Pennsylvania] [to] King, et al. / John Sumerall : a machine readable transcription of an image</title>
+            <author>Sumerall, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl066</idno>
+            <idno>OCLC: 50078961</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1808 Jan. 1, Pittsburgh, [Pennsylvania] [to] King, et al. / John Sumerall</title>
+               <author>Sumerall, John</author>
+               <date when="1808-01-01">January 1, 1808</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a letter written by John Sumerall to King, Canon, &amp; King on January 1, 1808. In the letter, Sumerall informs the merchants of the conversation that took place between himself and a Mr. Hunt in Lexington, Kentucky pertaining to the service of cotton baling that Hunt was going to perform for the men. Sumerall states that he gave his oath to Hunt that the men are good for the money that is required to pay for the cotton baling.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">20</note>
+               <note type="document" anchored="true">sl066</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cotton baling</term>
+               <term>Kentucky</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sumerall, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl066a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Pittsburgh</name>
+                     <date when="1808-01-01">1st <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 1808</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>I received yours of the <date when="--11-23">23rd of November</date> requesting me to recollect particularly the conversation that passed between <name type="person">Mr. Hunt</name> and me about your Cotton Bailing of which I have the most perfect recollection on the 8th day after I left your place I  called on Mr Hunt in <name type="place">Lexington</name> &amp; delivered him your Letter which he <choice>
+                  <orig>red</orig>
+                  <reg>read</reg>
+               </choice> and then told me he could furnish you with what you wanted in case you would pay the money I told him I should not promise, that as I was not <add place="supralinear">so</add>
+               <unclear>directed</unclear> but that he might write to you by the first mail on subject which he said he would do he asked me if I thought you were good for the <choice>
+                  <orig>mony</orig>
+                  <reg>money</reg>
+               </choice> I told him I had no doubt of that, he said if you would agree to pay the money in Lexington that he could have some of the Bailing ready in a short time, so that no positive agreement took place between Mr Hunt and me further than what I have stated the <choice>
+                  <orig>Memorandom</orig>
+                  <reg>Memorandum</reg>
+               </choice> you gave me — I cannot find at present, but if I <choice>
+                  <orig>shoud</orig>
+                  <reg>should</reg>
+               </choice> find it I will send you a Copy of it, what I have stated I am ready to make oath of at any time. I wish you to write me if <name type="person">Mr Coleman</name> pays our money when it is <unclear>due</unclear> if you have an opportunity you will be so good as to send it, we are your sincere Friends.</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <emph>John Sumerall</emph>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Mssrs</abbr>
+                        <expan>Messeiurs</expan>
+                     </choice>
+                     <name type="person">King</name>
+                     <name type="person">Canon</name> &amp; King</addrLine>
+               </address>
+               <add place="below signature">Copied by <name type="person">J. R. Plummer</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

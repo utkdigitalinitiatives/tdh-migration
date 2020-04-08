@@ -1,0 +1,296 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Jan. 12, Knoxville, [Tennessee to] Silas Dinsmore
+			 / John Sevier, Governor of the state of Tennessee: a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl026</idno>
+            <idno>OCLC: 47826286</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Jan. 12, Knoxville, [Tennessee to] Silas
+				Dinsmore / Governor John Sevier, Governor of the state of Tennessee: a
+				machine-readable transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1797-01-12">January 12, 1797 </date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter, dated January 12,
+				1797, written to Silas Dinsmore, agent to the Cherokee, from Governor John
+				Sevier of Tennessee (1796-1801). The letter was written partly in response to
+				inquiries made earlier by Dinsmore regarding Indian land boundaries in the
+				Cumberland area. Sevier explained that Americans could begin settling in areas
+				as low as the Tennessee River and that the settlements boundary line the
+				government was experimenting with was going to be extended. Sevier devoted the
+				second half of the letter to discussing problems between the white settlers and
+				the Cherokee, by stating that several complaints had been made about robberies
+				and plundering believed to have been committed by some Cherokees. Sevier
+				expressed disdain toward this conduct and feared it would hinder peace. Sevier
+				also enclosed a letter he had written to Cherokee chiefs.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl026</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Boundaries</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl026a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-01-12">12th January 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Yours of the 
+			 <date when="--11-08">8th of November</date> I am duly honored
+			 with, and Should have done myself the pleasure of Answering the Same before
+			 this time had I been at this place. Some of my family in 
+			 <name type="place">Washington</name> being much indisposed Which
+			 required my presence is my <choice>
+                  <orig>opology</orig>
+                  <reg>apology</reg>
+               </choice>, together with
+			 The severity of the Weather <add place="supralinear">which</add> prevented my
+			 return so soon As I intended. I Discovered at the first Sight of the Act of
+			 Congress you advert to that <del type="overstrike">tho</del> it would have a
+		  tendency rather to encourage than discourage Settlements to be made as low down
+		  as the 
+		  <name type="place">Tennessee River</name>, 
+		  <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> I make no doubt that Honorable body
+		  fully anticipated Very Salutary and interesting consequences would be derived
+		  <del type="overstrike">: in</del> The experimented line tried by
+		  <add place="supralinear">Messieurs</add>
+               <name type="person">Campble</name>
+               <name type="person">McKee</name>,  
+		  <name type="person">McClung</name> is reported as I am informed, to
+		  Cross 
+		  <name type="place">Hobeson</name> near the <choice>
+                  <orig>confluance</orig>
+                  <reg>confluent</reg>
+               </choice> of that and 
+		  <name type="place">Tennessee River</name> , The act of Congress
+		  embraces an Idea, that from that place, the line is to be extended
+		  <del type="overstrike">a</del> South to the 
+		  <name type="place">
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>North</expan>
+                  </choice> Carolina</name> Indian
+		  boundary. now Sir if the exportmented line <del type="overstrike">Above</del>
+		  Alluded to is accurate, will not the <del type="overstrike">
+                  <unclear>unk</unclear>
+               </del>
+               <add place="supralinear">Course</add> to be run South Immediately cross 
+		  <name type="place">the Tennessee</name>! This <add place="supralinear">is an</add> Idea <del type="overstrike">is</del> generally
+		  entertained by all those who are Acquainted, and the opinion You know is
+		  readily indulged by all who wish to Settle on the Land </p>
+            <pb n="2" facs="tl026b.small.jpg"/>
+            <p> The line of conduct I am to <del type="overstrike">preserve</del>
+               <add place="supralinear">observe</add> on this Occasion does not appear to me
+		  Sufficiently <choice>
+                  <orig>dilineated</orig>
+                  <reg>delineated</reg>
+               </choice>:  were I to
+		  undertake it, I should be much <choice>
+                  <orig>a fraid</orig>
+                  <reg>afraid</reg>
+               </choice> of erring
+		  through <del type="overstrike">a</del> misconception of the line yet to be run.
+		  In this dilemma I must be excused from <del type="overstrike">taking</del>
+               <add place="supralinear">Exercising</add> any prompt and decisive Measures, on
+		  the subject, Especially as it is the part of candor in me to acknowledge that I
+		  do not see my way clear enough to <del type="overstrike">direct such a
+		  plan</del> give such instructions as would have efficacy sufficient to answer
+		  the <choice>
+                  <orig>disired</orig>
+                  <reg>desired</reg>
+               </choice> intention. If Congress wish Anything to
+		  be done <del type="overstrike">by</del>
+               <add place="supralinear">through</add>
+		  the executive of this State, it will be expedient in that Body to be more
+		  definitive and explicit, which can only be effected by having the line run and
+		  <del type="overstrike">and</del> properly <choice>
+                  <orig>asscertained</orig>
+                  <reg>ascertained</reg>
+               </choice> , which might perhaps prevent
+		  <del type="overstrike">the next</del> Serious events.</p>
+            <p>I have Issued <del type="overstrike">my</del> proclamations on the
+		  subject, long Since, and shall proceed to take such measures, as Circumstances,
+		  and my powers will enable me to exert.</p>
+            <p>Innumerable complaints are daily lodged against the indians Supposed
+			 to be the Cherokees, that they have Robbed and plundered <del type="overstrike">several families of</del> many horses and other property from
+		  families on the road <del type="overstrike">Me</del> to 
+		  <name type="place">Cumberland</name> , <del type="overstrike">and
+		  left</del>
+               <add place="supralinear">leaving</add>
+               <del type="overstrike">Numbers</del>
+               <add place="supralinear">Several
+		  <del type="overstrike">families</del>
+               </add> in the most distressing and
+		  disagreeable Conditions Without a horse to <del type="overstrike">assist</del>
+		  enable them to travel with, or any <del type="overstrike">Clothing</del>
+		  covering to secure them <del type="overstrike">against</del>
+               <add place="supralinear">from</add> the intensity of the Weather:  It is
+		  painful in the extreme to hear of such a Conduct, fearing it may be Attended
+		  with Serious and <pb n="3" facs="tl026c.small.jpg"/> disagreeable events;  The people of this
+		  Country are far from being in a <del type="overstrike">Condition</del>
+               <add place="supralinear">Temper disposed</add> to receive insults accompanied
+		  with <choice>
+                  <orig>agravated</orig>
+                  <reg>aggravated</reg>
+               </choice> Injuries; <del type="overstrike">neither <unclear>unk</unclear>
+               </del> nor will it be prudence
+		  in the indians to conduct themselves in a manner that might invite a
+		  retaliation <del type="overstrike">of numberless</del> for the innumerable
+		  murders and other Crimes of the deepest vice, <add place="supralinear">that</add> they have but too recently
+		  <del type="overstrike">exercised</del>
+               <add place="supralinear">committed</add>
+		  upon <del type="overstrike">numbers</del>
+               <add place="supralinear">many</add>
+		  of <add place="supralinear">the</add> harmless and Innocent Citizens of this
+		  Country. 
+                  </p>
+            <p>I beg you will use your interest  influence to have the goods
+			 and horses that has been <del type="overstrike">taken, returned</del> taken
+		  returned, as soon as possible, and let the indians be informed, the dangers of
+		  such a conduct, should they be so unwise as to Suffer it to be Carried on any
+		  longer  I wish Sincerely to <del type="overstrike">support</del>
+               <add place="supralinear">cultivate</add> peace and Harmony between our frontier
+		  Citizens, and the indians, and shall take all the necessary measures in my
+		  power to promote the same</p>
+            <p>
+               <choice>
+                  <orig>Inclosed</orig>
+                  <reg>Enclosed</reg>
+               </choice> you will receive a letter
+			 directed to the <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice> Which you will please to have
+			 read and explained to them</p>
+            <closer>
+               <salute>I have the honor to be 
+				<choice>
+                     <abbr>c c c</abbr>
+                     <expan>et cetera et cetera et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Silas Dinsmore 
+					 <choice>
+                           <abbr>esqr.</abbr>
+                           <expan>esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="tl026d.small.jpg"/>
+            <p>Letter<lb/>
+               <name type="person">Silas Dinsmore 
+				<choice>
+                     <abbr>esqr.</abbr>
+                     <expan>esquire</expan>
+                  </choice>
+               </name>
+               <lb/> agent to the
+			 Cherokees <lb/>
+               <date when="1797-01-12">January 12th 1797</date>
+               <lb/>iss 2_2_1 <lb/>			 (<choice>
+                  <abbr>No.</abbr>
+                  <expan>Number</expan>
+               </choice> 13) <lb/>  Recorded 
+                              
+                           
+                        
+                     
+                  
+               </p>
+         </div>
+      </back>
+   </text>
+</TEI>

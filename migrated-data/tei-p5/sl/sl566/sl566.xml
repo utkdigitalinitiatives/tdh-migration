@@ -1,0 +1,168 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl566">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Feb. 26, St. Stephens [Alabama, to] James Winchester, Mobile [Alabama] / Geo[rge] S[trother] Gaines   : a machine readable transcription of an image</title>
+            <author>Gaines, Geo. S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl566</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1815 Feb. 26, St. Stephens [Alabama, to] James Winchester, Mobile [Alabama] / Geo[rge] S[trother] Gaines</title>
+               <author>Gaines, Geo. S.</author>
+               <date when="1815-02-26">February 26, 1815</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from George Strother Gaines to Brigadier General James Winchester, dated February 26, 1815. Gaines is in charge of the Choctaw agency. Gaines expresses concern that the British are lying about their desire to end the war. He also writes that his health is not good.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl566</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alabama</term>
+               <term>Gaines, George Strother, ca. 1784-1873</term>
+               <term>War of 1812</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n97013997"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Gaines, George Strother, approximately 1784-1873</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl566a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>St</abbr>
+                           <expan>Saint</expan>
+                        </choice> Stephens</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>26th <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice> 1815</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I thank you for your letter for the 22nd <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> I had the pleasure to receive it last night.</p>
+            <p>I am not apt to put the worst construction on the professions or acts of any man or set of men, Yet the British officers have since the commencement of the war given us so many instances of the little respect they pay to their words or their honors, That I am not clear of suspicion that their humane proposition of a cessation of hostilities may be <choice>
+                  <orig>entended</orig>
+                  <reg>intended</reg>
+               </choice> to do us no good and I doubt you and <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> McIntosh</name> will be prepared to meet the worst that can follow</p>
+            <p>I have at the request of <name>Major Blue</name> supplied <name>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Browen</name> and the <name>Chickasaw</name>  guard and their prisoners for several weeks with provisions but with much difficulty. I beg that some others disposition may <pb n="2" facs="sl566b.small.jpg"/> be made of them;_ my state of health will not allow us to do much more for them.</p>
+            <closer>
+               <salute>I have the honor to be your <lb/>
+                  <choice>
+                     <abbr>obt</abbr>
+                     <expan>obedient</expan>
+                  </choice> &amp; <choice>
+                     <orig>Humbt</orig>
+                     <reg>Humblest</reg>
+                  </choice> servant</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Geo S.</abbr>
+                        <expan>George Strother</expan>
+                     </choice> Gaines</name>
+               </signed>
+               <address>
+                  <addrLine>Genl <choice>
+                        <abbr>Jas</abbr>
+                        <expan>James</expan>
+                     </choice> Winchester</addrLine>
+               </address>
+               <pb n="3" facs="sl566c.small.jpg"/>
+               <address>
+                  <addrLine>St Stephens</addrLine>
+                  <addrLine>26 Feby }</addrLine>
+               </address>
+               <add>Free <lb/> Geo S Gaines <lb/> PM</add>
+               <address>
+                  <addrLine>Genl <name>James Winchester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <orig>Mobille</orig>
+                           <reg>Mobile</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl566d.small.jpg"/>
+               <address>
+                  <addrLine>Geo. S Gaines <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>S Stephens</addrLine>
+                  <addrLine>26 Feby 1815</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

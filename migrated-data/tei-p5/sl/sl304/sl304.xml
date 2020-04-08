@@ -1,0 +1,147 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl304">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Dec. 26 Carthage [TN] [to] A[dam] Fergusson / G. G. Brookshier   : a machine readable transcription of an image</title>
+            <author>Brookshier, G. G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl304</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1844 Dec. 26 Carthage [TN] [to] A[dam] Fergusson / G. G. Brookshier</title>
+               <author>Brookshier, G. G.</author>
+               <date when="1844-12-26">December 26, 1844</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Adam Fergusson from G. G. Brookshier, dated December 26, 1844. Brookshier writes that he missed seeing Fergusson at his home. He is leaving soon for Alabama and wants to be paid for some work he has done.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b2</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl304</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brookshier, G. G.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl304a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <date>December 26th 1844</date>
+                  </addrLine>
+                  <addrLine>Mr <choice>
+                        <orig>Fergeson</orig>
+                        <reg>Fergusson</reg>
+                     </choice>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>I visited this place with the <choice>
+                  <orig>expecttation</orig>
+                  <reg>expectation</reg>
+               </choice> of seeing you and failing to do so I have thought proper to Leave you <choice>
+                  <orig>theese</orig>
+                  <reg>these</reg>
+               </choice> few Lines</p>
+            <p>
+               <choice>
+                  <orig>conserning</orig>
+                  <reg>concerning</reg>
+               </choice> them flags I still hope that shortly I shall be compensated for my <choice>
+                  <orig>Labour</orig>
+                  <reg>Labor</reg>
+               </choice> as the time of my departure is near. to see our cause Gloriously Triumphant, is enough to stimulate you to gave all our Democratic friends a call for <choice>
+                  <orig>ther</orig>
+                  <reg>their</reg>
+               </choice> small <choice>
+                  <orig>mite</orig>
+                  <reg>might</reg>
+               </choice> and preserve me  these pressing times to <choice>
+                  <orig>demmocracy</orig>
+                  <reg>democracy</reg>
+               </choice> I cleave for aid the whigs done nothing for me but almost Looked upon me with contempt I Lost my Labour down on the Samson and Lyon. and I do Trust I Shall not Loose on my own side will you please be prepared for me on next Sight as I do expect to Leave for <name>
+                  <choice>
+                     <abbr>Ala</abbr>
+                     <expan>Alabama</expan>
+                  </choice>
+               </name> Soon</p>
+            <p>Inventory five Dollars for all my Labour</p>
+            <closer>
+               <salute>yours Respectfully</salute>
+               <signed>
+                  <name>G. G. Brookshier</name>
+               </signed> Painter <pb n="2" facs="sl304b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr <choice>
+                           <abbr>A</abbr>
+                           <expan>Adam</expan>
+                        </choice>
+                        <choice>
+                           <orig>Fergeson</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name> Esqr</addrLine>
+                  <addrLine>Carthage</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

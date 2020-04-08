@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0319">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Legal brief of Pathkiller] 1837 : a machine readable transcription of an image</title>
+            <author>Pathkiller</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0319</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal brief of Pathkiller] 1837 </title>
+               <author> Pathkiller</author>
+               <date when="1837"> 
+			 1837</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a legal brief of Pathkiller, a Cherokee Indian who was removed from his land. Pathkiller states that he has sued many times to regain his land and has exhausted his funds. He requests a hearing hoping to get back his reservation so he can have a place to live in his old age.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">Path Killer</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0319a.small.jpg"/>
+            <head>
+               <title>Path Killers Brief</title>
+            </head>
+            <p>Path Killer would Represent that he took his Reservation on Tennessee River under the treaties of 1817- &amp; 1819- was living on &amp; continuing there<choice>
+                  <orig> untill</orig>
+                  <reg>until</reg>
+               </choice> after the Land sales when the purchaser obtained a writ, &amp; turned him out- that he <choice>
+                  <abbr>brot</abbr>
+                  <expan>brought</expan>
+               </choice> suit against the <unclear>Blairs</unclear> and suit after suit was brot &amp; lost &amp; they continued harassing him untill they broke down him &amp; all his friends and at October Term of Roane Court 1837- He finally lost the land--</p>
+            <p>He Represents that he done all he could to get &amp; obtain his Reservation that he continued the suits at law &amp; by himself &amp; friends- paid, thousands of Dollars for cost Lawyers <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice> &amp; attending Courts- untill he is Broke up- from 1821- to<choice>
+                  <abbr> Oct </abbr>
+                  <expan>October</expan>
+               </choice>1839- was there suits in law___ He now presents his claims before you the Commissions as a last hope of getting justice &amp; something to live on in his old age The Record is herewith filed &amp; a copy of his Registration__ He ask a hearing by the commissioners__ As soon as they can as he has nothing left now to pay expenses___</p>
+            <closer>
+               <signed>
+                  <name>PathKiller</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <unclear>Chuchwell Sol</unclear>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="pa0319b.small.jpg"/>
+               <add>60 <lb/>  4th comm. <lb/>  Brief <lb/>of PathKiller</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

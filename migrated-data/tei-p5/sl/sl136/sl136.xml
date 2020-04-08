@@ -1,0 +1,305 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl136">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1813 Dec. 7, Baxter Grove / Willie Blount : a machine readable
+                    transcription of an image</title>
+            <author>Blount, Willie</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl136</idno>
+            <idno>OCLC: 50548262</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives,
+                        Nashville, TN. It may be used freely by individuals for research, teaching,
+                        and personal use as long as this statement of availability is included in
+                        the text. For all other use contact the Tennessee State Library and
+                        Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+                        741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1813 Dec. 7, Baxter Grove / Willie Blount
+                        </title>
+               <author>Blount, Willie </author>
+               <date when="1813-12-07">December 7,
+                        1813</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from
+                        Governor Willie Blount dated December 7, 1813 to an unknown military
+                        commander. He is explaining that he does not know how long the term of
+                        service for a local detachment of men is supposed to be. He also regrets the
+                        lack of supplies for the soldiers. Much of the letter discusses the
+                        movements of Creek, Choctaw, and Chickasaw forces; and of various US
+                        military generals and colonels.</note>
+               <note type="collection" anchored="true">John Cocke
+                        Papers V-J-3</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">F:8</note>
+               <note type="document" anchored="true">sl136</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military supplies</term>
+               <term>Military planning</term>
+               <term>Cherokee Indians</term>
+               <term>Creek Indians -- Wars</term>
+               <term>Choctaw Indians</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98009970"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, Willie, 1768-1835</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl136a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Baxter Grove</name>. <date when="1813-12-07">
+                        <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 7th 1813</date>.</addrLine>
+               </address>
+               <salute>Dear
+                        Sir;</salute>
+            </opener>
+            <p>I have just <choice>
+                  <abbr>rec'd</abbr>
+                  <expan>received</expan>
+               </choice> yours of the 3rd <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> &amp; now acknowledge the receipt of one of a
+                    prior date respecting the term of service of the detached Militia, &amp; again
+                    inform you that I answered, by <name type="person">
+                  <choice>
+                     <abbr>Majr.</abbr>
+                     <expan>Major</expan>
+                  </choice> Scarcy</name> , before I left <name type="place">Nashville</name> yours respecting the term of service of the volunteers,
+                    which I presume you have <choice>
+                  <abbr>rec'd</abbr>
+                  <expan>received</expan>
+               </choice> before this: as
+                    also <name type="person">
+                  <choice>
+                     <abbr>Majr.</abbr>
+                     <expan>Major</expan>
+                  </choice> Scarcy</name>on the
+                    subject of <name type="person">Mr Hickman</name>'s become sutler to your Army,
+                    who was to have left <name type="place">Nashville</name> with
+                        <unclear>shoes</unclear> ten days ago. — were I beyond a doubt <choice>
+                  <abbr>satisfy'd</abbr>
+                  <expan>satisfied</expan>
+               </choice> that on the 10th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> the volunteers term of service was actually to expire, I have
+                    not the authority to order their discharge or to supply their places —
+                    These two points rest <choice>
+                  <orig>soley</orig>
+                  <reg>solely</reg>
+               </choice> with the President to do
+                    or order to be done; hence I could not take upon myself such responsibility. I
+                    have however as before advised, informed him of the wish &amp; expectation of
+                    the volunteers; &amp; asked him how their place were to be supplied in the event
+                    they were to be <choice>
+                  <abbr>discharg'd</abbr>
+                  <expan>discharged</expan>
+               </choice>: but as yet I have
+                    not <choice>
+                  <abbr>rec'd</abbr>
+                  <expan>received</expan>
+               </choice> his answer. I have no other instructions
+                    relative to the term of service of the detached militia than the <choice>
+                  <abbr>Sec.</abbr>
+                  <expan>Secretary</expan>
+               </choice> of wars letter more than a year ago, requiring
+                    the 2500 to be detached for six months tour of duty. — his instructions to
+                    call them into service for this campaign said nothing about the term <del type="overstrike">of service</del> they were to serve, presuming, I suppose
+                    that they were to serve <pb n="2" facs="sl136b.small.jpg"/> six months if necessary, unless sooner
+                    discharged by order of the President — I shall try to be informed by the
+                        <choice>
+                  <abbr>Sec.</abbr>
+                  <expan>Secretary</expan>
+               </choice> of war on this subject &amp; communicate
+                    his answer to you — I have sundry times required of the <choice>
+                  <abbr>Sec.</abbr>
+                  <expan>Secretary</expan>
+               </choice> of war that <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Williams</name>' <choice>
+                  <abbr>Reg't</abbr>
+                  <expan>Regiment</expan>
+               </choice> should be ordered to <unclear>ask</unclear> against the <name type="people">Creeks</name> — No answer yet — <name type="person">Williams</name> is very anxious to be with you; but his <choice>
+                  <abbr>Reg't</abbr>
+                  <expan>Regiment</expan>
+               </choice> are as yet neither armed nor <choice>
+                  <orig>cloathed</orig>
+                  <reg>clothed</reg>
+               </choice> — he writes me that he would give all he
+                    is worth to be with you — I have no authority or instructions from the war
+                    Department to order aid of men expected of <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Carroll</name> to raise upon the present
+                    emergency— but have done every thing in my power to do in an <choice>
+                  <orig>unauthorised</orig>
+                  <reg>unauthorized</reg>
+               </choice> way to promote success of the
+                    object.</p>
+            <p>I have heard of two companies going or being ready to go from <name type="place">Robertson <choice>
+                     <abbr>Cty.</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name>.— It is gratifying
+                    to learn that <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Cocke</name>
+                    will join you on the 12th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> &amp; very much so
+                    to learn that <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> White</name>
+                    has given so good account of the <name type="person">Hillabee Indian</name>
+                    towns — his men are brave — &amp; he is a warrior himself —
+                    they will do their duty — If when you are ready the Enemy will do you the
+                    favor to fight you at the Hickory grounds the contest will soon be over —
+                    I don't expect that many of them will get off with whole bones. — I cannot
+                    some how think that any of your Army would be willing to return home before the
+                        <name type="person">Creeks</name> are <choice>
+                  <orig>whipt &amp; well whipt</orig>
+                  <reg>whipped &amp; well whipped</reg>
+               </choice> — <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Claiborne</name> writes me that his
+                    volunteers &amp; detached militia, with <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Russils</name>
+               <choice>
+                  <abbr>Regt</abbr>
+                  <expan>Regiment</expan>
+               </choice> of <choice>
+                  <abbr>US</abbr>
+                  <expan>United States</expan>
+               </choice>
+                    infantry are on the Last of the <name type="place">Alabama</name>, some distance
+                    in the Creek country for the purpose of cooperating with you — that he has
+                    7 or 800 barrels of <del type="overstrike">flour</del>
+               <pb n="3" facs="sl136c.small.jpg"/> provisions on the way there for you — that it will be there
+                    in a few days — that <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+                        Hourney</name> will do every thing in his power to aid you in forwarding
+                    supplies from <name type="place">orleans</name>
+               <name type="person">McKee</name> writes me that 500 barrels of flour had been
+                    sent up <del type="overstrike">the</del> to <name type="person">Claiborne</name>
+                    camp from <name type="place">Mobile</name> for you, &amp; that he <gap agent="damage"/> use all his diligence to have more sent on
+                    without <gap agent="damage"/> for you from <name type="place">Mobile</name> — that the <name type="person">Chocktaws</name> have
+                    marched against the <name type="person">Creeks</name> — that the <name type="person">Chickasaws</name> will shortly do so — I hope you will
+                    be supplied &amp; strong enough soon to do might on a broad <choice>
+                  <orig>seale</orig>
+                  <reg>seal</reg>
+               </choice> — You have a fine field for action &amp; I know you will
+                    improve it to the best advantage — I dont hear a word from <name type="person">McGee</name> about supplies, but believe he is busy furnishing
+                        <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Cocke</name>
+               <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> he joins you, expecting probably that <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Pope Ward</name> &amp; are
+                    supplying you under <name type="person">Ward</name>s arrangement — but it
+                    is strange he did not supply you before he heard <name type="person">Ward</name>
+                    was coming on —</p>
+            <p>Had you had supplies in due time ten thousand difficulties would have been
+                    avoided &amp; more than ten thousand benefits would have resulted to the
+                    service. I have never exerted myself more than I have done to get you supplied
+                    — I never felt more zeal about the success of <choice>
+                  <sic>a a</sic>
+                  <corr>a</corr>
+               </choice>
+                    campaign than about this — It is every thing to <name type="place">Tennessee</name>, &amp; surely every <name type="person">Tennessean</name>
+                    thinks so — I hope the Volunteers would not leave you for the world</p>
+            <closer>
+               <salute>yours Sincerely</salute>
+               <signed>
+                  <emph>
+                     <name type="person">Willie
+                                Blount</name>
+                  </emph>
+               </signed>
+               <add place="lower left corner">A true
+                        copy <lb/> Attest <lb/>
+                  <name type="person">E. Foster 3</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

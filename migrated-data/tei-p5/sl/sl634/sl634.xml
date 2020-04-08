@@ -1,0 +1,137 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl634">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Mar. 6, Washington [D.C., to] W[illia]m Trousdale / James H. Thomas : a machine readable transcription of an image</title>
+            <author> Thomas, James H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl634</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Mar. 6, Washington [D.C., to] W[illia]m Trousdale / James H. Thomas</title>
+               <author> Thomas, James H.</author>
+               <date when="1850-03-06"> 
+			 March 6, 1850</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from James H. Thomas to Governor William Trousdale, dated March 6, 1850. Trousdale is attempting to order Colt pistols for the Tennessee militia before the U.S. government's supply is gone.</note>
+               <note type="collection" anchored="true">Governor William Trousdale Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl634</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Militia</term>
+               <term>Military supplies</term>
+               <term>Colt revolver</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr00016063"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Thomas, James H. (James Houston), 1808-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl634a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Washington</name>
+                     <date>March 6 1850</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir.</salute>
+            </opener>
+            <p>Herewith I enclose you some of the most recent Testimonials, presented to the Military Committee of Congress in favor of Colts Repeating Pistols,</p>
+            <p>I enclose also the forms of requisition necessary to procure the quota of arms due the State of <name>Tennessee</name> under the law of 1808 making appropriations for arming the militia of the <name>United States</name>_</p>
+            <p>Believing that a supply of these pistols would be much desired &amp; Knowing that the quantity under the control of the Government is quite small, &amp; which may soon be exhausted by requisitions from other States. I have had prepared &amp; here enclose the necessary forms to obtain them.</p>
+            <p>If you concur with me is this opinion, please have these papers filled up &amp; returned to me &amp; I will at once place them before the Department.</p>
+            <p>I presume it will make no difference that you may have previously made requisition for the ordinary arms. if you should see proper to charge it   in whole or part for these pistols.</p>
+            <closer>
+               <salute>I have the honor to be very truly <lb/> your <choice>
+                     <abbr>obt sert</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>James H Thomas</name>
+               </signed>
+               <address>
+                  <addrLine>His <choice>
+                        <abbr>Ex.</abbr>
+                        <expan>Excellency</expan>
+                     </choice>
+                     <name>
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> Trousdale</name>
+                  </addrLine>
+                  <addrLine>Governor <choice>
+                        <abbr>&amp;c</abbr>
+                        <expan>etcetera</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

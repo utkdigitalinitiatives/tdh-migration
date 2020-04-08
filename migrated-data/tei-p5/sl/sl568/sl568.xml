@@ -1,0 +1,149 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl568">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Jan. 31, New Orleans, Louisiana [to] James Winchester, Mobile, Alabama / Andrew Jackson   : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl568</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Jan. 31, New Orleans, Louisiana [to] James Winchester, Mobile, Alabama / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1815-01-31">January 31, 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated January 31, 1815 from General Andrew Jackson in New Orleans, Louisiana to Major James Winchester in Mobile, Alabama.  Jackson is in New Orleans leading a victorious battle against the British in the War of 1812.  The subject of his letter is the dispatch of supplies and orders that were insufficiently carried out by Captain William Lauderdale.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl568</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Jackson, Andrew, 1767-1845.</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl568a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>New Orleans Head Quarters 7. M. District</addrLine>
+               </address>
+               <date>
+                  <unclear>Fri</unclear> 31 <choice>
+                     <abbr>Jan</abbr>
+                     <expan>January</expan>
+                  </choice>: 1815</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>The express has just reached us with your letter of the 15th &amp; 22d__ <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice>
+            </p>
+            <p>I lament exceedingly the situation of your supplies; I did hope that the precautions which had been used, would have prevented a scarcity at any point That I might not be disappointed, I had dispatched <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> William Lauderdale about the 15th October with ample powers to purchase, on the failure of the contractors, &amp; With strict injunctions to push on the supplies with the utmost dispatch to the different points ordered I received a letter from him on his arrival at H Strother, then heard nothing of him since.  Having had the fullest confidence in his activity &amp; zeal, I am greatly astonished, both at his silence, &amp; his failure to execute the business upon which he was sent  Be pleased to write him, share the situation of the supplies &amp; the causes which have so long delayed their arrival__</p>
+            <p>While we rejoice in the happy result which has attended our <choice>
+                  <orig>armes</orig>
+                  <reg>arms</reg>
+               </choice> &amp; offer up sincere thanksgiving for the remarkable <unclear>interposition</unclear> of Heaven on our behalf, it is <unclear>impossible</unclear> not to lament that <unclear>the new provisions</unclear>
+               <pb n="2" facs="sl568b.small.jpg"/> of government, &amp; the dilatory movements of its agents should have prevented <del>that</del>
+               <add>our</add> success from being complete.  Had the arms destined for the use of this army reached it in time, I have very little doubt that the whole force of our invaders might &amp; would have been captured or destroyed </p>
+            <p>Whether the enemy will sail direct for <name>Bermuda</name>, or in a fit of madness, attempt <unclear>something</unclear> farther before he leaves our Coast is not easy to be determined.  I am satisfied however that he is too much <choice>
+                  <orig>cripled</orig>
+                  <reg>crippled</reg>
+               </choice> to mediate any thing serious. Perhaps nichols &amp; Woodbine may again visit the <choice>
+                  <orig>Apalachala</orig>
+                  <reg>Appalachia</reg>
+               </choice>, &amp; endeavour to stir up the Indians; but I believe their machinations will be counteracted by the representation of Frances &amp; McQueen ( should they get back) who were witnesses of the defeat of their army here.</p>
+            <p>I cannot bring myself to think the enemy will make any <del>other</del> attempt on H Bowger in returning; yet you will not relax in your former vigilance &amp; <choice>
+                  <orig>exections</orig>
+                  <reg>executions</reg>
+               </choice>
+            </p>
+            <closer>
+               <unclear>I have</unclear> the honor to be very respectfully <choice>
+                  <abbr>V. Ob. St</abbr>
+                  <expan>Very Obedient Servant</expan>
+               </choice>. <signed>Andrew Jackson</signed> major <choice>
+                  <abbr>genl comdg</abbr>
+                  <expan>general commanding</expan>
+               </choice>
+               <add>
+                  <choice>
+                     <abbr>P.S</abbr>
+                     <expan>Post Script</expan>
+                  </choice>. Our prisoners who had been confined in the fleet have just returned, &amp; state that the enemy is <unclear>hardy engaged</unclear>
+                  <gap agent="damage"/>  in building flat bottom boats.  His object may be to <add>move</add> pass <add>through</add> Heron, <del>or</del> renew his attempts upon this city. <choice>
+                     <abbr>J A</abbr>
+                     <expan>Jackson Andrew</expan>
+                  </choice>
+                  <unclear>
+                     <choice>
+                        <abbr>Brig</abbr>
+                        <expan>Brigadier</expan>
+                     </choice>
+                  </unclear>
+                  <choice>
+                     <abbr>genl</abbr>
+                     <expan>general</expan>
+                  </choice> winchester <name>mobile</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

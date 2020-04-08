@@ -1,0 +1,132 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl390">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Jun. 20 [to] William Fitzgerald / E.A. Fitzgerald   : a machine readable transcription of an image</title>
+            <author>Fitzgerald, E.A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl390</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title/>
+               <author>Fitzgerald, E.A.</author>
+               <date when="1850-06-20">June 20, 1850</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 20, 1850 from E.A. Fitzgerald to her husband William Fitzgerald.  She tells her husband that the fields and gardens are growing very well, and that some people have already begun to harvest.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl390</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fitzgerald, E.A.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl390a.small.jpg"/>
+            <opener>
+               <date>Friday Morning, June 20th 1850</date>
+               <salute>My Dear Husband</salute>
+            </opener>
+            <p>I suppose as you have not come by this time you will not get home till after <name>Troy Court</name>.  so will  fulfill my promise to let you hear from us, I am thankful and glad to tell you that I am much improved.  am getting about with convenience and some spirit seeing to things in general, we have had a fine rain <choice>
+                  <orig>sine</orig>
+                  <reg>since</reg>
+               </choice> you left enough to stop the ploughs for a day, it was a timely blessing as all blessings are the fields and gardens are growing finely.  </p>
+            <p>They have finished the new ground and are in the first piece again, I hope they will get over in time for harvest which will be early next week.  some are are harvesting now, <name>pleasat</name> says ours is not ripe enough.</p>
+            <p>
+               <name>Richard</name> and <name>Luitman</name> are very well, and having a fine time gathering cherries, Laura is looking almost as well as ever, <abbr>Mr </abbr>Greer has <add>not</add> left yet, <choice>
+                  <abbr>alls</abbr>
+                  <expan>all is</expan>
+               </choice> well at <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> williams and Greer's.</p>
+            <p>I have not been from home since you left and have not heard any news that would interest you, give my love to brother and <choice>
+                  <abbr>Sis</abbr>
+                  <expan>Sister</expan>
+               </choice>
+               <name>Giney</name>. let me hear from <add>you</add> at <name>Troy</name>, I hope you are well and may have a <choice>
+                  <orig>pleastant</orig>
+                  <reg>pleasant</reg>
+               </choice> time there</p>
+            <closer>God bless you, your wife <signed>E.A. Fitzgerald</signed>
+               <pb n="2" facs="sl390b.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Hnl</abbr>
+                           <expan>Honorable</expan>
+                        </choice>
+                        <name>William Fitzgerald</name> Troy Tennessee</addrLine>
+                  </address>
+                  <figure>
+                     <figDesc>
+                        <choice>
+                           <sic>s</sic>
+                           <orig>s</orig>
+                        </choice>
+                        <choice>
+                           <abbr>JUN</abbr>
+                           <expan>June</expan>
+                        </choice> 23 <choice>
+                           <abbr>TEN</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>.</figDesc>
+                  </figure>U.S. Postage Three Cents</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

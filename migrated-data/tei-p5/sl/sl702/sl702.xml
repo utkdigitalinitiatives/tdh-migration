@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl702">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1805 Dec. 17, Knoxville, Tennessee [to] Major Lovely, Cherokee Nation / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl702</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1805 Dec. 17, Knoxville, Tennessee [to] Major Lovely, Cherokee Nation / John Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1805-12-17">December 17, 1805</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 17, 1805 from governor John Sevier of Tennessee to Major Lovely of the Cherokee nation.  The subject of the letter involves counterfeit money that is being passed by individuals named in the letter.  The bills were first passed in Blount County, Tennessee, and the governor tells Major Lovely that he has reason to believe the men are on their way to the Cherokee Nation.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl702</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>Tennessee -- History</term>
+               <term>Cherokee Nation</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl702a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <date>December 17th 1805</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have reasons to believe that <name>Allen Twitty</name>, <name>Abraham Collins</name>, <name>James Rutherford</name> and __ Read have gone into the <name>Cherokee Nation</name> with a considerable number of <choice>
+                  <orig>Counterfitt</orig>
+                  <reg>Counterfeit</reg>
+               </choice> bank notes, with an intention of passing them to persons resident in the nation__ and also have reasons to believe that they passed some of their notes, which were <choice>
+                  <orig>counterfits</orig>
+                  <reg>counterfeits</reg>
+               </choice> to Citizens of <name>Blount County</name>     as they were on their way to the nation__ If it should be in your power I think it will be well to have them apprehended and sent to this place in order that their conduct may be inquired into by the authority of the <name>United States</name>__ It is reported that Twitty and Collins have escaped from North Carolina, and <del>as</del> is thought <pb n="2" facs="sl702b.small.jpg"/> that Rutherford and Read are connected with them in making and passing their notes__ If it should be in your power to have any of them apprehended while the Bearer <name>Mr. James Edinton</name> is in the nation, he will assist in conducting them to this place.</p>
+            <closer>
+               <add>I have the honor <lb/> signed </add>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <lb/>
+               <add>(Copy) Letter to Major <name>William L Lovely</name>
+                  <name>Cherokee Nation</name> 17 <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice>. 1805</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

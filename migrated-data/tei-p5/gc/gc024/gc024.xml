@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gco24">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Aug. 20 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore,  Clinton, North Carolina: a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc024</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Aug. 20 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore,  Clinton, North Carolina</title>
+               <author>Moore, Thomas O.</author>
+               <date when="1833-08-20">August 20, 1833</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">A letter dated August 20, 1833 from Thomas O. Moore to his cousin James Moore King.  He wrote to inform  of the death of his brother, and plans to settle matters of the estate.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1833</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">gco24</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Death</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc024a.small.jpg"/>
+            <opener>
+               <add place="top left of envelope">
+                  <name type="place">Clinton <choice>
+                        <abbr>NC</abbr>
+                        <expan>North Carolina</expan>
+                     </choice>
+                  </name>
+                  <choice>
+                     <abbr>Augt</abbr>
+                     <expan>August</expan>
+                  </choice>—20t</add> From <name type="person">
+                  <choice>
+                     <abbr>T.O</abbr>
+                     <expan>Thomas O.</expan>
+                  </choice>. Moore</name> 1833 <add place="top right of envelope">22</add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Capt</abbr>
+                        <expan>Captain</expan>
+                     </choice>
+                     <name type="person">James M King</name>
+                     <name type="place">Murfreesboro</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left center of envelope">Tells of the death of his brother <name type="person"> John Moore</name>
+               </add>
+               <add place="bottom left of envelope">Mail</add>
+               <pb n="2" facs="gc024b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Clinton</name>
+                  </addrLine>
+               </address>
+               <date when="1833-08-20">
+                  <choice>
+                     <abbr>Augt</abbr>
+                     <expan>August</expan>
+                  </choice> 20th 1833</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> It is with feelings of the deepest regret that I have to announce to you &amp; our relatives the intelligence of the death of my beloved brother John who departed this life on the 22nd July after a severe illness of twenty four days under the immediate attention of two of our most <choice>
+                  <orig>emminent</orig>
+                  <reg>eminent</reg>
+               </choice> physicians, poor brother he has been taken off in the prime of life when we little expected it he was perfectly calm &amp; resigned to his fate, his <del type="overstrike"/> sister who was with him during the whole of his indisposition writes me that he was fearless of death to the last, his prospects were fair as could be wished to lay the foundation of an ample fortune in a very few years to a handsome support, and was esteemed &amp; loved by all who knew him, he has paid the debt we have all to pay and it might have <choice>
+                  <orig>occured</orig>
+                  <reg>occurred</reg>
+               </choice> elsewhere as well as where it did</p>
+            <p>I hope to leave here about the 1st <choice>
+                  <abbr>Sept.r</abbr>
+                  <expan>September</expan>
+               </choice> as my  purchases are nearly made but cant say whether  <pb n="3" facs="gc024c.small.jpg"/> I shall pass through <choice>
+                  <abbr/>
+                  <expan>Tennessee</expan>
+               </choice> or not though will write you on the eve of my departure to let you know.   tell brother W from brother Johns letter he owes him yet fourteen dollars which I will send in a day or two if I should not pass through <choice>
+                  <abbr/>
+                  <expan>Tennessee</expan>
+               </choice>, the family are all well except mother &amp; some of the <choice>
+                  <orig>negroes</orig>
+                  <reg>Negroes</reg>
+               </choice> though the county is generally sickly all desire to be remembered to you all</p>
+            <closer>Your <choice>
+                  <abbr>aff.tt</abbr>
+                  <expan>affectionate</expan>
+               </choice> Cousin <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Tho.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> O. Moore</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

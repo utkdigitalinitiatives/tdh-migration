@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl597">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 May 20, Murfreesboro, Tennessee [to] Aaron Brown, Nashville, Tennessee / William Lytle   : a machine readable transcription of an image</title>
+            <author>Lytle, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl597</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 May 20, Murfreesboro, Tennessee [to] Aaron Brown, Nashville, Tennessee / William Lytle</title>
+               <author>Lytle, William</author>
+               <date when="1846-05-20">May 20, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated May 20, 1846 from William Lytle in Murfreesboro, Tennessee to the Governor of Tennessee, Aaron V. Brown.  In this short letter, Payth tells the governor that in light of the war with Mexico, members of a disbanded company of soldiers he once commanded were determined to reorganize and answer their call to duty.</note>
+               <note type="collection" anchored="true">Governor Aaron V. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl597</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Brown, Aaron V. (Aaron Venable), 1795-1859</term>
+               <term>Tennessee -- History</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98080955"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lytle, William Haines, 1826-1863</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl597a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Murfreesboro</addrLine>
+               </address>
+               <date>May 20th <choice>
+                     <abbr>/46</abbr>
+                     <expan>1846</expan>
+                  </choice>
+               </date>
+               <salute>To his Excellency <name>
+                     <choice>
+                        <abbr>A.V</abbr>
+                        <expan>Aaron Venable</expan>
+                     </choice>. Brown</name>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice>. of State of <name>Tennessee</name>
+               </salute>
+            </opener>
+            <p>Sir the Company I had the honor of commanding in 1844; was disbanded in <date>March 1845</date> but since the war with <name>Mexico</name> they have determined to organize again and to be ready when there is a call which we are daily expecting, said <choice>
+                  <abbr>Comp</abbr>
+                  <expan>Company</expan>
+               </choice>, was Called The <name>Murfreesboro Guard</name>, and every exertion shall be and by me to get said Company ready in a few days__</p>
+            <closer>Our obedient <choice>
+                  <abbr>Serv</abbr>
+                  <expan>Servant</expan>
+               </choice>,, <signed>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice>. Lytle</signed>
+               <pb n="2" facs="sl597b.small.jpg"/>
+               <address>
+                  <addrLine>Gov. A.V. Brown Nashville <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>
+                  <unclear>Murfreesboro Guards Lytle__</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

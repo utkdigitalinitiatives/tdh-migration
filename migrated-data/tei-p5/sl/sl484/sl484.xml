@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl484">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1813 Jul. 1, Beauport [to] George Prevost / James Winchester   : a machine readable transcription of an image</title>
+            <author>Winchester, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl484</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1813 Jul. 1, Beauport [to] George Prevost / James Winchester</title>
+               <author>Winchester, James</author>
+               <date when="1813-07-01">July 1, 1813</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated July 1, 1813 from James Winchester to General George Prevost.  Winchester explains in the letter that he is writing on behalf of a Major in the Quarter Master's Department of the United States army.  He encloses a letter, whose writer is  asking for parole to return to the United States.   </note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl484</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>United States -- History -- War of 1812</term>
+               <term>Prisoner of war -- United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96115844"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Winchester, James, 1752-1826</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl484a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Beauport</addrLine>
+               </address>
+               <date>July 1st 1813</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>The enclosed letter from Major Van de Venter, of the Quarter's Masters Department <name>United States</name> Army, <del>with the certificate of General Chandler annexed</del> will explain to your Excellency the motives which induced the writers to ask for a parole to return to the United States.  I shall be very much gratified if he can be accommodated in this case; where not only his own private interest, but that of his friends are jeopardized.  Major Van de Venter is a gentleman of honorable reputation and I am satisfied any <add>reasonable</add> injunctions which may be prescribed to him in his parole, if granted, will be faithfully observed and kept on his part.</p>
+            <p>I had the honor to receive in due time your Excellency's note of the 3d ultimo in which you are pleased to inform me that the correspondence between yourself and General Dearborn, upon the subject of an exchange of prisoners of war, were then before the <name>American</name> government, <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice>.  I hope, ere this time, it has terminated satisfactorily to both parties, and that prisoners of war will soon experience the benefit thereof.  But, should it be otherwise, I again take leave to solicit your attention to the situation of <choice>
+                  <abbr>Lieut</abbr>
+                  <expan>Lieutenant</expan>
+               </choice>.  <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>. Lewis, Major Madison, and two or three other militia officers, prisoners of war.  This class of military men, I mean militia, in all nations, I believe, receive more indulgence than regular troops, from the consideration of their coming into service under the existing laws of their country, and in the United <pb n="2" facs="sl484b.small.jpg"/> States always for a limited time, of short duration.  Under these circumstances, not making a profession of arms; the arrangement of their private concerns are made for a short time, of course, will suffer materially by their long absence.  Independent of their pledge of honor, they have no earthly motive to induce them to perform military service until regularly exchanged; in fact if they were so exchanged at this time it would not, in all probability, come to their turn to serve again in the militia in two, and perhaps not in three years.  Thus situated, I persuade myself, your Excellency will have no objections to granting parole to the militia officers, at least, to return to their homes within the United States.</p>
+            <closer>I have the honor to be, with sentiments of high respect, your Excellencys Obedient Servant, <signed>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>James</expan>
+                  </choice> Winchester</signed>
+               <choice>
+                  <abbr>BGenl</abbr>
+                  <expan>Brigadire General</expan>
+               </choice> us army <add>His Excellency <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice>. Sir <name>George Prevost</name>, <name>Kingston</name>
+               </add>
+               <pb n="3" facs="sl484c.small.jpg"/>
+               <add>Copy of a letter To Sir George Prevost <date>July 1st 1813</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

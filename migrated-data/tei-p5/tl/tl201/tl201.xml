@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl201">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Feb. 23 [to] Sam Houston, Nashville, Tennessee / J. Hamilton : a machine readable transcription of an image</title>
+            <author>Hamilton, J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl201</idno>
+            <idno>OCLC: 49916100</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Feb. 23 [to] Sam Houston, Nashville, Tennessee / J. Hamilton</title>
+               <author>Hamilton, J.</author>
+               <date when="1828-02-23">February 23, 1828</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a recommendation by J. C. Hamilton for G. W. Terrell to receive the job of Attorney General under Governor Sam Houston.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true">Aiken - Humphreys, b1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">tl201</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Terrell, G. W.</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Houston, Sam 1793-1863</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Hamilton, J. C.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl201a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Paris <date when="1828-02-23">February 23rd 1828</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Sir—</salute>
+            </opener>
+            <p>I fear your patience will be exhausted with the number of applications for the office of attorney general for this District. But the situation of the gentlemen who is the subject of this letter is <emph>peculiarly interesting</emph> God never made a more high minded honorable man, he has fine talents, I granted him a law <choice>
+                  <orig>licence,</orig>
+                  <reg>license</reg>
+               </choice> he underwent a most excellent examination, he has not long since married a very amiable girl both very poor, &amp; the first fruits of their love is a fine son whom they call <name type="person">Sam Houston</name>. Now you know this son must be raised &amp; educated— <name type="person">Major Terrell</name> has talents sufficient to discharge the duties of the office with great propriety</p>
+            <closer>
+               <salute>Yours with respect</salute>
+            </closer>
+            <closer>
+               <signed>
+                  <name type="person">J. C. Hamilton</name>
+               </signed>
+            </closer>
+            <pb n="2" facs="tl201b.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Hon Saml</abbr>
+                           <expan>Honorable Samuel</expan>
+                        </choice>H<choice>
+                           <orig>Huston</orig>
+                           <reg>Houston</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>Execution Office</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">J. C. Hamilton for G. W. Terrell</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

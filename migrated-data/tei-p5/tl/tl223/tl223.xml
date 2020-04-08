@@ -1,0 +1,94 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl223">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Map of Places refered [i.e., referred] to in "JOHN SEVIER, the commonwealth builder" / Ramsey's Annals of Tennessee : a machine readable transcription of an image</title>
+            <author>Ramsey's Annals of Tennessee</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl223</idno>
+            <idno>OCLC: 49968488</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Map of Places refered [i.e., referred]  to in "JOHN SEVIER, the commonwealth builder" / Ramsey's Annals of Tennessee</title>
+               <author>Ramsey's Annals of Tennessee</author>
+               <date when="1800">ca. 1800</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a map, circa 1800, of places referred to by John Sevier in East Tennessee, North Carolina, Kentucky, and Georgia.</note>
+               <note type="collection" anchored="true">Map # 73</note>
+               <note type="box" anchored="true">stack 8</note>
+               <note type="folder" anchored="true">Tennessee State Library, Miscellaneous documents</note>
+               <note type="document" anchored="true">tl223</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>maps</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Tennessee History</term>
+               <term>Tennessee</term>
+               <term>North Carolina</term>
+               <term>Kentucky</term>
+               <term>Georgia</term>
+               <term>
+                  <name role="Cartographer http://id.loc.gov/vocabulary/relators/ctg">Ramsey's Annals of Tennessee</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl223a.small.jpg"/>
+            <head>Map of Places <choice>
+                  <orig>refered</orig>
+                  <reg>referred</reg>
+               </choice> to in "<name type="person">JOHN SEVIER</name>, the commonwealth builder." From Ramsey's Annals of <name type="place">Tennessee</name>.</head>
+            <p>
+               <figure>
+                  <figDesc>Image of a map circa 1800, which includes parts of Tennessee, Kentucky, North Carolina, and Georgia.</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

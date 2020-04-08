@@ -1,0 +1,184 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl559">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1808 Oct. 11, Baltimore [Maryland, to] James Winchester, Cragfont, Tennessee / David Armour   : a machine readable transcription of an image</title>
+            <author>Armour, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl559</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1808 Oct. 11, Baltimore [Maryland, to] James Winchester, Cragfont, Tennessee / David Armour</title>
+               <author>Armour, David</author>
+               <date when="1808-10-11">October 11, 1808</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from David Armour to General James Winchester, dated October 11, 1808. Armour despairs for for the political integrity and future of the country. He fears that America's  prosperity has led to an overabundance of ambition and harshness that will undermine the country's spirit of virtue and freedom. Armour mentions English policy towards America.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl559</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States</term>
+               <term>Winchester, James, 1752-1826</term>
+               <term>Politics</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Armour, David</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl559a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Baltimore</name>
+                     <date>
+                        <choice>
+                           <abbr>Octr</abbr>
+                           <expan>October</expan>
+                        </choice> 11th 1808</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>General James Winchester</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I sent you some time ago a Statement of the money paid me, for my <choice>
+                  <orig>Clame</orig>
+                  <reg>Claim</reg>
+               </choice> against <name>Foster</name>, which you was so good as to collect for me and will thank you to Inform me if you are <choice>
+                  <orig>satisfyed</orig>
+                  <reg>satisfied</reg>
+               </choice> that I am Correct,</p>
+            <p>As you very truly observe, our political hemisphere lowers indeed, and tempest Clouds and darkness Seems to hang over us, and I am very <choice>
+                  <orig>fearfull</orig>
+                  <reg>fearful</reg>
+               </choice> that it will be some time before the Sun of our prosperity will again be able to dissipate them, Those whom I think to be the truest friends of the country have a host of <choice>
+                  <orig>Evels</orig>
+                  <reg>Evils</reg>
+               </choice> to encounter, it is not alone, the tyrannical measures of her <choice>
+                  <orig>enemys</orig>
+                  <reg>enemies</reg>
+               </choice> abroad which they have to War against, but they have to fight at home (as a venerable Senator of <name>Vermont</name> says) <del type="overstrike">
+                  <unclear>with</unclear>
+               </del> against every thing but <choice>
+                  <orig>Trouth</orig>
+                  <reg>Truth</reg>
+               </choice> &amp; Justice could any good man who loves his Country, have supposed that <name>America</name> could have produced Such men, as we see <choice>
+                  <orig>Inlisted</orig>
+                  <reg>Enlisted</reg>
+               </choice> against their Countries peace prosperity &amp; Independence alas Sir, is the patriotism of their Fathers <choice>
+                  <orig>buryed</orig>
+                  <reg>buried</reg>
+               </choice> with them in the Silent Grave and nothing <choice>
+                  <orig>permited</orig>
+                  <reg>permitted</reg>
+               </choice> but the rank weeds of Ambition and <choice>
+                  <orig>revange</orig>
+                  <reg>revenge</reg>
+               </choice> to Spring up in its place, it almost appears so to me, I fear our past prosperity has destroyed our National virtue and the enemys of our liberty wants to convince us that all Nations <choice>
+                  <orig>most</orig>
+                  <reg>must</reg>
+               </choice> be ruled with a rod of Iron, I do however yet trust, that they shall be disappointed, it is not the honest Federalist that I am afraid of, it is the ambitious and designing traitors who ranks themselves among that class of men <pb n="2" facs="sl559b.small.jpg"/> and <choice>
+                  <orig>deceves</orig>
+                  <reg>deceives</reg>
+               </choice> the <choice>
+                  <orig>unenformed</orig>
+                  <reg>uninformed</reg>
+               </choice> , our Election is Just over for Congress and assembly, I Enclose you the returns from this mornings paper, the great object of the Federalists was to turn out <name>General S. Smeth</name> from the senate of the <choice>
+                  <abbr>U.</abbr>
+                  <expan>United</expan>
+               </choice>
+               <gap/>
+               <unclear>States</unclear> but the Election is by a Joint Ballot of both houses therefore they cannot Suceed as the Senate of this State are all republican if it Should however turn  out, that they have as Small majority they may probably refuse to go into an Election they cannot however put one into his place that is a federal, but it is thought if they Should have a majority of two or So, that there is one or two of their men so very moderate, that <del type="overstrike">that</del> they would refuse to turn out so <choice>
+                  <orig>usefull</orig>
+                  <reg>useful</reg>
+               </choice> a member of the Senate, or let our State want a member in that body, in case there should be a Call of the Senate before there next <choice>
+                  <orig>anual</orig>
+                  <reg>annual</reg>
+               </choice> meeting____ There is no foreign news at present but what the news papers will give you the St. Michales has arrived but it is thought she brings nothing <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice>
+               <name>England</name> Calculates largely on the division amongst ourselves, she is truly taking the French policy Divide &amp; Conquer</p>
+            <p>Your friends here are all well, the Scotch <choice>
+                  <orig>Intrest</orig>
+                  <reg>Interest</reg>
+               </choice> is gaining ground in father Williams Family, Becky is going to bestow her hand to a man from that Country, and if you will allow me to be Impartial in Such a Call I must say that I think she has made a very good choice he is an Imparting Merchant of every Considerable respectability and much Esteemed by all who know him___</p>
+            <closer>
+               <salute>I am <lb/> Sir With Great respect <lb/> your <choice>
+                     <abbr>Huml Sert</abbr>
+                     <expan>Humble Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>David Armour</name>
+               </signed>
+               <pb n="3" facs="sl559c.small.jpg"/>
+               <address>
+                  <addrLine>General <name>James Winchester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Cragfont</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>David Armour <lb/> 11th <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice> 1808</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

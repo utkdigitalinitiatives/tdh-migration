@@ -1,0 +1,96 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Certificate to study law] 1830 Oct. [for] William R. Caswell /  [signed by] Henry Ewing : a machine readable transcription of an image</title>
+            <author>Ewing, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc029</idno>
+            <idno>OCLC: 50473374</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Certificate to study law] 1830 Oct. [for] William R. Caswell /  [signed by] Henry Ewing</title>
+               <author>Ewing, Henry</author>
+               <date when="1830-08">August 1830</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a certificate dated August 1830, allowing William Richard Caswell to take necessary steps to obtain a license to practice law in the state of Tennessee.  </note>
+               <note type="collection" anchored="true">William R. Caswell Papers</note>
+               <note type="box" anchored="true">MS-18, b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">mc029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Practice of Law</term>
+               <term>Caswell, William Richard, 1809-1862</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr92027473"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Ewing, Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc029a.small.jpg"/>
+            <head>State of <name type="place">Tennessee</name>
+            </head>
+            <p>
+               <name type="place">Davidson County</name> Court October Sessions 1830</p>
+            <p>On motion of <name type="person">Ephrain H. Foster</name> esquire and it appearing to the satisfaction of the court here that <name type="person">William R. Caswell</name> a resident of this county is a man of good moral character and that he has attained the age of twenty one years. It is therefore ordered that said facts be certified as a preparatory step to his obtaining License to practice law in this state</p>
+            <p>
+               <choice>
+                  <abbr>Test</abbr>
+                  <expan>Testimony</expan>
+               </choice>
+               <name type="person">Henry Ewing</name> Clerk of said Court</p>
+            <pb n="2" facs="mc029b.small.jpg"/>
+            <closer>William R. Caswell</closer>
+            <closer>Certificate</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

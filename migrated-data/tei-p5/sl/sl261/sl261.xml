@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl261">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Feb. 1 [to] George W. House, Nashville, Tennessee / Mary House   : a machine readable transcription of an image</title>
+            <author>House, Mary</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl261</idno>
+            <idno>OCLC: 51217939</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1846 Feb. 1 [to] George W. House, Nashville, Tennessee / Mary House</title>
+               <author>House, Mary</author>
+               <date when="1846-02-01">February 1, 1846</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Mary House to her husband George. It is dated February 1, 1846. Mary is aboard the steamboat Old Hickory in the Cumberland River. She writes about the trip so far. She mentions visiting an iron works, and that Mr Yerger has been organizing some entertainment. She writes that Susan and Sally are having a good time, and that Sally is the favorite.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl261</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Description and travel</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, Mary</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl261a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>S B</abbr>
+                        <expan>Steam Boat</expan>
+                     </choice> Old Hickory, <date when="1846-02-01">February 1st 1846</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Husband</salute>
+            </opener>
+            <p>Sunday morning half past 11 oclock finds us still in the <name type="place">Cumberland River</name> — We are now taking in freight at <name type="place">Edyville</name>, we landed here at daylight this morning and will remain here <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice>
+               <unclear>dark</unclear> , we do not expect to leave this <choice>
+                  <orig>rever</orig>
+                  <reg>river</reg>
+               </choice> untill monday evening, if so, we will not reach <name type="place">Vicksburg</name> before Friday — The Packet arrived this morning from <name type="place">Nashville</name> with <unclear>Passengers</unclear> for this Boat, if I had known this sooner I could have remained in Nashville untill Saturday, and still have <choice>
+                  <orig>gon</orig>
+                  <reg>gone</reg>
+               </choice> on the Hickory — We had some difficulty in passing the shoals — we reached <name type="place">Clarksville</name> Friday morning a 6 oclock and <unclear>
+                  <choice>
+                     <orig>staid</orig>
+                     <reg>stayed</reg>
+                  </choice>
+               </unclear> untill 4 pm we were a ground about an hour — we have not traveled any at night yet — We left Nashville with about 90 <choice>
+                  <orig>pasengers</orig>
+                  <reg>passengers</reg>
+               </choice> , and our number has been increasing all the way, we have 25 or 30 <del type="overstrike">laddies</del> ladies, but I do not pretend to count the children Sally is the smallest except one, and is the favorite with all; particularly the Gentlemen and boys — Our company is a <unclear>
+                  <choice>
+                     <orig>mery</orig>
+                     <reg>merry</reg>
+                  </choice>
+               </unclear> one —  <name type="person">Mr Yerger</name> is the life of all — he got up <pb n="2" facs="sl261b.small.jpg"/> a dance last night, and several plays — The Boat stopped at Stackers Iron Works yesterday we went on shore to see them making Iron It is quite a curiosity to witness it — Susan is well and enjoying her self very much — Sally is well — and makes her self entirely at home The first night we staid on board — (about the time you got home) she called out — several times; Gorge; Gorge; and then said Gorge gone; she talks about her Grand ma, and lines "Baby", — I may write again from <name type="place">Memphis</name> but probably not untill I get to <name type="place">Clinton</name> — Remember me to <unclear>Mrs E</unclear> Mrs P and the girls, tell martha; and Irene; that the girls did not come on <choice>
+                  <orig>bord</orig>
+                  <reg>board</reg>
+               </choice> — <name type="person">Jane Wilkins </name>was in the country, and did not get Mr Yerger's letter Give my love to Ma, and the boys — Susan sends her love to all —</p>
+            <closer>
+               <salute>Your affectionate wife</salute>
+               <signed>
+                  <name type="person">Mary House</name>
+               </signed>
+               <pb n="3" facs="sl261c.small.jpg"/>
+               <add place="top of page">No 1 and</add>
+               <address>
+                  <addrLine>Mr <name type="person">George W House</name>
+                  </addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Apr. 29, Washington, to Colo[nel] Thomas McKenney / Jno. [i.e., John] Ross ... [et al.]: a machine-readable transcription</title>
+            <author>Ross, John, 1790-1866</author>
+            <author>Hicks, Elijah</author>
+            <author>Lowrey, George</author>
+            <author>Ridge, Major, ca. 1771-1839</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch019</idno>
+            <idno>OCLC: 44770712</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 Apr. 29, Washington, to Colo[nel] Thomas McKenney / Jno. [i.e., John] Ross ... [et al.]</title>
+               <author>Ross, John, 1790-1866</author>
+               <author>Hicks, Elijah</author>
+               <author>Lowrey, George</author>
+               <author>Ridge, Major, ca. 1771-1839</author>
+               <date when="1824-04-29">April 29, 1824</date>
+               <extent>12p</extent>
+               <note type="summary" anchored="true">This document is a letter from a delegation of Cherokee leaders, including John Ross, Elijah Hicks, George Lowrey, and Major Ridge, to Colonel Thomas L. McKenney, of the Department of War, dated April 29, 1824.  The delegation communicates a number of issues to McKenney from Principal Chiefs Charles R. Hicks and Path Killer.  The bulk of the letter relates to the misconduct and abusive behavior of Joseph McMinn, U.S. agent to the Cherokees, and former Governor of Tennessee (1815-1821).  In particular, McMinn had allowed unauthorized whites to settle in the Cherokee Nation, in violation of numerous treaties, and refused to prosecute them when they committed depredations within the Nation.  They also discuss payment for improvements and claims under the treaties of 1817 and 1819, and the boundary line along the Unicoi Turnpike.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true"> 1</note>
+               <note type="folder" anchored="true"> 23</note>
+               <note type="document" anchored="true">ch019</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>McMinn, Joseph, 1758-1824</term>
+               <term>Cherokee Nation</term>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Cherokee Indians--Claims</term>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Boundaries</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="https://id.loc.gov/authorities/names/n85180705"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ridge, Major, approximately 1771-1839</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Lowrey, George</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2007000024"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Hicks, Elijah, 1797-1856</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n82214557"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ross, John, 1790-1866</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch019a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Washington City</name>
+                        <name type="place">Tennison's Hotel</name>
+                     </addrLine>
+                  </address>
+                  <date when="1824-04-29">April 29th. 1824</date>
+               </dateline>
+               <lb/>
+               <address>
+                  <addrLine>To <name type="person">
+                        <choice>
+                           <abbr>Colo. Thos.</abbr>
+                           <expan>Colonel Thomas</expan>
+                        </choice> L. McKenney</name>
+                  </addrLine>
+                  <addrLine>War <choice>
+                        <abbr>Deptmt Indn</abbr>
+                        <expan>Department Indian</expan>
+                     </choice> Office</addrLine>
+               </address>
+               <salute>Friend  Brother</salute>
+            </opener>
+            <p>Your Letter of the 7th <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> containing the reply which the <choice>
+                  <abbr>Honble Secry</abbr>
+                  <expan>Honorable Secretary</expan>
+               </choice> of War directed you to make, to the one which we had the honor of laying before him on the <date when="1824-02-25">25th of February last</date>, has been attentively read  deliberated  And we beg leave to state, that however insufficient the reasons which have been given in relation to the want of confidence in the agent by our nation may be viewed by the  Government, to remove him by transfer or otherwise from the office by which they are represented, we have the satisfaction to know that we have discharged our <add place="supralinear">duty</add> agreeably to our<pb n="2" facs="ch019b.small.jpg"/>instructions in what we have communicated on the subject, you inform us that the Secretary of War directs you to say, that if we will furnish a statement <choice>
+                  <orig>accompanyed</orig>
+                  <reg>accompanied</reg>
+               </choice> by our own proofs, setting forth in it, who those whitemen were, who we stated, <name type="person">Governor McMinn</name> had refused to prosecute or do any thing with when brought before him for having transgressed the intercourse law by going into the nation and committing robbery <add place="supralinear">on the property</add> of the <name type="person">Cherokees</name> and what was the nature <del type="overstrike">of</del> and extent of their trespass, the subject in regard to the conduct of the Agent, will be duly examined, and such a decision made upon it as truth and justice may require.
+               </p>
+            <p>The following extract from the letter of instruction given us by <name type="person">Path Killer</name> and <name type="person">Charles R. Hicks</name> the two principle chiefs of our Nation contains the information at present in our power to submit in relation to the charges, but no <add place="supralinear">doubt</add> the facts can be substantially established  To wit<q>We had anticipated a belief that the agent would have pursued the same course as his predecessor in cases of thefts  <choice>
+                     <orig>robberys</orig>
+                     <reg>robberies</reg>
+                  </choice> which may be committed on our people by citizens of the surrounding <pb n="3" facs="ch019c.small.jpg"/>States, in this belief however, we find we were disappointed, as in the case of <name type="person">Cooweeskoowee</name> who has been robbed of his money, for when the person charged with <choice>
+                     <sic>the the</sic>
+                     <corr>the</corr>
+                  </choice> theft (<name type="person">Daniel Rash</name>) was brought before the agent by our Light Horse and under the proofs addressed, it appeared that one other man <del type="overstrike">named</del> by the name of <name type="person">Thorn</name> was a party concerned in the theft, he would do nothing in the subject and another instance in the case of the robbery of <name type="person">Five Killer</name> of his negros, by <name type="person">McCormick</name> such are the proceedings of the Present Agent, that we are confident the Government  will never countenance such acts of her agents, for they are not calculated to inspire a confidence in an agent, but rather produce a distrust of his integrity to do justice to an injured party
+                  </q>
+            </p>
+            <p>
+               <name type="person">McCormick</name> is the man who we intimated in our letter of the 25th <choice>
+                  <abbr>Ulto</abbr>
+                  <expan>Ultimo</expan>
+               </choice> we were informed instructions has been given by the Department of War to the Agent to institute suit against, but as to the truth of the information,<pb n="4" facs="ch019d.small.jpg"/>we are not apprised <add place="top">"</add>. In order that <del type="overstrike">
+                  <unclear/>
+               </del> any misunderstanding between the Nation and the Agent, as to the state of the fact, on the subject of the site for the agency be removed, we would <add place="left"/> be happy to be furnished with copies of <name type="person">
+                  <choice>
+                     <abbr>Govr</abbr>
+                     <expan>Governor</expan>
+                  </choice> McMinn</name>'s communications to the Department on the subject, so that our principal chiefs and himself may discover where the error lies, and that they may endeavor to understand each other better, hereafter And so far as the 10th Article of the Treaty of <date when="1798">1798</date> stipulates that <q>The <name>Cherokee Nation</name> agree, that the <hi>Agent</hi> who may be appointed to reside among them from time to time, shall have <add place="supralinear">a</add> sufficient piece of ground allotted for <hi>his</hi> temporary use.</q>  We assure you the nation is ever ready to comply with and should it be thought necessary, and it be the desire of the Agent , that the piece of ground deemed sufficient for <hi>his</hi> temporary use, be made definite, it  is a matter which himself and our principal chiefs most assuredly would not differ about, <pb n="5" facs="ch019e.small.jpg"/>provided his object is to use the grounds solely himself, and that no citizen of the  <name type="place">U. States</name> unconnected with him as an agent, be permitted to settle on or cultivate the ground so allotted for <hi>his</hi> temporary use.
+                  
+               </p>
+            <p>
+               <q>On the subject of claims for improvements and damages sustained by the <name type="person">Cherokees</name> under the treaty of <date when="1819">1819</date>, that the nation may be informed who have been compensated, you will please to furnish us with a complete list of the names of those who have been paid for their improvements  under the treaty of <date when="1817">1817</date>
+                  <date when="1819">1819</date>. As emigrants or otherwise, and the amounts paid  And also a list of the names of those who are now considered as holding life estate reservations under the provision of those Treaties</q>. We are happy to be informed that directions will be issued to the Agent to confer with our principal chiefs as to the location of the sub agent on<pb n="6" facs="ch019f.small.jpg"/>the <name type="place">Georgia</name> frontier. We beg leave to give an extract of a letter <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> from Mr. <name type="person">Charles R. Hicks</name> on this subject, To wit. <q>
+                  <choice>
+                     <abbr>Altho'</abbr>
+                     <expan>Although</expan>
+                  </choice>
+                  <name type="person">
+                     <choice>
+                        <abbr>Colo.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Turk</name> has been indefatigable in removing the intruders on the frontier of <name type="place">Georgia</name>, I have been creditably informed that some of the intruders have already began to erect new buildings, since their houses and fencing had been burnt by <name type="person">
+                     <choice>
+                        <abbr>Colo.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Turk</name>'s Troops from this it will appear that there will be no end <choice>
+                     <sic>to to</sic>
+                     <corr>to</corr>
+                  </choice> intrusions on that frontier of the Nation, unless the Government will place some such a character as <name type="person">
+                     <choice>
+                        <abbr>Colo</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Turk</name> as a sub agent to keep them off in that quarter, but I am confident that the present sub agent would not answer for that station  when a favorable opportunity offer, lay this subject before the Secretary of War</q>. We would here embrace the opportunity of stating that we are <pb n="7" facs="ch019g.small.jpg"/> almost constantly receiving information from our Nation, that the intruders are again encroaching on the <name type="person">Cherokee</name> lands, as numerously as before they were removed by <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Turk</name> on the <name type="place">Georgia</name> as well as on the <name type="place">Tennessee</name> and <name type="place">Alabama</name>  frontiers The causes appear obvious, they have from time to time been indulged to secure their crops, and their property was expressly forbidden by the Agent, as we are informed, from being confiscated or interrupted in any manner if they were fully convinced that the intercourse law is to be rigidly enforced against them, they would soon cease in their encroachment after having experienced the consequences of its operation <del type="overstrike">for</del> a few times in succession a prompt and rigid measure would unquestionably save trouble and expense to the Government, restore tranquility, <pb n="8" facs="ch019h.small.jpg"/>and harmony on the frontiers between the whiteman  the redman The great mass of claims for stolen property which are constantly crowding your office under the aggressions of those intruders would be curtailed in a word, it would <del type="overstrike">effect</del> have all the desired effect of establishing such a state of things, as ought to exist between the Nation and the citizens of the frontier states  We therefore most earnestly solicit the Department to give special  explicit instructions to our agent to enforce the intercourse law against them to the fullest extent, and to have them removed without delay. We pause for a moment, to read a letter just now <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> by <name type="person">Major Ridge</name> from <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Turk</name>, we discover from the contents of the letter much matter on the very subject we were writing when it came to hand, <pb n="9" facs="ch019i.small.jpg"/>without saying more on the subject, we lay the letter before you for perusal  from it you will see the situation of our Nation, by which you will be able to judge the very urgent necessity which imperiously call for the immediate attention and interposition of the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Government.
+                        
+                     
+                  
+               </p>
+            <p>It appears that you have misunderstood that part of our letter which relates to the boundary line from the <name type="place">Unicoi Turnpike</name> road to the nearest main source of the <name type="place"> 
+                  <reg>River</reg> 
+                  <unclear>Chestestee</unclear>
+               </name>, We do not pretend to insist for more than the true literal construction as expressed in the Treaty stipulation, in relation to that boundary. We say that the Nation contends <hi>that the line from the <name type="place">Unicoi Turnpike</name> road is not run so as to strike the nearest main source of the <name type="place">
+                     <unclear>Chestertee</unclear>
+                  </name>
+               </hi>, Therefore we desire that same person, say the <name type="person">Cherokee</name> Agent, or such <pb n="10" facs="ch019j.small.jpg"/>person or persons as he may appoint, be instructed to accompany such person or persons as the Nation may appoint and to examine the boundary as run out by <name type="person">Mr. Lumpkin</name>s and <choice>
+                  <orig>assertain</orig>
+                  <reg>ascertain</reg>
+               </choice> fully whether <hi>it is run from the <name type="place">Unicoi Turnpike</name> road to the nearest main source of the <name type="place"> 
+                     <reg>River</reg> Chestertee</name>
+               </hi> and to make a report of their researches to the Secretary of War if it is then <choice>
+                  <orig>assertained</orig>
+                  <reg>ascertained</reg>
+               </choice> that the line is run out agreeably to the stipulation of the Treaty.  The Nation will be <choice>
+                  <orig>sattisfied</orig>
+                  <reg>satisfied</reg>
+               </choice>; if not run out agreeably to the Treaty stipulation, then a new survey to be ordered; We seek and desire no more than what Truth and justice will establish.  We are happy to be informed that you are directed by the Secretary of War to inform us that our request for a suspension of the restoration<pb n="11" facs="ch019k.small.jpg"/>of the monies collected from the licensed Traders as a Tax and the rescinding of our law imposing the tax, is granted, until the nation shall have obtained the decision of Congress on the subject
+                  
+               </p>
+            <p rend="Page 11">We will now take occasion to observe that by the law of the Nation, no citizen of the <name type="place">United States</name> or other person not an Indian, who are licensed by the <name type="place">United States</name> Agent to carry on trade in the <name>Cherokee Nation</name>, is permitted to make permanent trading establishments in the Nation And in as much as there are instances of violations of this law by licensed Traders We are directed to request the Department to issue instructions to our Agent, to forbid <del type="overstrike">any</del> all licensed Traders of the <name type="place">United States</name> from<pb n="12" facs="ch019l.small.jpg"/>locating themselves permanently by building houses <choice>
+                  <abbr>c</abbr>
+                  <expan>et cetera</expan>
+               </choice> and that those who have done so, be ordered to abandon them; as the Nation, otherwise will be under the disagreeable necessity of exercising <del type="overstrike">their</del>
+               <add place="supralinear">it's</add> authority under the Treaty Stipulations of <q>
+                  <hi>punishing them or not, as they please.</hi>
+               </q>  And that all Citizens of the <name type="place">United States</name> who are settled in the Nation for the object of keeping boarding houses be removed without delay
+               </p>
+            <closer>
+               <salute>We have the honor to be very respectfully Your Friends Brothers</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Ross</name>
+               </signed>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Geo</abbr>
+                        <expan>George</expan>
+                     </choice> Lowrey</name>
+               </signed>
+               <signed>
+                  <name type="person">Major Ridge</name>
+               </signed> his X mark <signed>
+                  <name type="person">Elijah Hicks</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

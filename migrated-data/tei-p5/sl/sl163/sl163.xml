@@ -1,0 +1,113 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl163">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 May 2, Marion College, [MO] [to] Mr. Woods    : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl163</idno>
+            <idno>OCLC: 51106462</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 May 2, Marion College, [MO] [to] Mr. Woods </title>
+               <date when="1840-05-02">May 2, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter to Mr. Woods (probably James Woods) dated May 2, 1840 from an unknown author at Marion College in Missouri. The author talks of his declining health and the debts he owes to Woods and others, mostly due to failed business endeavors.  He writes that he wants to visit Nashville.    Included is a partial recipe for ointment.</note>
+               <note type="collection" anchored="true">Woods family</note>
+               <note type="box" anchored="true">Leonidas-unidentified</note>
+               <note type="document" anchored="true">sl163</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Recipes</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl163a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Marion College</name>
+                     <date when="1840-05-02">May 2nd 1840</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <name type="person">Mr. Woods</name>
+                  <lb/> Dear Sir</salute>
+            </opener>
+            <p>I wrote you some time in March in answer to yours of <choice>
+                  <abbr>Jany</abbr>
+                  <expan>January</expan>
+               </choice> last, which did not come to hand till near three months after date.</p>
+            <p>Our college vacation of six weeks has terminated, I wished very much to have visited <name type="place">Nashville</name> during the vacation, but a variety of hindrances prevented me. My health had declined very much, and the College could not advance, or rather pay what would be necessary for my expenses. I found I could not bring on my child if I was otherwise able, as it is not yet weaned , although it is old enough. All these things were against my  contemplated visit. I should be extremely happy to have my child under the maternal care of <name type="person">Mrs. Woods</name>, especially if I could live in Nashville myself, where I could frequently see it. There is no prospect of employ in Nashville at present, and I shall therefore have to remain where I am for the present. Perhaps in the fall vacation I may have it in my power to visit Nashville, and I shall endeavor ⁁ <add place="supralinear">to</add> effect it.</p>
+            <p>My main and principal source of anxiety and regret is that I have not been able to liquidate the debt I owe you. In addition to the loss of all that I possessed in the Southern railroad Company, which was <pb n="2" facs="sl163b.small.jpg"/> a total wreck, I had to sustain a number of minor losses, one after another, here in <name type="place">Missouri</name>. The Marion City Company are yet indebted to me upwards of   $500, which I intend to sue for. It can be recovered from the members of that company as individuals, each under obligations to pay. To give you one instance how much I suffered by my <choice>
+                  <orig>connexion</orig>
+                  <reg>connection</reg>
+               </choice> with that company, I was twice attacked with the <choice>
+                  <orig>billious</orig>
+                  <reg>bilious</reg>
+               </choice> fever while engaged in the surveys of the Company, brought on by exposure. The physicians bills amounted alone to nearly $150.</p>
+            <p>All these trials and losses however would be nothing if I had my health as in former years, but I believe my constitution is quite broken.</p>
+            <p>I could easily pay off all my debts (and yours is the only one of importance that I owe) if I could collect  what is due me here. Notwithstanding I trust I shall be able to get clear of all debts in the course of a year at least. My salary is $1000 per <choice>
+                  <abbr>an.</abbr>
+                  <expan>annual</expan>
+               </choice> and my expenses at present are light. I deem it due to you thus to state my circumstances for various reasons which I need hardly mention.</p>
+            <p>Little <name type="person">Lucretia</name> is growing finely, she has excellent health and spirits. She is just beginning to walk. I believe I mentioned in my last that her nurse is living in my house, and I board in her family. This is an arrangement that I am much pleased with, as I have my child under my own eye.</p>
+            <p>I would be glad to hear from you and <add place="supralinear">your</add> family <pb n="3" facs="sl163c.small.jpg"/> whenever you can <gap agent="damage"/> not heard from <gap agent="damage"/> My respects to <gap agent="damage"/>
+            </p>
+         </div>
+         <pb n="4" facs="sl163d.small.jpg"/>
+         <div subtype="1" type="letter">
+            <head>Savin Ointment</head>
+            <p>
+               <emph>1.</emph> Box  <lb/> Tanned Sheep Skin to make Blister plaster <add place="left side of page under last line">―</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

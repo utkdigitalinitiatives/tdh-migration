@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc101">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1813 Jun. 11, Washington [to] Colonel G.W. Sevier, Knoxville, Tennessee / John Sevier :a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc101</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1813 Jun. 11, Washington [to] Colonel G.W. Sevier, Knoxville, Tennessee / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1813-06-11">June 11, 1813</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 11, 1813 from John Sevier to Colonel George Washington Sevier.    He recounts news of a naval battle between the British frigate Shannon and the United States frigate Cheasapeake, and fears the Cheasapeake may have been taken.  The USS Cheasapeake was captured by the HMS Shannon on June 1, 1813, just off Boston Harbor.    </note>
+               <note type="collection" anchored="true">John Sevier Collection</note>
+               <note type="box" anchored="true">MS-1941 b1</note>
+               <note type="folder" anchored="true">14</note>
+               <note type="document" anchored="true">sc101</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee-History</term>
+               <term>War of 1812</term>
+               <term>Military history</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc101a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Washington</addrLine>
+               </address>
+               <date>11 June 1813</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>When I wrote you the other day, respecting the action between the Frigates <name>cheasapeake</name> and <name>Shannon</name>, I did, from the news there circulating fully believe that our vessel had proved victorious- It seems to be generally believed, and I fear with too much certainty that the <name>Cheasapeake</name> has been taken- It appears that in the commencement of the action the <name>British</name> ship was very much injured in a very short time having several <choice>
+                  <orig>mortr</orig>
+                  <reg>mortar</reg>
+               </choice>&amp; shot away, which injured the <name>cheasapeake</name> to bear down in order to <choice>
+                  <orig>bourd</orig>
+                  <reg>board</reg>
+               </choice>, and just in the act of so doing <add>so</add>
+               <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was a large quantity of <choice>
+                  <orig>combustable</orig>
+                  <reg>combustible</reg>
+               </choice> matter thrown on board from the English ship, <choice>
+                  <orig>seting </orig>
+                  <reg>setting</reg>
+               </choice> great part of our vessel in a <choice>
+                  <orig>compleat</orig>
+                  <reg>complete</reg>
+               </choice> flame, which is thought to be the cause of her immediate sinking- It is said, and generally believed, that there was some informed Machine thrown of an entire <choice>
+                  <orig>distructive</orig>
+                  <reg>destructive</reg>
+               </choice> nature, but what the damage have been, we are not yet informed <name>General Dearborne</name> have taken <name>Fort Grorge</name>, <name>Queentown</name>, and <name>Fort Erie</name>, with little loss, and was in pursuit of the enemy who were endeavoring to make their retreat down to <pb n="2" facs="sc101b.small.jpg"/> to the lower Ganaday- Our fleet on the lakes under <name>Commander Chauncey</name>, appears to be Overrunning the <name>British</name> in every opportunity they have when coming into contact with the enemy- I believe the British only <choice>
+                  <orig>posess</orig>
+                  <reg>posses</reg>
+               </choice> one garrison in U, <name>Canaday</name>, (Moldon) and it is very probable, that the <name>american</name> flag is now flying at that place.- We are progressing very slowly- remember me affectionately to our friends- I am entirely sick at being so long from home, and believe if I was <choice>
+                  <orig>onst</orig>
+                  <reg>onest</reg>
+               </choice> more there I should never return- I had like to have forgot to mention, that <choice>
+                  <orig>Cozen</orig>
+                  <reg>Cousin</reg>
+               </choice>
+               <name>Alex. Sevier</name> have had a duel with one of your Captians- A, received a shot through his arm, his adversary one in the breast, but thought not to be mortal-</p>
+            <closer>Your affectionate friend <signed>John Sevier</signed>
+               <add>Col, Sevier</add>
+               <pb n="3" facs="sc101c.small.jpg"/>
+               <add>Free</add>
+               <name>John Sevier</name>
+               <address>
+                  <addrLine>Colonel George Washington Sevier Knoxville Tennessee</addrLine>
+               </address>
+               <add>
+                  <date>11th June 1813</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

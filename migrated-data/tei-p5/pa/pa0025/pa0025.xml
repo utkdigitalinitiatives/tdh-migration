@@ -1,0 +1,166 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt for Cherokee Annuity] 1812 July 13, Highwassee Garrison : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0025</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt for Cherokee Annuity] 1812 July 13, Highwassee Garrison</title>
+               <date when="1812-07-13">July 13, 1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a receipt dated July 13, 1812,  acknowledging that the Cherokee Chiefs received an annuity payment from Return J. Meigs for nine thousand dollars. The document is signed by several Chiefs of the Cherokee Nation.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0025</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Cherokee Nation</term>
+               <term>Annuities</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0025a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Highwassee Garrison</addrLine>
+               </address>
+               <date when="1812-07-13">13th July 1812</date>
+            </opener>
+            <p>We the Chiefs of the <name>Cherokee Nation</name> do hereby acknowledge to have <choice>
+                  <abbr>Rec,d</abbr>
+                  <expan>Received</expan>
+               </choice> of <name>Return J. Meigs</name> Agent to the Cherokee Nation Nine Thousand Dollars in full of the Annuity due for the year 1812 Agreeable to the foregoing claims viz paid by him as witness our hands and seals</p>
+            <closer>
+               <signed>
+                  <name>The Glass</name>
+                  <add>
+                     <figure>
+                        <figDesc>Each signature has the x mark and then a handwritten seal beside the name</figDesc>
+                     </figure>
+                  </add>
+                  <name>Richard Taylor</name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Walker</name> Interpreter <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Lowry</name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> McLemore</name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Ross</name>
+                  <choice>
+                     <abbr>Clk</abbr>
+                     <expan>Clerk</expan>
+                  </choice> of Committee <name>
+                     <choice>
+                        <abbr>Jno </abbr>
+                        <expan>John</expan>
+                     </choice>McIntosh</name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Boggs</name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Armstrong</name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Jolly</name>
+                  <name>
+                     <unclear>Pr Luis WJK Regt</unclear>
+                  </name>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Natty</name>
+                  <name>Closence</name>
+                  <name>Sickekee</name>
+                  <name>The Bark</name>
+                  <name>Teyasteskee</name>
+               </signed>
+               <pb n="2" facs="pa0025b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc>Miscellaneous names and calculations that have been crossed out.</figDesc>
+                  </figure>
+               </add>
+               <add>
+                  <note>
+                     <p>Receipt of the Cherokee Chiefs for their Annuity for the year 1812.</p>
+                     <p>
+                        <date when="1812-07-13">13 July 1812</date> $9000.00</p>
+                  </note>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

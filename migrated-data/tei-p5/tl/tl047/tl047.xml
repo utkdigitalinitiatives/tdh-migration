@@ -1,0 +1,246 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 July 4, Knoxville, [Tennessee, to] Alfred Moore,
+			 George Walton, and John Steele / John Sevier: a machine-readable transcription
+			 of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl047</idno>
+            <idno>OCLC: 47832477</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 July 4, Knoxville, [Tennessee, to] Alfred Moore,
+				George Walton, and John Steele / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1798-07-04">July 4, 1798</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Tennessee
+				governor John Sevier (1796-1801, 1803-1809) , dated July 4, 1798, to Alfred
+				Moore, George Walton, and John Steele. Moore, Walton, and Steele were United
+				States commissioners responsible for forming a treaty between the U.S. and the
+				Cherokee Indians. In the letter, Sevier informed the men that James Robertson,
+				James Stuart, and Major Lachlan McIntosh had been appointed as agents to
+				represent the interests of the state of Tennessee in the insuing treaty. Sevier
+				stated that the state agents would do all that is in their power to aid the
+				commissioners in extinguishing the Cherokee claims. Sevier explained that state
+				agents were necessary because of their connections with the region at hand, and
+				thus, they could better represent the interests of the people there and could
+				prove advantageous to the negotiations.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">6</note>
+               <note type="Document">tl047</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Boundaries</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl047a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1798-07-04">4th July 1798</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> James
+				Robertson</name>of 
+			 <name type="place">Mero District</name>, 
+			 <name type="person">James Stuart</name> Speaker of the
+			 <choice>
+                  <orig>house of representatives</orig>
+                  <reg>House of Representatives</reg>
+               </choice>, and 
+			 <name type="person">Major Lochlan McIntosh</name> of 
+			 <name type="place">Knoxville</name> who are appointed Agents on the
+			 part of the State, will have the honor of delivering you this letter
+			 </p>
+            <p>Believing you are authorized by the 
+			 <name type="place">United States</name> to extinguish the claim of
+			 the Cherokees so far, as they may be induced to sell, they will have my
+			 instructions to facilitate such extinguishment, as far as in their power, And
+			 fully to State to you the claims of the people they represent </p>
+            <p>permit me to remark Gentlemen, that this Appointment is not made
+			 under any apprehension that the Commissioners appointed by the 
+			 <name type="place">United States</name>, will in any manner be
+			 inattentive to the rights and interests of the people of 
+			 <name type="place">Tennessee</name>, but their remote and unconnected
+			 situation with the affairs of this Country, places Many very interesting
+			 circumstances and events <choice>
+                  <orig>intirely</orig>
+                  <reg>entirely</reg>
+               </choice> out of their
+			 <del type="overstrike">
+                  <choice>
+                     <orig>recorse</orig>
+                     <reg>recourse</reg>
+                  </choice>
+               </del>
+               <add place="supralinear">knowledge</add>. A recurrence and development of same
+		  facts, through the aid of our agents, I am led to believe will greatly
+		  facilitate your negotiation, and avail the <pb n="2" facs="tl047b.small.jpg"/>
+               <name type="place">United States</name> of some useful  particular
+		  advantages, as also <del type="overstrike">
+                  <add place="supralinear">together
+		  with</add> And Also</del> the State which they <del type="overstrike">will</del> have the honor to represent
+               </p>
+            <p>Wishing you a happy and <choice>
+                  <orig>Successfull</orig>
+                  <reg>Successful</reg>
+               </choice>
+			 Termination of the Charge with which you are invested </p>
+            <closer>
+               <salute>I have the honor to be <lb/> respectfully your <lb/>
+                  <choice>
+                     <abbr>Mo. Ob.</abbr>
+                     <expan>Most Obedient</expan>
+                  </choice> and very 
+				<choice>
+                     <abbr>Hbl Servt.</abbr>
+                     <expan>Humble Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <add>
+                     <name type="person">John Sevier</name>
+                  </add>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Alfred Moore</name>, 
+				  <name type="person">George Walton</name>
+                  </addrLine>
+                  <addrLine>And 
+				  <name type="person"> John Steele</name> esquires
+				  </addrLine>
+                  <addrLine>Commissioners on the part of</addrLine>
+                  <addrLine>The 
+				  <name type="place">United States</name> for holding</addrLine>
+                  <addrLine>A treaty with the Cherokee indians</addrLine>
+               </address>
+               <add rend="bottom, left, sideways to text">Letter to 
+			 <name type="person">Alfred Moore</name>
+                  <lb/>
+                  <name type="person">
+                     <choice>
+                        <abbr>Geo.</abbr>
+                        <expan>George</expan>
+                     </choice> Walton</name>
+                  <name type="person ">John <lb/> Steele
+                        </name> esquires
+			 <add>
+                     <choice>
+                        <abbr/>
+                        <expan>United States</expan>
+                     </choice>
+                     <lb/> to settle Indian treaty
+			 and other matters
+                        </add>
+                  <lb/>
+                  <date when="1798-07-04"> 4 July 1798</date>
+                  <choice>
+                     <abbr>Honl. </abbr>
+                     <expan>Honorable ?</expan>
+                  </choice>
+                  <name type="person">
+                     <choice>
+                        <abbr>Genl.</abbr>
+                        <expan>General</expan>
+                     </choice>
+				Robertson</name>
+                  <lb/>
+                  <name type="person">James Stuart </name>and 
+			 <name type="person">Lochlan <lb/> McIntosh
+                              </name>
+                  <choice>
+                     <abbr>esqrs.</abbr>
+                     <expan>esquires</expan>
+                  </choice>
+                  <lb/>
+                  <add>
+                     <choice>
+                        <abbr>No.</abbr>
+                        <expan>Number</expan>
+                     </choice> 9</add>
+                  <lb/> Recorded 
+			 <figure>
+                     <figDesc>miscellaneous doodling</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1820 Jun. 3, Oak Grove Madison County [to] James Moore King, Rutherford County, Tennessee / Ezekiel Moore: a machine readable transcription of an image</title>
+            <author>Moore, Ezekiel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc009</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1820 Jun. 3, Oak Grove Madison County [to] James Moore King, Rutherford County, Tennessee / Ezekiel Moore</title>
+               <author>Moore, Ezekiel</author>
+               <date when="1820-06-03">June 3, 1820</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a  letter dated June 3, 1820 from Ezekiel Moore to his nephew James Moore King.  He reports on the price and sale of cotton, the Insolvent Act, and the scarcity of money.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1820-1823</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">gc009</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Financial, Personal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Ezekiel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc009a.small.jpg"/>
+            <opener>
+               <add>From <name type="person">
+                     <choice>
+                        <orig>Ezeikel</orig>
+                        <reg>Ezekiel</reg>
+                     </choice> Moore</name>
+                  <date when="1820-06-03">June 3rd, 1820</date>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Maj</abbr>
+                           <expan>Major</expan>
+                        </choice> James M,, King</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Rutherford County </name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">by —</add>
+               <name type="person">
+                  <choice>
+                     <abbr>Mr. Jn,,</abbr>
+                     <expan>Mister</expan>
+                  </choice>  Blackman</name>
+               <add place="below address">
+                  <figure>
+                     <figDesc>Miscellaneous calculations</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc009b.small.jpg"/>
+               <name type="place">Oak Grove Madison County</name>
+               <date when="1820-06-03"> June 3rd 1820</date>
+            </opener>
+            <salute>Dear Nephew</salute>
+            <p> I <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice> a letter a few days ago from the Hazle Green <choice>
+                  <abbr>P.O.</abbr>
+                  <expan>Post Office</expan>
+               </choice> assigned by you, which I was glad to hear from you, Stating you had frequently <choice>
+                  <abbr>applyd</abbr>
+                  <expan>applied</expan>
+               </choice> to the office for letters from me but in vain, I never knew you had <choice>
+                  <abbr>returnd</abbr>
+                  <expan>returned</expan>
+               </choice> from <name type="place">
+                  <choice>
+                     <abbr>Orleans</abbr>
+                     <expan>New Orleans</expan>
+                  </choice>
+               </name> whilst receiving <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice> last <choice>
+                  <abbr>datd</abbr>
+                  <expan>dated</expan>
+               </choice> the <date when="1820-05-17">17th may</date> You also stated to me that you had looked for your uncle <name type="person">James Moore</name> since the <date when="1820-04-15">15th of <choice>
+                     <abbr>Aprl</abbr>
+                     <expan>April</expan>
+                  </choice>
+               </date> He may come, but will be unexpected to me I have never <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice> a sentence from him since the Letter by yourself last <choice>
+                  <orig>faul</orig>
+                  <reg>fall</reg>
+               </choice>, But <choice>
+                  <abbr>shoud</abbr>
+                  <expan>should</expan>
+               </choice> be glad to enjoy ⁁ <add place="supralinear">his</add> company once more at my House, You also Stated to me that <name type="person">Mr Patton</name> wished to know what has been done with his notes I once put them in the hands of an <choice>
+                  <abbr>Atty</abbr>
+                  <expan>Attorney</expan>
+               </choice> for collection He returnd them to me, and stating he had made all the enquiry for them <name type="person">Mr Coffee</name> was living in <name type="place">
+                  <choice>
+                     <orig>Laurance</orig>
+                     <reg>Laurence</reg>
+                  </choice> County</name> and <name> 
+                  <reg>person</reg> Mr Harrison</name> he <choice>
+                  <abbr>coud</abbr>
+                  <expan>could</expan>
+               </choice> hear nothing <choice>
+                  <orig>off</orig>
+                  <reg>of</reg>
+               </choice>, which I have sent the Notes by <name type="person">
+                  <choice>
+                     <abbr>Jno.</abbr>
+                     <expan>John</expan>
+                  </choice> Blackman</name> to you for Mr. Patton wishing you <choice>
+                  <abbr>woud</abbr>
+                  <expan>would</expan>
+               </choice> give them to him by this giving up my <choice>
+                  <orig>Recipt</orig>
+                  <reg>Receipt</reg>
+               </choice> to you for  <choice>
+                  <abbr>Sd</abbr>
+                  <expan>Said</expan>
+               </choice> Notes my orders to the atty was to bring suit in this country only and as it <choice>
+                  <abbr>coud</abbr>
+                  <expan>could</expan>
+               </choice> not be done it was <choice>
+                  <abbr>dropd</abbr>
+                  <expan>dropped</expan>
+               </choice> without cost <pb n="3" facs="gc009c.small.jpg"/> I will also give you a small sketch of the situation of our countrys <choice>
+                  <orig>Labouring</orig>
+                  <reg>Laboring</reg>
+               </choice> under at this time and for some time past, the scarcity of money is great our produce brings is nothing in every <choice>
+                  <orig>sence</orig>
+                  <reg>sense</reg>
+               </choice> of the word our cotton has sold from 7 to 10 <choice>
+                  <abbr>cts</abbr>
+                  <expan>cents</expan>
+               </choice>— Baled <choice>
+                  <orig>Beacon</orig>
+                  <reg>Bacon</reg>
+               </choice> 7 &amp; 8 cts Tobacco of no Demand and with great difficulty in attempting to collect Debts a number of our country men has taken the benefit of the Insolvent Act I have sold some of cotton crop but has not yet collected <emph>all the money I have my Tobacco</emph> yet on hand unsold 9000 <choice>
+                  <abbr>lb</abbr>
+                  <expan>pound</expan>
+               </choice> 1st quality a Tobacco} 20,000 lb 1st <choice>
+                  <abbr>Do</abbr>
+                  <expan>Ditto</expan>
+               </choice> Seed cotton 3000 lb prime beacon} Which all is unsold from the Low prices offered <name type="person">Henry King</name> myself <del type="overstrike">and</del> has never made any collection of benefactors last spring Season the people all please the Scarcity of money and the situation we are placed in we coud <add place="supralinear">not</add> press them we shall only do tolerable business with him this spring he is in great perfection at this time and if you woud over and see us if you are in want of a little money we coud let you have some, I am in good health and all the connection,</p>
+            <closer>
+               <salute> I am with Due respect yours whilst I remain </salute>
+               <signed>Ezekiel Moore</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

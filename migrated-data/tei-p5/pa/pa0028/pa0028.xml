@@ -1,0 +1,383 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt for annuities paid to the Cherokee, 1812] : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0028</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt for annuities paid to the Cherokee, 1812]</title>
+               <date when="1812">1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a receipt dated 1812 for annuities paid to the Cherokee Indians. Many Cherokee were paid individual sums that totaled 7,550.90 and the rest were paid a lump sum of 1,449.10.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0028</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Indian agents</term>
+               <term>Cherokee Indians</term>
+               <term>Annuities</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0028a.small.jpg"/>
+            <p>
+               <table>
+                  <head>Debts paid &amp; assumed to be paid by the Agent__</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Caleb Starr</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$1676.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jim Payne </name>
+                        <choice>
+                           <abbr>pr</abbr>
+                           <expan>per</expan>
+                        </choice> Order in <choice>
+                           <abbr>Favr</abbr>
+                           <expan>Favor</expan>
+                        </choice> of <name>
+                           <choice>
+                              <abbr>Jno</abbr>
+                              <expan>John</expan>
+                           </choice>. Walker</name>}</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">50.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mr. Drapes</name> pr orders in favor of <name>Jno Lowry</name>}</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>"</abbr>
+                           <expan>per orders in favor of </expan>
+                        </choice>
+                        <name>Sickekee</name>__</cell>
+                     <cell role="data" rows="1" cols="1">10}</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" <name>Walter Adair</name>__</cell>
+                     <cell role="data" rows="1" cols="1">10}</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <del type="overstrike">
+                           <name>David Barkhill</name>__</del>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <del type="overstrike">12</del>}</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <del type="overstrike">402</del> 502</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <del>
+                           <name>
+                              <choice>
+                                 <abbr>Geo</abbr>
+                                 <expan>George</expan>
+                              </choice>. Smith</name>__</del>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">5}</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" Jno Lowry__</cell>
+                     <cell role="data" rows="1" cols="1">342</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mr McMeans</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">30</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>David Parkhill</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">12.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Geo Smith__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">5.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Lewis L. Hammond__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">1397.40 3/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Thos</abbr>
+                              <expan>Thomas</expan>
+                           </choice> A. Clark</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">1888.57</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Evan Austell</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">49.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Nancy McNairy</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">70.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Meigs</name> &amp;<name> Smith</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">577.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Richd</abbr>
+                              <expan>Richard</expan>
+                           </choice>. Taylor</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">50.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Woodard</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">446.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jno McIntosh <unclear>(say Nms)</unclear>
+                        </name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">50.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Jno Lowry__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">341.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">Continued</cell>
+                     <cell role="data" rows="1" cols="1">$7144.27 3/4</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="pa0028b.small.jpg"/>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Amt</abbr>
+                           <expan>Amount</expan>
+                        </choice>. Brought Over</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$7144.27 3/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>William Payne</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">47.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Nalaneta</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">7.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Jno</abbr>
+                              <expan>John</expan>
+                           </choice>. Walker</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">153.87 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Five Killer</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">13._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Jas</abbr>
+                           <expan>James</expan>
+                        </choice>. Carey__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">50._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>The Spirit</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">18._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Taskeketee</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">15._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Gutsticker</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">15._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>The Glass</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">35.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Tony</name> a Spaniard__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">2.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">7500.90 1/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Brown</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">30.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Jolly</name>__</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">20.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$7550.90 1/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To Cash paid the chiefs present</cell>
+                     <cell role="data" rows="1" cols="1">}</cell>
+                     <cell role="data" rows="1" cols="1">449.9 3/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">for their Disbursement_</cell>
+                     <cell role="data" rows="1" cols="1">}</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$8000.00_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To this sum retained in my hands</cell>
+                     <cell role="data" rows="1" cols="1">}</cell>
+                     <cell role="data" rows="1" cols="1">1000.00_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">for contingency afterwards...</cell>
+                     <cell role="data" rows="1" cols="1">}</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">paid, this day to the chiefs</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$9000.00_</cell>
+                  </row>
+               </table> Which is in full of the annuity for the year 1812.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

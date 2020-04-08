@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl629">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Dec. 12, Madisonville, Kentucky   [to] James Jones, Nashville, Tennessee / A.R. Murray : a machine readable transcription of an image</title>
+            <author> Murray, A.R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl629</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1844 Dec. 12, Madisonville, Kentucky   [to] James Jones, Nashville, Tennessee / A.R. Murray </title>
+               <author>  Murray, A.R.</author>
+               <date when="1844-12-12"> 
+			 December 12, 1844</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter of inquiry concerning the United States presidential election of 1844, between Henry Clay for the Whig party, and James K. Polk, a member of the Democratic party.  The purpose of the letter, written by A.R. Murray in Madisonville, Kentucky to the governor of Tennessee, James Jones in Nashville,  is to determine the exact majority vote in the election of the previous month.    Polk won the election, becoming the nations eleventh Chief Executive, and the last Jacksonian Democrat in the White House.  </note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true"> sl629</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>Tennessee -- History</term>
+               <term>Presidential candidates</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Murray, A. R.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl629a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Madisonville <choice>
+                        <abbr>Kenty</abbr>
+                        <expan>Kentucky</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice> 12th 1844</date>
+               <add>
+                  <choice>
+                     <orig>Govenor</orig>
+                     <reg>Governor</reg>
+                  </choice> Jones</add>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Some of the whigs of my Town have made Bets to a considerable amount upon the exact majority for <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Clay in your state over <name>James K. Polk</name>  One Hundred and thirteen is the number but upon within more nor less  by the Whigs__ The majority mentioned above is reported to us to be the majority for Mr Clay in the popular vote.  You will very much oblige me by answering this Communication and giving me the reported majority as well as the real majority in <name>Tennessee</name>  If the secretary has reported please give me also his majority as per his report an early answer will oblige</p>
+            <closer>
+               <salute>Very <choice>
+                     <abbr>Resply</abbr>
+                     <expan>Respectfully</expan>
+                  </choice> from <choice>
+                     <abbr>obd. Svt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>.</salute>
+               <signed>
+                  <name>A.R. Murray</name>
+               </signed>
+               <pb n="2" facs="sl629b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Govr</abbr>
+                        <expan>Governor</expan>
+                     </choice> James Jones Nashville <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>Single</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

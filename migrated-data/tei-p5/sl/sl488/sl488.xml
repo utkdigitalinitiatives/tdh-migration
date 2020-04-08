@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl488">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Jan. 21, Cairo, Tennessee [to] John Overton / James Winchester   : a machine readable transcription of an image</title>
+            <author>Winchester, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl488</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Jan. 21, Cairo, Tennessee [to] John Overton / James Winchester   </title>
+               <author>Winchester, James</author>
+               <date when="1819-01-21">January 21, 1819</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated January 21, 1819 from James Winchester to John Overton.  It is a brief letter of inquiry to Overton concerning the possible establishment of a Post Office at a location known as the Bluff, near the Tennessee River.  Winchester mentions Andrew Jackson as a possible ally in the endeavour.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl488</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Tennessee River</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96115844"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Winchester, James, 1752-1826</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl488a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Cairo</addrLine>
+               </address>
+               <date>21st January 1819</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Would it not be well to endeavour to get a post office established at the <name>Bluff</name>, at present to <unclear>branch</unclear> off from the <name>Chickasaw</name> agency, untill a direct road is  opened from one of the post towns on this side <name>Tennessee river</name> I have no doubt this object may be accomplished by writing in to members of Congress, more especially when <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Jackson is there (at <name>washington</name>) if asked to use his influence, If you concur in opinion with me you will please to address your friends in Congress on this subject and I will do the same  I am not <unclear>insinuating</unclear> that I am to name commissioners to you for a certain purpose which shall be done in time  I have not yet heard from <name>Baltimore</name> on the subject of the claim of the <unclear>house of Mrs Winchester</unclear> as <add>soon as</add> I do you shall  hear from me. </p>
+            <closer>most respectfully Your <choice>
+                  <abbr>ob</abbr>
+                  <expan>obedient</expan>
+               </choice>' Servant <signed>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>James</expan>
+                  </choice> Winchester</signed>
+               <add>
+                  <name>Judge Overton</name>
+               </add>
+               <add> attended to by J.O. and a Post office established from <unclear>Reynolds house</unclear> to the Bluff </add>
+               <pb n="2" facs="sl488b.small.jpg"/>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Ja</abbr>
+                        <expan>James</expan>
+                     </choice> Winchester</name>
+                  <date>
+                     <choice>
+                        <abbr>Jany</abbr>
+                        <expan>January</expan>
+                     </choice> 21 1819</date>
+                  <address>
+                     <addrLine>Cairo <choice>
+                           <abbr>T</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>.</addrLine>
+                  </address>
+                  <date>Jan 21</date> Judge Overton <name>Nashville</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

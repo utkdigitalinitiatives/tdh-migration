@@ -1,0 +1,107 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc146">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Bill of Sale] 1830 Oct. 20 Thomas Jones [to] William B. Lenoir : a machine readable transcription of an image</title>
+            <author> Jones, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc146</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Bill of Sale] 1830 Oct. 20 Thomas Jones [to] William B. Lenoir</title>
+               <author>  Jones, Thomas</author>
+               <date when="1830-10-20"> 
+			 October 20, 1830</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a bill of sale dated October 20, 1830 signed by Thomas Jones to William B. Lenoir for a twelve-year old slave boy.  The amount of the sale is four-hundred dollars.     William Lenoir was a Revolutionary War
+general and famous North Carolina politician of Fort Defiance, in  Caldwell County.  Lenoir later moved to Roane county, Tennessee. 
+</note>
+               <note type="collection" anchored="true">Lenoir Family Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">22</note>
+               <note type="document" anchored="true"> sc146</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Lenoir family</term>
+               <term>Slave trade</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Jones, Thomas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc146a.small.jpg"/>
+            <p>For and in consideration of the sum of four hundred dollars to me in hand paid by <name>William B. Lenoir</name> I have and do hereby bargain and sell unto the said William B. Lenoir a negro boy slave about thirteen years old named Lawson, as a sound healthy sensible boy clear of any <del>complaint or</del> impediment whatever (except the big toe on his right foot on which there has lately been a whitloe or fellow and is not entirely well) and I do hereby warrant him as such and will defend the right of said boy unto the said William B. Lenoir his heirs and assigns free and clear from all incumbrances and claims whatever.  Given under any hand and seal this <date>20th of October 1830</date>.</p>
+            <closer>
+               <signed>
+                  <name>Thomas X Jones<add>his mark</add>
+                  </name>
+               </signed>
+               <add>Test. Henry Lenoir &amp; Brother Moody</add>
+               <pb n="2" facs="sc146b.small.jpg"/>
+               <add>Thomas Jones to Wm B. Lenoir Bill sale Lawson</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

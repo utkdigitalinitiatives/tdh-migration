@@ -1,0 +1,186 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl194">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Dec. 1, Dresden, Tennessee, [to] John Overton, Nashville, Tennessee / John Charlton   : a machine readable transcription of an image</title>
+            <author>Charlton, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl194</idno>
+            <idno>OCLC: 51196448</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Dec. 1, Dresden, Tennessee, [to] John Overton, Nashville, Tennessee / John Charlton</title>
+               <author>Charlton, John </author>
+               <date when="1828-12-01">December 1, 1828</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated December 1, 1828 from John Charlton to John Overton concerning land in Dresden, Tennessee that Mr. Charlton is leasing for Mr. Overton.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl194</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Real property</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Charlton, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl194a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Dresden</name>
+                     <date when="1828-12-01">1st <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 1828</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Your esteemed favor of the <date when="1827-11-16">16th <choice>
+                     <abbr>Nov.</abbr>
+                     <expan>November</expan>
+                  </choice>
+               </date> came to hand, and I am truly gratified to learn that you are pleased with the manner in which I have conducted your business in this county — My business here, at the present ⁁ <add place="supralinear">time</add> is very much complicated, and requires all the energy and industry that I am master of to keep pace with it — I have a great deal to do as Sheriff &amp; Collector — also surveying — Bank Agent — and agent for many individuals for selling &amp; leasing lands in my county — making in the ⁁ <add place="supralinear">whole</add> with my own business a very heavy task — but I have done it heretofore &amp; I have no doubt but I can still continue to do it satisfactorily to all parties — no exertions shall be left untried to lease your lands according to instructions, and that on the best possible terms — No person has yet applied to redeem any of the lands purchased for you — but if they do, your instructions shall be strictly adhered to —  I have not heretofore kept any regular <choice>
+                  <abbr>acct.</abbr>
+                  <expan>account</expan>
+               </choice>  between us, but I will commence it from this year I will continue it hereafter — the <choice>
+                  <abbr>amt.</abbr>
+                  <expan>amount</expan>
+               </choice> paid by you before this year can be settled by the receipts which are now in my possession —</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>vey</abbr>
+                     <expan>very</expan>
+                  </choice> Respectfully your <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Charlton</name>
+               </signed>
+               <name type="person">
+                  <choice>
+                     <abbr>Jno.</abbr>
+                     <expan>John</expan>
+                  </choice> Overton <choice>
+                     <abbr>Esq</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </name>
+               <pb n="2" facs="sl194b.small.jpg"/>
+               <add>
+                  <note>
+                     <p>P.S. Please enquire of <name type="person">Mr. Jesse Wharton</name> whether he has paid into Bank the <choice>
+                           <abbr>amt.</abbr>
+                           <expan>amount</expan>
+                        </choice> of his loan in this county for the present year with the fees on the sheriffs deeds which I procured for him according to the <choice>
+                           <abbr>acct.</abbr>
+                           <expan>account</expan>
+                        </choice> transmitted by me to him a few weeks since — perhaps you can learn this from the offices of the Bank</p>
+                  </note>
+               </add>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>JC</abbr>
+                        <expan>John Charlton</expan>
+                     </choice>
+                  </name>
+               </signed>
+               <pb n="2" facs="sl194b.small.jpg"/>
+               <address>
+                  <addrLine>Dresden <choice>
+                        <abbr>T.</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>}<lb/>
+                     <choice>
+                        <abbr>Dec.</abbr>
+                        <expan>December</expan>
+                     </choice> 1st 1828 } 12½</addrLine>
+                  <addrLine>
+                     <name type="person">John Overton <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>{<name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>{<choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="above address">Jno Charlton</add>
+               <lb/>
+               <date when="1828-12-01">1 Dec. 1828</date>
+               <lb/>
+               <choice>
+                  <abbr>Ansd</abbr>
+                  <expan>Answered</expan>
+               </choice>
+               <date when="--12-07"> 7th Dec</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

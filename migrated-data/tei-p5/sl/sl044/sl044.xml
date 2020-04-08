@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl044">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Mar. 3, Washington [to] R[obert] J Chester / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl044</idno>
+            <idno>OCLC: 50029715</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Mar. 3, Washington [to] R[obert] J Chester / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1833-03-03">March 3, 1833</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Andrew Jackson to Robert Chester on March 3, 1833. In the letter, Jackson informs Chester that his nomination as surveyor has been rejected by the Senate because he is not a resident of Mississippi. Jackson's attempts to get the Senate to reverse their decision was futile, and they appointed a man that had previously been turned down for the same reason as Chester. </note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">52J</note>
+               <note type="document" anchored="true">sl044</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States -- Politics and government -- 1829-1837</term>
+               <term>Surveyors</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl044a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1833-03-03">March 3rd 1833</date> —</addrLine>
+               </address>
+               <salute>My <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>Yours of the 14th <choice>
+                  <abbr>ult.</abbr>
+                  <expan>ultimo</expan>
+               </choice> was duly received — The <choice>
+                  <orig>Chickesaw</orig>
+                  <reg>Chickasaw</reg>
+               </choice> treaty was ratified by the Senate on the 1st instant, and on yesterday your name as Surveyor was presented to them — with a receiver &amp; Register. I was apprehensive that as you were not an inhabitant of the state of <name type="place">Mississippi</name> that you would be rejected, as they had rejected <name type="person">Gwinn</name>, then <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> B. Coleman</name>, and lastly <name type="person">Mr Williford</name> as register for <name type="place">Mount Solcis</name>.  As I had anticipated you were rejected, I then sent a <del type="overstrike">nomination</del> communication, that until their resolution was <choice>
+                  <orig>recended</orig>
+                  <reg>recinded</reg>
+               </choice>, concluding from their various rejections of men, fit, honest, capable, &amp; every way beyond exception, that the only ground for rejection must be, because they were not citizens of Mississippi, &amp; this being an encroachment on the Executive discretion in appointments as prescribed in the Constitution, that I should not present any more <choice>
+                  <orig>nomenations</orig>
+                  <reg>nominations</reg>
+               </choice> to them for office, in Mississippi, <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> that resolution was <choice>
+                  <orig>recended</orig>
+                  <reg>recinded</reg>
+               </choice> — The resolution was <choice>
+                  <orig>recended</orig>
+                  <reg>recinded</reg>
+               </choice>, but having reported your rejection, it could not be reconsidered without unanimous consent. I was then <pb n="2" facs="sl044b.small.jpg"/> determined to <unclear>renounciate Gwinn</unclear> , as receiver, which I did, and he was approved, which gave me a triumph over the factious Senate headed by <name type="person">Poindexter</name> — but without benefit to you under the rule before mentioned, as your ⁁ <add place="supralinear">case</add> could not be reconsidered. Although I have obtained a triumph over Poindexter, still I am sorely mortified at your defeat — but remembering for the present the old <emph>'adage'</emph> that what cannot be cured, must be endured, still ⁁ <add place="supralinear">you may</add> rest <del type="overstrike">ing</del> well assured that no opportunity will be omitted that can be embraced with propriety, to promote your interest.</p>
+            <p>Congress adjourned about day light this morning, and I am not very well, and have to prepare for my <choice>
+                  <orig>inaguration</orig>
+                  <reg>inauguration</reg>
+               </choice> tomorrow, &amp; can only add, that your friend <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Coffee</name> was with me at the <choice>
+                  <orig>Capital</orig>
+                  <reg>Capitol</reg>
+               </choice> last night, and is truly disgusted with the scenes, &amp; mortified at your rejection.</p>
+            <p>With my love to <name type="person">Betsy</name> &amp; the children the good old lady &amp; all my connection with my congratulations to the new married pair I remain <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice> friend</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>R.</abbr>
+                           <expan>Robert</expan>
+                        </choice> J. Chester </name>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

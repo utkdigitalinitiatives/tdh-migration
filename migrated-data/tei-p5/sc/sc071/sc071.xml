@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Jun. 9 Clinton [Tennessee], [to] Major John Phillips / William Stephen : a machine readable transcription of an image</title>
+            <author>Stephen, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc071</idno>
+            <idno>OCLC: 51325025</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Jun. 9 Clinton [Tennessee], [to] Major John Phillips / William Stephen</title>
+               <author>Stephen, William</author>
+               <date when="1828-06-09">June 9, 1828</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written from William Stephen to Major John Phillips on June 9, 1828. In the letter, Stephen discusses his ability to make Whiskey from extra corn he has and will acquire.</note>
+               <note type="collection" anchored="true">William Stephen</note>
+               <note type="box" anchored="true">MS-497</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc071</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Whiskey</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Stephen, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc071a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Clinton</name>
+                     <date when="1828-06-09">June 9th 1828</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir/</salute>
+            </opener>
+            <p>Having discovered that I can make use of more corn than I have <choice>
+                  <orig>ingaged</orig>
+                  <reg>engaged</reg>
+               </choice> if you are willing I will take corn for the <choice>
+                  <orig>Whisky</orig>
+                  <reg>Whiskey</reg>
+               </choice> you got of me and if you will take <choice>
+                  <orig>Whisky</orig>
+                  <reg>Whiskey</reg>
+               </choice> for any more I will make you some as soon as I can please to write me upon this by the return of <name type="person">Major Mynatt</name>
+            </p>
+            <closer>
+               <salute>yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">William Stephen</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Major Phillips</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sc071b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Major John Phillips</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jacksboro 7</name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <unclear>Or</unclear> Major Mynatt</add>
+               <add place="below address, upside down">
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Stephens</name>
+                  <lb/> Sitter</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Nov. 21, Hermitage [to] Andrew Jackson Donelson, West Point, New York / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl023</idno>
+            <idno>OCLC: 50014502</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>[Letter] 1819 Nov. 21, Hermitage [to] Andrew Jackson Donelson, West Point, New York / Andrew Jackson<author>Jackson, Andrew</author>
+               <date when="1819-11-21">November 21, 1819</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Andrew Jackson  to his nephew Andrew Jackson Donelson on November 21, 1819. In the letter, Jackson inquires about Donelson's studies and his health. He asks Donelson to write more often and to express his views and opinions with Jackson on different subjects.</note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">19</note>
+               <note type="document" anchored="true">sl023</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Donelson, Andrew Jackson</term>
+               <term>Military education</term>
+               <term>New York</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl023a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Hermitage</name>
+                     <date when="1819-11-21">
+                        <choice>
+                           <abbr>Novbr</abbr>
+                           <expan>November</expan>
+                        </choice> 21st 1819</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <name type="person">Andrew</name>
+               </salute>
+            </opener>
+            <p>On my return from <name type="place">Florence</name> I wrote you from <name type="place">Nashville </name> a hasty scroll in the night — I fondly cherished the hope of receiving from you a letter on my return — on this I was disappointed — The <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> of a letter from <name type="person">Edward</name> dated the 25th <choice>
+                  <abbr>inst</abbr>
+                  <expan>instant</expan>
+               </choice> gave me the pleasing intelligence that you were well — This was gratifying to your aunt and myself, being both <choice>
+                  <orig>fearfull</orig>
+                  <reg>fearful</reg>
+               </choice> from your long silence that you were sick. —</p>
+            <p>I am certain that at the advanced stage of your education you can attend to nothing more beneficial than writing — It employs the thoughts, expands the mind, and will give you by a proper attention an easy habit of communicating your thoughts. There is nothing so <choice>
+                  <orig>beatifull</orig>
+                  <reg>beautiful</reg>
+               </choice> in writing as a plain easy <choice>
+                  <orig>stile</orig>
+                  <reg>style</reg>
+               </choice> — <name type="person">Mr Madison</name> excelled in this, and <choice>
+                  <abbr>altho</abbr>
+                  <expan>although</expan>
+               </choice>
+               <name type="person">Mr Jeffersons</name> writings has met with the approbation that they <choice>
+                  <orig>meritted</orig>
+                  <reg>merited</reg>
+               </choice> — I have always thought that the chasteness of Mr Madison excelled any<name type="person">
+                  <choice>
+                     <orig>american</orig>
+                     <reg>American</reg>
+                  </choice>
+               </name>  author I ever read — It is by habit that this easy &amp; <choice>
+                  <orig>plainess</orig>
+                  <reg>plainness</reg>
+               </choice> of <choice>
+                  <orig>stile</orig>
+                  <reg>style</reg>
+               </choice>, which I call Elegance is to be acquired — it is when writing to your friend, when you ought to be free from restraint, that you can exercise this freedom of expression, by which tone you will adopt that ease &amp; <choice>
+                  <orig>plainess</orig>
+                  <reg>plainness</reg>
+               </choice> of <del type="overstrike">expression</del>, ⁁ <add place="supralinear">style</add> that will lead you into the habit of the common use — When you know the pleasure it gives me to send your letters, why not amuse yourself in writing me — choose your own subject — and handle it in any way your <choice>
+                  <abbr>Judgt</abbr>
+                  <expan>Judgement</expan>
+               </choice> may direct — it will give me pleasure to approve, or to point out your errors  <pb n="2" facs="sl023b.small.jpg"/> if any should exist with the freedom of a friend, This will give you a confidence in yourself, which to become great you must acquire, keeping your mind <choice>
+                  <orig>allways</orig>
+                  <reg>always</reg>
+               </choice> open to reason &amp; <choice>
+                  <orig>convertion</orig>
+                  <reg>conversion</reg>
+               </choice> — but never yielding your opinion <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> the <choice>
+                  <abbr>Judgt.</abbr>
+                  <expan>Judgement</expan>
+               </choice> is convinced. <choice>
+                  <orig>Independance</orig>
+                  <reg>Independence</reg>
+               </choice> of mind and action, is the noblest <choice>
+                  <orig>atribute</orig>
+                  <reg>attribute</reg>
+               </choice> of <del type="overstrike">the human mind</del> man — he that <choice>
+                  <orig>possises</orig>
+                  <reg>possesses</reg>
+               </choice> it, and <choice>
+                  <orig>practises</orig>
+                  <reg>practices</reg>
+               </choice> upon ⁁ <add place="supralinear">it,</add> may be said to possess the real image of his creator — without it, man becomes the real tool in the hands of others, and is wielded, like a mere <choice>
+                  <orig>attomaton</orig>
+                  <reg>automaton</reg>
+               </choice> , sometimes, without knowing it, to the worst of purposes hence the necessity, of all <choice>
+                  <orig>inteligent</orig>
+                  <reg>intelligent</reg>
+               </choice> men, exercising the talent that God has given them <choice>
+                  <orig>agreable</orig>
+                  <reg>agreeable</reg>
+               </choice> to that <choice>
+                  <abbr>Judgt.</abbr>
+                  <expan>Judgement</expan>
+               </choice>
+               <del type="overstrike">that</del> they possess, which they have derived from duty, improved by Education, and never abandoning it, <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> their reason and <choice>
+                  <abbr>Judgt.</abbr>
+                  <expan>Judgement</expan>
+               </choice> are convinced that they are in error. This <choice>
+                  <orig>independant</orig>
+                  <reg>indepenent</reg>
+               </choice> course gives a <choice>
+                  <orig>peacefull</orig>
+                  <reg>peaceful</reg>
+               </choice> conscience, and when the public voice, being misled, disapproves the course, innocence Smiles with contempt at public <choice>
+                  <orig>clamour</orig>
+                  <reg>clamor</reg>
+               </choice> — time, <choice>
+                  <orig>dispells</orig>
+                  <reg>dispels</reg>
+               </choice> the mists' error from their eyes, &amp; truth ultimately prevails when the <choice>
+                  <orig>independance</orig>
+                  <reg>independence</reg>
+               </choice> of the individual is hailed, by <del type="overstrike">all</del> the approbation of all, and thus rewarded for his virtue &amp; <choice>
+                  <orig>independance</orig>
+                  <reg>independence</reg>
+               </choice>.</p>
+            <p>your friends are all well and frequently inquiring after you — The first pride of my life has been gratified, at hearing of the <choice>
+                  <orig>honourable</orig>
+                  <reg>honorable</reg>
+               </choice> station you now fill — This is the reward of your application and the proper course you have pursued — let it operate upon you, <choice>
+                  <orig>stedfastly</orig>
+                  <reg>steadfastly</reg>
+               </choice> to <choice>
+                  <orig>persue</orig>
+                  <reg>pursue</reg>
+               </choice> this proper course, without vanity, or pride — by which you can only reach  <unclear>per ferment</unclear> in life that will be <choice>
+                  <orig>permanant</orig>
+                  <reg>permanent</reg>
+               </choice>, that is by deserving it. I enclosed you in my last one hundred dollars in a bill of the <unclear>Brones</unclear>
+               <pb n="3" facs="sl023c.small.jpg"/> bank of the <name type="place">
+                  <choice>
+                     <abbr>U</abbr>
+                     <expan>United</expan>
+                  </choice> States</name> — I am anxious to learn whether it has reached you, there are so many <choice>
+                  <orig>roberies</orig>
+                  <reg>robberies</reg>
+               </choice> of the mail that I am fearfull it has been <choice>
+                  <orig>partained</orig>
+                  <reg>pertained</reg>
+               </choice>, as I have not been advised of its receipt by you. I have again to renew my request so often repeated that you write me often, and inform me of your views and future intentions.</p>
+            <p>your aunt &amp; Andrew Joins me in our best wishes for your health &amp; happiness — we are all anxious to see you so soon as your studies will permit; if we remain in peace I wish you to study love — and live with me — if we have war and I should participate in it, I will have you with me — but I hope our country will be blessed with peace, war is a great evil when it can be avoided, &amp; a curse to any nation — present us to Edward affectionately &amp; believe me to be your affectionate uncle</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>Cadet <name type="person">
+                        <choice>
+                           <abbr>A. J.</abbr>
+                           <expan>Andrew Jackson</expan>
+                        </choice> Donelson</name>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl023d.small.jpg"/>
+               <add place="above address">25</add>
+               <address>
+                  <addrLine>Cadet <name type="person">Andrew <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jackson</expan>
+                        </choice> Donelson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">West Point</name>
+                  </addrLine>
+                  <addrLine>State of <name type="place">
+                        <choice>
+                           <abbr>N.</abbr>
+                           <expan>New</expan>
+                        </choice> York</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">Mail }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

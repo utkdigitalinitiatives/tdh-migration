@@ -1,0 +1,205 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl555">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1822 Oct. 10, Edwardsville [to] James Winchester, Cairo, Tennessee / P. Winchester   : a machine readable transcription of an image</title>
+            <author>Winchester, P.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl555</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1822 Oct. 10, Edwardsville [to] James Winchester, Cairo, Tennessee / P. Winchester</title>
+               <author>Winchester, P.</author>
+               <date when="1822-10-10">October 10, 1822</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to General James Winchester dated October 10, 1822. The author is a nephew of Winchester's. The author wishes to receive a job recommendation from General Andrew Jackson. He hopes that James Winchester can help him obtain this recommendation.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">4</note>
+               <note type="folder" anchored="true">13</note>
+               <note type="document" anchored="true">sl555</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Working life</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Winchester, P.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl555a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Edwardsvile</name>
+                     <date>
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 10 1822</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Uncle</salute>
+            </opener>
+            <p>I have not written you for some time I write you on business of the first importance to me my Father in Law Died this day he was receiver of <choice>
+                  <orig>Publick</orig>
+                  <reg>Public</reg>
+               </choice> money at this place I want the appointment if possible if I can get the recommendation of <name>General Jackson</name> who Stands high with the president I can get the appointment two members from this State will give me a zealous support and have wrote to the president I may get the other member I have not Seen him but will</p>
+            <p>I wish you would Send an express to <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> Jackson and if you are not intimate with him <unclear>yet Serve</unclear> one that is to write for me Should I get the appointment I can aid my mother <unclear>same with</unclear> my mother in Law &amp; four children I shall have <pb n="2" facs="sl555b.small.jpg"/> to Support, the office was their support <add>with</add>
+               <del type="overstrike">and</del> the Exertions of the <unclear>acct &amp;c</unclear> if you ever wish to Serve me attend to this Jackson can get me <add>the office</add> the Support <name>Governor Edwards</name>
+               <add>I have he</add> has wrote <del type="overstrike">us</del> very warmly in my favor you can <unclear>refer</unclear> any member you write to or any of the heads of Department to Edwards &amp; <name>Cook</name> from this State <del type="overstrike">for my claims</del>
+               <add>
+                  <del type="overstrike">suffer me warmly</del>
+               </add> they are warmly my <choice>
+                  <orig>frends</orig>
+                  <reg>friends</reg>
+               </choice>-</p>
+            <closer>
+               <salute>My Love to all</salute>
+               <signed>
+                  <name>
+                     <unclear>P H Winchester</unclear>
+                  </name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice> Edwards has wrote the President <add>Jackson</add> I wish you to write <del type="overstrike">him</del>
+                  <add>them</add> refer to Edwards &amp; Cook form my <choice>
+                     <orig>pretentions</orig>
+                     <reg>pretensions</reg>
+                  </choice>
+               </add>
+               <pb n="3" facs="sl555c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <unclear>H. Ville K</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <date>Oct 20</date>
+                  </addrLine>
+               </address>
+               <add>
+                  <unclear>answered <lb/>
+                     <date>24 Oct 1822</date>
+                     <lb/> W</unclear>
+               </add>
+               <address>
+                  <addrLine>Genrl <name>James Winchester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Cairo</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <unclear>Palemaen</unclear> Winchester</addrLine>
+                  <addrLine>10th Oct 1822</addrLine>
+               </address>
+               <add>
+                  <table>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Bob</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Brince</cell>
+                        <cell role="data" rows="1" cols="1">51</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Cuff</cell>
+                        <cell role="data" rows="1" cols="1">36</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Jim</cell>
+                        <cell role="data" rows="1" cols="1">46</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Ben</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Ned</cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Sarah</cell>
+                        <cell role="data" rows="1" cols="1">89</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Mary</cell>
+                        <cell role="data" rows="1" cols="1">21</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Dave</cell>
+                        <cell role="data" rows="1" cols="1">49</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Jerry</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">374</cell>
+                     </row>
+                  </table>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

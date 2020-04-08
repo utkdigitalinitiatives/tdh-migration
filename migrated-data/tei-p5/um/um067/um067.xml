@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841 Jan. 22, Columbia, Tennessee [to] Elizabeth Chester / M[ary] J[ane] Chester    : a machine readable transcription of an image</title>
+            <author>Chester, Mary Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um067</idno>
+            <idno>OCLC: 50314657</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1841 Jan. 22, Columbia, Tennessee [to] Elizabeth Chester / M[ary] J[ane] Chester</title>
+               <author>Chester, Mary Jane</author>
+               <date when="1841-01-22">January 22, 1841</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Mary Jane Chester  to her mother, Elizabeth Chester, on January 22, 1841. In the letter, Mary apologizes for not being able to write a longer letter, but she is busy preparing for her examination.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS 25 (January 1841)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">um067</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Mary Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um067a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1841-01">January th 1841</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Mama</salute>
+            </opener>
+            <p>As I have not written to you before this week, and you know I promised to write every week. I will write you a few, yes very few lines. To keep you from thinking that I am sick. <choice>
+                  <orig>O</orig>
+                  <reg>Oh</reg>
+               </choice>! my dear Mama you do not know how very busy I am. I will write you immediately after the examination, and tell you what kind of a one I stood; which I hope will be a good one.</p>
+            <closer>
+               <salute>Your affectionate Daughter</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>M. J.</abbr>
+                        <expan>Mary Jane</expan>
+                     </choice> Chester</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Mrs Elizabeth Chester</name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> I have not received a letter from home for three or four weeks. Do write soon. <choice>
+                     <orig>O</orig>
+                     <reg>Oh</reg>
+                  </choice>! I forgot to say that <name type="person">Cousin Elen Walker</name> has a fine son. I have not had the pleasure of seeing his lordship yet. I <choice>
+                     <orig>beleive</orig>
+                     <reg>believe</reg>
+                  </choice> that they have not named him.</add>
+               <pb n="2" facs="um067b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc>post mark for January 22</figDesc>
+                  </figure>18</add>
+               <address>
+                  <addrLine>Mrs Elizabeth Chester</addrLine>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address, upside down">
+                  <date when="1841-01-22">22 <choice>
+                        <abbr>Jany</abbr>
+                        <expan>January</expan>
+                     </choice> 1841</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

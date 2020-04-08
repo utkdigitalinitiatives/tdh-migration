@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0230">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Testimony] 1838 April 18, Cherokee Agency East / William Reid  : a machine readable transcription of an image</title>
+            <author> Reid, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0230</idno>
+            <idno type="OCLC">OCLC: 45957154</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Testimony] 1838 April 18, Cherokee Agency East / William Reid</title>
+               <author> Reid, William</author>
+               <date when="1838-04-18">April 18, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a sworn statement given by William Reid regarding six head of cattle killed by white men in November of 1823. Reid requests 72.00 dollars in compensation from the United States Government.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> pa0230</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Claims</term>
+               <term>Cherokee Indians -- Crimes against</term>
+               <term>North Carolina</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">Reid, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0230a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Cherokee Agency East</addrLine>
+               </address>
+               <salute>The Honorable Committee in Session <name>William Reid</name> Humbly Complaining <choice>
+                     <orig>Sheweth</orig>
+                     <reg>Showeth</reg>
+                  </choice> unto your Honor</salute>
+            </opener>
+            <p>Complainant was a Resident of the <name>Cherokee Nation</name> in the Chartered limits of the State of <name>North Carolina</name>__ And in the year <date>1823 in the Month of November</date> Complainant had six head of Cattle killed by white men Said Cattle when killed was worth at that time $72 all mild cows</p>
+            <p>Complainant avers he was disposed by the acts and doings of the said white men one of which was named <name>Pickle Simon</name>, the other the name of <name>Moss</name> __ these among other white men at that time used their best exertions to drive the Cherokee people from that part of North Carolina inhabited by them</p>
+            <p>Complainant says his loss by the said white men is Justly Stated and that he never has Received any consideration for the same___</p>
+            <p>That the 72 dollars as above stated is Justly due Complainant under the Cole Treaty</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>W</abbr>
+                     <expan>William</expan>
+                  </choice> Reid</signed>
+               <add>Sworn to and Subscribed <lb/> Before me April th 1838 <lb/>
+                  <name>D McForeman</name>
+                  <lb/> one of the Comt.</add>
+               <pb n="2" facs="pa0230b.small.jpg"/>
+               <add>This claim is allowed by the comt; and <unclear>reanced</unclear> to sixty dollars <lb/>
+                  <date when="1838-04-18">18th April 1838</date>
+               </add>
+               <signed>J. Bell <choice>
+                     <abbr>Prest. comt.</abbr>
+                     <expan>President of the Committee</expan>
+                  </choice>
+               </signed>
+               <add>
+                  <note>William Reed of North Carolina <name>United States</name> Spoliation <p>
+                        <table>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">$72.00</cell>
+                           </row>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">received 12.00</cell>
+                           </row>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">―</cell>
+                           </row>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">$60.00</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </note>
+               </add>
+               <add>Admitted <lb/> 7th comt <lb/> No 602 <lb/>
+                  <unclear>examined &amp; allowed</unclear>
+                  <lb/>
+                  <date>
+                     <choice>
+                        <abbr>apl</abbr>
+                        <expan>april</expan>
+                     </choice> 21 1838</date>.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

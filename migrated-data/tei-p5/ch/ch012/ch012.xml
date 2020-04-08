@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1831 Dec. 28, Washington [to] John Ross, Cherokee Nation / John Martin [and] John Ridge: a machine-readable transcription of an image</title>
+            <author>Martin, John, 1784-1840</author>
+            <author>Ridge, John, 1803-1839</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch012</idno>
+            <idno>OCLC: 44759533</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1831 Dec. 28, Washington [to] John Ross, Cherokee Nation / John Martin [and] John Ridge</title>
+               <author>Martin, John, 1784-1840</author>
+               <author>Ridge, John, 1803-1839</author>
+               <date when="1831-12-28">December 28, 1831</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from John Martin and John Ridge, Cherokee leaders in Washington, to John Ross, Principal Chief of the Cherokee Nation, dated December 28, 1831.  Martin and Ridge report to Ross on the progress of the Cherokee delegation in Washington and their decision to delay the delivery of the Cherokee Memorial to Congress.  They indicate that they have news of atrocities against the Cherokees in Georgia.  They further inform Ross that Elias Boudinot and John Ridge have met with Henry Clay who has pledged his support.  They lament the hypocrisy with which they are met in dealing with the U.S. government.  In addition, Martin and Ridge make reference to a delegation of Creek leaders also in Washington and comment on William Wirt's involvement in the Supreme Court case Worcester v. Georgia.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true"> 16</note>
+               <note type="document" anchored="true">ch012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="https://id.loc.gov/authorities/names/nr94010602"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ridge, John, 1803-1839</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no97004489"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Martin, John, 1784-1840</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch012a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Washington City</name>
+                     </addrLine>
+                  </address>
+                  <date when="1831-12-28"> 28th Dec. 1831.</date>
+               </dateline>
+               <lb/>
+               <salute>
+                  <name type="person">John Ross</name>
+                  <choice>
+                     <abbr>Esqr.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <lb/>Dear sir,
+                     </salute>
+            </opener>
+            <p>The Delegation arrived here on the 20th instant  have for the first time visited the War Department on this day.  <name type="person">
+                  <choice>
+                     <abbr>Gov.</abbr>
+                     <expan>Governor</expan>
+                  </choice> Cass</name> is unwell,  therefore, we did not see him, but left word that a Communication, touching the affairs of the <name>Cherokee Nation</name> would be sent for the consideration of the government.</p>
+            <p>We have on purpose delayed the memorial, which, is required of us to <del type="overstrike">Congress</del> present to Congress, to see what the Legislature would do, (in <name type="place">Georgia</name>) in regard to our Lands.  From information, which has reached us, we presume, the <unclear>Grand</unclear> Crisis is of an outrageous character is now approaching, in which <name type="place">Georgia</name> is to attempt to force herself in to the possession of our Country so far as is embraced by her Chartered claims in defiance of all human justice  the solemn guaranties of the Union.  The The Leave on this subject has not yet reached this place. <choice>
+                  <abbr>Messrs</abbr>
+                  <expan>Messieurs</expan>
+               </choice>
+               <name type="person"> 
+                  <reg>John</reg> Ridge</name>
+               <name type="person"> 
+                  <reg>Elias</reg> Boudinot</name> have enjoyed an interview with <name type="person">Henry Clay</name>, who has given the strongest assurance of his <pb n="2" facs="ch012b.small.jpg"/>his friendship to our people,  when an opportunity presents in the Senate to aid our cause.  So far as his influence  talents can go, he may expect all his exertions.
+               </p>
+            <p>After presenting the <name type="person">Cherokee</name> Memorial, which will be in a week, we are of the opinion, that it will    <unclear/> the interests of our Nation to have it supported by an energetic expression of public sentiment.  To effect this it would seem that coordinate movement should take place in <name type="place">Philadelphia</name>,  perhaps <name type="place">New York</name>.  <name type="person"> 
+                  <reg>John</reg> Mr. Ridge</name> will therefore go with <name type="person"> 
+                  <reg>Elias</reg> Mr. Boudinott</name> to attend  to this  address any meetings  that may be called for the purpose.  <name type="person"> 
+                  <reg>Elias</reg> Mr. Boudinott</name> receives from various individuals, a good share of encouragement in the attainment of the objects of his Journey.  The missionary case if it is acted upon,  perhaps there is no doubt of that; by the S. Court, will it is assuredly believed, result in a favorable decision.</p>
+            <p>The <name type="person">Creek</name> Delegation, consisting of  <name type="person">Opothle yoholo</name>, <name type="person">Tukaubattchee hajo</name>, <name type="person">Tuckaubatchee Micco</name>, <name type="person">Higgins</name>, <name type="person">Ben Marshall</name>,  <name type="person">Maj. Broadnax</name> arrived here last night.  Their object is to memorialize Congress on the subject of Intrusions <choice>
+                  <abbr>c.</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </p>
+            <p>
+               <name type="person"> 
+                  <reg>William</reg> Mr. Wirt</name> who has been dangerously ill, has recovered <pb n="3" facs="ch012c.small.jpg"/>his valuable services in the missionary case, may therefore be counted on.
+               </p>
+            <p>In this stage of the business of our Nation, it will be of course  not proper to conjecture <del type="overstrike"> but</del> the probable results of our application before Congress.  Will the American people Sustain their Treaties  Laws  thereby perpetuate their fame unblemished  untarnished by withhold<add place="supralinear">ing the</add> cruel sacrifice of the <name type="person">Cherokees</name> to the <unclear>avidity</unclear>  avarice of <name type="place">Georgia</name>?  We will bring to the the test their faith!  Honorably have we struggled so far in the difficulties,  it should be our greatest desire to proceed in the path of honor,  to our future generations have names of which they shall not be ashamed.</p>
+            <p>The destiny of our nation, exposed as it is to the storms of political ambition,  the zeal of our adversaries, causes the deepest feelings of concern in the breast of every Indian who loves his Country.  But in the midst of our hills, we enjoy the consolation to know, that the best portion of the population <add place="supralinear">of the</add>
+               <name type="place">U.S.</name> sympathizes with us,  are becoming awakened to a sense of the injustice practiced towards our people.  It remains to be <del type="overstrike">en</del> seen, whether there is sufficient virtue among the white people to counteract the acts of their vicious population.  If they achieve this, they may <unclear>count</unclear>
+               <pb n="4" facs="ch012d.small.jpg"/>on the permanency of their hesitations: if they fail they will haste to the time when their existence as a prosperous nation, will vanish away, like the baseless fabric of a vision.
+               </p>
+            <p>
+               <figure>
+                  <head>
+                     <name type="place">Washington</name>
+                     <date>
+                        <unclear/>
+                     </date>
+                  </head>
+                  <figDesc>A postmark appears in the middle of this page.</figDesc>
+               </figure>
+               <address>
+                  <addrLine>
+                     <name type="person">John Ross</name>
+                     <choice>
+                        <abbr> Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice> Head of <name type="place"> 
+                        <reg>River</reg> Coosa</name>
+                     <name>Cherokee Nation</name>
+                  </addrLine>
+               </address>
+            </p>
+            <p>13</p>
+            <closer>
+               <salute>Give our respects to <name type="person">major Ridge</name>  all enquiring friends</salute>
+               <signed>
+                  <name type="person">John Martin</name>
+               </signed>
+               <signed>
+                  <name type="person">John Ridge</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

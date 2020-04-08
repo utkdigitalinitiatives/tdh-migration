@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl152">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841, Feb. 17 [to] James A Woods, Nashville, Tenn[essee] / John R. Branch   : a machine readable transcription of an image</title>
+            <author>Branch, John R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl152</idno>
+            <idno>OCLC: 50564015</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1841, Feb. 17 [to] James A Woods, Nashville, Tenn[essee] / John R. Branch   </title>
+               <author>Branch, John R.</author>
+               <date when="1841-02-17">February 17, 1841</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter form John R.  Branch to James A. Woods dated February 17, 1841.  Branch apologizes for not having written back in a while. He writes how much he and his wife Josephine miss James. He also mentions his interest in a local trial.</note>
+               <note type="collection" anchored="true">Woods Family</note>
+               <note type="box" anchored="true">Abeel-Campbell</note>
+               <note type="document" anchored="true">sl152</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Trials, Murder</term>
+               <term>Communication in the family</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Branch, John R.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl152a.small.jpg"/>
+            <opener>
+               <name type="place">Live Oak</name>
+               <date when="1841-02-17">February 17th, 1841</date>
+               <salute>My Dear <name type="person">Jim</name>
+               </salute>
+            </opener>
+            <p>Your letter of the <date when="1841-01-10">10th of January</date> was received a few days since and should have been answered immediately but owing to the indirect communication between this country and <name type="place">Orleans</name> I postponed writing until <name type="person">Mr. Southall</name>  was about to leave and therefore commit this to <add place="supralinear">his</add> charge with directions to forward it to <name type="place">Nashville</name> in the event of his not finding you in <name type="place">New Orleans</name>.</p>
+            <p>
+               <name type="person">Josephine</name> and myself are both disappointed that your visit to us has been <unclear>given</unclear>
+               <add place="supralinear">out</add>  but excuse you <unclear>very</unclear> readily (what you say by way of apology I suppose) that your father wishes you at home it is certainly perfectly right and proper that you should remain with him particularly as he desires it. we purposed to <unclear>left</unclear> for <pb n="2" facs="sl152b.small.jpg"/>
+               <name type="place">North Carolina</name> by this time but business and the pressing solicitations of our friends have detained  us we now expect to be off in a week.<choice>
+                  <orig>Their</orig>
+                  <reg>There</reg>
+               </choice> has been a very interesting trial going on in our Court which has had my attention A man by the name of <name type="person">Sedwith</name> was indicted for being a principal in the second degree in the murder of <name type="person">
+                  <unclear>Gen</unclear> Read</name> and after a long trial has been found guilty of murder.  This you must know is very gratifying to me. I had taken deep interest in it  and was very desirous that he should be convicted in this I have succeeded to my utmost wish.</p>
+            <p>Josephine often wishes you were with us and sends her love to you </p>
+            <closer>
+               <salute>Your friend</salute>
+               <signed>
+                  <name type="person">John R Branch</name>
+               </signed>
+               <add place="postscript">I have directed Southall if you are not in  Orleans to direct to Nashville, to show you that I complied with your request</add>
+               <pb n="3" facs="sl152c.small.jpg"/>
+               <add place="above address" rend="different hand, ink">25</add>
+               <address>
+                  <addrLine>
+                     <name type="person">James A Woods <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="below address, upside down" rend="different hand, ink">Replied to <date when="1842-04-02">
+                     <choice>
+                        <abbr>Apr</abbr>
+                        <expan>April</expan>
+                     </choice> 2nd 1842</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

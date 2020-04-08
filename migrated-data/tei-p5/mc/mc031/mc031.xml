@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Oct. 13 [to]  Mrs. Sarah McCulloch / William R. Caswell : a machine readable transcription of an image</title>
+            <author>Caswell, William R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc031</idno>
+            <idno>OCLC: 50474456</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Oct. 13 [to]  Mrs. Sarah McCulloch / William R. Caswell</title>
+               <author>Caswell, William R.</author>
+               <date when="1846-10-13">October 13, 1846</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated October 13, 1846 from Captain William R. Caswell to his mother Sarah McCulloch. Captain Caswell served during the Mexican-American War, and was one of the Tennessee "Volunteers".</note>
+               <note type="collection" anchored="true">William R. Caswell Papers</note>
+               <note type="box" anchored="true">MS-18, b1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">mc031</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>United States</term>
+               <term>Mexico</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Caswell, William Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc031a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Camargo</name>
+                     <date when="1846-10-13">13th <choice>
+                           <abbr>Octr.</abbr>
+                           <expan>October</expan>
+                        </choice> 1846</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Mother</salute>
+            </opener>
+            <p>I have just this evening met with my old neighbor <name type="person">Mr. Campbell </name> who was in the battle at <name type="place">Monterey,</name> and is now on his return to <name type="place">Rutherford</name> He has promised he will go to see you when he gets to Rutherford and tell you all about me and the position of the army &amp; I leave him to tell this, without time to write any news, but take the opportunity of writing you a short hasty letter, to give my love, my devoted love to you—</p>
+            <p>Mr. Campbell starts back on the first boat that leaves this evening or in the morning— And I am making preparations to visit Monterey &amp; to start in the morning— Remember me affectionately to Pa &amp; all the family— I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a few days ago the cravat &amp; socks you sent, which I prize very much, not only because they come from you, but on account of their intrinsic value to me here— <name type="person">Bob Foster</name> is well</p>
+            <closer>
+               <salute>Your affectionate son</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm R.</abbr>
+                        <expan>William Richard</expan>
+                     </choice> Caswell</name>
+               </signed>
+               <pb n="2" facs="mc031b.small.jpg"/>
+               <address>
+                  <addrLine>Mrs. Sarah MCull<gap agent="damage"/>
+                     <unclear>McCulloch</unclear>
+                  </addrLine>
+                  <addrLine>Spring H<gap agent="damage"/>
+                  </addrLine>
+                  <addrLine>Rutherford Co<gap agent="damage"/>
+                     <unclear>County</unclear>
+                  </addrLine>
+                  <addrLine>Tenn<gap agent="damage"/>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

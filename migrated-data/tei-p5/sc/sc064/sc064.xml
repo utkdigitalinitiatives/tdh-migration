@@ -1,0 +1,184 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Jan. 2, Memphis [to] Henry Kirtland, Poland, Trumbull Co[unty], Ohio / J B Kirtland : a machine readable transcription of an image</title>
+            <author>Kirtland, J. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc064</idno>
+            <idno>OCLC: 51314930</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1849 Jan. 2, Memphis [to] Henry Kirtland, Poland, Trumbull Co[unty], Ohio / J B Kirtland</title>
+               <author>Kirtland, J. B.</author>
+               <date when="1849-01-02">January 2, 1849</date>
+               <extent>3 p</extent>
+               <note type="summary" anchored="true">This document is a letter, dated January 2, 1849, written by J. B. Kirtland in Memphis to his cousin Henry Kirtland in Ohio.  J. B. writes in response to Henry's enquiries regarding land in Tennessee and Mississippi.</note>
+               <note type="collection" anchored="true">J. B. Kirkland</note>
+               <note type="box" anchored="true">MS-1597</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc064</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Real property</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Kirtland, J. B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc064a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                     <date when="1849-01-02">
+                        <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 2/49</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>
+               <choice>
+                  <abbr>Yr fav.</abbr>
+                  <expan>Your favor</expan>
+               </choice>
+               <choice>
+                  <abbr>Nov</abbr>
+                  <expan>November</expan>
+               </choice> 29— reaches here in my absence to <name type="place">
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>New</expan>
+                  </choice> orleans</name>  — We are very glad to hear from you &amp;, that you are recovering health — Take your good Wife &amp; son &amp; take a trip here — I presume, twould help you — I should be glad of your son as a <choice>
+                  <orig>neighbour</orig>
+                  <reg>neighbor</reg>
+               </choice> &amp; have just made Enquiries about lands <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> — Within a semi circle of 50 <choice>
+                  <orig>mils</orig>
+                  <reg>miles</reg>
+               </choice> diameter in <name type="place">
+                  <choice>
+                     <abbr>Ten.</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name> &amp; <name type="place">
+                  <choice>
+                     <abbr>Miss.</abbr>
+                     <expan>Mississippi</expan>
+                  </choice>
+               </name> the lands is uneven &amp; small hills but, generally quite <emph>rich</emph>.  Tis watered by springs &amp; small streams both Soil is alluvial —</p>
+            <p>Production <emph>Every</emph> &amp; <emph>any thing</emph> — 10 miles from Town land can be had</p>
+            <p>unimproved @ $3 to 10.  per acre—</p>
+            <p>improved 5, to 15. <choice>
+                  <abbr>do</abbr>
+                  <expan>ditto</expan>
+               </choice>
+            </p>
+            <p>Farther out, tis cheaper &amp; nearer, tis higher —</p>
+            <p>I think a proper system of farming profitable here.  You can decide only by observation personally.</p>
+            <pb n="2" facs="sc064b.small.jpg"/>
+            <p>It gives us much pleasure to hear from you all &amp; in return I say we hear often from our friends East &amp; they are generally well — I may say we are all well here — Business just now dull — How would the "Western Reserve Bank" like to loan say $4000. payable in <name type="place">
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>New</expan>
+                  </choice> York</name> in quarterly installments of $1000.  Each by my giving the money <emph>circulation here</emph>.  If you are intimate with any officers please ask them — Should you have any  <choice>
+                  <abbr>amt.</abbr>
+                  <expan>amount</expan>
+               </choice> from $1000. upwards I would take it @10% per annum payable to you @ 6 &amp; 12 months — I can afford that rate in my business.</p>
+            <p>Give our best love to Mrs. K — the children, Grandmother, Billions &amp; all of the friends — Let me hear soon or come personally.</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yr. affec.</abbr>
+                     <expan>Your affectionate</expan>
+                  </choice> Cousin</salute>
+               <signed>
+                  <name type="person">JB Kirtland</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="sc064c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Henry Kirtland <choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Poland</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Trumbull <choice>
+                           <abbr>Co.,</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Ohio</name>
+                  </addrLine>
+               </address>
+               <add place="left">JB Kirtland</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

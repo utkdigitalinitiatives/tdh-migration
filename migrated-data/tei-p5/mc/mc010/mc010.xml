@@ -1,0 +1,98 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1815 Jul. 17, Patent for the management of bees :a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc010</idno>
+            <idno>OCLC: 50448512</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1815 Jul. 17, Patent for the management of bees</title>
+               <date when="1815-07-17">July 17, 1815</date>
+               <extent>1 p</extent>
+               <note type="summary" anchored="true">This document is a receipt, dated July 17th 1815 for Henry Welker to have the right to use John Sweet's patent for the management of bees in Roane County, Tennessee.</note>
+               <note type="collection" anchored="true">Welker Papers</note>
+               <note type="box" anchored="true">MS-12, b1</note>
+               <note type="folder" anchored="true">1801-1818</note>
+               <note type="document" anchored="true">mc010</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Patents -- Fees</term>
+               <term>Beehives</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc010a.small.jpg"/>
+            <opener>
+               <dateline rend="penciled in">1815 July 17</dateline>
+            </opener>
+            <p>KNOW ALL MEN BY THESE PRESENTS, THAT <name type="person">JOHN SWEET</name> hath obtained LETTERS PATENT for the management of BEES, and that I, the subscriber, of Granville in the County of <unclear>
+                  <name type="place">Luking</name>
+               </unclear> and state of <name type="place">Ohio</name> having legally obtained the said right of using and vending to others to use, have for the consideration two dollars to me paid, sold to <name type="person">Henry Welker</name> of the County of <name type="place">Roane</name>state of <name type="place">Tennessee</name>  one Right in <choice>
+                  <abbr>sd</abbr>
+                  <expan>said</expan>
+               </choice> County &amp; I do warrant &amp; defend the same to him, his heirs and assigns against the lawful claims and demands of all persons whatever for same. Witness my hand this <date when="1815-07-17">17th day of July 1815</date>—</p>
+            <p>The above mentioned pa:}<lb/> =tent was granted <del type="overstrike">in the </del> }<lb/>
+               <date when="1810-04-11">April 11th 1810</date> } </p>
+            <closer>
+               <signed>
+                  <name>Eliphalet Baker</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>N. B.</abbr>
+                     <expan>Nota Bene</expan>
+                  </choice> JOHN SWEET'S PATENT BEE-HIVES are made in three apartments, set in a frame-each apartment may be made sixteen inches high, fourteen inches wide and six inches thick-Remember to give them an empty apartment in front, in the morning, to give them room to work in, and take their honey from their rear at evening.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

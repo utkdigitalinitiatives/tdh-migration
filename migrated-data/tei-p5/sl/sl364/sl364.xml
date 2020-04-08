@@ -1,0 +1,96 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl364">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal Indenture] 1847 March 1, Henry County, Tennessee   : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl364</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal Indenture] 1847 March 1, Henry County, Tennessee</title>
+               <date when="1847-03-01">March 1, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document dated March 1, 1847, is an indenture between Thomas K. Porter et. al. for a woman named Charlott to serve as an apprentice for seven years.</note>
+               <note type="collection" anchored="true">Dunlap Papers </note>
+               <note type="folder" anchored="true">I-B-A b6</note>
+               <note type="document" anchored="true">sl364</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Indentured servants --  Southern States --  History</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl364a.small.jpg"/>
+            <p>This indenture made between Thomas K Porter Chairman of Henry County Court of the one part, and Robert A. Foster &amp; Rupley E. Dunlap &amp; Francis D Mallery of said county of the other part, Witnesseth, that the said Chairman as aforesaid, doth put and bind Charlott a Free Negro <del type="overstrike">&amp; Peter a Free Negro</del> an <choice>
+                  <orig>aprentice</orig>
+                  <reg>apprentice</reg>
+               </choice> to said said Robert A. Foster to learn his art, trade and mystery of a <unclear>Spursten</unclear>
+               <del type="overstrike">viz charlet</del> after the manner of an <choice>
+                  <orig>appretice</orig>
+                  <reg>apprentice</reg>
+               </choice> to serve him from the date hereof, for and during the term Seven years from this date next ensuing, during all which time , he, the said apprentice, his master shall faithfully serve, his secrets keep, and his lawful commands obey. He shall do no damage to his said master, nor see it done without giving information thereof. He shall not waste his masters goods nor lend them unlawfully, at cards, dice, or any unlawful game shall he not play, whereby his said master may be damaged; with his own goods or those of another he shall not trade, without <choice>
+                  <orig>leav</orig>
+                  <reg>leave</reg>
+               </choice> from his master during the said term. He shall not absent himself day nor night without leave, but in all things behave himself as a faithful apprentice ought to do. And the said master shall use the utmost of his endeavors, to teach, or cause to be taught or instructed, the said apprentice in the trade, art and mystery of his profession, and procure and provide for him, the said apprentice, a sufficient meal, drink, clothing washing and lodging, fitting for an apprentice, during the said term; and furnish those goods &amp; comfortable clothes &amp; to pay  her one hundred dollars at the expiration of her term</p>
+            <p>And for the true performance of all and every the said covenents and <choice>
+                  <orig>agrements</orig>
+                  <reg>agreements</reg>
+               </choice>, we have hereunto set our hands and seals, this 1st day of March A.D. 1847</p>
+            <signed>Tho. K. Porter <choice>
+                  <abbr>char</abbr>
+                  <expan>chairman</expan>
+               </choice>
+               <lb/> R.A. Foster <lb/> Frank D. Mallery <lb/>R. E. Dunlap</signed>
+            <pb n="2" facs="sl364b.small.jpg"/>
+            <closer>Robert A. Foster <lb/> Indentures<lb/> Charlette a Free Negro</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,178 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl215">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1794 Sept. 30 [to John Sevier] / [signed by] William Blount et. al. : a machine readable transcription of an image</title>
+            <author>Blount, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl215</idno>
+            <idno>OCLC: 49961350</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1794 Sept. 30 [to John Sevier] / [signed by] William Blount et. al.</title>
+               <author>Blount, William</author>
+               <date when="1794-09-30">September 30, 1794</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a receipt signed by Governor William Blount and others to allow John Sevier to receive payment for his attendance at a session of the General Assembly in Knoxville, Tennessee.</note>
+               <note type="collection" anchored="true">Governor William Blount Correspondence</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">tl215</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>Receipts (Acknowledgments)</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n84136128"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blount, William, 1749-1800</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl215a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Territory of the United States South of the river Ohio.</name>
+                     <name type="place">Knoxville</name>,</addrLine>
+               </address>
+               <date when="1794-09-30"> Sept 30, 1794</date>
+            </opener>
+            <p>
+               <name type="person">General John Sevier</name>, a member of the Legislation Council was allowed One Hundred and Twelve Dollars &amp; Sixty Six &amp; 2/3 cents for his services in travelling to attending at, and returning from a session of the General Assembly began at Knoxville <date when="1794-08-25">
+                  <choice>
+                     <abbr>Augt.</abbr>
+                     <expan>August</expan>
+                  </choice> 25, 1794</date>, and ending this day.</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Blount</name> Governor</signed>
+               <signed>
+                  <name type="person">Griffith Rutherford</name> p.L.c.</signed>
+               <signed>
+                  <name type="person">David Wilson</name> S. W. R.</signed>
+               <pb n="2" facs="tl215b.small.jpg"/>
+               <add place="back of receipt">
+                  <note>
+                     <p>Public Drought</p>
+                     <p>
+                        <name type="person">John Sevier</name>
+                     </p>
+                     <p>112:662/3</p>
+                     <p>
+                        <choice>
+                           <abbr>No </abbr>
+                           <expan>Number</expan>
+                        </choice>96</p>
+                  </note>
+               </add>
+            </closer>
+            <closer>
+               <add place="back of receipt">
+                  <note>
+                     <p>
+                        <date when="1795-04-24">24 April 1795</date>, then <choice>
+                           <abbr>recd</abbr>
+                           <expan>received</expan>
+                        </choice> of <name type="person">Francis A. Ramsey </name>
+                        <choice>
+                           <abbr>Esqr</abbr>
+                           <expan>Esquire</expan>
+                        </choice> forty four dollars in Cash and his assumption for the <choice>
+                           <orig>Ballance</orig>
+                           <reg>balance</reg>
+                        </choice> of the within term payable when he shall have <choice>
+                           <abbr>recd</abbr>
+                           <expan>received</expan>
+                        </choice> so much public money as will amount to that <unclear>Service</unclear>
+                     </p>
+                  </note>
+               </add>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos.</abbr>
+                        <expan>Joseph</expan>
+                     </choice> Anderson</name>
+                  <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </signed>
+               <add>
+                  <note>
+                     <p>I assume the balance of the within to Joseph Anderson <choice>
+                           <abbr>Esqr</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                        <date when="--04-25">25th of <choice>
+                              <abbr>Apr</abbr>
+                              <expan>April</expan>
+                           </choice>
+                        </date>
+                     </p>
+                  </note>
+               </add>
+               <signed>
+                  <emph>
+                     <choice>
+                        <abbr>F.</abbr>
+                        <expan>Francis</expan>
+                     </choice> Ramsey</emph>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

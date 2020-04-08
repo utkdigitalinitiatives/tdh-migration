@@ -1,0 +1,196 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl020">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1794 Apr. 3, Knoxville, [Tennessee to] General Smith /
+			 William Blount, Governor of the state of Tennessee : a machine-readable
+			 transcription of an image</title>
+            <author>Blount, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl020</idno>
+            <idno>OCLC: 47809412</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1794 Apr. 3, Knoxville, [Tennessee to] General Smith
+				/ William Blount, Governor of the state of Tennessee </title>
+               <author>Blount, William</author>
+               <date when="1794-04-03">April 3, 1794 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written to a General
+				Smith from William Blount, then governor of the state of Tennessee (1790-1795),
+				in Knoxville on April 3, 1794. In his letter, Governor Blount reported that
+				French Minister Edmund Genet had been removed from his post, thus bringing to
+				halt the project of General Clark. Also, Governor Blount referred to his
+				correspondence with a person he referred to by the initials D.A., who had
+				informed Governor Blount that the Commissioner of Indian Affairs was in favor
+				of commencing offensive military operations. Governor Blount also discussed his
+				upcoming business plans and some news from the House of Representatives.
+				</note>
+               <note type="Collection">Tennessee Historical Society </note>
+               <note type="Box">2</note>
+               <note type="Folder">n/a</note>
+               <note type="Document">tl020</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indian agents</term>
+               <term>Genet, Edmond Charles</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n84136128"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, William, 1749-1800</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl020a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1794-04-03">April 3d 1794</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>,</opener>
+            <p>
+               <name> 
+                  <reg>person</reg> Genet</name>is removed  his Successor has
+			 arrived at 
+			 <name type="person">Philadelphia</name>, with his Removal the Project
+			 of 
+			 <name type="person">General Clark </name>must expire</p>
+            <p>Letters from 
+			 <name type="person">
+                  <choice>
+                     <abbr>D.A.</abbr>
+                     <expan>unk</expan>
+                  </choice>
+               </name> inform me
+			 that the 
+			 <choice>
+                  <abbr>Com.</abbr>
+                  <expan>Commissioner</expan>
+               </choice> of Indian Affairs will report
+			 in <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> of offensive operations and I hope Congress
+			 will concur   
+			 <name type="person">
+                  <choice>
+                     <abbr>D.A.</abbr>
+                     <expan>unk</expan>
+                  </choice>
+               </name>'s letter is
+			 dated 
+			 <date when="--02-12">
+                  <choice>
+                     <abbr>Feb.</abbr>
+                     <expan>February</expan>
+                  </choice>
+				12th</date>.  I have none so late from the Secretary of War.  I
+			 shall leave this on the 
+			 <date when="---20">20th</date> Instant for the 
+			 <name type="place"> Moravion Town</name> there to meet 
+			 <name type="person">Mr. Blount </name> shall be back by the 
+			 <date when="--05-20">20 th May</date> at farthest.  The
+			 Report spread among the the People by the Members of the House of
+			 Representatives seems to have diffused satisfaction to all Ranks.  I am
+			 with great Respect,</p>
+            <closer>
+               <salute>Your 
+				<choice>
+                     <abbr>obt Servt</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm.</abbr>
+                        <expan>William</expan>
+                     </choice>
+				  Blount</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">General Smith</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl020b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">General Smith</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Mr Hickman</name>
+                  </addrLine>
+               </address>
+               <add place="bottom, right, on side">
+                  <name type="person">Governor Blount</name>
+                  <lb/>
+                  <date when="1794-04-03">April 3d 1794</date>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

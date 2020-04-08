@@ -1,0 +1,96 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc111">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Map] 1841 Jun., French Broad River, Tennessee : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc111</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Map] 1841 Jun., French Broad River, Tennessee</title>
+               <date when="1841-06">June 1841</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a map of the south side fields of the French Broad River.  It shows the farm of L. D. Franklin, is dated June 1841, and was drawn by a Mr. Matthews.</note>
+               <note type="collection" anchored="true">Lawson D. Franklin Papers</note>
+               <note type="box" anchored="true">MS-780 b2</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc111</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>French Broad River Region (N.C. and Tenn.) Maps, Topographic</term>
+               <term>Land</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc111a.small.jpg"/>
+            <p>
+               <add>
+                  <figure>
+                     <figDesc>miscellaneous calculations</figDesc>
+                  </figure>
+               </add>
+               <figure>
+                  <figDesc>Map of the south side fields  of the French Broad River land  belonging to L. D. Franklin</figDesc>
+               </figure>
+               <pb n="2" facs="sc111b.small.jpg"/> Plot of my old River Farm by <name>
+                  <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice> Matthews</name> June 1841 <add>
+                  <figure>
+                     <figDesc>miscellaneous calculations</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="sc111b.small.jpg"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

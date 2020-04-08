@@ -1,0 +1,202 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Oct. 7 [to] Mary Jane Chester, Columbia Tennessee / Robert
+                    Chester : a machine readable transcription of an image</title>
+            <author>Chester, Robert</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um025</idno>
+            <idno>OCLC: 50274670</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special
+                        Collections Department, Ned R. McWherter Library, Memphis, TN. It may be
+                        used freely by individuals for research, teaching, and personal use as long
+                        as this statement of availability is included in the text. For all other use
+                        contact the University of Memphis Libraries, 126 Ned R. McWherter Library,
+                        The University of Memphis, Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Oct. 7 [to] Mary Jane Chester, Columbia Tennessee /
+                        Robert Chester </title>
+               <author>Chester, Robert</author>
+               <date when="1840-10-07">October 7, 1840</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated October 7, 1840 from Robert
+                        Chester to his daughter Mary Jane, who attended a female academy in Columbia
+                        Tennessee. Chester discusses family affairs and tells her that Andrew
+                        Jackson was at their house for dinner when her last letter
+                        arrived.</note>
+               <note type="collection" anchored="true">Chester Family Papers,
+                        MS25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um025</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Robert</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um025a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <date when="1840-10-07">7 Oct. 1840</date>
+               <add>Paid 18 3/4</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Jane Chester</name>
+                  </addrLine>
+                  <addrLine>Care of <name type="person">Sam P. Walker</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <date>7
+                            <choice>
+                     <abbr>Oct </abbr>
+                     <expan>October</expan>
+                  </choice>1840</date>
+               <pb n="2" facs="um025b.small.jpg"/>
+               <address>
+                  <addrLine>Jackson <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date when="1840-10-07">7 <choice>
+                     <abbr>Octr </abbr>
+                     <expan>October</expan>
+                  </choice>40</date>
+               <salute>My
+                        Dear Child</salute>
+            </opener>
+            <p>The <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> of your most anxiously looked for letter
+                        <gap agent="damage"/> came yesterday and released us from a load
+                    such as we never before felt—. It came while <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name> and all the family were at
+                    our house to dine— you know what a crowd— &amp; my child you can
+                    only imagine the joy it gave us.</p>
+            <p>You must not be astonished that your Aunt Narcissa, has now declined coming up to
+                    see you, for the present— since you are so well you must go to school and
+                    her coming would only divert your attention from your studys—. I will be
+                    up myself in a few weeks. If you are perfectly restored to health you must go to
+                    school, but not until you are strong &amp; healthy— Our object in being
+                    separated from you is that you may get <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice> Education
+                    &amp; that must be the great business of <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice>
+                    absence—. The carriage has been <unclear>arranged</unclear> and all things
+                    ready for a <unclear>start</unclear>, waiting the coming of your letter—
+                    that letter gave us such relief— now we are happy— I write in haste
+                        <pb n="3" facs="um025c.small.jpg"/>
+               <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice> ma says you must give her love to <name type="person">Miss Bills</name> &amp; <name type="person">Miss Prior</name>
+                    because they sit with you the night you were sick at the academy or
+                    Institute—. all of there relatives write me in <choice>
+                  <abbr>serv</abbr>
+                  <expan>service</expan>
+               </choice> to you— Mother, Sister, Brothers, Aunts, <choice>
+                  <orig>Unkles &amp; Cuzins</orig>
+                  <reg>Uncles &amp; Cousins</reg>
+               </choice> Send there love, and
+                    also to <choice>
+                  <orig>Cusin</orig>
+                  <reg>Cousin</reg>
+               </choice> Sam, Elen , June, <name type="person">Mrs Walker</name> &amp; all the family— write us again soon</p>
+            <closer>your affectionate Father<signed>
+                  <choice>
+                     <abbr>Robt</abbr>
+                     <expan>Robert</expan>
+                  </choice>
+                        Chester</signed>
+               <add place="bottom of page">When <choice>
+                     <orig>Unkle</orig>
+                     <reg>Uncle</reg>
+                  </choice>
+                  <name type="person"> Jackson</name> is in <name type="place">Columbia</name>
+                        you must see him— kiss him &amp; be with him</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

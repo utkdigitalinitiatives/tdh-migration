@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc173">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1837 Feb. 24, Washington [D.C., to] County Court Clerk of Jefferson County, Tenn[essee] / W[illia]m B. Carter : a machine readable transcription of an image</title>
+            <author> Carter, William B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc173</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1837 Feb. 24, Washington [D.C., to] County Court Clerk of Jefferson County, Tenn[essee] / W[illia]m B. Carter</title>
+               <author>Carter, William B.</author>
+               <date when="1837-02-24"> 
+			 February 24, 1837</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 24, 1837 from William B. Carter to the clerk of the county court of Jefferson County.  Carter writes that he is sending the clerk a copy of proceedings of the House of Representatives.</note>
+               <note type="collection" anchored="true">William B. Carter Papers</note>
+               <note type="box" anchored="true">MS 374</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc173</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Washington D.C.</term>
+               <term>Tennessee</term>
+               <term>Politics</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr92027708"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Carter, William Blount, 1792-1848</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc173a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Washington</name>
+                     <date>24th <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice> 1837</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I take the Liberty of sending to you the Journal of the proceedings of the 14 <choice>
+                  <abbr>Reps</abbr>
+                  <expan>Representatives</expan>
+               </choice> with a request that you deposit the same in <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice> office, for the inspection and use of the citizens of <name>Jefferson county</name>.</p>
+            <closer>
+               <salute>I have the Honor to be <lb/> Very respectfully <lb/>
+                  <choice>
+                     <abbr> yr ob servt</abbr>
+                     <expan>your obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> B Carter</name>
+               </signed>
+               <address>
+                  <addrLine>To the clerk of the</addrLine>
+                  <addrLine>County Court of</addrLine>
+                  <addrLine>
+                     <name>Jefferson County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>E.</abbr>
+                           <expan>East</expan>
+                        </choice> Tenn</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

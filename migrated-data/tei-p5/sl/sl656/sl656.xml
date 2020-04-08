@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl656">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Jun. 24, Columbia, Tennessee [to] Newton Cannon, Nashville, Tennessee / J.H. Thompson : a machine readable transcription of an image</title>
+            <author> Thompson, J.H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl656</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Jun. 24, Columbia, Tennessee [to] Newton Cannon, Nashville, Tennessee / J.H. Thompson </title>
+               <author>  Thompson, J.H.</author>
+               <date when="1838-06-24"> 
+			 June 24, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter of request from J.H. Thompson to Tennessee governor, Newton Cannon.  The letter is dated June 24, 1838; its purpose is to request a supply of muskets for a newly organized company of soldiers styled the "Columbia Blues."</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true"> sl656</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Shooting, military</term>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Thompson, J. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl656a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Columbia <choice>
+                        <abbr>Te</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>June 24 <choice>
+                     <abbr>38</abbr>
+                     <expan>1838</expan>
+                  </choice>
+               </date>
+               <salute>Dear Sir__</salute>
+            </opener>
+            <p>I have been requested by the officers and men composing the newly organized Corpe. styled the "Columbia Blues" to address a letter to you with a request to know what prospects there are for their muskets being furnished from the public arsenal of the state; which, if you can spare a few moments, you will please answer.</p>
+            <p>Our company numbers some forty three or four, and are tolerably well  organized and drilled and all we now want is muskets, which I trust you will grant us.</p>
+            <p>We could get 4 names for the <add>purpose of drawing arms</add>
+               <del>muskets</del> if we chose; but I suggested the propriety of asking for no more muskets than we wanted, as the balance would be wanted, or destroyed, or lost</p>
+            <p>I know that the state guards at <name>nashville</name> have drawn muskets twice or three times, from the Penitentiary, and they have never numbered more than 35 or 40 men, except when they went out campaigning.__ By sending us an order for 45 muskets on Mr. McIntosh, you will very much oblige, on behalf of the corps, </p>
+            <closer>
+               <salute>Yours respectfully</salute>
+               <signed>
+                  <name>J.H. Thompson</name>
+               </signed>
+               <add>His Excellency <choice>
+                     <abbr>N</abbr>
+                     <expan>Newton</expan>
+                  </choice>. Cannon, <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice>. of Tennessee <lb/>
+                  <choice>
+                     <abbr> P.S</abbr>
+                     <expan>Post Script</expan>
+                  </choice>.__ If you grant our request, you will oblige us by enclosing an order on <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice> McIntosh for the army, and we will forthwith send a wagon for them</add>
+               <pb n="2" facs="sl656b.small.jpg"/>
+               <address>
+                  <addrLine>Columbia T</addrLine>
+               </address>
+               <date>June 24th</date>
+               <add>Paid 10</add>
+               <address>
+                  <addrLine>His Excellency Newton Cannon Governor of Tennessee, Nashville, <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice>. <unclear>Thompson</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

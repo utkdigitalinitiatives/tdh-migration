@@ -1,0 +1,170 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl638">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1838 Mar. 30, Nashville [Tennessee, to] Joel R. Poinsett / N[ewton] Cannon : a machine readable transcription of an image</title>
+            <author>Cannon, N[ewton]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl638</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1838 Mar. 30, Nashville [Tennessee, to] Joel R. Poinsett / N[ewton] Cannon</title>
+               <author> Cannon, N[ewton]</author>
+               <date when="1838-03-30"> 
+			 March 30, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor Newton Cannon to the Secretary of War, Joel R. Poinsett. It is dated March 20, 1838. Cannon is assuring Poinsett that he will not allow the local citizens to protest the removal of the Cherokee.</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl638</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Trail of Tears, 1838</term>
+               <term>Poinsett, Joel Roberts, 1779-1851</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr93017180"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Cannon, Newton, 1781-1841</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl638a.small.jpg"/>
+            <opener>
+               <add>Executive <choice>
+                     <abbr>Dept</abbr>
+                     <expan>Department</expan>
+                  </choice>
+               </add>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>March 30th 1838</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>yours <del type="overstrike">favrer</del>of the 6th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> with the <choice>
+                  <abbr>enclosd</abbr>
+                  <expan>enclosed</expan>
+               </choice> extract from the letter of <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Smith </name>
+               <add>was <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice>
+               </add>on my return <add>home</add>from the Western part of <name>Tennessee</name>. Yesterday and I assure you that every Legal and constitutional, means, will <add>if necessary</add>be  <choice>
+                  <abbr>employd</abbr>
+                  <expan>employed</expan>
+               </choice> by me to prevent our citizens from <del type="overstrike">from</del>throwing obstacles in the way, or discouraging the removal, or emigration, of the <name>cherokee</name>; within the Limits of Tennessee An object fully as <choice>
+                  <orig>desireable</orig>
+                  <reg>desirable</reg>
+               </choice> to the state <del type="overstrike">of Tennessee</del>. as it can be to the Genl <choice>
+                  <abbr>Govt</abbr>
+                  <expan>Government</expan>
+               </choice> for the purpose of carrying into effect. The Laws <del type="overstrike">of</del>
+               <add>
+                  <choice>
+                     <abbr>passd</abbr>
+                     <expan>passed</expan>
+                  </choice> at</add>our Late session of the Legislature, providing for the sale of the Lands (<del type="overstrike">and that <unclear>[unclear]</unclear>
+               </del>) &amp; Genl Smith is the commanding officer of the Militia in that <unclear>Division</unclear> of the state and I will give him instructions and authority, to act efficiently should circumstances require it</p>
+            <closer>
+               <salute>very respectfully <lb/> I have the honor to be  <lb/> your obt servt</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>N.</abbr>
+                        <expan>Newton</expan>
+                     </choice> Cannon</name>
+               </signed>
+               <address>
+                  <addrLine>The <abbr>Honorable</abbr>
+                  </addrLine>
+                  <addrLine>
+                     <name>Joel R. <unclear>Poinsett</unclear>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>set</abbr>
+                        <expan>secretary</expan>
+                     </choice> of War</addrLine>
+               </address>
+               <pb n="2" facs="sl638b.small.jpg"/>
+               <add>Copy of Letter <lb/> to the <lb/>
+                  <choice>
+                     <abbr>Sect</abbr>
+                     <expan>Secretary</expan>
+                  </choice> of War <lb/> March 30th 1838</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

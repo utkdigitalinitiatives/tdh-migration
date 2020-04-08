@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl461">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1795 Mar.13, Nashville [Territory South of the Ohio River, to] David Henley, Knoxville [Territory South of the Ohio River] / James Robertson : a machine readable transcription of an image</title>
+            <author>Robertson, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl461</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1795 Mar.13, Nashville [Territory South of the Ohio River, to] David Henley, Knoxville [Territory South of the Ohio River] / James Robertson</title>
+               <author>Robertson, James</author>
+               <date when="1795-03-13">March 13, 1795</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to David Henley from James Robertson, dated March 13, 1795. Robertson informs Henley of a split between the Creek and Chickasaw Nations. Chickasaw Chief Pio Mingo has asked for  assistance. Robertson approves of the idea to  build a fort upon the Tennessee River.</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl461</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Henley, David, 1749-1823.</term>
+               <term>Indians of North America -- Government relations</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80165335"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Robertson, James, 1742-1814</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl461a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>13th March 1795</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name>
+                  <choice>
+                     <abbr>Maj.</abbr>
+                     <expan>Major</expan>
+                  </choice> Tatum</name> is now about starting and I just this minute <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> an express from <name>Pio mingo</name> &amp; other <add>chiefs</add> furnishing certain information of a rupture between the <name>Chickasaw</name>s &amp;  <name>Creek</name>s Assistance from the <name>United States</name> on the part of the Chickasaw is strenuously solicited__ It is suggested to me by the  Chiefs that if a post is established upon the <name>Tennessee</name>, it well answer the purposes of offence and defence most effectually__ This Idea entirely coincides with mine, and suffer me to observe that if the <choice>
+                  <abbr>U</abbr>
+                  <expan>United</expan>
+               </choice> States think proper to afford them any assistance the sooner it is done, the better both for them and us__ To want of more time I refer you to the <choice>
+                  <abbr>Gov</abbr>
+                  <expan>Governor</expan>
+               </choice> for further information</p>
+            <closer>
+               <salute>I am Sir with sincere <lb/>
+                  <choice>
+                     <abbr>resp &amp; est</abbr>
+                     <expan>respect and esteem</expan>
+                  </choice>
+                  <lb/>
+                  <unclear>
+                     <choice>
+                        <abbr>yr in obb</abbr>
+                        <expan>yours in obedience</expan>
+                     </choice>
+                  </unclear>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>James</expan>
+                     </choice> S Robertson</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice> The alteration in the pay of the <choice>
+                     <orig>meletea</orig>
+                     <reg>militia</reg>
+                  </choice> has given universal satisfaction in this country</add>
+               <pb n="2" facs="sl461b.small.jpg"/>
+               <address>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>13 March 1795</addrLine>
+                  <addrLine>James Robertson</addrLine>
+               </address>
+               <pb n="3" facs="sl461c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Colo</abbr>
+                        <expan>Colonel</expan>
+                     </choice>
+                     <name>David Henley</name>
+                  </addrLine>
+                  <addrLine>Knoxville</addrLine>
+                  <addrLine>
+                     <unclear>Maj   Tatum</unclear>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

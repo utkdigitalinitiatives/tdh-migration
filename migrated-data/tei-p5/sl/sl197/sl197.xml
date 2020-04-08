@@ -1,0 +1,146 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl197">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]   1830 Dec. 15, Columbia Tn. [to] John Overton, Nashville, Tn. / T. H. Cahal : a machine readable transcription of an image</title>
+            <author>Cahal, T. H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl197</idno>
+            <idno>OCLC: 51196638</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter]   1830 Dec. 15, Columbia Tn. [to] John Overton, Nashville, Tn. / T. H. Cahal</title>
+               <author>Cahal, T. H. </author>
+               <date when="1830-12-15">December 15, 1830</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated December 15, 1830 to John Overton from T. H. Cahal concerning the appointment of a William Willeford as surveyor general for Mississippi and Louisiana. Cahal asks Overton to give Mr. Willeford a recommendation.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl197</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Surveyors</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Cahal, T. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl197a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                  </addrLine>
+               </address>
+               <date when="1830-12-15">
+                  <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice> 15. 1830.</date>
+               <salute>Dear Sir:</salute>
+            </opener>
+            <p>Mr. <name type="person">Wm. L. Willeford</name> is an applicant for the office of Surveyor General for the states of <name type="place">Mississippi</name> and <name type="place">Louisiana</name>, and justly appreciating your weight of character as well with the Executive as the public is very solicitous to procure your influence in his behalf. I have informed him that it was not your custom to interfere in matters of this kind, and that if you would consent to recommend any man, you would be guided <unclear>alone</unclear> by the safe and correct principle of recommending no man for an office, on whom you would not bestow it, were you vested with the appointed power. Acting on the same principle, I will speak of him to you, as I would to the President, were I  addressing him, and as I would have you speak of him, should your kindness prompt you and your judgement (a safer guide for all our actions) approve of your interfering in his <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> . I know that my opinion of Mr. Willeford would insure ⁁ <add place="supralinear">him</add> but small consideration,  but yet I hope, I may be excused for repeating what the public opinion has <pb n="2" facs="sl197b.small.jpg"/> pronounced of him especially to my greatest benefactor. To Mr. Willeford I am indebted for much of the small stock of learning, of which I am master, as to yourself I am for most of the <del type="overstrike">
+                  <unclear><?xm-replace_text {del}?></unclear>
+               </del> reputation I enjoy in society. Mr <choice>
+                  <abbr>W</abbr>
+                  <expan>Willeford</expan>
+               </choice> — is a deeply skilled, scientific and distinguished mathematician, as is evinced both by the unanimous consent of the community, and the various employments, he has discharged with <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice> to himself and utility to the public. He is not only well versed in the theory but skilled in the practice of surveying, having done much of that business in sectioning the public lands in <name type="place">Alabama</name>. He is a gentlemen, an honest man, industrious, plain, practical, sober, and no doubt well calculated to discharge the duties of the office, he seeks. No man can be more persevering or more accurate, and in my opinion, take him all in all, there are few men, who at the same time unite so much merit and so many qualifications, for this office. After what I have said I need scarcely add how much I shall be gratified, should you feel it consistent with your rules of conduct to aid in forwarding his wishes.</p>
+            <p>Present me respectfully to <name type="person">Mrs Overton</name>, and allow me ⁁ <add place="supralinear">to</add> offer my prayers to the throne of mercy, that your useful life may be long preserved to your counting, your virtues initiated by the public and your friendship <pb n="3" facs="sl197c.small.jpg"/> still extended to</p>
+            <closer>
+               <salute>Your most <choice>
+                     <abbr>obt. servt.</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">T. H. Cahal</name>.</signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Hon.</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <name type="person">John Overton</name>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl197d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Hon.</abbr>
+                           <expan>Honorable</expan>
+                        </choice>
+                        <name type="person">John Overton</name>
+                     </name>
+                  </addrLine>
+                  <addrLine>{ Traveller's Rest</addrLine>
+                  <addrLine>{ Near <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+               <add place="down right side of page">
+                  <name type="person">T. H. Cahal</name>
+                  <lb/>
+                  <date when="1830-12-15">Dec. 15 1830</date>
+               </add>
+               <add place="up left side of page">C 1830</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

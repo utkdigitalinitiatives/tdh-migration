@@ -1,0 +1,187 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] [1841] Apr 23, Jackson, [to] Mary J[ane] Chester, Female Institute, Columbia / Elizabeth Chester: a machine readable transcription of an image</title>
+            <author>Chester, Elizabeth</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um073</idno>
+            <idno>OCLC: 50316005</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] [1841] Apr 23, Jackson, [to] Mary J[ane] Chester, Female Institute, Columbia / Elizabeth Chester</title>
+               <author>Chester, Elizabeth</author>
+               <date when="1841-04-23">April 23, 1841</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">The following document is a letter dated April 23, 1841, from Elizabeth Chester to her daughter Mary Jane at the Female Institute in Columbia, TN.  Chester updates her daughter on happenings back home while Mary Jane is away at school.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS-25 (March, April 1841)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">um072</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Elizabeth</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um073a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1841-04-23">April 23d <add rend="different hand, ink">[1841]</add>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Mary Jane</salute>
+            </opener>
+            <p>
+               <add place="left margin">write to <name type="person">Aunt Narcissa</name> and Mama <choice>
+                     <abbr>EC</abbr>
+                     <expan>Elizabeth Chester</expan>
+                  </choice>
+               </add> It has been several weeks since I enjoyed the pleasure of writing to you how do you <add place="supralinear">do</add> this beautiful day I hope <gap agent="damage"/> and cheerful for cheerfulness is naturally the attendant of youth and <choice>
+                  <orig>in ⁁  ocence</orig>
+                  <reg>innocense</reg>
+               </choice> the day is beautiful and I always feel more inclined to write to my dear Child when nature smiles the time my daughter is on wing and I hope  it will speed swiftly and pleasantly <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> you are again folded in the maternal <choice>
+                  <orig>imbrace</orig>
+                  <reg>embrace</reg>
+               </choice> how anxiously I look for that time I need not say. the Children are putting off their Candy stores and Parties indeed almost every day some one has something to do when <name type="person">Sissy Jane</name> comes, Town has been crowded with strangers for the last three weeks in consequence of the sitting of the several Courts we have had to have a great deal of company next week is also court <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Campbell</name>  had a <choice>
+                  <orig>sacrimintal</orig>
+                  <reg>sacramental</reg>
+               </choice> meeting on last sabbath <name type="person">Mrs Degrappenread</name> joined the Church I am <choice>
+                  <orig>affraid</orig>
+                  <reg>afraid</reg>
+               </choice> my dear daughter that you <del type="overstrike">are</del>
+               <pb n="2" facs="um073b.small.jpg"/> dislike going to church as much as you formally did it is good to go to the house of God many a careless sinner has been made to rejoice and become a follower of Jesus when they have gone with thoughtless levity I need not mention your Cousin <name type="person">Jane <choice>
+                     <abbr>R.</abbr>
+                     <expan>Rawlings</expan>
+                  </choice>
+               </name> she went to the alter to laugh at an old Negro shouting who she was deeply convicted  and converted you know that she was <gap agent="damage"/>ing in looking over some old letters the other day I came across the one that <name type="person">Mr Finley</name>wrote to you it is a delightful letter so full of Piety and good wishes for your future usefulness and <emph>Piety</emph> I wish you had it to read, <name type="person">Mr Davidson</name> told us that he had called at the Institute and found you in fine health he was much pleased with the Rector <name type="person">Mr Patton</name> returned from <name type="place">Florida</name> on last sabbath left his family there all in fine health <name type="person">Rachel</name> still at <name type="place">Quincy</name>  going to School this will be her last session she will <emph>Graduate</emph> Mr <choice>
+                  <abbr>P</abbr>
+                  <expan>Patton</expan>
+               </choice> thinks her very Pretty she is as tall as <name type="person">Jane Patton</name> neither <name type="person">Ellen</name> nor <name type="person">Eliza</name> has any idea of getting married Eliza thinks it is entirely to much trouble to go to balls consequently goes to very few I wish the girls of Jackson would come to the same conclusion they never <choice>
+                  <orig>Tyre</orig>
+                  <reg>Tire</reg>
+               </choice> old Virginia like every week my yard and Garden <pb n="3" facs="um073c.small.jpg"/> are called on for <choice>
+                  <orig>Boquettes</orig>
+                  <reg>Bouquets</reg>
+               </choice> for the young Ladies I must refer you to <name type="person">Cousin Dick</name> for the news of the <emph>Beaumonde</emph>  as he is a constant attendant at all Parties, Aunt Narcissa is fishing to day she goes very often and catches a great many <name type="person">Aunt Butler</name> has just left here is getting well quite past I hope <name type="person">Mrs Walker</name> has entirely recovered her health present us most affectionately to her and family to <gap agent="damage"/>
+               <name type="person">Hays</name>
+               <choice>
+                  <sic>and and</sic>
+                  <corr>and</corr>
+               </choice> family I shall always <gap agent="damage"/> for their kindness to you ask <name type="person">Jane</name> if she is never going to <emph>enliven</emph> us with <choice>
+                  <orig>an other</orig>
+                  <reg>another</reg>
+               </choice> visit the recollection of her appears like a bright <gap agent="damage"/> that has vanished give our love to <gap agent="damage"/>
+               <unclear>her</unclear> I cannot pretend to write all the messages that the children send to you I must leave you to imagine them from your mother accept her most affectionate Love and Prayers may our god guard <choice>
+                  <orig>guid</orig>
+                  <reg>guide</reg>
+               </choice> and protect from all harm is the prayer of your affectionate Mother</p>
+            <closer>
+               <signed>
+                  <name type="person">Elizabeth Chester</name>
+               </signed>
+               <add place="below signature">
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice> your Papa is from home has been all this week <name type="person">Robert</name> was delighted with his letter you wrote him have you <choice>
+                     <orig>recived</orig>
+                     <reg>received</reg>
+                  </choice> an answer from you Grand <emph>Mama</emph> I was very glad that you wrote to her <gap agent="damage"/>
+               </add>
+               <pb n="4" facs="um073d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jane</expan>
+                        </choice> Chester</name>
+                  </addrLine>
+                  <addrLine>Female Institute</addrLine>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left">Mail }</add>
+               <add place="bottom" rend="different hand, ink">My Dear Mother <lb/>
+                  <date when="1841-04-23">23 <choice>
+                        <abbr>Apr</abbr>
+                        <expan>April</expan>
+                     </choice> 1841</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

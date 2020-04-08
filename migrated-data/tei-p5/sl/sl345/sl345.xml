@@ -1,0 +1,105 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl345">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Notice of Sale] 1850 Sep. 5 / James D. Foresee : a machine readable transcription of an image</title>
+            <author>Foresee, James D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl345</idno>
+            <idno>OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Notice of Sale] 1850 Sep. 5 / James D. Foresee</title>
+               <author>Foresee, James D.</author>
+               <date when="1850-09-05">September 5, 1850</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a notice of the sale of a horse and a yoke of oxen, offered by James D. Foresee, sheriff of Humphreys County, and dated September 5, 1850.  The items were apparently the property of Jacob M. Wheat but were taken into possession by the Circuit Court of Humphreys County.</note>
+               <note type="collection" anchored="true">Foresee Family Papers</note>
+               <note type="box" anchored="true">I-F-7</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl345</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Horses</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Foresee, James D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl345a.small.jpg"/>
+            <head>
+               <unclear>Notice</unclear>
+            </head>
+            <p>I will offer for sale to the highest bidder for Cash in the Town of <name>Waverly</name> on Monday the 7th day of October next, one brown horse and one yoke of Oxens, <choice>
+                  <orig>levid</orig>
+                  <reg>levied</reg>
+               </choice> on as the property of <name>Jacob. M. Wheat</name>, at the instant of <name>Richard Batson</name> former clerk and Master of the Circuit Court of <name>Humphreys County</name>, To satisfy a <unclear>Fi Fa</unclear> to me directed from the <choice>
+                  <orig>honerable</orig>
+                  <reg>honorable</reg>
+               </choice> Circuit Court of said County, at its July term 1850, Sale within the <unclear>house</unclear> prescribed by law <choice>
+                  <abbr>&amp;C,</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+               <date>September 5th 1850</date> .</p>
+            <closer>
+               <signed>
+                  <name type="person">James D. Foresee</name>
+                  <choice>
+                     <abbr>Shff</abbr>
+                     <expan>Sheriff</expan>
+                  </choice>
+               </signed>
+               <signed>of Humphreys County</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl498">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1822 Apr. 20, Memphis, Tenn[essee, to] James Winchester, Cairo, Tenn[essee] / Anderson B. Carr: a machine readable transcription of an image</title>
+            <author>Carr, Anderson B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl498</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1822 Apr. 20, Memphis, Tenn[essee, to] James Winchester, Cairo, Tenn[essee] / Anderson B. Carr</title>
+               <author>Carr, Anderson B.</author>
+               <date when="1822-04-20">April 20, 1822</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Anderson B. Carr to General James Winchester, dated April 20, 1822.  Carr writes about buying some property. He discusses his debts. Carr also mentions that he is sending Winchester a panther skin.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl498</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Winchester, James, 1752-1826</term>
+               <term>Financial, Personal</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Carr, Anderson B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl498a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Memphis</name>
+                     <date>April 20th 1822</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>When I was last in the upper country I procured the agency of Mr <name>John C McLemore</name> of <name>Nashville</name> to purchase for me a 640 acre tract of land adjoining the place I am now improving, Mr McLemore was <choice>
+                  <orig>successfull</orig>
+                  <reg>successful</reg>
+               </choice> in the negotiation, and purchased the land at a lower price than I expected, but in consequence of <choice>
+                  <sic>the the</sic>
+                  <corr>the</corr>
+               </choice> reduction of the price He agreed to make more prompt payments than I had wished him to do, which throws me under the necessity of applying to you for an advance of $ 100. <add>for</add> which <choice>
+                  <abbr>amt.</abbr>
+                  <expan>amount</expan>
+               </choice> I have drawn on <add>you</add> at eight. I have also been under the necessity of assigning to Mr. McLemore <name>Winchester</name> &amp; <name>Cages</name> note of $ 100. 16/100 all of which I am in <unclear>hope</unclear> you can meet without any inconvenience.</p>
+            <closer>
+               <salute>Respectfully your friend <lb/> &amp; <choice>
+                     <abbr>obt ser</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>A.</abbr>
+                        <expan>Anderson</expan>
+                     </choice> B. Carr</name>
+               </signed>
+               <signed>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+                  <name>James Winchester</name>
+               </signed>
+               <pb n="2" facs="sl498b.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice> Mr Winchester get home a few days ago in good health The panther skin I promised you will be sent up by the <name>Cumberland</name> your bear skin is in tow  <lb/> A.B.<choice>
+                     <abbr>C.</abbr>
+                     <expan>Carr</expan>
+                  </choice>
+               </add>
+               <add>Bill and attended to discharged to <name>Saml K Blyle</name>
+                  <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice> at may Court 1822 JM</add>
+               <pb n="3" facs="sl498c.small.jpg"/>
+               <add>Anderson <gap/> Carr <lb/> 20th <choice>
+                     <abbr>Apl</abbr>
+                     <expan>April</expan>
+                  </choice> 1822</add>
+               <address>
+                  <addrLine>
+                     <name>Franklin</name>
+                     <choice>
+                        <abbr>T</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date>Apl 30th</date> }</addrLine>
+               </address>
+               <address>
+                  <addrLine>Genl James Winchester</addrLine>
+                  <addrLine>
+                     <name>Cairo</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <orig>politness</orig>
+                     <reg>politeness</reg>
+                  </choice>
+                  <lb/> of M. Banks</add>
+               <add>answered <lb/>
+                  <date>5th May 1822</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

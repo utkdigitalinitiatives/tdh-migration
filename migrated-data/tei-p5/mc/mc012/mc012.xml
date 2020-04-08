@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Oct. 21, Memphis, [to] Mrs. James King / James King : a machine readable transcription of an image</title>
+            <author>King, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc012</idno>
+            <idno>OCLC: 50448676</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Oct. 21, Memphis, [to] Mrs. James King / James King</title>
+               <author>King, James</author>
+               <date when="1835-10-21">October 21, 1835</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter written by James King to his wife dated October 21, 1835.  King writes the letter from Memphis, Tennessee, where yellow fever has killed many of its residents and has caused others to flee the city.  King writes of  his good health and of hers, certain business matters involving himself, and states that the fever will soon be gone so that Mrs. King can return home. King speaks of many of their friends in the city that have become ill, or were ill due to the fever. He concludes by wishing her and their family continued health and a prompt reunion.</note>
+               <note type="collection" anchored="true">James King Papers</note>
+               <note type="box" anchored="true">MS-14, b1</note>
+               <note type="folder" anchored="true">1830-1839</note>
+               <note type="document" anchored="true">mc012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Yellow Fever</term>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name>King, James Moore</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc012a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                  </addrLine>
+                  <addrLine>Sunday <date when="1835-10-21">
+                        <choice>
+                           <abbr>Oct.</abbr>
+                           <expan>October</expan>
+                        </choice> 21st 1835.</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <hi>My Dear little wife</hi>
+               </salute>
+            </opener>
+            <p>I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> your letter of the <date when="---17">17th</date>, also the enclosed certificate of <name type="person">Mr Hull</name>. I am glad to hear daily by telegraph that you are well and trust you will continue so. I am as usual in good health notwithstanding there is so much <gap agent="damage"/> throughout Memphis. The fever has taken <gap agent="damage"/> many, and in some families not a single member has been left. None of your particular acquaintances have died that I remember of. The number of deaths last week and the week before are the same though there has been a considerable abatement in the disease in the last 3 days. The indications are that in a very short time the fever will entirely disappear and the many Citizens that fled will soon return. <name type="person">Mr. Montomery</name> left yesterday for <name type="person">Huntsville</name> to close our business there if possible. At least it will be his last trip upon that business &amp; will determine whether we will construct the Huntsville line or not. <pb n="2" facs="mc012b.small.jpg"/> He will be absent about a week — Upon his return I am almost satisfied the city will be healthy enough to bring you home. <name type="person">Mrs. Jiggetts</name> has recovered. <name type="person">Mrs Williamson</name> is in delicate health — have not seen her out of her room since I returned. <name type="person">Mrs Dill</name> as usual, the rest well — <name type="person">D. Watson</name> is trying to get a room at <name type="person">Mrs Rutherfords</name> for his family. They will have to take a room in the 3rd story or the one we occupied, as Mrs. <choice>
+                  <abbr>W.</abbr>
+                  <expan>Williamson</expan>
+               </choice> will continue in hers. I will send the silk for <name type="person">Mary Ann</name>, the first opportunity that offers. I am glad to hear you are <choice>
+                  <orig>releived</orig>
+                  <reg>relieved</reg>
+               </choice> of your troublesome birth, that it is all over now. Take good care of the rest as you have good reason to value and be proud of them. Mr. <gap agent="damage"/> stay here was very short. I hardly had time to <gap agent="damage"/>
+               <unclear>Miss Puss' billet dress.</unclear> I advised <gap agent="damage"/> him honor <gap agent="damage"/> for his intended's sake to leave as soon as possible or the the yellow fever would claim him, &amp; leave her a beautiful betrothed widow and perhaps a Mrs —, Somebody — He couldn't stand that of <choice>
+                  <orig>cours</orig>
+                  <reg>course</reg>
+               </choice> and was off in the <unclear>ears instanter</unclear>. I have no news to write you. the city is dull, but will soon be shining again — Good bye. Tell Mary Pa wants to see her so bad. &amp; Ma &amp; baby and all. My love to all. Ask <unclear>Puss</unclear> when that <hi>event</hi> comes on.</p>
+            <closer>
+               <salute>Your Affectionate</salute>
+               <signed>James —</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

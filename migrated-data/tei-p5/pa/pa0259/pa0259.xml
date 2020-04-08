@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0259">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Testimony] 1836 Sept. 21, Floyd County, Georgia [to] Head of Coosa / G.M. Lavender  : a machine readable transcription of an image</title>
+            <author> Lavender, George M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0259</idno>
+            <idno type="OCLC">OCLC: 45963547</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Testimony] 1836 Sept. 21, Floyd County, Georgia [to] Head of Coosa / G.M. Lavender</title>
+               <author> Lavender, George M.</author>
+               <date when="1836-09-21">September 21, 1836</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document, dated September 21, 1836, is a certified statement by George M. Lavender concerning the average per day income of a ferry where he had resided for several years.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033, b 1</note>
+               <note type="folder" anchored="true">147</note>
+               <note type="document" anchored="true"> pa0259</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Ferries</term>
+               <term>Income</term>
+               <term>Cherokee Indians</term>
+               <term>Floyd County (Ga.)</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">Lavender, George M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0259a.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name>Head of Coosa</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Floyd County Georgia</name>
+                     <date>September 21st 1836</date>
+                  </addrLine>
+               </address> This is to certify that I have resided a number of years, at <name>Major Ridges</name> ferry on the <name>Eastanolle River</name>, and some six or seven years ago_the ferry was very valuable, and considered to be a ferry as valuable as any within the <name>Cherokee Nation</name>_ and also the ferry owned by <name>Mr. John Ross</name>_ bought of the widow Foal at the Junction of <name>Hightower</name> and <name>Eastanolle</name> was also considered as equally valuable as <name>
+                  <choice>
+                     <abbr>Maj</abbr>
+                     <expan>Major</expan>
+                  </choice> Ridges</name> ferry,</p>
+            <closer>given under my hand <signed>
+                  <name>
+                     <choice>
+                        <abbr>Geo</abbr>
+                        <expan>George</expan>
+                     </choice> W Lavender</name>
+               </signed>
+               <add>I think that each of the above Ferries five or six years since made from three to four dollars <choice>
+                     <abbr>pr.</abbr>
+                     <expan>per</expan>
+                  </choice> day</add>
+               <signed>G.M. Lavender</signed>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="pa0259b.small.jpg"/>
+      <back>
+         <div subtype="1">
+            <p>
+               <name>G. M. Lavender</name>  certificate in relation to the value of Major Ridges Ferry</p>
+            <p>
+               <add>Certificates relative to Ridge's Ferry Jan. 23 1837</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl645">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Oct. 2, Shelbyville, Tenn[essee, to] Newton Cannon, Nashville, Tenn[essee] / Eakin and Brothers : a machine readable transcription of an image</title>
+            <author> Eakin and Brothers</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl645</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Oct. 2, Shelbyville, Tenn[essee, to] Newton Cannon, Nashville, Tenn[essee] / Eakin and Brothers</title>
+               <author> Eakin and Brothers</author>
+               <date when="1836-10-02"> 
+			 October 2, 1836</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor Newton Cannon dated October 2, 1836. It is from several men including a Mr. Eakin. They suggest that Cannon appoint T. F.  Bradford as the state engineer.</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl645</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Law and legislature</term>
+               <term>Engineering</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Eakin and Brothers</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl645a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Shelbyville</name>
+                     <date>2nd <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 1836</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To the <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice> Secretary and Comptroller of the State of <choice>
+                        <abbr>Tennee</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>Gentleman According to a Law passed at the Last Session of the General assembly it is made your duty to appoint  one principle and Two assistant engineers for the State.</p>
+            <p>One of the important duties required of those officers is the Survey of the central road contemplated to be built from the <name>virginia</name> line to the <name>
+                  <choice>
+                     <abbr>Missis</abbr>
+                     <expan>Mississippi</expan>
+                  </choice> River</name>. as the location of this Road is an important matter to the people of this portion of the State if it meets your views we would respectfully recommend as proper some individual as one of the assistant engineers who combines not only some theoretical Knowledge of Topographical engineering with a general personal Knowledge of the Geography of the Country over which it is expected to be <choice>
+                  <orig>conveid</orig>
+                  <reg>conveyed</reg>
+               </choice> and <choice>
+                  <orig>whoes</orig>
+                  <reg>whose</reg>
+               </choice> residence is such as would be likely to fare as individual feelings could <choice>
+                  <orig>opperate</orig>
+                  <reg>operate</reg>
+               </choice> to insure an active and <choice>
+                  <orig>zelous</orig>
+                  <reg>zealous</reg>
+               </choice> prosecution of the <choice>
+                  <orig>Labour</orig>
+                  <reg>Labor</reg>
+               </choice> Under these views we take the liberty of Recommending Mr<name>LF Bradford</name> as a suitable person as an assistant engineer and hope that he will be appointed we <unclear>forbare</unclear> to urge further the appointment of this Gentleman under <unclear>impression</unclear> that he is personally <pb n="2" facs="sl645b.small.jpg"/> known to all of you and is believed to be well qualified for the appointment</p>
+            <closer>
+               <salute>your Respectfully</salute>
+               <signed>
+                  <name>Eakin &amp; Brothers</name>
+                  <name>Thos C Whiteside</name>
+                  <name>John T Neil</name>
+                  <name>Samuel Phillips</name>
+                  <name>William D. Ork</name>
+                  <name>E.J. Frierson</name>
+                  <name>James Deery</name>
+                  <name>John C Caldwell</name>
+                  <name>W. Galbreath</name>
+                  <name>J.A. Blakemore</name>
+                  <name>Wm. H. Wisener</name>
+                  <name>Geo Davidson</name>
+                  <name>A Myer</name>
+                  <name>Thomas Davis</name>
+                  <name>J,, Wortham</name>
+                  <name>Alex Eakin</name>
+                  <name>Robt. Moffat</name>
+                  <name>Saml Escue</name>
+               </signed>
+               <pb n="3" facs="sl645c.small.jpg"/>
+               <add>Petition for <lb/> TF Bradford</add>
+               <address>
+                  <addrLine>To his Excellency</addrLine>
+                  <addrLine>
+                     <name>Newton Cannon</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>Recommendation <lb/> of TF Bradford <lb/>
+                  <choice>
+                     <abbr>asasst</abbr>
+                     <expan>assistant</expan>
+                  </choice> Engineer</add>
+               <add>1836</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

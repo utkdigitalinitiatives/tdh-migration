@@ -1,0 +1,245 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl139">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1813 Nov. 7, Camp near Turkey Town [to] Major Gen[era]l John Cocke  / James White : a machine readable transcription of an image</title>
+            <author>White, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl139</idno>
+            <idno>OCLC: 50555389</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1813 Nov. 7, Camp near Turkey Town [to] Major Gen[era]l John Cocke  / James White</title>
+               <author>White, James </author>
+               <date when="1813-11-07">November 7, 1813</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">The following document consists of two letters sent to Major General John Cocke from James White.  The first is a letter White writes from a military camp near Turkey Town, dated November 7, 1813.  White discusses General Andrew Jackson's advancements at the present stage of the War of 1812.  The second letter is a copy of a letter written from General Jackson to White, four days earlier on November 4.  In that letter, Jackson describes his  army's advancement to Ten Island, as well as a very brief description of a battle between General Coffee and  Native Americans, in which all of the Native Amer. men were killed and the women and children taken prisoner.      </note>
+               <note type="collection" anchored="true">John Cocke Papers V-J-3</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl139</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military supplies</term>
+               <term>United States -- History -- War of 1812</term>
+               <term>Tennessee</term>
+               <term>Creek Indians -- Wars</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">White, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl139a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Camp near <name type="place">Turkey Town</name>
+                     <date when="1813-11-07">
+                        <choice>
+                           <abbr>Novr.</abbr>
+                           <expan>November</expan>
+                        </choice> 7th 1813</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <name type="person">Major <choice>
+                        <abbr>Genl.</abbr>
+                        <expan>General</expan>
+                     </choice> John <choice>
+                        <orig>Cock</orig>
+                        <reg>Cocke</reg>
+                     </choice>
+                  </name>
+               </salute>
+            </opener>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name> is <choice>
+                  <orig>encampt</orig>
+                  <reg>encamped</reg>
+               </choice> as You will see by his letter at the <name type="place">ten Island</name> and not crossed with his Army Only that detachment <choice>
+                  <orig>Beleived</orig>
+                  <reg>Believed</reg>
+               </choice> when I crossed the River that <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Jackson was Over and Advancing and that I could Junction with him Sooner by this <choice>
+                  <orig>Rout</orig>
+                  <reg>Route</reg>
+               </choice>
+            </p>
+            <p>I shall advance this Morning by forced marches to Join the <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> at the Ten  Islands say thirty Miles</p>
+            <p>I crossed the <choice>
+                  <orig>Waggons</orig>
+                  <reg>Wagons</reg>
+               </choice> on Canoes but Yours I expect is deeper loaded and it is a <unclear>bad place</unclear> it is said to be twelve miles from Turkey Town to <name type="place">Ratelifs</name>  which is on <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> Jacksons <unclear>trace</unclear> this is all I can say on this Subject Should you find good crossing where you are perhaps it would be the shortest <choice>
+                  <orig>Rout</orig>
+                  <reg>Route</reg>
+               </choice> for the Ten Island I sent an Order to <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+                  <unclear>Weare</unclear>
+               </name> to March and Join me as I am in the Most exposed part of <choice>
+                  <orig>Rout</orig>
+                  <reg>Route</reg>
+               </choice> the delay I suppose he can account for Your presence renders it <choice>
+                  <orig>unessary</orig>
+                  <reg>unnecessary</reg>
+               </choice> and improper to give Any <del type="overstrike">and</del> Orders to troops with ⁁ <add place="supralinear">You</add> back I hope you will <gap agent="damage"/>th <choice>
+                  <orig>persue</orig>
+                  <reg>pursue</reg>
+               </choice> me with force and add to it your presence speedily I am <choice>
+                  <orig>realy</orig>
+                  <reg>really</reg>
+               </choice> presenting a strange spectacle— advancing in an enemy country and so much of my effective force staying back the Indian force with no <unclear>Order</unclear> 400 — who are  <unclear>
+                  <choice>
+                     <orig>atrisious</orig>
+                     <reg>attrocious</reg>
+                  </choice>
+               </unclear> to go on</p>
+            <closer>
+               <salute>I am your Ever <choice>
+                     <abbr>Obd st</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">James White</name>
+               </signed>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="sl139b.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Copy Camp to <name type="place">ten Islands</name>
+                     <date when="1813-11-04">4 <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 1813</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl.</abbr>
+                           <expan>General</expan>
+                        </choice> James White</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your letter of the 1st Instant was handed me last night by <name type="person">Mr. Rice</name>
+               <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Coffee</name>  had just returned from the destruction of <name type="place">
+                  <unclear>Talleestatehee</unclear>
+               </name> I had detached him for the purpose with a part of his Brigade on the 2nd and on the Morning of the 3rd he Accomplished the Object <choice>
+                  <orig>compleatly</orig>
+                  <reg>completely</reg>
+               </choice>. — the Enemy fought with desperate Valor but <choice>
+                  <orig>where</orig>
+                  <reg>were</reg>
+               </choice> not  Able to ⁁ <add place="supralinear">with</add> stand the coolness and intrepidity with which Assailed 186 <choice>
+                  <orig>where</orig>
+                  <reg>were</reg>
+               </choice> found dead on the field and about 80 taken prisoners the latter con<gap agent="damage"/> wholly of women &amp; children it is believed none <gap agent="damage"/>
+               <choice>
+                  <orig>theire</orig>
+                  <reg>their</reg>
+               </choice>
+               <unclear>warriors?</unclear>
+               <choice>
+                  <orig>excaped</orig>
+                  <reg>escaped</reg>
+               </choice>
+            </p>
+            <p>I shall remain at this place of few days for the <gap agent="damage"/>
+               <unclear>purpose</unclear> of establishing a depot for <choice>
+                  <orig>provission</orig>
+                  <reg>provision</reg>
+               </choice> and here I shall expect to be United with by You My Ultimate Object You are <choice>
+                  <orig>Avised</orig>
+                  <reg>Advised</reg>
+               </choice> of — I am Very sorry to hear your <unclear>prod</unclear> is growing <unclear>scarce</unclear> particularly as I had en<gap agent="damage"/> a hope that you would be to bring on some supplies for me let me repeat my entreaties that you take every Measures in your power in cash Tennessee <choice>
+                  <orig>plentifull</orig>
+                  <reg>plentiful</reg>
+               </choice> supplies of all that an Army stands in Need of we are almost entirely destitute</p>
+            <closer>
+               <salute>(Signed)</salute>
+               <signed>
+                  <name type="person">Andrew Jackson</name>
+               </signed>
+               <pb n="3" facs="sl139c.small.jpg"/>
+               <address>
+                  <addrLine>Major <choice>
+                        <abbr>Genl.</abbr>
+                        <expan>General</expan>
+                     </choice> John Cocke</addrLine>
+               </address>
+               <add>pr. Express <lb/>
+                  <name type="person">Mr. <unclear>Canrik</unclear>
+                  </name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

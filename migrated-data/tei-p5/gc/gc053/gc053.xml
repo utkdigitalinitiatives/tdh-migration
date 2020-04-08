@@ -1,0 +1,216 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc053">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1843 Dec. 20 [to] James King / Thomas Moore: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc053</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1843 Dec. 20 [to] James King / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1843-12-20">December 20, 1843</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated December 20, 1843 from Thomas Moore to James M. King.  In addition to asking King to repent his political sins, Moore reports on the condition of his crops, and plans for future visits.   </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1843</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">gc053</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Wit and social status</term>
+               <term>Comfort letters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc053a.small.jpg"/>
+            <opener>
+               <add>24</add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice> James M King near Murfreesboro Tennessee</addrLine>
+               </address>
+               <add>Mail</add>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Thos</abbr>
+                        <expan>Thomas</expan>
+                     </choice>. O. Moore</name> 1843 to <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. King (Rich Read)</add>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <name>Alexandria</name>
+                        <name>
+                           <choice>
+                              <abbr>La</abbr>
+                              <expan>Louisiana</expan>
+                           </choice>
+                        </name>. <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 25</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc053b.small.jpg"/>
+               <address>
+                  <addrLine>Alexandria, La,</addrLine>
+               </address>
+               <date>20th <choice>
+                     <abbr>Dec</abbr>
+                     <expan>December</expan>
+                  </choice>. 1843</date>
+               <salute>Dear <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>.</salute>
+            </opener>
+            <p> From laziness and many other causes I have not written you for a long time, and suppose you can <choice>
+                  <orig>alledge</orig>
+                  <reg>allege</reg>
+               </choice> the same cause as I know you have no other. We have been in fine health all summer &amp; full both whites &amp; blacks, our county has much improved as regards its healthiness, but as to <unclear><?xm-replace_text {unclear}?></unclear> rascality is hard to beat.  </p>
+            <p>I have never seen such a summer &amp; fall I <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> think I have seen the sun shine for three hours in two months.  father Millers predictions may be <choice>
+                  <orig>fulfiled</orig>
+                  <reg>fulfilled</reg>
+               </choice> as regards other parts of the world but assure you it would be difficult to burn <name>red river</name> at this time, all the plantations in the raft are under water and from <name>
+                  <choice>
+                     <abbr>Alexd</abbr>
+                     <expan>Alexandria</expan>
+                  </choice>
+               </name>. down more or less so.  and now raining.</p>
+            <p>Crops are bad in the whole valley of the <name>Mississippi</name> &amp; <name>Red river</name>   great many falling below half crops, I shall make three hundred bales &amp; ought to have made five, my corn crop is very fine &amp; shall kill between twenty three &amp; four thousand pounds of pork, which will be the greatest abundance for my family, our cotton selling from 7 to 11 <choice>
+                  <abbr>¢</abbr>
+                  <expan>cents</expan>
+               </choice> though little as yet at the latter price, although there is no doubt that it will still gradually improve the crop can not exceed 1700,000 Bales that is now pretty well ascertained &amp; large <choice>
+                  <orig>betts</orig>
+                  <reg>bets</reg>
+               </choice> have been made on that in <choice>
+                  <abbr>N</abbr>
+                  <expan>New</expan>
+               </choice>.<choice>
+                  <abbr>O</abbr>
+                  <expan>Orleans</expan>
+               </choice>.</p>
+            <pb n="3" facs="gc053c.small.jpg"/>
+            <p>I should now be getting in <choice>
+                  <orig>clous</orig>
+                  <reg>close</reg>
+               </choice> to my waist were it not for my unfortunate endorsements, a damned Coon has got his snout into my purse for six thousand dollars and the only chance to get clear is to pay it for him, I tell you <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>. these devils are not to be trusted, the two any more than the four <choice>
+                  <orig>leged</orig>
+                  <reg>legged</reg>
+               </choice> ones, is it possible you are determined to die in the sin of Coonery?  I pray for you every night &amp; sometimes in the day &amp; do trust that my praying may be heard &amp; that you may yet repent your political sines &amp; his found fighting under the banner of free trade &amp; Equal nights, no duty for protection to any particular class, and <choice>
+                  <orig>nore</orig>
+                  <reg>nor</reg>
+               </choice> any for them than is requisite for an economical administration of the government.  I pray for you <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>. &amp; want you in the Divine ranks, you are the only stray sheep of the blood, return to the fold from which you <choice>
+                  <orig>destened</orig>
+                  <reg>destined</reg>
+               </choice> and O, how happy you would be, you would be casting off that load that weighs down your Conscience &amp; pressed from you many a tear.  The tears are now <choice>
+                  <orig>driping</orig>
+                  <reg>dripping</reg>
+               </choice> from my eyes for your sinful ways, so I have done.</p>
+            <p>I have had no letter from Sarah or Brothers, is that suit yet terminated? and how is she living? I hope that Brothers is industrious &amp; <choice>
+                  <orig>excerting</orig>
+                  <reg>exerting</reg>
+               </choice> himself to make a support, please write me what she is most in want of, although my endorsements press heavily on me she shall not suffer so long as I can raise a shilling I hope you will see her frequently &amp; keep her in good spirits, because she is poor she must not <choice>
+                  <orig>dispond.</orig>
+                  <reg>despond</reg>
+               </choice>
+            </p>
+            <pb n="4" facs="gc053d.small.jpg"/>
+            <p>The expenses that have been <choice>
+                  <orig>incured</orig>
+                  <reg>incurred</reg>
+               </choice> in the suit that Brothers can not pay please write me by <choice>
+                  <abbr>Cap</abbr>
+                  <expan>Captain</expan>
+               </choice> when he comes down &amp; I will remit it by him, unless you will take your crop and visit <name>
+                  <choice>
+                     <abbr>N</abbr>
+                     <expan>New</expan>
+                  </choice>. Orleans</name>  and I will meet you there any time in January and you can come up home with me, nothing except a visit from father &amp; mother would please us so much as one from you Cousin Patsy &amp; family and every <gap agent="damage"/> live in hopes to see you on <name>red river</name>. Tell <gap agent="damage"/> bring Cousin Pamilla &amp; the children </p>
+            <p>Uncle has been in better health this winter than for many years, the balance are well.  Bethiah &amp; Em <choice>
+                  <orig>joines</orig>
+                  <reg>joins</reg>
+               </choice> me in love to Cousin Patsy &amp; family, Tom &amp; family and all the rest of our relations, and accept the best wishes for the good health &amp; happiness of all, and your conversion to true Democracy of your Relative &amp; Friend</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+               <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> King Bethia begs for some more Ciders if an opportunity presents of getting them to <name>Nashville</name>, place them in a Keg &amp; sift the dirt in &amp; then pour water on to make it melt in among the roots is all sufficient</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

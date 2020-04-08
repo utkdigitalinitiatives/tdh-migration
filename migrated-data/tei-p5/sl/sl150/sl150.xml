@@ -1,0 +1,165 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl150">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1821, Jan. 7, Canton, China [to] George Washington Campbell, State of Tennessee  / James Matheson   : a machine readable transcription of an image</title>
+            <author>Matheson, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl150</idno>
+            <idno>OCLC: 50563877</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1821, Jan. 7, Canton, China [to] George Washington Campbell, State of Tennessee  / James Matheson</title>
+               <author>Matheson, James </author>
+               <date when="1821-01-07">January 7, 1821</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from James Matheson in Canton, China to his uncle and Tennessee statesman George Washington Campbell, dated January 7, 1821. Matheson explains that due to the East India Company's monopoly on British trade in the far East, his stay in China is threatened.  He is thus inquiring of his uncle to appoint him Vice Consul for the United States to China, despite the fact that he is a British citizen.</note>
+               <note type="collection" anchored="true">George Washington Campbell Papers IV-F-4</note>
+               <note type="box" anchored="true">B:2</note>
+               <note type="folder" anchored="true">F:21</note>
+               <note type="document" anchored="true">sl150</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no89012861"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Matheson, James, 1796-1878</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl150a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Canton China</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1821-01-07">7th January 1821</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>My Brother <name type="person">Duncan</name> has forwarded to me a Letter which you had the goodness to write to him from <name type="place">St. <choice>
+                     <orig>Petersburgh</orig>
+                     <reg>Petersburg</reg>
+                  </choice>
+               </name> under date <date when="1819-11-15">15/27 November 1819</date> Encouraged by the friendly manner in which <unclear>law</unclear> there mentioned take the liberty of addressing you on the same subject And beg leave first to state the motive of my brother's application to procure for me the appointment of American Vice Consul at <name type="place">Canton</name> in which you are so kind as  to interest yourself    The <name type="person">British</name> trade with <name type="place">China</name> as is well known is a Monopoly of the East India Company who however have relinquished that part <unclear>opt</unclear> carried on between China  and <name type="place">India</name> to the natives &amp; licensed British merchants  residing in the latter To this last Class belong being employed here as agent by several commercial houses at <name type="place">Calcutta</name>. But there is an inconvenience attending my Situation arising from a regulation of the East India Company prohibiting our remaining in China for more than one Season <emph>in continuity</emph> and <add place="bottom, right">requiring</add>
+               <pb n="2" facs="sl150b.small.jpg"/> requiring us to return every year to <name type="place">India</name>. Many of my Countrymen to avoid this have obtained Commissions from foreign powers to reside in China. The <name type="person">Prussian</name> Consul &amp; Vice Consul, the <name type="person">Austrian</name>, <name type="person">Swedish</name> &amp; <name type="person">Sardinian</name> Consuls are British Subjects, yet in virtue of their office are not considered subservient to the East India Company regulations. Could I be placed among this privileged number it would be a most important benefit to me. If  there are objections to appointing a Vice Consul for your Government an appointment to succeed  to the Office  of Consul on its being vacated by <name type="person">Mr. Wilcocks</name>would equally answer my purpose,— or in fact any sort of protection or Commission from the <name type="place">United States</name> or an Act of Citizenship Having thus stated my object shall only add that if it be in your power by any means to accomplish it I shall feel myself under the deepest obligation  This scarcely necessary for me to observe that pecuniary advantage in any shape is foreign to my views</p>
+            <p>If any  of my relation from <name type="place">America</name> or any friend of ours should be visiting this part of the world, it would give me singular <add place="bottom, right">pleasure</add>
+               <pb n="3" facs="sl150c.small.jpg"/>  pleasure to be introduced to them and to have an opportunity of showing them every acceptable attention and hospitality  in my power</p>
+            <p>It would ill become me to abuse the indulgence recorded to me by intruding with a long letter and  shall only further request affectionate remembrances to all my relations  with the Compliments of the <unclear>Season</unclear> and sincerest wishes  for a long continuance of all the blessings you enjoy</p>
+            <closer>
+               <salute>I remain with the greatest respect your affectionate nephew &amp; <unclear/> humble <choice>
+                     <abbr>Serv.</abbr>
+                     <expan>Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">James Matheson</name>
+               </signed>
+               <add place="below signature">P.S This letter is forwarded by my friend <name type="person">
+                     <unclear/> Perkins</name> &amp; <choice>
+                     <abbr>Co.</abbr>
+                     <expan>Company</expan>
+                  </choice> respondent here of a similar firm at <name type="place">New York</name>, whom I shall request to take charge of your reply</add>
+               <address>
+                  <addrLine>
+                     <name type="person">George Washington Campbell <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl150d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">George Washington Campbell <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <unclear/> Ambassador from the</addrLine>
+                  <addrLine>
+                     <name type="place">United States</name> to <name type="place">Russia</name>
+                  </addrLine>
+                  <addrLine>State of <name type="place">Tennessee</name>
+                  </addrLine>
+                  <addrLine>Matheson</addrLine>
+               </address>
+               <add place="up left side of page">
+                  <address>
+                     <addrLine>
+                        <name type="person">James Matheson</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Canton China</name>
+                     </addrLine>
+                     <addrLine>
+                        <date when="1821-01-12">12 <choice>
+                              <abbr>Jany </abbr>
+                              <expan>January</expan>
+                           </choice>1821</date>
+                     </addrLine>
+                  </address>
+                  <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received</expan>
+                  </choice>
+                  <date when="1821-06-15">15 June 1821</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

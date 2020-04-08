@@ -1,0 +1,173 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1804 Aug. 5, Knoxville, [Tennessee, to] Colonel [Return
+			 Jonathon] Meigs / [John Sevier]: a machine-readable transcription of an
+			 image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl058</idno>
+            <idno>OCLC: 47833111</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1804 Aug. 5, Knoxville, [Tennessee, to] Colonel
+				[Return Jonathon] Meigs / [John Sevier]: a machine-readable transcription of an
+				image</title>
+               <author>Sevier, John</author>
+               <date when="1804-08-05">August 5, 1804</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written to Cherokee
+				agent Colonel Return J. Meigs from Tennessee Governor John Sevier (1796-1801,
+				1803-1809) on August 5, 1804. The letter states that commissioners from
+				Tennessee and Georgia are to meet on the fifteenth of that month in order to
+				make arrangements for a road connecting the two states to be run through the
+				Cherokee Nation. Sevier asks Colonel Meigs to notify the Indian Chiefs of this
+				meeting and to also let the Georgian commissioners know that the Tennessee
+				commissioners may be late.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">1</note>
+               <note type="Document">tl058</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Roads--Design and construction</term>
+               <term>Georgia</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl058a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1804-08-05">5 August 1804</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Our Commissioners for the purpose of marking and laying off the road
+			 from 
+			 <name type="place">Tennessee</name> through the Indian Nation into
+			 the State of 
+			 <name type="place">Georgia</name>, are preparing to meet those
+			 <del type="overstrike">of</del>
+               <add place="supralinear">from</add> that State
+		  at 
+		  <name type="person">James Vans</name> on the 
+		  <date when="---15">15th</date> instant </p>
+            <p>I have deemed it proper to give you this information, in order that
+			 you may avail <choice>
+                  <orig>Your self</orig>
+                  <reg>Yourself</reg>
+               </choice> of <del type="overstrike">any</del> an opportunity of giving the necessary information
+		  to the Indian <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice> that they may attend  I
+		  beg you will be so <choice>
+                  <orig>oblidging</orig>
+                  <reg>obliging</reg>
+               </choice> as to Write on to 
+		  <name type="person">Vans</name>, <choice>
+                  <orig>leting</orig>
+                  <reg>letting</reg>
+               </choice> the
+		  Commissioners <del type="overstrike">know</del> of 
+		  <name type="place">Georgia</name> know, those from 
+		  <name type="place">Tennessee</name> will soon be on  if not on
+		  the day, in a very short time afterwards.</p>
+            <p>I <del type="overstrike">would <unclear>unk</unclear>
+               </del>
+               <add place="supralinear">would be</add> unwilling to impose this trouble on
+		  you, had we any opportunity from this Quarter</p>
+            <closer>
+               <salute>I have the Honor  
+				<choice>
+                     <abbr>C</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <address>
+                  <addrLine>
+                     <name type="person">Colonel Meigs</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="tl058b.small.jpg"/>
+            <p>Copy to 
+			 <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Meigs</name>
+               <lb/>
+               <date when="1804-08-05">5 August 1804</date>.
+               </p>
+         </div>
+      </back>
+   </text>
+</TEI>

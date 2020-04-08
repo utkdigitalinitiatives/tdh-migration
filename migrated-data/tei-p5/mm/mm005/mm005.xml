@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Photograph of the central hearth of a Cherokee townhouse in
+			 mid-18th century Toqua, taken in 1977] / [by Robert D. Newman] : a
+			 machine-readable transcription</title>
+            <author>Newman, Robert D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. 3k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>mm005</idno>
+            <idno>OCLC: 45075595</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Museum, University of
+				Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Photograph of the central hearth of a Cherokee townhouse in
+				mid-18th century Toqua, taken in 1977] / [by Robert D. Newman]</title>
+               <author>Newman, Robert D.</author>
+               <date>1977</date>
+               <extent>1p</extent>
+               <note type="summary">This is a photograph of the central hearth of a
+				Cherokee townhouse at Toqua, a mid-18th century Overhill Cherokee Village on
+				the Little Tennessee River (present day Monroe County, Tennessee). The village,
+				whose name means place of a mythic great fish, is on the same site as a late
+				Mississippian Dallas culture, 1200-1600 A.D. American Revolutionary War forces
+				destroyed the town in 1776 and 1780. It was destroyed again in 1788 post-war
+				hostilities. In the 1970's, extensive archaeological excavations were conducted
+				prior to its inundation by the waters of the Tellico Dam Reservoir. These
+				excavations uncovered Mississippian structures as well as those of 18th century
+				Cherokee. Of the latter were recorded 2 townhouses, 10 dwellings, and a number
+				of refuse pits and burials. Excavations of Overhill Cherokee Villages were
+				conducted by the University of Tennessee between 1967 and 1983 as part of the
+				Tellico Archaeological Project. Excavations continued until 1983, and
+				laboratory studies and report preparation continued until 1987. The excavations
+				were conducted under contract with the National Park Service and the Tennessee
+				Valley Authority (TVA). Principal Investigator, Jefferson Chapman. Field
+				Director, Robert D. Newman.</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note type="document">mm005</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Photographs</term>
+               <term>Cherokee Indians--Antiquities</term>
+               <term>Hearths</term>
+               <term>Salvage archaeology</term>
+               <term>Historic sites</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n86838538"
+                        role="Photographer http://id.loc.gov/vocabulary/relators/pht">Newman, Robert D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm005.small.jpg"/>
+            <p>
+               <figure>
+                  <head>
+                     <unclear/> Cherokee Excavation <unclear/>
+                     <date when="1977-04">April 1977</date>
+                  </head>
+                  <figDesc>Central hearth Cherokee townhouse at Toqua, mid-18th
+				  century, excavations by University of Tennessee, 1977. Photograph by Robert D.
+				  Newman. This information was provided by the Frank H. McClung Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

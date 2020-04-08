@@ -1,0 +1,148 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl438">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1823 Apr. 13, Nashville [Tennessee] [to] John Overton, Travellers Rest, Nashville [Tennessee] : a machine readable transcription of an image</title>
+            <author>McLemore, John C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl438</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1823 Apr. 13, Nashville [Tennessee] [to] John Overton, Travellers Rest, Nashville [Tennessee]</title>
+               <author>McLemore, John C.</author>
+               <date when="1823-04-13">April 13, 1823</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from John C. McLemore to John Overton, dated April 13, 1823. McLemore is describing a preferred travel route for  a man named Lewis to take to Memphis. McLemore thinks he should go by land and is willing to loan him a horse.</note>
+               <note type="collection" anchored="true">Overton Papers</note>
+               <note type="box" anchored="true">Correspondence</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl438</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Travel</term>
+               <term>Overton, John</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McLemore, John C.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl438a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>13th <choice>
+                           <abbr>Apl</abbr>
+                           <expan>April</expan>
+                        </choice> 1823</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir;</salute>
+            </opener>
+            <p>upon consultation with <name>
+                  <choice>
+                     <abbr>Maj</abbr>
+                     <expan>Major</expan>
+                  </choice> Hockley</name> we think it the safest and most advisable course to send <name>Lewis</name> with our Horse direct to <name>Memphis</name>__ There are Several objections to the other <choice>
+                  <orig>rout</orig>
+                  <reg>route</reg>
+               </choice> we think it very <choice>
+                  <orig>doubtfull</orig>
+                  <reg>doubtful</reg>
+               </choice> whether Lewis  <unclear>
+                  <choice>
+                     <abbr>coud</abbr>
+                     <expan>could</expan>
+                  </choice>
+               </unclear> cross  Forked Deer at <name>Rutherford</name> _ but a still greater difficulty is to get a passage up to the mouth of the Forked Deer__ the maj informs me that the boats uniformly pass on the opposite side from memphis and if it was otherwise no boat will come too for one or two passengers he <del type="overstrike">[unclear]</del> frequently tried when he was at the Bluffs &amp; every attempt failed__ this being the case we might be delays two <unclear>weeks</unclear> at the Bluffs and then not get a passage up_ To make certain, let Lewis go direct with our horse to the Bluffs,__ I can direct him a rout that he can get there without any difficulty__ which is to cross at <name>Jackson</name>__ <unclear>Hatcha</unclear> at Polks ferry and from there the new road direct to Memphis_ crossing <unclear>wolf</unclear> at the Horse ford where there is a ferry_ there is no difficulty at any stage of water this rout  it is about 30 miles out of the way_ Say whether we shall adopt this rout.__</p>
+            <closer>
+               <salute>Your friend</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> C McLemore</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> This arrangement nu <gap/> you as you can make an arrangement with the cass <gap/> of the Nashville to stop on his return or can wait for some boat which may leave cargo at memphis_ if you can get a passage up Lewis can return with me to Rutherford with your horse___</add>
+               <add>
+                  <choice>
+                     <abbr>J.C.M</abbr>
+                     <expan>John C. McLemore</expan>
+                  </choice>
+               </add>
+               <add>the <gap/> will leave here on wednesday morning certain___</add>
+               <pb n="2" facs="sl438b.small.jpg"/>
+               <address>
+                  <addrLine>The <abbr>Honorable</abbr>
+                  </addrLine>
+                  <addrLine>
+                     <name>John Overton</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Travellers Rest</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <address>
+                     <addrLine>John C. McLemore</addrLine>
+                     <addrLine>Apl 13th 1823</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

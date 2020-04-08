@@ -1,0 +1,256 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Feb. 28, Hermitage [to] Major W[illia]m B Lewis /
+			 Andrew Jackson : a machine-readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc045</idno>
+            <idno>OCLC: 50407027</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1845 Feb. 28, Hermitage [to] Major W[illia]m B Lewis
+				/ Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1845-02-28">February 28, 1845</date>
+               <extent>2p</extent>
+               <note type="summary">This document is letter from Andrew Jackson (US
+				president, 1829-1837) to Major William B. Lewis dated February 28, 1845. In the
+				letter, Andrew Jackson states to Major Lewis his opinions about who he believes
+				to be the best men for the Tennessee State Department administration. Jackson
+				approves Mr. Clay for the Secretary of State position and Mr. Buchanan into the
+				Department of State. He approves of Colonel Polk obtaining a position in the
+				administration, but says that Mr. Tyler's succession to the administration
+				would split the democracy apart and damage Polk's administration. Jackson
+				concludes this letter by informing Major Lewis of his failing health. He
+				consequently dies several months later.</note>
+               <note type="Collection"> Andrew Jackson</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-219</note>
+               <note type="Document">sc045</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jackson, Andrew 1767-1845</term>
+               <term>Tennessee</term>
+               <term>Clay, Henry 1811-1847</term>
+               <term>Tennessee Politics and government To 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc045a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Hermitage</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1845-02-28">
+                        <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice> 28th
+					 1845</date>
+                  </addrLine>
+                  <addrLine>
+                     <add place="top left corner">
+                        <emph>private</emph>
+                     </add>
+                     <name type="person">Major 
+					 <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> B Lewis</name>,</addrLine>
+               </address>
+               <salute>My dear Major,</salute>
+            </opener>
+            <p>Your interesting letter of the 
+			 <date when="---17">17th</date>, instant is <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice>, advising that mine of the 
+			 <date when="---04">4th</date>
+               <date when="---05">5th</date> had reached you  Before
+			 this reaches you 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Polks</name>
+               <choice>
+                  <orig>Cabinett</orig>
+                  <reg>Cabinet</reg>
+               </choice> will be known, and I am <gap/> there will no
+			 one compose it unless under the terms I named to you should there be, then 
+			 <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Polk must have changed his mind
+			 after he left me. Your observations with regard to 
+			 <name type="person">Mr. <choice>
+                     <orig>Buchannan</orig>
+                     <reg>Buchanan</reg>
+                  </choice>
+               </name>,
+			 are correct  He <choice>
+                  <orig>shwd</orig>
+                  <reg>showed</reg>
+               </choice> a want of moral courage
+			 in the affair of the intrigue of 
+			 <name type="person">Adams  Clay</name>  did not do me
+			 justice in the expose he then made  and I am sure about that time did
+			 believe there was a perfect understanding between Adams  Clay about the
+			 presidency  the <choice>
+                  <orig>Secratary</orig>
+                  <reg>Secretary</reg>
+               </choice> of State 
+			 This I am sure of  But whether 
+			 <choice>
+                  <abbr>Ive</abbr>
+                  <expan>I have</expan>
+               </choice> ceded that there was any corruption
+			 in the case or not I know not, but one thing I do know, that he wished me to
+			 combat <add place="supralinear">them</add> with <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice>
+			 own weapons  that was to let my friends say if I was elected I would
+			 make Mr. Clay Secretary of State  This to <emph>me</emph> appeared deep
+			 corruption,  I repelled at  with that honest indignation, as I
+			 thought such corruption deserved!! Mr. Buchanan is a man of fine talents 
+			 if he comes into the Department of State will execute the duties with ability
+			 </p>
+            <pb n="2" facs="sc045b.small.jpg"/>
+            <p>I was truly astonished at some information brought by 
+			 <name type="person">Mr A. Jackson jr</name>  from 
+			 <name type="place">Nashville</name> the other day. It was this, that 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Laughlin</name>
+			 had went on to 
+			 <name type="place">Washington</name> had bought an interest in the
+			 Madisonian, and expected to make it the organ of the administration This if
+			 true would be one of the most fatal steps for 
+			 <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Polk that could be taken it would be
+			 placing him in the Shoes of 
+			 <name type="person">Mr. Tyler</name>, and Laughlin travelling on with
+			 the 
+			 <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> to Washington would place 
+			 <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Polk under the implication of taking
+			 him on there for the purpose which I am sure was not the case. Common sense
+			 will at once shed the evil consequences that had ensue to 
+			 <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Polk, to put himself in the attitude
+			 of <choice>
+                  <orig>favouring</orig>
+                  <reg>favoring</reg>
+               </choice> Mr. Tyler for the succession 
+			 It would split the democracy to pieces, and redound to the great injury of
+			 Polks administration  I have from the moment I heard it put my face
+			 against it,  hope I have checked this inconsiderate movement  I
+			 hope there is no truth in the rumor  if there is, there is less common
+			 sense in the movers than I calculated upon, let me hear from you.</p>
+            <p>your sister 
+			 <name type="person">Mrs. Leister</name>,  one of her daughters
+			 spent day before yesterday with us  They all enjoy good health</p>
+            <p>All my <choice>
+                  <orig>Houshold</orig>
+                  <reg>Household</reg>
+               </choice> join me in the kindest
+			 salutations,</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yr</abbr>
+                     <expan>your</expan>
+                  </choice> friend.</salute>
+               <signed>
+                  <name type="person">
+                     <emph>Andrew Jackson</emph>
+                  </name>
+               </signed>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> My shortness of
+			 breath increases  I am greatly afflicted  
+			 <choice>
+                     <abbr>A J.</abbr>
+                     <expan>Andrew Jackson</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

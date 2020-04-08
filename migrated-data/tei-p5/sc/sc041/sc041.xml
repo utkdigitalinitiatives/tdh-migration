@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biographical Album of Tennessee Governors [James Chamberlain
+			 Jones 1841-1845] / J. S. Jones : a machine-readable transcription of an
+			 image</title>
+            <author>Jones, J. S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc041</idno>
+            <idno>OCLC: 50406701</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Biographical Album of Tennessee Governors [James Chamberlain
+				Jones 1841-1845] / J. S. Jones</title>
+               <author>Jones, J. S.</author>
+               <date when="1904">1904</date>
+               <extent>2p</extent>
+               <note type="summary">The , dated 1904, contains 31 plates, each
+				featuring a Tennessee Governor's photo on the front and biographical
+				information on the back. This plate features James Chamberlain Jones.</note>
+               <note type="Collection">Biographical Album of Tennessee
+				Governors</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">F435.J65</note>
+               <note type="Document">sc041</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jones, James C. (James Chamberlain), 1809-1859</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Jones, J. S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc041a.small.jpg"/>
+            <p>
+               <figure>
+                  <head>
+                     <name type="person">James Chamberlain Jones</name> 1841-1845
+				  [Photo]</head>
+               </figure>
+            </p>
+         </div>
+         <pb n="2" facs="sc041b.small.jpg"/>
+         <div subtype="1" type="letter">
+            <p>
+               <name type="person">James Chamberlain Jones</name>, Governor of
+			 Tennessee, 1841-1845, was the first native born Governor of 
+			 <name type="place">Tennessee</name>. He was born June 7, 1809, near 
+			 <name type="place">Nashville</name>; was educated for the law, but
+			 became a farmer on account of his health. Without political ambition, Jones was
+			 induced to run for the Legislature 1839, and was elected to the Lower House. He
+			 developed such strength as a campaign speaker that he was chosen as elector on
+			 Whig ticket 1840. This brought him into prominence and 1841 he was the
+			 unanimous choice of the Whigs for Governor. His campaign against 
+			 <name type="person">Polk</name>, the Democratic candidate, has become
+			 memorable as the origin of modern political "stump" speaking. With wit and
+			 humorous stories he completely swept aside the logical arguments of his
+			 opponent, and gave the people a campaign of good humor. He was elected by a
+			 vote of 53,586 to 50,343. 1843 he defeated Polk the second time. Among the
+			 important acts of his administration was the selection of Nashville as the
+			 permanent capital of the State, 1843, and the beginning of the erection of the
+			 present Capitol. 1848 Jones headed the electorial ticket of the State for 
+			 <name type="person">Taylor</name> and 
+			 <name type="person">Filmore</name> and 1851 was elected to U.S.
+			 Senate where he served until 1857. He died at 
+			 <name type="place">Memphis</name> October 29, 1859.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

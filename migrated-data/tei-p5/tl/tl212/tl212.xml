@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl212">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1828 Jun. 14 [to] Samuel Houston, Nashville, Ten [nessee] / R M Woods :a machine readable transcription of an image</title>
+            <author>Woods, R M</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl212</idno>
+            <idno>OCLC: 49960948</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1828 Jun. 14 [to] Samuel Houston, Nashville, Ten [nessee] / R M Woods</title>
+               <author>Woods, R M</author>
+               <date when="1828-06-14">June 14, 1828</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Governor Samuel Houston (1827-1829) from R M Woods on June 14, 1828. R M Woods asks for the pardon of a farmer named Daniel Allen. Woods states that this farmer is respected by his neighbors and is needed to support his family as reasons that he should be pardoned.</note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence </note>
+               <note type="box" anchored="true">Jackson - Woods, b1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">tl212</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Allen, Daniel</term>
+               <term>Houston, Sam, 1793-1863</term>
+               <term>Pardon</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Woods, R. M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl212a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Greeneville</name>
+                     <date when="1828-06-14">14th June 1828</date>
+                  </addrLine>
+                  <addrLine>His <choice>
+                        <orig>Excellancy</orig>
+                        <reg>Excellency</reg>
+                     </choice>
+                     <name type="person">Samuel Houston</name>,</addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <name type="person">Daniel Allen</name> is a very industrious farmer and a respectable standing in this section of Country. He has a large family of children whose future character and fortune will greatly depend on that of their Father, The lamentable Situation in which he is placed at this time, was produced by a connection of circumstances of the most aggravating nature —</p>
+            <p>Should you Sir think it expedient, to extend &amp; pardon to him entire, or in part, I have no  hesitancy in saying that I believe it will meet with the entire approbation of a large majority of the most respectable citizens of this County</p>
+            <closer>
+               <salute>I am Sir your very humble <choice>
+                     <abbr>servt</abbr>
+                     <expan>servant</expan>
+                  </choice>,</salute>
+               <signed>
+                  <name type="person">
+                     <emph>R M Woods</emph>
+                  </name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl212b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>His <choice>
+                        <orig>Excellancy</orig>
+                        <reg>Excellency</reg>
+                     </choice>
+                     <name type="person">Samuel Houston</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">
+                  <unclear>Favor</unclear> of <lb/>
+                  <name type="person">
+                     <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice> F. A. Howard</name> }</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

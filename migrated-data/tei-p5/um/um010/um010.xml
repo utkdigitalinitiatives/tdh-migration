@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Jan. 11 [to] Mr. Alex D. Coffee, University of Nashville, Tennessee / A[ndrew] J[ackson] Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um010</idno>
+            <idno>OCLC: 50198672</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Jan. 11 [to] Mr. Alex D. Coffee, University of Nashville, Tennessee / A [ndrew] J [ackson] Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1840-01-11">January 11, 1840</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter from Andrew Jackson Coffee to his brother, Alex D. Coffee, dated January 11, 1840. Alex is studying at the University of Nashville, Tennessee, and Andrew writes to him telling of events that have occured to others that they know and to himself.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903 MS 27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">um010</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Education, Higher</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um010a.small.jpg"/>
+            <opener>
+               <add place="above address, left">
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+               </add>
+               <add place="above address, right">12 ½</add>
+               <add place="above address">
+                  <unclear>Paid many <lb/> Paid good this way &amp; like it</unclear>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr Alex D Coffee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">University of Nashville</name>
+                  </addrLine>
+                  <addrLine>University of Nashville Tennessee</addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address, sideways">Mr Alex D Coffee</add>
+               <pb n="2" facs="um010b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Hickory Hill</name>
+                     <date when="1840-01-11">
+                        <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 11th 1840</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Alex</salute>
+            </opener>
+            <p>This is the first time I have been able to write you for a considerable time past having been <choice>
+                  <orig>buisily</orig>
+                  <reg>busily</reg>
+               </choice> engaged. As I have moved my board &amp; washing down to <name type="person">Hutchings</name> and since then have been engaged in making my Returns to the Land office</p>
+            <p>I sent those plotting Instruments in to you by <name type="person">Major Hickman</name> You can get them <unclear>refurbished</unclear> if you should need the pens, All are well now since Coffee has recovered from his illness.</p>
+            <p>
+               <name type="person">John Eastin</name> has been out but has returned to <name type="place">Columbia</name> &amp; is again expected out, he is going to <name type="place">Mississippi</name> on the <emph>
+                  <name type="place">
+                     <choice>
+                        <orig>Lusescuna</orig>
+                        <reg>Lusiscuna</reg>
+                     </choice>
+                  </name>
+               </emph>, to begin live &amp; a poor out he make of it I am afraid <name type="person">Uncle Jack</name> is still crazy if I may use the expression...</p>
+            <p>I know of no news except the Old Ludy has made 1.30 and bales of cotton but I am afraid no more money than ordinary owing to the reduced price of the <unclear>article</unclear>.</p>
+            <p>
+               <name type="person">Betty</name> &amp; myself are now established as happily as possible &amp; we will <pb n="3" facs="um010c.small.jpg"/> continue at <emph>our</emph> present residence for the present year. When we will go the Lord knows where.</p>
+            <p>Write occasionally &amp; remember me &amp; all of us kindly to our Relatives there. All unite in love Regards for you &amp; <name type="person">Andrew Mc L</name>
+            </p>
+            <closer>
+               <salute>Your affectionate Brother</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>A. J.</abbr>
+                        <expan>Andrew Jackson</expan>
+                     </choice> Coffee</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,195 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl233">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 Dec. 23, Memphis [TN] [to] John A. Claybrooke, Williamson County, Tenn[essee] / John Overton   : a machine readable transcription of an image</title>
+            <author>Overton, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl233</idno>
+            <idno>OCLC: 51237001</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1842 Dec. 23, Memphis [TN] [to] John A. Claybrooke, Williamson County, Tenn[essee] / John Overton</title>
+               <author>Overton, John</author>
+               <date when="1842-12-23">December 23, 1842</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from John Overton to John A Claybrooke. It is dated December 23, 1842. Overton gives the details of a land purchase deal between himself and Joseph J. Andrews. He wants to use the money to build a ferry boat. He writes about an upcoming business trip to Pittsburgh. He is going with Major Winchester in relation to the ferry boat project.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl233</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Real property</term>
+               <term>Ferries</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n89613198"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Overton, John, 1766-1833</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl233a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                     <date when="1842-12-23">
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 23rd 1842</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>
+               <choice>
+                  <abbr>Yrs</abbr>
+                  <expan>Yours</expan>
+               </choice> of the 11th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> came duly <choice>
+                  <sic>to to</sic>
+                  <corr>to</corr>
+               </choice> hand enclosing a check for $212 on the <unclear>F &amp; M Bank</unclear> —  I will keep the receipt signed by <name type="person">Mr Brinkly</name> and myself until  I see you — Mr Brinkly  collected a few days since of <unclear>
+                  <name type="person">Lou W Falbot</name>
+               </unclear> his note due <date when="1841-01-10">
+                  <choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice> 10th 1841</date> for $666.66 with interest there on amounting to $744— One third of which I sent Br James a check for — you can take his receipt for the same and <unclear>we will</unclear> give you  <unclear>one</unclear> when you come down</p>
+            <p>I sold on yesterday 2 lots to <name type="person">Joseph J Andrews</name> of the firm of Andrews &amp; Brothers of <name type="place">New Orleans</name> for $10.000— <choice>
+                  <abbr>viz</abbr>
+                  <expan>videlicet</expan>
+               </choice> lot <choice>
+                  <abbr>no</abbr>
+                  <expan>number</expan>
+               </choice> 79 <unclear>Howards corner with its income ?</unclear> that is I am not bound to give him possession until <date when="1846-06">June 1846</date> and lot no 114 immediately back of said lot fronting in Main Street The terms were to be cash at first until he found out how long it would be before he could get possession then he backed out &amp; the trade now stands this way </p>
+            <p>He is to pay $25.00 down that is as soon as you will make him a title Bond to make <pb n="2" facs="sl233b.small.jpg"/> him a title — the balance $ 7500 payable three years after date with interest from date which is six months before we would have possession or before <unclear>Howards</unclear> Lease Runs out — Now in the event he never makes the last payment we have his $2500 &amp; will get possession just as soon as if the trade had never been made —</p>
+            <p>I was induced to sell him the lots  by two reasons first ⁁ <add place="supralinear">and principally</add> because Mr Brinkly and myself both thought it was a very high price for them higher probably than any had been sold for here before and secondly I am compelled at this time to have some money to build a ferry Boat (2/3 of which $25.00 I will get) — I say compelled because I have failed in my attempt to rent it out I can get no responsible man to take it &amp; to build is my only alternative — Now you know <name type="person">
+                  <choice>
+                     <abbr>Maj</abbr>
+                     <expan>Major</expan>
+                  </choice> Winchester</name> is not in a situation to do so &amp; the whole falls upon my shoulders — We have a proposition to sell us one at <name type="place">Pittsburg</name> for $4.000 one half cash part of which we will put our old <unclear>Engine in for now. New</unclear> Albany the other half he is to retain possession of by putting an  engineer on her until the whole is paid or they will run her as half owners and divide the profits — myself and Maj <choice>
+                  <abbr>W</abbr>
+                  <expan>Winchester</expan>
+               </choice> are going to <choice>
+                  <orig>Pittburg</orig>
+                  <reg>Pittsburg</reg>
+               </choice> so soon as I can hear from you and have her examined if she is <unclear>good</unclear>
+               <pb n="3" facs="sl233c.small.jpg"/> as they represent her to be I think we will buy her — if we do not like her we will have one build immediately — Now I do not do this through choice it is a matter of  necessity but I hope to make some <unclear>money?</unclear>
+            </p>
+            <p>It is also my wish when you sell <gap agent="damage"/> Winchester negroes to buy his <unclear>Boy ?</unclear> his family &amp; wife &amp; child — he is a good  <unclear>fetch</unclear> and will suit me very well provided I  get him upon reasonable terms — This I do not want known —</p>
+            <p>I hope the sale of the Lots and the terms will meet your approbation I send you <gap agent="damage"/> this mail a title bond drawn up as agreed upon for you to sign &amp; send back to me also two bank drafts which by the title bond is made payable to you — you will please endorse it and make it payable to my order on the back — so as I can get the money upon it — I will send Br James 1/3 of the same — Andrew is very responsible — The title <unclear>Bond shall not be</unclear> delivered until the draft is paid —</p>
+            <p>So soon as I hear from you, which I hope will be as soon as possible, Maj Winchester &amp; myself are going to Pittsburg — Present my best respect to cousin Mary and believe</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yr</abbr>
+                     <expan>your</expan>
+                  </choice> friend and <unclear>relative</unclear>
+               </salute>
+               <signed>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>John</expan>
+                  </choice> Overton</signed>
+               <pb n="4" facs="sl233d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">John A Claybrooke </name>
+                     <choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>Hardeman's X Roads</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Williamson County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="bottom of page, rotated">
+                  <name type="person">John Overton</name>
+                  <choice>
+                     <abbr>jr</abbr>
+                     <expan>junior</expan>
+                  </choice>
+                  <lb/>
+                  <choice>
+                     <abbr>Decb</abbr>
+                     <expan>December</expan>
+                  </choice> 1842 <lb/>
+                  <choice>
+                     <abbr>Answd</abbr>
+                     <expan>Answered</expan>
+                  </choice>
+                  <date when="1843-01-01">January 1st 1843</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

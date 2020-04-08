@@ -1,0 +1,105 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl172">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1816 Aug. 12, for field slave, [to] William Brown / James Brown    : a machine readable transcription of an image</title>
+            <author>Brown, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl172</idno>
+            <idno>OCLC: 51165248</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1816 Aug. 12, for field slave, [to] William Brown / James Brown</title>
+               <author>Brown, James </author>
+               <date when="1816-08-12">August 12, 1816</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a receipt written by James Brown for a slave on behalf of Joseph and William Brown. It is dated August 12, 1816</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">83-86</note>
+               <note type="document" anchored="true">sl172</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts</term>
+               <term>Slavery</term>
+               <term>North Carolina</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Brown, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl172a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <date when="1816-08-12">12th august 1816</date>
+               </dateline>
+            </opener>
+            <p>Received of <name type="person">Joseph Brown</name> one Note of hand on <name type="person">William Brown</name> for one likely sound field Negro <choice>
+                  <orig>Betwean</orig>
+                  <reg>Between</reg>
+               </choice> the age of fourteen and twenty five years to be Delivered in  <name type="place">Washington County of North Carolina</name> which Note was given to me by the said William Brown on the <date when="1789-08-12">12th of October 1789</date> and Due the <date when="1790-12-05">5th of December 1790</date> and Was assigned by me to the said Joseph Brown on the <date when="1806-01-16">16th of January 1806</date> for Collection if he Could for which Collection the said Joseph Brown give me <del type="overstrike">he</del> his Receipt which Receipt I have lost or Mislaid so that I Cannot find it ⁁ <add place="supralinear">at</add> this time given under my hand the Date above written</p>
+            <closer>
+               <signed>
+                  <name type="person">James Brown</name>
+               </signed>
+               <add place="left of signature">attest <lb/>
+                  <name type="person">
+                     <unclear>Bird</unclear> P Brown</name>
+                  <lb/>
+                  <name type="person">David Brown</name>
+               </add>
+               <pb n="2" facs="sl172b.small.jpg"/> James Brown <lb/> Receipt for <lb/>
+               <choice>
+                  <abbr>Wm,,</abbr>
+                  <expan>William</expan>
+               </choice> Brown Note</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

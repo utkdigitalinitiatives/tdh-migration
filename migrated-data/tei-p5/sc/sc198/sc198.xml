@@ -1,0 +1,248 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc198">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipts for merchandise] 1848 Apr. 12 [from] Parkes, Plunkett &amp; Co. : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc198</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipts for merchandise] 1848 Apr. 12 [from] Parkes, Plunkett &amp; Co.</title>
+               <date when="1848-04-12">April 12, 1848</date>
+               <extent> 6p</extent>
+               <note type="summary" anchored="true">This is three receipts for merchandise bought from Parkes, Plunkett &amp; Company in 1848.</note>
+               <note type="collection" anchored="true">Parkes, Plunket &amp; Co.</note>
+               <note type="box" anchored="true">MS-1592</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc198</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Stores -- family</term>
+               <term>Cotton</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc198a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville</addrLine>
+               </address>
+               <date>April 12 1848</date>
+               <name>
+                  <choice>
+                     <abbr>Messr</abbr>
+                     <expan>Messieurs</expan>
+                  </choice> Parkes Plunkett &amp; <choice>
+                     <abbr>Co</abbr>
+                     <expan>Company</expan>
+                  </choice>.</name>
+            </opener>
+            <p>
+               <table>
+                  <head>
+                     <choice>
+                        <abbr>Bot</abbr>
+                        <expan>Bought</expan>
+                     </choice> of <name>Stewart &amp; Co</name>.</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Box Gun Powder Tea 6 <choice>
+                           <abbr>lb</abbr>
+                           <expan>pound</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 75.</cell>
+                     <cell role="data" rows="1" cols="1">4.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 Bags Rio Coffee 99.5 lbs</cell>
+                     <cell role="data" rows="1" cols="1">@ 8</cell>
+                     <cell role="data" rows="1" cols="1">79.60</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Barrel of Molasses 42.3.39 <choice>
+                           <abbr>Gals</abbr>
+                           <expan>Gallons</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 25.</cell>
+                     <cell role="data" rows="1" cols="1">10.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Box 25. Blacking 1 Gross </cell>
+                     <cell role="data" rows="1" cols="1">4.50</cell>
+                     <cell role="data" rows="1" cols="1">4.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">50 lb Bar Lead</cell>
+                     <cell role="data" rows="1" cols="1">@ 5½</cell>
+                     <cell role="data" rows="1" cols="1">2.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Dozen Painted Buckets</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">2.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <abbr>Bt.</abbr>
+                           <expan>Bucket</expan>
+                        </choice> $1.25 Lard Oil</cell>
+                     <cell role="data" rows="1" cols="1">35 Gals @ 65.</cell>
+                     <cell role="data" rows="1" cols="1">24.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 <choice>
+                           <abbr>Bs</abbr>
+                           <expan>Bushel</expan>
+                        </choice>. "New York Mills" Flour</cell>
+                     <cell role="data" rows="1" cols="1">@ 5.50</cell>
+                     <cell role="data" rows="1" cols="1">11.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Gross Matches</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> .60</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 <choice>
+                           <abbr>Dz</abbr>
+                           <expan>Dozen</expan>
+                        </choice> Fishing Lines</cell>
+                     <cell role="data" rows="1" cols="1">@ 50.</cell>
+                     <cell role="data" rows="1" cols="1">2.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$142.45</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>DB 51</unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+               </table>
+            </p>
+            <p>charged to <choice>
+                  <abbr>a/c</abbr>
+                  <expan>account</expan>
+               </choice>
+            </p>
+            <pb n="2" facs="sc198b.small.jpg"/>
+            <p>Stewart &amp; Co. <lb/> Bill <lb/> April 12, 1848</p>
+            <pb n="3" facs="sc198c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Nashville<date>12th April 1849</date>
+                  </addrLine>
+               </address>
+               <name>Messr Parkes Plunkett &amp; Co.</name>
+               <name>Bob of Morgan Gardner &amp; Co.</name>
+            </p>
+            <p>11 Bags Wool 516 less 4 = 512 @ 25 $128.00 <lb/>
+               <choice>
+                  <abbr>chd</abbr>
+                  <expan>charged</expan>
+               </choice>. <lb/>
+               <unclear>Dro 252</unclear>
+            </p>
+            <pb n="4" facs="sc198d.small.jpg"/>
+            <p>Morgan Gardner &amp; Co <lb/> Bill of wool <lb/>
+               <choice>
+                  <abbr>Ap</abbr>
+                  <expan>April</expan>
+               </choice> 12 1849</p>
+            <pb n="5" facs="sc198e.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name>Franklin</name>
+                  </addrLine>
+               </address>
+               <date>April 24 1848</date> Parkes Plunkett &amp; Co.<lb/> Bot.<name>
+                  <choice>
+                     <abbr>Wm.</abbr>
+                     <expan>William</expan>
+                  </choice> J Bateman </name>
+               <lb/> 8 Bales cotton<choice>
+                  <abbr> wt.</abbr>
+                  <expan>weight</expan>
+               </choice> 3266 lbs @ 5 $ 163.30 <lb/> CB 00 <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice>. payment <lb/>
+               <name>Wm. J Bateman</name>
+            </p>
+            <pb n="6" facs="sc198f.small.jpg"/>
+            <p>Wm J Bateman <lb/> Receipt <lb/> April 1848</p>
+         </div>
+      </body>
+   </text>
+</TEI>

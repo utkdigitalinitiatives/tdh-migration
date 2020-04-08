@@ -1,0 +1,111 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl400">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1823 Apr. 10, Nashville, Tennessee [to] William Fitzgerald / Thomas Crutcher   : a machine readable transcription of an image</title>
+            <author>Crutcher, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl400</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1823 Apr. 10, Nashville, Tennessee [to] William Fitzgerald / Thomas Crutcher</title>
+               <author>Crutcher, Thomas</author>
+               <date when="1823-04-10">April 10, 1823</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a one page receipt for the payment of Tennessee state tax collected by William Fitzgerald dated April 10, 1823 to Thomas Crutcher.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams -Greer Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl400</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Financial statements</term>
+               <term>Local taxation</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Crutcher, Thomas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl400a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville</addrLine>
+               </address>
+               <date>April 10th 1823</date>
+            </opener>
+            <p>Received of <name>William Fitzgerald</name>, clerk of the circuit court of <name>Stuart county</name> Seventeen dollars, Being the amount of state tax by him collected for the year ending the first day of October eighteen hundred and twenty two which he is by law bound to <choice>
+                  <abbr>acct</abbr>
+                  <expan>account</expan>
+               </choice>. for agreeably to his return this day rendered for said year 1822  $17</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Crutcher</signed>
+               <add>Treasurer of West <name>Tennessee</name> There has no return for the year 1821 If <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice>
+                  <name>John Allen</name> does not send a return before the rise of <name>Davidson</name> circuit court I shall have a <choice>
+                     <abbr>judgt</abbr>
+                     <expan>judgement</expan>
+                  </choice> against him and send Execution immediately Your <name>
+                     <choice>
+                        <abbr>Tho</abbr>
+                        <expan>Thomas</expan>
+                     </choice> Crutchers</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

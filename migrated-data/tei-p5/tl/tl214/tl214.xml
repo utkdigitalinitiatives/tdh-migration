@@ -1,0 +1,123 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl214">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1796 Feb. 29, Philadelphia [to] Governor William Blount / J. Parkes : a machine readable transcription of an image</title>
+            <author>Parkes, J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl214</idno>
+            <idno>OCLC: 49961156</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1796 Feb. 29, Philadelphia [to] Governor William Blount / J. Parkes</title>
+               <author>Parkes, J.</author>
+               <date when="1796-02-29">February 29, 1796</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter to Governor William Blount from J. Parkes dated February 29, 1796. Parkes recommends a Mr. Harrison Almand, a wealthy gentleman from Virginia who is interested in settling in the Territory of the United States South of the Ohio River.</note>
+               <note type="collection" anchored="true">Governor William Blount Correspondence</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">tl214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Almand, Harrison</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Territory of the United States, South of the River Ohio</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Parkes, J.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl214a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Philadelphia</name>
+                     <date when="1796-02-29">
+                        <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice> 29 1796</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Although it is long since I had the pleasure of seeing or addressing you yet I am emboldened from our former acquaintance to recommend to your civilities &amp; attention<name type="person"> Mr. Harrison Almand</name> a Gentleman of my acquaintance from <name type="place">Virginia</name> who has determined to visit your Country with a view to a purchase &amp; settlement. he is wealthy &amp; respectable &amp; will become a worthy member of your Society. be pleased to excuse this freedom &amp; believe me with much respect &amp; esteem</p>
+            <closer>
+               <salute>Your Most <choice>
+                     <abbr>ob Sert</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">J. Parkes</name>
+               </signed>
+            </closer>
+            <pb n="2" facs="tl214b.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>His Excellency <name type="person">William Blount</name>
+                     <choice>
+                        <abbr>esq.</abbr>
+                        <expan>esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Governor of the <name type="place">Territory of the <choice>
+                           <abbr>U.S. S. </abbr>
+                           <expan>United States South</expan>
+                        </choice>of the <name type="place">River Ohio</name>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="under address">Mr. Almond</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

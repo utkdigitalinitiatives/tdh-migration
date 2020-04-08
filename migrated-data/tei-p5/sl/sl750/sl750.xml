@@ -1,0 +1,136 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl750">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1790 May 12, Knoxville [Tennessee, to] James Ore / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl750</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1790 May 12, Knoxville [Tennessee, to] James Ore / John Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1790-05-12">May 12, 1790</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor John Sevier to Colonel James Ore, dated May 12, 1790. Sevier is ordering Ore to go to the Cherokee Nation to find out their intentions towards a treaty. Sevier also asks Ore to recommend to the Cherokee the merits of an agrarian lifestyle over that of hunting. Sevier hopes that the Cherokee can be persuaded to part with more of their land. Sevier suggests they set up a trading post at Tellico. He also mentions the Law of Nations in relation to the Cherokees having more land than they can cultivate.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl750</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl750a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>12 May 1790</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>Colonel <name>James Ore</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>you will proceed from this place into the <name>Cherokee nation</name>, you will there endeavour to gain information from the chiefs and others, their intentions with respect to the present intended treaty, if they intend to dispose of any if their claims to land or not, if they be divided or unanimous either in disposing or refreshing; if they mean selling, what part of country__</p>
+            <p>you will effect to be disinterested on the occasion, give no advice, except they request it, or the subject is introduced by some of their own party; on that occasion signify to them, that the hunting is much <choice>
+                  <orig>deminished</orig>
+                  <reg>diminished</reg>
+               </choice>, and is daily becoming more so, that in case the <name>United States</name> would engage to give them an annuity in addition to the present one that probably it might be much to their advantage, as they would get more goods in that way than they could possibly make by hunting. their old and young helpless people would be provided for, it would also prevent the young and foolish from going to war, for that would forfeit all their annuities ____ They claim much land, could sell a great deal, and have enough left __ They ought to learn to raise stocks, and make crops of grain, which is by far the most profitable way of living, and the only sure way of living easy, well and becoming rich,__ such is the manner in which all the machinal arts are supplied and carried on Observe to them all those that follow hunting, is always poor, and few in number, and many by that practice fell into nothing, and is now no more; the <name>Creek Nation</name> is composed of about seventeen different tribes, yet they do not the whole of them <pb n="2" facs="sl750b.small.jpg"/> their amount to five thousand warriors, I mention this about the creeks because they know it to be a fact__ The indian nations are as old as the white, and have been as numerous, but now there is a million of white persons, to that of one indian__ Their peculiar practices, and manner of living has been the cause therefore it is time for the present existing tribes to quit the old forms.</p>
+            <p>A large trading town at the <name>Muscle shoals</name> would be the making of their country every thing can be brought there by water, and a probability, that every thing would be as cheap, as at <name>Philadelphia</name>, or any other place</p>
+            <p>Contrast that place with <name>Tellico</name> and <choice>
+                  <orig>shew</orig>
+                  <reg>show</reg>
+               </choice> them the advantage the shoals would have by suffering every body to carry on trade at a place where every thing would be received for goods, and not confined to skins and furs; those last articles will soon be done away, what then will be their condition if other arrangements are not made to receive such things as they can make and raise in their country _ If a town was settled at the Shoals, in the room of one store, there might soon be several hundred, and every one trying to sell lowest</p>
+            <p>Their country is well suited for raising stocks, and grain, and the present race had better enjoy the fruits of those advantages, and make the best of it now, than to leave it to the chance of their posterity, who may be foolish, and lose it all __ It is the duty of the old and leading men to leave those that stay behind them, in as safe a condition as possible, and not to grasp to hold too much, for fear they may lose all.__</p>
+            <p>The earth is the mother of all people the Great Being above, made it for all men, and they will all have a share of it._ By the law of Nations, it is agreed that no people shall be entitled to more land, than they can cultivate of course no people will sit and starve for want of land to work, when a <choice>
+                  <orig>neighbouring</orig>
+                  <reg>neighboring</reg>
+               </choice> Nation has much more than they can make use of __ Convince them by argument the great propriety of always being in friendship, with the people of this quarter <pb n="3" facs="sl750c.small.jpg"/> quarter, for on such depend their success, or ruin___</p>
+            <p>Impress them with the idea, that whoever advises them to hold a large tract of country, and live by, and follow their hunting, is their enemies, and will in the end cause them to be totally ruined___</p>
+            <p>Endeavor to persuade them, that the Point, or Mouth of <name>Holston</name> is the most suitable for the treaty, the Point I prefer.__</p>
+            <p>The foregoing is the outlines of your mission, but the principal and sole object, is for you to prepare them for as an extensive disposal of their claim, as can be possible obtained__ Recommending to you, to be as private on the occasion, as the nature of the object will admit, making use of all necessary caution and circumspection the importance of your business will necessarily require.__ The observations which are stated for you to make, as you will discover, is intended to prepare them for the primary object; they are truths, and notwithstanding intended for to answer peculiar purposes to this state, but will prove in the end if attended to by the indians, the very salvation of that nation.__</p>
+            <closer>
+               <salute>I am <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice>
+               </salute>
+               <add>/signed/</add>
+               <salute>
+                  <name>John Sevier</name>
+               </salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch098">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Excerpt from the Memoirs] of Lieut[enant] General Scott, 1864 / written by himself: a machine-readable transcription</title>
+            <author>Scott, Winfield, 1786-1866</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch098</idno>
+            <idno>OCLC: 44909301</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Excerpt from the Memoirs] of Lieut[enant] General Scott, 1864 / written by himself</title>
+               <author>Scott, Winfield, 1786-1866</author>
+               <pubPlace>New York</pubPlace>
+               <publisher>Sheldon</publisher>
+               <date when="1864">1864</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a typed excerpt from vol.1 of the <hi rend="i">Memoirs of Lieut.- General Scott</hi>, published in 1864.  Scott was one of the primary officials involved in the military operations related to the removal of the Cherokees (1838-39) to a territory west of the Mississippi River.  Scott's autobiography contains observations on the relations between the Cherokees and the white settlers in the surrounding states, primarily Georgia, North Carolina, and Tennessee.  This excerpt contains several minor typographical variations from Scott's memoirs.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">19</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">ch098</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Social conditions</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79059770"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Scott, Winfield, 1786-1866.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch098.small.jpg"/>
+            <head>Civilization of the <name type="person">Cherokees</name>.<lb/>
+               <bibl>
+                  <title>Autobiography of <name type="person"> 
+                        <reg>Winfield</reg> Lieut.-General Scott</name>, written by Himself</title>. <pubPlace>New York</pubPlace>, <date when="1864">1864</date>. Vol. 1, p. 318.</bibl>
+            </head>
+            <q>
+               <p>The <name type="person">Cherokees</name> were an interesting people - the greater number Christians, <choice>
+                     <orig>an</orig>
+                     <reg>and</reg>
+                  </choice> many as civilized as their neighbors of the white race.  Between the two colors intermarriages had been frequent.  They occupied a contiguous territory - healthy mountains, valleys, and plains lying in <name type="place">North Carolina</name>, <name type="place">Georgia</name>, <name type="place">Alabama</name>, and <name type="place">Tennessee</name>.  Most of their leading men had received good educations, and possessed much ability.  Some were quite wealthy in cultivated farms, good houses, cattle of every kind, and <hi>negro slaves</hi>.  Gardens and orchards were seen everywhere and the women graceful, with, in many cases, added beauty.  Of course the mixed races are here particularly alluded to.  The mountaineers were still wild men, but little on this side of their primordial condition.</p>
+               <p>The <name type="person">North Carolinians</name> and the <name type="person">Tennesseans</name> were kindly disposed towards their red brethren.  The <name type="person">Alabamians</name> were much less so.  The great difficulty was with the <name type="person">Georgians</name> (more than Half the army), between whom and the <name type="person">Cherokees</name> there had been feuds and wars for many generations.  The reciprocal hatred of these two races was probably never surpassed. Almost every <name type="person">Georgian</name>, on leaving home, as well as after their arrival at <name type="place">New Echota</name>, - the <choice>
+                     <orig>centre</orig>
+                     <reg>center</reg>
+                  </choice> of the most populous district of the Indian territory - vowed never to return without having killed at least one Indian.  This ferocious language was the more remarkable as the great body of these citizens - perhaps, seven in ten - were professors of religion.  The Methodists, Baptist, and other ministers of the Gospel of Mercy, had been extensively abroad among them; but the hereditary animosity alluded to caused the <name type="person">Georgians</name> to forget, or, at least, to deny that a <name type="person">Cherokee</name> was a human being.</p>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>

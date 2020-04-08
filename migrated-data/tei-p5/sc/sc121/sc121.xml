@@ -1,0 +1,107 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc121">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document]  1792 Aug. 25 [to] Bond for Court Appearance of John Shelby &amp; John Scott: a machine readable transcription of an image</title>
+            <author>Shelby, John </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc121</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1792 Aug. 25 [to] Bond for Court Appearance of John Shelby &amp; John Scott</title>
+               <author> Shelby, John</author>
+               <date> 
+			 August 25, 1792</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a legal document dated August 25, 1792; specifically, it is a bond for the Court appearance of John Shelby and John Scott.</note>
+               <note type="collection" anchored="true">Fink &amp; Duaney Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sc121</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Legal documents</term>
+               <term>Court bonds</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Shelby, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc121a.small.jpg"/>
+            <p>Know all Men by these presents, that we <name>John Shelby</name> &amp; <name>John Scott</name> are held and firmly bound unto <name>John <unclear>Gosset</unclear>
+               </name> in the penal sum of One Hundred Pounds, to be void on condition that the said John Shelby doth with effect prosecute a suit, by him this day commenced against the said  John Gosset otherwise to pay and satisfy all costs and damages that may be awarded for failure.  Witness our hands and <gap agent="damage"/> this 25th day of Aug. 1792</p>
+            <closer>
+               <signed>
+                  <name>John Shelby</name>
+               </signed>
+               <add>
+                  <name>John Scott</name>
+                  <lb/> W. Avery</add>
+               <pb n="2" facs="sc121b.small.jpg"/>
+               <add>John Shelby vs John Gosset <unclear>Pm</unclear> Bonds__</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

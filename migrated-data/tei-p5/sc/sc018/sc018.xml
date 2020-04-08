@@ -1,0 +1,175 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1832 Mar. 5 [to] Edward Livingston, Secretary of State
+			 / Andrew Jackson : a machine-readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc018</idno>
+            <idno>OCLC: 50030608</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1832 Mar. 5 [to] Edward Livingston, Secretary of
+				State / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1832-03-05">March 5, 1832</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter dated March 5, 1832,
+				from President Andrew Jackson to Edward Livingston, Secretary of State. Jackson
+				writes to recommend Robert Beal to fill an open position in the Patent
+				office.</note>
+               <note type="Collection"> Andrew Jackson</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-929</note>
+               <note type="Document">sc018</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States Politics and government 1829-1837</term>
+               <term>Livingston, Edward, 1764-1836</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc018a.small.jpg"/>
+            <opener>
+               <date when="1832-03-05">March 5th 1832</date>
+               <salute>My 
+				<choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>I am this moment informed, that the joint Resolution of the
+			 <choice>
+                  <orig>too</orig>
+                  <reg>two</reg>
+               </choice> Houses of Congress, giving five additional clerks to
+			 the patent office has been passed.</p>
+            <p>Young 
+			 <name type="person">Mr Ebenezer <unclear>Herone</unclear>
+               </name> who
+			 filled the office in that Department to which 
+			 <name type="person">Mr Walker</name> was appointed, has the promise
+			 to fill one of them, and will be appointed.</p>
+            <p>
+               <name type="person">Mr. Robert Beal</name> the bearer hereof, has
+			 been <emph>well</emph> recommended, holds a letter from 
+			 <name type="person">Commander Porter</name> that would do honor to
+			 any man, is an excellent clerk, and lawyer by profession. I will be gratified
+			 that he fill another of them he has been a uniform  faithful friend.</p>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="person">Edward Livingston</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Secretary of State</addrLine>
+               </address>
+            </closer>
+            <pb n="2" facs="sc018b.small.jpg"/>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>
+               <address>
+                  <addrLine>Edward Livingston 
+				<choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Secretary of State</addrLine>
+                  <addrLine>Robert Beal 
+				<choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="upper right margin">
+                  <name type="person">Jackson, Andrew</name>
+                  <lb/> (to 
+		  <choice>
+                     <abbr>Edw.</abbr>
+                     <expan>Edward</expan>
+                  </choice> Livingston <lb/>
+                  <choice>
+                     <abbr>Sec.</abbr>
+                     <expan>Secretary</expan>
+                  </choice> of State <lb/>
+                  <date when="1832-03-05">March 5' 32</date>
+                  <lb/> recommending 
+		  <choice>
+                     <abbr>Robt.</abbr>
+                     <expan>Robert </expan>
+                  </choice> Beale for employment in Patent
+		  office.
+                        
+                     
+                  
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

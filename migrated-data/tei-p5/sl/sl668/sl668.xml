@@ -1,0 +1,149 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl668">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1839 Nov. 23, Nashville, Tennessee [to] George A. Weglir, Gallatin, Tennessee / James K. Polk : a machine readable transcription of an image</title>
+            <author> Polk, James K.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl668</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1839 Nov. 23, Nashville, Tennessee [to] George A. Weglir, Gallatin, Tennessee / James K. Polk</title>
+               <author> Polk, James K.</author>
+               <date when="1830-11-23"> 
+			 November 23, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor James K. Polk to George A. Weglir, dated November 23, 1839. Polk is writing about some financial and legal details of the Nashville and Kentucky Turnpike Company.</note>
+               <note type="collection" anchored="true">Governor James K. Polk</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true"> sl668</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Kentucky</term>
+               <term>Turnpike roads</term>
+               <term>Law and legislation</term>
+               <term>Banks and banking</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80145740"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Polk, James K. (James Knox), 1795-1849</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl668a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <add>(Copy)</add> Executive Department</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <del type="overstrike">23</del>
+                     <add>23rd</add>
+                     <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice> 1839__</addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Your letter of the 19th Instant, enclosing the certificate of the Directors of the Nashville &amp; <name>Kentucky</name> Turnpike company has been received__ The certificate forwarded being in conformity to law, the subscription on the part of the State has been made, and forwarded to <name>Mr. Turner</name> the President of the company as requested by you. Bonds of the state to the amount of $ 9.000_ have been issued in <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> of the company and deposited in the Bank of the state as required by law.__</p>
+            <closer>
+               <salute>I am Very Respectfully <lb/> your <choice>
+                     <abbr>obt srt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>James K Polk</name>
+               </signed>
+               <address>
+                  <addrLine>Mr <name>George A. Weglir</name>
+                     <lb/> Secretary of the Nashville <lb/> &amp; Kentucky Turnpike <choice>
+                        <abbr>Co.</abbr>
+                        <expan>Columbia</expan>
+                     </choice>
+                     <lb/> Gallatin Tennessee</addrLine>
+               </address>
+               <pb n="2" facs="sl668b.small.jpg"/>
+               <add>(Copy) <lb/> Letter to <lb/> George A. Weglir <lb/>
+                  <choice>
+                     <abbr>Sec.</abbr>
+                     <expan>Secretary</expan>
+                  </choice> of Nashville &amp; <lb/>
+                  <choice>
+                     <abbr>Ky.</abbr>
+                     <expan>Kentucky</expan>
+                  </choice> Turnpike Company. <lb/>
+                  <choice>
+                     <abbr>Nov</abbr>
+                     <expan>November</expan>
+                  </choice> 23rd 39___</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

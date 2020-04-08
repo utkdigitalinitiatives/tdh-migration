@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Jun. 13 [to] James King, Hazlegreen, Madison County, Alabama / Buel Gannoway: a machine readable transcription of an image</title>
+            <author>Gannoway, Buel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc049</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Jun. 13 [to] James King, Hazlegreen, Madison County, Alabama / Buel Gannoway</title>
+               <author>Gannoway, Buel</author>
+               <date when="1839-06-13">June 13, 1839</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from Buel Gannaway to James King.  Gannaway's letter informs King of the status of his plantation crops, and other items he is selling for him.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1839</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">gc049</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Crops</term>
+               <term>Alabama</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Gannoway, Buel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc049a.small.jpg"/>
+            <opener>
+               <add>From B. Gannaway- 1838</add>
+               <add>10</add>
+               <address>
+                  <addrLine>Col James M. King Hazlegreen madison County Alabam <add>a</add>
+                  </addrLine>
+               </address>
+               <add>ad</add>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <name>Murfreesboro</name>
+                        <name>
+                           <choice>
+                              <abbr>Tn</abbr>
+                              <expan>Tennessee</expan>
+                           </choice>
+                        </name>
+                        <choice>
+                           <abbr>Jun</abbr>
+                           <expan>June</expan>
+                        </choice> [postmark] </figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc049b.small.jpg"/>
+               <date>June 13 1839</date> In Snells back Town <salute>Dear James</salute>
+            </opener>
+            <p>I <unclear>this</unclear> moment look a letter from the office directed to my wife from yours written June 3rd I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> one from you last week of the same date I wrote to you on the 4 by express expecting it would reach you  before you went to <name>moringo</name> but I fear you did not get it and as you travel faster than I expected I direct this to <name>hazlegreen</name>
+            </p>
+            <p>I was at your house day before yesterday all well except the boy of your mothers mentioned in my letter of the 4 he has been a sick negroe indeed but is mending fast tell mother labolia has been a good thing in his case he has taken 15 <unclear>pills</unclear> in 13 days </p>
+            <p>I set your people to cutting rye and told ship as soon as he got though to commence on the wheat that joins it. and will continue <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> done your wheat crop is exceeding good indeed all your crop looks well I hope you will take your <unclear>sweet time</unclear> have your visit out.</p>
+            <p>your flour I <choice>
+                  <orig>thaught</orig>
+                  <reg>thought</reg>
+               </choice> I would send to <choice>
+                  <orig/>
+                  <reg>Nashville</reg>
+               </choice> but learnt it <choice>
+                  <orig>cauld</orig>
+                  <reg>could</reg>
+               </choice> be <choice>
+                  <orig>baught</orig>
+                  <reg>bought</reg>
+               </choice>
+               <choice>
+                  <orig>ther</orig>
+                  <reg>there</reg>
+               </choice> for <unclear>9/ per</unclear> 100 I concluded as it <choice>
+                  <orig>appard</orig>
+                  <reg>appeared</reg>
+               </choice>
+               <pb n="3" facs="gc049c.small.jpg"/> cool and there was not a full <choice>
+                  <orig>waggon</orig>
+                  <reg>wagon</reg>
+               </choice> load that I would not take it, your bacon I am trying to sell and will if I can sell it and <del type="overstrike">all</del> any thing else that you have <unclear>directed</unclear>.  <name>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Butler</name> and wife are at janes all your <unclear>friends</unclear> well here Judith young cant live but a few days.  all your children well betty James and charly stayed <choice>
+                  <orig>savre</orig>
+                  <reg>some</reg>
+               </choice> days together at my house betty has been unwell ever since you left untill a day or two.  she is now well and I will try to fatten her up you return if she keep well she has cut several <unclear>jaw</unclear> teeth we are <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> dry <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> has not been as much rain at your <choice>
+                  <orig>hous</orig>
+                  <reg>house</reg>
+               </choice>
+               <add>e</add> since you left as fell the day you left. Yet your <unclear>slip</unclear>, and tobacco are planted tell patty that betty lanes uncle burrell and is just as sweet as candy indeed she is first rate and James is a good boy <pb n="4" facs="gc049d.small.jpg"/> I am in a hurry you see by my <choice>
+                  <orig>wrighting</orig>
+                  <reg>writing</reg>
+               </choice>
+            </p>
+            <closer>I conclude by subscribing myself as ever your <choice>
+                  <abbr>frd</abbr>
+                  <expan>friend</expan>
+               </choice>
+               <signed>B Gannaway</signed>
+               <add>PS tell mother as she sets so straight I suppose she has no use for the pipe B.G.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

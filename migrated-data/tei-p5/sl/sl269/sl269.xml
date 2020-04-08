@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl269">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1843 Jan. 25, Murfreesboro [TN] [to] Mr. Blishe Williams, Nashville, Tenn[essee] / J. P. Williams   : a machine readable transcription of an image</title>
+            <author>Williams, J. P.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl269</idno>
+            <idno>OCLC: 51238384</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1843 Jan. 25, Murfreesboro [TN] [to] Mr Blishe Williams, Nashville, Tenn[essee] / J. P. Williams</title>
+               <author>Williams, J. P.</author>
+               <date when="1843-01-25">January 25, 1843</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to George House in care of Blishe Williams, dated January 25, 1843. It is from J. P. Williams. Williams is requesting that House allow him to take some medicine that Williams had received in the past from Dr. Burk. Dr. Burk has left House as his agent. William writes that he will pay whatever House asks, if the pills cure him.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sl269</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Medical care</term>
+               <term>Pills</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, J. P.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl269a.small.jpg"/>
+            <opener>
+               <date when="1843-01-25">
+                  <choice>
+                     <abbr>Jan</abbr>
+                     <expan>January</expan>
+                  </choice> the 25th 1843</date>
+               <salute>
+                  <name type="person">Mr House</name>
+               </salute>
+            </opener>
+            <p>I understand <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Burk</name> has left you his agent. I took his pills last fall and think I derived some benefit from taking them, and am of the opinion that I would have been cured if it had not have been for a fall that I got off of my Horse in a pond, afterwards I was afraid to continue the medicine, as it laid me very liable to cold. I am now very anxious to give them a fare trial, and would like to have your advice about when to take them if it is so that you can let me have the pills at home it will be a great accommodation to me as I would much prefer taking <gap agent="damage"/> at home and I would obligate myself <gap agent="damage"/> in a<unclear>bond</unclear> of five thousand dollars that they never should be seen while I am taking them. I hope if it is in your power you will let me have them and if they cure me it is within your power to charge me what ever you ask. I am willing to <del type="overstrike">ask</del> give any price to <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> well write to me and let me know if I can get them and whether you think it would be advisable to take them now. my disease is mercurial and I think from the cures that I saw perform the medicine will cure me. when I left Dr Burk he gave me some of the weak pills to take <pb n="2" facs="sl269b.small.jpg"/> but <unclear>I do</unclear>
+               <choice>
+                  <orig>knot</orig>
+                  <reg>not</reg>
+               </choice> think they done me any good it was the strong ones that helped me write to me im ⁁ <add place="supralinear">m</add> ediately and let me know when will be the best time to enter on a <unclear>course</unclear> of  the medicine, and whether you can let me have the pills by coming for them.</p>
+            <closer>
+               <salute>Yours,</salute>
+               <signed>
+                  <name type="person">J. P. Williams</name>
+               </signed>
+               <add place="left of signature">Direct your letter to <name type="place">Murfreesboro</name>
+               </add>
+               <add place="center of page, rotated">
+                  <address>
+                     <addrLine>Mr <name type="person">Blishe Williams <choice>
+                              <abbr>Jr</abbr>
+                              <expan>Junior</expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                     <addrLine>Nashville</addrLine>
+                     <addrLine>
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                  </address>
+               </add>
+               <add place="above address">J. P. Williams <lb/> Murfreesboro Tenn <lb/>
+                  <choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice> 25 / 43 <lb/>
+                  <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received</expan>
+                  </choice>
+                  <date when="1843-01-28">28 / 43</date>
+                  <lb/>
+                  <choice>
+                     <abbr>Answd</abbr>
+                     <expan>Answered</expan>
+                  </choice> 28 / 43</add>
+               <add place="below address">Recd January 28 / 43 <lb/> Answd 28 / 43</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

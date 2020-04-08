@@ -1,0 +1,281 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Apr. 25, Mouth of Sweet Water [to] Cha[rle]s F. Welcker / A[lbert] S. Lenoir : a machine readable transcription of an image</title>
+            <author>Lenoir, Albert S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc057</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Apr. 25, Mouth of Sweet Water [to] Cha[rle]s F. Welcker / A[lbert] S. Lenoir</title>
+               <author>Lenoir, Albert S.</author>
+               <date when="1839-04-25">April 25, 1839</date>
+               <extent>3 p</extent>
+               <note type="summary" anchored="true">This documents is a letter dated April 25, 1839, from Albert S. Lenoir to his brother-in-law Charles Frederick Welcker in Roane County.  Lenoir encloses in the letter a table of the land recently purchased by him and Charles' brother Henry.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc057</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Land</term>
+               <term>Tennessee, East</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2008162663"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lenoir, Albert S., 1803-1861</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc057a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Mouth of <name>Sweet Water</name>
+                  </addrLine>
+               </address>
+               <date>April 25th 1839</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>George continued better yesterday &amp; says he is better this morning I think him in a fair way to get well.</p>
+            <p>As to <unclear>Ham</unclear> &amp; family my situation  is such that it would not suit me at all to take them for so short a time as next Christmas_ I should have to build them a house &amp; build a blacksmith shop &amp; procure tools iron <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>, all of which I fear would take me till near Christmas &amp; it is probable <add>I have</add> iron a plenty in the fire now.</p>
+            <p>I can only let you have a plan of <name>Chattanooga</name> on loan, as it <choice>
+                  <orig>be longs</orig>
+                  <reg>belongs</reg>
+               </choice> to brother <choice>
+                  <abbr>Thos.</abbr>
+                  <expan>Thomas</expan>
+               </choice>
+            </p>
+            <p>You will see from the list that Henry &amp; myself got but little besides the scraps. We agreed to be equally interested in all that we had purchased._  I put down the list as it was made. <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Market Street</cell>
+                     <cell role="data" rows="1" cols="1">No. 64</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>A.</abbr>
+                              <expan>Albert</expan>
+                           </choice> S. Lenoir</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">$300.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Cherry <choice>
+                           <abbr>Do</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">" 4</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">55</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Chestnut "  South half</cell>
+                     <cell role="data" rows="1" cols="1">18</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">150</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" " North "</cell>
+                     <cell role="data" rows="1" cols="1">22</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" " South "</cell>
+                     <cell role="data" rows="1" cols="1">24</cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">250</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" " North "</cell>
+                     <cell role="data" rows="1" cols="1">30</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>H. I.</abbr>
+                              <expan>Henry Inman</expan>
+                           </choice> Welcker</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">105</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Walnut Street</cell>
+                     <cell role="data" rows="1" cols="1">26</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <unclear>I. S.</unclear> Lenoir</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">250</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">28</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">305</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">30</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Dr. Farmer</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">330</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">High "</cell>
+                     <cell role="data" rows="1" cols="1">27</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Dr Lyde</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">305</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Poplar "</cell>
+                     <cell role="data" rows="1" cols="1">234 21</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>A.S.L</abbr>
+                           <expan>Albert S. Lenoir</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" " 574 59</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">120</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">55__</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">130</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="mc057b.small.jpg"/>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Cypress Street</cell>
+                     <cell role="data" rows="1" cols="1">No 53</cell>
+                     <cell role="data" rows="1" cols="1">A.S.L</cell>
+                     <cell role="data" rows="1" cols="1">$20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">" 51</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">35</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">" 49</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">35</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">" 45 &amp; 47</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">45</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">" 43 &amp; 41</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">" "</cell>
+                     <cell role="data" rows="1" cols="1">" 38, 36 &amp; 34</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                  </row>
+               </table> The <choice>
+                  <orig>lotts</orig>
+                  <reg>lots</reg>
+               </choice> on Market street sold <add>at</add> from about 3 to 16 hundred dollars, in other parts of the town, somewhat in proportion to the prices given.</p>
+            <p>De Witt is nearly ready to start &amp; I must stop.</p>
+            <closer>
+               <salute>Yours</salute>
+               <signed>A.S. Lenoir</signed>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Chas. F.</abbr>
+                           <expan>Charles Frederick</expan>
+                        </choice> Welcker <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="mc057c.small.jpg"/>
+               <address>
+                  <addrLine> Chas. F Welcker Esqr.</addrLine>
+               </address>
+               <add>By <name>
+                     <choice>
+                        <abbr>DeW</abbr>
+                        <expan>DeWitt</expan>
+                     </choice> Welcker</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

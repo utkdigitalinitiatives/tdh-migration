@@ -1,0 +1,207 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Feb. 10, Knoxville, [Tennessee, to] Silas Dinsmore
+			 / John Sevier : a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl031</idno>
+            <idno>OCLC: 47826944</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Feb. 10, Knoxville, [Tennessee, to] Silas
+				Dinsmore / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-02-10">February 10, 1797 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter from Governor John
+				Sevier (1796-1801) to Cherokee agent Silas Dinsmore, dated February 10, 1797.
+				In his letter, Sevier sent apologies for several Cherokees who had been killed,
+				wounded, or who were missing. While Sevier promised to do his best to seek out
+				the perpetrators of such crimes, he also warned Dinsmore that the Cherokees
+				should be restrained from retaliating. He stated that a war would bring about
+				the destruction of the Cherokee Nation.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl031</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl031a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-02-10">10 February 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <del type="overstrike">Various</del>
+            </p>
+            <p>many reports seem to confirm that two indians were very inhumanly
+			 Murdered <choice>
+                  <orig>some where</orig>
+                  <reg>somewhere</reg>
+               </choice> near unto the head of 
+			 <name type="place">Kentucky River</name> , by two Men supposed to
+			 live in 
+			 <name type="place">Hawkins county</name>; I have Waited to hear from
+			 you or the indians on the subject, but as yet neither have sent forward any
+			 complaint, <add place="infralinear">or information</add>
+               <del type="overstrike">I was for some time</del> from which Circumstance, I was
+		  induced to believe for a length of time, that the reports were premature.</p>
+            <p>
+               <del type="overstrike">The indians have lately killed in several
+		  places <unclear>towit</unclear> in Powels Valley and at Cumberland and it is
+		  reported five</del> The indians have lately killed in several different places,
+		  <add place="supralinear">
+                  <unclear>(towit)</unclear>
+               </add>
+               <del type="overstrike">as reported</del> One in 
+		  <name type="place">Powels <choice>
+                     <orig>Vally</orig>
+                     <reg>Valley</reg>
+                  </choice>
+               </name> 
+		  one More badly wounded, three more killed near the head of 
+		  <name type="place">Kentucky</name>,  one at 
+		  <name type="place">Cumberland</name> ; it <add place="supralinear">is</add> also reported that five more are are missing and
+		  believed to be killed that were out hunting in the 
+		  <name type="place">Cumberland mountain</name>, 
+		  <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> of this <add place="supralinear">last</add> there is no certain accounts
+		  <add place="supralinear">as</add> yet come to hand. I am extremely sorry for
+		  these disturbances, and very much fear the approaching consequences,
+		  <del type="overstrike">the</del>
+               <add place="supralinear">and</add> am fully
+		  determined to <unclear>
+                  <choice>
+                     <orig>pursu</orig>
+                     <reg>pursue</reg>
+                  </choice>
+               </unclear> and to Any
+		  further <del type="overstrike">disturbances</del>
+               <choice>
+                  <orig>Mischeifs</orig>
+                  <reg>Mischiefs</reg>
+               </choice> if in my powers, and will if possible have the
+		  perpetrators of the first murder apprehended. <del type="overstrike">and</del>
+               <add place="supralinear">I</add> flatter myself that you will use your
+		  influence to have peace and <del type="overstrike">
+                  <unclear>unk</unclear>
+               </del>
+		  tranquility restored by endeavoring to restrain the indians from any further
+		  depredations, and convince them of the danger of bringing on a war, which would
+		  be the destruction of their nation</p>
+            <closer>
+               <salute>I have the honor to be  
+				<choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <address>
+                  <addrLine>
+                     <name type="person">Silas Dinsmore esquire</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl031b.small.jpg"/>
+            <p>
+               <add>Letters, one to the
+			 <lb/>
+                  <name type="person">Cherokees</name>; the other <lb/> to 
+			 <name type="person">Silas Dinsmore</name>
+                  <lb/>
+                  <date when="1797-02-10">
+                     <choice>
+                        <abbr>Feby</abbr>
+                        <expan>February</expan>
+                     </choice> 10th
+				1797</date>
+                  <lb/> fC <lb/>(<choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 21) <lb/>
+                  <hi rend="underlined">Recorded</hi>
+               </add>
+               <add place="right, on side">
+                  <name type="person">McMaclin</name> will please make out copies of
+			 these two letters</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,346 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0300">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1812 Nov. 11, United States to Timothy Meigs / Return J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, Return Jonathan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0300</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Receipt] 1812 Nov. 11, United States to Timothy Meigs / Return J. Meigs</title>
+               <author> Meigs, Return Jonathan</author>
+               <date when="1812-11-11">November 11, 1812 
+			 </date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document dated November 11, 1812 is a receipt for goods that were delivered to the Cherokee Indians in Arkansas. Timothy Meigs acted as agent to the Cherokee on behalf of the United States.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgements)</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Betterments</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0300a.small.jpg"/>
+            <opener>The United States To Timothy Meigs <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Debtor</expan>
+               </choice>. 1812 <choice>
+                  <abbr>Nov</abbr>
+                  <expan>November</expan>
+               </choice> 11th</opener>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To 50 lb Tobacco_</cell>
+                     <cell role="data" rows="1" cols="1">@ 50</cell>
+                     <cell role="data" rows="1" cols="1">.33 1/3</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 best hand axes</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">6._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">37pr cotton cards_</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$ </cell>
+                     <cell role="data" rows="1" cols="1">74._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">98 lb Iron</cell>
+                     <cell role="data" rows="1" cols="1">@ 10</cell>
+                     <cell role="data" rows="1" cols="1">9.80</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8 lb best crowly steel </cell>
+                     <cell role="data" rows="1" cols="1">@ 3/2 </cell>
+                     <cell role="data" rows="1" cols="1">4._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">9 1/2 Blister <choice>
+                           <abbr>Do</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"> @ 2pr</cell>
+                     <cell role="data" rows="1" cols="1">3.16 1/3</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 shott gun for Dick Justice</cell>
+                     <cell role="data" rows="1" cols="1">an old Cherokee Chief_</cell>
+                     <cell role="data" rows="1" cols="1">10._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 lb ceding hoe</cell>
+                     <cell role="data" rows="1" cols="1"> _</cell>
+                     <cell role="data" rows="1" cols="1">1.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Dutch oven</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                     <cell role="data" rows="1" cols="1">1.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">furnished to Cherokee_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                     <cell role="data" rows="1" cols="1">117.80</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Nov 18th 2Lb lead_</cell>
+                     <cell role="data" rows="1" cols="1">@ 121/2</cell>
+                     <cell role="data" rows="1" cols="1">.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 yds Blue Cloth_</cell>
+                     <cell role="data" rows="1" cols="1">@ 6$</cell>
+                     <cell role="data" rows="1" cols="1">18.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Doz Buttons</cell>
+                     <cell role="data" rows="1" cols="1">@_</cell>
+                     <cell role="data" rows="1" cols="1">.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 yd linen_</cell>
+                     <cell role="data" rows="1" cols="1">@_</cell>
+                     <cell role="data" rows="1" cols="1">.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Doz Gun flints_</cell>
+                     <cell role="data" rows="1" cols="1">@_</cell>
+                     <cell role="data" rows="1" cols="1">12 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">given a Cherokee a messenger</cell>
+                     <cell role="data" rows="1" cols="1"> to Arkansaw river</cell>
+                     <cell role="data" rows="1" cols="1">19.37 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">carried forward </cell>
+                     <cell role="data" rows="1" cols="1">$137.17 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="pa0300b.small.jpg"/>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Amt. brot forward</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">137.17 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1812 Nov. 18 To 1 axe</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">2.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 HKP_</cell>
+                     <cell role="data" rows="1" cols="1">-</cell>
+                     <cell role="data" rows="1" cols="1">.75</cell>
+                     <cell role="data" rows="1" cols="1">10 lb lead_</cell>
+                     <cell role="data" rows="1" cols="1">@ 12 1/2 </cell>
+                     <cell role="data" rows="1" cols="1">1.25 } 4._</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">given to a Cherokee</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">who went express on</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">public business</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Dec 1st 6lb lead</cell>
+                     <cell role="data" rows="1" cols="1">@ 1/2</cell>
+                     <cell role="data" rows="1" cols="1">1.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 lb powder_</cell>
+                     <cell role="data" rows="1" cols="1">@ 75.</cell>
+                     <cell role="data" rows="1" cols="1">3.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 pewter <choice>
+                           <orig>basons</orig>
+                           <reg>basins</reg>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 75.</cell>
+                     <cell role="data" rows="1" cols="1">4.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 coffee pot</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">1.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">30 lb coffee</cell>
+                     <cell role="data" rows="1" cols="1">@37 1/2</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">15 lb sugar</cell>
+                     <cell role="data" rows="1" cols="1">@ .25</cell>
+                     <cell role="data" rows="1" cols="1">3.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">46 lb <choice>
+                           <orig>beacon</orig>
+                           <reg>bacon</reg>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 11</cell>
+                     <cell role="data" rows="1" cols="1">5.06</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 white bowls_</cell>
+                     <cell role="data" rows="1" cols="1">@ 25</cell>
+                     <cell role="data" rows="1" cols="1">1.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Bushels Salt</cell>
+                     <cell role="data" rows="1" cols="1">@ 15 1/2</cell>
+                     <cell role="data" rows="1" cols="1">5.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 large knives_</cell>
+                     <cell role="data" rows="1" cols="1">@ 3 pr</cell>
+                     <cell role="data" rows="1" cols="1">3.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Skillet_</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">1.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Tin Kettles_</cell>
+                     <cell role="data" rows="1" cols="1">@ 31/4</cell>
+                     <cell role="data" rows="1" cols="1">.62 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 large oven &amp; lid_ </cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">3.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 small Do.</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">2.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">15 lb soap_</cell>
+                     <cell role="data" rows="1" cols="1">@6</cell>
+                     <cell role="data" rows="1" cols="1">1.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 lb Glauber salts_</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">75  48.431/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$189.61</cell>
+                  </row>
+               </table>
+               <add>(furnished for the use of the boatmen on their voyage to <choice>
+                     <orig>Arkensay</orig>
+                     <reg>Arkansas</reg>
+                  </choice> with merchandize for the Cherokees who reside there)</add>
+               <pb n="3" facs="pa0300c.small.jpg"/> Received of Return J Meigs one hundred &amp; eighty nine dollars &amp; sixty one cents in full payment of the above account <lb/> Signed Duplicates <lb/> Timothy Meigs <lb/> Highwassee }<lb/> 31st Dec. 1812 <pb n="4" facs="pa0300d.small.jpg"/> No. 15 <lb/> Timothy Meigs <lb/> Receipt $189.61 <lb/> 31st Dec. 1812 <del>
+                  <unclear/>
+               </del> articles furnished <lb/> Indian Department</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl622">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 Sep. 3, Memphis, Tennessee [to] James Jones, Nashville, Tennessee / Sidney Kopman : a machine readable transcription of an image</title>
+            <author>Kopman, Sidney</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl622</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1842 Sep. 3, Memphis, Tennessee [to] James Jones, Nashville, Tennessee / Sidney Kopman</title>
+               <author>Kopman, Sidney </author>
+               <date when="1842-09-03"> 
+			 September 3, 1842</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated September 3, 1842 from Sidney Kopman to the governor of Tennessee, James C. Jones.  In the letter, Kopman discusses a murder committed against a near relative of his.  He asks the governor to issue a proclamation reward for the capture of the alleged murderer.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl622</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Tennessee.  Governor (1841-1845 : Jones)</term>
+               <term>Murder</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Kopman, Sidney</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl622a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Memphis</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Sept</abbr>
+                     <expan>September</expan>
+                  </choice> 3 1847</date>
+               <salute>To his Excellency the governor__ James C Jones <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice> Esteemed Sir</salute>
+            </opener>
+            <p>Several weeks have transpired since a near relative of mine was murdered at <unclear>Batrin Stand</unclear> 50 miles from Nashville, a more diabolical <del>otrage</del> outrage perpetrated on an inoffensive traveller the state can <choice>
+                  <orig>hardely</orig>
+                  <reg>hardly</reg>
+               </choice>
+               <choice>
+                  <orig>recorde</orig>
+                  <reg>record</reg>
+               </choice> for the cause of society, good order &amp; humanity I cherish a hope your Excellency will see the propriety of issuing a proclamation reward for the apprehension of the assassin From all the testimony culled &amp; collected from <choice>
+                  <orig>authentick</orig>
+                  <reg>authentic</reg>
+               </choice> sources it is firmly believed, that <name>Joseph Stalcup</name> or Hunt the keeper of the Tavern one or the other are guilty of the murder.  I will send you by this days mail a paper containing in reference to this distressing affair all the facts__ which will enable your excellency to form an opinion in the <choice>
+                  <orig>merrits</orig>
+                  <reg>merits</reg>
+               </choice> of the case &amp; pass judgement accordingly__ The relatives of this unfortunate young man are <choice>
+                  <orig>prepaired</orig>
+                  <reg>prepared</reg>
+               </choice> to give liberally in connection with the state authorities for the apprehension &amp; conviction of the murderer </p>
+            <closer>
+               <add> I remain with profound consideration Your excellency most <choice>
+                     <abbr>ob</abbr>
+                     <expan>obedient</expan>
+                  </choice> servant</add>
+               <signed>
+                  <name>Sidney Kopman</name>
+               </signed>
+               <pb n="2" facs="sl622b.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>To his Excellency the__ governor James C Jones <choice>
+                           <abbr>Esqr</abbr>
+                           <expan>Esquire</expan>
+                        </choice> Nashville <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

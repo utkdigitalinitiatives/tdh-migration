@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl459">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Feb. 18, Lawrenceburg [Tennessee, to Mr.] Hogan [and Mr.] Heiss / James K. Polk: a machine readable transcription of an image</title>
+            <author>Polk, James K.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl459</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1844 Feb. 18, Lawrenceburg [Tennessee, to Mr.] Hogan [and Mr.] Heiss / James K. Polk</title>
+               <author>Polk, James K.</author>
+               <date when="1844-02-18">February 18, 1844</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from James K. Polk to Mr Heiss and Mr Hogan, dated February 18, 1844. Polk is writing on behalf of A.V. Brown, who is upset that the Union newspaper  (of which Heiss is editor) has not published his recent speeches to Congress.</note>
+               <note type="collection" anchored="true">Heiss Papers</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sl459</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Polk, James K., 1795-1845</term>
+               <term>Political oratory</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80145740"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Polk, James K. (James Knox), 1795-1849</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl459a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Lawrenceburg</name>
+                     <date>
+                        <choice>
+                           <abbr>Feby</abbr>
+                           <expan>February</expan>
+                        </choice> 18th 1844</date>__</addrLine>
+               </address>
+               <add>Private</add>
+               <salute>Messrs <name>Hogan</name> &amp; <name>Heiss</name>
+               </salute>
+               <salute>Gentlemen:</salute>
+            </opener>
+            <p>Some of the friends of <choice>
+                  <abbr>Hon.</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <name>A. V. Brown</name>, are disposed to complain that his two speeches on the <name>Jackson</name>fine, and the abolition  questions, have not been republished in the Union__ I myself  thought they had been published, though I may be mistaken. If they have not been I hope you will give them an insertion in your paper as early as practicable Brown is a prominent member of our party__ and may feel wounded (and I have on intimation that he probably does so) at the failure to republish what he says in Congress. in the <name>Tennessee</name> Democratic papers and especially in the Union.__  If you have omitted it, in this instance, I have  no doubt it has been accidental.</p>
+            <p>I am here attending Court, but expect to visit Nashville in about a week from this time.__</p>
+            <closer>
+               <salute>Respectfully <lb/> Your friend</salute>
+               <signed>
+                  <name>James K Polk</name>
+               </signed>
+               <pb n="2" facs="sl459b.small.jpg"/>
+               <choice>
+                  <abbr>P.S.</abbr>
+                  <expan>Post Script</expan>
+               </choice> There being a Whig Post master here &amp; my hand-writing being Known as well as my face, I will send this, under cover to<name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Armstrong</name>.__ <salute>
+                  <choice>
+                     <abbr>yrs &amp;c</abbr>
+                     <expan>yours etcetera</expan>
+                  </choice>__</salute>
+               <signed>
+                  <choice>
+                     <abbr>J. K. P.</abbr>
+                     <expan>James K. Polk</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch154">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Entries from the Cherokee Supreme Court Docket, 1823-1834, New Echota] 1828
+                    Oct. 25: a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">ch154</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives,
+                        Nashville, TN. It may be used freely by individuals for research, teaching,
+                        and personal use as long as this statement of availability is included in
+                        the text. For all other use contact the Tennessee State Library and
+                        Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+                        741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Entries from the Cherokee Supreme Court Docket, 1823-1834, New Echota]
+                        1828 Oct. 25</title>
+               <date when="1828-10-25">October 25,
+                        1828</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is an excerpt from
+                        the Cherokee Supreme Court docket for the years 1823 to 1834. The Cherokee
+                        Supreme Court convened annually in New Echota beginning on the second Monday
+                        in October and lasting three weeks. This document is an excerpt from the
+                        court from Saturday October 25, 1828 to Tuesday October 28. Entries from
+                        this Supreme Court docket cover items ch100-ch163.</note>
+               <note type="collection" anchored="true">Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">ch154</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal Document</term>
+               <term>Cherokee Nation</term>
+               <term>Cherokee Indians--Legal status, laws, etc.</term>
+               <term>Georgia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch154a.small.jpg"/>
+            <head>October Term 1828</head>
+            <head>Saturday 25th</head>
+            <p>The court met according to adjournment </p>
+            <p>Present <name>Andrew Ross</name>, <name>John Huss</name> and <name>Walter S.
+                        Adair</name>. Judges</p>
+            <p>The Court adjourned to monday 10 OClock A.M.</p>
+            <p>Court convened according to adjournment Present the honorable Judges. monday
+                        <choice>
+                  <abbr>Octo</abbr>
+                  <expan>October</expan>
+               </choice> 27</p>
+            <p>Court adjourned to Tuesday morning</p>
+            <p>The Court met according to adjournment Present the honorable Judges 28th.</p>
+            <p>William Berry <lb/> by his Agent <lb/> James Gibson <lb/> vs <lb/>
+               <name>William Lastley</name>
+            </p>
+            <p>To recover the price of a horse</p>
+            <p>The Court finds a bill for the <choice>
+                  <orig>Pltf.</orig>
+                  <reg>Plaintiff</reg>
+               </choice> the sum of one
+                    hundred &amp; fifteen dollars</p>
+            <p>Cost of appeal <unclear>$6.90</unclear>
+            </p>
+            <p>Stay taken on the above Judgement according to Law <lb/>
+               <name>Andrew Ross</name>
+               <lb/>
+               <name>James Lasley</name>
+               <add>x his mark</add>
+            </p>
+            <p>Witness <lb/> Elijah Hicks <lb/>
+               <choice>
+                  <abbr>clk, S. C</abbr>
+                  <expan>clerk, Supreme Court</expan>
+               </choice>
+            </p>
+            <p>The principle paid by Wm. Lastley <date>July 13 1829</date>
+               <add>Execution issued <date>20th August 1829</date> for the cost</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

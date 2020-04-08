@@ -1,0 +1,349 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl675">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Petition] 1839 Oct. 21, Benton, Tennessee [to] Legislature, Nashville, Tennessee / Samuel Ewing : a machine readable transcription of an image</title>
+            <author> Ewing, Samuel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl675</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Petition] 1839 Oct. 21, Benton, Tennessee [to] Legislature, Nashville, Tennessee / Samuel Ewing</title>
+               <author>  Ewing, Samuel</author>
+               <date when="1839-10-21">October 21, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document, dated October 21, 1839, is a petition, written by the residents of Benton, Tennessee in Polk County. The petition requests that the Tennessee General Assembly change  the law regarding the sale of "ardent spirits." The law at that time limited retail sales to one quart and the parties involved requested the amount to be changed to one gallon.</note>
+               <note type="collection" anchored="true">Governor James K. Polk Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl675</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Petition</term>
+               <term>Alcohol</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Benton, Tennessee residents</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl675a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Bentin</orig>
+                        <reg>Benton</reg>
+                     </choice>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October </expan>
+                  </choice> 21st 1839</date>
+            </opener>
+            <p>To the <choice>
+                  <orig>Honerable</orig>
+                  <reg>Honorable</reg>
+               </choice> general assembly of <name>Tennessee</name> now in session</p>
+            <p>We your humble petitioners being fully persuaded that the law past by our Worthy members the last session of our Legislator Prohibiting the Retailing of ardent spirits in a less quantity than a quart has had a good Effect we therefore your humble Petitioners do humbly pray your <choice>
+                  <orig>honerable</orig>
+                  <reg>honorable</reg>
+               </choice> Body to Extend the quantity to one gallon at last at all events not Repeat what has past and in duty Bound we will Even pray</p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Samuel Ewing</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">20</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>James Ewing</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Geo</abbr>
+                              <expan>George</expan>
+                           </choice>. W. Weaver</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">21</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Thomas Green</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Aldridge</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">23</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Elizabeth Ewing</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Eli Kane</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">24</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jack W. Hurt</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">5</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>James P. Bower</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">25</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mary Hurt</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Robert Wallis</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">26</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>E.M. Hurt</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">7</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mary Hughes</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">27</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mary J. Hurt</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Dorothy B. Fonvielle</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">28</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Elisha Hurt</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">9</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Terresea Ewing</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">29</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Elizabeth Hurt</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">10</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Richard P. Fausett</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">30</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>J.J. Williamson</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">11</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Joseph E. Ewing</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">31</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Eliza B. Williamson</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">12</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>George Ewing</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">32</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>A.J. Hardeson</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">13</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jane Ewing</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">33</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Wright Williams</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">14</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>W.P. Anderson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">34</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Marina Williams</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">15</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Eliza Anderson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">35</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>John Fox</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">16</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Robert M. Wallis</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">36</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Eliza L. Huggins</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">17</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Chs</abbr>
+                              <expan>Charles</expan>
+                           </choice> E. Woods</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">37</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>William J. Caudle</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">18</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>S.B. Appleby</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">38</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Robt</abbr>
+                              <expan>Robert</expan>
+                           </choice> M. Morrison</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">19</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>James L Crurton</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">39</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>James B. Dinn</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">40</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Brewart Huggins</name>
+                     </cell>
+                  </row>
+               </table>
+               <pb n="2" facs="sl675b.small.jpg"/>
+               <name>
+                  <choice>
+                     <abbr>Col Wmson</abbr>
+                     <expan>Colonel Williamson</expan>
+                  </choice> Smith</name>
+               <lb/>
+               <name> Nashville </name>
+               <choice>
+                  <abbr>Tn </abbr>
+                  <expan>Tennessee</expan>
+               </choice>
+               <lb/> Senate</p>
+         </div>
+      </body>
+   </text>
+</TEI>

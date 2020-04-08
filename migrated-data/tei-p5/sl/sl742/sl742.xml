@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl742">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Feb. 7, Knoxville, Tennessee [to] Captains Sparks &amp; Wade / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl742</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1797 Feb. 7, Knoxville, Tennessee [to] Captains Sparks &amp; Wade / John Sevier </title>
+               <author> Sevier, John</author>
+               <date when="1797-02-07">February 7, 1797</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a brief letter from governor John Sevier of Tennessee to Captains Sparks and Wade.  The purpose of the letter is to instruct them to assist and console and offer favorable indulgences to the unfortunate plight of the Indians targeted for removal from their land to West of the Mississippi river.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl742</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor (1796-1801 : Sevier)</term>
+               <term>Sevier, John, 1745-1815 Correspondence.</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl742a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <date>7 February 1797</date>
+               <salute>Captain Sparks &amp; Wade</salute>
+            </opener>
+            <p>As you are now on the eve of siting out to hold a <choice>
+                  <orig>conferance</orig>
+                  <reg>conference</reg>
+               </choice> with the inhabitants settled in what is called the indian lands, <add>I hope</add>   permit me to solicit your fraternal, benevolent, and favorable  indulgences towards those unfortunate people, by granting <add>unto</add>   them all the time and suitable opportunity <del>that may be</del>      adequate to a preparation for their removal; and in every other instance <choice>
+                  <orig>affoard</orig>
+                  <reg>afford</reg>
+               </choice> unto them such marks of your humanity and tenderness as the duties of your office and the nature of the Case will <add>permit you</add>   in doing of which you will lay me under <del type="overstrike">high</del>
+               <add>very</add>   great and lasting obligations</p>
+            <closer>
+               <add>I have the honor to be with much Esteem &amp; respect your <choice>
+                     <abbr>Mo ob Sevt.</abbr>
+                     <expan>Most obedient Servant</expan>
+                  </choice> Signed </add>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

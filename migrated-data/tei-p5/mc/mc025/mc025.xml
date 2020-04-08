@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Apr. 23 [to] Charles F. Welcker /  Richard Grantham : a machine readable transcription of an image</title>
+            <author>Grantham, Richard</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc025</idno>
+            <idno>OCLC: 50472755</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Apr. 23 [to] Charles F. Welcker /  Richard Grantham</title>
+               <author>Grantham, Richard</author>
+               <date when="1836-04-23">April 23, 1836</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated April 23, 1836 to Charles F. Welcker from Richard Grantham regarding a buying trip for goods such as bacon and flour.</note>
+               <note type="collection" anchored="true">Welker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">Jan-April 1836</note>
+               <note type="document" anchored="true">mc025</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Food supply</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Grantham, Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc025a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Rogersville<date when="1836-04-23">April 23<add place="supralinear">th</add>.1836</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <name type="person">Mr. Welcker</name>
+               </salute>
+            </opener>
+            <p>I am now waiting on some water to float me off. I will have about three hundred Dollars worth of Bacon &amp; flour with 4 tubs of <choice>
+                  <orig>Crout</orig>
+                  <reg>kraut</reg>
+               </choice> and will be on as soon as I can between 25 &amp; 30 Barrels of flour this I <choice>
+                  <orig>bot </orig>
+                  <reg>bought</reg>
+               </choice> on credit with interest from date there will be at least 25000 lbs Bacon on at the same time I <unclear>Course</unclear> and it will be good.  Know the prices of that article <del type="overstrike">and</del> in the south and meet me at Gunters &amp; be prepared to buy all we can for those that's coming is Hagan &amp; Spears and they will be anxious to sell and think there will be a bargain to be had. All is well we have a fine daughter &amp; call her ⁁<add place="supralinear">now</add>
+               <name type="person">Margariet. Penelope</name> a <choice>
+                  <orig>butiful</orig>
+                  <reg>beautiful</reg>
+               </choice>
+               <name type="person">Chile</name> 4 week old tomorrow</p>
+            <closer>
+               <salute>Give our respects to Mrs. Welcker &amp; accept of them yourself</salute>
+               <signed>
+                  <name type="person">Richard Grantham</name>
+               </signed>
+               <pb n="2" facs="mc025b.small.jpg"/>
+               <address>
+                  <addrLine>Mr Charles F. Welcker</addrLine>
+                  <addrLine>
+                     <name type="place">Talladega <choice>
+                           <abbr>Ala</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>.</addrLine>
+               </address>
+               <add place="top of letter">18 3/4<figure>
+                     <figDesc>postmark</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

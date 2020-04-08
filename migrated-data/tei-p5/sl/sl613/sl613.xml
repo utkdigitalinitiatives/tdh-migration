@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl613">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841 Nov. 6, Nashville, Tennessee [to] J. Bridgeman,  S. Ranken, and F. Fergues / James Jones : a machine readable transcription of an image</title>
+            <author> Jones, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl613</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1841 Nov. 6, Nashville, Tennessee [to] J. Bridgeman,  S. Ranken, and F. Fergues / James Jones</title>
+               <author>  Jones, James</author>
+               <date when="1841-11-06"> 
+			 November 6, 1841</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated November 6, 1841 from Tennessee governor James Jones to Bridgeman, Ranken, and Fergues.  The subject of the letter is Colonel Scott Terry, who was recently elected Superintendent of Public Instruction. </note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl613</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Tennessee. Governor (1841-1845 : Jones)</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90007847"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jones, James C. (James Chamberlain), 1809-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl613a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville</addrLine>
+               </address>
+               <date>Nov 6th 1841</date>
+               <address>
+                  <addrLine>
+                     <name>John Bridgeman</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>esquire</expan>
+                     </choice>
+                     <lb/>
+                     <choice>
+                        <abbr> Mr</abbr>
+                        <expan>Mister</expan>
+                     </choice> Samuel Ranken <lb/> and <name>Thomas <unclear>Fergues</unclear>
+                     </name> esqr</addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>Your fellow citizen and countryman <choice>
+                  <abbr>Coln</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <name>Scott Terry</name> has been elected Superintendent of Public Instruction.  By the law creating this office he is required to give a bond in the sum of one hundred thousand dollars with good and sufficient security to be approved by the governor</p>
+            <p>I doubt not Coln <choice>
+                  <orig>Terrys</orig>
+                  <reg>Terry's</reg>
+               </choice> ability to give such Bond__ But it is my duty to offer the Bond and as I am not <choice>
+                  <orig>acquant</orig>
+                  <reg>acquaint</reg>
+               </choice> with your citizens I must rely on my friends for that information which I do not possess__</p>
+            <p>I have said to Coln Terry that he had best submit the Bond to your approval I have therefore to request that you will do me the kindness to <unclear>ensconce</unclear> the Bond and write me your opinions of the same In order that I may discharge my duty to the county</p>
+            <closer>
+               <add>
+                  <choice>
+                     <orig>Verry</orig>
+                     <reg>very</reg>
+                  </choice> Respectfully Your <choice>
+                     <abbr>Obd Seavt</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </add>
+               <signed>
+                  <name>James C Jones</name>
+               </signed>
+               <pb n="2" facs="sl613b.small.jpg"/>
+               <add>Copy of letter <lb/> addressed to <lb/>
+                  <name> J Bridgeman</name>
+                  <lb/>
+                  <name>S Ranken</name> &amp;  <name>F Fergues</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

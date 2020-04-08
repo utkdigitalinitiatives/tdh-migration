@@ -1,0 +1,93 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl451">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Appointment] 1812 Sep. 22, Tennessee William Lauderdale appointment as Captain In Militia / Willie Blount: a machine readable transcription of an image</title>
+            <author>Blount, Willie</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl451</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Appointment] 1812 Sep. 22, Tennessee William Lauderdale appointment as Captain In Militia / Willie Blount</title>
+               <author>Blount, Willie</author>
+               <date when="1812-09-22">September 22, 1812</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document notes the formal promotion of William Lauderdale from First Lieutenant to Captain of the 15th militia of the state of Tennessee on September 22, 1812.</note>
+               <note type="collection" anchored="true">Lauderdale Papers</note>
+               <note type="box" anchored="true">Correspondence</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl451</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Military</term>
+               <term>Militia</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98009970"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blount, Willie, 1768-1835</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl451.small.jpg"/>
+            <opener>STATE OF <name>TENNESSEE</name>, </opener>
+            <p>To all who shall see these presents, GREETING: KNOW YE, that reposing special trust and confidence in the patriotism, valor, conduct and fidelity of <name>William Lauderdale</name> of the county of <name>Sumner</name> WE DO	commission him Captain in the 15th regiment of militia of this state; and do <choice>
+                  <orig>authorise</orig>
+                  <reg>authorize</reg>
+               </choice> and empower him to execute and fulfil the duties of Captain in the said regiment, agreeable to law, and the rules and directions of military discipline.  TO HAVE AND TO HOLD the rank and command of Captain in the said regiment, during good behavior, with all the powers, privileges and emoluments thereto of right appertaining.  And the said William Lauderdale is hereby required to obey his superior officers lawful commands; and all officers and privates under his command are to be obedient to him as Captain aforesaid.</p>
+            <p>IN TESTIMONY WHEREOF, we have caused the Great Seal of the State to be hereunto affixed.  WITNESS <name>Willie Blount</name> Esquire, our Governor and commander in Chief, at <name>Nashville</name> the <date>22d day of September in the XXXVII year of our independence, and in the year one thousand eight hundred and Twelve</date>
+            </p>
+            <closer>
+               <signed>Willie Blount</signed>
+               <add>BY THE GOVERNOR, W. Blount Secretary</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

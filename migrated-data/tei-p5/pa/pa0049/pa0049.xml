@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[1822 Nov. 8, Petition to run a ferry on the Chatahoochy River] : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0049</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[1822 Nov. 8, Petition to run a ferry on the Chatahoochy River] </title>
+               <date when="1822-11-08"> 
+			 November 8, 1822</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a petition, dated November 8, 1822, to the Cherokee Nation to allow William and Daniel May a permit to open a new road for ferry access on the Chattahoochee River. Also included is a decision by the Cherokee Council to request a law suit against Richard Winn for taking forcible possession of the ferry bank previously used by the Mays.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians</term>
+               <term>Ferries</term>
+               <term>Chattahoochee River</term>
+               <term>Georgia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0049a.small.jpg"/>
+            <p>The National Committee and Council have determined that a <del type="overstrike">resol</del> communication be made by the Chiefs of Council <del type="overstrike">soliciting</del> to<name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Meigs </name>
+               <del type="overstrike">to</del> the Cherokee agent soliciting <gap agent="damage"/> institute a suit against Richard Wynn for damages in taking forcible possession of the ferry Bank on the Cherokee side, at Vann's ferry on the <choice>
+                  <orig>Chatahoochee</orig>
+                  <reg>Chattahoochee</reg>
+               </choice> river New Town Nov. 8th 1822 </p>
+            <closer>
+               <lb/> By order of the Committee <lb/>
+               <signed>
+                  <name>John Ross</name>
+               </signed>
+               <pb n="2" facs="pa0049b.small.jpg"/>
+               <add>
+                  <note>
+                     <p>The petition of <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> &amp; <name>Daniel May</name> humbly <choice>
+                           <orig>sheweth</orig>
+                           <reg>show</reg>
+                        </choice> that your petitioners having rented of the <name>Cherokee Nation</name> the ferry &amp; improvement at Chatahoochy known by the name of <name>Vanns Ferry</name>, <name>
+                           <unclear>Richard</unclear> Winn</name> of the state of Georgia having taken forcible possession of the landing on this side of the river to the great injury of your petitioners. your petitioners beg leave of your honorable body to grant them a permit to open a road from the two mile Creek on the road to a ferry above the old Ferry, which would be the nearest and best way for a road. your Compliance will much oblige your friends &amp; which favor will ever be acknowledge &amp; respected</p>
+                  </note>
+               </add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> May</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

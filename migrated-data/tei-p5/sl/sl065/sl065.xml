@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl065">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1825 Jan. 18, Gainesboro, [Tennessee] [to] Postmaster General / Sam Smith : a machine readable transcription of an image</title>
+            <author>Smith, Sam</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl065</idno>
+            <idno>OCLC: 50078787</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1825 Jan. 18, Gainesboro, [Tennessee] [to] Postmaster General / Sam Smith</title>
+               <author>Smith, Sam</author>
+               <date when="1825-01-18">January 18, 1825</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Sam Smith to the Postmaster General on January 18, 1825. Smith instructs the Postmaster General to forward the mail of Armour &amp; Lake, two merchants, to their new residence in Jackson, Madison County, Tennessee.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">19</note>
+               <note type="document" anchored="true">sl065</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Postal service</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Smith, Sam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl065a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Gainesboro <choice>
+                           <abbr>T</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                     <date when="1825-01-18">18th January 1825</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I am advised by <choice>
+                  <abbr>Messrs</abbr>
+                  <expan>Messeiurs</expan>
+               </choice>
+               <name type="person">Armour</name> &amp; <name type="person">Lake</name> that their residence is <name type="place">
+                  <emph>Jackson Madison County Tennessee</emph>
+               </name> and by their request I must ask the <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> to have <del type="overstrike">have</del> any letters returned from this office as dead letters with their address forwarded to that place</p>
+            <p>If any they are to be found among the letters forwarded for the quarter ending the first of July or October and I <del type="overstrike">am</del> believe there was one returned the <add place="supralinear">the teller at</add>
+               <date when="--10-01">1 <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice>
+               </date> — <add place="supralinear">they are merchants &amp; express some anxiety to me</add> I have put their address at foot</p>
+            <closer>
+               <salute>your <choice>
+                     <abbr>obt sert</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Sam L Smith</name>
+               </signed>
+               <address>
+                  <addrLine>Post Master General</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Messrs.</abbr>
+                        <expan>Messeiurs</expan>
+                     </choice> Armour &amp; Lake</addrLine>
+                  <addrLine>Jackson</addrLine>
+                  <addrLine>Madison County</addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+               <pb n="2" facs="sl065b.small.jpg"/> Copy of letter to <lb/> Post Master <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+               <lb/> on subject of <lb/> Armour &amp; Lake's <lb/> letter of <date when="1824-12-31">31st <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice>
+                  <lb/> 1824</date>
+               <lb/>
+               <date when="1825-01-18">18th <choice>
+                     <abbr>Janry</abbr>
+                     <expan>January</expan>
+                  </choice> 1825</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

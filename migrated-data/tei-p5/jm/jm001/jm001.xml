@@ -1,0 +1,548 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="jm001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Receipts for the cure of most diseases incident to the human family / by the celebrated Indian doctor, John Mackentosh, of the Cherokee Nation: a machine-readable transcription</title>
+            <author>Mackentosh, John</author>
+            <respStmt>
+               <resp>creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library, Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>jm001</idno>
+            <idno>OCLC: 44370336</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Tennessee Special Collections Library.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Receipts for the cure of most diseases incident to the human family / by the celebrated Indian doctor, John Mackentosh, of the Cherokee Nation</title>
+               <author>Mackentosh, John</author>
+               <pubPlace>New York</pubPlace>
+               <publisher>Printed for the publisher</publisher>
+               <date when="1827">1827</date>
+               <extent>12p</extent>
+               <note type="summary" anchored="true">This is a published work of receipts, or recipes, for treatment of a variety of injuries and diseases, including whooping cough, snake bite, sprained ankles, cholic, and fever.  The work was written by John Mackentosh, a Doctor of the Cherokee Nation, and appears to have been published in New York, 1827.</note>
+               <note type="Repository" anchored="true">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="Collection" anchored="true">John Mackentosh</note>
+               <note type="Box" anchored="true"> N/A</note>
+               <note type="Folder" anchored="true"> N/A</note>
+               <note type="Document" anchored="true"> N/A</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Tennessee Digital Library </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medicine--Formulae, receipts, prescriptions</term>
+               <term>Cherokee Indians--Medicine</term>
+               <term>Indians of North America--Medicine</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr91008038"
+                        role="Author http://id.loc.gov/vocabulary/relators/aut">Mackentosh, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <pb n="1" facs="jm001a.small.jpg"/>
+            <docTitle>
+               <titlePart type="main">
+                  <hi rend="b">RECEIPTS</hi>
+                  <lb/> FOR<lb/>THE CURE OF MOST DISEASES INCIDENT <lb/>TO THE <lb/>
+                  <hi rend="b">HUMAN FAMILY,</hi>
+                  <lb/>
+               </titlePart>
+            </docTitle>
+            <lb/>
+            <docAuthor>BY THE<lb/>CELEBRATED INDIAN DOCTOR,<lb/>
+               <hi rend="b">
+                  <name type="person">JOHN MACKENTOSH</name>,</hi>
+               <lb/>OF THE<lb/>
+               <hi rend="o, b">
+                  <name>Cherokee Nation</name>;</hi>
+               <lb/>NONE OF WHICH HAVE EVER BEFORE BEEN COMMUNICATED TO THE WORLD.<lb/>
+            </docAuthor>
+            <lb/>
+            <docImprint>
+               <pubPlace>NEW YORK:</pubPlace>
+               <publisher>PRINTED FOR THE PUBLISHER.</publisher>
+               <lb/>:::::::::::::::::<lb/>
+               <date when="1827">1827</date>. <lb/>
+               <hi rend="i">Price</hi> 12 1-2 <hi rend="i">cents.</hi>
+            </docImprint>
+         </titlePage>
+      </front>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="jm001b.small.jpg"/>
+            <head>DISTRICT OF <name type="place">TENNESSEE</name>TO WIT:</head>
+            <p>
+               <hi rend="i"> Be it remembered</hi>, That on the <date when="--06-05">fifth day of June</date>, in the <add place="left">L.S.</add> fifty-first year of the Independence of the <name type="place">United States</name> of</p>
+            <p>
+               <name type="place">America</name>, <name type="person">Seth Holderwell</name>, Esq. of the said district, hath deposited in this office the title of a book, the right whereof he claims as proprietor, in the words following, to wit :</p>
+            <p>"<bibl>
+                  <title>Receipts for the cure of most diseases incident to the human family.</title> By the celebrated <hi rend="i">Indian doctor</hi>, <author>
+                     <name type="person">John Mackentosh</name>
+                  </author>, of the <name>Cherokee nation</name>.</bibl>"</p>
+            <p>In conformity to the act of the Congress of the <name type="place">United States</name>, entitled, " <bibl>
+                  <title>An Act for the encouragement of learning, by securing the copies of maps, charts, and books to the authors and proprietors of such copies, during the times therein mentioned</title>
+               </bibl>,"</p>
+            <closer>
+               <name type="person">A.W. LATCHAWAY</name>,<lb/>
+               <hi rend="i">Clerk of the District of <name type="place">Tennessee</name>.</hi>
+               <lb/>
+               <date when="1827-06-05">June 5th, 1827</date>.
+                  
+               </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="jm001c.small.jpg"/>
+            <head>RECEIPTS, <choice>
+                  <abbr>c.</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </head>
+            <opener>
+               <salute rend="i">
+                  <hi rend="i">To those laboring under pain and disease, who look to this for relief and consolation.</hi>
+                  <lb/>
+                  <hi rend="sc">Dear Reader</hi> ; 
+                  </salute>
+            </opener>
+            <p>My <choice>
+                  <orig>endeavour</orig>
+                  <reg>endeavor</reg>
+               </choice> to afford you some consolation and an alleviation and exemption from pain and affliction, I deem one of the most glorious achievements of my life.  Nothing could afford me more pleasing and durable satisfaction, than to know myself the author of so much good to thousands, as the publication of the following receipts must produce.  They were discovered, tried, and their use ascertained and sanctioned, by the lengthy and extensive practice of an Indian, who devoted his whole life to curing the diseases and aiding the indigent.  He <choice>
+                  <orig>laboured</orig>
+                  <reg>labored</reg>
+               </choice> from motives of pure humanity, possessing the most willing hand and feeling heart.  From the same motives, was it, that (unwilling his much experience should be lost to the world,) he placed these receipts in my hand.  When this first happened, elated with the prospect of success, in the acquisition of wealth and <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice>, which I supposed they might infallibly secure to me, I determined to keep them from the eye of the world.  But thanks to the great Author of Nature, my heart of stone is converted into one of the most tender sensibility.  I now feel, that it is an obligation I owe my fellow mortals to contribute all in my power to their necessities and comforts; and as the hand of disease more completely than any thing else, deprives them of these, so by disclosing a method by which they may be lessened, both in danger and frequency, I shall most effectually fulfil my purpose.  The diseases for which these receipts were prescribed embrace most that are of common occurrence, especially of much importance and consequence.  They go from me with great delight; but still greater will be the delight if I should have the pleasure to<pb n="4" facs="jm001d.small.jpg"/>see them take a wide spread and have the happy effect that they have invariably had while given by my direction, or the direction of their good and virtuous author.  That this may be the case, I pray <hi rend="i">God grant</hi>.  May your lives be thereby prolonged and made happy.  May the blessing of Heaven be liberally showered upon you, and you be induced to bless and praise the Lord for his goodness and mercy in sending this man upon earth, and endowing him with a competence of skill, not yet surpassed. 
+               </p>
+            <closer>
+               <signed>
+                  <hi rend="sc">
+                     <name type="person">SETH HOLDERWELL</name>
+                  </hi>
+               </signed>
+               <hi rend="i">
+                  <name type="place">New-York</name>,<date> June, 1827</date>
+               </hi>.</closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="5" facs="jm001e.small.jpg"/>
+            <head>
+               <hi rend="sc">DIRECTIONS.</hi>
+            </head>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Dropsy.</hi>
+               </head>
+               <p>Take Milk Weed Roots, green of Elder and Wintergreen, of each a handful, steep strong, and drink a gill three times a day.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Fever and Ague.</hi>
+               </head>
+               <p>Drink often of tea made strong of tag Alder and Oak Bark, and take every other day a portion of Culver's Physic.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For a Cancer.</hi>
+               </head>
+               <p>Take the berries of Poke Weed, or Cokum, squeeze out their juice, add to it the same quantity of cream, and simmer it down to the consistence of an ointment.  If this is used in the early stage of the disease, it is a certain, safe, and easy cure.  It should be rubbed on every six or eight hours until it has some effect.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Worms.</hi>
+               </head>
+               <p>If they rise up into the throat so that the child cannot breathe, or is likely to have a fit, drop a few ashes into some water and let it be drinked.  After this, use for one day a tea made of Garlicks, Rue, and Wormwood.  Then give a dose of Butternut Physic, and the worms will be speedily evacuated.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For the sting of Wasps and other Insects.</hi>
+               </head>
+               <p>Hold the part that is stung for a few minutes, over the steam of hot water.  Then take some clean mud, warm it a little and apply it.  This will stop its smart and prevent its swelling.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Asthma and Phthisic.</hi>
+               </head>
+               <p/>
+               <p>Take the roots of Skunk Cabbage, steep them well and strain off the liquor.  Add to it a little juice of Garlicks, and take it often.  This if so taken, will perform a speedy cure in either of the above complaints. </p>
+            </div>
+            <pb n="6" facs="jm001f.small.jpg"/>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Sore Nipples. </hi>
+               </head>
+               <p>Take a walnut or walnuts and press the meats till a quantity of oil comes out; apply this to the nipples and it will in a short time complete a cure.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Snake Bites.</hi>
+               </head>
+               <p>Take common plantain, the leaves, put them in boiling water for a short time, and then apply them to the part bitten: at the same time use of a tea made of the same plant, together with a little <name type="place">Virginia</name> snake-root.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Dysentery.</hi>
+               </head>
+               <p>Take Thorough-wort and steep it in water until it is very bitter, then take a table-spoonful every half hour or hour till it effects a cure.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">Corns and Warts.</hi>
+               </head>
+               <p>Take a piece of Butternut root bark, pound it soft, put a little lye with it  this bound on corns and warts will soon cause them to disappear.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For a Ringworm.</hi>
+               </head>
+               <p>Take tobacco leaves and boil them well, then put some vinegar and lye with the liquor and wash often; this will infallibly cure.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Sores in the Ears of Children.</hi>
+               </head>
+               <p>Take Cats foot, the tops, steep them in cream until you think the strength is out, then strain off and steep the liquor down to the consistence of honey, put a little into the ear frequently, and you may rely on a cure.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Jaundice.</hi>
+               </head>
+               <p>Take a smart portion of physic, made by steeping Butternut roots strong, then take soot every day, or half day, or even three times a day with an egg; the Butternut physic should be taken as often as every third day, and if the sick one rather grows weak, a tea made of the twigs of tag alder, will recruit the strength, this will effect a cure in the course of two weeks.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Tooth Ache.</hi>
+               </head>
+               <p>Take Yarrors and Prickly Ash, of each equal quantities, <pb n="7" facs="jm001g.small.jpg"/>after steeping them a good while strain off: take the liquor and steep it down till it is nearly as thick as cream, drop a little of this into the tooth, or put it on lint and apply it.
+                     </p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Cholic.</hi>
+               </head>
+               <p>Take butternut roots, or Culver's physic, which ever you like best; boil them till the liquor is strong enough to purge smartly, then put into the liquor a good quantity of poppy leaves, and steep down into a syrup, give often until relief is obtained.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">To stop Vomiting.</hi>
+               </head>
+               <p>Take Spear Mint, make a tea of it and drink occasionally, it will soon check it.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Cholera Morbus.</hi>
+               </head>
+               <p>Give large draughts of May weed tea, till the patient pukes freely a few times, then take oats burn and pound them or steep them and give often, till the vomiting stops.  The food should be oat cake or partridge broth and a tea or porridge like, made of squirrels, partridges or birds may be used for clysters.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For the Spleen and <choice>
+                        <orig>Hystericks</orig>
+                        <reg>Hysterics</reg>
+                     </choice>.</hi>
+               </head>
+               <p>Take hyssop, skunk cabbage root and solomon seal roots, equal parts, make a syrup of the above, to which add a little ginger, as this last is good for wind.  Take a draught of this every morning as soon as out of bed, another on going to bed, and you will soon begin to mend.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For the Itch.</hi>
+               </head>
+               <p>Take the tops of the plant called Hellebore, which looks some like skunks cabbage, only it grows more <choice>
+                     <orig>splindling</orig>
+                     <reg>spindling</reg>
+                  </choice>.  Put some tobacco with it, steep them into a strong tea, and wash whenever the eruption appears.  I never knew this to fail of effecting a cure.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Rickets.</hi>
+               </head>
+               <p>Make use of cold water every once and a while, by pouring a little of it on the body of the child, or which is better, rubbing with a cloth, wet in cold water.  Keep the bowels loose by green of elder tea, or elder berries, or elder blows, give at the same time burdock seeds, fennel seeds <pb n="8" facs="jm001h.small.jpg"/>and oyster shells, burnt and pounded.  All these articles may be either pounded and made into pills, or steeped and drank in the form of tea.
+                     </p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Heart Burn </hi>
+               </head>
+               <p>Take corn, parch it, pulverize it and eat it in milk; sometimes a little ginger added will make the cure quicker.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Sprains. </hi>
+               </head>
+               <p>Take a spoonful of honey, the same quantity of salt, and the white of an egg, beat the whole together, anoint the place sprained with this, keeping the part well rolled with a good bandage.  I have known this to enable persons with sprained <choice>
+                     <orig>ancles</orig>
+                     <reg>ankles</reg>
+                  </choice> to walk in twenty-four hours entirely free from pain.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For numbed or trembling Hands.</hi>
+               </head>
+               <p>Wash the hands so affected in strong wormwood and mustard seed tea, to be strained and used when cold.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For a bruised Eye.</hi>
+               </head>
+               <p>Boil a handful of hyssop leaves in a little water, till they are quite tender, then put them up in linen and apply it hot to the eye, tie it on tightly at bed-time, and the eye will next day be quite well.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Coughs, Spitting of Blood, <choice>
+                        <abbr>c.</abbr>
+                        <expan>et cetera</expan>
+                     </choice>
+                  </hi>
+               </head>
+               <p>Take six ounces of comfrey roots and twelve <choice>
+                     <orig>handfulls</orig>
+                     <reg>handfuls</reg>
+                  </choice> of <choice>
+                     <orig>plaintain</orig>
+                     <reg>plantain</reg>
+                  </choice> leaves; cut and beat them well, strain out the juice, and with an equal weight of sugar, boil it to a syrup.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Cramp and Stomach-Ache.</hi>
+               </head>
+               <p>First put the patient in a warm bed, then take as many spider's webs as can be put in a thimble, and mix them with as much honey, half of this is a dose, to be given once in half an hour till the patient sweats freely, when the cramping will cease or the stomach stop aching, and the patient fall to sleep.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For a pimpled face and inflamed Sores.</hi>
+               </head>
+               <p>Drink a tea made by steeping a handful of sassafras bark in a quart of water.  Wash the part affected, two or three times a day in a tea made by steeping a handful of<pb n="9" facs="jm001i.small.jpg"/>hops in a quart of rain water, to be strained and used when cold.
+                     </p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">To cure a person's thirst for Ardent Spirits.</hi>
+               </head>
+               <p>Take blood-root, pods of Indian tobacco dried and pulverized, of each, a tea-spoonful, which should be put into a pint of the spirit you like best; and whenever you thirst for liquor, drink a swallow of this, and you will soon be cured of that pernicious habit.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Rheumatism.</hi>
+               </head>
+               <p>Take some brimstone and powder it fine, pour it in a long narrow bag and tie it about the body.  A spoonful may be taken internally on going to bed.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Whitloes.</hi>
+               </head>
+               <p>Make a strong lye of ashes, and in this, warmed, let the finger soak a good while  Repeat this operation two or three times, and you will find the good effect of it.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Sore and Inflamed Eyes.</hi>
+               </head>
+               <p>A very small quantity of the pith of Sassafras, infused in a glass of water, gives to the whole a ropy consistence, like the white of eggs  which is an excellent application for Sore and Inflamed Eyes.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Sore Lips.</hi>
+               </head>
+               <p>White pine turpentine, apply it to the lips a few times and it will cure sores and chops.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Child Bed Fever.</hi>
+               </head>
+               <p>Give rattle snakes Gall, a piece as big as a shot, dissolved in boiling water, three times a day, it will soon check the fever and allay the pain.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For the Whites in Females.</hi>
+               </head>
+               <p>Take white Cohush Root, make a weak tea of it, and use plentifully during the day.  It may also be used to facilitate the birth of a child.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For the Piles.</hi>
+               </head>
+               <p>Make an ointment by simmering together in cream, rose leaves, cats foot and sweet apple tree bark.</p>
+            </div>
+            <div subtype="2">
+               <pb n="10" facs="jm001j.small.jpg"/>
+               <head>
+                  <hi rend="i">For swelled Feet and Legs, from weakness.</hi>
+               </head>
+               <p>Rub them with beef brine and cover them with common <choice>
+                     <orig>plaintain</orig>
+                     <reg>plantain</reg>
+                  </choice> leaves.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Sick Head Ache.</hi>
+               </head>
+               <p>First steep a handful of thorough wort in half a pint of water, and take a table spoonful once in five minutes till it occasions vomiting, then steep a small quantity of white root, and take half a gill at a time for a few times, and the head-ache will cease.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Cramp of the Stomach.</hi>
+               </head>
+               <p>Make a tea by steeping two spoonfuls of Ginger in a pint of water; drink a swallow of this while warm, once in five minutes, till it abates the cramping and pain, then give a purge of Butternut root bark.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For a Relax.</hi>
+               </head>
+               <p>Take <choice>
+                     <orig>Chesnut</orig>
+                     <reg>Chestnut</reg>
+                  </choice> bark (the inner bark,) make a strong decoction of it, sweetened well with loaf sugar, and it will immediately restrain it.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">Sore Throat and Mouth.</hi>
+               </head>
+               <p>Take the roots of black willow, gold-thread and sage, make a wash or gargle, which sweetened with honey, will afford instantaneous ease for cankery mouth and throat; take every other day a purge of Culver's Physic.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">St. Anthony's Fire.</hi>
+               </head>
+               <p>Bathe the feet and legs well in warm water, give a plenty of <name type="place">Virginia</name> snake-root, until sweating takes place, and wash the parts affected with a wash made of Celandine.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For <choice>
+                        <orig>Hooping</orig>
+                        <reg>Whooping</reg>
+                     </choice> Cough.</hi>
+               </head>
+               <p>Give, before it is of many days standing, a smart puke of blood root, say a teaspoonful of the powdered root.  If the breathing is at any time laborious and hard, make a blister, by applying a strip of butternut bark over the chest, on the right side; if this does not help quickly, give a little skunk's grease.<lb/>
+               </p>
+               <p>The best remedy for consumption and cough in general, that I have ever found out, is the following.  Take a handful <pb n="11" facs="jm001k.small.jpg"/>of <name type="place">Virginia</name> snake-root, a handful of garden hyssop, half a handful of poppy leaves and three garlicks.  Make half a pint of syrup, which sweeten with honey.  Take a spoonful every three hours.
+                     </p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">Ointment for Scalds and Burns.</hi>
+               </head>
+               <p>Take of thorn apples, apple peru, or stink weed, the leaves and apples, a handful, steep them in a pint of cream, till the strength is out, then strain and simmer down the cream, till it is proper for an unguent.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Deafness.</hi>
+               </head>
+               <p>Take the oil of an eel and put a little of it in the ear each morning; if there is pain in the ear, you may put an onion poultice under and into it.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For the Nose Bleed.</hi>
+               </head>
+               <p>Make a strong decoction of high briar root, snuff this as far up the nose as possible; at the same time pour cold vinegar on the head.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Pain in the Bowels.</hi>
+               </head>
+               <p>Boil thorough wort in some vinegar and water, take flannel clothes and wring them out of this liquor while hot, and put them on the bowels; this is one of the best fomentations.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For a Fellon.</hi>
+               </head>
+               <p>Take wormwood burn it to ashes, take the ashes and mix them with a little lime, then wring the bark off from a small <choice>
+                     <orig>chesnut</orig>
+                     <reg>chestnut</reg>
+                  </choice> or willow stick; take a piece of this in the shape of a thimble, fill it with the above mixture and put it over the sore, pour on water and let it soak enough.  It will soon eat it out.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For Pain in the Breast and Side.</hi>
+               </head>
+               <p>Foment the outside with cloths wrung out of a decoction of May weed, drink plentiful of Nettle tea, put on some butternut bark to draw a blister.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">Loss of Appetite.</hi>
+               </head>
+               <p>Take Snap wood twigs, or spice wood, butternut and Cohush Root, equal quantities, drink half a pint of this, made <pb n="12" facs="jm001l.small.jpg"/>strong, every day; eat but little for a few days at first; this will soon create a voracious appetite.
+                     </p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">To Vomit a Person.</hi>
+               </head>
+               <p>Take of Indian Physic, or what is called by some, Ipecac, a tea spoonful, put it in two gills of water a little warmed; drink half of this, wait ten minutes and if you do not vomit, take the remaining gill and you will certainly puke smartly.  Should the vomiting continue longer than you would have it, drink milk, for this will stop it.</p>
+            </div>
+            <div subtype="2">
+               <head>
+                  <hi rend="i">For wind in the Stomach and Bowels.</hi>
+               </head>
+               <p>Take peppermint, spearmint and the seed of caraway, of the two first a handful, of the last half a handful; these should be steeped in a pint and a half of water, till the strength is out, then strained through a linen cloth; to this tea add a table spoonful of ginger, and drink it while a little warm and you will be sure to obtain relief.</p>
+            </div>
+         </div>
+         <div subtype="1" type="letter">
+            <p>That the public may be apprized of the efficacy of the preceding Receipts, the following certificate is offered for perusal.</p>
+            <p>
+               <hi rend="i">From <name type="person">Dr. J. W. Van Keuren</name>, <name type="place">New-York</name>.</hi>
+            </p>
+            <p>I hereby certify that in June last, <name type="person">Seth Holderwell</name> Esq. presented me a small pamphlet, entitled <bibl>
+                  <title>Indian Receipts</title>, by <author>
+                     <name type="person">Dr. <choice>
+                           <abbr>J.</abbr>
+                           <expan>John</expan>
+                        </choice> Mackentosh</name>
+                  </author>
+               </bibl>, that I have made use of a number of articles mentioned in that work in my practice, as there recommended, <choice>
+                  <abbr>c.</abbr>
+                  <expan>et cetera</expan>
+               </choice> and have had the gratification to have them perform speedy cures in a number of cases of most inveterate disease.  It is with great pleasure, I recommend that pamphlet to the public, as being in my humble opinion, a most valuable publication.</p>
+            <p>
+               <date when="1827-08-05">August 5, 1827</date>.</p>
+            <p>
+               <add place="bottom">
+                  <choice>
+                     <abbr>N. B.</abbr>
+                     <expan>Nota Bene</expan>
+                  </choice> Numerous other certificates might be added relative to the friendly effects of these prescriptions, but it is thought unnecessary to present them to the purchaser, more especially as they tend to enhance the price of the work without adding to its utility.</add>
+            </p>
+            <p>
+               <add place="bottom">Rising of 3000 copies of this work were sold in the city of <name type="place">New-York</name>, within 20 days from its publication.</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

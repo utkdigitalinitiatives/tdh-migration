@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0324">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Affidavit of Andrew McNabb] 1839 Jan. 1, Monroe County, Tennessee   : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0324</idno>
+            <idno type="OCLC">OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Affidavit of Andrew McNabb] 1839 Jan. 1, Monroe County, Tennessee</title>
+               <date when="1839-01-01">January 1, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is an affidavit given by Andrew McNabb in regards to a lawsuit against The Pathkiller, a Cherokee Indian. Pathkiller lost his land during the removal and fought to regain it to no avail.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> pa0324</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0324a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of <name>Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Monroe County</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>This day personally appeared before me <name>Matthew Nelson</name> a Justice of the peace for Said County <name>Andrew McNabb</name> aged about Sixty years and of Sound mind and being first duly sworn deposeth and Saith that he moved from the upper end of  <name>Roane County</name>__ to near when Blairs ferry now is about the year 1809 and in the year 1810 become acquainted   with <name>PathKiller</name> an Indian who then resided about one <add>mile</add> from what is now Blairs ferry and about a South west direction from said ferry that Said Path Killer was living at the place where said Blairs ferry now is in the year 1818 that he moved from there But returned to the ferry place in april 1819 and Claimed Said ferry place as a Reservation and continued to <unclear>reside</unclear> thereon ever afterwards <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> he was <choice>
+                  <orig>disposesed </orig>
+                  <reg>dispossessed</reg>
+               </choice> by the sheriff of Roane County at <unclear>Suit</unclear>of <name>James Blair</name> about March 1821 This deponent further saith that Said PathKiller Brought suit against said Blair claiming said land as a reservation and continued to prosecute the Same untill February 1838 when said Suit was <choice>
+                  <orig>desided</orig>
+                  <reg>decided</reg>
+               </choice> against said PathKiller in the circuit court of the county of Roane aforesaid this deponent further states that when said PathKiller removed in 1818 as aforesaid he left one Gabriel Cavas as his tenant during his absence an said ferry &amp; Reservation place and further this deponent saith not</p>
+            <closer>
+               <signed>
+                  <name>Andrew <add>his x mark</add> McNabbb</name>
+               </signed>
+               <add>Sworn to and subscribed <lb/> before me the 1st day of <lb/> January 1839</add>
+               <add>M Nelson</add>
+               <add>Justice of Peace for said county</add>
+               <add>Judges fee $1.00</add>
+               <gap/>
+               <unclear>end of document missing</unclear>
+               <pb n="2" facs="pa0324b.small.jpg"/>
+               <add>60 <lb/> 4th <choice>
+                     <abbr>comm</abbr>
+                     <expan>commission</expan>
+                  </choice>. <lb/> Affidavit of <lb/> A McNabb <lb/> in PathKiller <lb/> case</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

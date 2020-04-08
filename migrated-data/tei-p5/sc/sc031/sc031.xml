@@ -1,0 +1,197 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1829 Feb. 12, Carthage, T[ennessee] [to] Colonel
+			 Ramsey, Knoxville, Tenn. / Sam Houston : a machine-readable transcription of an
+			 image</title>
+            <author>Houston, Sam</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc031</idno>
+            <idno>OCLC: 50037783</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1829 Feb. 12, Carthage, T[ennessee] [to] Colonel
+				Ramsey, Knoxville, Tenn. / Sam Houston</title>
+               <author>Houston, Sam</author>
+               <date when="1829-02-12">February 12, 1829</date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter dated February 12,
+				1829 to a Colonel Ramsey in Knoxville, Tennessee from Governor Sam Houston.
+				This letter was written shortly before Houston resigned as Governor of
+				Tennessee.</note>
+               <note type="Collection">Samuel Houston</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-217</note>
+               <note type="Document">sc031</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee Politics and government To 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n82151189"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Houston, Sam, 1793-1863.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc031a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Carthage 
+					 <choice>
+                           <abbr>T.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <date when="1829-02-12">12th 
+				<choice>
+                     <abbr>Febry</abbr>
+                     <expan>February</expan>
+                  </choice> 1829</date>
+               <salute>My dear Colonel,</salute>
+            </opener>
+            <p>Your favor <choice>
+                  <orig>shoud</orig>
+                  <reg>should</reg>
+               </choice> long since have been
+			 answered, but that I have been engaged in matrimonial affair and
+			 <emph>you</emph> will say they should have precedence. I told the old chief
+			 that I had a subject to present to him, but would do it by letter, and when the
+			 press of business would allow him to note it it will be done by me, and
+			 I now advise you whenever, the incumbents time is about to expire to present
+			 this to your <unclear>Representative</unclear>, and <unclear>someone</unclear>
+			 in Congress the name of our friend 
+			 <name type="person">Scott</name> with such vouchers as you may deem
+			 fit; and I have no doubt but he can obtain the situation, and <pb n="2" facs="sc031b.small.jpg"/> I
+			 assure you I wish him success most heartily. He was a boy with me I know his
+			 worth, and I broke his Fathers bread in kindness!
+               </p>
+            <p>I will be happy to hear from you and will soon write to our noble
+			 friend 
+			 <name type="person">Dunlap</name>, and I pray you to
+			 <add place="supralinear">
+                  <unclear>talk to</unclear>
+               </add> him, and your brother
+			 <unclear>Doct R</unclear> with affectionate regard for me. </p>
+            <p>Salute our friends generally, and tell them "white Surry" shall be
+			 saddled for "the field tomorrow," for "Richard is himself again."</p>
+            <closer>
+               <salute>Ever thine truly</salute>
+               <signed>
+                  <name type="person">Sam Houston</name>
+                  <address>
+                     <addrLine>
+                        <name type="person">Colonel Ramsey</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Knoxville</name>
+                     </addrLine>
+                  </address>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="sc031c.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>Mathematical calculations for postage and
+				  postmark</figDesc>
+               </figure>
+               <address>
+                  <addrLine>Colonel Ramsey</addrLine>
+                  <addrLine>
+                     <del type="overstrike">
+                        <choice>
+                           <abbr>atto</abbr>
+                           <expan>attorney</expan>
+                        </choice>
+				at law</del>
+                  </addrLine>
+                  <addrLine>
+                     <del type="overstrike">Knoxville</del>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="Bottom left">
+                  <choice>
+                     <abbr>For d</abbr>
+                     <expan>forward </expan>
+                  </choice>
+		  to 
+		  <name type="place">Meckenburg</name> mail</add>
+               <add place="below">
+                  <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received </expan>
+                  </choice>
+                  <date when="1829-02-21">
+                     <choice>
+                        <abbr>Febry</abbr>
+                        <expan>February</expan>
+                     </choice> 21st
+			 1829</date>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

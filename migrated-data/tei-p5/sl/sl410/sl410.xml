@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl410">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Mar. 5, Marshall County, Miss[issippi, to] Isaac B. Williams, Paris, Tennessee / Rachael Greer: a machine readable transcription of an image</title>
+            <author>Greer, Rachael</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl410</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1838 Mar. 5, Marshall County, Miss[issippi, to] Isaac B. Williams, Paris, Tennessee / Rachael Greer</title>
+               <author>Greer, Rachael</author>
+               <date when="1838-03-05">March 5, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Rachael Greer to her son Isaac B. Williams, dated March 5, 1838. Rachael writes that Isaac's father is willing to help him acquire some land as an investment. She adds that all in the family are well.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">30</note>
+               <note type="document" anchored="true">sl410</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Communication in the family</term>
+               <term>Real property</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Greer, Rachael</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl410a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Marshall County</name>
+                     <name>
+                        <choice>
+                           <abbr>Miss</abbr>
+                           <expan>Mississippi</expan>
+                        </choice>
+                     </name>
+                     <date>March 5th <add>1838</add>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>Dear Son</salute>
+            </opener>
+            <p>We are all in Common health at <choice>
+                  <orig>presant</orig>
+                  <reg>present</reg>
+               </choice> and hope this will find you well also times are flourishing in this Country the land office is Closed at presant but will be <choice>
+                  <orig>oppend</orig>
+                  <reg>opened</reg>
+               </choice> again shortly, there is a good <unclear>ade</unclear> of vacant land yet, and <name>Mr Greer</name> says if you will send him the Silver he will enter one or more quarter Sections of <unclear>Land</unclear>
+               <gap/> at 50 cents <add>per acre</add> that <gap/> be sold for $2.50 or $3.00  which would <unclear>be a</unclear> large profitable investment these hard times <unclear>your</unclear> relations are all in Common health <gap/> you must Come down this Spring and <gap/> us. nothing more at presant</p>
+            <closer>
+               <salute>but remain your affectionate Mother <choice>
+                     <orig>untill</orig>
+                     <reg>until</reg>
+                  </choice> death</salute>
+               <signed>
+                  <name>Rachael Greer</name>
+               </signed>
+               <pb n="2" facs="sl410b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Isaac B Williams</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>mail { <name>Paris</name>
+                     <name>Henry <choice>
+                           <abbr>Co.</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

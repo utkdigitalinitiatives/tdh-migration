@@ -1,0 +1,241 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Oct. 27, Cherokee Agency [to] John C. Calhoun, Secretary of War / Joseph McMinn: a machine-readable transcription of an image</title>
+            <author>McMinn, Joseph, 1758-1824</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch010</idno>
+            <idno>OCLC: 44753674</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 Oct. 27, Cherokee Agency [to] John C. Calhoun, Secretary of War / Joseph McMinn</title>
+               <author>McMinn, Joseph, 1758-1824</author>
+               <date when="1824-10-27">October 27,1824</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from Joseph McMinn, U.S. agent to the Cherokee Indians at the Cherokee Agency in Tennessee, to John C. Calhoun, Secretary of War, dated October 27, 1824.  McMinn reports to Calhoun on the claim of Mr. Elsworth, superintendent of the Brainerd Mission, and the Cherokee Nation that they are due funds for the construction of a building to house female students at the mission school.  McMinn refers to previous correspondence between Return J. Meigs, his predecessor at the Cherokee Agency, and Calhoun on this matter.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true"> 1</note>
+               <note type="folder" anchored="true"> 15</note>
+               <note type="document" anchored="true">ch010</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Education</term>
+               <term>Brainerd Mission</term>
+               <term>Indian agents</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch010a.small.jpg"/>
+            <opener>
+               <add place="top">[re <name type="place">Brainerd Mission</name>]</add>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Cherokee Agency</name>
+                     </addrLine>
+                  </address>
+                  <date when="1824-10-27">27th October 1824</date>
+               </dateline>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <name type="person">Mr. Elsworth</name> the Superintendent of the <name type="place">Brainard Mission</name>, in the <name>Cherokee Nation</name> was at this place a few days since, for the purpose of bringing to a close the accounts, between this Agency and the <name type="place">Brainard</name> establishment; relative to the building for the use of the females of that institution. - On Referring to your letter of the <date when="1820-11-16">16th November 1820</date>.  directed to <name type="person">Col. Return J Meigs</name>, I find that you had directed him to include in his quarterly estimates, the sum that may be necessary, from time to time, for this purpose; taking care not to exceed the sum of $1000.00</p>
+            <p>
+               <name type="person">Mr. Elsworth</name> seems to be impressed with the Opinion that the establishment has only received the sum of $666.66 2/3 cents out of the $1000.00 appropriated<pb n="2" facs="ch010b.small.jpg"/>for the building of the female academy 
+               </p>
+            <p>On <choice>
+                  <orig>refering</orig>
+                  <reg>referring</reg>
+               </choice> to the Books of this office I find the following Payments, which were made by <name type="person">Col. Meigs</name> to the Superintendent of <name type="place">Brainard</name>
+            </p>
+            <p>(To <choice>
+                  <orig>witt</orig>
+                  <reg>wit</reg>
+               </choice>)<table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <date when="--04">April</date>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Paid the <name type="person">
+                           <choice>
+                              <abbr>Revd</abbr>
+                              <expan>Reverend</expan>
+                           </choice> Ard. Hoyt</name> in the 1st <choice>
+                           <abbr>qrt.</abbr>
+                           <expan>quarter</expan>
+                        </choice>
+                        <date when="1820">1820</date>
+                     </cell>
+                     <cell rend="right" role="data" rows="1" cols="1">$100.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>
+                           <date when="--06-15">15th June</date>
+                        </unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Ditto  <name type="person">Alijah Conger</name> in the 2nd <choice>
+                           <abbr>qrt</abbr>
+                           <expan>quarter</expan>
+                        </choice>. <date when="1820">1820</date>
+                     </cell>
+                     <cell rend="right" role="data" rows="1" cols="1">127.61 1/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell rend="right" role="data" rows="1" cols="1">$227.61 1/4</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">to complete the expense for some out -buildings  establishing a house to <choice>
+                           <orig>Seperate</orig>
+                           <reg>Separate</reg>
+                        </choice> the Sexes of Indian youths at <name type="place">Brainard School</name>, both these items was <choice>
+                           <orig>authorised</orig>
+                           <reg>authorized</reg>
+                        </choice> by the president of the <name type="place">United States</name>
+                     </cell>
+                     <cell rend="right" role="data" rows="1" cols="1">
+                        <unclear>$100.61 1/4</unclear>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">Paid to the <name type="person">
+                           <choice>
+                              <abbr>Revd.</abbr>
+                              <expan>Reverand</expan>
+                           </choice> A. Hoyt</name>
+                        <date when="1821-06-13">13th June 1821</date>
+                     </cell>
+                     <cell rend="right" role="data" rows="1" cols="1">333.33 1/3</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Do.  do.  Do.</abbr>
+                           <expan>Ditto  ditto  Ditto</expan>
+                        </choice>
+                        <date when="1821-09-07">7th <choice>
+                              <abbr>Septr.</abbr>
+                              <expan>September</expan>
+                           </choice> 1821</date>
+                     </cell>
+                     <cell rend="right" role="data" rows="1" cols="1">333.33 1/3</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell rend="right" role="data" rows="1" cols="1">$894.28</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The above sum of $ 894.28 cents, is the whole amount that appears upon the Books of this Office as having been paid towards the building of the female; and Should the sum of $227.61 1/4 cents (as <choice>
+                  <orig>authorised</orig>
+                  <reg>authorized</reg>
+               </choice> by the President) <hi>not be included as a part of the</hi>
+               <pb n="3" facs="ch010c.small.jpg"/>$1000.00. then will be a balance yet due the establishment of $333.33 1/3 Cents as Claimed by them
+               </p>
+            <closer>
+               <salute>I have the honor to be Most Respectfully Your <choice>
+                     <abbr>Obt</abbr>
+                     <expan>obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos.</abbr>
+                        <expan>Joseph</expan>
+                     </choice> McMinn</name>
+               </signed>
+               <address>
+                  <addrLine>Honorable</addrLine>
+                  <addrLine>
+                     <name type="person">John C Calhoun</name>
+                  </addrLine>
+                  <addrLine>Secretary of War</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="ch010d.small.jpg"/>
+            <p>
+               <name type="place">Cherokee agency</name>
+               <date when="1824-10-27">27: Oct. 1824</date>
+               <name type="person">
+                  <choice>
+                     <abbr>Jos.</abbr>
+                     <expan>Joseph</expan>
+                  </choice> McMinn</name>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <date when="--05-12">12 May <unclear/>
+               </date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>Relative a balance alleged to be due on the allowance made <del type="overstrike">
+                  <unclear/>
+               </del>
+               <add place="supralinear">towards</add> building for the female school at the <name type="place">Brainerd</name> establishment in the <name>Cherokee Nation</name>--</p>
+         </div>
+      </back>
+   </text>
+</TEI>

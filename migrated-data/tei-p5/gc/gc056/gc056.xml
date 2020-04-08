@@ -1,0 +1,164 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc056">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Dec. 24 [to] James King / Thomas Moore: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc056</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 Dec. 24 [to] James King / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1850-12-24">December 24, 1850</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter written on Christmas eve, 1850 from Thomas Moore to James Moore King.  Moore tells King of his crop yield and sales prices.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1850</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">gc056</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Communication in the family</term>
+               <term>Business enterprises</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc056a.small.jpg"/>
+            <opener>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Thos</abbr>
+                        <expan>Thomas</expan>
+                     </choice>. O. Moore</name>
+                  <date>
+                     <choice>
+                        <abbr>Dec</abbr>
+                        <expan>December</expan>
+                     </choice>- 1850</date>
+               </add>
+               <add>mentions aunt overton-</add>
+               <add>Answered <date>16th March 1851</date>
+               </add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Thos</abbr>
+                        <expan>Thomas</expan>
+                     </choice>. O Moore Letter To <choice>
+                        <abbr>Ja</abbr>
+                        <expan>James</expan>
+                     </choice> M King</addrLine>
+               </address>
+               <pb n="2" facs="gc056b.small.jpg"/>
+               <address>
+                  <addrLine>Alexandria (<choice>
+                        <abbr>La</abbr>
+                        <expan>Louisiana</expan>
+                     </choice>)</addrLine>
+               </address>
+               <date>24th <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice> 1850</date>
+               <salute>Dear <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>.</salute>
+            </opener>
+            <p> I avail myself of a lazy moment to write you a few lines, &amp; trust they will find all in the enjoyment of fine health after spending a merry christmas.  But's health is not very good, Eve &amp; myself are quite well.</p>
+            <p>We got through rolling our crop our week ago, &amp; in consequence of the extremely dry weather &amp; a continuation of it so long, my crop did not yield <choice>
+                  <orig>mor</orig>
+                  <reg>more</reg>
+               </choice> so well as we at first anticipated, I made 390.000 <choice>
+                  <abbr>lbs</abbr>
+                  <expan>pounds</expan>
+               </choice> &amp; about 700 <choice>
+                  <orig>barels</orig>
+                  <reg>barrels</reg>
+               </choice> of molasses, although every crop was not good it was the best in our parish to the fored, and will I think nett me after paying transportation expenses, commissions <unclear>&amp;c&amp;c</unclear> something like $22,000, my corn crop is not so good, but believe I have enough.  The Cotton crops very very much, some good, some tolerably so, &amp; others very bad, but the price bring so good it remunerates the planters well, I should have made more at it than sugar this year, but it has become so uncertain a crop here, that I think on the whole that sugar will be best, my great objection to the cotton is the immense outlay to prepare for the making it.  My great hope &amp; expectation is, (as it has already been partly accomplished) that this colonigative society, by its buying up this slave coast in <name>Africa</name> &amp; the influence that it will naturally wield, will in a great measure, if not entirely abolish the carrying if african negroes to <name>South America,</name>
+               <name>Cuba</name> &amp; other <name>west India</name> islands, when that is completed, <name>Louisiana</name> sugar will pay well, without our government coming to our aid, by laying a high tariff on imported sugars.</p>
+            <pb n="3" facs="gc056c.small.jpg"/>
+            <p>I have never heard from you whether you received the money remitted to you by my <unclear>murcht</unclear>, for the payment of the girl bought for Sarah, although I presume you have, in whose name was the title taken? if in <unclear>Lasah</unclear>, is there no danger in her being taken for old debts? I ask, as I do not know any thing on <choice>
+                  <abbr>Tenn</abbr>
+                  <expan>Tennessee</expan>
+               </choice>. laws.  How is Brother doing? is he making a respectable support? is he industrious? and will he ever be able to get along.  This is all confidential.</p>
+            <p>I have a great desire to see Sarah comfortable, &amp; will do what I can to attain that end, and feel confident that she will do her part, but I am afraid that B. is too inert, and has too little energy.  I am urging <unclear>Imus</unclear> to forward Sarah's negroes to her, &amp; have recently given him a good scolding about his negligence, and hope he will attend to it this spring </p>
+            <p>Where may we look for Tom Butler, I have not heard a word from him for a long time.  The <unclear>Bishman</unclear> ready to pay him, when he has his wife's signature to the sale of the land.  so they say.  Cant you &amp; cousin P. come down this spring, nothing would please us so much.  I calculate to go north next summer if nothing occurs to prevent me, I should go on one of the steam pockets to <name>New York</name>, and can not now say whether I should return by <choice>
+                  <abbr/>
+                  <expan>Tennessee</expan>
+               </choice>. or not The sole object of my visit is to reinstate my constitution that is more or less impaired by <unclear>exposure</unclear>, and remaining a long time in a southern climate, &amp; absenting myself one season from my business will accomplish it, at any rate to a certain extent. My intuition is to travel &amp; not spend any time at any particular place</p>
+            <pb n="4" facs="gc056d.small.jpg"/>
+            <p>Aunt Overton and family are well, her crop is not good this season, the old lady looks well and is very industrious.</p>
+            <p>Bethiah &amp; Over join me in my love &amp; best wishes &amp; Kind remembrance to yourself, cousin P. &amp; family, old aunt, Tom, cousin P. &amp; family, Jim &amp; Mitty &amp; all enquiring friends.  who did <name>May's Tucker</name> marry, give him my best respects.  also to my little namesake Tom, </p>
+            <p>Write me all the news, &amp; all about Sarahs situation- Accept for all the best wishes of <choice>
+                  <abbr>Col </abbr>
+                  <expan>Colonel</expan>
+               </choice>King</p>
+            <closer>Your Friend &amp; Relative <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+               <add>
+                  <name>Rural Rest</name>
+                  <date>16th March 1851</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

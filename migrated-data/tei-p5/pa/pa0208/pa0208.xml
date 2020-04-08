@@ -1,0 +1,230 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0208">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Invoice] 1813 Mar. 13, merchandise forwarded to that part of the Cherokee Nation which has migrated to the River Arkansas  : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0208</idno>
+            <idno type="OCLC">OCLC: 45830732</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Invoice] 1813 Mar. 13, merchandise forwarded to that part of the Cherokee Nation which has migrated to the River Arkansas</title>
+               <date when="1813-03-13"> 
+			 March 13, 1813</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document dated March 13, 1813 is an invoice for seven hundred and fifty dollars worth of merchandise for  the Cherokees who removed to the area of  the Arkansas River. These goods, which are mainly textiles are a portion of the annuity due the Cherokees for the year 1811. The merchandise was received by U.S. Agent to the Cherokee Return J. Meigs, delivered by John Ross, signed by several Cherokees.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">52</note>
+               <note type="document" anchored="true"> pa0208</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Invoices</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Cherokee Indians -- Relocation</term>
+               <term>Southern States</term>
+               <term>Arkansas River</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0208a.small.jpg"/>
+            <opener>
+               <add>A</add>
+               <lb/> Invoice of <choice>
+                  <orig>merchandize</orig>
+                  <reg>merchandise</reg>
+               </choice> forwarded to that part of the <name>Cherokee</name> nation which has migrated to the River <choice>
+                  <orig>Arkansa</orig>
+                  <reg>Arkansas</reg>
+               </choice>_in charge of <name>Samuel Riley</name> an Interpreter in the Cherokee Agency_</opener>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1811 <lb/> December</cell>
+                     <cell role="data" rows="1" cols="1">137 yards of striped (american manufactures) 75 <choice>
+                           <abbr>cts</abbr>
+                           <expan>cents</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">102.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">206 ¾" Plain <choice>
+                           <abbr>do.do.</abbr>
+                           <expan>ditto ditto</expan>
+                        </choice> 50 cts.</cell>
+                     <cell role="data" rows="1" cols="1">103.37</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> 14¾ Double Check do. do. 100 cts.</cell>
+                     <cell role="data" rows="1" cols="1">14.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">40 " Blue Cloth at 2 $</cell>
+                     <cell role="data" rows="1" cols="1">80.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">32" Drabb.....3$</cell>
+                     <cell role="data" rows="1" cols="1">96.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">7 ¾" fine scarlet <choice>
+                           <orig>Kersimere</orig>
+                           <reg>Cashmere</reg>
+                        </choice> at 450 cts.</cell>
+                     <cell role="data" rows="1" cols="1">34.87½</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">17 " do. Camlet......at 125 cts. </cell>
+                     <cell role="data" rows="1" cols="1">21.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">8 ¼" Grey Coating..... at 5$</cell>
+                     <cell role="data" rows="1" cols="1">41.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">10" Double Drabb cloth.......8$</cell>
+                     <cell role="data" rows="1" cols="1">80.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">6 " Superfine Black....... at 8$</cell>
+                     <cell role="data" rows="1" cols="1">48.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">22½ Green Kessimere at 350. cts.</cell>
+                     <cell role="data" rows="1" cols="1">78.73</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">37 Pocket Handkerchiefs...At 50</cell>
+                     <cell role="data" rows="1" cols="1">18.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"> 23 do. do. at 75.</cell>
+                     <cell role="data" rows="1" cols="1">17.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> 15 <choice>
+                           <orig>Groce</orig>
+                           <reg>Gross</reg>
+                        </choice> needles....at 75.</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">1 Horse Collar.......</cell>
+                     <cell role="data" rows="1" cols="1">2.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$750.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Received of Return J. Meigs by the Hands of Samuel Riley seven hundred &amp;  fifty dollars in valuable merchandize, as specified in the above Invoice, this sum having been appropriated for the Cherokees who emigrated to this Country, as a part of the Cherokee Annuity for the year 1811, being the proportion according to our numbers after deducting the drawbacks which were a lien on the same for the year 1811._ Duplicates signed Arkansa River the 13 day of March 1813<pb n="2" facs="pa0208b.small.jpg"/> attest <lb/>
+               <name>Horace Waller</name>
+            </p>
+            <closer>
+               <signed>
+                  <name>Talonteskee X</name>
+                  <name>Kannetoo X</name>
+                  <name>Kalawaskee X</name>
+                  <name>Wahachee X</name>
+                  <name>Oolanahee X</name>
+               </signed>
+               <add>Receipt for the Cherokee Chiefs to sign on the <name>Arkansas</name>
+               </add>
+               <add>
+                  <choice>
+                     <abbr>Mdse</abbr>
+                     <expan>merchandise</expan>
+                  </choice> delivered by Mr <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice>. Ross</name> &amp; receipts signed 13th day of march 1813</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

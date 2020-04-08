@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl748">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 Mar. 1,  Knoxville [Tennessee, to] Sam[ue]l Handly / [John Sevier] : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl748</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 Mar. 1,  Knoxville [Tennessee, to] Sam[ue]l Handly / [John Sevier]</title>
+               <author>Sevier, John</author>
+               <date when="1798-03-01">March 1, 1798</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to Captain S. Handly dated March 1, 1798. The author is probably Governor John Sevier. Sevier announces that the General Assembly has empowered him to appoint an agent to negotiate with the Cherokee Nation for some of their land. Handly has been chosen for the position.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl748</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl748a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>1 March 1798</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>Captain <name>
+                        <choice>
+                           <abbr>Saml.</abbr>
+                           <expan>Samuel</expan>
+                        </choice> Handly</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>In pursuance of a resolve of the General Assembly the Executive of the state of <name>Tennessee</name> is <choice>
+                  <orig>impowered</orig>
+                  <reg>empowered</reg>
+               </choice> to appoint a suitable character to repair to the <name>cherokee nation</name> of Indians, in order to gain information and be informed, whether or not the Cherokees <del type="overstrike">could</del>
+               <add>can</add> be prevailed <del type="overstrike">on</del>
+               <add>upon</add>, to dispose of some part of the lands claimed by that nation adjoining our frontier settlements, <del type="overstrike">and</del> including the lands, which some inhabitants have lately been removed from:</p>
+            <p>I have thought it proper to appoint you, the said Saml Handly <del type="overstrike">esquire</del>, to undertake and <pb n="2" facs="sl748b.small.jpg"/> perform the aforesaid mission, <del type="overstrike">provided</del>
+               <add>hoping</add> the same may meet your own approbation and <choice>
+                  <orig>conveinancy</orig>
+                  <reg>conveniency</reg>
+               </choice>,</p>
+            <p>I am aware that this appointment will be attended with danger, trouble, and expense: but you <del type="overstrike">are</del>
+               <add>will</add>
+               <del type="overstrike">to</del> understand that you will be duly compensated for whatever trouble <add>&amp; services,</add> you may <del type="overstrike"> be at</del>
+               <add>render on this occasion</add>
+            </p>
+            <p>You will therefore please to hold your self in readiness, to act on the shortest notice and <choice>
+                  <orig>agreable</orig>
+                  <reg>agreeable</reg>
+               </choice> to such instructions as you may from time, to time, receive from</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>obed Hbl Servt.</abbr>
+                     <expan>obedient Humble Servant</expan>
+                  </choice>
+               </salute>
+               <pb n="3" facs="sl748c.small.jpg"/>
+               <add>Captain S Handly <lb/> 1 March 1798</add>
+               <add>Delivered about <date>1 January <lb/> 1799</date>, too late be Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

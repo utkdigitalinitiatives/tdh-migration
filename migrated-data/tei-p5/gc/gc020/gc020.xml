@@ -1,0 +1,187 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc020">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Mar. 5 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, Louisiana: a machine readable transcription of an image</title>
+            <author>  Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc020</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Mar. 5 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, Louisiana</title>
+               <author>Moore, Thomas O.</author>
+               <date when="1833-03-05">March 5, 1833</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">Letter dated March 5, 1833 from Thomas O. Moore to his cousin J.M. King.  Moore offers condolences for the loss of his son, and the many dead caused by Cholera spread on the Mississippi river.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1833</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">gc020</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cholera</term>
+               <term>Death and children</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc020a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <add place="top of envelope">From <name type="person">T.O. Moore</name> 1833</add>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="place">Murfreesboro</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>Alexandria Louisiana March 13</add>
+               <add>mail cholera</add>
+               <pb n="2" facs="gc020b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Alexa</abbr>
+                           <expan>Alexandria</expan>
+                        </choice> (<choice>
+                           <abbr>La</abbr>
+                           <expan>Louisiana</expan>
+                        </choice>)</name>
+                  </addrLine>
+               </address>
+               <date when="1833-03-05">5th March 1833</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>Yours esteemed favour  was <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> by last mail and was much pleased to hear of the good health of all particularly the improving situation of cousin Martha, but you were <choice>
+                  <orig>truely</orig>
+                  <reg>truly</reg>
+               </choice> unfortunate in losing your fine son, though it is a natural consequence for those who have to lose we have been so unfortunate as to lose both of ours. </p>
+            <p>We are entirely <choice>
+                  <orig>destitude</orig>
+                  <reg>destitute</reg>
+               </choice> of any news that would be interesting to you we have so far escaped the <choice>
+                  <orig>cholerea</orig>
+                  <reg>cholera</reg>
+               </choice> and in fine health and spirits we forget our past misfortunes and look to the future for better success we always feel as proud as the devil here <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> about July,  <choice>
+                  <abbr>Aug</abbr>
+                  <expan>August</expan>
+               </choice>.  &amp; <choice>
+                  <abbr>Septr</abbr>
+                  <expan>September</expan>
+               </choice>.  We are then for a while obliged to crouch under and beg for quarters until the dead are all buried, after which we meet and take a glass to the memory of our departed <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> talk of our crops and wives and resume our usual course in life in short we are the happiest souls in the world we live to try to make money and be happy and die only for want of breath.  The cholerea spread considerably on the <name type="place">Mississippi</name> but has by <choice>
+                  <orig>expirince</orig>
+                  <reg>experience</reg>
+               </choice> become perfectly managi <add place="supralinear">a</add> ble and no great deal dreaded.</p>
+            <pb n="3" facs="gc020c.small.jpg"/>
+            <p>We have had a great deal of bad weather which has retarded us very much in preparing for a new crop particularly, as my place is entirely new and immense labor required to put it in order.  John is very industrious but yet little <choice>
+                  <orig>acquanted</orig>
+                  <reg>acquainted</reg>
+               </choice> with our mode of doing business I have to day commenced planting my corn and have <choice>
+                  <orig>thene</orig>
+                  <reg>then</reg>
+               </choice> all my cotton land to prepare.</p>
+            <p>I have <add place="supralinear">just</add> returned from <name type="place">
+                  <choice>
+                     <abbr>N</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name> cotton is ranging from 8 to 12 cents have sold about three fourths my crop which was about one hundred thousand pounds gin cotton but will not bring a high price in consequence of the out season by which the quality was materially injured though think it will <choice>
+                  <orig>neat</orig>
+                  <reg>net</reg>
+               </choice> me after paying freight insurance, drayage, storage &amp; commission, nine thousand dollars though that is far beyond an average crop</p>
+            <p>I think it probable that I shall go to <name type="place">Carolina</name> next summer but it is uncertain whether I shall come through <name type="place">Tennessee</name> or not as I shall be in a hurry and may go the most expeditious route which will be by way of <name type="place">
+                  <choice>
+                     <abbr>N</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name> &amp; <name type="place">Mobile</name> but should certainly return through <name type="place">Tennessee</name> where I would once more have the pleasure of <choice>
+                  <orig>embrasing</orig>
+                  <reg>embracing</reg>
+               </choice> my old friends.   My wife joins me in love to cousin Martha, children and all our relations and enquiring friends.</p>
+            <closer>Your relative &amp; Friend.<signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Tho.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> O. Moore</name>
+               </signed>
+               <add place="left column">If I go to <name type="place">Carolina</name> I will write you previous to my departure</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

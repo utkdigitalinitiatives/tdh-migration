@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl262">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Feb. 6 [to] George W. House, Nashville, Tennessee / Mary House   : a machine readable transcription of an image</title>
+            <author>House, Mary</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl262</idno>
+            <idno>OCLC: 51217972</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1846 Feb. 6 [to] George W. House, Nashville, Tennessee / Mary House</title>
+               <author>House, Mary</author>
+               <date when="1846-02-06">February 6, 1846</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from Mary House to her husband George House, dated February 6, 1846. She had been traveling down the Cumberland River but disembarked in Vicksburg, KY. There she and the other members of her party had some trouble continuing on their trip. From there she travels to a town named Clinton to visit her brother,   and meets his new wife for the first time and their new baby.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl262</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee -- Travel and description</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, Mary</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl262a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Clinton</name>
+                     <choice>
+                        <abbr>Miss </abbr>
+                        <expan>Mississippi</expan>
+                     </choice>
+                     <date>
+                        <choice>
+                           <orig>Febuary</orig>
+                           <reg>February</reg>
+                        </choice> 6th 1846</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Husband</salute>
+            </opener>
+            <p>We reached here yesterday evening at five oclock, after a safe and pleasant trip, of eight days and four hours; of which I will give you some little account —</p>
+            <p>We did not leave the <name type="place">Cumberland river</name>
+               <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> Sunday night at 12 oclock our boat was now so heavily loaded that she could not run fast, we however moored on steadily taking in Pas ⁁ <add place="supralinear">s</add> engers at <choice>
+                  <orig>evry</orig>
+                  <reg>every</reg>
+               </choice> point untill we reached <name type="place">Randolph</name> at which place <name type="person">Mr Craighead</name>s family left us, We next <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice> at <name type="place">Memphis</name> where ⁁ <add place="supralinear">we</add> left ten or fifteen other of our company — We stoped one hour and a half at <choice>
+                  <abbr>M</abbr>
+                  <expan>Memphis</expan>
+               </choice> — <name type="person">Mr Lofstand</name> came on board to see me, he looks very well he insisted very much that I should stay some time with him on my return — He told me to say to Mother, that if she ever came down the river she must not pass his house — Lucy is now in <name type="person">
+                  <choice>
+                     <abbr>N</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name> I did not see <name type="person">Mr Tannehill</name>, he had gone to <name type="place">Cincinati</name> the day before — <name type="person">Mr Stout</name> came down to see us — We put out a good deal of freight at Memphis — and consequently we <pb n="2" facs="sl262b.small.jpg"/> the Boat run much faster — The Captain told us that he would put us off at <name type="place">Vicksburg</name> the next morning at 3 oclock, but <name type="person">Mr Yerger</name> told him it was out of the question to think of such a thing, that he would not stand it at all — the Captain at last consented to stop half the night, he did so, and landed us at 8 oclock in the morning, we were then too late for the morning carrs, and the other train did not leave untill half past 2 pm — Mr Yerger conducted us from the Boat to his house where we were to remain till the  carrs started — we took dinner and set off for the Depot, and having half an hour to go in; we walk perfectly at our leisure, on coming in sight of the depot we found that they had steam up and were about to be off — we quickened our pace considerably and arrived just in time to take our seats; but the Clerk declared vehemently that he would not wait to put on our baggage He said we ought to have been there sooner <name type="person">Mr Kausley</name> told him, that our Trunks had been in the Depot three hours, and it must be put on, if the Clerk would not have it done; he would do it himself he consented at last, and off we started and whom <del type="overstrike"><?xm-replace_text {del}?></del> do you think we found in the <pb n="3" facs="sl262c.small.jpg"/> Carrs, <name type="person">Colr Tarply</name> &amp; Lady, — The Colr told me I had improved very much — I said in one respect I had, but with me it was not very desirable to improve in that way — He told me that Brother was not at home — that he and Sigis, had gone up the river to see <name type="person">Feliac Taylor</name> married — I then told Mr Kausly to take my passage all the way to <name type="place">Jackson</name> but the Clerk soon came in to get our Tickets, and said, that Brother had gone back the day before — when we got out of the Carrs it was raining; and we had still a mile to go, and Clinton cannot afford a Hack — Fortunately — <name type="person">Mrs James Robinson</name>'s carriage was at the Depot (she having gone on to Jackson) we got in; and drove up to Brothers, and a more cordial reception and <del type="overstrike"><?xm-replace_text {del}?></del> hartier welcome I never received from any one; They met us down at the gate in the rain both Sister and Brother — so far I like; yes; love my new sister very much — she looks about as I expected, short, very fair and near sighted — Leila is a very sweet and pretty Baby, but not at all like our family; Brother looks very well, and seems to be very happy — we have prayers night and morning. Harriets baby has not been well since she left N — Nick has grown some, but looks very much cowed, you would <pb n="4" facs="sl262d.small.jpg"/> hardly know him — I have not seen any Body (or any thing) except <choice>
+                  <abbr>Brs</abbr>
+                  <expan>Brothers</expan>
+               </choice> family ⁁ <add place="supralinear">That I Know</add> when I have — I will write again — Susan is very well, and says she will write soon; she says tell her Mother she has one of her handkerchiefs — Brother and Sister join me in love to all; sister says she cannot go up with me — <add place="middle of page, rotated">
+                  <address>
+                     <addrLine>Mr <name type="person">George W House</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Nashville</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Tennessee</name>
+                     </addrLine>
+                  </address>
+               </add> give my love to all the girls, tell A &amp; M <unclear/> their fathers family are all well</p>
+            <closer>
+               <salute>your ever devoted wife</salute>
+               <signed>Mary</signed>
+               <add place="left of closer">Brother <choice>
+                     <orig>recieved</orig>
+                     <reg>received</reg>
+                  </choice> 1 Box of <choice>
+                     <orig>Rasons</orig>
+                     <reg>Raisins</reg>
+                  </choice>  1 Box of Candles the <choice>
+                     <orig>fesh</orig>
+                     <reg>fish</reg>
+                  </choice> &amp; flour, let us know if that was all Ma sent</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

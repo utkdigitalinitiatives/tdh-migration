@@ -1,0 +1,240 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch080">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter], 1857 Nov. 11, Washington City [to the] Secretary of the Treasury / W[illia]m H. Thomas: a machine-readable transcription</title>
+            <author>Thomas, William Holland, 1805-1893</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Yumi Chang</name>
+               <name>Tara Hottenstein</name>
+               <name>Angela Pulley</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca.14k</extent>
+         <publicationStmt>
+            <publisher>The University of Georgia Libraries </publisher>
+            <pubPlace>Athens, Ga.</pubPlace>
+            <address>
+               <addrLine>Main Library, </addrLine>
+               <addrLine>The University of Georgia, </addrLine>
+               <addrLine>Athens, Georgia 30602</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch080</idno>
+            <idno>OCLC: 44536002</idno>
+            <availability status="restricted">
+               <p>This work is the property of The University of Georgia Libraries.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter], 1857 Nov. 11, Washington City [to the] Secretary of the Treasury / W[illia]m H. Thomas</title>
+               <author>Thomas, William Holland, 1805-1893</author>
+               <date when="1857-11-11">November 11, 1857</date>
+               <extent>11p</extent>
+               <note type="summary" anchored="true">This document is a letter from William H. Thomas, legal representative of the North Carolina Cherokees, dated November 11, 1857 to the acting Secretary of the Treasury regarding a number of treaties, acts, and resolutions specific to the payment of annuities to the eastern Cherokees. Thomas quotes from several of these legal documents in arguing for the appropriate payments due the North Carolina Cherokees and pointing out obvious discrepancies in the federal policies.  This document was originally bound (as wtp080) with the following documents in the Southeastern Native American Documents Database: <ref>wtp081</ref>, <ref>wtp082</ref>, <ref>wtp083</ref>, <ref>wtp084</ref>.</note>
+               <note type="repository" anchored="true">Hargrett Rare Book and Manuscript Library, The University of Georgia Libraries</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">01</note>
+               <note type="folder" anchored="true">17</note>
+               <note type="document" anchored="true">ch080</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Georgia Libraries Electronic Text Center</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Claims</term>
+               <term>Letters</term>
+               <term>Cherokee Indians--Legal status, laws, etc.</term>
+               <term>North Carolina</term>
+               <term>Thomas, William Holland, 1805-1893</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Wool, John Ellis, 1784-1869</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch080a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Washington City</name>
+                     </addrLine>
+                  </address>
+                  <date when="1857-11-11">Nov 11, 1857.</date>
+               </dateline>
+               <salute>
+                  <choice>
+                     <abbr>Hon</abbr>
+                     <expan>Honorable</expan>
+                  </choice>
+                  <lb/>Sec. of the Treasury,<lb/>Sir,
+                     
+                  </salute>
+            </opener>
+            <p>As the attorney of the <name type="place">North Carolina</name>
+               <name type="person">Cherokees</name> permit me to present for your consideration an act of Congress passed in their favor which bears date <date when="1848-07-29">July 29, 1848</date>, and two decisions made thereon by two of your predecessors, <unclear>
+                  <choice>
+                     <abbr>Messr.</abbr>
+                     <expan>Messieurs</expan>
+                  </choice>
+               </unclear>
+               <name type="person"> 
+                  <reg>Mr.</reg> Corwin</name>
+               <name type="person"> 
+                  <reg>Mr.</reg> Guthrie</name> the former establishing a construction which was reversed by the latter, to the great injury of the Indians.  The act referred to will be found in the 9th vol <name type="place">U S.</name> laws, page 264.</p>
+            <p>
+               <q rend="block">Sec. 4.  Be it enacted <choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice> That the Secretary of War cause to be ascertained the number and names of such individuals and families including each member of every family of the <name>Cherokee nation</name> of Indians that remained in the State of <name type="place">North Carolina</name> at the time of the ratification of the treaty of <name type="place">New Echota</name>, <date when="1836-05-23">May twenty three eighteen hundred and thirty six</date>, and who have not removed west of the <name type="place">Mississippi</name>, or received commutation for removal and <choice>
+                     <orig>subsistance</orig>
+                     <reg>subsistence</reg>
+                  </choice>, and report the same to the Secretary of the Treasury: Thereupon the <emph>Secretary of the Treasury shall set apart, out of any moneys in the treasury not otherwise appropriated</emph>
+                  <pb n="2" facs="ch080b.small.jpg"/> a sum equal to fifty three dollars and fifty three cents for each individual ascertained as aforesaid and that he cause to be <emph>paid to every such individual or his or her legal representative interest at the rate of six, percent per annum on such per capita from the said <date when="1836-05-23">twenty third day of May eighteen hundred and thirty six</date> to the time of the passage of this act and continue <choice>
+                        <orig>annully</orig>
+                        <reg>annually</reg>
+                     </choice> thereafter the said payment of interest at the rate aforesaid.</emph>
+               </q>
+            </p>
+            <p>Under the recited act the census was taken and the sum of 53.33 set apart in the Treasury for each <name type="person">Cherokee</name> embraced on the Census Roll prepared by <name type="person">
+                  <choice>
+                     <abbr>Maj</abbr>
+                     <expan>Major</expan>
+                  </choice> John C. Mullay</name>, which in the aggregate amounted <add place="supralinear">to</add> 80.901.61</p>
+            <p>In the year of <date when="1850">1850</date>, as the attorney of the <name type="place">North Carolina</name>
+               <name type="person">Cherokees</name> I made application to the second auditor for the payment of interest due to the legal representatives of deceased <name type="person">Cherokees</name>, for whom the investment  <choice>
+                  <sic>had had</sic>
+                  <corr>had</corr>
+               </choice> been made.  The auditor refused to make payment and<pb n="3"/> referred the question of payment to the Secretary of the Treasury, the <choice>
+                  <abbr>Hon</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <name type="person">Wm M. Meredith</name>.  The letter of the second Auditor making the reference bears date <date when="1850-01-09">9th Jan. 1850</date> and is hereunto appended marked, A.
+               </p>
+            <p>
+               <del type="overstrike">The letter of the <choice>
+                     <abbr>2d</abbr>
+                     <expan>2nd</expan>
+                  </choice> Auditor</del> It was referred to the <choice>
+                  <abbr>2d</abbr>
+                  <expan>2nd</expan>
+               </choice> Comptroller for his decision thereon, by the Secretary of the Treasury.</p>
+            <p>On the <date when="--01-12">12th of <choice>
+                     <orig>Janurary</orig>
+                     <reg>January</reg>
+                  </choice>
+               </date> his decision of the question was made as shown by his letter of that date hereunto appended marked B, in which he decided that the interest had to be paid to the legal representatives of the Indians while the Government as trustee retained the possession of the fund.  He says, to use his own language, <q rend="block">
+                  <emph>in case of the death of a person interested in the fund the legal representative of such person would succeed to his rights and might claim the interest so long as the fund continued.  This is in accordance with the language of the 4th section.</emph>
+               </q>
+            </p>
+            <pb n="4"/>
+            <p>This decision was adopted by the Secretary of the Treasury <name type="person"> 
+                  <reg>Wm. M.</reg> Mr Meredith</name> and concurred in to <unclear>effect</unclear> by his successor the <choice>
+                  <abbr>Hon</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <abbr>Ths.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> H Corwin</name>, and by his assistant <name type="person">Mr Hodge</name>, as shown by his letter to <name type="person">Col A M Mitchell</name> the disbursing agent under date of <date when="1851-07-14">July 14, 1851</date>, hereunto appended marked C.  In which specific instructions are given with reference to making payment to the legal representatives of deceased <name type="person">Cherokees</name>,<q rend="block">
+                  <emph>you will be governed by the following general principles<lb/>To all Indians of lawful age now living payment of the respective sums due to each to be made to the Indians direct.<lb/>All sums due to minor children now deceased to be paid to the parents of living.<lb/>In cases of deceased wife or husband the amount due to be paid to the Survivor.<lb/>In all such instances where the deceased left neither husband nor wife (as the case
+                                 
+                              
+                           
+                        </emph>may be) then to be paid to the<pb n="5"/>
+                  <emph>legal representative</emph>
+               </q>
+            </p>
+            <p>Under these instructions the payments were made and the amount of the agent settled and thus approved by the accounting offices of the Treasury Department.</p>
+            <p>On the <date when="1853-03-03">3rd of March 1853</date>, <name type="person">Mr Corwin</name> went out and <name type="person">Mr Guthrie</name> came in to office, from that date I am inclined to believe that in the year <date when="1853">1853</date> an examination of your office will prove that the principle adopted of paying the interest of deceased <name type="person">Cherokees</name> to their legal representatives received the sanction of <name type="person">Mr Guthrie</name> himself.</p>
+            <p>Be that as it may, on the <date when="1854-01-15">15th of Jan 1854</date>
+               <name type="person">Mr Guthrie</name> by himself or most probably by a subordinate in his office, attempted the change of the construction of the <add place="supralinear">law</add> and the established practice under it and to reverse the decision of his predecessors <unclear>
+                  <choice>
+                     <abbr>Messr</abbr>
+                     <expan>Messieurs</expan>
+                  </choice>
+               </unclear>
+               <name type="person"> 
+                  <reg>Mr. Wm. M.</reg> Meredith</name>
+               <name type="person"> 
+                  <reg>Mr.</reg> Corwin</name> and the accounting officers of the Treasury department,</p>
+            <pb n="6"/>
+            <p>Evidence of which is found in the instructions to the agent <name type="person">
+                  <choice>
+                     <abbr>Jas</abbr>
+                     <expan>James</expan>
+                  </choice> W Terrell</name>, appointed to pay the interest under date of <date when="1854-01-15">Jan 15th 1854</date>, hereunto appended marked <emph>D</emph> which for reasons herein after set forth it is presumed should be set aside and the first construction of the law adopted in the payment of the interest now remaining deed.</p>
+            <p>In the instructions referred to which appear to have been signed; but never examined by <name type="person">Mr Guthrie</name>, the following is the then opinion upon the payment of the interest<q rend="block">
+                  <emph>It has been decided that the annuity in every case ceases with the death of the Indian, and that the proper representative of such Indian can receive only the annuity up to the time of his death.  In all such cases therefore you will make the compensation at the rate of 6.39, per annum</emph> from the <date when="1851-07-29">29th of July 1851</date> to<pb n="7"/> the day of the death of the Indian and pay the representatives of the amount due according to such computation instead of the amount assumed to be due in the statement.
+                        </q>
+            </p>
+            <p>The foregoing opinion contains conclusive evidence that <name type="person">Mr Guthrie</name> never examined either it or the law to which it refers, I will repeat the evidence on which this assertion is based.  The law made provision for the payment of six percent interest upon the sum of 53.33, which gives as the annual payment 3.19 98/100.  In the opinion of <name type="person">Mr Gutherie</name> or one of his subordinates it is said after stating that the interest would not be paid after the death of the Indian, it is stated that the agent would make the rate of <emph>compensation at the rate of 6.39 per annum, from the <date when="1851-07-29">29th of July 1851</date> to the day of the death of the Indian</emph>, can any one imagine that the <abbr>HonHonorable</abbr> Secretary of the Treasury of the <name type="place">United States</name> would have committed this error if he had<pb n="8"/> examined either the law or the opinion.  If he had examined the law he would have seen that it was but six percent allowed the Indian, giving annual annuity of 319. 98/100, if he had examined the decision he would have seen that it was allowing twelve instead of six percent interest double as much as authorized by the law.  The conclusion therefore seems <choice>
+                  <orig>irresistable</orig>
+                  <reg>irresistible</reg>
+               </choice> that the opinion over this signature was not his opinion because it will not do to adopt the opposite conclusion <del type="overstrike">because then it would be supposed</del> that he was incapable of calculating simple interest.
+                     </p>
+            <p>But in addition to the absurd <unclear>contradiction</unclear> in the opinion reputed to Mr. <unclear>
+                  <name type="person"> 
+                     <reg>Mr.</reg> Gutherie</name>'s</unclear> it is in direct opposition to the views entertained by Congress upon making payment to the <name type="person">Cherokees</name> of the principal as shown by the act of <date when="1855">1855</date> chap 204<pb n="9"/> page 700, <q type="block">And be it further <unclear>enacted</unclear> That the Secretary of the interior is hereby authorized and required to cause to be paid to the <name type="place">North Carolina</name>
+                  <name type="person">Cherokees</name> embraced in the roll of <name type="person">John C Mullay</name>
+                  <emph>or the legal representative of each of them as have died since their <choice>
+                        <orig>enrolment</orig>
+                        <reg>enrollment</reg>
+                     </choice>
+                  </emph> the sum of fifty three dollars and thirty three cents respectively for the expenses of their removal and subsistence now held in trust by the <name type="place">United States</name>, according to the terms of the 4th section of the act of <date when="1848-07-29">twenty ninth July Annodomini eighteen hundred and forty eight</date>.</q>
+            </p>
+            <p>I have now shown that the accounting offices of the Treasury and his secretaries decided in favor of paying interest to the legal representative of the Indians while the Government retained the possession of the principal.</p>
+            <pb n="10"/>
+            <p>I will now try to prove that neither <name type="person">Mr. Guthrie</name> nor the President of the <name type="place">United States</name> had any power to change the <choice>
+                  <orig>dicision</orig>
+                  <reg>decision</reg>
+               </choice> of the accounting <unclear>officers</unclear> of the Treasury.  To establish this position I beg to leave to refer you to the opinion of <name type="person">William Wirt</name> Attorney General vol 1. p 624, given upon the construction of the laws establishing the Treasury Department, In which opinion he says,<q rend="block">With regard to the comptroller it directs that is shall be his duty to superintend the adjustment and preservation of all public accounts settled by the Auditor and certify the balance arising thereon to the Register no right of appeal <emph>from his decision to the President</emph>, (see act of <date when="1809-03-03">3rd March 1809</date>, vol 4 p 221, sec 2) makes it the duty of the comptroller to direct the Auditor<pb n="11"/> to audit and settle any particular amount and to report such settlement for his revision and final decision, so also the act of <date when="1817-03-03">3rd March 1817</date>, which introduces the present organization of the Treasury Department <lb/>Thus in every instance <emph>the decision of the Comptroller is declared to be final</emph> and it is manifest that the law contemplates no further examination by any officer, after such decision.
+                              
+                           </q>
+            </p>
+            <p>But in addition to law plain Justice is on the side of the Indian.  The Government has his money and had also millions held in trust for the different tribes.  If she can claim that the interest does not descend to the heirs and legal representatives of the <name type="place">North Carolina</name>
+               <name type="place">Cherokees</name> may she not extend the decision to all the tribes, and thus defeat the objects of the Government in creating annuities.</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+            </closer>
+            <signed>
+               <name type="person">
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> H Thomas</name>
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

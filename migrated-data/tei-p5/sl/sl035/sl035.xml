@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1803 Oct. 10, Knoxville, Tennessee [to] John Sevier / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl035</idno>
+            <idno>OCLC: 50022125</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1803 Oct. 10, Knoxville, Tennessee [to] John Sevier / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1803-10-10">October 10, 1803</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter written to John Sevier by Andrew Jackson on October 10, 1803. In the letter, Andrew Jackson challenges John Sevier to a duel. He requests Sevier respond to his challenge and to meet either in Knoxville or at Southwest Point, on the Indian boundary line, to fight the duel.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">Number 8J</note>
+               <note type="document" anchored="true">sl035</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dueling</term>
+               <term>Invective</term>
+               <term>Tennessee. Governor (1803-1809 : Sevier)</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl035a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name> Monday 12 <choice>
+                        <orig>Oclock</orig>
+                        <reg>O'clock</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1803-10-10">10th of October 1803</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>your note by <name type="person">Mr William Maclin</name> is this moment handed me and I hasten to reply, that you have been well advised what part of the Indian boundary line I would go with you to relieve you of your fears, south west point was named, and that I would <choice>
+                  <orig>accomadate</orig>
+                  <reg>accommodate</reg>
+               </choice> your fears by going there — you have been informed invited and requested to meet me there — within the vicinity of this place, or any other ⁁ <add place="supralinear">place</add> that would be convenient — you have refused and waded a meeting, and through mere cowardice — you may yet retrieve your character by seeing me in this <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> or at south west point — If in this <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice>, this evening or early tomorrow morning — If at south west point <choice>
+                  <orig>tommorrow</orig>
+                  <reg>tomorrow</reg>
+               </choice> evening, or on Wednesday ⁁ <add place="supralinear">next</add> any time before twelve <choice>
+                  <orig>oclock</orig>
+                  <reg>o'clock</reg>
+               </choice> If you <unclear>incline</unclear> to this meeting I will expect to be notified by you — I well know your friend <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Sparks</name> is absent, he told me and my friend <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> A. White</name> on <choice>
+                  <orig>friday</orig>
+                  <reg>Friday</reg>
+               </choice> evening that for certain reasons he washed his hands of it — and was requested of he did to state it to you and to state <choice>
+                  <orig>agreable</orig>
+                  <reg>agreeable</reg>
+               </choice> to your appointment on the eighth we would expect to hear from you — or I would post you as you <pb n="2" facs="sl035b.small.jpg"/> have been here before advised — <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Sparks stated to my friend that he had stated to you everything he had promised, and gave for answer as I advised you yesterday — you Certainly are not so friendless, that you can get no friend this will not do well for a come off — The advertisement in the press — I leave Knoxville <choice>
+                  <orig>tommorrow</orig>
+                  <reg>tomorrow</reg>
+               </choice> after Breakfast — will <unclear>obey</unclear> a call from you between this and that time in the vicinity of this place — and I assure you, will be happy to see you in a situation that I can obtain that redress, that I have been trying to compel you to afford me for nine days past, and which you pledged your <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice> to my friend to give me — and which you have <choice>
+                  <orig>forfeighted</orig>
+                  <reg>forfeited</reg>
+               </choice>
+            </p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Governor John Sevier</name>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sl035c.small.jpg"/>
+               <address>
+                  <addrLine>His Excellency <name type="person">John Sevier</name>
+                     <choice>
+                        <abbr>Esq</abbr>
+                        <expan>esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Governor <choice>
+                        <abbr>&amp;c</abbr>
+                        <expan>et cetera</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Present</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

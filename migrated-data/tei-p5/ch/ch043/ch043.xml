@@ -1,0 +1,107 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 1821 Dec. 12 to Mr. Hoyt / J[ohn] C. Calhoun, Secretary of War : a machine-readable transcription</title>
+            <author>Calhoun, John C. (John Caldwell), 1782-1850</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch043</idno>
+            <idno>OCLC: 44837833</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 1821 Dec. 12 to Mr. Hoyt / J[ohn] C. Calhoun, Secretary of War</title>
+               <author>Calhoun, John C. (John Caldwell), 1782-1850</author>
+               <date when="1821-12-12"> Dec 12, 1821</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">Copy of a letter in which John C. Calhoun, Secretary of War, writes to Mr. Hoyt and informs him that his report of the state of the Brainerd Mission and of those which have grown out of it in the Cherokee Nation was received, Dec 12, 1821.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">29</note>
+               <note type="document" anchored="true">ch043</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Nation</term>
+               <term>Brainerd Mission</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79137102"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Calhoun, John C.(John Caldwell), 1782-1850</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch043a.small.jpg"/>
+            <p>
+               <add place="top">
+                  <hi rend="o">Gg.</hi>
+               </add>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <head>Letter from the Secretary of War to <name type="person">Mr. Hoyt</name>, acknowledging the receipt of the Report of the <name type="person">Cherokee</name> Mission, dated <date when="1821-12-12"> Dec. 12th. 1821.</date>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>Your Report of the state of the school at <name type="place">Brainerd</name> and of those which have grown out of it in the <name>Cherokee Nation</name> was duly received.</p>
+            <p>The report is very satisfactory.  The prosperity of the Establishment at <name type="place">Brainerd</name> which has already Enabled it to Extend its advantages to other parts of the <name>Cherokee Nation</name>, affords the most cheering prospect of complete success, and should it continue will entitle it to additional aid from the government.</p>
+            <closer>I have the honor to be Your <choice>
+                  <abbr>obedt. Servt.</abbr>
+                  <expan>obedient Servant</expan>
+               </choice> (Signed )<signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice> C. Calhoun</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

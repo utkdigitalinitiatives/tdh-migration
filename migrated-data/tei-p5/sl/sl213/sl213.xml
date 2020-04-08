@@ -1,0 +1,242 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Apr. 21, Nashville [to]    Mrs. Sarah B. Hamilton, Russellville, K[entuck]y / Oscar Hamilton : a machine readable transcription of an image</title>
+            <author>Hamilton, Oscar</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl213</idno>
+            <idno>OCLC: 51212814</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Apr. 21, Nashville [to]    Mrs. Sarah B. Hamilton, Russellville, K[entuck]y / Oscar Hamilton </title>
+               <author>Hamilton, Oscar </author>
+               <date when="1833-04-21">April 21, 1833</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter, dated April 21, 1833,  from Oscar Hamilton to his mother Sarah Hamilton. In the letter, Oscar writes about his views on education, religion, and updates his mother on the cholera and scarlet fever scare.</note>
+               <note type="collection" anchored="true">Orr Collection-IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sl213</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Religious life</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>Diseases</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hamilton, Oscar</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl213a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+               <date when="1833-04-21">April 21, 1833</date>
+               <salute>Dear Mother</salute>
+            </opener>
+            <p>I received your welcome letter by Mr Moose which gave me a <unclear>good deal</unclear> satisfaction to hear from you and my brothers and dear sister. you <choice>
+                  <orig>wrighted</orig>
+                  <reg>wrote</reg>
+               </choice> to me that <choice>
+                  <abbr>Br</abbr>
+                  <expan>Brother</expan>
+               </choice> James is trying to <choice>
+                  <orig>edued</orig>
+                  <reg>educate</reg>
+               </choice> himself tell him to press on with redoubled <choice>
+                  <orig>diligene</orig>
+                  <reg>diligence</reg>
+               </choice> that with a good <choice>
+                  <orig>educatian</orig>
+                  <reg>education</reg>
+               </choice> and a good character he can face the frowns &amp; curses of this wicked world that he can stand as <unclear>bold and damnless</unclear>  before the wicked <choice>
+                  <orig>decivr</orig>
+                  <reg>deceiver</reg>
+               </choice> as a <choice>
+                  <orig>lyon</orig>
+                  <reg>lion</reg>
+               </choice> doth before his prey</p>
+            <p>My dear Mother I am<choice>
+                  <orig>poore</orig>
+                  <reg>poor</reg>
+               </choice> but I feel myself as independent <gap agent="damage"/>
+               <choice>
+                  <orig>Boneypart</orig>
+                  <reg>Bonaparte</reg>
+               </choice> did. I have often wished that I was a poet or some eloquent <choice>
+                  <orig>wrighter</orig>
+                  <reg>writer</reg>
+               </choice> that I might paint the  <unclear>innumerable</unclear> shades which present <choice>
+                  <orig>themselfes</orig>
+                  <reg>themselves</reg>
+               </choice> before my mind on this subject but perhaps I <choice>
+                  <orig>ame</orig>
+                  <reg>am</reg>
+               </choice> taking up too much paper and time on this subject. Let me speak of something else. You say I am making rapid stride to manhood yes I am<choice>
+                  <orig>know</orig>
+                  <reg>now</reg>
+               </choice> in <add place="supralinear">my</add> 18th year and all I wish and all I crave is a good <choice>
+                  <orig>educatian</orig>
+                  <reg>education</reg>
+               </choice> and a sure and true <choice>
+                  <orig>relyance</orig>
+                  <reg>reliance</reg>
+               </choice> on the <choice>
+                  <orig>infinate</orig>
+                  <reg>infinite</reg>
+               </choice> and <orig>almyghty</orig> Being. Then will <add place="supralinear">I </add> defy the devil yea then will I defy world to slap my <unclear>prizes</unclear> to the summit of fame glory. Oh that I could see my brothers <pb n="2" facs="sl213b.small.jpg"/> well educated and become men of literature <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice> and respectability Nothing could tend to make me more happy than that. But after all I should <sic>I shoul</sic> be <choice>
+                  <orig>sill</orig>
+                  <reg>still</reg>
+               </choice> more <choice>
+                  <orig>gatrfyed</orig>
+                  <reg>gratified</reg>
+               </choice> to see them become <choice>
+                  <orig>Releigous</orig>
+                  <reg>Religious</reg>
+               </choice>. <choice>
+                  <abbr>Br</abbr>
+                  <expan>Brother</expan>
+               </choice>
+               <choice>
+                  <orig>an</orig>
+                  <reg>and</reg>
+               </choice> myself are <unclear>well</unclear> and we expec<add place="supralinear">t</add> to see you in May One of <unclear/> young men has left us and there is but <choice>
+                  <orig>thee</orig>
+                  <reg>three</reg>
+               </choice> of us <choice>
+                  <orig>know</orig>
+                  <reg>now</reg>
+               </choice>
+               <name type="person">Br Mr Batenead</name> and I and we are very busy. B Wells speaks of getting  <unclear>another</unclear> soon.—</p>
+            <p>You spoke of the cholera and <choice>
+                  <orig>scalett feve</orig>
+                  <reg>scarlet fever</reg>
+               </choice> in you letter but there is <unclear>little?</unclear> here. Nashville is very healthy and I think if <choice>
+                  <orig>ther</orig>
+                  <reg>there</reg>
+               </choice> is no more sickness then now the <choice>
+                  <abbr>Drs </abbr>
+                  <expan>Doctors</expan>
+               </choice> will <sic>will</sic> have to beg <choice>
+                  <orig>ther</orig>
+                  <reg>their</reg>
+               </choice> bread or live on the capital There has been <choice>
+                  <orig>too</orig>
+                  <reg>two</reg>
+               </choice> men murdered in Nashville lately and they have one of the <choice>
+                  <orig>murderes</orig>
+                  <reg>murderers</reg>
+               </choice> in <choice>
+                  <orig>goal </orig>
+                  <reg>jail</reg>
+               </choice> awaiting his <choice>
+                  <orig>tyral</orig>
+                  <reg>trial</reg>
+               </choice> which comes on the first of May Its very likely he will be hung as  the proof is very evident. There is a good <choice>
+                  <orig>del</orig>
+                  <reg>deal</reg>
+               </choice> of <sic>of</sic> excitement in town to day. The <choice>
+                  <orig>geat</orig>
+                  <reg>great</reg>
+               </choice> Methodist <choice>
+                  <orig>pecher</orig>
+                  <reg>preacher</reg>
+               </choice>
+               <unclear>Naphat</unclear> arrive yesterday and <unclear>I expect</unclear> the church will be <unclear>? We</unclear> hear him preach I must bring my letter to a close <del type="overstrike">
+                  <unclear><?xm-replace_text {del}?></unclear>
+               </del> Mortimer sends his hardest love and best respects to you <choice>
+                  <abbr>Brs</abbr>
+                  <expan>Brothers</expan>
+               </choice> and sister give my respects to all my acquaintances <pb n="3" facs="sl213c.small.jpg"/> and <choice>
+                  <orig> freiends </orig>
+                  <reg>friends</reg>
+               </choice> and except the same for <choice>
+                  <orig>you</orig>
+                  <reg>your</reg>
+               </choice> self</p>
+            <closer>
+               <salute>I remain <choice>
+                     <orig>you obeidient </orig>
+                     <reg>your obedient</reg>
+                  </choice> and <choice>
+                     <orig>affectiarat </orig>
+                     <reg>affectionate</reg>
+                  </choice> son</salute>
+               <signed>
+                  <name type="person">Oscar Hamilton</name>
+               </signed>
+               <pb n="4" facs="sl213d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Mrs Sarah Hamilton</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Russelville</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Kentucky</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

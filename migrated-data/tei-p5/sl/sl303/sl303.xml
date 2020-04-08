@@ -1,0 +1,164 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl303">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Jul. 16, Fountain Head, Tennessee [to] Adam Fergusson, Carthage, Tennessee / David Bradley   : a machine readable transcription of an image</title>
+            <author>Bradley, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl303</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1840 Jul. 16, Fountain Head, Tennessee [to] Adam Fergusson, Carthage, Tennessee / David Bradley</title>
+               <author>Bradley, David</author>
+               <date when="1840-07-16">July 16, 1840</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from David Bradley to Adam Fergusson, dated July 16, 1840. Bradley writes that he has received the money that Fergusson sent him. He writes that he will not need to borrow any more unless his business is hindered, which he predicts would occur if elections produced a Whig government.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b2</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl303</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Loans</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bradley, David</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl303a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Fountain Head Tennessee</name>
+                     <date>July 16th 1840</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>after Some neglect I <choice>
+                  <orig>adress</orig>
+                  <reg>address</reg>
+               </choice> you <choice>
+                  <orig>thes</orig>
+                  <reg>these</reg>
+               </choice> lines in which I will Say your letter of the 21st <choice>
+                  <abbr>ult.</abbr>
+                  <expan>ultimo</expan>
+               </choice> came Safe to hand with the inclosed five Dollar bill and feel <choice>
+                  <orig>greatful</orig>
+                  <reg>grateful</reg>
+               </choice> to you for your highminded and <choice>
+                  <orig>honourable</orig>
+                  <reg>honorable</reg>
+               </choice> conduct to me and I think I will not trouble you any more <del type="overstrike">unle</del> in money matters unless the Whigs Should elect <name>
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Harrison</name> and get the Government So Deranged that I am not able to get along with my business in which <choice>
+                  <orig>avent</orig>
+                  <reg>event</reg>
+               </choice> I may make another call on your generosity</p>
+            <p>My family is in common health our crops in this Section of <choice>
+                  <orig>Cuntry</orig>
+                  <reg>Country</reg>
+               </choice> is promising but there has been a great many oats lost and damaged with the winds and wet weather though I have <choice>
+                  <orig>Seved</orig>
+                  <reg>Saved</reg>
+               </choice> my crop of oats very well for the Season I would like See you in person at <name>
+                  <choice>
+                     <orig>Galatin</orig>
+                     <reg>Gallatin</reg>
+                  </choice>
+               </name> on the <date>15th of August</date> at the Whig Festival</p>
+            <closer>
+               <salute>Respectfully yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>David Bradley</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Adam <choice>
+                           <orig>Feurgason</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name> Tennessee</addrLine>
+               </address>
+               <pb n="2" facs="sl303b.small.jpg"/>
+               <address>
+                  <addrLine>Fountain Head <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date>July 17th</date>
+                  </addrLine>
+                  <addrLine>Mr Adam Feurgason Esqr</addrLine>
+                  <addrLine>Carthage Tennessee</addrLine>
+               </address>
+               <add>Per Mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1817 Sep. 30, Plainfield, North Carolina [to] James M. King, Rutherford County, Tennessee / Ann Eliza King : a machine readable transcription of an image</title>
+            <author>King, Ann Eliza</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc005</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1817 Sep. 30, Plainfield, North Carolina [to] James M. King, Rutherford County, Tennessee / Ann Eliza King</title>
+               <author>King, Ann Eliza</author>
+               <date when="1817-09-30">September 30, 1817</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">A letter dated September 30th 1817 from Ann Aliza King, writing from Plainfield, North Carolina to her cousin James Moore King in Rutherford County, Tennessee.  She urges him to find a wife,  and offers hope on finding an appropriate bride.   </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1813, 1815-1817</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">gc005</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, Ann Eliza</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1">
+            <pb n="1" facs="gc005a.small.jpg"/>
+            <opener>
+               <name type="person">Mr. James M. King</name>
+               <address>
+                  <addrLine>Tennessee Rutherford County</addrLine>
+                  <addrLine>
+                     <choice>
+                        <orig>Murfriesboroug</orig>
+                        <reg>Murfreesboro</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>From</addrLine>
+                  <addrLine>
+                     <del type="overstrike">Ann Elija King was a Parrish</del>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Ann Eliza King</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Plainfield, <choice>
+                           <abbr>N.C.</abbr>
+                           <expan>North Carolina</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="upper left of envelope wrap">Lam[p]s on C H V <date>24 <choice>
+                        <orig/>
+                        <reg>Oct.</reg>
+                     </choice> 1817</date>
+               </add>
+               <add place="middle of envelope wrape, written vertically">speaks of Grany Pa De Vane — This would make a pistol of Mr. R. Knifes</add>
+            </opener>
+            <pb n="2" facs="gc005b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Plainfield <add place="supralinear">N.C.</add>
+                  </addrLine>
+               </address>
+               <date>Sept — 30 <add place="supralinear">th</add> 1817</date>
+               <name type="person">Cousin James, <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice>, King</name> Your favor of the 12 <add place="supralinear">th</add>of last month would have been acknowledge , <add place="supralinear">d</add> before ⁁ <add place="supralinear">now</add> but from a hope, I entertained, of giving you some favourable account of my embasy.  I saw a number of <choice>
+                  <orig>toerable</orig>
+                  <reg>tolerable</reg>
+               </choice> handsome girls, last Sunday at church, but I am sorry to say that ( I think) none of the Sampson <choice>
+                  <orig>sayes</orig>
+                  <reg>says</reg>
+               </choice> will  <choice>
+                  <orig>sute</orig>
+                  <reg>suite</reg>
+               </choice> you, and I shall <choice>
+                  <orig>bee</orig>
+                  <reg>be</reg>
+               </choice> under the cruel necessity of leaving my own County, to look for a fine girl in one of the ajoining <choice>
+                  <orig>Countyes</orig>
+                  <reg>counties</reg>
+               </choice>. I am sorry to learn that you not with such a loss, as to loose yours first choice, but perhaps you  may get one that will suite you better, you must remember the old proverb, (all is not gold that shines) I am rejoined to have that you are tired of Batchelors life theres enough of them in our family already.  <unclear>
+                  <del type="overstrike"><?xm-replace_text {unclear}?></del>
+               </unclear>  The family are all well at present, but I know not how many of us will live to see you, for we are dropping <choice>
+                  <orig>of </orig>
+                  <reg>off</reg>
+               </choice>one by one <emph>Grandpa Devane <add place="supralinear">
+                     <del type="overstrike">King</del>
+                  </add> and Brother Jack</emph>
+               <add place="bottom of page">Father of <name type="person">Margaret De Vance</name>,  Mother of <name type="person">Van R. King</name>!</add>
+               <pb n="3" facs="gc005c.small.jpg"/> Parish, have left us to join the dear friends that are gone before them.  by these events, we have sustained the deprevation of great comforts, but our loss is their <choice>
+                  <orig>insffable</orig>
+                  <reg>insuffrable</reg>
+               </choice> gain, they are in the <choice>
+                  <orig>bosome </orig>
+                  <reg>bosom</reg>
+               </choice>of their father and their God, these are among the common calamities of life, resignation to the dispensations of providence, and gratitude for all the blessings left us, are indispensable duties.  You say you had a long and lonesome journey, on your return home.  I hope when you next travel it, it may be <choice>
+                  <orig>shortned</orig>
+                  <reg>shortened</reg>
+               </choice>, and you highly entertained, by the ⁁ <add place="supralinear">conversation &amp;</add> smiles of a lovely, and affectionate wife.</p>
+            <p>except my thanks for your kind present, I knew not to <choice>
+                  <orig>hoame</orig>
+                  <reg>whome</reg>
+               </choice> I was indebted,  for this mark of esteem, untill your letter <choice>
+                  <orig>infomed</orig>
+                  <reg>informed</reg>
+               </choice> me.  their is no <choice>
+                  <orig>knews</orig>
+                  <reg>news</reg>
+               </choice> in circulation, worth relating.</p>
+            <p>My best love to your Mother, and my best respects to J. Blackman.  I know you will find me a very <choice>
+                  <orig>enertantaining</orig>
+                  <reg>entertaining</reg>
+               </choice> Correspondent, </p>
+            <closer>
+               <salute>yours very affectionately</salute>
+               <signed>Ann Aliza King <add>Mr. James M. King</add>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

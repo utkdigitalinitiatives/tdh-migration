@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl585">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1814 Dec. 30, Chocktaw [Nation, to] James Winchester, Mobile [Alabama] / John McKee   : a machine readable transcription of an image</title>
+            <author>McKee, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl585</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1814 Dec. 30, Chocktaw [Nation, to] James Winchester, Mobile [Alabama] / John McKee</title>
+               <author>McKee, John</author>
+               <date when="1814-12-30">December 30, 1814</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Colonel John McKee to Brigadier General James Winchester, dated December 30, 1814. McKee is the U.S. agent to the Choctaw Nation. McKee is reporting an order he received from General Jackson. McKee is to round up as many Choctaws as he can to help in the war against England.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sl585</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>McKee, John, 1771-1832</term>
+               <term>War of 1812</term>
+               <term>Choctaw Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n88244913"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McKee, John, 1771-1832</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl585a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Chocktaw</name> Agency <date>
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 30th 1814</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I had yesterday the honor of receiving your letter of the 20th instant</p>
+            <p>I have a letter from <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General </expan>
+                  </choice> Jackson</name> of the 22 in which he says "I wish you to have them (the Chocktaws) forthwith enrolled in the "service of the <name>United States</name>, and as many of  "them as you may be able to procure as may be "<choice>
+                  <abbr>prepar'd</abbr>
+                  <expan>prepared</expan>
+               </choice> for active service marched to join me "at this point, or at such other as may be directed "as soon as you can possibly get them into the "the field I will immediately set about enrolling &amp; embodying the Chocktaws which will afford you time for consulting Genl Jackson on their destination indeed from the number out hunting and the absence of some of their principle leaders we will be able to muster but few at a short notice, <name>Mr Dinsmoor</name> who will command them will go immediately to the <unclear>
+                  <choice>
+                     <abbr>lw</abbr>
+                     <expan>lower</expan>
+                  </choice>
+               </unclear> towns to collect as many there as possible and will be joined by the warriors of the other districts as soon as they can be collected, he will advise you from thence what may be expected</p>
+            <closer>
+               <add>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>John</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="sl585b.small.jpg"/>
+               <salute>I have the honor to be <lb/> with very great respect &amp; esteem <lb/> Your Obedient Servant</salute>
+               <signed>
+                  <name>John McKee</name>
+                  <lb/>
+                  <choice>
+                     <abbr>Indn</abbr>
+                     <expan>Indian</expan>
+                  </choice> Agent</signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Brigr</abbr>
+                        <expan>Brigadier</expan>
+                     </choice> General <name>James Winchester</name>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>
+                        <choice>
+                           <abbr>Comm.</abbr>
+                           <expan>Commander</expan>
+                        </choice> of <choice>
+                           <abbr>E. Sec.</abbr>
+                           <expan>East Section</expan>
+                        </choice> of My</unclear> District</addrLine>
+               </address>
+               <pb n="3" facs="sl585c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <unclear>H Fighting M 7</unclear> }</addrLine>
+                  <addrLine>
+                     <date>5th <choice>
+                           <abbr>Jny</abbr>
+                           <expan>January</expan>
+                        </choice> 1815</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>Brigr. Gen. James Winchester</addrLine>
+                  <addrLine>comm of E. Sec. of My District</addrLine>
+                  <addrLine>at <name>
+                        <choice>
+                           <orig>Mobille</orig>
+                           <reg>Mobile</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Col Jno</abbr>
+                     <expan>Colonel John</expan>
+                  </choice> McKee <lb/> Chocktaw Agency  <lb/>
+                  <unclear>dec</unclear> 1815</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

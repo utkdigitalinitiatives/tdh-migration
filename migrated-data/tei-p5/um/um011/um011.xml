@@ -1,0 +1,170 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Jan. 15 New Orleans, [to] Alex[ander D Coffee] / Andrew J[ackson] Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um011</idno>
+            <idno>OCLC: 50199179</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Jan. 15 New Orleans, [to] Alex[ander D Coffee] / Andrew J[ackson] Coffee</title>
+               <author> Coffee, Andrew Jackson</author>
+               <date when="1848-01-15">January 15, 1848</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Alexander D. Coffee from his brother, Andrew Jackson Coffee on January 15, 1848.  In the letter, Andrew expresses his views on events occuring in the Mexican-American War, judges' appointments in Tennessee, the Tennessee River's overflowing and causing destruction, the lack of a good cotton market, and the birth of his new son, Andrew Jackson Coffee.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903 MS 27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">um011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um011a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">New Orleans</name>
+                     <date when="1848-01-15">January 15th 1848</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice>
+                  <name type="person">Alex</name>
+               </salute>
+            </opener>
+            <p>I have been intending to write to you for sometime since but did not know until yesterday where to direct my letter to, but <name type="person">Cate</name> informs me that if I write to <name type="place">Barrytown</name>, <name type="place">Washington <choice>
+                     <abbr>Co.</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> you will get the letter. We have no news of much interest from the Army. <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Scott</name> has arrested <name type="person">
+                  <choice>
+                     <abbr>Genls</abbr>
+                     <expan>Generals</expan>
+                  </choice> Worth</name> and <name type="person">Pillow</name> for disrespect and also some junior officers have become involved in the same <unclear>snare</unclear>. It is a disgrace all around, a disgrace to <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Scott for the manner in which he made the arrests &amp; a disgrace to the officers for the matter of the arrest and I see by the Washington Correspondent of the "Picayune" that it has been decided to recall the whole of them and place either <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Taylor</name> or <name type="person">Butler</name> in command. I hope it may be so &amp; that those officers implicated may all be dismissed the Service. The people who write from <name type="place">Mexico</name> talk about peace but I do not know what new ground they have to stand on. I am <choice>
+                  <orig>fearfull</orig>
+                  <reg>fearful</reg>
+               </choice> that it will be many years before we have peace again, but still I do not despair, the Anti war speeches of such men a <name type="person">Calhoun</name> &amp; <name type="person">Crittenden</name> are extensively republished in Mexico and do an <choice>
+                  <orig>immencity</orig>
+                  <reg>immensity</reg>
+               </choice> of harm in misleading the Mexican people as to the real sentiment in this <pb n="2" facs="um011b.small.jpg"/> country towards them. After a while when the parties have selected their candidates for President probably we may be able to have some united action in Congress that will show Mexico that we will do all we say we will.</p>
+            <p>I must refer you to the newspapers for the particulars of all that has been going on. I am happy to state that I have another Son, now five days old, he is a fine fat fellow and very much like our family. I suppose we will call him <name type="person">Andrew Jackson</name>. <name type="person">Betty</name> is very well indeed, much better than in any of her other confinements. She sends her love to you —</p>
+            <p>
+               <name type="person">Judge Posey</name> passed through here some two weeks since on his way home from <name type="place">Montgomery</name> where he had been obtaining his election as Circuit Judge in the place of <name type="person">Judge Coleman</name> resigned which I suppose you have heard he obtained, although <name type="person">John Moore</name> gave him some trouble. The Judge has the <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> place to suit him and I hope he will have luck to make just decisions and an upright Judge, he looks well and was in fine spirits &amp; gave me a good deal of information of what was going forward at Montgomery.</p>
+            <p>
+               <name type="person">Pope Walker</name> is arriving to be <choice>
+                  <abbr>U. S.</abbr>
+                  <expan>United States</expan>
+               </choice> Senator but if <name type="person">McClung</name> wants it, there will be a severe struggle between them. <choice>
+                  <abbr>MC</abbr>
+                  <expan>McClung</expan>
+               </choice> is no doubt the strongest. <pb n="3" facs="um011c.small.jpg"/>
+            </p>
+            <p>I heard that at the great overflow in the <name type="place">Tennessee</name> that your loss in Cotton was very large. I am gratified to learn that it is not so and that the loss only extended to that unpicked which  was <choice>
+                  <orig>unconsiderable</orig>
+                  <reg>inconsiderable</reg>
+               </choice>
+            </p>
+            <p>I regret to learn that the <name type="person">Hutching</name> estate loss a valuable boy, <name type="person">Peter</name> during that time by drowning, but we must expect those things sometimes.</p>
+            <p>But time presses and I must close. The cotton market is not good. The best middling cottons selling for about 7 &amp; 7½ <choice>
+                  <abbr>cts.</abbr>
+                  <expan>cents</expan>
+               </choice> but I do not profess to give any very correct account of what the market really is. —</p>
+            <p>I received a letter from <name type="person">Joe Slop</name> this morning from <name type="place">St. Louis</name>, where he is going to practice law, he was well and wrote in good spirits.</p>
+            <p>When I get a little more leisure I wish to write you a long letter about furnishing supplies to the Army, and the uncertainty of them making any thing <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>.</p>
+            <p>Write to me if you have any leisure time &amp; believe me truly</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yr</abbr>
+                     <expan>Your</expan>
+                  </choice> brother</salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jackson</expan>
+                        </choice> Coffee</name>
+                  </emph>
+               </signed>
+               <add place="bottom of page">be sure you drop me a line when you start home, or rather come this way.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

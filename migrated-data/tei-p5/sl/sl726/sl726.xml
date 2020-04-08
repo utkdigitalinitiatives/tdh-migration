@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl726">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter to the] Speaker and Gentlemen of the House of Representatives  / W[illia]m Blount : a machine readable transcription of an image</title>
+            <author>Blount, W[illia]m</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl726</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter to the] Speaker and Gentlemen of the House of Representatives  / W[illia]m Blount</title>
+               <author> Blount, W[illia]m</author>
+               <date when="1795">ca. 1795</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to the House of Representatives of either Tennessee or the U.S. of unknown date. William Blount writes that he agrees with the House's decision concerning the militia.</note>
+               <note type="collection" anchored="true">Governor William Blount Papers</note>
+               <note type="box" anchored="true">B</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true"> sl726</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States</term>
+               <term>Blount, William, 1749-1800.</term>
+               <term>Law and legislation</term>
+               <term>Militia</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n84136128"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, William, 1749-1800</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl726a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Mr Speaker and Gentlemen of the House of Representatives</addrLine>
+               </address>
+            </opener>
+            <p>we concur with you with respect to the amendments by you proposed to the Bill for the Better establishment and regulation of the militia, and name <choice>
+                  <abbr>Messr.</abbr>
+                  <expan>Misters</expan>
+               </choice>
+               <name>Rutledge</name> &amp; <name>Ford</name> to see the same executed </p>
+            <closer>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Blount</name>
+                  <unclear>S. S.</unclear>
+               </signed>
+               <address>
+                  <addrLine>By order </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>G</abbr>
+                        <expan>George</expan>
+                     </choice> Roulstone <choice>
+                        <abbr>CS.</abbr>
+                        <expan>Clerk of the Senate</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl726b.small.jpg"/>
+               <add>Militia Bill</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

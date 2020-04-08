@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt for payment to] Long Beard, 1809 Dec. 18, Highwassee [i.e., Hiwassee, Tennessee] Garrison: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0008</idno>
+            <idno>OCLC: 44921763</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt for payment to] Long Beard, 1809 Dec. 18, Highwassee [i.e., Hiwassee, Tennessee] Garrison</title>
+               <date when="1809-12-18">December 18, 1809</date>
+               <extent>2p</extent>
+               <note type="summary">This is a receipt for payment of one hundred dollars to a Cherokee man named Long Beard, by the United States agent to the Cherokees, Return J. Meigs.  The sum was paid as compensation for the murder of Long Beard's son Blackbird by a white man in Cherokee territory in exchange for Long Beard's promise that he and his family would not seek retribution.  The marks of several Cherokee chiefs, including The Ridge, also appear on the document, dated December 18, 1809.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box"/>
+               <note type="folder"/>
+               <note type="document">pa0008</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Georgia Libraries Electronic Text Center</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Cherokee Indians--Crimes against</term>
+               <term>Indian agents</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0008a.small.jpg"/>
+            <p>Received this day of <name type="person">Return J. Meigs</name> one hundred dollars, the said <name type="person">Meigs</name> being the Agent from the <name type="place">U. States</name> to my nation  being <choice>
+                  <orig>authorised</orig>
+                  <reg>authorized</reg>
+               </choice> by the Executive of the <name type="place">U. States</name> to make presents to the families of <name type="person">Cherokees</name> who may have had <choice>
+                  <orig>there</orig>
+                  <reg>their</reg>
+               </choice> friends <add place="supralinear">or any one of them</add> killed by white men  who may have evaded the punishment justly due for their crimes.  I therefore as a testimony of my wish to live in peace  friendship with the white people do receive the sum <choice>
+                  <orig>aforsaid</orig>
+                  <reg>aforesaid</reg>
+               </choice>
+               <del type="overstrike">
+                  <unclear/>
+               </del> as an expression of the regret of the Executive for the death of my son named <hi>
+                  <name type="person">Blackbird</name>
+               </hi> who was killed by a white man on <name type="person">Cherokee</name> ground in June last near <name type="place">Southwest Point</name>  I do hereby declare that myself or any of my family shall not seek revenge by retalitating on any citizen or Citizens of the <name type="place">U. States</name>, being satisfied that every legal step has been taken by the said Agent to bring the offender to punishment, having taken advice of the Chiefs of my nation on this business I now act by their advice  it may <add place="supralinear">therefore</add> be considered as an act of the <name>Cherokee nation</name>. (Duplicates <lb/>signed)
+               </p>
+            <closer>
+               <signed>
+                  <name type="person">Long Beard</name> his X mark.</signed>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Highwassee</name> Garrison</addrLine>
+                  </address>
+                  <date when="1809-12-18">18th December 1809</date>
+               </dateline>
+               <lb/>
+               <name type="person">Cherokee</name> Chiefs<lb/>
+               <signed>
+                  <name type="person">John Boggs</name>  marks X<lb/>
+                  <name type="person">John Walker</name>  "   X<lb/>
+                  <name type="person">The Ridge</name>   "   X<lb/>
+                  <name type="person">John Jolly</name>   "   X<lb/>
+                  <name type="person">
+                     <choice>
+                        <abbr>Saml</abbr>
+                        <expan>Samuel</expan>
+                     </choice> Riley</name>  Interpreter
+                                 
+                              
+                           
+                        </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0008b.small.jpg"/>
+            <p>A.5<lb/>
+               <name type="person">Long Beard</name>s Receipt<lb/>
+               <hi>$100..00</hi>
+               <lb/>
+               <date when="1809-12-18">18th <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice> 1809</date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <figure>
+                  <figDesc>Miscellaneous mathematical calculations appear on this page and have been marked through.</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

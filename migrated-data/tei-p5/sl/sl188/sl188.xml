@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl188">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Nov. 15, Columbia, Tenn[essee] [to] Col[onel] Joseph Brown, Maury County, Tenn[essee] / W.H.D. Wendel   : a machine readable transcription of an image</title>
+            <author>Wendel, W.H.D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl188</idno>
+            <idno>OCLC: 51173962</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1849 Nov. 15, Columbia, Tenn[essee] [to] Col[onel] Joseph Brown, Maury County, Tenn[essee] / W.H.D. Wendel</title>
+               <author>Wendel, W.H.D.</author>
+               <date when="1849-11-15">November 15, 1849</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from W.H.D. Wendel to hi grandfather Col. Joseph Brown dated November 15, 1849. He writes about  visiting his grandmother, and local politics.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">224-239</note>
+               <note type="document" anchored="true">sl188</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Wendel, W. H. D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl188a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1849-11-15">
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 15th 1849</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Grand father</salute>
+            </opener>
+            <p>I reached here to day to dinner— design going out to Grand mother <name type="person">Mills</name>
+               <unclear>anxious</unclear> in the afternoon — will continue my journey to <name type="place">
+                  <choice>
+                     <abbr>M' boro</abbr>
+                     <expan>Murfreesboro</expan>
+                  </choice>
+               </name> tomorrow, I should be pleased indeed to visit you, but cannot do so, as my time is limited — possibly I may do so on my return home, if I come through here — but I shall most likely return by <name type="place">Nashville</name> —</p>
+            <p>All were very well when I left, to day week — <name type="person">Mr Brown</name> was reelected by a large majority — the Democratic Ticket prevailed throughout — Present me kindly to <name type="person">Mr Lane</name> &amp;  family &amp; for yourself accept the highest regard of</p>
+            <closer>
+               <salute>Yours Truly</salute>
+               <signed>
+                  <name type="person">WHD Wendel</name>
+               </signed>
+               <pb n="2" facs="sl188b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Joseph Brown</name>
+                  </addrLine>
+                  <addrLine>P</addrLine>
+                  <addrLine>
+                     <name type="place">Maury County</name>
+                  </addrLine>
+                  <addrLine>Tenn</addrLine>
+               </address>
+               <add place="up left side of page">W,H,D, Wendels <lb/> Letter</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

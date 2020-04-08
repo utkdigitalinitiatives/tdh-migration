@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl478">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1801 Mar. 14, Tellico [Tennessee, to] David Henley, Knoxville [Tennessee] / W[illiam] L. Lovely: a machine readable transcription of an image</title>
+            <author>Lovely, Wm. L.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl478</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1801 Mar. 14, Tellico [Tennessee, to] David Henley, Knoxville [Tennessee] / W[illiam] L. Lovely</title>
+               <author>Lovely, Wm. L.</author>
+               <date when="1801-03-04">March 4, 1801</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from William L. Lovely, an agent to the Cherokees, to David Henley, dated March 4, 1801. Lovely writes about giving farm supplies to the upper town Cherokee. He also mentions Glass, a Chickamauga Cherokee.</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">39</note>
+               <note type="document" anchored="true">sl478</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Cherokee Indians</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>Farm equipment</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2009161235"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lovely, William Lewis, 1750-1817</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl478a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Tellico</name>
+                     <date>March 4th 1801</date>
+                  </addrLine>
+               </address>
+               <salute>Sir_</salute>
+            </opener>
+            <p>I forgot to mention to you that great <unclear>application is made </unclear> for Cotton Cards for the use of the upper Town Indians - ploughs hoes <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice>__</p>
+            <p>The <name>Glass</name> has wrote me respecting- the Mill Stones being brought down to the <name>look out Mountain</name> where the Mill is <choice>
+                  <orig>errecting</orig>
+                  <reg>erecting</reg>
+               </choice> the <unclear>means</unclear>
+               <gap/> of transporting them youll please to advise_ Taught I think had better come up and assist if you think it proper I will send him word for that purpose_</p>
+            <closer>
+               <salute>I am Sire <lb/> respectfully <lb/> your <choice>
+                     <abbr>Mo Obt</abbr>
+                     <expan>Most Obedient</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>W</abbr>
+                        <expan>William</expan>
+                     </choice> L Lovely</name>
+                  <choice>
+                     <abbr>asst</abbr>
+                     <expan>assistant</expan>
+                  </choice>
+                  <lb/> Agent to the Cherokees</signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Colo</abbr>
+                        <expan>Colonel</expan>
+                     </choice>
+                     <lb/>
+                     <name>David Henley</name> }</addrLine>
+               </address>
+               <pb n="2" facs="sl478b.small.jpg"/>
+               <address>
+                  <addrLine>Tellico</addrLine>
+                  <addrLine>March 4_ 1801</addrLine>
+                  <addrLine>Wm L Lovely</addrLine>
+               </address>
+               <address>
+                  <addrLine>Colo David Henley</addrLine>
+                  <addrLine>Agent of War</addrLine>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

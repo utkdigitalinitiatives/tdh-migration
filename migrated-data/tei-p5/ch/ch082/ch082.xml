@@ -1,0 +1,109 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice, 1838 Jan. 20, [to] the Cherokees / Nat[haniel] Smith: a machine-readable transcription</title>
+            <author>Smith, Nathaniel, d. 1843</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch082</idno>
+            <idno>OCLC: 44869503</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Notice, 1838 Jan. 20, [to] the Cherokees / Nat[haniel] Smith</title>
+               <author>Smith, Nathaniel, d. 1843</author>
+               <date when="1838-01-20">January 20, 1838</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a notice from General Nathaniel Smith, Superintendent of Cherokee emigration, to the Cherokee people, dated January 20, 1838. Smith informs the Cherokees that steam boats will be available for their transportation to a territory west of the Mississippi River, but emigrants may choose the overland route as well. He reminds the Cherokees of the sentiments of the President on the removal issue and warns them to remove early or face military force.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true"> State Library Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">ch082</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Trail of Tears, 1838</term>
+               <term>Cherokee Indians--Relocation</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94006102"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Smith, Nathaniel, -1843</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch082a.small.jpg"/>
+            <head>Notice</head>
+            <p>The <name type="person">Cherokees</name> are informed that the Superintendent of their removal West, will have Suitable Steam Boats ready for their transportation at the Agency on the <date when="--02-05">5th day of <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice>
+               </date>, capable of taking One Thousand persons at a time, with comfort and Safety to their new homes, in fifteen days.  The removal by land with unavoidable exposure and fatigue will require at least Seventy days; the choice of way is, however, given to the emigrant.  The places of Rendezvous will be <del type="overstrike">
+                  <unclear/>
+               </del> the Agency, <name type="place">Ross' Landing</name> and a point opposite <name type="place">Bellefonte</name>, at each of which places the Boats will stop to take in Emigrants.</p>
+            <p>The Superintendent takes this occasion to repeat that he has been instructed by their great Father the President to treat the <name type="person">Cherokees</name> with kindness and friendship, and to assure them that to linger in the midst of a white population, suffering oppression and encroachment, ruin and extermination must inevitably fall on them.  In tenderness then to their persons and interests, he would urge them in the most friendly manner, assuring them at the same time that the Treaty will not be altered, to make speedy preparation, settle their business with the Commissioners, and remove before the <date when="--05-23">23rd. of May</date>, when the time arrives for the application of Military Force.</p>
+            <closer>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="person">Cherokee</name> Agency East</addrLine>
+                  </address>
+                  <date when="1838-01-20">January 20, 1838</date>
+               </dateline>
+            </closer>
+            <signed>
+               <name type="person">
+                  <choice>
+                     <abbr>Nat</abbr>
+                     <expan>Nathaniel</expan>
+                  </choice> Smith</name>
+               <choice>
+                  <abbr>Supt. </abbr>
+                  <expan>Superintendent Cherokee</expan>
+               </choice> Removal</signed>
+         </div>
+      </body>
+   </text>
+</TEI>

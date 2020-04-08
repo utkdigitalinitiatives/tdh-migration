@@ -1,0 +1,175 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl221">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1844 Sep. 4, Nashville [to] Mary House / George House : a machine readable transcription of an image</title>
+            <author>House, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl221</idno>
+            <idno>OCLC: 51217289</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1844 Sep. 4, Nashville [to] Mary House / George House</title>
+               <author>House, George </author>
+               <date when="1844-09-04">September 4, 1844</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated September 4, 1844 from George House to his wife Mary. George writes of how much he misses her and their children and how he wants to leave Nashville, Tennessee soon to join her in Alabama. George also writes that he has sent a paper home with articles in it by General Jackson and Henry Clay. He further writes that most people in Tennessee believe that Henry Clay will beat Polk by a large margin in the upcoming election.</note>
+               <note type="collection" anchored="true">Orr Collection-IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl221</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, George W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl221a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1844-09-04">
+                        <choice>
+                           <abbr>Sept.</abbr>
+                           <expan>September</expan>
+                        </choice> 4 1844</date>
+                  </addrLine>
+               </address>
+               <salute>My dearest wife,</salute>
+            </opener>
+            <p>The can of time moves slowly along in your absence and we are again in the midst of dust and warm weather — Mosquitoes plentiful and our city dull and healthy — I am growing more and more weary at your absence — indeed my sweet mates — I verily believe that you are really a part and parcel of me — at least, I could not be happy long without you — There is an indefinable something which enforces the thought that we are one — Then how painful to be absent, a moment from our real self — I long too, to see our little ones — I have conjured up a thousand times in my mind how Sally looks, and how much changed she will be when I see her —</p>
+            <p>I shall leave for <choice>
+                  <abbr>Alaba</abbr>
+                  <expan>Alabama</expan>
+               </choice> the very moment — I have a settlement with <name type="person">Mr Bennett</name> who is yet absent, and will not be at home for some two or three weeks — or perhaps not before this time next month — he is going up the <name type="place">Arkansas</name>river, and if the waters are low he will be detained — I am growing very anxious for the time to arrive when I shall once again fold you and our jewels to my bosom — In a few more days you will have been absent two months — and our girl will be four months old — bless her sweetness — <pb n="2" facs="sl221b.small.jpg"/> I sent the bundle from Mother to you and sister Nancy by <name type="person">Mr <choice>
+                     <abbr>Saml</abbr>
+                     <expan>Samuel</expan>
+                  </choice> Coltart</name> of <name type="place">Huntsville</name> a week ago — and I hope you have received it safely — I send you yesterdays paper — and marked an article on wool — which I wish you to show to brother, and ask him ⁁ <add place="supralinear">if</add> it would not be more profitable for him to grow wool than cotton — he has some swamp land by taking out the under-growth <unclear>would</unclear> make splendid pasture — and a sheep will ⁁ <add place="supralinear">live</add> on very little — <name type="person">Mark Cookrell</name>  in this neighborhood in making his thousands by raising wool — I will ask your particular attention also — to two letters in said paper, one from <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name> and the other from<name type="person">
+                  <choice>
+                     <abbr> H</abbr>
+                     <expan>Henry</expan>
+                  </choice>Clay</name>— and contrast the difference <name type="person">Genl Jackson</name>'s is the most ridiculous thing I ever read The <name type="person">Beans</name> and <name type="person">Russells</name> to whom it is addressed are said to be the <unclear>vainest</unclear> scamps on the globe — it will tell well for the good and righteous cause of Whigery</p>
+            <p>Tis the opinion of some of the knowing ones here, that <name type="person">Mr Clay</name> will beat <name type="person">Polk</name> in this state from 7 to 10 thousand votes — Bets are offered here — that Mr Clays majority in <name type="place">
+                  <choice>
+                     <abbr>Ky </abbr>
+                     <expan>Kentucky</expan>
+                  </choice>
+               </name>and <name type="place">Ohio</name> will be greater than all Polks majorities combined throughout the <name type="place">
+                  <choice>
+                     <abbr>U.S.</abbr>
+                     <expan>United States</expan>
+                  </choice>
+               </name>— Tell sister I am glad she has written to Ann on the subject of   <choice>
+                  <orig>politicks</orig>
+                  <reg>politics</reg>
+               </choice> — as she says she will quit them — I would also most respectfully suggest that she (sister) should write to Ann in regard to her going to Sunday School and Church — she (Ann) is very stubborn about going to either — <pb n="3" facs="sl221c.small.jpg"/> a letter from sister commanding her to attend punctually would be of the greatest service — and therefore should be attended to — Ann loves her Mother — and will receive counsel from her — but she does not like to receive it from any one else — I took tea at <name type="person">Mr. Greenfields</name>  on Monday night, he has his house full — Mr and Mrs <name type="person">Fowler</name> have got back there — Mr Fowler expects to go upon the river again this winter, as Commander of a Boat —</p>
+            <p>
+               <name type="person">Martha Jane Price</name> received a letter from <name type="person">Sigs Taylor</name> a few days ago — she is in <name type="place">Virginia</name>, and says she and <name type="person">
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Oscar</name> are to be married in October — Oscar has not written a syllable to any of us since you left — <name type="person">Miss Dunn</name>—<name type="person">Mr Scords</name> old flame — was married on Monday night to a <name type="person">Mr Blocker</name> of <name type="place">Mobile</name>
+               <choice>
+                  <abbr> Alaba</abbr>
+                  <expan>Alabama</expan>
+               </choice> and Miss <name type="person">Lateba Hagan</name> and a <name type="person">Mr McCrary</name>from<name type="place">
+                  <choice>
+                     <abbr> Miss.</abbr>
+                     <expan>Mississippi</expan>
+                  </choice>
+               </name> are to be spliced on tomorrow night — I have not heard anything from Fort for several days — He is I suppose in a state of despondency — poor fellow, I pity him — but my compassion will not avail him anything — Miss K — is certainly entitled to the character of fickleness — If I had such a wife — I should be like old <name type="person">Mr Browns</name>
+               <unclear> man</unclear> about the bonnets— I should be afraid before I could gratify any wish, she would have changed her mind— A <name type="person">Miss Grun </name>at the academy is quite sick — and Mortimer was complaining yesterday — but he took some of my pills last night and is better to day — The balance of us are well — I got a letter from Burk a few days since he desires to be remembered to you  — <pb n="4" facs="sl221d.small.jpg"/> Mother joins me in love to yourself children Mother — and all our relations — Please remember us very affectionately — Tell Jimmy — I am glad he is learning how to ride— Kiss him and Sally for me — and tell ⁁ <add place="supralinear">him</add> of me often — I do not wish ⁁ <add place="supralinear">him</add> to forget me — <name type="person">Mrs. Elliott</name> is very well, and looks <hi>very very</hi> interesting — I have not seen Louisa for some time — She too, is on the thinning order very rapidly — a perfect sight for size — Your friends enquire after you very frequently — Take good care of yourself and the children — You have not said anything about your cough of late — how is it — May heaven bless you and our little ones is my prayer.</p>
+            <closer>
+               <salute>Yours forever and ever —</salute>
+               <signed>
+                  <name type="person">George</name>
+               </signed>
+               <add place="middle of page ">
+                  <address>
+                     <addrLine>
+                        <name type="person">Ms Mary House</name>
+                     </addrLine>
+                     <addrLine>care of <name type="person">
+                           <choice>
+                              <abbr>Saml</abbr>
+                              <expan>Samuel</expan>
+                           </choice>  J. House</name>
+                        <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">
+                           <choice>
+                              <orig>Soireville</orig>
+                              <reg>Sayreville</reg>
+                           </choice>
+                        </name> near <name type="place">Huntsville</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Alabama</name>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

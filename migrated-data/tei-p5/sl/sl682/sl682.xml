@@ -1,0 +1,148 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl682">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Oct. 17, Nashville, Tennessee [to] Neill Brown / John M. Bass  : a machine readable transcription of an image</title>
+            <author> Bass, John M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl682</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1848 Oct. 17, Nashville, Tennessee [to] Neill Brown / John M.  Bass </title>
+               <author>  Bass, John M</author>
+               <date when="1848-10-17"> 
+			 October 17, 1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated October 17, 1848 from John M. Bass to the governor of Tennessee, Neill S. Brown.    The subject of the brief letter is an erection of a monument for the state's late governor William Carroll.</note>
+               <note type="collection" anchored="true">Governor Neill S. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl682</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90023837"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bass, John Meredith, 1804-</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl682a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice> 17 1848</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>At the request of <choice>
+                  <abbr>majr</abbr>
+                  <expan>major</expan>
+               </choice> Heiman I state with pleasure that from the progress made by him in the erection of the monument over the remains of the late <choice>
+                  <abbr>gov</abbr>
+                  <expan>governor</expan>
+               </choice> Carroll under the contract with the state the sum of $1000 or even more may be advanced to him with perfect safety</p>
+            <closer>
+               <add>I have the honor to be with great respect <choice>
+                     <abbr>yr obt svt</abbr>
+                     <expan>your obedient servant</expan>
+                  </choice>
+               </add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> M Bass</name>
+               </signed>
+               <add>His <choice>
+                     <abbr>Exclly</abbr>
+                     <expan>Excellency</expan>
+                  </choice>
+                  <choice>
+                     <abbr>N</abbr>
+                     <expan>Neill</expan>
+                  </choice>.S Brown Nashville</add>
+               <pb n="2" facs="sl682b.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>His Exclly <choice>
+                           <abbr>gov</abbr>
+                           <expan>governor</expan>
+                        </choice> n s Brown <choice>
+                           <abbr>govenr</abbr>
+                           <expan>governor</expan>
+                        </choice> nashville</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

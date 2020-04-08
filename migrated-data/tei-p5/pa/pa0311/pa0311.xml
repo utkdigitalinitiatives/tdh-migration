@@ -1,0 +1,116 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0311">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Claim]  1845 Mar. 25, United States to John H. Stover : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">pa0311</idno>
+            <idno type="OCLC">OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>  [Claim]  1845 Mar. 25, United States to John H. Stover</title>
+               <date when="1845-03-25">March 25, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a claim against the United States by John H. Stover, who lost two hundred dollars he paid as security for a William M. Green. Green ran away causing Stover to be sued and the United States rejected his claim.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> pa0</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Claims</term>
+               <term>Cherokee Indians</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0311a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>The United States</addrLine>
+               </address>
+               <address>
+                  <addrLine>To <name>John H Stover</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>this amount collected off of me by the laws of the State of <name>Georgia</name> $200.00</p>
+            <p>This Claimant States that Some time in the year 1834 he went and Stood Security for a whiteman citizen of the United States by the name of <name>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> M. Green</name>, and shortly after green runaway and that he was sued on the note and had the same to pay thee Claimant States he was living on hightower River at that time in the <name>Eastern Cherokee Nation</name>, and now resides in Delaware Dist Cherokee nation, West</p>
+            <closer>
+               <signed>John <unclear>H Stover</unclear>
+               </signed>
+               <add>George Ward Testifies and says the above Claimant Stood Security, for Wm M. Green for the Sum of Two Hundred dollars and that green was a whiteman citizen of the United States and ran away shortly after  the transaction, and to his own Knowledge John H Stover was Sued for the amount and had the Same to pay <lb/> George Ward</add>
+               <add>Before <lb/> Washington <unclear>Com</unclear>
+                  <lb/> march 25th 1845</add>
+               <pb n="2" facs="pa0311b.small.jpg"/>
+               <add>J.H. Stover claim <lb/> for money paid for a <lb/> white man as his se <lb/> curity __ 1834 <lb/> No 50</add>
+               <add>rejected <lb/>
+                  <unclear>RU. Breeften</unclear>
+               </add>
+               <add>Edward Harden</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

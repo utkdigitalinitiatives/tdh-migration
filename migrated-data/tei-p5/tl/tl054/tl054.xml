@@ -1,0 +1,227 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1804 Feb. 9, [to] warriors  chiefs of the Cherokee
+			 Nation / [John Sevier]: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl054</idno>
+            <idno>OCLC: 47832856</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1804 Feb. 9, [to] warriors  chiefs of the
+				Cherokee Nation / [John Sevier]: a machine-readable transcription of an
+				image</title>
+               <author>Sevier, John</author>
+               <date when="1804-02-09">February 9, 1804</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Tennessee
+				Governor John Sevier (1796-1801, 1803-1809), dated February 9, 1804, and
+				addressed to the warriors and chiefs of the Cherokee Nation. In the letter,
+				Sevier reported that the recent murders of Cherokee men in Buncombe County,
+				North Carolina, were not committed by a resident of Tennessee. Sevier had
+				received a description of the man suspected and had been informed that he had
+				likely fled to Tennessee, in which case Sevier assured the Cherokee leaders
+				that he would do his best to have the man apprehended. The Governor also
+				briefly discussed business of a road being opened through the Cherokee Nation
+				and suggested that arrangements for such should be made soon.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">1</note>
+               <note type="Document">tl054</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Roads--Design and construction</term>
+               <term>Buncombe County (N.C.)</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl054a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Warriors  <choice>
+                        <orig>Cheifs</orig>
+                        <reg>Chiefs</reg>
+                     </choice> of the 
+				  <name type="place">Cherokee Nation</name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <del type="overstrike">Brothers</del>
+                  <add place="infralinear">D</add>
+               </salute>
+            </opener>
+            <p>I am sorry to hear that some of <del type="overstrike">you</del> our
+		  brothers of the red people have lately <del type="overstrike">received
+		  some</del> been <add place="supralinear">very</add> much abused by A white man
+		   I have lately received a letter from <del type="overstrike">a</del>
+               <add place="supralinear">one of the</add> Colonels of the County where the
+		  <choice>
+                  <orig>mischeif</orig>
+                  <reg>mischief</reg>
+               </choice> was done  It was done in 
+		  <name type="place">
+                  <choice>
+                     <orig>Buncomb</orig>
+                     <reg>Buncombe</reg>
+                  </choice> County 
+			 <choice>
+                     <abbr>No</abbr>
+                     <expan>North</expan>
+                  </choice> Carolina</name> And not by any of the
+		  people of 
+		  <name type="place">Tennessee</name>, therefore I shall expect that no
+		  anger or animosity will take place on the Occasion between your people and the
+		  people of 
+		  <name type="place">Tennessee</name>  The officer has sent me a
+		  <choice>
+                  <orig>discription</orig>
+                  <reg>description</reg>
+               </choice> of the man, and his name,
+		  <del type="overstrike">and expects he has come this Way</del> The
+		  <choice>
+                  <orig>murderor</orig>
+                  <reg>murderer</reg>
+               </choice> has fled And it is expected
+		  <del type="overstrike">he</del> has made for this State; if I can hear of him
+		  <add place="supralinear">you may be assured</add> I will certainly have him
+		  <del type="overstrike">taken</del>
+               <add place="supralinear">apprehended</add>,
+		  And <del type="overstrike">sent</del>
+               <add place="supralinear">taken</add> back
+		  to where he committed the murder, in order that <pb n="2" facs="tl054b.small.jpg"/> may be punished
+		   Our Father the president has consigned the business respecting the road
+		  to be <del type="overstrike">cut</del>
+               <add place="supralinear">opened</add>
+		  through your Nation into the State of 
+		  <name type="place">Georgia</name>, to the Governor of that State, and
+		  the Governor of 
+		  <name type="place">Tennessee</name>, together with your beloved agent 
+		  <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Meigs</name>,
+		  and such of your own <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice> as your Nation May think
+		  proper to appoint  <del type="overstrike">As soon as</del>
+               <add place="supralinear">When</add> we may agree on the place for Commissioners
+		  to meet, and have all things arranged, you will be informed
+		  <add place="supralinear"> notified</add> by 
+		  <name type="person">Colonel Meigs</name> in time to be prepared,
+		  <del type="overstrike">to</del>
+               <add place="supralinear">
+                  <del type="overstrike">and they <unclear>unk</unclear>
+                  </del>
+               </add> enter upon the
+		  business, <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice> to the agreement
+		  <del type="overstrike">you entered into</del>
+               <add place="supralinear">made</add> with the 
+		  <name type="place">United States</name> .
+               </p>
+            <closer>
+               <salute>Your friend  Brother</salute>
+               <address>
+                  <addrLine>Executive department </addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1804-02-09">9 
+					 <choice>
+                           <abbr>Febry</abbr>
+                           <expan>February</expan>
+                        </choice> 1804</date>
+                  </addrLine>
+               </address>
+               <add place="bottom right, sideways">
+                  <add>
+                     <date when="1804">1804</date>
+                  </add>Warriors 
+			 <choice>
+                     <orig>Cheifs</orig>
+                     <reg>Chiefs</reg>
+                  </choice> of the <lb/>
+                  <name type="place">Cherokee Nation</name>
+                  <unclear>P</unclear>
+                  <lb/>
+                  <name type="person">
+                     <choice>
+                        <abbr>Col.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Meigs</name>
+                  <lb/>
+                  <add>Recorded</add>
+                  <figure>
+                     <figDesc>miscellaneous doodling</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

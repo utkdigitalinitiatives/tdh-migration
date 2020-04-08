@@ -1,0 +1,224 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] to Andrew Jackson / S[ampson] Williams : a
+			 machine-readable transcription of an image</title>
+            <author>Williams, Sampson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc028</idno>
+            <idno>OCLC: 50037403</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] to Andrew Jackson / S[ampson] Williams</title>
+               <author>Williams, Sampson</author>
+               <date when="1820">ca. 1820</date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter whose date is unknown,
+				written from Sampson Williams to Andrew Jackson when Jackson was a member of
+				Congress. In the letter, Williams asked Jackson to support his proposal to
+				establish a trading post at Fort Blount. Williams also discussed the conflicts
+				between the Indians and Whites of the Cumberland area, and he stated that some
+				500 families were currently residing on Indian lands. At the end of the letter,
+				Williams also briefly mentioned the possibility of appointing a man by the name
+				of Overton as Federal Judge.</note>
+               <note type="Collection">Sampson Williams</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-1959</note>
+               <note type="Document">sc028</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Trading posts</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Cherokee Indians Claims against</term>
+               <term>Cherokee Indians Land tenure</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, Sampson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc028a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <gap agent="damage"/>
+                     <name type="person"> Jackson</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>My Exposed Situation will be a Sufficient apology for me to Solicit
+			 your friendship in <choice>
+                  <orig>useing</orig>
+                  <reg>using</reg>
+               </choice> your influence in trying to
+			 Keep up the post at 
+			 <name type="place">Fort Blount</name>, the present mode of Keeping it
+			 up by the Militia I Should prefer was it left to me, for reasons you can Judge
+			 of. the Establishment of a trading post at Fort Blount I am of opinion will be
+			 of great <choice>
+                  <orig>advantag</orig>
+                  <reg>advantage</reg>
+               </choice>
+               <add place="supralinear">and
+			 convenience</add> to the Indians as it is in the heart of the 
+			 <name type="persons">Cherokees </name>
+               <choice>
+                  <orig>Huntinground</orig>
+                  <reg>Hunting ground</reg>
+               </choice> and they themselves have
+			 <choice>
+                  <orig>Solicitted</orig>
+                  <reg>Solicited</reg>
+               </choice> me to bring goods there for them
+			 However I know that cannot be done under the present establishment, The Indians
+			  white people are both Violating the Treaty the result of which is hard to
+			 conjecture. but I hope the present Session of Congress will take measures to
+			 prevent any <choice>
+                  <orig>futer</orig>
+                  <reg>future or further</reg>
+               </choice> Violation on either side
+			  many white people have Settled upon the Indian Lands I am told to the
+			 amount of 500 families one Indian has been killed and one other wounded
+			 supposed by the <choice>
+                  <orig>Kentuckyans</orig>
+                  <reg>Kentuckians</reg>
+               </choice> and a report of four
+			 others missing, in return the Indians have Stolen many Horses on the Cumberland
+			 road and robbed one <choice>
+                  <orig>waggon</orig>
+                  <reg>wagon</reg>
+               </choice> this was done previous to
+			 the killing and wounding the Indians, there are three companies of Troops at 
+			 <name type="place">Knoxville</name> their destination
+			 <choice>
+                  <orig>un known</orig>
+                  <reg>unknown</reg>
+               </choice> but supposed for the purpose of removing
+			 those people from off the Indian Lands, nothing new has
+			 <add place="supralinear">transpired</add>
+               <del type="overstrike">traspired</del> at Cumberland since you left there Except the
+		  loss of our friend 
+		  <name type="person"> Bennet </name>out of the old <choice>
+                  <orig>Batchelors</orig>
+                  <reg>Bachelors</reg>
+               </choice> Society who I always thought <pb n="2" facs="sc028b.small.jpg"/> in
+		  that way, but to return to my <gap agent="damage"/> and quit
+		  <choice>
+                  <orig>plagueing</orig>
+                  <reg>plaguing</reg>
+               </choice> you with <choice>
+                  <orig>nonsence</orig>
+                  <reg>nonsense</reg>
+               </choice>, I hope you will not think that I wish to
+		  dictate to you, but Should you be of opinion that the Keeping up the post and
+		  the establishment if a trading post also at Fort Blount <del type="overstrike">I know</del> would be of <choice>
+                  <orig>publick</orig>
+                  <reg>public</reg>
+               </choice>
+		  utility, I Know it would be to my advantage, but I hope my private Interest
+		  will have no weight with you, I also hope you will not <choice>
+                  <orig>foget</orig>
+                  <reg>forget</reg>
+               </choice> our friend 
+		  <name type="person">Overton </name>when the appointment of Federal
+		  Judge comes upon the carpet I am sir with Sincere Esteem  regard</p>
+            <closer>
+               <salute> your most obedient 
+				<choice>
+                     <abbr>Servt</abbr>
+                     <expan>Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>S.
+					 </abbr>
+                        <expan>Sampson</expan>
+                     </choice>Williams</name>
+               </signed>
+               <address>
+                  <addrLine>Andrew Jackson 
+				  <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="sc028c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">Andrew Jackson</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine> Member of Congress </addrLine>
+               </address>
+               <add place="below, left">Mr Anthony</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

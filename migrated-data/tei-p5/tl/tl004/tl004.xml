@@ -1,0 +1,235 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1803 Apr. 13, Knoxville, [Tennessee], [to] the citizens
+			 of Anderson County, [Tennessee] / Archibald Roane, Governor of the State of
+			 Tennessee: a machine-readable transcription of an image</title>
+            <author>Roane, Archibald</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Chadwell</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl004</idno>
+            <idno>OCLC: 47798363</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1803 Apr. 13, Knoxville, [Tennessee], [to] the
+				citizens of Anderson County, [Tennessee] / Archibald Roane, Governor of the
+				State of Tennessee</title>
+               <author>Roane, Archibald</author>
+               <date when="1839-04-13">April 13, 1803 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter, dated April 13, 1803,
+				written by Archibald Roane, Governor of the State of Tennessee, to the citizens
+				of Anderson County, Tennessee. Roane intended to address this letter to the
+				citizens who were presently residing on lands that had been guaranteed to
+				Indians, and he warned them that prosecution would be brought against them if
+				they failed to remove themselves. Roane stated that the Indians were demanding
+				their rightful land, and the federal government would comply with those
+				demands, be it by legal prosecution, removal by troops, or both. </note>
+               <note type="Collection"> Governor Roane Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl004</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians of North America--Government relations</term>
+               <term>Indians of North America--Land tenure</term>
+               <term>Trespass</term>
+               <term>Tennessee</term>
+               <term>Anderson County (Tenn.)</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96010062"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Roane, Archibald, 1759-1819</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl004a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1803-04-13">13th <choice>
+                           <orig>april</orig>
+                           <reg>April</reg>
+                        </choice>
+					 1803</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>About the Beginning of last month I addressed a Letter to 
+			 <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice>.
+				Arbuckle</name> to be communicated to you at that time my information
+			 <add place="supralinear"> was not official</add> on the subject of the
+			 Prosecutions intended to be brought against you at the next federal Court
+			 <del type="overstrike">was since that time</del>
+               <add place="supralinear">send
+		  the draft of that Letter</add>
+               <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Meigs</name>the
+		  Agent has <del type="overstrike">officially stated to me by</del>
+               <add place="supralinear">sent me a</add> letter in his official capacity
+		  containing a list of a number of names <del type="overstrike">stated by
+		  him</del> of persons (as he says) residing on Indian lands contrary to treaty
+		  and that the Indians demanded <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> removal. He says
+		  that the President is determined to prevent all such intrusions and that
+		  <add place="supralinear"> he ( 
+		  <name type="person">
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>
+			 Meigs</name>)</add> by his orders <del type="overstrike">he</del> is bound to
+		  take effectual measures to have all such settlers removed. Whether this will be
+		  done by <add place="supralinear">commencing</add> prosecution as law or by the
+		  federal troops or both, I have not been informed</p>
+            <p>Knowing <del type="overstrike">this to be the case</del> these facts
+		  I think it a duty I owe you as Citizens of 
+		  <name type="place">Tennessee</name> to communicate the information and
+		  again to repeat my former advice, <del type="overstrike">that</del>
+               <add place="supralinear">
+                  <unclear>to</unclear>
+               </add> you
+		  <add place="supralinear">to</add> remove from the lands secured to the Indians
+		  by treaty, that you may avoid the disagreeable consequences which will probably
+		  result from a contrary conduct.</p>
+            <p>In my official capacity as Governor of the state I have nothing to
+			 do in any business of this nature. The federal authority <del type="overstrike">
+                  <unclear>above</unclear>
+               </del> It is committed by an
+		  <del type="overstrike">unc</del> act of Congress and over that authority I have
+		  no control <pb n="2" facs="tl004b.small.jpg"/>
+            </p>
+            <p>This Letter as well as the former, has been dictated
+			 <del type="overstrike">poorly</del> by a <add place="supralinear">
+                  <choice>
+                     <orig>sencere</orig>
+                     <reg>sincere</reg>
+                  </choice>
+               </add> wish to <del type="overstrike">unc</del> to
+		  give you such information and advice as may <add place="supralinear">induce</add>
+               <del type="overstrike">enable</del> you to
+		  avoid the <del type="overstrike">evils</del> embarrassments to which you are
+		  now liable. If in the moments of calm reflection you think with me on this
+		  subject I shall be glad <del type="overstrike">for you (unc)</del>to hear it
+		  from yourselves. But if you should think otherwise it might perhaps be proper
+		  to <add place="supralinear">decline</add>
+               <del type="overstrike">avoid</del>
+		  making any communication to me on the subject</p>
+            <closer>
+               <salute>I am <lb/> Gentlemen <lb/>your real friend <lb/> and 
+				<choice>
+                     <abbr>Hum</abbr>
+                     <expan>Humble</expan>
+                  </choice>. Servant
+                        
+                     
+                  </salute>
+               <signed>
+                  <hi>
+                     <name type="person">Archibald Roane</name>
+                  </hi>
+               </signed>
+               <add>To
+			 those Citizens of 
+			 <name type="place">Anderson County</name>
+               </add>
+               <del type="overstrike">of 
+			 <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </del> who are settled
+			 <add place="supralinear">on </add>
+               <del>within</del>the lands reserved to the
+			 Indians within the limits of the State of 
+			 <name type="place">Tennessee</name>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <p>
+               <address>
+                  <addrLine>Settlers on Indian</addrLine>
+                  <addrLine>Lands</addrLine>
+                  <addrLine>
+                     <date when="1803-04-13">13 
+				  <choice>
+                           <abbr>Apl</abbr>
+                           <expan>April</expan>
+                        </choice> 1803</date>
+                  </addrLine>
+               </address>
+               <add place="bottom, left">
+                  <hi>Recorded</hi>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

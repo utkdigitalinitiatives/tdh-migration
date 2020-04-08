@@ -1,0 +1,149 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Dec. 31, Washington [to] Robert J. Chester, Jackson, Tennessee / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl046</idno>
+            <idno>OCLC: 50030175</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Dec. 31, Washington [to] Robert J. Chester, Jackson, Tennessee / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1836-12-31">December 31, 1836</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Andrew Jackson to Robert J. Chester on December 31, 1836. In the letter, Jackson appoints Chester to the position of postmaster of Jackson, Tennessee. Jackson also mentions the death of Emily Donelson, the daughter of Major Donelson. Jackson finally mentions that he has been ill and suffered from a blood hemorrhage.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">59J</note>
+               <note type="document" anchored="true">sl046</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Postmasters</term>
+               <term>Chester, Robert J.</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl046a.small.jpg"/>
+            <opener>
+               <add place="top left corner">
+                  <emph>Private</emph>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1836-12-31">
+                        <choice>
+                           <abbr>Decbr</abbr>
+                           <expan>December</expan>
+                        </choice> 31st 1836</date>
+                  </addrLine>
+               </address>
+               <salute>My dear sir,</salute>
+            </opener>
+            <p>
+               <name type="person">Mr. Adam Huntsman</name>, three days past, placed in my hands your letter to him on the subject of the resignation of the postmaster at <name type="place">Jackson</name> on yesterday <name type="person">Doctor Butlers</name> letter reached here informing that the postmaster, <name type="person">Mr Talbot</name> has resigned — I sent for the postmaster <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> had an interview with him on the subject, and in due time you will receive the appointment.</p>
+            <p>I have just heard the distressing intelligence that <name type="person">Emily Donelson</name> is no more — I feel for poor <name type="person">Major Donelson</name> — he left me on the night of the 3rd, instant &amp; I suppose got home six days before her death — I have not heard from him since he got home — I suppose his mind has been so much destroyed that he could not write — he has all my sympathies, but this <pb n="2" facs="sl046b.small.jpg"/> does no good — time alone can heal the wound, but the loss to his dear little children never can be repaired.</p>
+            <p>I have had a severe attack of <choice>
+                  <orig>hemorhage</orig>
+                  <reg>hemorrhage</reg>
+               </choice> — I lost, says the Doctor, upwards of 70 <choice>
+                  <abbr>oz</abbr>
+                  <expan>ounces</expan>
+               </choice> blood in less than 48 hours — I am improving slowly and trust in a kind Providence that he will prolong my days <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> I once more reach the <name type="place">Hermitage</name>.</p>
+            <p>When Major Donelson left me he <sic>he</sic> put in my possession the <del type="overstrike">enclosed</del> letter enclosed to him to deliver you here — finding that you will not be here, I send it to you.</p>
+            <p>Give my kind regards to your <name type="person">Elisabeth</name> &amp; children, and to <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Butler</name> &amp; <name type="person">Patsy</name> — to <name type="person">Rachel Butler</name> &amp; daughter — to <name type="person">Samuel J. Hays</name> &amp; <name type="person">Francis</name>, &amp; to <name type="person">Narsissa</name> — and to all our connection and believe me your friend</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Robert J. Chester</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice> —<pb n="3" facs="sl046c.small.jpg"/>
+                     <emph>Free Andrew Jackson</emph>
+                  </addrLine>
+                  <addrLine>Robert J. Chester<choice>
+                        <abbr> Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                     <name type="place">Madison County</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

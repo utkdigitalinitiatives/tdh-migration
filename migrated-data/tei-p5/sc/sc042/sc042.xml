@@ -1,0 +1,139 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biographical Album of Tennessee Governors [Aaron Venable Brown
+			 1845-1847] / J. S. Jones : a machine-readable transcription of an image</title>
+            <author>Jones, J. S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc042</idno>
+            <idno>OCLC: 50406770</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Biographical Album of Tennessee Governors [Aaron Venable Brown
+				1845-1847] / J. S. Jones</title>
+               <author>Jones, J. S.</author>
+               <date when="1904">1904</date>
+               <extent>2p</extent>
+               <note type="summary">The Biographical Album of Tennessee Governors,
+				dated 1904, contains 31 plates, each featuring a Tennessee Governor's photo on
+				the front and biographical information on the back. This plate features Aaron
+				Vail [Venable] Brown.</note>
+               <note type="Collection">Biographical Album of Tennessee
+				Governors</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">F435.J65</note>
+               <note type="Document">sc042</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Brown, Aaron V., (Aaron Venable), 1795-1859</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Jones, J. S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc042a.small.jpg"/>
+            <p>
+               <figure>
+                  <head>
+                     <name type="person">Aaron <choice>
+                           <orig>Vail</orig>
+                           <reg>Venable</reg>
+                        </choice>
+					 Brown</name> 1845-1847 [Photo]</head>
+               </figure>
+            </p>
+         </div>
+         <pb n="2" facs="sc042b.small.jpg"/>
+         <div subtype="1" type="letter">
+            <p>
+               <name type="person">Aaron <choice>
+                     <orig>Vail</orig>
+                     <reg>Venable</reg>
+                  </choice>
+				Brown</name>, Governor of Tennessee, 1845-1847, was the son of Rev. Aaron
+			 Brown, of 
+			 <name type="place">Virginia</name>. He was born August 15, 1795. He
+			 graduated at 
+			 <name type="place">Chapel Hill, North Carolina</name>, 1814, and was
+			 valedictorian of his class. His father moved to 
+			 <name type="place">Tennessee</name> this same year and Aaron V.
+			 entered upon the study of law under 
+			 <name type="person">Judge Trimble</name> at 
+			 <name type="place">Nashville</name>. He later moved to 
+			 <name type="place">Giles County</name> and was a law partner of 
+			 <name type="person">James K. Polk</name> until 1825. He was a member
+			 of the State Senate 1821-1825, and of the Lower House 1831. He was a member of
+			 Congress 1839-1845, retiring to become candidate for Governor. His opponent was
+			 
+			 <name type="person">Ephraim H. Foster</name>, a Whig, and the contest
+			 was close. He was elected, however, but was defeated two years later by the
+			 Whigs, and 
+			 <name type="person">Neil S. Brown</name> became Governor. They were
+			 not related. While Aaron V. Brown was Governor, the Mexican war was fought.
+			 Tennessee's quoto of soldiers was 2,800; but when the Governor made the call
+			 for volunteers 30,000 answered; only four regiments were accepted. The school
+			 for the blind at Nashville and the one for deaf and dumb at 
+			 <name type="person">Knoxville</name> were incorporated during Aaron
+			 V. Brown's administration. The East Tennessee  Virginia R. R. (now
+			 Southern) was incorporated 1847. Governor Brown was Postmaster-General in 
+			 <name type="person">Buchanan's</name> Cabinet. He died March 8,
+			 1859.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

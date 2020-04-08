@@ -1,0 +1,159 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl063">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Dec. 31, Jackson, Madison County, Ten[nessee] [to] Postmaster of Jackson County, Ten[nessee] / William Armour, et al. : a machine readable transcription of an image</title>
+            <author> Armour, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl063</idno>
+            <idno>OCLC: 50078623</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 Dec. 31, Jackson, Madison County, Ten[nessee] [to] Postmaster of Jackson County, Ten[nessee] / William Armour, et al.</title>
+               <author> Armour, William</author>
+               <date when="1824-12-31">December 31, 1824</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by William Armour, et al. to the Postmaster of Jackson County, Tennessee, dated December 31, 1824. In the letter, Armour &amp; Lake request that any letters sent to them in Jackson County be forwarded to them in Jackson, Madison County, Tennessee.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">18</note>
+               <note type="document" anchored="true">sl063</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Postal service</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Armour, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl063a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson Madison County <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1824-12-31">
+                        <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 31. 1824</date> }</addrLine>
+                  <addrLine>Postmaster <choice>
+                        <abbr>Esq.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson County</name>
+                  </addrLine>
+                  <addrLine>Court House <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice> }</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>our friend <name type="person">Mr Norofolk</name> of your county informs us that he has seen <sic>a letter a letter</sic> in your office for us, forwarded there instead of this place by mistake; as you are well aware of the difficulties that may <unclear>arise</unclear> to us from such mistakes, we beg most earnestly you will please pay particular attention to this circumstance; and forward them or it to us — and if you have forwarded any to the general office ⁁ <add place="supralinear">of ours</add> inform us and we will write to the postmaster general —</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>obt serts.</abbr>
+                     <expan>obedient servants</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Armour &amp; Lake</name>
+               </signed>
+               <add place="below, left of signature">any letters for <lb/>
+                  <name type="person">William Armour</name>
+                  <lb/>
+                  <name type="person">Henry Lake</name>
+                  <lb/> or <lb/>
+                  <name type="person">Robert Lake</name>
+                  <lb/> please forward here }</add>
+               <pb n="2" facs="sl063b.small.jpg"/>
+               <address>
+                  <addrLine>Postmaster <choice>
+                        <abbr>Esq.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson County</name> Court House</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Gainsboro</orig>
+                           <reg>Gainesboro</reg>
+                        </choice> Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="through left side of address, upside down">I wrote to Post <lb/> Master General <lb/> of <date when="1825-01-18">18 <choice>
+                        <abbr>Jnry</abbr>
+                        <expan>January</expan>
+                     </choice> 1825</date>
+                  <lb/> requesting the letters <lb/> to be forwarded <lb/>
+                  <unclear>Law</unclear>
+                  <date when="1825-03-02">2nd March 1825</date>
+               </add>
+               <add place="below address, upside down">Armour &amp; Lake's <lb/> Letter of <date when="1824-12-31">31 <choice>
+                        <abbr>Decr.</abbr>
+                        <expan>December</expan>
+                     </choice>
+                     <lb/> 1824</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

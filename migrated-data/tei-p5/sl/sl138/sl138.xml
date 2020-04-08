@@ -1,0 +1,221 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl138">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1814 Jul. 8, Camp Ross [to] Major General Jno [i.e., John] Cocke, Rutledge, Granger Co[unty, TN]  /  Geo[rge] Doherty : a machine readable transcription of an image</title>
+            <author>Doherty, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl138</idno>
+            <idno>OCLC: 50555288</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1814 Jul. 8, Camp Ross [to] Major General Jno [i.e., John] Cocke, Rutledge, Granger Co[unty, TN]  /  Geo[rge] Doherty</title>
+               <author>Doherty, George </author>
+               <date when="1814-07-08">July 8, 1814</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written during the War of 1812, dated July 8, 1814, from General George Doherty to Major General John Cocke.  Doherty  explains that there is a lack of arms and supplies for the troops, despite regulations against having unarmed men in service, and he requests arms from Cocke.  Doherty also includes an excerpt of a military order from Andrew Jackson. </note>
+               <note type="collection" anchored="true">John Cocke Papers</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl138</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Military planning</term>
+               <term>Military supplies</term>
+               <term>Tennessee</term>
+               <term>United States -- History -- War of 1812</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Doherty, George</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl138a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Camp Ross</name>
+                     <date when="1814-07-08">8th July 1814</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I arrived here on the 29th <choice>
+                  <abbr>Ulto.</abbr>
+                  <expan>Ultimo</expan>
+               </choice> and from the want of supplies to enable me to proceed, I was <choice>
+                  <orig>oblidged</orig>
+                  <reg>obliged</reg>
+               </choice> to remain here until I could procure a supply sufficient to warrant a march to <name type="place">Fort Strother</name>. in the mean time I detached an express to <name type="person">Major <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General </expan>
+                  </choice> Jackson</name> . enclosing a copy of your orders to me of the 12 &amp; 14th  <choice>
+                  <abbr>Ulto.</abbr>
+                  <expan>Ultimo</expan>
+               </choice> with a statement to him of the situation of the Troops — deficiency in arms and with a request (if possible) to be furnished  with arms by him. The Express returned on   yesterday with advice from <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Jackson. an Extract of which I have the honor to detail.   "<name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Taylor</name> having stated that your Commissions were of the same date,  I <choice>
+                  <orig>refered</orig>
+                  <reg>referred</reg>
+               </choice> the <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> to <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Cocke</name>, whose duty it is to determine which of you are to command, I have wrote to Major  <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Cocke enclosing him an extract from the rules of War by which he is to <unclear>decide</unclear> .  The Copy of the Orders to you from Major <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Cocke of the 12 &amp; 14 <choice>
+                  <abbr>Ulto.</abbr>
+                  <expan>Ultimo</expan>
+               </choice> has relieved me from the <choice>
+                  <orig>embarrisment</orig>
+                  <reg>embarrassment</reg>
+               </choice>
+               <unclear>avarioned?</unclear> by his order of the 20th. In his of the 12th.  to you he orders you expressly to take the command of the <choice>
+                  <orig>Bregade</orig>
+                  <reg>Brigade</reg>
+               </choice> from his Division ordered into the service of the <name type="place">
+                  <choice>
+                     <abbr>UStates</abbr>
+                     <expan>United States</expan>
+                  </choice>
+               </name>  and proceed to organize them, and his order of the 14  directs that you should march them to my Head Quarters — You will therefore continue to command the Brigade until otherwise commanded by Major <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Cocke, or the Governor of the State"</p>
+            <p>"On the subject of Arms I have barely to remark, that, I have not a sufficient number here to complete the Arming of <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Williams</name>' <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> You will therefore have to send back to Major <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Cocke for a supply. our state Law presumes every man on the Muster Roll to be Armed, and every man ought to have been armed before he was <pb n="2" facs="sl138b.small.jpg"/> mustered into service.  but as they are in the Field, and from the <choice>
+                  <orig>requicition</orig>
+                  <reg>requisition</reg>
+               </choice> made on me by the Governor of the State, in pursuance of an order from the War Department for 500 men to march to <name type="place">Mobile</name> for its protection. all the six months men will be needed that have been ordered and they must be well Armed"—</p>
+            <p>Therefore in pursuance of Major <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Jacksons, Order I am necessitated to call on you for Two hundred good Guns if they can possibly be obtained. we had better have no men in the Field than have them without Arms. I have sent <name type="person">Major Bradly</name>  with orders to report to you, who will assist you in procuring the amount of the requisition.  I have also   detached <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> Lauren</name> with a party of men into the settlements of <name type="place">
+                  <choice>
+                     <abbr>E.</abbr>
+                     <expan>East</expan>
+                  </choice> Tennessee</name> to procure all that he can, what is   calculated at about 30 or 40.  I hope for the honor of the state and individual merit that there will not be a man of War unarmed.</p>
+            <closer>
+               <salute>I have the honor to be Sir very respectfully your most <choice>
+                     <abbr>Obt. Servt.</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Geo.</abbr>
+                        <expan>George</expan>
+                     </choice> Doherty</name>
+               </signed>
+               <signed>
+                  <choice>
+                     <orig>Bregedere</orig>
+                     <reg>Brigadier</reg>
+                  </choice> General</signed>
+               <address>
+                  <addrLine>Major <choice>
+                        <abbr>Genl.</abbr>
+                        <expan>General</expan>
+                     </choice> Cocke</addrLine>
+               </address>
+               <pb n="3" facs="sl138c.small.jpg"/>
+               <add place="top, left">
+                  <emph>
+                     <unclear>pr.</unclear>
+                     <name type="person">Major Bradley</name>
+                  </emph>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Major General <choice>
+                           <abbr>Jno.</abbr>
+                           <expan>John</expan>
+                        </choice> Cocke</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Rutledge</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Granger <choice>
+                           <abbr>Co.</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

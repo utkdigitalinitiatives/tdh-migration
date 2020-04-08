@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Oct. 16, Blythes Ferry [to] John Ross / James Powell: a machine-readable transcription</title>
+            <author>Powell, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch016</idno>
+            <idno>OCLC: 44760420</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Oct. 16, Blythes Ferry [to] John Ross / James Powell</title>
+               <author>Powell, James</author>
+               <date when="1838-10-16">October 16, 1838</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from James Powell to John Ross, Principal Chief of the Cherokee Nation, dated October 16, 1838.  Powell informs Ross of continuing problems in making ferry crossings with detachments, as a result of interference by local settlers.  The letter is directed to Ross at the Cherokee Agency in Tennessee.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true"> 1</note>
+               <note type="folder" anchored="true"> 21</note>
+               <note type="document" anchored="true">ch016</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians, Treatment of</term>
+               <term>Cherokee Nation</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Powell, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch016a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Blythes Ferry</name>
+                  </addrLine>
+               </address>
+               <date when="1838-10-16">Oct 16th 1838</date>
+               <salute>Mr. <name type="person">John Ross</name>
+                  <choice>
+                     <abbr> Prl Chf c</abbr>
+                     <expan>principal chief et cetera</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>I embrace the opportunity to say to you that we arrived at this <add place="supralinear">place</add>
+               <unclear>exactly</unclear> in this day on yesterday-  up to this time. 10 O'clock <unclear/>- we have only succeeded in getting some twenty <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> across the River- In fact I am constrained to the conclusion that the <choice>
+                  <orig>perprieters</orig>
+                  <reg>proprietress</reg>
+               </choice> of the Ferry, influenced by the surrounding citizens (for lucrative purposes) are determined to retard all exertions on the part of the conductor to <unclear>proceed</unclear> with their detachments- Hence I would <del type="overstrike"> I would</del> respectfully suggest the propriety, if practicable to <unclear>form</unclear> the use of the Ferry until your people have all crossed Judging by the past, I believe that it <add place="supralinear">will</add> consume a part of tomorrow in getting all our- detachment- upon the  opposite bank-</p>
+            <p>
+               <name type="person">Mr. Williams</name> returns to the Agency believing that you will be able to give him a situation in <name type="person">Judge Brown</name>' Detachment--if you can accommodate him, it- will if possible increase the obligations I already owe <pb n="2" facs="ch016b.small.jpg"/>you=
+               </p>
+            <p>You shall hear from us touching things in general so soon as we reach <name type="place">Sequachy Vally</name>.</p>
+            <closer>
+               <salute>With profound regard your friend  very <choice>
+                     <abbr>obt svt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">J  Powell</name>
+                  <choice>
+                     <abbr>Atty</abbr>
+                     <expan>Attorney</expan>
+                  </choice>
+                  <unclear/>
+                  <choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="ch016c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Mr. <name type="person">John Ross</name>
+                     <choice>
+                        <abbr>Prl Chf</abbr>
+                        <expan>Principal Chief</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Cherokee Agency</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </p>
+            <p>
+               <unclear>Petition B</unclear> of Mr. <name type="person">
+                  <choice>
+                     <abbr>Thos.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Williams</name>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

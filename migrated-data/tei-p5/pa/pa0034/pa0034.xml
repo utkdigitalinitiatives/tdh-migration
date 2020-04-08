@@ -1,0 +1,264 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1814 May 7, Franklin County, Tennessee [to] Colo[nel] Return J Meiggs [i.e., Meigs] / Hallis Estill et al.  : a machine readable transcription of an image</title>
+            <author>Estill, Hallis</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0034</idno>
+            <idno type="OCLC">OCLC: 44930612</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1814 May 7, Franklin County, Tennessee [to] Colo[nel] Return J Meiggs [i.e., Meigs] / Hallis Estill et al.</title>
+               <author>Estill, Hallis</author>
+               <date when="1814-05-07">May 7, 1814</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated May 7, 1814, to Colonel Return J. Meigs, agent to the Cherokee Nation, from the citizens of Franklin County, Tennessee.  The citizens write to inform Meigs of a band of thieves who have been stealing goods from nearby counties and keeping them on Indian lands.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0034</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letter</term>
+               <term>Meigs, Return Jonathan, 1764-1825</term>
+               <term>Cherokee Indians</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Estill, Hallis</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0034a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of <name>Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Franklin County</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>May the 7th 1814</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Return J <choice>
+                           <orig>Meiggs</orig>
+                           <reg>Meigs</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>we the Citizens of  Franklin County beg leave to represent that lately a band of Thieves has been discovered who when at their respective places of residence are found to be <choice>
+                  <abbr>Interspers'd</abbr>
+                  <expan>Interspersed</expan>
+               </choice> among the People of Franklin <name>
+                  <choice>
+                     <orig>Warran</orig>
+                     <reg>Warren</reg>
+                  </choice>
+               </name> &amp; <name>Madison</name>
+               <choice>
+                  <abbr>M.T.</abbr>
+                  <expan>Middle Tennessee</expan>
+               </choice> Counties and a considerable proportion of the Them residing on the Indian Land who have formed places of Deposit for Stolen goods It has been Clearly discovered by the Confession of Some of the parties and by a great Quantity of Stolen goods being found on the Indian Land <unclear>that them</unclear>  &amp; There only they make their place of <choice>
+                  <orig>Deposite</orig>
+                  <reg>Deposit</reg>
+               </choice>. By means of which their business is Very much facilitated.  there has been found of the Stolen goods 12 Horse Loads.  the numbers  of <choice>
+                  <orig>theives</orig>
+                  <reg>thieves</reg>
+               </choice> is Said to Exceed one hundred all Connected by the Usual ties that bind Such Characters- as our country Is Very much Infested and Our property Very Unsafe by reason of those Nefarious Characters we beg that you will Interpose and Use Such means or procure Such force  as you may think necessary to <choice>
+                  <orig>remmove</orig>
+                  <reg>remove</reg>
+               </choice> all persons who Contrary to Law has Settled on the cherokee Land which we believe will be one of the most Effective means to remove those pests by which our Country is Infected the Citizens of this County If <choice>
+                  <orig>Authorised</orig>
+                  <reg>Authorized</reg>
+               </choice> will Engage to Drive them off and not Suffer them to return; those on on the frontiers or adjacent thereto of this County &amp; that of Madison M.T_</p>
+            <closer>
+               <signed>
+                  <name>
+                     <unclear>Hallis</unclear> Estill</name>
+                  <lb/>
+                  <name>Richard Callaway</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Leod</abbr>
+                        <expan>Leonard</expan>
+                     </choice> Tarrant</name>
+                  <lb/>
+                  <name>John W. Holder</name>
+                  <pb n="2" facs="pa0034b.small.jpg"/>
+                  <name>Jones Young</name>
+                  <lb/>
+                  <name>John Shankle</name>
+                  <lb/>
+                  <name> James Drake</name>
+                  <lb/>
+                  <name> Arch Woods</name>
+                  <lb/>
+                  <name>John Smith</name>
+                  <lb/>
+                  <name>John Turner</name>
+                  <lb/>
+                  <name>Hugh Caperton</name>
+                  <lb/>
+                  <name>James Doran</name>
+                  <lb/>
+                  <name>John Denson</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Saml.</abbr>
+                        <expan>Samuel</expan>
+                     </choice> Berry</name>
+                  <lb/>
+                  <name>Abram Horton</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Caperton</name>
+                  <lb/>
+                  <name>Wm Demral</name>
+                  <lb/>
+                  <name>G B Miller</name>
+                  <lb/>
+                  <name>Saml Handly</name>
+                  <lb/>
+                  <name>Johh Barnett</name>
+                  <lb/>
+                  <name>James Cox</name>
+                  <lb/>
+                  <name>James Lewis</name>
+                  <lb/>
+                  <name>John Bell</name>
+                  <lb/>
+                  <name>David Bell</name>
+                  <lb/>
+                  <name>Wm. Wood</name>
+                  <lb/>
+                  <name>Wm Carver</name>
+                  <lb/>
+                  <name>R Cable</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Jona</abbr>
+                        <expan>Jonathan</expan>
+                     </choice> Gryker</name>
+                  <lb/>
+                  <name>Wm Reynolds</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Jas.</abbr>
+                        <expan>James</expan>
+                     </choice> Estill</name>
+                  <lb/>
+                  <name>A. J. Acklen</name>
+                  <lb/>
+                  <name>B. W. McWhorter</name>
+                  <lb/>
+                  <name>Temple Poston</name>
+                  <lb/>
+                  <name>John Russell</name>
+                  <lb/>
+                  <name> James L McWhorter</name>
+                  <lb/>
+                  <name> Wm McClain</name>
+                  <lb/>
+                  <name> Benjamin Wear</name>
+                  <lb/>
+                  <name>Henry N. Neeley</name>
+                  <lb/>
+                  <name>Hezekeah Farris</name>
+                  <lb/>
+                  <name>Robert Larkin</name>
+                  <lb/>
+                  <name> Pleasant H. Bean</name>
+                  <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Benjm.</abbr>
+                        <expan>Benjamin</expan>
+                     </choice> Thompson</name>
+                  <lb/>
+                  <name>Yaku Fanin</name>
+                  <lb/>
+                  <name>William Russell</name>
+                  <lb/>
+                  <name> John Cowan</name>
+                  <lb/>
+                  <name>James Cowan</name>
+                  <lb/>
+                  <name> Temple Sargan</name>
+                  <lb/>
+                  <name>William Russell</name>
+                  <lb/>
+                  <name>George Russell</name>
+                  <lb/>
+                  <name>Robert Cowan</name>
+               </signed>
+               <pb n="3" facs="pa0034c.small.jpg"/> Representation from Franklin County <unclear>Tenn</unclear>: relating to intrusion on on Indian lands &amp; the plunderings of the <choice>
+                  <abbr>sd.</abbr>
+                  <expan>said</expan>
+               </choice> Indians <lb/> dated 7th May 1814</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

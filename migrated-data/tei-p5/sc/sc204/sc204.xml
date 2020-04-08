@@ -1,0 +1,179 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc204">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1844 Apr. 30, Columbia, Tennessee [to] Colonel Robert Allen, Carthage, Tennessee / James Wilkins : a machine readable transcription of an image</title>
+            <author> Wilkins, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc204</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter]  1844 Apr. 30, Columbia, Tennessee [to] Colonel Robert Allen, Carthage, Tennessee / James Wilkins</title>
+               <author>  Wilkins, James</author>
+               <date when="1844-04-30"> 
+			 April 30, 1844</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by James Wilkins to Colonel Robert Allen about a loan owed to him by one Dr. Pillow. The letter is also signed by James K. Polk on Wilkin's behalf.</note>
+               <note type="collection" anchored="true">James Wilkins Letter</note>
+               <note type="box" anchored="true">MS-937</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc204</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Financial, personal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Wilkins, James</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc204a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Columbia</name>
+                  </addrLine>
+               </address>
+               <date>30th April 1844</date>
+               <salute>
+                  <name>
+                     <choice>
+                        <abbr>Colo</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Robert Allen</name>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>by the advice of <name>
+                  <choice>
+                     <abbr>Govr</abbr>
+                     <expan>Governor</expan>
+                  </choice>. J. K. Polk </name> I inclose one <choice>
+                  <orig>promisary</orig>
+                  <reg>promissory</reg>
+               </choice> note of <name>
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice>. S.B. Pillow</name> for $20._ Due 4th <choice>
+                  <abbr>Feby</abbr>
+                  <expan>February</expan>
+               </choice> 1839 which you will oblige me by collecting &amp; when collected pay yourself out of it and send me the balance by mail</p>
+            <closer>
+               <salute>Your compliance will oblige</salute>
+               <salute>Yours Respectfully</salute>
+               <signed>
+                  <name>James Wilkins</name>
+               </signed>
+               <add>
+                  <note>
+                     <p>
+                        <choice>
+                           <abbr>D</abbr>
+                           <expan>Dear</expan>
+                        </choice> Sir</p>
+                     <p>
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice> James Wilkins is a neighboor of mine &amp; is a worthy man &amp; a good citizen. You will oblige me as well as him, by attending to the above request.</p>
+                  </note>
+               </add>
+               <salute>Your friend</salute>
+               <signed>
+                  <name>James K. Polk</name>
+               </signed>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>. R. Allen </name>
+                  <address>
+                     <addrLine>
+                        <name>Carthage <choice>
+                              <abbr>Tn</abbr>
+                              <expan>Tennessee</expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                  </address>
+               </add>
+               <pb n="2" facs="sc204b.small.jpg"/>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Colo</abbr>
+                        <expan>Colonel</expan>
+                     </choice>. Robert Allen</name>
+                  <address>
+                     <addrLine>Carthage Tennessee</addrLine>
+                  </address> mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

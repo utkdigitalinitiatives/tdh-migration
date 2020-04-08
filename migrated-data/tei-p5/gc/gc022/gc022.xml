@@ -1,0 +1,178 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc022">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 May 8 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, [LA]: a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc022</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 May 8 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, [LA]</title>
+               <author>Moore, Thomas O.</author>
+               <date when="1833-05-08">May 8, 1833</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated May 8, 1833 from Thomas O. Moore to his cousin J.M. King.  He explains the dread and fear around Alexandria, Louisiana caused by an outbreak of the Cholera, as well as the condition and expectations he has for his cotton crop.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1833</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">gc022</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cholera</term>
+               <term>Death</term>
+               <term>Louisiana</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc022a.small.jpg"/>
+            <opener>From <name type="person">
+                  <choice>
+                     <abbr>T</abbr>
+                     <expan>Thomas</expan>
+                  </choice>.O. Moore</name> —<address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name>
+                     <name type="place">Murfreesboro</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="top left of envelope">
+                  <choice>
+                     <abbr>Rec.d</abbr>
+                     <expan>received</expan>
+                  </choice> on <date when="1833-05-08">May 8 </date>
+               </add>
+               <add place="top left of envelope">1833</add>
+               <add place="bottom left of envelope">cholera</add>
+               <add place="bottom left of envelope">Mail</add>
+               <add place="top right of envelope">25</add>
+               <pb n="2" facs="gc022b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Alexandria</name>
+                  </addrLine>
+               </address>
+               <date when="1833-05-08">8th May 1833</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>I leave here tomorrow on the steam boat  Lioness for <name type="place">
+                  <choice>
+                     <orig>Neue</orig>
+                     <reg>New</reg>
+                  </choice> Orleans</name> on my way to <name type="place">North Carolina </name>shall go from <choice>
+                  <abbr>N.O.</abbr>
+                  <expan>New Orleans</expan>
+               </choice> to <name type="place">Mobile</name> then take the stage to <name type="place">Fayettville</name> where I expect to arrive by the 20th unless detained in the city longer than I anticipate which I hope will not be the case as the cholera is raging there to a considerable extent, we have thus far escaped that dreadful malady in our section of country though frequently brought to this place by the boats.</p>
+            <p>I shall have in company with me two other gentlemen who are going on also to purchase <choice>
+                  <orig>negroes</orig>
+                  <reg>Negroes</reg>
+               </choice> and think it more than probable that I shall return by <name type="place">Murfreesboro</name> particularly if there should be no <choice>
+                  <orig>cholerea</orig>
+                  <reg>cholera</reg>
+               </choice> in the river, though if there should be shall continue my trip by land to the mouth of <name type="place">red river</name>, write me at Lampton court house the price of negroes in <name type="place">
+                  <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name>. they are I am informed very high in <name type="place">Carolina</name>
+               <name type="place">Virginia</name> &amp;<name type="place"> Maryland</name>.</p>
+            <p>We are remarkably backward in our crops caused by the <unclear>incessant</unclear> raining we are just getting in a fine way of scraping and our cotton looks well notwithstanding the wet weather, and the prospects for good prices are no doubt better than they have been for several years unless some unforeseen mixture breaks out in Europe an event which we have right to expect at this time their markets can nothing like be amply supplied. <pb n="3" facs="gc022c.small.jpg"/> from the last years crop and <name type="place">
+                  <choice>
+                     <orig>Neue</orig>
+                     <reg>New</reg>
+                  </choice> Orleans</name> will have less cotton on hand the first of June than there <add place="supralinear">was</add> in market on the first of <choice>
+                  <abbr>Aug.t</abbr>
+                  <expan>August</expan>
+               </choice> last year, consequently the market must open early and at a fair demand next fall, I have planted a large crop for my force with the expectation that the negroes I purchase will assist in gathering I am confident I lost seventy or eighty bales of cotton last year by not being able to gather it in time.  John is quite awkward in the mode of planting here though very industrious and his ideas are good and will make a good plantation if he can have his health.  <name type="person">
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Butler</name> is in tolerable health only is determined on coming to <name type="place">
+                  <choice>
+                     <abbr>Tenn.</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name>  after  this year to remain.  John is practising <choice>
+                  <abbr>physic</abbr>
+                  <expan>physics</expan>
+               </choice> and doing well.  My wife and John joins in my love to cousin Martha and children and to all our relations and enquiring <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> also accept our best wishes for your happiness &amp; prosperity through this life and the one without end Write to me in <name type="place">Carolina</name> very soon</p>
+            <closer>Your Friend and relation <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Tho.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> O. Moore</name>
+               </signed>
+               <add place="bottom of page">
+                  <name type="person">
+                     <choice>
+                        <abbr>Capt.</abbr>
+                        <expan>Captain</expan>
+                     </choice> T. M. King</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

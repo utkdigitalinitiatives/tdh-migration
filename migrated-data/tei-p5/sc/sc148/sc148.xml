@@ -1,0 +1,120 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc148">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>  [Legal document] 1798 May 17 [to] David Allison  /Andrew Jackson [and] Pierce Butler : a machine readable transcription of an image</title>
+            <author> Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc148</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>  [Legal document] 1798 May 17 [to] David Allison  /Andrew Jackson [and] Pierce Butler</title>
+               <author> Jackson, Andrew</author>
+               <date when="1798-05-17">May 17, 1798</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a legal document dated May 17, 1798 signed by Andrew Jackson and Pierce Butler. Jackson and Butler assert that they are indentured to David Allison for eight hundred thousand dollars.</note>
+               <note type="collection" anchored="true">Andrew Jackson Letters</note>
+               <note type="box" anchored="true">MS 1137</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc148</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal Document</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Financial, personal</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Autographer http://id.loc.gov/vocabulary/relators/ato">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc148a.small.jpg"/>
+            <p>Know all men by these presents that we <name>Andrew Jackson</name> and <name>Pierce Butler</name> are held and firmly bound unto <name>David Allison</name> in the sum of <del type="overstrike">six</del>
+               <add>Eight</add> hundred thousand Dollars to be paid to the said David Allison his certain attorney, Executors, administrators or assigns. For which payment well and truly to be made we bind ourselves, and each of us our and each of our heirs, Executors, administrators and Assigns jointly and severally firmly by these Presents. Sealed with our seals, and dated this seventeenth day of May in the year of our lord one thousand seven hundred and ninety eight</p>
+            <p>The Condition of the above Obligation at such, that where as the above bounden Pierce Butler (by Andrew Jackson his attorney in fact) hath the day of the date hereof prayed on Attachment at the suit of Pierce Butler against the Estate of the above named David Allison for the sum of three hundred and sixty thousand Dollars as his Debt as appears of Record and also for the sum of four hundred thousand Dollars for his Damages for the Detention of that Debt as for his Cost and charges by him about  his suit on that be half expended and hath obtained the same returnable to the <pb n="2" facs="sc148b.small.jpg"/> Superior Court to be held at <name>Nashville</name> for the <name>District of Mero</name> on the second Monday of <sic>of</sic> November next Now if the said Pierce Butler shall prosecute his said suit with effect or in Case he fail therein shall well and truly pay and satisfy to the said David Allison all such Costs and Damages as shall be awarded and recovered against the said David Allison his heirs executors, or administrators, in any Suit or suits which may be here after brought for wrongfully suing <unclear>out</unclear> the said Attachment then the above obligation to be void, otherwise to remain in full force and Effect___</p>
+            <closer>
+               <add>Signed sealed and Delivered in the presence of_</add>
+               <signed>Pierce Butler <add>
+                     <figure>
+                        <figDesc> personal seal</figDesc>
+                     </figure>
+                  </add>
+               </signed>
+               <signed>
+                  <unclear>Andrew Jackson <choice>
+                        <abbr>att</abbr>
+                        <expan>attorney</expan>
+                     </choice>
+                  </unclear>
+               </signed>
+               <signed>Andrew Jackson <add>
+                     <figure>
+                        <figDesc>personal seal</figDesc>
+                     </figure>
+                  </add>
+               </signed>
+               <add>Ho. Tatum</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] [to]  Col[onel] Andrew J. Hutchings, Florence, Ala[bama] / A [ndrew] J[ackson] Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um007</idno>
+            <idno>OCLC: 50193751</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] [to]  Col [onel] Andrew J. Hutchings, Florence, Ala[bama] / A[ndrew]  [ackson] Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1835">ca. 1835</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter from Andrew Jackson Coffee to Colonel Andrew J. Hutchings. In the letter, Coffee discusses his views on the issues of slavery and the Canadian difficulties with England.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903 MS 27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um007</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um007a.small.jpg"/>
+            <opener>
+               <add place="above address">
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+               </add>
+               <add place="above address">25</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Andrew J. Hutchings</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Florence</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ala</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left of address">Mail }</add>
+               <pb n="2" facs="um007b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">West Point</name>
+                  </addrLine>
+               </address>
+               <salute>My Dear Brother</salute>
+            </opener>
+            <p>Excuse me for not writing sooner, for I have been so busy and so vexed of late that I was afraid I would say something to displease you or Mother but I can write now more to please than I may <del type="overstrike">be</del> again for a week or ten day. I will try and put a few sentences together without offending or annoying any one.</p>
+            <p>My health is only tolerable, as the <choice>
+                  <orig>we ⁁  ther</orig>
+                  <reg>weather</reg>
+               </choice> is cold and damp. Yesterday I had a very severe headache but I feel some what better today. I am very glad to see the young people of <name type="place">Florence</name> so fortunate as to meet with each other and to please and to be pleased &amp; to marry it shows a happy and <choice>
+                  <orig>peacefull</orig>
+                  <reg>peaceful</reg>
+               </choice> community when so much gayety and <choice>
+                  <orig>galantry</orig>
+                  <reg>gallantry</reg>
+               </choice> is going on, may they live long and be happy in each others love is your humble servants prayer. I understand that our town is receiving other benefits besides the matrimonial ones, she will soon be a large and beautiful city.</p>
+            <p>You have heard no doubt before this of the <unclear>rascally</unclear> set of resolutions the Legislature of <name type="place">Vermont</name> sent the <name type="place">United States</name> Senate, with a petition as long is my arm praying that slavery be prohibited, and a thousand other things too foolish to mention The most <choice>
+                  <orig>vilainous</orig>
+                  <reg>villainous</reg>
+               </choice> thing that could be done, and will at length bring <unclear>evil</unclear> war among us. I wish all of them had their necks stretched and it depended on me to save them or not <pb n="3" facs="um007c.small.jpg"/>
+            </p>
+            <p>The Canadians are making strong headway a good many of the Citizens near the line have gone over and help them and I understand that several regiments have gone over with plenty arms and Stores if it is so may have <choice>
+                  <orig>dif ⁁  culty</orig>
+                  <reg>difficulty</reg>
+               </choice> with <name type="place">England</name>, perhaps a severe war. From the present prospects I think we <unclear>bid</unclear> fair to have a war some where before two years either amongst ourselves or with some foreign power, and the <emph>Senate</emph> is still <emph>
+                  <choice>
+                     <orig>squibling</orig>
+                     <reg>squibbling</reg>
+                  </choice>
+               </emph> away.</p>
+            <p>I have no particular news, The winter has been uncommonly mild, generally but for the last few days it has been <choice>
+                  <orig>geting</orig>
+                  <reg>getting</reg>
+               </choice> colder every day and until the first of March. I expect to see very little pleasant weather; There is large quantities of ice in the river, but it has not frozen over, it is expected it will tonight. I would like to take a hunt now, if it were possible, with a good pack of hounds a good day, a good gun and you to drive, then if I did not kill a deer, <emph>God help me</emph>, I am very glad to hear you are making a good crop of <choice>
+                  <orig>coton</orig>
+                  <reg>cotton</reg>
+               </choice>, and I Sincerely wish you may make a better one  next year</p>
+            <p>If I should ever come home I will keep you to your promise to present me with <emph>
+                  <name type="person">Old John</name>
+               </emph> or <emph>
+                  <name type="person">Limble Jim</name>
+               </emph>
+            </p>
+            <p>Maybe I may write you a more interesting letter the next time, provide you do the same.</p>
+            <p>My love to all friends &amp; Relations</p>
+            <closer>
+               <salute>Your Brother</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>A J</abbr>
+                        <expan>Andrew Jackson</expan>
+                     </choice> Coffee</name>
+               </signed>
+               <add place="bottom of page">Give my <choice>
+                     <orig>Repects</orig>
+                     <reg>Respects</reg>
+                  </choice> to <name type="person">Mr &amp; Mrs Hightower</name>, "I congratulate them". <choice>
+                     <abbr>AJC</abbr>
+                     <expan>Andrew Jackson Coffee</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

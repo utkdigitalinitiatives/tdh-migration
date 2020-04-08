@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl679">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Nov. 6, Nashville, Tennessee [to] N[eil] S. Brown / E. W. M. King : a machine readable transcription of an image</title>
+            <author> King, E. W. M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl679</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1847 Nov. 6, Nashville, Tennessee [to] N[eil] S. Brown / E. W. M. King</title>
+               <author>King, E. W. M.</author>
+               <date when="1847-11-06"> 
+			 November 6, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor Neil S. Brown from E. W. M. King, dated November 6, 1847. King is writing on behalf of an inmate named McCoy, who he believes should be pardoned. King also relays the details of the case.</note>
+               <note type="collection" anchored="true">Governor Neil S. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl679</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Pardon</term>
+               <term>Slaves</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, E. W. M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl679a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <date>6 <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 1847</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>N.</abbr>
+                        <expan>Neil</expan>
+                     </choice> S. Brown</addrLine>
+               </address>
+            </opener>
+            <p>I take pleasure in stating to you in writing the substance of what I said to you in person before the pardon of <name>McCoy</name> was obtained for he was charged with negro stealing; and tryed and convicted before me_ the slave had before the theft been hired to some one in <name>Memphis</name> his master resided five <del type="overstrike">f</del>or six miles from Town McCoy had several times been at the shop where the slave was at work, where some conversation passed between them in regard to the slaves emancipation, the precise <unclear>purport</unclear> of which I cannot now detail__ the third or fourth day after the last meeting between McCoy &amp; the slave as seen at the shop McCoy hired a horse &amp; buggy and drove out some five miles, not so far as <name>White</name>s the owner of the slave_ upon his return three or three &amp; half miles from Memphis  the negro; hailed the prisoner_ who drew up his horse the conversation which passed there was not heard by witnesses who were lying in ambush to watching his movements_ as soon as the slave arrived at the buggy he <unclear>mounted</unclear> into it_ when McCoy drove off at a fast speed_ these were the material facts proved on trial. <choice>
+                  <orig>Altho</orig>
+                  <reg>Although</reg>
+               </choice> I refused a new trial, my mind was not however <choice>
+                  <orig> fare</orig>
+                  <reg>far</reg>
+               </choice> from doubt, as to his possible innocence; If there had been proof of his good character I would have given him a new trial_ he has now been in prison for  nearly three years, and upon the whole, if he has proven a good moral character I am of the opinion he ought to be pardoned</p>
+            <closer>
+               <salute>
+                  <unclear>your friend</unclear>
+               </salute>
+               <signed>
+                  <name>E. W. M. King</name>
+               </signed>
+               <pb n="2" facs="sl679b.small.jpg"/>
+               <address>
+                  <addrLine>His Excellency N.S. Brown</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice> of Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

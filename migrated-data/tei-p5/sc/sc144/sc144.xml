@@ -1,0 +1,160 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc144">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Jan. 7 [to] Robert A. Burford, Dickson Springs, Smith county, Tennessee / C. Miller : a machine readable transcription of an image</title>
+            <author> Miller, C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc144</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1849 Jan. 7 [to] Robert A. Burford, Dickson Springs, Smith county, Tennessee / C. Miller </title>
+               <author> Miller, C.</author>
+               <date when="1849-01-07">January 7, 1849 
+			 </date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated January 7, 1849 from James Miller to Robert A. Burford.  The letter is a complaint against Buford for misrepresenting the physical status of two slaves he sold to Miller.  The two slaves were said to be sound and healthy; however it was later discovered that one had an eye out and the other suffered from  Phthisic.</note>
+               <note type="collection" anchored="true">David Burford Papers</note>
+               <note type="box" anchored="true">MS-935</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc144</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Slave trade</term>
+               <term>Business transactions.</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Miller, James N.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc144a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Jackson <choice>
+                        <abbr>Mis</abbr>
+                        <expan>Mississippi</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>7th  <choice>
+                     <abbr>Jany 49</abbr>
+                     <expan>January 1849</expan>
+                  </choice>
+               </date>
+               <salute>
+                  <choice>
+                     <abbr>Mr Robt</abbr>
+                     <expan>Mister Robert</expan>
+                  </choice> A Burford</salute>
+            </opener>
+            <p>I was <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> much surprised a few days since to learn for the first time that two of the negroes are unsound and that you knew it when you sold them to me towit Daniel has an eye out and Mary has Phthisic both of whom you represented and warranted sound in your bill of sale, You will recollect &amp; so will others that you stated repeatedly to me that they were all sound healthy negroes no blemishes &amp; I shall Certainly claim (&amp; hereby notify you of it) a reduction out of the amount of promised you for these negroes let me hear from you upon this Subject</p>
+            <closer>
+               <add>Yours</add>
+               <signed>
+                  <name>Jas. N. Miller</name>
+               </signed>
+               <pb n="2" facs="sc144b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Mr Robt</abbr>
+                           <expan>Mister Robert</expan>
+                        </choice> A Burford</name>
+                     <lb/>
+                     <name>Dicksons Springs</name>
+                     <lb/>
+                     <name>Smith County</name>
+                     <lb/>
+                     <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>Included notice <choice>
+                     <abbr>reced</abbr>
+                     <expan>received</expan>
+                  </choice>, from Milton to <name>
+                     <choice>
+                        <abbr>Tho.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> J. Wharton</name> on the 7 <choice>
+                     <abbr>Augt</abbr>
+                     <expan>August</expan>
+                  </choice>
+                  <unclear>50</unclear>
+                  <lb/> Wrote Tho. J. Wharton to cancel the trad note for 700 $ and take back Daniel also wrote Mr Miller to call on Mr Wharton__ wrote both <date>8 <choice>
+                        <abbr>Febry</abbr>
+                        <expan>February</expan>
+                     </choice> 1849</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

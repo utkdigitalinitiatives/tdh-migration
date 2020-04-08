@@ -1,0 +1,163 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc139">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1832 Dec. 8, Warrenton, Virginia [to] D. Burford, Dixons Springs, Tennessee / J. Saunders : a machine readable transcription of an image</title>
+            <author>Saunders, J. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc139</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1832 Dec. 8, Warrenton, Virginia [to] D. Burford, Dixons Springs, Tennessee / J. Saunders</title>
+               <author> Saunders, J.</author>
+               <date when="1832-12-08"> 
+			 December 8, 1832</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 8, 1832 from J. Saunders in Warrenton, Virginia to D. Burford in Dixons Springs, Tennessee.  The subject of the letter is slave trade and transportation to the Mississippi area.  In the letter, Saunders mentions that pestilence has had a major impact on the south and will be a factor in choosing a trade route.</note>
+               <note type="collection" anchored="true">David Burford Papers</note>
+               <note type="box" anchored="true">MS-935</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc139 </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Slave trade</term>
+               <term>Business transactions.</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Saunders, Jourdan M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc139a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Warrenton</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Decr. 8th 32</abbr>
+                     <expan>December 8, 1832</expan>
+                  </choice>
+               </date>
+               <salute>Dear Burford</salute>
+            </opener>
+            <p>Perris passed here by last night's stage on his return from <name>Mississippi</name>, he brings us advise from <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice>. Franklin to suspend our purchases until further orders__  suppose you send on your agent <choice>
+                  <orig>imediately</orig>
+                  <reg>immediately</reg>
+               </choice> for the negroes <add>you want</add>  as it will be convenient for me to render him such assistance as he may stand in need of in making the purchase__ I think it would be best at this season of the year to send but one horse, so that he could take water at some convenient point on the Ohio river and return home by  <sic>by</sic> the way of <name>Louisville</name>
+               <name>
+                  <choice>
+                     <abbr>Ky</abbr>
+                     <expan>Kentucky</expan>
+                  </choice>
+               </name>__</p>
+            <p>We have had our full share of uneasiness for the fate of our last shipments__ Perris told me however <pb n="2" facs="sc139b.small.jpg"/> that his uncle intended to intercept <del>the passage</del> the passage of the vessel somewhere below <name>New Orelans</name> and take the negroes across the lake to the high lands in Mississippi to avoid the pestilence which has been more fatal in the south than any other section of the Continent__ <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> I am gratified to see by this mornings paper that the disease had on the <date>19th of <choice>
+                     <abbr>Nov</abbr>
+                     <expan>November</expan>
+                  </choice>.</date> entirely subsided in New orelans__ the vets and the cholera will play the dues with the negro traders this year__ you will doubtless be compelled to listen to a great many (and among them no small portion) <choice>
+                  <orig>exagerated</orig>
+                  <reg>exaggerated</reg>
+               </choice> accounts of the malignity and fatality of this awful experience; which is to be sure at best bad enough; but with Mr. Franklins experience prudence and managements, together with <pb n="3" facs="sc139c.small.jpg"/> an equal portion of the <choice>
+                  <orig>favours</orig>
+                  <reg>favors</reg>
+               </choice> of Divine Providence, I flatter myself that we may in a great measure if not altogether escape the evil__</p>
+            <closer>
+               <add>Your friend </add>
+               <signed>
+                  <name>JM Saunders</name>
+               </signed>
+               <pb n="4" facs="sc139d.small.jpg"/>
+               <add>From J.M. Saunders <date>
+                     <choice>
+                        <abbr>Decr</abbr>
+                        <expan>December</expan>
+                     </choice> 8 1832</date>
+               </add>
+               <address>
+                  <addrLine>Warrenton <choice>
+                        <abbr>va</abbr>
+                        <expan>Virginia</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>
+                  <date>Decr 7th</date>
+               </add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Majr</abbr>
+                        <expan>Major</expan>
+                     </choice>. David Burford Dixons Spring Smith County Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

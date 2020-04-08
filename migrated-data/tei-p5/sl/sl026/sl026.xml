@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document] 1810 Jun. 15,  Rhea County, Tennessee : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl026</idno>
+            <idno>OCLC: 50015124</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal document] 1810 Jun. 15,  Rhea County, Tennessee</title>
+               <date when="1810-06-15">June 15, 1810</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a complaint, dated June 15, 1810, made by John Den of Rhea County, Tennessee against Richard Fen for trespassing.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents, IV-A-5</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl026</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Trespass</term>
+               <term>Fen, Richard</term>
+               <term>Legal document</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl026a.small.jpg"/>
+            <opener>STATE OF <name type="place">TENNESSEE</name>, }</opener>
+            <opener>
+               <name type="place">RHEA COUNTY</name>. } To wit:</opener>
+            <p>
+               <name type="person">John Den</name>, lessee of <name type="person">Richard G. Waterhouse</name>, by attorney, complains of <name type="person">Richard Fen</name>, in custody <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>and et cetera</expan>
+               </choice> of a plea of <choice>
+                  <orig>tresspass</orig>
+                  <reg>trespass</reg>
+               </choice>
+               <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>et cetera</expan>
+               </choice> for this, That whereas, the said Richard G. Waterhouse, at <gap agent="damage"/> to wit, in the county aforesaid, on the <date when="1810-01-01">1st day of January, in the year 1810</date>, had demised, granted, and to farm let, to the said John Den, a certain tenement or parcel of land, lying and being in the county of Rhea, and state aforesaid, on the north side of <name type="place">Tennessee river</name>, in a valley formerly known by the name of <name type="place">Cumberland Valley</name>, (now <name type="name">Tennessee Valley</name>) bounded by Tennessee river on one side, and <name type="place">Cumberland Mountain</name> on the other side; beginning at an ash tree marked S. D. a small distance below the mouth of <name type="place">White's creek</name>, on the bank of Tennessee river, and runs down the various meanders of said river, including the meanders thereof, passing the mouth of <name type="place">Piney creek or River</name>, <name type="place">Clear creek</name>, <name type="place">Mill creek</name>, and several small branches, to the mouth of <name type="place">Richland creek</name>, when reduced to a straight line will be 8500 poles; thence west, leaving Tennessee river, 1280 poles to Cumberland mountain; thence along the foot of said mountain, with the various meanders thereof, crossing a large creek called <name type="place">Sale creek</name>, and the head waters of Richland creek, <name type="place">Valley Fork</name>, Clear creek, Piney creek or River, and <name type="place">Camp creek</name>, to the main fork of White's creek, when reduced to a straight line will be 9000 poles to a large Poplar, pine and sugar tree, on the bank of said creek, at the foot of said mountain; thence down the said creek, including the several meanders thereof to the beginning.</p>
+            <p>With the hereditaments &amp; appurtenances thereunto belonging, <emph>to have and to hold</emph> to the said John Den, and heirs or assigns, to the full end and term of ten years, from thence next following, and fully to be complete and ended. By virtue of which said demise, the said John Den, entered into the tenement aforesaid, and was in the peaceable possession of the same, when the said Richard Fen, afterwards, to wit, on the second day of January, in the year aforesaid, with force and arms, entered into the said tenement, which the said Richard G. Waterhouse, in form aforesaid, for the term aforesaid, had demised and granted to the said John Den, and ejected and drove out the said John, from his said farm, his term aforesaid not being then, nor yet expired; and other wrongs to the said John then and there did, against the peace of the state, to his damage five hundred dollars, and therefore he sues, <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>et cetera</expan>
+               </choice> and there are pledges to prosecute, <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </p>
+            <closer>
+               <name type="person">KELLY</name>, Attorney for Plaintiff. <add place="bottom of document">
+                  <note>
+                     <name type="person">Mr. <hi rend="written text">Nichodemus Hackworth</hi>
+                     </name>
+                     <p>SIR,</p>
+                     <p>I am informed that you are in possession of, or claim title to the premises described in the above declaration of ejectment, or some part thereof, and I being sued in this action as casual ejector, and having no title to the same, do advise you, by yourself or some attorney, to appear at the next circuit court, to be held for the county of Rhea, at the court house in said county, on the <hi rend="written text">Second</hi> Monday in <hi rend="written text">September</hi> next, and cause yourself to be made defendant in my room, or I will suffer judgement to go against me by default, and you will be turned out of possession.</p>
+                  </note>
+               </add>
+               <salute>Your friend, <choice>
+                     <abbr>&amp;c.</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <name type="person">Richard Fen</name>
+               <pb n="2" facs="sl026b.small.jpg"/>
+               <add place="middle of page">
+                  <name>John Den</name> lessee of <name type="person">
+                     <choice>
+                        <abbr>Richd</abbr>
+                        <expan>Richard</expan>
+                     </choice> G. Waterhouse</name>
+                  <unclear>&amp;</unclear>
+                  <name type="person">
+                     <emph>Nichodemus Hackworth</emph>
+                  </name>
+                  <emph>Issued <date when="1810-06-15">15th June 1810</date>
+                  </emph> Came to hand the <date when="1810-06-10">10th of June 1810</date>
+                  <name type="person">
+                     <emph>Miller Frenchy</emph>
+                  </name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

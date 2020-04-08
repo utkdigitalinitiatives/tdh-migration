@@ -1,0 +1,248 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl375">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Journal] Dec. 22, 1779,  Fort Patrick Henry, Holston River / John Donelson   : a machine readable transcription of an image</title>
+            <author>Donelson, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl375</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Dec. 22, 1779,  Fort Patrick Henry, Holston River / John Donelson</title>
+               <author>Donelson, John</author>
+               <date when="1779-12-22">December 22, 1779</date>
+               <extent>15p</extent>
+               <note type="summary" anchored="true">This is the Journal kept by John Donelson on his trip from Fort Patrick Henry to French Salt Springs which he also refers to as the Big Salt Lick. He travels down the Holston, French Broad, Clinch, Tennessee, and Cumberland Rivers.  The trip  starts on December 22, 1779 and is completed on April 24, 1780. Donelson's boat is  joined early in the voyage by several others going along the same route.   Donelson writes about an accident they have  on the French Broad river in February. One of the other vessels sinks.  A slave dies on the Clinch river in March from severe frost bite. Later that month the travellers have trouble with the Chickamaugas, who have  villages down the south side of the Tennessee River. Captain  Blackemore's boat, which had been quarantined from the others due to small pox, is attacked by these natives, and many people are killed or captured. Donelson writes about the flotilla trying to navigate the Whirl, a particularly dangerous place on the Tennessee River near Chattanooga. There, they are attacked again by the Chickamaugas. One family named Jennings is left behind when their boat becomes trapped in the Whirl, but they are able to eventually catch up to the others. Donelson writes about trouble they have going through the  Muscle Shoals in mid-March. On the Cumberland River they begin to have food shortages and are forced to hunt buffalo to survive. When they arrive in Big Salt Lick, they meet Captain Robertson and company. The group decides to stay temporarily in some log cabins they find.</note>
+               <note type="collection" anchored="true">Bettie M. Donelson Papers</note>
+               <note type="box" anchored="true">III-E-2-3, b1</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sl375</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Diaries</term>
+               <term>Tennessee River</term>
+               <term>Cumberland River (Ky. and Tenn.) Navigation.</term>
+               <term>Stressful life events</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n95099775"
+                        role="Author http://id.loc.gov/vocabulary/relators/aut">Donelson, John, approximately 1718-approximately 1780</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl375a.small.jpg"/>
+            <head>Journal of a Voyage, intended by Gods Permission in the Good Boat Adventure, from <name>Fort Patrick Henry</name> on <name>Holston river</name> to the <name>French Salt Springs</name> on <name>Cumberland river</name>, Kept by <name>John Donelson</name>
+            </head>
+            <p>
+               <date>
+                  <choice>
+                     <abbr>Decemr</abbr>
+                     <expan>December</expan>
+                  </choice> 22nd <add>1779</add>
+               </date> Took our Departure from the Fort and fell down the river to the mouth of Reedy Creek, where we were stopped by the fall of the water and most excessive  hard frost; and after much delay and many difficulties we arrived at the Mouth of Cloud's Creek, on Sunday evening the <date>20th <choice>
+                     <abbr>Feby.</abbr>
+                     <expan>February</expan>
+                  </choice> 1780</date>, where we lay <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> Sunday 27th when we took our departure with sundry other vessels bound for the same voyage, and on the same day struck on the Poor <choice>
+                  <orig>valey</orig>
+                  <reg>valley</reg>
+               </choice> Shoal, together with <name>Mr Boyd</name> and <name>Mr Rownsifer</name>, on which shoal we lay that afternoon &amp; succeeding night in much distress</p>
+            <p>Monday.<date>
+                  <add>Feby. 28th</add>
+                  <add>1780.</add>
+               </date> In the morning, the water rising, we got off   the shoal. after landing thirty persons  to lighten our boat. In attempting to land on an island, received some damage and lost sundry articles, and came to camp on the south shore, where we joined several other vessels also bound down.</p>
+            <p>Thursday <add>29th</add> Proceeded down the river &amp; camped on the <pb n="2" facs="sl375b.small.jpg"/> north shore, the afternoon &amp; following day proving rainy.</p>
+            <p>Wednesday <add>
+                  <date>March 1st</date>
+               </add>Proceeded on and camped on the north shore, nothing happening that day remarkable</p>
+            <p>  Thursday.  <add>
+                  <date>March 2nd</date>
+               </add>Ran about half the day, passed the mouth  of <name>French Broad river</name>: and about 12 o'clock <name>Mr Henry</name>'s boat being driven on the point of an island was sunk, the Crew's lives much endangered, and the whole cargo much damaged, which occasioned the whole fleet to put on shore and go to their assistance, but with much difficulty <choice>
+                  <orig>baild</orig>
+                  <reg>bailed</reg>
+               </choice> her out &amp; raised her, in order to take in her cargo again The same afternoon <name>Keuben Harrison</name> went out a hunting and did not return that night tho' many guns were fired to fetch him in.</p>
+            <p>Friday <add>3rd</add> Early in the morning fired a four pounder for the lost man, sent out sundry persons to search the woods for him, firing many guns that day and the succeeding night, but all without success, to the great <del type="overstrike">great</del> grief of his parents and fellow travellers. "vale! vale!" </p>
+            <p>Saturday <add>4th</add> Proceed on our voyage leaving old Mr Harrison, with some other vessels to make further search for his lost son; about 10 o'Clock found him a considerable distance down the river, where <name>Mr Ben Belew</name> took him on board his boat. <pb n="3" facs="sl375c.small.jpg"/>
+            </p>
+            <p>At 3 O'Clock P. M. passed the mouth of <name>Tennessee river</name> and camped on the south shore about 10 miles below the mouth of Tennessee.</p>
+            <p>Sunday <add>5th</add> Cast off and got under way before sun rise 12 o'clock, passed the mouth of <name>Clinch River</name>. At 3 PM. came up with the Clinch river company, whom we joined and camped, the evening proving rainy. *(Here follows the list.)</p>
+            <p>Monday. <add>6th</add> Got under way before Sunrise the morning proving very foggy, many of the fleet were much <unclear>boget</unclear> : about 10 o'Clock. lay by for them, when collected proceeded down. Camped on the north shore, where <name>
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice>
+                  <unclear>Huttbring's</unclear>
+               </name> negro man died, being much frosted in his feet and legs, of which he died.</p>
+            <p>John Donelson <choice>
+                  <abbr>sr.</abbr>
+                  <expan>senior</expan>
+               </choice>
+               <name>James Cain</name>
+               <name>Mr Cockrill</name>
+               <name>Thomas Hutchings</name>, <name>Jonathan Jennings</name>,__ <name>Stuart</name>
+               <name>John Caffery</name>. <choice>
+                  <abbr>Benjn</abbr>
+                  <expan>Benjamin</expan>
+               </choice> Belew <name>Frank Armstrong</name> John Donelson <choice>
+                  <abbr>jr.</abbr>
+                  <expan>junior</expan>
+               </choice>
+               <name>Peter Sooney</name>. <name>Hugh Rogan</name>
+               <name>James Robertsons</name>
+               <name>
+                  <add>Capt</add> John Blackmore</name>. <name>
+                  <choice>
+                     <abbr>Danl</abbr>
+                     <expan>Daniel</expan>
+                  </choice> Chambers</name> Lady &amp; Children. <name>Moses Rentfroe</name>. <name>
+                  <choice>
+                     <abbr>Robt.</abbr>
+                     <expan>Robert</expan>
+                  </choice> Cartwright</name>. <name>Mrs Purnell</name>. <name>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Crutchfield</name>. <name>David Guimose</name>. <name>M Raunsifer</name>. <name>Mr Joknes</name>. <name>John Boyd.</name>
+               <name>Isaac Neely</name>. <name>Hugh Henry Sr.</name>
+               <name>Reuben Harrison</name>. <name>John Montgomury</name>, <name>Benj Porter</name>
+               <name>Frank Hancy</name>
+               <name>John Cotton</name>. <name>Mrs Henry</name> widow. <name>John White Maxwell</name>. <name>Thomas Henry</name>. <name>Solomon White</name>
+               <pb n="4" facs="sl375d.small.jpg"/>
+            </p>
+            <p>Tuesday <add>7th</add> Got under way very early, the day proving very windy, a <choice>
+                  <abbr>S. S. W.</abbr>
+                  <expan>south south-west</expan>
+               </choice> &amp; the river being wide occasioned a high sea, in so much, that some of the smaller Crafts were in danger, therefore came to at the uppermost <name>
+                  <choice>
+                     <orig>Chickamogger</orig>
+                     <reg>Chickamauga</reg>
+                  </choice>
+               </name> Town, which was then evacuated <del type="overstrike">ed</del> , where we lay by that afternoon and camped that night. The wife of <name>Ephraim Peyton</name> was here delivered of a child. <name>Mr Peyton</name> has gone through by land with <name>Capt. Robertson</name>.</p>
+            <p>Wednesday. <add>8th</add> Cast off at 10 o'Clock and proceeded down to an Indian Village, which was inhabited, on the  south side of the river, they invited us to "come  ashore," called us brothers, and <choice>
+                  <orig>shewed</orig>
+                  <reg>showed</reg>
+               </choice> other signs of Friendship, in so much, that Mr John Coffery &amp; my son then on board took a canoe which I had in tow &amp; were crossing over to them; the rest of the fleet having landed on the opposite shore; After they had gone some distance, a half Breed who called himself <name>Archy  Coody</name> with several other Indians jumped into a canoe met  them and advised them to return to the boat, which they did with Coody and several <add>canoes</add> which left the shore and followed  directly <add>after</add> him. They appeared to be friendly. After distributing some presents among them, with which they seemed much pleased, we observed a number of Indians on the other side embarking in their canoes, armed and painted with red &amp; black. <pb n="5" facs="sl375e.small.jpg"/>
+            </p>
+            <p>
+               <del type="overstrike">Journal of a voyage, intended by Gods permission in the</del> Coody immediately made signs to his companions, ordering them to quit the boat, which they did, himself and another Indian remaining with us &amp; telling us to move off instantly. We had not gone far before we discovered a number of Indians armed and painted proceeding down the river, as it were, to intercept us, Coody the half breed &amp; his companion sailed with us for some time, &amp; telling us that we had passed all the towns &amp; were out of danger, left us. But we had not gone far untill we came in sight of another town situated likewise on the south side of the river, nearly opposite a small island. Here they again invited us to come on shore, called us brothers. &amp; observing the boats standing off for the opposite channel told us that "their side was better for boats to pass. And here we must regret the unfortunate death of young Mr Payne on board Capt Blackemores boat, who was mortally wounded by reason of the boat running too near the northern shore opposite the town where some of the enemy lay concealed &amp; the more tragical misfortune of poor Stuart, his family and friends to the number of twenty eight persons. This man had embarked with us for the western Country, but his family being diseased with the small-pox, it was agreed upon between him &amp; the company, that he should <pb n="6" facs="sl375f.small.jpg"/> Keep at some distance in the rear, for fear of the infection spreading: and he was warned each night when the encampment should take place by the sound of a horn. After we had passed the Town, the Indians, having now collected to a considerable number, observing his helpless situation, singled of from the rest of  the fleet, intercepted him &amp; killed &amp; took prisoners the whole crew, to the great grief of all the company uncertain how soon they might share the same fate; their cries were distinctly heard by those boats in  the rear. We still perceived them marching down the river in considerable bodies, Keeping pace with us until the Cumberland mountain withdrew them from our sight, when we were in hope, we had escaped them. ___ We were now arrived at the place called the Whirl or suck, where the river is compressed within: less than half its common width, above, by the Cumberland mountain, which juts in  on both sides. In passing through the upper part of these narrows, at a place described by Coody, which he termed the boiling Pot!" a trivial accident had nearly ruined the expedition. One of the Company (John Cotton) who was moving down in a large canoe had attached it to Robert Cartwrights boat, into which he and his family had gone for safety. The canoe was here overturned and the little cargo lost. <pb n="7" facs="sl375g.small.jpg"/>
+            </p>
+            <p>The company pitying his distress concluded to halt and assist him in recovering his property. They had landed on the northern shore at a level spot &amp; were going up to the place, when the Indians to our astonishment appeared immediately over us on the opposite cliffs &amp; commenced firing down upon us, which occasioned a precipitate retreat to the boats. We immediately moved off the Indians lining the Bluffs along continued their fire from the heights on our boats below, without doing any other injury than wounding four slightly. Jenning's boat is missing. We have now passed through the whirl. The river widens with a placid &amp; gentle current And all of the company appear to be in safety except the family of Jonathan Jennings, whose boat ran on a large rock projecting out from the northern shore and partly immersed in water immediately at the whirl, where we are compelled to leave them perhaps to be slaughtered by their merciless enemies. Continued to sail on that day and floated throughout the following night.</p>
+            <p>Thursday. <add>9th</add> Proceed on our journey, nothing happening worthy attention to day. floated till about midnight, &amp; encamped on the northern shore.</p>
+            <p>Friday. <add>10th</add> This morning about 4 o'clock we were surprised by the cries of help poor Jennings! at <pb n="8" facs="sl375h.small.jpg"/> some distance in the rear. He had discovered us by our fires, and came up in the most wretched condition. He states that as soon as the Indians discovered his situation. they turned their' whole attention to him &amp; Kept up a most galling fire on his boat. He ordered his wife, a son nearly grown, a young man who accompanied him, &amp; his two negroes to throw all his goods into the river, to lighten their boat for the purpose of getting her off, himself returning their fire as well as he could (being a good soldier and an excellent marksman). But before they had accomplished their object, his son, the young man, &amp; the negro man jumped out of the boat &amp; left them. He thinks the young man &amp; the negro were wounded before they left the boat. Mrs Jennings, however, &amp; the negro woman succeeded in unloading the boat, but chiefly by the exertions of Mrs Jennings, who got out of the boat and showed her off, but was near falling a victim to her own intrepidity on account of the boat starting so suddenly, as soon as loosened from the rock. Upon examination he appears to have made a wonderful escape, for his boat is pierced in <choice>
+                  <orig>numberles</orig>
+                  <reg>numberless</reg>
+               </choice> places with bullets It is to Be remarked that Mrs Peyton who was the night before delivered of an infant, which was unfortunately Killed in the hurry &amp; confusion consequent upon such a disaster, <pb n="9" facs="sl375i.small.jpg"/> assisted them, being frequently exposed to wet &amp; cold  then and afterwards, and that her health appears to be good at this time, &amp; I think &amp; hope she will do well.</p>
+            <p>Saturday <add>11th</add> Got under way, after <del type="overstrike">after</del> distributed the family of Mr Jennings in the other boats. moved on quietly that day and encamped for the night on the northern shore.</p>
+            <p>Sunday. <add>12th</add> Set and after a few hours sailing we heard the crowing of cocks, &amp; soon came within view of the Town, here they fired on us again without doing any injury. After running untill about 10 o'Clock. came in sight of the <name>Muscle Shoals</name>. Halted on the northern shore at the upper end of the shoals in order to search for the signs <name>Capt. Jame Robertson</name> was to make for us at that place. He set out from Holston early in the fall of 1779,  was to proceed by the way of <name>Kentucky</name> to the big Salt Lick on <name>Cumberland river</name>; with several others in company was to come a cross from the big Salt Lick to the upper end of the shoals, there to make such signs that we might Know he had been there, &amp; that it was practicable for us to go across by land. But to our great mortification we can find none. From which we concluded that it would not be prudent to make the attempt, and are determined, Knowing ourselves to be in such imminent danger, to <pb n="10" facs="sl375j.small.jpg"/>  pursue our journey down the river After trimming our boats in the best manner possible we ran through the shoals before night. When we approached them they had a <choice>
+                  <orig>dredful</orig>
+                  <reg>dreadful</reg>
+               </choice> appearance to those who had never seen them before. The water being high made a terrible roaring, which could be heard at some distance, among the drift wood heaped frightfully upon the points of the islands; the current running in every possible direction. Here we did not Know how soon we should be dashed to pieces and all our troubles  ended at once. Our boats frequently dragged on the bottom. And appeared constantly in danger of striking. They washed as much as in a rough sea. But by the hand of Providence we are now preserved from this danger also. I know not the length of this wonderful <choice>
+                  <orig>sholl</orig>
+                  <reg>shoal</reg>
+               </choice> ; it had been represented to me to be 25 or 30 miles: If so we must have descended very rapidly, as indeed we did, for we passed it in about three hours. Came to &amp; camped on the northern shore <add>not</add> far below the shoals for the night.</p>
+            <p>Monday. <add>13th</add> Got under way early in the morning and made a good run on that day.</p>
+            <p>Tuesday. <add>14th</add> Set out early. On this day two boats approaching too near the shore were fired on by the Indians. Five of the crews were wounded but not dangerously. Came to camp at night near the mouth of a creek. After <pb n="11" facs="sl375k.small.jpg"/>
+               <del type="overstrike">on the south side of the</del> Kindling fires and preparing for rest, the company were alarmed, on account of the incessant barking our dogs Kept up, taking it for granted that the Indians were attempting to surprise us, &amp; retreated  precipitately to the boats, fell down the river about a mile, &amp; encamped on the other shore. In the morning I prevailed on Mr Coffery &amp; my son to cross below in a canoe, to return to the place; which they did, &amp; found an African negro, we had left in the hurry, asleep by one of the fires. The Voyagers then returned &amp; collected their utensils, which had been left.</p>
+            <p>Wednesday. <add>15th</add> Got under way &amp; moved on <choice>
+                  <orig>peacably</orig>
+                  <reg>peaceably</reg>
+               </choice> the five following days, when we arrived at the mouth of the Tennessee, on monday 20th &amp; landed on the lower point immediately on the bank of the <name>Ohio</name>. Our situation here is truly disagreeable. The river is very high and the current rapid. Our boats not constructed for the purpose of stemming a rapid stream. Our provision exhausted. The crews almost worn down with hunger and fatigue. And Know not what  distance we have to go or what time it will take us to our place of destination. The scene is rendered  still more melancholy; as several boats will not attempt to ascend the rapid current. Some intend to descend the <name>Mississippi</name> to <name>Natchez</name>: others are bound for the <name>Illinois</name>. Amongst <add>the rest</add> my son in law &amp; daughter. We now part, perhaps to meet no more, for I am determined to pursue my course, happen what will. <pb n="12" facs="sl375l.small.jpg"/>
+            </p>
+            <p>Tuesday. <add>21st.</add> Set out &amp; on this day labored very hard &amp; got but a little way. Camped on the south bank of the Ohio. Passed the two following days as the former suffering much from hunger &amp; fatigue.</p>
+            <p>Friday. <add>24th</add> About 3 o' <choice>
+                  <abbr>clk.</abbr>
+                  <expan>clock</expan>
+               </choice> came to the mouth of a river which I thought was the Cumberland. Some of the company declared it could not be, it was so much smaller than was expected. But I never heard of any river running in between the Cumberland &amp; Tennessee. It appeared to flow with a gentle current. We determined however to make the trial. Pushed up some distance &amp; encamped for the night.</p>
+            <p>Saturday. <add>25th</add> To day we are much encouraged. The river grows wider. The current is very gentle. And we are now convinced it is the Cumberland. I have derived great assistance from a small square sail which was fixed up on the day we left the mouth of the river. And to prevent any ill effects from sudden flows of wind, a man was stationed at each of the lower corners of the sheet, with directions to give way whenever it was necessary,</p>
+            <p>Sunday. <add>26th</add> Got under way early. Procured some <choice>
+                  <orig>Buffaloe</orig>
+                  <reg>Buffalo</reg>
+               </choice> meat: <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> poor it was palatable.</p>
+            <p>Monday. <add>27th</add> Set out again. Killed a swan, which was very delicious.</p>
+            <p>Tuesday. <add>28th</add> Set out early this morning. Killed some Buffaloe. <pb n="13" facs="sl375m.small.jpg"/>
+            </p>
+            <p>Wednesday. <add>29th</add> . Proceeded up the river. Gathered some herbs in the bottoms of Cumberland, which some of the Company called a <name>
+                  <choice>
+                     <orig>Shawanee</orig>
+                     <reg>Shawnee</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <orig>sallad</orig>
+                  <reg>salad</reg>
+               </choice> .</p>
+            <p>Thursday . <add>30th</add> Proceeded on our voyage. This day we killed some more Buffaloe.</p>
+            <p>Friday. <add>31st</add> Set out this day and after running some distance met with <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Richard Henderson</name>, who was running the line between. <name>Virginia</name> and <name>North Carolina</name>. At this meeting we were much rejoiced. He gave us every information we wished. And further informed us that he had purchased a quantity of corn in Kentucky to be shipped at the falls of the Ohio for the use of the Cumberland settlement. We are now without bread and are compelled to hunt the Buffaloe to preserve life. Worn out with fatigue our progress at present is slow. Camped at night near the mouth of a little river at  which place and below there is handsome bottom of rich land. Here we found a pair of hand-mill stones set up  for grinding, but appeared not to have been used for a great length of time. Proceeded on quietly untill the <date>12th of April</date> at which time we came to the mouth of a little river running in on the north side, by Moses Rentfroe &amp; his company called <name>Red River</name>, up which they intend to settle. <pb n="14" facs="sl375n.small.jpg"/> Here they took leave of us. We proceeded up Cumberland; nothing happening material untill the 23rd  when we reached the first settlement on the north side of the river, one mile &amp; half below the Big Salt Lick, and called <name>Eaton's  station</name> after a man of that name, who with several other families came through Kentucky &amp; settled there.</p>
+            <p>Monday. <date>
+                  <add>April 24th</add>
+                  <add>1780.</add>
+               </date> This day we arrived at our journey's end at the Big Salt Lick. Where we have the pleasure of finding Capt. Robertson &amp; his company. It is a source of satisfaction to us to be enabled to restore to him &amp; others their families &amp; friends, who were entrusted to our care, &amp; who, some time since, perhaps <choice>
+                  <orig>dispaired</orig>
+                  <reg>despaired</reg>
+               </choice> of ever meeting again. Tho our prospects at present are dreary, We herefound a few log Cabins which have been built on a Cedar Bluff above the Lick by Capt. Roberson and his company.___ <pb n="15" facs="sl375o.small.jpg"/>
+               <add>Copied <add>from the original</add> by his son Capt John <choice>
+                     <abbr>D</abbr>
+                     <expan>Donelson</expan>
+                  </choice> - who was in the Good Boat Adventure with his bride <lb/>
+                  <name>Mary Ornell</name>
+               </add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

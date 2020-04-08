@@ -1,0 +1,104 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl224">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Apr. 5 [to] Mary House / George W. House   : a machine readable transcription of an image</title>
+            <author>House, George W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl224</idno>
+            <idno>OCLC: 51217476</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Apr. 5 [to] Mary House / George W. House</title>
+               <author>House, George W. </author>
+               <date when="1848-04-05">April 5, 1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated April 5, 1848 from George W. House to his wife Mary. George writes that he will be on a one day trip to see a patient who cannot travel due to asthma and cancer.</note>
+               <note type="collection" anchored="true">Orr Collection-IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl224</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Commuication in the family</term>
+               <term>Medical care</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, George W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl224a.small.jpg"/>
+            <opener>
+               <salute>Dearest Mary</salute>
+            </opener>
+            <p>As there are but few who shed much ink in token of their regards for one so lovely— the task devolves again upon one, who has devoted much time, ink and paper, in that way—</p>
+            <p>I am at this moment called to visit an old lady at <name type="place">Franklin</name> who cannot possibly come to <name type="place">Nashville</name>, and who is with cancer and asthma, the writer <name type="person">William S. Campbell</name>, urges me to come soon, and says she is abundantly able to pay all charges for my trouble and <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </p>
+            <p>I think it probable that I may go sometime this week— Should I do so— I wish to make the trip in a single day, and will endeavor to do so—</p>
+            <p>When you go out to Morts, tell Em if there is anything she wishes me to buy for her in market to let me know and I will endeavor to procure it for her with the best of my ability— Thou who art ever present upon the tablets of my memory, and seated in the arm chair of my affections— once more adieu</p>
+            <closer>
+               <salute>Your loving husband</salute>
+               <signed>George</signed>
+               <date when="1848-04-05">April 5/48</date>
+               <pb n="2" facs="sl224b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Ms Mary House</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

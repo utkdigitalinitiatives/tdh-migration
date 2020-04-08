@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl626">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1848 Jul. 21, Carthage, Tennessee / J[ames] C. Jones: a machine readable transcription of an image</title>
+            <author> Jones, James C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl626</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1848 Jul. 21, Carthage, Tennessee / J[ames] C. Jones</title>
+               <author> Jones, James</author>
+               <date when="1848-07-21">July 21, 1848</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a statement by Governor James C. Jones dated July 21, 1848. He states that the militia company the Mountain Boys has their uniforms.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl626 </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Military supplies</term>
+               <term>Jones, James C.</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90007847"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Jones, James C. (James Chamberlain), 1809-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl626a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <date>July 21s 1848</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>I <choice>
+                  <abbr>J</abbr>
+                  <expan>James</expan>
+               </choice> C Jones <choice>
+                  <orig>Govenor</orig>
+                  <reg>Governor</reg>
+               </choice> of <choice>
+                  <abbr>Tenn</abbr>
+                  <expan>Tennessee</expan>
+               </choice> I hereby certify that the company of Volunteers called the Mountain Boys attached to the 52d regiment of the <name>Tennessee</name> militia is in complete uniform <choice>
+                  <orig>concisting</orig>
+                  <reg>consisting</reg>
+               </choice> of forty five rank &amp; file given under my <unclear>Kand</unclear> in Carthage on the 21s July 1843</p>
+            <closer>
+               <add>
+                  <name>Albert H Ross</name>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel </expan>
+                  </choice>
+                  <lb/>
+                  <choice>
+                     <abbr>commdt</abbr>
+                     <expan>commandant</expan>
+                  </choice> of 52nd <lb/> Regiment of <choice>
+                     <abbr>T.M</abbr>
+                     <expan>Tennessee Militia</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

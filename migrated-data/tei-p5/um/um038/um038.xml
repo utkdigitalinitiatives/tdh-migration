@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Aug. 1, Salem, Miss[issippi] [to] Mr [Howell] Taylor, near Summerville, Tenn[essee] / John D. Alexander : a machine readable transcription of an image</title>
+            <author>Alexander, John D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um038</idno>
+            <idno>OCLC: 50280996</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Aug. 1, Salem, Miss[issippi] [to] Mr [Howell] Taylor, near Summerville, Tenn[essee] / John D. Alexander</title>
+               <author>Alexander, John D.</author>
+               <date when="1846-08-01">August 1, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by John D. Alexander to Howell Taylor on August 1, 1846. In the letter, Alexander informs Taylor that the Female Academy has a new principal by the name of Mr. C. A. Sprague, who plans to invite a Miss Goode to fill the position of director of the Department of Music.</note>
+               <note type="collection" anchored="true">Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1836-1847)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um038</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>College teachers</term>
+               <term>Mississippi</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Alexander, John D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um038a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr Taylor</name>
+                  </addrLine>
+                  <addrLine>Near <name type="place">Summerville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left of address">Introducing <name type="person">Mr. C. A. Sprague</name> }</add>
+               <pb n="2" facs="um038b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Salem <choice>
+                           <abbr>Miss</abbr>
+                           <expan>Mississippi</expan>
+                        </choice>
+                     </name>
+                     <date when="1846-08-01">
+                        <choice>
+                           <abbr>Aug</abbr>
+                           <expan>August</expan>
+                        </choice> 1st 1846</date>
+                  </addrLine>
+               </address>
+               <salute>Mr Taylor Sir</salute>
+            </opener>
+            <p>Permit me to introduce to your acquaintance <name type="person">Mr C. A. Sprague</name>; who was elected principal of our Female Academy today. Having seen a Communication of yours to <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Saunder's</name> of this place, stating that <name type="person">Miss Goode</name> would accept of the Department of Music if we elected another Teacher. I informed Mr Sprague of her wishes and the perfect satisfaction she gave during her short stay with <name type="person">Mr Vaughn</name>, as well as the high esteem in which she was held by all of her acquaintances. And he immediately determined to secure her services. Any attention that you may show Mr Sprague will be thankfully <choice>
+                  <orig>acknowleged</orig>
+                  <reg>acknowledged</reg>
+               </choice> I assure you that you will find him the perfect gentleman, and he has <choice>
+                  <orig>reccommendations</orig>
+                  <reg>recommendations</reg>
+               </choice> from men of the highest standing in this country that speak in the most favorable tone of his unexceptionable moral deportment, as also his <choice>
+                  <orig>intelectual</orig>
+                  <reg>intellectual</reg>
+               </choice> accomplishments. Please present my respects to Miss Goode, wishing that she may once more be among us.</p>
+            <closer>
+               <salute>I remain your <choice>
+                     <abbr>Mst Obt Servt</abbr>
+                     <expan>Most Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> D. Alexander</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

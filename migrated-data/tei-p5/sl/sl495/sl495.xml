@@ -1,0 +1,166 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl495">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1817 Dec., Washington City [to James Winchester]   : a machine readable transcription of an image</title>
+            <author>[unknown]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl495</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1817 Dec., Washington City [to James Winchester] </title>
+               <author>[unknown]</author>
+               <date when="1817-12">December 1817</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated December 1817. The author is unknown, but  the recipient is probably James Winchester. The author is describing the hardships inflicted during the War of 1812, from both British and Native American combatants. Some of the people suffering are unknown, but one may be Winchester himself and a family by the name of Navarne.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl495</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>War of 1812</term>
+               <term>Indians of North America</term>
+               <term>Stressful life events</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">unknown</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl495a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Washington City</name>
+                     <date>
+                        <choice>
+                           <abbr>Decb</abbr>
+                           <expan>December</expan>
+                        </choice> 1817</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Hond</abbr>
+                     <expan>Honored</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>
+               <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <name>Francois Navarne</name> of the <name>River Raisin</name> Sent by me your <choice>
+                  <orig>spectecels</orig>
+                  <reg>spectacles</reg>
+               </choice> &amp; pen knife, with Col. H. <gap/> for the watch, which he said  <gap/> to you, <name>Mrs Navarne</name> Saved them by <choice>
+                  <orig>puting</orig>
+                  <reg>putting</reg>
+               </choice> th <gap/> in <choice>
+                  <orig>hir busom</orig>
+                  <reg>her bosom</reg>
+               </choice> , at the time the Indians was <unclear>pilaging</unclear> and destroying your property and his, I have delivered them all to the <choice>
+                  <abbr>Honobl</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <name>Mr Hoy</name> a member from your State, which I hope he will deliver to <gap/> have now to request in the <gap/> that you will be so kind as to forward a <choice>
+                  <orig>certificet</orig>
+                  <reg>certificate</reg>
+               </choice> under oath, that you had a Military deposit in his house, which will enable him to be paid as <unclear>the law</unclear> directs; for I have the other evidence at this place to establish his claim, when <choice>
+                  <orig>thay</orig>
+                  <reg>they</reg>
+               </choice> found your <unclear>prop and</unclear>
+               <pb n="2" facs="sl495b.small.jpg"/> and that of the public, in his house, all his property was taken &amp; destroyed  with it, and and his life <choice>
+                  <orig>thratned cauling</orig>
+                  <reg>threatened calling</reg>
+               </choice> him a bigknife; &amp; that he <choice>
+                  <orig>cauled</orig>
+                  <reg>called</reg>
+               </choice> the Troops to that place <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> . He has suffered very much Since that time by the British &amp; Indians, had to <gap/> his escape to <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Harrison</name>
+               <gap/> his family to <unclear>there</unclear> money, I presume you know that his two horses was taken that fatal morning by the officers which was with you; be so good to enclose the certificet as Soon as possible, as the <unclear>law</unclear> expires next April, and I wish to <unclear>leave so soon</unclear>  as I can; I was requested by the poor suffor <gap/> to leave my home to procure Some relief for them I was a <choice>
+                  <orig>neighbour</orig>
+                  <reg>neighbor</reg>
+               </choice> of the Col. for ten years before   the war and by misfortune <choice>
+                  <abbr>Comd</abbr>
+                  <expan>Commanded</expan>
+               </choice> the <choice>
+                  <abbr>Regmt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> at that place on the day of that long to be remembered, <del type="overstrike">day</del> that Genl <pb n="3" facs="sl495c.small.jpg"/>
+               <unclear>Genl</unclear>
+               <gap/> capitulated to the British.</p>
+            <p>Please excuse this liberty from a <unclear>Stranger</unclear>
+            </p>
+            <closer>
+               <salute>I have the <choice>
+                     <abbr>Honr</abbr>
+                     <expan>Honor</expan>
+                  </choice> to <unclear>subs</unclear>
+                  <lb/> my self your most <choice>
+                     <abbr>obed. svt.</abbr>
+                     <expan>obedient servant </expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <gap/>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

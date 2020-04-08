@@ -1,0 +1,113 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl173">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Election Notice] 1815 Aug. 13, Columbia, [TN] [to Governor] Willie Blount / [verified and sent  by] James Brown   : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl173</idno>
+            <idno>OCLC: 51165298</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Election Notice] 1815 Aug. 13, Columbia, [TN] [to Governor] Willie Blount / [verified and sent  by] James Brown</title>
+               <date when="1815-08-14">August 13, 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a notice of the election of military officers held in Columbia, TN on Aug. 13, 1815. It is verified by James Brown and sent to Governor Willie Blount on Aug. 14, 1815</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">83-86</note>
+               <note type="document" anchored="true">sl173</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal Documents</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl173a.small.jpg"/>
+            <p>We the undersigned Judges of an Election held in the town of <name type="place">Columbia</name> on the <date when="1815-08-13">13th Day of August 1815</date>, Do Certify that <name type="person">George Cockburne</name> is Duly Elected Captain in said Company in the place of  <unclear/> resigned, and that <name type="person">Hugh McDougle</name> is legally Elected Lieutenant in said Company in the place of <name type="person">
+                  <choice>
+                     <abbr>Geo.</abbr>
+                     <expan>George</expan>
+                  </choice> Campbell</name> resigned, according to a writ of — Election issued <unclear>by</unclear>
+               <name type="person">Lt. Joseph Brown</name> Colonel of the 27th  <choice>
+                  <orig>Regement</orig>
+                  <reg>Regiment</reg>
+               </choice> Sworn to and subscribed this Day and Date above written</p>
+            <closer>
+               <signed>
+                  <name type="person">John Hodge W</name>
+               </signed>
+               <signed>
+                  <name type="person">L B Mangrem</name>
+               </signed>
+               <signed>
+                  <name type="person">Jethro Joyne</name>
+               </signed>
+               <add place="under signatures">I Do Certify that ⁁ <add place="supralinear">the</add> above Was legally held according to My Order given under my hand <date when="1815-08-14">14th august 1815 </date>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jas,,</abbr>
+                        <expan>James</expan>
+                     </choice> Brown</name> LCC <lb/> 27th <choice>
+                     <abbr>Regt.</abbr>
+                     <expan>Regement</expan>
+                  </choice> T.M</add>
+               <pb n="2" facs="sl173b.small.jpg"/>
+               <address>
+                  <addrLine>His Excellency <name type="person">Willie Blount</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

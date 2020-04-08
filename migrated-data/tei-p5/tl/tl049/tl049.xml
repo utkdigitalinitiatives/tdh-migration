@@ -1,0 +1,208 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 July 15, Knoxville, [Tennessee, to] Hon[ora]ble
+			 John Steele / John Sevier: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl049</idno>
+            <idno>OCLC: 47832615</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 July 15, Knoxville, [Tennessee, to] Hon[ora]ble
+				John Steele / John Sevier: a machine-readable transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1798-07-15">July 15, 1798</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter from Governor John
+				Sevier (1796-1801, 1803-1809) to John Steele, written on July 15, 1798. Sevier
+				states that the treaty with the Cherokees has failed and that some of the state
+				commissioners would not be returning for the next treaty meeting. Sevier asks
+				Steele to appoint one or two commissioners from the state to take their place,
+				specifically asking for General James Robertson to be one of the
+				commissioners.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">6</note>
+               <note type="Document">tl049</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl049a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1798-07-15">15 July 1798</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr.</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>
+               <del type="overstrike">In</del> the first <choice>
+                  <orig>seting</orig>
+                  <reg>setting</reg>
+               </choice> out of the treaty <del type="overstrike">it</del>
+		  has failed, And it is adjourned Until the 
+		  <date when="--09-03">third of 
+			 <choice>
+                     <abbr>Sepr</abbr>
+                     <expan>September</expan>
+                  </choice>
+               </date>. <del type="overstrike">I
+		  am sorry to inform you, that</del> this has disappointed numbers, and others
+		  rejoice  I am informed that one or two of the commissioners do not mean
+		  to attend at the next meeting, if it should be the case, pray my dear friend
+		  permit me to <del type="overstrike">
+                  <unclear>unk</unclear>
+               </del>
+               <add place="supralinear">Solicit</add> your interest to have some person
+		  Appointed out of this State; two would be better if possible  It would
+		  relieve <add place="supralinear">effectually</add> the friend out from
+		  implications in case of failure, and on the other hand,
+		  <add place="supralinear">be</add> the means of Accomplishing the objects
+		  contemplated by the treaty if so desired, <del type="overstrike">would be
+		  Almost certain of Tennessee</del>
+            </p>
+            <p>I have reason to believe the Commissioners and their endeavors to
+			 Accomplish the objects of their mission As <del type="overstrike">well</del>
+               <add place="supralinear">also</add>, feel themselves much hurt at the
+		  disappointment, <del type="overstrike">but</del> they are gentlemen
+		  <choice>
+                  <orig>Wholy</orig>
+                  <reg>wholly</reg>
+               </choice> unacquainted with the Indians, and
+		  <choice>
+                  <orig>there</orig>
+                  <reg>their</reg>
+               </choice> manner <del type="overstrike">of doing</del>
+               <add place="supralinear">in which such</add> business is to be conducted,
+		  therefore little I fear, is to be expected from either of them alone; permit
+		  one to name to you 
+		  <name type="person">General James Robertson</name> as a very suitable
+		  person to act as one of the Commissioners</p>
+            <closer>
+               <salute>I have the honor to be  
+				<choice>
+                     <abbr>C</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <lb/>
+               <signed>
+                  <add>
+                     <name type="person">John Sevier</name>
+                  </add>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Honble</abbr>
+                           <expan>Honorable</expan>
+                        </choice> John
+					 Steele</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="tl049b.small.jpg"/>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Honble</abbr>
+                     <expan>Honorable</expan>
+                  </choice> John
+				Steele</name>
+               <lb/>
+               <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <unclear>unk</unclear> to <lb/>			 Indian treaty <lb/>
+               <date when="1798-07-15">15 July 1798</date>
+               <lb/>
+               <hi rend="underlined">post</hi>
+               <lb/>
+               <add>
+                  <choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice> 11</add>
+               <lb/>
+               <add>Recorded</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

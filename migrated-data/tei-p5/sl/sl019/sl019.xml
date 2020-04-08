@@ -1,0 +1,179 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Jan.  30, City of Washington [to] Rachel Jackson, near Nashville, Tennessee / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl019</idno>
+            <idno>OCLC: 50014057</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Jan.  30, City of Washington [to] Rachel Jackson, near Nashville, Tennessee / Andrew Jackson </title>
+               <author>Jackson, Andrew</author>
+               <date when="1819-01-30">January 30, 1819</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Andrew Jackson to his wife Rachel on January 30, 1819. In the letter, Jackson discusses the political atmosphere surrounding him in Washington and that he has both allies and opponents in the government.</note>
+               <note type="collection" anchored="true">Andrew Jackson Letters</note>
+               <note type="box" anchored="true">Correspondence by Author, b1</note>
+               <note type="folder" anchored="true">J</note>
+               <note type="document" anchored="true">sl019</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl019a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">City of Washington</name>
+                     <date when="1819-01-30">
+                        <choice>
+                           <abbr>Janry</abbr>
+                           <expan>January</expan>
+                        </choice> 30th. 1819</date>
+                  </addrLine>
+               </address>
+               <salute>My Love</salute>
+            </opener>
+            <p>I am this moment relieved from company 10 <choice>
+                  <orig>oclock</orig>
+                  <reg>o'clock</reg>
+               </choice>, which gives me a moment to write you — The question before Congress is not yet nor do I believe it will be decided for some days every day the debate <del type="overstrike">has</del> becomes, I am told more animated, for <choice>
+                  <abbr>altho</abbr>
+                  <expan>although</expan>
+               </choice> here I never approach the house, I have a large majority in my <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> &amp; the open &amp; declared, full approbation of the president, &amp; that of <name type="person">Mr Jefferson</name>, Mr Jeffersons letter has been <choice>
+                  <orig>shewn</orig>
+                  <reg>shown</reg>
+               </choice> me —</p>
+            <p>
+               <name type="person">Mr Clay</name> has entered into the combination <name type="person">Mr Lounds</name> of <name type="place">
+                  <choice>
+                     <abbr>So.</abbr>
+                     <expan>South</expan>
+                  </choice> Carolina</name> has followed, their intention was to destroy the president through me &amp; no doubt exists in my mind of the coalition of <name type="person">Crawford</name> &amp; Clay to oust <name type="person">Mr <choice>
+                     <orig>Munroe</orig>
+                     <reg>Monroe</reg>
+                  </choice>
+               </name> of his next election, but thank <choice>
+                  <orig>god</orig>
+                  <reg>God</reg>
+               </choice> instead of destroying Mr <choice>
+                  <orig>Munroe</orig>
+                  <reg>Monroe</reg>
+               </choice> &amp; myself, they have destroyed themselves — all the <name type="place">
+                  <choice>
+                     <abbr>K.</abbr>
+                     <expan>Kentucky</expan>
+                  </choice>
+               </name> delegation with the exception of Clay support me. <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Johnston</name> I feel much indebted to for his firmness on the present question <pb n="2" facs="sl019b.small.jpg"/> and <name type="person">Crittenden</name> in the Senate is much my friend, I am ably defended, and perhaps it is the most fortunate moment of my life that I came here — I suppose if health permits I shall <choice>
+                  <orig>vissit</orig>
+                  <reg>visit</reg>
+               </choice>
+               <name type="place">
+                  <choice>
+                     <orig>Newyork</orig>
+                     <reg>New York</reg>
+                  </choice>
+               </name> &amp; <name type="place">West Point</name>. I shall write you as soon as the question is decided — My Love how it grieves me to be absent from you, but I shall return as early as I can, I can say nothing as to my farm &amp; other business, I hope the overseer is there he must conduct for the best — I enclose you a letter from <name type="person">Mrs. Hayne</name> — I am so pressed with invitations from <name type="place">Baltimore</name>
+               <name type="place">Philadelphia</name> &amp; <choice>
+                  <orig>Newyork</orig>
+                  <reg>New York</reg>
+               </choice> that I suppose I must <choice>
+                  <orig>vissit</orig>
+                  <reg>visit</reg>
+               </choice> them before I return — I have enclosed some papers to <name type="person">Major Lewis</name>, that I have requested him to give you the perusal, I know they will be <choice>
+                  <orig>gratefull</orig>
+                  <reg>grateful</reg>
+               </choice> to you — My love spend what time you can with your friends, amuse yourself as much as you can, &amp; take care of my little ones, kiss my son &amp; little ward &amp; receive my blessing</p>
+            <closer>
+               <salute>I am <choice>
+                     <abbr>yr</abbr>
+                     <expan>your</expan>
+                  </choice> affectionate husband</salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <emph>
+                        <name type="person">Mrs. Rachel Jackson</name>
+                     </emph>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sl019c.small.jpg"/>
+               <address>
+                  <addrLine>Mrs. Rachel Jackson</addrLine>
+                  <addrLine>near <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">Mail }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

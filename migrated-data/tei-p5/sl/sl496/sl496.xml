@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl496">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1823 Feb. 19, New Orleans, Louisiana [to] James Winchester, Cairo, Tennessee / Breedlove, Bradford &amp; Robison   : a machine readable transcription of an image</title>
+            <author>Breedlove, Bradford &amp; Robison</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl496</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1823 Feb. 19, New Orleans, Louisiana [to] James Winchester, Cairo, Tennessee / Breedlove, Bradford &amp; Robison</title>
+               <author>Breedlove, Bradford &amp; Robison</author>
+               <date when="1823-02-19">February 19, 1823</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 19, 1823 from Breedlove, Bradford &amp; Robison in New Orleans, Louisiana to James Winchester in Cairo, Tennessee.  The writers of the letter express regret that Winchester is investing in Tobacco cultivation, they tell him his prospects for profit are dim considering that currently there is a large supply and little demand.  Instead, they urge Winchester to consider Cotton as a wise investment in place of tobacco.  They also give him news of the sinking of the S.R. Tennessee in the Mississippi river above Natchez.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl496</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Cotton</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Breedlove, Bradford and Robison</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl496a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>New Orleans</addrLine>
+               </address>
+               <date>19 <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice> 1823</date>
+               <salute>General Winchester <choice>
+                     <abbr>dr</abbr>
+                     <expan>dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>The cash advances required of us shall be cheerfully made and in the way desired. </p>
+            <p>We seriously regret to hear that you are again dealing in the article of Tobacco,  because  it has long been a loosing business to those who <gap agent="damage"/> been engaged in the <choice>
+                  <orig>traffick</orig>
+                  <reg>traffic</reg>
+               </choice>, and now presents a more gloomy prospect than it had even yet done within our recollection__ The stock on hand abroad is unusually larger__ the demand small indeed and rates wonderfully <unclear>reduced</unclear>__ here there is remaining of the old crop, fully three thousand hogsheads, the new crop arriving, the price at least one cent <choice>
+                  <abbr>pr</abbr>
+                  <expan>per</expan>
+               </choice> pound larger than it was last year at this time, and no possibility of selling readily <unclear>even</unclear> at low prices and on very extensive credits.</p>
+            <p>Cotton affords some inducement to the investors of funds and we recommend it to your consideration exclusively__ it is in command of 9<choice>
+                  <abbr>C</abbr>
+                  <expan>cents</expan>
+               </choice> 91/2 for <name>Tennessee</name>
+               <pb n="2" facs="sl496b.small.jpg"/> and <name>alabama</name>, with on return demand and in cash payments__.  Surely it presents a more alluring prospect to dealers than Tobacco does.   No other article of Western produce deserves notice, and those who do <unclear>trust</unclear> them will experience a losing business.</p>
+            <p>It becomes our painful duty to announce the loss of the <name>S.R Tennessee</name>__ on her to voyage hence  to <name>Louisville</name> at half past 9 <choice>
+                  <abbr>oclk</abbr>
+                  <expan>O'clock</expan>
+               </choice> on the night of saturday <choice>
+                  <orig>eigth</orig>
+                  <reg>eighth</reg>
+               </choice> instant, she unfortunately struck a <unclear>Sarryen</unclear> in the <name>Mississippi</name> river about two hundred miles above <name>natchez</name> and sunk immediately__ there were about 180 passengers <del type="overstrike">abourd</del> on hand who succeeding in effecting their escape, with the exception of 30 drowned, without luggage or anything else__ </p>
+            <p>We are encouraged by the opinions of some experienced pilots to expect a recovery of her Engine at low water, and some suppose that the Rout may be <unclear>regained</unclear>
+            </p>
+            <p>The loss is really a sore one, but we are <pb n="3" facs="sl496c.small.jpg"/> bearing it in a manly way and are driving on in business__ our audit is not effected here by any means, and if we can retain the confidence of our friends in the wish all will progress well.  many persons hearing of the disaster, and on whom we had no claims of the kind, came forward and generously offered their friendship and some the extent of their credit <gap agent="damage"/>
+            </p>
+            <closer>Respectfully yours <signed>Breedlove, Bradford &amp; Robison</signed>
+               <pb n="4" facs="sl496d.small.jpg"/>
+               <add>
+                  <name>Breedlove, Bradford &amp; Robison</name>
+                  <date>19th february 1823</date> 25</add>
+               <address>
+                  <addrLine>General James Winchester Cairo Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

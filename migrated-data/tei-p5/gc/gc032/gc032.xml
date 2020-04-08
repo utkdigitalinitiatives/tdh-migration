@@ -1,0 +1,158 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Feb. 22, Bayou Robert, [LA]  [to] James King, Murfreesboro, Tennessee / Tho[mas] O. Moore : a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc032</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Feb. 22, Bayou Robert, [LA] [to] James King, Murfreesboro, Tennessee / Tho[mas] O. Moore</title>
+               <author>Moore, Thomas O.</author>
+               <date when="1836-02-22">February 22, 1836</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true"> This is a letter dated February 22, 1836 from Thomas Moore to his cousin James King.  Moore asks King to keep him updated on the current prices of slaves in King's area and of the prospects he has for his crops. </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1836</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">gc032</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Slavery</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc032a.small.jpg"/>
+            <opener>
+               <add>T.O. Moore <lb/> 1836</add>
+               <address>
+                  <addrLine>
+                     <name>Captain James M King</name>near <name>Murfreesboro</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>mail</add>
+               <add place="top left corner of envelope">
+                  <figure>
+                     <figDesc>postmark: Feb. 26, Alexandria, LA</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc032b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Bayou Robert</name>
+                  </addrLine>
+               </address>
+               <date>22nd February 1836</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> Your esteemed favor of the 19th <choice>
+                  <abbr>ult.</abbr>
+                  <expan>ultimo</expan>
+               </choice> Came to hand yesterday was much  pleased to hear of the good health of you family, &amp; friends generally.</p>
+            <p>I wrote you a few days since and should not have written again so soon but you regret on paper so much your neglect in writing that I thought I would try you again.  You found us all in fine health &amp; spirits, having just received intelligence that the <choice>
+                  <orig>Parley</orig>
+                  <reg>Parlez</reg>
+               </choice> Vous had paid the first <choice>
+                  <orig>instalment</orig>
+                  <reg>installment</reg>
+               </choice>  on the indemnity due <add>some of</add> our Citizens that they have tried &amp; failed to swindle <name>old Hickory</name> out of,  but when they found the old fellow had raised his bristles and gritted his gums they crouched and did as they were bid, in consequence of which Cotton has taken a little rise now from 13<choice>
+                  <abbr>c</abbr>
+                  <expan>cents</expan>
+               </choice>  to 18c   and <unclear>brisk</unclear>, mine is all sold except 42 bales my crop will <choice>
+                  <orig>neat</orig>
+                  <reg>net</reg>
+               </choice> me $13,000 two or three hundred, I am planting a little more land this year in Cotton &amp; hope to make a better crop, should it so happen that I cant visit you this <add>spring</add>  which is uncertain, and the prospects of my <add>crop</add> good the latter part of <choice>
+                  <abbr>Augt.</abbr>
+                  <expan>August</expan>
+               </choice>  it is probable that I shall thus see you, as in that event I shall want a few hands particularly should <pb n="3" facs="gc032c.small.jpg"/> negroes fall of which I fear there is little hope I wish you to comply with the request made in my former letter writing me frequently the price of them; I may still be in <name>
+                  <choice>
+                     <abbr>Tenn.</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name>    this spring but it is uncertain I have two or three objects in view  which I should be obliged to abandon if I come.</p>
+            <p>I heard yesterday that our troops had the <name> Florida indians</name> so <choice>
+                  <orig>hemed</orig>
+                  <reg>hemmed</reg>
+               </choice> up there was no chance of their escape and had more volunteers than was required to conquer them I hope the whole tribe will be exterminated.</p>
+            <p>
+               <name>Thomas &amp; John Butler</name> are both well and both doing extremely well, John has a fine piece of land &amp; we calculate to assist him in getting some hands the next fall, Thomas has no land yet but has nine or ten first rate hands and receives a full share for them in uncles crop this year, they will both be rich in a few years should no adverse fortune <choice>
+                  <orig>befal</orig>
+                  <reg>befall</reg>
+               </choice> them they are young men entitled to great credit for their attention &amp; industry.  Tell cousin "Patsy"  <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Kings wife since the stars have  <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice>  falling she has got to dancing again she has learned to pray I suppose to be ready in case it occurs again, the spark of fire made some of them dance Juba (oh I wish I did know how to pray) and you could not <pb n="4" facs="gc032d.small.jpg"/> tell them, I am told the meeting house could not hold half the people the next sunday and all quit drinking cider or baking bread on sunday, Give my love to cousin Martha, <add place="supralinear">correct name of wife</add> Aunt, Cousin Jane, <add place="supralinear"> Butler, half sister of John &amp; Tom.</add> &amp; all enquiring friends and accept my best wishes for your good health &amp; prosperity</p>
+            <closer>Your Friend &amp; relative <signed>
+                  <choice>
+                     <abbr> Tho.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O. Moore</signed>
+               <add>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> King</add>
+               <add>called "Patsy" but named martha.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

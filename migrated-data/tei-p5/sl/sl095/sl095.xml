@@ -1,0 +1,194 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl095">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]    1839 February 23, Greeneville [i.e., Greenville], Ten[nessee] [to] Thomas E. Abernathy, [Giles County, TN]  / M.S. Temple: a machine readable transcription of an image</title>
+            <author>Temple, M. S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl095</idno>
+            <idno>OCLC: 50488009</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter]    1839 February 23, Greeneville [i.e., Greenville], Ten[nessee] [to] Thomas E. Abernathy, [Giles County, TN]  / M.S. Temple</title>
+               <author>Temple, M.S.</author>
+               <date when="1839-02-23">February 23, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from M.S. Temple to Thomas E. Abernathy dated February 23, 1839. Temple comments on how nice the weather has been and how blessed he is that all his family and friends are doing well.  He writes about the trial of James McCaw, who was found guilty of murdering Jonas Bowers and the great excitement that surrounded the trial. Temple also writes that if the man, Mr. Loveless, who takes care of their land does not do more work, that Abernathy should discharge him.</note>
+               <note type="collection" anchored="true">Abernathy Papers</note>
+               <note type="box" anchored="true">II-H-3</note>
+               <note type="folder" anchored="true">F 13</note>
+               <note type="document" anchored="true">sl095</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Trials (Murder)</term>
+               <term>Letters</term>
+               <term>McCaw, James</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Temple, M. S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl095a.small.jpg"/>
+            <opener>
+               <add place="left of address">}</add>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Greeneville</orig>
+                           <reg>Greenville</reg>
+                        </choice>
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1839-02-23">
+                        <choice>
+                           <orig>Febuary</orig>
+                           <reg>February</reg>
+                        </choice> 23d,, 1839.</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I gladly embrace the present opportunity of writing you a few lines  and <choice>
+                  <orig>moore</orig>
+                  <reg>more</reg>
+               </choice>.— I arrived home on the <choice>
+                  <orig>9</orig>
+                  <reg>9th</reg>
+               </choice> day after I left your house; though I had some <choice>
+                  <orig>vary</orig>
+                  <reg>very</reg>
+               </choice> cold weather &amp; <choice>
+                  <orig>Ruff</orig>
+                  <reg>Rough</reg>
+               </choice> Roads to travel over.  My wife &amp; family are well; so also are my friends <choice>
+                  <orig>generly</orig>
+                  <reg>generally</reg>
+               </choice> in this <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice>. For  those best of all favors we <choice>
+                  <orig>certanly</orig>
+                  <reg>certainly</reg>
+               </choice> ought to be <choice>
+                  <orig>truely thankfull</orig>
+                  <reg>truly thankful</reg>
+               </choice>;  We have had some <choice>
+                  <orig>vary</orig>
+                  <reg>very</reg>
+               </choice>  fine we<add place="supralinear">a</add>ther since I got home for the season of the year, if it has been as <choice>
+                  <orig>fin</orig>
+                  <reg>fine</reg>
+               </choice> in your section in proportion to the climate I should judge you <choice>
+                  <orig>wore allmost</orig>
+                  <reg>were almost</reg>
+               </choice> Ready to go to planting.  On Thursday week last was <choice>
+                  <orig>comenced</orig>
+                  <reg>commenced</reg>
+               </choice> the trial of <name type="person">James McCaw</name>in this County charged with the murder of <name type="person">Jonas Bowers</name>; This trial was <choice>
+                  <orig>certanly</orig>
+                  <reg>certainly</reg>
+               </choice> the most interesting that I ever witnessed in my life; the testimony being <choice>
+                  <orig>wholy circumstantiel</orig>
+                  <reg>wholly circumstantial</reg>
+               </choice>, hundreds upon hundreds of  <choice>
+                  <orig>citezens</orig>
+                  <reg>citizens</reg>
+               </choice> crowded the Court house during the protracted trial of 8 days but notwithstanding the many attempts to bribe witnesses &amp; all the magic arts that the able council could bring to their assistance the Jury brought in their verdict of Guilty; Guilty;  in the first degree. The blood of an <choice>
+                  <orig>inocent</orig>
+                  <reg>innocent</reg>
+               </choice> and unoffending man cries from <del type="overstrike">the</del> our Mother earth for <choice>
+                  <orig>vengence</orig>
+                  <reg>vengeance</reg>
+               </choice>; may this be a warning to the rising generation.  Pe<add place="supralinear">r</add>haps before this shall have reached you; you may have made some arrangements for the sale of our land if so write to me as soon as you can <pb n="2" facs="sl095b.small.jpg"/> Tell <name type="person">Mr Loveless</name> unless he is willing to <choice>
+                  <orig>repare</orig>
+                  <reg>repair</reg>
+               </choice> all the fences &amp;  clean up the brier thickets <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> &amp; put the land on at least  2/3 of it <unclear>oats</unclear> he <del type="overstrike">d</del> had best get <choice>
+                  <orig>an other</orig>
+                  <reg>another</reg>
+               </choice> home; as for the rent it is nothing much <choice>
+                  <orig>any </orig>
+                  <reg>anyway</reg>
+               </choice> &amp; should you meet with an opportunity of <choice>
+                  <orig>setling</orig>
+                  <reg>settling</reg>
+               </choice> he <add place="supralinear">will</add> not then be in the way —</p>
+            <p>Give my best respect to your family &amp;<choice>
+                  <orig> except</orig>
+                  <reg>accept</reg>
+               </choice> the same for yourself from</p>
+            <closer>
+               <signed>
+                  <name type="person">M,, S,, <emph>Temple</emph>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>To</addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Thos,,</abbr>
+                           <expan>Thomas</expan>
+                        </choice> E,, Abernathy</name>—<add place="right of Abernathy">}</add>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

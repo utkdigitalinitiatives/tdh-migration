@@ -1,0 +1,190 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc107">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1834 Oct. 27, Lexington, Mississippi [to] Colonel John Roper, Dandridge, Tennessee / Lawson D. Franklin: a machine readable transcription of an image</title>
+            <author>Franklin, Lawson D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc107</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1834 Oct. 27, Lexington, Mississippi [to] Colonel John Roper, Dandridge, Tennessee / Lawson D. Franklin</title>
+               <author>Franklin, Lawson D.</author>
+               <date when="1834-10-27">October 27, 1834</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This is a letter dated October 27, 1834 from Lawson D. Franklin to Colonel John Roper.  In the letter Franklin says that his cotton crops have been damaged by frost and that some of his slave labor has run away.</note>
+               <note type="collection" anchored="true">Lawson D. Franklin Papers</note>
+               <note type="box" anchored="true">MS-780 b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sc107</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Crop losses</term>
+               <term>Slaveowners</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Franklin, Lawson D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc107a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Lexington</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice> 27th 1837 </date>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> John Roper</name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p> I have received but one letter from you I am anxious to hear from you I <unclear>mene by</unclear> write to discharge my duty to you I have nothing of importance to write the Cotton is very much injured by the frost the price is going down times are very dull here we are not selling fast but for a fine <choice>
+                  <orig>proffit</orig>
+                  <reg>profit</reg>
+               </choice> We sold Peter &amp; Eave for twenty two hundred dollars you must let me know if you have got Handy also if the Davis negro come into <unclear>Truggs</unclear> &amp; whats done with Hellis I sold Tom a woman he married that cost me four hundred for $2200 Tom has since run away &amp; taken <name>Jack Rodgers</name> with him you will please take every pains to <choice>
+                  <orig>here</orig>
+                  <reg>hear</reg>
+               </choice> where they are if Tom is in <choice>
+                  <orig>Jaail</orig>
+                  <reg>Jail</reg>
+               </choice> write me to <name>Madisonville <choice>
+                     <abbr>miss</abbr>
+                     <expan>Mississippi</expan>
+                  </choice>
+               </name>  direct all other letters to <name>Natchez miss</name> our health is good our prospects fine we have sold upwards of twenty thousand <pb n="3" facs="sc107c.small.jpg"/> worth of <choice>
+                  <orig>Negros</orig>
+                  <reg>Negroes</reg>
+               </choice> the Interest on that pays our expense it is drawing ten <choice>
+                  <orig>prcent</orig>
+                  <reg>percent</reg>
+               </choice> I expect to be here longer than I expected when I left if you have any money of mine in your hands I want you instead of Moving <name>Hoskins</name> to share <name>Samuel Mclauglin</name> I bought a <choice>
+                  <orig>negroe</orig>
+                  <reg>Negro</reg>
+               </choice> of his thats unsound I must make it up in some way Hal married Kitty  I can get $3000 for them you may rest assured I am doing well give yourself no <choice>
+                  <orig>uneasy ness</orig>
+                  <reg>uneasiness</reg>
+               </choice> it is quite healthy here Cotton will shortly rise fall or rise we will make money if it should rise according to the calculation here we are certain to make thirty thousand dollars tell <name>
+                  <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <unclear>Frain</unclear>
+               </name>
+               <name>
+                  <choice>
+                     <abbr>Majr</abbr>
+                     <expan>Major</expan>
+                  </choice> Clemmons</name> &amp; all enquiring friends  My prospects are fine my respects to all who    enquire for me my love to you &amp; Aunt give my love to my mother tell her I am doing well &amp; my prospects are fine &amp; I expect to be at home by the first of February</p>
+            <closer>
+               <salute>Yours very respectfully  <choice>
+                     <abbr>&amp;C</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>D Franklin</signed>
+               <pb n="4"/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> John Roper</name>
+                  </addrLine>
+                  <addrLine>Dandridge</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>E. Ten</abbr>
+                        <expan>East Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>25</add>
+               <add>
+                  <figure>
+                     <figDesc> postmark stamp: Lexington, <choice>
+                           <abbr>Mi.</abbr>
+                           <expan>Mississippi</expan>
+                        </choice>
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 1</figDesc>
+                  </figure>
+               </add>
+               <add>
+                  <date>Oct. 27, 1834</date>
+                  <lb/> #26</add>
+               <add>
+                  <choice>
+                     <abbr>LDF</abbr>
+                     <expan>Lawson D. Franklin</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

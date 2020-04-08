@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl486">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Aug.2, Cairo, Tennessee [to] John C. Calhoun / James Winchester    : a machine readable transcription of an image</title>
+            <author>Winchester, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl486</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Aug.2, Cairo, Tennessee [to] John C. Calhoun / James Winchester</title>
+               <author>Winchester, James</author>
+               <date when="1819-08-02">August 2, 1819</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated August 2, 1819 from James Winchester to the secretary of war, John C. Calhoun.  Winchester describes the marking of the Southern boundary of the state of Tennessee, as agreed in a treaty with the Chickasaw Indians.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl486</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Tennessee -- Boundaries</term>
+               <term>Chickasaw Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96115844"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Winchester, James, 1752-1826</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl486a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of Tennessee Cairo </addrLine>
+               </address>
+               <date>2d <choice>
+                     <abbr>augt</abbr>
+                     <expan>August</expan>
+                  </choice> 1819</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have just returned from running the line of the Southern boundary of the State of <name>Tennessee</name> as described in the 2nd article  of the treaty concluded with the <name>Chickasaw</name>  nation on the <date>19th of October 1818</date> Beginning on the west bank of <name>Tennessee river</name> at the 35th degree of north latitude, and running thence due West, crossing the prongs of <name>white oaks</name>
+               <name>Hatcher J Wolf</name> rivers leaving to the north the mouth of the latter seven miles and <name>fort Pickering </name>four miles and a half finally intersecting the <name>mississippi</name>  about 3/4 of a mile below the lower land of <name>President Island</name>, at the distance 110 miles from its beginning on Tennessee river, This line is plainly marked all the way the trees on each side of it  are blazed the  <choice>
+                  <abbr>fore &amp; aft</abbr>
+                  <expan>before and after</expan>
+               </choice> trees are <choice>
+                  <orig>markd</orig>
+                  <reg>marked</reg>
+               </choice> with the letters US which is also marked on a Cypress post set up  at the termination of it on the bank of the mississippi I have <add>the</add> satisfaction  to add that this line passes over a valuable pasture of good land, well timbered and <choice>
+                  <orig>waterd</orig>
+                  <reg>watered</reg>
+               </choice>. <add>From</add>
+               <pb n="2" facs="sl486b.small.jpg"/> From the <name>chickasaw</name> nation major <name>James Colbert</name> and Captain <name>Samuel Sealy</name> attended as chiefs to see the line run. In the afternoons when the sun descended near the horizon they appeared to be dissatisfied and some times said the compass was lost, because it did not run to the setting sun It was in vain that I told them the sun did not set in the west at midsummer, <gap agent="damage"/> to satisfy them if possible.  I halted one <gap agent="damage"/> on one open ridge free from timber and the next morning being fair I sent for them to my tents and asked them if the sun rose in the East, they answered in the affirmative, I then set the sights of the compass to the rising sun and showed them how deep such a course would run into their land and if I run to the setting of the sun I should run as far into the land of the <name>United States</name>, therefore the middle course must be the true one this seemed to satisfy them for the present and we progressed accordingly with great harmony <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> we approached the mississippi then <choice>
+                  <orig>there</orig>
+                  <reg>their</reg>
+               </choice> dissatisfaction returned with increased obstinacy, and they observed to me that it was unnecessary for them to go any farther that they knew where the line would strike the mississippi, we was then <gap agent="damage"/> miles <pb n="3" facs="sl486c.small.jpg"/> I pressed them to proceed to the end in order that they might represent fairly to their nation the whole length of their line   <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice> they persisted in their first determination but observed that they would meet me at the Bluff after I had finished the line, and talk with me They accordingly met me and substantiated that the line which I had ran and marked <unclear>could not be</unclear> the true line, that <add>it</add> must be run <unclear>when day</unclear> and night is equal &amp;c. To this I told them I had no answer to make, that the line which I had just completed I believed to be the true one and that I expected it would never be run again officially.</p>
+            <p>There are several improvements at and in the vicinity of the <name>Chickasaw Bluff</name> for which the proprietors are entitled to compensation under the late treaty, they have requested me to make known their claim to the presidents</p>
+            <p>Major <name>Inman Colbert</name> performed the service of an interpreter when on the line if he had not I must have <choice>
+                  <orig>employd</orig>
+                  <reg>employed</reg>
+               </choice> one at the expense of the <name>United States</name>, for this he expects compensation, I think 150 or 200 dollars would not be badly applied in this way, <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> I have  given him no assurance on this head</p>
+            <p>The other chief who attended, <choice>
+                  <abbr>Cap</abbr>
+                  <expan>Captain</expan>
+               </choice>
+               <gap agent="damage"/> says he is a very poor man that <pb n="4" facs="sl486d.small.jpg"/> that he left home in a very busy season when he should have been raising corn for his family that <del>and </del> the Indians never pay their chiefs or headmen for their services, therefore he requested me to make known to the President his claim for compensation </p>
+            <p>By the next morning <gap agent="damage"/>  and estimate of the Expenses <gap agent="damage"/> the time, for the supplies I <gap agent="damage"/> the cash they could not be had <gap agent="damage"/> If am permitted to draw on government for the <unclear>amount</unclear> the bill will readily command the cash pure</p>
+            <closer>I have the honor to be respectfully Sir Your most obedient person <signed>J Winchester</signed>
+               <add>The honorable <name>John C Calhoun</name> secretary of war If <choice>
+                     <orig>apeal</orig>
+                     <reg>appeal</reg>
+                  </choice> of the line is required I can return  it at any time</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

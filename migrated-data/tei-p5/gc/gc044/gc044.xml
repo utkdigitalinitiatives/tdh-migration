@@ -1,0 +1,198 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc044">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Sep. 15, Elyton, Alabama [to] Henry King, Tuskaloosa, Alabama / J. Woods : a machine readable transcription of an image</title>
+            <author>Woods, J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc044</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Sep. 15, Elyton, Alabama [to] Henry King, Tuskaloosa, Alabama / J. Woods</title>
+               <author>Woods, J.</author>
+               <date when="1838-09-15"> September 15, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a short letter dated September 15, 1838 from J. Woods to Henry King.  The content of the letter concerns the selling price of meat in different areas of the South, including  North Carolina and Alabama.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1838</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">gc044</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Meat industry and trade</term>
+               <term>Alabama</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Woods, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc044a.small.jpg"/>
+            <opener>
+               <add>11:00</add>
+               <add>From <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Woods</name> about meat__</add>
+               <add>10</add>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Mr</abbr>
+                           <expan>Mister</expan>
+                        </choice> H. A. J. King</name>
+                     <name>Tuskaloosa</name>
+                     <name>
+                        <choice>
+                           <abbr>ala</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <name>Postmark Elyton</name>
+                        <name>
+                           <choice>
+                              <abbr>Al</abbr>
+                              <expan>Alabama</expan>
+                           </choice>
+                        </name>.<choice>
+                           <abbr>Sep</abbr>
+                           <expan>September</expan>
+                        </choice> 16 </figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc044b.small.jpg"/>
+               <address>
+                  <addrLine>Elyton</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Sept</abbr>
+                     <expan>September</expan>
+                  </choice> 15th 1838 </date>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Henry</salute>
+            </opener>
+            <p>  I think their will be no difficulty in Selling out at 14 or 15 cents <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> is no bacon <choice>
+                  <orig>hear</orig>
+                  <reg>here</reg>
+               </choice> it is getting <choice>
+                  <orig>scearce</orig>
+                  <reg>scarce</reg>
+               </choice> every <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> that I hear from <name>Taylor </name>&amp; <name>Jackson</name> passed through hear on yesterday they sold out about <choice>
+                  <orig/>
+                  <reg>Greensboro</reg>
+               </choice> at <choice>
+                  <abbr>¢</abbr>
+                  <expan>cent</expan>
+               </choice>15 for <choice>
+                  <orig>shoders</orig>
+                  <reg>shoulder</reg>
+               </choice> sides from 16 to 17 cents and <choice>
+                  <orig>hames</orig>
+                  <reg>hams</reg>
+               </choice> at <choice>
+                  <abbr>¢</abbr>
+                  <expan>cent</expan>
+               </choice>18 3/4 If do not sell out <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> Brawley and the rest of the meat men do you can sell Sell for a <choice>
+                  <orig>mutch</orig>
+                  <reg>much</reg>
+               </choice> better price than you are offering to take I <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> feel very well this morning though I dont feel like <choice>
+                  <orig>stoping</orig>
+                  <reg>stopping</reg>
+               </choice> on the way if I can help it; I add no more but hope these few lines may find you in good health and making <unclear>brisk</unclear> sales at fair prices give my best respects to <choice>
+                  <abbr>W</abbr>
+                  <expan>William</expan>
+               </choice> Parrish and family and <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> WR King <choice>
+                  <orig>right</orig>
+                  <reg>write</reg>
+               </choice> to <name>Salem</name> &amp; <name>Roads</name> in a few days </p>
+            <closer> your friend <signed>Jn Woods </signed>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Mr</abbr>
+                        <expan>Mister</expan>
+                     </choice> H A J King</name>
+               </add>
+               <add>N.B. There is no Bacon coming to supply the meat <choice>
+                     <orig>murchants</orig>
+                     <reg>Merchants</reg>
+                  </choice> if any should come they cant buy it to as to sell for a low price JW.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

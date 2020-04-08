@@ -1,0 +1,147 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Commission of John N. Westin to the Tennessee Militia] 1828
+			 March / [signed by Sam Houston] : a machine-readable transcription of an
+			 image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc025</idno>
+            <idno>OCLC: 50036971</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Commission of John N. Westin to the Tennessee Militia] 1828
+				March / [signed by Sam Houston]</title>
+               <date when="1828-03">March 1828</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a commission appointing John N.
+				Westin First Lieutenant of the Kingston Rifle Company in the Tennessee Militia.
+				It is signed March 1828, by Sam Houston, Governor of Tennessee.</note>
+               <note type="Collection">Samuel Houston</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-1217</note>
+               <note type="Document">sc025</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Militia</term>
+               <term>Tennessee</term>
+               <term>Tennessee History, Military</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc025a.small.jpg"/>
+            <head>State of 
+			 <name type="place">Tennessee</name>
+            </head>
+            <p>To all who shall see these presents...Greeting:</p>
+            <p>Know ye, That reposing special trust and confidence in the
+			 patriotism, valor, conduct and fidelity of 
+			 <name type="person">John N. Westin</name> of the county of 
+			 <name type="place">Roane</name> We commission him First Lieutenant of
+			 the 
+			 <name type="place">Kingston</name> Rifle Company attached to the
+			 <unclear/> Regiment of the Militia of this State; and do authorize and
+			 empower him to execute and fulfil the duties of Lieutenant as aforesaid in the
+			 said Regiment, agreeably to law, and the rules and directions of Military
+			 Discipline; to have and to hold the rank and command of Lieutenant as aforesaid
+			 in the said Regiment, during good <choice>
+                  <orig>behaviour</orig>
+                  <reg>behavior</reg>
+               </choice>, with
+			 all the powers, privileges and emoluments thereto of right appertaining, And
+			 the said John N. Westin is hereby required to obey his superior Officers'
+			 lawful orders and commands, and all officers and privates under his command,
+			 are to be obedient to him as aforesaid. </p>
+            <p>In testimony whereof, We have caused the Great Seal of the State to
+			 be hereunto affixed.</p>
+            <p>Witness, 
+			 <name> 
+                  <reg>person</reg> Sam Houston</name>, Esquire, our Governor and
+			 Commander in Chief, at 
+			 <name> 
+                  <reg>place</reg> Nashville</name>, the <gap agent="damage"/> day of 
+			 <date>March</date> in the fifty second year of our
+			 Independence, and and in the year 
+			 <date when="1828">1828</date>.</p>
+            <closer>
+               <salute>By the Governor</salute>
+               <signed>Sam Houston</signed>
+               <add place="left">
+                  <name type="person">Daniel Graham</name>
+               </add>
+               <add place="bottom, center">Secretary of State</add>
+            </closer>
+            <pb n="2" facs="sc025b.small.jpg"/>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>I do solemnly swear, that I will support the Constitution of the
+			 United States, and the State of Tennessee, and that I will faithfully discharge
+			 the duties of the Militia of Tennessee, as prescribed by law, to the best of my
+			 abilities.</p>
+            <p>Sworn to and subscribed before me, this </p>
+            <p>
+               <gap agent="damage"/> day of <gap agent="damage"/>
+            </p>
+            <p>I, <gap agent="damage"/> do solemnly <gap agent="damage"/> that I will
+			 not give or accept a challenge, either written or verbal, to fight a duel-nor
+			 will I be the bearer of a challenge for such purpose-nor will I fight a duel,
+			 nor be second to fight a duel, during my continuance in office, so help me
+			 GOD.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

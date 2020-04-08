@@ -1,0 +1,360 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Invoice of merchandize [sic] forwarded to that part of the Cherokee Nation removed to the River Arkansa[s], 1813 [?] Mar. 13, Arkansa[s] River / [signed by] Talontiskee ... [et al.] : a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0030</idno>
+            <idno>OCLC: 44923407</idno>
+            <availability status="restricted">
+               <p>This work is the property of The University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Invoice of merchandize [sic] forwarded to that part of the Cherokee Nation removed to the River Arkansa[s], 1813 [?] Mar. 13, Arkansa[s] River / [signed by] Talontiskee ... [et al.]</title>
+               <date when="1811-12">December 1811</date>
+               <date when="1813-03-13">March 13, 1813</date>
+               <extent>2p</extent>
+               <note type="summary">Receipt for goods totalling 629.50, bought and delivered by the United States to the Cherokees who removed to the Arkansas River area. Most of the goods were received on March 13, (1813 ?), and the receipt was signed by Talontiskee, Kannetoo, Kalawakskee, Wahachee, Oolanahhee and Horace Wallis.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box">1</note>
+               <note type="folder">70</note>
+               <note type="document">pa0030</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Cherokee Indians--Relocation</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0030a.small.jpg"/>
+            <p>
+               <table>
+                  <head>
+                     <emph>B.</emph>
+                     <lb/>Invoice of merchandize forwarded to that part of the <name>Cherokee nation</name> removed to the River <name type="place"> 
+                        <reg>River</reg> Arkansa</name> in charge of <name type="person">Samuel Riley</name> an Interpreter in the <name type="place">Cherokee Agency</name>
+                     <lb/>
+                     <date when="1811">1811</date>
+                  </head>
+                  <row>
+                     <cell>
+                        <date when="--12">December</date>
+                     </cell>
+                     <cell>128 yards of best <choice>
+                           <orig>Callico</orig>
+                           <reg>Calico</reg>
+                        </choice>
+                     </cell>
+                     <cell>at 75.00</cell>
+                     <cell rend="right">96 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>294 <choice>
+                           <abbr>do.</abbr>
+                           <expan>dozen</expan>
+                        </choice> Common</cell>
+                     <cell>at 50 "</cell>
+                     <cell rend="right">147 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">422<lb/>302<lb/>
+                           <lb/>120 yds
+                                 
+                              
+                           </add>
+                        <add place="left">
+                           <choice>
+                              <abbr>recd.</abbr>
+                              <expan>received</expan>
+                           </choice>
+                        </add>
+                        <add place="left">missing</add>
+                     </cell>
+                     <cell>29 do. <choice>
+                           <orig>Ghinghams</orig>
+                           <reg>Ginghams</reg>
+                        </choice>
+                        <add place="inline">missing</add>
+                     </cell>
+                     <cell>at 50 "</cell>
+                     <cell rend="right">14 50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>10 pairs mens Shoes</cell>
+                     <cell>at 175 "</cell>
+                     <cell rend="right">17 50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>6 Common <unclear>Carb</unclear> Bridles</cell>
+                     <cell>at 150 "</cell>
+                     <cell rend="right">9 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>12 Best plated bitts <unclear>
+                           <choice>
+                              <abbr>do.</abbr>
+                              <expan>ditto</expan>
+                           </choice>
+                        </unclear>
+                     </cell>
+                     <cell>at 6 $</cell>
+                     <cell rend="right">72 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">
+                           <choice>
+                              <abbr>doz miss.</abbr>
+                              <expan>dozen missing</expan>
+                           </choice>
+                        </add>
+                     </cell>
+                     <cell>1 <choice>
+                           <abbr>Doze</abbr>
+                           <expan>Dozen</expan>
+                        </choice> best patterns fine <choice>
+                           <orig>Merseilles</orig>
+                           <reg>Marseilles</reg>
+                        </choice>
+                     </cell>
+                     <cell>at 250 <add place="supralinear">
+                           <unclear>
+                              <choice>
+                                 <abbr>eh</abbr>
+                                 <expan>each</expan>
+                              </choice>
+                           </unclear>
+                        </add>
+                     </cell>
+                     <cell rend="right">30 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">3 <unclear>gr</unclear>
+                           <choice>
+                              <abbr>missg</abbr>
+                              <expan>missing</expan>
+                           </choice>
+                        </add>
+                     </cell>
+                     <cell>6 <unclear>Groce</unclear> Buttons</cell>
+                     <cell>at 6 $</cell>
+                     <cell rend="right">36 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>2 Saddles best</cell>
+                     <cell>at 24 $</cell>
+                     <cell rend="right">48 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">Missing</add>
+                     </cell>
+                     <cell> lbs sewing silk</cell>
+                     <cell>at</cell>
+                     <cell rend="right">4 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">
+                           <choice>
+                              <abbr>doz mg</abbr>
+                              <expan>dozen missing</expan>
+                           </choice>
+                        </add>
+                     </cell>
+                     <cell>1 <choice>
+                           <abbr>Doz:</abbr>
+                           <expan>Dozen</expan>
+                        </choice> Pins 4 lbs</cell>
+                     <cell>at</cell>
+                     <cell rend="right">3 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>1 Horse Collar</cell>
+                     <cell>at</cell>
+                     <cell rend="right">2 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>2 Sides Leather</cell>
+                     <cell>at 350. <add place="supralinear">
+                           <choice>
+                              <abbr>eh</abbr>
+                              <expan>each</expan>
+                           </choice>
+                        </add>
+                     </cell>
+                     <cell rend="right">7 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>1 <unclear/> for package</cell>
+                     <cell>at</cell>
+                     <cell rend="right">6 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>31 pair Cotton Cards</cell>
+                     <cell>at 2$</cell>
+                     <cell rend="right">62 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>1 <choice>
+                           <abbr>Doz: Tin cups</abbr>
+                           <expan>Dozen</expan>
+                        </choice>
+                     </cell>
+                     <cell>at 2$</cell>
+                     <cell rend="right">3 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>60 Skeins <add place="supralinear">or hanks</add>
+                        <unclear>Country</unclear> thread</cell>
+                     <cell>at 25 <add place="supralinear">
+                           <unclear/>
+                        </add>
+                     </cell>
+                     <cell rend="right">15 00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>24 <choice>
+                           <abbr>do.</abbr>
+                           <expan>ditto</expan>
+                        </choice> large Hanks <choice>
+                           <abbr>do</abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell>at 12</cell>
+                     <cell rend="right">3 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">1 Missing</add>
+                     </cell>
+                     <cell>4 Beaver traps</cell>
+                     <cell>at 4 $</cell>
+                     <cell rend="right">16 00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <add place="left">11 yds <choice>
+                              <abbr>mg</abbr>
+                              <expan>missing</expan>
+                           </choice>
+                        </add>
+                     </cell>
+                     <cell>22 yards Brown Velvet</cell>
+                     <cell>at 175 <add place="supralinear">
+                           <unclear>
+                              <choice>
+                                 <abbr>eh</abbr>
+                                 <expan>each</expan>
+                              </choice>
+                           </unclear>
+                        </add>
+                     </cell>
+                     <cell rend="right">38 50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>$</cell>
+                     <cell rend="right">629 50</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Received of <name type="person">Return J Meigs</name> by the hands of <name type="person">
+                  <choice>
+                     <abbr>Jno.</abbr>
+                     <expan>John</expan>
+                  </choice> Ross</name>: <name type="person">Samuel Riley</name> an Interpreter in the <name type="place">Cherokee Agency</name> the articles of merchandize stated in the above Invoice amounting to Six hundred  twenty nine dollars  fifty cents which we gratefully acknowledge to have <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> as a testimony of the continued care of our Father the President of the <name type="place">United States</name> for the <name type="person">Cherokees</name> removed to this Country. <add place="supralinear"> that he holds us fast by the hand.</add> dated at the<pb n="2" facs="pa0030b.small.jpg"/>
+               <name type="place">Arkansa River</name> the <date when="1813-03-13">13th day of March 1813.</date>
+            </p>
+            <closer>
+               <unclear/>
+               <signed>
+                  <name type="person">Horace Wallis</name>
+                  <lb/>
+                  <name type="person">Talontiskee</name> his X mark<lb/>
+                  <name type="person">Kannetoo</name> his X mark<lb/>
+                  <name type="person">Kalawahskee</name> his X mark<lb/>
+                  <name type="person">Wahachee</name> his X mark<lb/>
+                  <name type="person">Oolanahhee</name> his X mark
+                              
+                           
+                        
+                     
+                  </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>
+               <emph>B</emph>
+               <lb/>Invoice  receipts for merchandize to be delivered to the <name type="person">Cherokee</name> Chiefs on the <name type="place">Arkansa River</name> being a present from the <name type="place">U. States</name>
+               <lb/>$629.50
+               
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

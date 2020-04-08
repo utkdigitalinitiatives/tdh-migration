@@ -1,0 +1,149 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc074">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal writ] 1794 Oct. 23 Nashville, [to] The Sheriff of Davidson County [Tennessee] / Andrew Ewing : a machine readable transcription of an image</title>
+            <author>Ewing, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc074</idno>
+            <idno>OCLC: 51337380</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal writ] 1794 Oct. 23 Nashville, [to] The Sheriff of Davidson County [Tennessee] / Andrew Ewing</title>
+               <author>Ewing, Andrew</author>
+               <date when="1794-10-23">October 23, 1794</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This  is a legal document to the Sheriff of Davidson County, Tennessee  from Andrew Ewing, Clerk of the Davidson County Court, written on October 23, 1794. The document requires the Sheriff to bring eighteen shillings which were paid to him from outside parties. This money is now requested by the court as recovery payment to another individual.</note>
+               <note type="collection" anchored="true">Territory of the United States South of the River Ohio</note>
+               <note type="box" anchored="true">MS-1206</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc074</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Ewing, Andrew</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc074a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">United States of America</name>
+                  </addrLine>
+                  <addrLine>To the <name type="person">Sheriff of Davidson County</name>
+                  </addrLine>
+               </address>
+               <salute>Greeting</salute>
+            </opener>
+            <p>You are hereby commanded that of the goods and chattels Land &amp; <choice>
+                  <orig>Tennements</orig>
+                  <reg>Tenements</reg>
+               </choice> of <name type="person">John Shannon</name> in your county you cause to be made the Sum of Eighteen Shillings Which in our court of <name type="place">Davidson</name>
+               <date when="1794-10">
+                  <choice>
+                     <abbr>Oct </abbr>
+                     <expan>October</expan>
+                  </choice>Term 1794</date>
+               <name type="person">Patrick Lyons</name> Recovered Against him as Garnished of <name type="person">Daniel Carmichael</name> as <unclear>to us</unclear> Appears of Record. And have you those monies before the Justices of our court of pleas and Quarter Sessions to be held for the county of Davidson at the courthouse in the Town of <name type="place">Nashville</name> on the Second Monday of January next then and there Ready to Render to the <choice>
+                  <abbr>sd</abbr>
+                  <expan>said</expan>
+               </choice> Patrick Lyons, for his Recovery as <choice>
+                  <abbr>Aforesd.</abbr>
+                  <expan>Aforesaid</expan>
+               </choice> fail not. Witness <name type="person">
+                  <choice>
+                     <abbr>Andw</abbr>
+                     <expan>Andrew</expan>
+                  </choice> Ewing</name> Clerk of our said court at office the Second Monday in <date when="1794-10">October 1794</date> And in the Nineteenth year of American <choice>
+                  <orig>Independance</orig>
+                  <reg>Independence</reg>
+               </choice>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">Andrew Ewing</name>
+               </signed>
+               <pb n="2" facs="sc074b.small.jpg"/>
+               <add place="left side of page">
+                  <choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice> 7 <lb/>
+                  <unclear>Fi Fa</unclear>
+                  <lb/>
+                  <name type="person">Lyons <lb/>&amp; <lb/> Shannon</name>
+                  <lb/>18 <lb/>
+                  <choice>
+                     <abbr>Exn</abbr>
+                     <expan>Execution</expan>
+                  </choice>
+                  <unclear>3- 9d</unclear>
+                  <lb/>— <lb/>
+                  <date when="1794-10-23">October 23rd 1794</date>
+                  <lb/> Satisfied <lb/>
+                  <name type="person">O. Williams</name>
+                  <lb/> Clerk fee <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received</expan>
+                  </choice>
+               </add>
+               <add place="top middle of page">Lyons <lb/> &amp; <lb/> Shannon }</add>
+               <add place="right side of page">
+                  <unclear>Indgs</unclear>
+                  <date when="1794-10">Oct. Term 1794</date>
+                  <lb/>18 <lb/> Execution <unclear>3/9d</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

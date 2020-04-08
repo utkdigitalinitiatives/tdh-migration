@@ -1,0 +1,112 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Jun. 30, Washington[to] Gen[era]l Jackson / M[artin] Van Buren : a machine readable transcription of an image</title>
+            <author>Van Buren, Martin</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl055</idno>
+            <idno>OCLC: 50031051</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Jun. 30, Washington [to] Gen[era]l Jackson / M[artin] Van Buren</title>
+               <author>Van Buren, Martin</author>
+               <date when="1837-06-30">June 30, 1837</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Martin Van Buren to General Jackson on June 30, 1837. In the letter, Van Buren thanks Jackson for sending a copy of his reply to a Judge who has made accusations against Jackson. Van Buren also mentions the lack of support they are getting from the people in their district.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Correspondence by Author, 1809 b2</note>
+               <note type="folder" anchored="true">I-A-3</note>
+               <note type="document" anchored="true">sl055</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Invective</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80057180"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Van Buren, Martin, 1782-1862</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl055a.small.jpg"/>
+            <opener>
+               <salute>My dear Sir</salute>
+            </opener>
+            <p>I thank you kindly for sending me a copy of your conclusive reply to the Judges accusation <choice>
+                  <abbr>agt.</abbr>
+                  <expan>against</expan>
+               </choice> you. There can be no mistake in respect to its effect, &amp; I sincerely hope that you may in future be permitted to enjoy that repose which you have so richly merited. I am sorry to be the medium of such bad news as you write find in the enclosed. The mass of our friends in the District have <del type="overstrike">been</del> behaved nobly but we have many <del type="overstrike">friends</del> in that quarter who like you &amp; me very well but <pb n="2" facs="sl055b.small.jpg"/> like the Bank better, &amp; having received loyalty in your favor are quite willing to let the cause take care of itself. This result does not however in the least discourage me. The people have never yet refused to <unclear>distern</unclear> what is right &amp; I do not believe they ever will. I congratulate you on the addition to your family, and desire to be affectionately remembered to Mrs. Jackson and all your Household  am</p>
+            <closer>
+               <salute>Very truly yours</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>M</abbr>
+                        <expan>Martin</expan>
+                     </choice> Van Buren</name>
+               </signed>
+               <add place="below signature">
+                  <name type="place">Washington</name>
+                  <date when="1837-06-30">June 30th 1837</date>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice> Jackson</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

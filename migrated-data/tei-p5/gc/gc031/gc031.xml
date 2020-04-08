@@ -1,0 +1,254 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gco31">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Aug. [to] Thomas Moore  / J.M. King, Rural Rest : a machine readable transcription of an image</title>
+            <author>King, J.M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc031</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Aug. [to] Thomas Moore  / J.M. King, Rural Rest</title>
+               <author>King, J.M.</author>
+               <date when="1835-08">August 1835</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This is a letter dated August, 1835 from James Moore King to his cousin Thomas Moore.  He conveys the price many slaves are being sold for and their characteristics.   </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1835</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">gc031</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Slaves</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, James Moore</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc031a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Rural Rest</addrLine>
+               </address>  —<date>August 1835</date>
+               <add place="Left column">
+                  <choice>
+                     <abbr>Col </abbr>
+                     <expan>Colonel</expan>
+                  </choice>J.M. King 1835</add>
+               <salute>Cousin Thomas</salute>
+            </opener>
+            <p> I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> your letter of the 10th of July last a <choice>
+                  <orig>fiew</orig>
+                  <reg>few</reg>
+               </choice> days ago, which gave me much pleasure &amp; satisfaction to hear you &amp; family <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> enjoying good health , and that your little son john could run all about, I am very much afraid he is inclined to be <choice>
+                  <orig>puney</orig>
+                  <reg>puny</reg>
+               </choice> and think you had better bring him to <name type="place">Tennessee</name>  and leave him <add place="supralinear">with me</add> and let him get fat on hog &amp; hominy.,</p>
+            <p>You wrote you some calculated on <del type="overstrike">my</del> seeing me on <name type="place">red River</name> this fall It would truly be a pleasure for me to <choice>
+                  <orig>visite</orig>
+                  <reg>visit</reg>
+               </choice> you ; and see the country, tho I believe it will be entirely out of my power to do so at present, my hands I should be obliged to keep here <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice>
+               <choice>
+                  <orig>Christmass</orig>
+                  <reg>Christmas</reg>
+               </choice>
+               <del type="overstrike">before I shall</del> or longer to house my crops and to sell them and <choice>
+                  <orig>bye</orig>
+                  <reg>buy</reg>
+               </choice> again I expect their would be nothing made by it as negroes are selling very high; a fiew days ago a <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Hanner sold out his <pb n="2" facs="gc031b.small.jpg"/> Negroes and for 10 fellows he got $10,000 in cash, tho, I believe likely fellows may be purchased for $800 or 900 but they are <choice>
+                  <orig>scarse</orig>
+                  <reg>scarce</reg>
+               </choice>, such boys as you would want, <del type="overstrike">would</del> say, 18 or 15 years old, would bring from $600 to 700 <choice>
+                  <orig>girles</orig>
+                  <reg>girls</reg>
+               </choice> from 14 to 20 years old is really at 600 to 650 $ — Speculation appears to be running very high generally, and you say hands are rising rapidly on <name>red river</name>, and as I could not be their to <del type="overstrike">attend to my to</del> see that my business was attended to, &amp; with other circumstances I do not think it advisable to attempt <choice>
+                  <orig>settleing</orig>
+                  <reg>settling</reg>
+               </choice> a farm in that country at present, — </p>
+            <p>You stated in case I did not go down their you would come up this winter or spring with Sarah, I shall be much pleased to see you, and without doubt shall expect your lady with you and if <choice>
+                  <orig>posible</orig>
+                  <reg>possible</reg>
+               </choice> to spend the summer with us </p>
+            <p>We have escaped the dreadful effects of <choice>
+                  <orig>cholery</orig>
+                  <reg>cholera</reg>
+               </choice> in this county, untill this summer it has been very fatal in <name type="place">Murfreesboro</name>    and its vicinity, about <name>Jefferson</name> &amp; <name>Stewarts Creak</name> in <name>Murfreesboro</name>, 35 or 40 has <choice>
+                  <orig>becam</orig>
+                  <reg>became</reg>
+               </choice>
+               <choice>
+                  <orig>victoms</orig>
+                  <reg>victims</reg>
+               </choice> to the disease, <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>. Brady</name>   one of them, he was a candidate for congress &amp; was likely to succeed, had 2 or 3 weeks before election Murry was elected <pb n="3" facs="gc031c.small.jpg"/> In <name type="person">
+                  <choice>
+                     <abbr>Coln</abbr>
+                     <expan>colonel</expan>
+                  </choice> Redleys</name> family their was 9 or 10 of his blacks died, and many <choice>
+                  <orig>familey</orig>
+                  <reg>family</reg>
+               </choice> 4 or 5 died and perhaps all in a few days — I have lost none, but have had some violent premonitory <choice>
+                  <orig>simtoms</orig>
+                  <reg>symptoms</reg>
+               </choice>, agreeably to what I understand they are, I have had no Doctor, but have been successful in <choice>
+                  <orig>relieveing</orig>
+                  <reg>relieving</reg>
+               </choice> by the Tampsonian <choice>
+                  <orig>sistom</orig>
+                  <reg>system</reg>
+               </choice>, Walter had a violent attack of the premonitory simtoms, I was doubtful of his recovery but Loblia brought him out, and him and family are quite well, tell Sarah little Jane can gabber &amp; run all about, she is <choice>
+                  <orig>mightly</orig>
+                  <reg>mightily</reg>
+               </choice> little we we think, but looks cunning as a Fox — Walter has <choice>
+                  <orig>bilt</orig>
+                  <reg>built</reg>
+               </choice> him a very convenient and comfortable house, he stays <choice>
+                  <orig>clost</orig>
+                  <reg>close</reg>
+               </choice> about home, — he has a fine crop, — our crops of corn &amp; cotton in this country are very promising </p>
+            <p>I planted 125 acres of cotton but swing to a bad stand on twenty five acres I put it in corn the <choice>
+                  <orig>ballance</orig>
+                  <reg>balance</reg>
+               </choice> looks fine, I have <name>Christopher Beesley</name> overseeing this year he is a fine fellow for business-</p>
+            <p>
+               <name>
+                  <choice>
+                     <abbr>Coln</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Henry King</name> his wife &amp; oldest daughter Penelope spent 5 or 6 <choice>
+                  <orig>weaks</orig>
+                  <reg>weeks</reg>
+               </choice> with us this summer, they enjoyed themselves very well whilst here, <name>Hardy moore</name> ware here also.  It is expected that he and Penelopy will be married shortly, tho King is somewhat opposed  to it.- Our frinds in <name>alabama</name> is generally well, Coln King has sold his land and is going to move to South <name>alabama</name>; aunt <name>
+                  <add>Polly</add> Moore</name> is doing well, our <name>mulcreak</name> friends are generally well, except <choice>
+                  <abbr>mr</abbr>
+                  <expan>Mister</expan>
+               </choice> J. gowen's wife she has been confined  to her bed for 7 or 8 months with the effects of the spine of the back, uncle Hayes enjoys good good health, <name>Hayes Blackman</name> is doing well; - Our friends  in this <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> generally are generally well, Mother enjoys tolerably good health at present, but was very bad with the  effects of her bowels about the time walter was sick.- My family are in tolerably good health, Patsey is grunting a little as is common for woman to do, when they get fat- <add>Col. J.M. King- 1835 <name>
+                     <choice>
+                        <abbr>Mr</abbr>
+                        <expan>Mister</expan>
+                     </choice> Cristopher Beesley</name> Overseer.</add>
+               <pb n="4" facs="gc031d.small.jpg"/> The little children are all well and 4 going to school tell Sarah Patsey &amp; children talk a great deal about her and wants to see her very much, and Martha Burge says she gets more boes than she knows what to do with an wants Sarah to come and take a part of her hands </p>
+            <p>
+               <choice>
+                  <abbr>Esqr</abbr>
+                  <expan>Esquire</expan>
+               </choice> Jamison is married again <del>again</del> , to a <name>Miss Sarah Thomas</name> of <name>Williamson <choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> (Sarah knows her) O. Blackman got badly used up by a <name>Williamson <choice>
+                     <abbr>Co </abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name>girl not long since, after entering into engagements.- </p>
+            <p>Mother <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a letter from your Sister mariah not long since she state the connection ware generally well and her father and all the family ware in high spirits, they had plenty of Sider and the old man was preparing for brandy, Aunt Otridge enjoyed very good health uncle Jo <add>Moore</add> I <choice>
+                  <orig>havent</orig>
+                  <reg>haven't</reg>
+               </choice> herd any thing what he intends to do I expect he would <choice>
+                  <orig>cirtingly</orig>
+                  <reg>certainly</reg>
+               </choice> move this fall but I know not <name>Bob Ship</name> is married but I <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> know who <choice>
+                  <orig>two</orig>
+                  <reg>to</reg>
+               </choice>-</p>
+            <p>If you wish to purchase any negroes here, any assistance I am able to render you here I will take a pleasure in doing so, and you can write to me on that subject; state to me the <choice>
+                  <orig>prises</orig>
+                  <reg>prices</reg>
+               </choice> of young fellows and young woman their,- write to me what <choice>
+                  <abbr>Thos</abbr>
+                  <expan>Thomas</expan>
+               </choice> &amp; <name>John Butler</name> are doing, - I shall anxiously look for you and shall <choice>
+                  <orig>cirtainly</orig>
+                  <reg>certainly</reg>
+               </choice> expect your lady with you, write when you  will come, tell Sarah, patsey will write to her soon, as this <choice>
+                  <orig>containes</orig>
+                  <reg>contains</reg>
+               </choice> the principal information I have- Patsey <choice>
+                  <orig>joines</orig>
+                  <reg>joins</reg>
+               </choice> me in love and friendship to you with little Son &amp; Sarah, prosperity and happiness attend you all for ever </p>
+            <closer>Ever your Relation &amp; Friend <signed>Ja M King</signed>
+               <add>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

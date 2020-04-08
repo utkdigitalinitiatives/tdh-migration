@@ -1,0 +1,204 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Jun. 13,   Alexandria, Louisiana [to] James M. King, Murfreesboro, Tennessee / Thomas Moore : a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc033</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Jun. 13,   Alexandria, Louisiana [to] James M. King, Murfreesboro, Tennessee / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1837-06-13">June 13, 1837</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 13, 1837 from from Thomas Moore to his cousin James King.  In the letter, Moore expresses his distress over the death of his sister's husband, and worry for her future.   He also expresses concern over his cotton crop, that is hindered by drought.  He also writes in his letter that the Bank has suspended specie payment, and he is unsure when it will resume.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1837</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">gc033</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Death</term>
+               <term>Crop losses</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc033a.small.jpg"/>
+            <opener>
+               <name type="person">
+                  <choice>
+                     <abbr>T.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O. Moore</name> 1837   <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> James M King</name>
+                     <name type="place">Murfreesboro</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="bottom left corner of envelope">Mail</add>
+               <add place="top right of envelope">25 </add>
+               <add>
+                  <figure>
+                     <figDesc>postmark: Jun 20, Alexandria, LA</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc033b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Alexa</abbr>
+                        <expan>Alexandria</expan>
+                     </choice> (<choice>
+                        <abbr>La</abbr>
+                        <expan>Louisiana</expan>
+                     </choice>)</addrLine>
+               </address>
+               <date>13 June 1837</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> Yours of the 12th May and Cousin Patsy's of a previous date was <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a few days since announcing to us the untimely death of poor brother Walter  <add place="infralinear">, Moore</add>  I had heard of it a few days before by <name>Covington Snell</name> &amp; others who I saw at <choice>
+                  <abbr/>
+                  <expan>Alexandria</expan>
+               </choice>  on their way to <choice>
+                  <abbr/>
+                  <expan>Tennessee</expan>
+               </choice>  (all well,.   It was distressing to hear of the decease of Walter leaving a young &amp; promising family, but I was not astonished, I frequently mentioned to him that I thought he drank too much but he never appeared to be aware that he was doing so to his injury, he has by imprudence brought on no doubt a premature death, though I hope as I believe is a fact,  that he left his family in a situation by frugality to support itself &amp; educate the children, I hope sister Jane will bear it with fortitude, as we should not grieve at the will of providence the debt is one we have all sooner or later to pay.</p>
+            <p>I am just in from the pine woods this morning left all well but poor little William who has got one of his feet dreadfully burnt, entirely peeled though I am in hopes there will be no deformity Bethiah is fat &amp; John like a guinea pig, Crops generally here are tolerably good some crops of corn are very much injured, mine is seriously <pb n="3" facs="gc033c.small.jpg"/> and unless we have rain soon my corn crop must be short I have had but two rains in sixty one days, my <choice>
+                  <orig>Cotten</orig>
+                  <reg>cotton</reg>
+               </choice> crop is tolerably good though very uneven as the dry weather prevented its coming up at the same time, times have continued very hard, and we can only <add>wish</add> for better as we yet see no prospect of a change, our Banks have all suspended specie payment and can not tell when it will again be resumed, we will be certain of one thing, that is, we shall get nothing for <choice>
+                  <orig>cotten.</orig>
+                  <reg>cotton</reg>
+               </choice>
+            </p>
+            <p>I am truly sorry that my ill health prevented me from disposing of John &amp; London at <name type="place">Natchez</name>  though John could not be sold for any thing like what you would take for him.  I have L. he is a much better hand than I thought he was some <add>time</add> ago though damned <choice>
+                  <orig>decietful</orig>
+                  <reg>deceitful</reg>
+               </choice>, we have not yet had a single sick negro.  <choice>
+                  <abbr>Thos</abbr>
+                  <expan>Thomas</expan>
+               </choice> Butler left a few days ago for <name type="place">
+                  <choice>
+                     <abbr>Tenn.</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name> and was good enough to let us know nothing of it, Bethiah had got some presents to send up by him and tell him she says if he <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> mind she will tell the secret.  We have not heard from Carolina since I left <choice>
+                  <abbr>Tenn</abbr>
+                  <expan>Tennessee</expan>
+               </choice>.  Write withe news from there &amp; <name>Alabama</name>.  Tell Sarah I wrote her some time ago but it seems she did not <choice>
+                  <orig>recieve</orig>
+                  <reg>receive</reg>
+               </choice> it, but will write her in a few days ( tell her <name>Emily Tumill</name> has married <name>Carson Archinard</name>
+            </p>
+            <pb n="4" facs="gc033d.small.jpg"/>
+            <p>Ask the girls if the locust tree is yet alive &amp; how they get on should like to give them a pinch very much (John sings O miss Patsy ding dong da.  <choice>
+                  <abbr>Thos</abbr>
+                  <expan>Thomas</expan>
+               </choice> House who <choice>
+                  <orig>commited</orig>
+                  <reg>committed</reg>
+               </choice> the murder <name>
+                  <add>in <choice>
+                        <orig>Missippi</orig>
+                        <reg>Mississippi</reg>
+                     </choice>
+                  </add>
+               </name>
+               <choice>
+                  <orig>ben</orig>
+                  <reg>been</reg>
+               </choice>
+               <choice>
+                  <orig>acquited</orig>
+                  <reg>acquitted</reg>
+               </choice> or not.</p>
+            <p>Shall I ever see you and cousin patsy here or not nothing in the world would give me so much pleasure, the kindness that we <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> from you &amp; yours under you hospitable roof places us under thousands of obligations and I know of nothing that would gratify us so much as for you to place it in our powers to reciprocate.  Give our love to cousin Patsy Sarah Misses Elizabeth &amp; Martha, aunt <gap agent="damage"/>
+               <add>Butter</add> Jane, Hickory, Julia Ann &amp; the balance of the children and <choice>
+                  <abbr>afftey</abbr>
+                  <expan>affectionately</expan>
+               </choice> remember us to all our enquiring friends, my respects to <name>W.L. butler</name>. </p>
+            <p>May god protect you all &amp; let you live till you wish to die, if that is a thousand years.</p>
+            <closer>Your Friend &amp; relative <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+               <add place="bottom left of page">Tell Sarah report is that Doctor Ballard was killed by Mexicans in their taking a much missed belonging to <name type="place">
+                     <choice>
+                        <abbr>N</abbr>
+                        <expan>New</expan>
+                     </choice> orleans</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

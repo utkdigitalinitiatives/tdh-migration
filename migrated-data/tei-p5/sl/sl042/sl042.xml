@@ -1,0 +1,164 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1829 Jun. 7, Washington  [to] Capt[ain] John Donelson / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl042</idno>
+            <idno>OCLC: 50029573</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1829 Jun. 7, Washington  [to] Capt[ain] John Donelson / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1829-06-07">June 7, 1829</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated June 7, 1829 from President Andrew Jackson to his brother-in-law Captain John Donelson. Jackson writes that he misses his recently deceased wife and wishes that he could retire to their home "The Hermitage" in Nashville, Tennessee.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">38J</note>
+               <note type="document" anchored="true">sl042</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jackson, Rachel Donelson, 1767-1828</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl042a.small.jpg"/>
+            <opener>(private)<address>
+                  <addrLine>
+                     <name type="place">Washington </name>
+                     <date when="1829-06-07">June 7th 1829</date>
+                  </addrLine>
+               </address>
+               <salute>My<choice>
+                     <abbr> Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir,</salute>
+            </opener>
+            <p>Your letter of the 19th <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice> is just received. What satisfaction to me to be informed that you &amp; <name type="person">Mr Hume</name> had visited the Hermitage &amp; Tomb, of my dear departed wife, how distressing it has been to me to have been drawn by public duty from that interesting state, where my thoughts delight to dwell, so soon after this heavy bereavement, to mingle with all the bustle, labour, &amp; care of public life, when my age, my enfeebled health and constitution forewarned me, that my time cannot be long here upon earth, and admonished me that it was time I should place my earthly house in order and prepare for another, &amp; I hope a better world— my <choice>
+                  <abbr>dr</abbr>
+                  <expan>dear</expan>
+               </choice> wife had your<emph> future state</emph> much at heart, she often spoke to me on this interesting subject in the dead hours of the night, and has shed many tears on the <del type="overstrike">subject</del>⁁<add place="supralinear">occasion —</add> your reputation upon the sincere interest your <choice>
+                  <abbr>dr</abbr>
+                  <expan>dear</expan>
+               </choice> sister took in your future happiness are such, <del type="overstrike">that</del>
+               <add place="supralinear">as</add> sound reason dictates— yes my friend it is time that you should withdraw from the turmoils of this world, &amp; prepare for another &amp; better— you have well provided <pb n="2" facs="sl042b.small.jpg"/> for your household, you have directed your children, and furnished them with an outfit into life sufficient, with good management and economy to build an independence upon—you have sufficient around you to make you and your old lady independent &amp; comfortable during life, &amp; when gone hence, perhaps as much as will be prudently managed, and if  it should be imprudently managed, then, it will be a curse, rather than a blessing to your children— I therefore join in the sentiments of my deceased &amp; beloved wife, in admonishing you to withdraw from the busy <gap agent="damage"/> of this world, &amp; put your house in order for the rest, by laying hold "of the one thing needful"——go read the Scriptures, the joyful promises it contains, will be a <unclear>balsome</unclear> to all your troubles, and create for you a kind of heaven here on earth, a consolation to your troubled mind that is not to found <del type="overstrike">found, the</del>
+               <add place="supralinear">in the hurry &amp;</add> bustle of this world. Could I but withdraw from the scenes that surround me, to the private <del>scenes</del>⁁<add place="supralinear">walks </add> of the Hermitage, how soon would I be found in the solitary <del type="overstrike">walks</del>⁁<add place="supralinear">shades</add> of my garden, at the tomb of my <choice>
+                  <abbr>dr </abbr>
+                  <expan>dear</expan>
+               </choice>wife, there to spend my days in the silent sorrow &amp; in peace from the toils and strife of this world, with which <pb n="3" facs="sl042c.small.jpg"/> I have been long since suspected— but this is denied me, — I cannot retire, with prosperity— When my friends drag me before the public, contrary to my wishes, and that of my <choice>
+                  <abbr>dr</abbr>
+                  <expan>dear</expan>
+               </choice> wife, I foresaw all this evil but I was obliged to bend to the wishes of my friends, as it was believed, it was necessary to perpetuate the blessings of liberty to our country, &amp; to put down misrule— My political creed, compelled me to yield to the call, and I consoled myself with the idea of  having the counsel &amp; society of my my <choice>
+                  <abbr>dr</abbr>
+                  <expan>dear</expan>
+               </choice> wife, &amp; one term would soon <gap agent="damage"/> sound, when we would retire to the Hermitage &amp; spend our days in the service of our god— But o, how fluctuating are all earthly things, — at the time I least expected it, &amp; could least spare her, she was snatched from me, and I left here a solitary monument of grief, without the least hope of any happiness here below, surrounded with all the turmoils of public life and no time for recreation, or for friendship— from this busy scene I would to god I could retire, &amp; live in solitude.</p>
+            <p>How much the conduct of <name type="person">
+                  <choice>
+                     <abbr>A.J.</abbr>
+                     <expan>Andrew Jackson</expan>
+                  </choice> Hutchings</name>, <choice>
+                  <orig>corodes</orig>
+                  <reg>corrodes</reg>
+               </choice> my feelings <pb n="4" facs="sl042d.small.jpg"/> I have just <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> a letter from him to <name type="person">
+                  <choice>
+                     <abbr>Saml</abbr>
+                     <expan>Samuel</expan>
+                  </choice> Hays</name>, in which he says there is a vacancy at the Franklin Academy&amp; promises to write me— If he does not go to school, I will withdraw from him all supplies, that may indulge extravagance &amp; confine ⁁<add place="supralinear">him</add> to such means as with <choice>
+                  <orig>acconomy</orig>
+                  <reg>economy</reg>
+               </choice> will keep him decent—</p>
+            <p>We are all in tolerable health, Emily in the family way, little Jackson growing finely, &amp; all join in our best wishes to you &amp; your amiable lady &amp; all our connections &amp; good neighbors, your friend</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice> John Donelson <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice>
+                  <name type="person">J W Steel</name> has written me but one letter say to him to write me how much crop he has in, how many <choice>
+                     <orig>coolts</orig>
+                     <reg>colts</reg>
+                  </choice>, combs, &amp; calves, and how my last years <choice>
+                     <orig>coolts</orig>
+                     <reg>colts</reg>
+                  </choice> are— and of the health of my negroes— I learn old Ned &amp; Jack are both dead— Jack was a fine boy, but if he was well attended to, I learnest not he has gone the way of all the earth— A. J.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

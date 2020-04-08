@@ -1,0 +1,241 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl061">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1807 Dec. 20, Knoxville, [Tennessee, to] The Agent and
+			 Superintendent of the Creek Nation [Benjamin Hawkins] / John Sevier: a
+			 machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl061</idno>
+            <idno>OCLC: 47833426</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1807 Dec. 20, Knoxville, [Tennessee, to] The Agent
+				and Superintendent of the Creek Nation [Benjamin Hawkins] / John Sevier: a
+				machine-readable transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1807-12-20">December 20, 1807</date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter written to Benjamin
+				Hawkins, the Agent and Superintendent of the Creek Nation, by Governor John
+				Sevier (1796-1801, 1803-1809) on December 20, 1807. Governor Sevier discusses
+				the robbery and murder of two men from Tennessee, and that he suspects a member
+				of the Creek Nation as the murderer. He asks the agent to investigate the
+				situation and try to discover if a Creek Indian committed the murders. He
+				claims that several parties of Creek Indians passed through the area of the
+				killings around the same time and that these parties robbed and plundered
+				several of the families in the area. Governor Sevier requests that the Creek
+				chiefs put an end to the violence and migration of their people onto other
+				lands.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">4</note>
+               <note type="Document">tl061</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek Indians--Claims against</term>
+               <term>Creek Indians--Government relations</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl061a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1807-12-20">20 December 1807</date>
+                  </addrLine>
+                  <addrLine>The Agent and <choice>
+                        <orig>Superintendant</orig>
+                        <reg>Superintendent</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>of the 
+				  <name type="place">Creek Nation</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Early in the last spring and summer two men Citizens of 
+			 <name type="place">Tennessee</name>, in the vicinity of 
+			 <name type="place">Elk River</name>, were murdered and
+			 <choice>
+                  <orig>Robed</orig>
+                  <reg>Robbed</reg>
+               </choice> of their property in a most
+			 <choice>
+                  <orig>barbarous</orig>
+                  <reg>barbarious</reg>
+               </choice> and egregious manner  Myself and
+			 
+			 <name type="person">
+                  <choice>
+                     <abbr>Colo.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Meigs</name>
+			 agent for the 
+			 <name type="place">Cherokee Nation</name> , have been at considerable
+			 trouble and pains to find out and ascertain who were the perpetrators of such
+			 shocking and unprovoked outrages. From every information we have collected, it
+			 appears and leaves with us no doubt, that some persons belonging to the 
+			 <name type="place">Creek nation</name> have been guilty of those
+			 atrocious and horrid murders. I am unwilling to suppose that the 
+			 <name type="person">Creek</name>
+               <choice>
+                  <orig>cheifs</orig>
+                  <reg>chiefs</reg>
+               </choice>
+			 would be base enough to encourage, or countenance such flagrant, and violent
+			 breaches of the existing Treaties, which subsist between them and the 
+			 <name type="place">United States</name>. I therefore request that you
+			 will have, or cause to be had, an immediate enquiry and investigation, and
+			 discover if possible, who have been the perpetrators of such bloody and Inhuman
+			 murders; and if committed by any of the people belonging to the 
+			 <name type="place">Creek nation</name>, that you cause them to be
+			 instantly punished <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice> to the existing
+			 Treaties and laws of the 
+			 <name type="place">United States</name>, made and provided for in
+			 such Cases; otherwise, to deliver them to the proper Authority in order they
+			 may be dealt with conformably to the Treaties and laws Aforesaid 
+			 <add place="bottom right">It is</add>
+               <pb n="2" facs="tl061b.small.jpg"/> It is a fact, that parties
+			 of the 
+			 <name type="person">Creek Indians</name> have crossed the 
+			 <name type="place">Tennessee</name> frequently in the course of the
+			 last Spring and summer, and as frequently (exclusively of the murders alluded
+			 to) wantonly <choice>
+                  <orig>robed</orig>
+                  <reg>robbed</reg>
+               </choice> and plundered a number of
+			 peaceable and helpless families  Such enormities will not always be
+			 submitted to, and in order to support peace and harmony, the Executive of 
+			 <name type="place">Tennessee</name>, most earnestly request that the
+			 <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice>, will <choice>
+                  <orig>immeadiately</orig>
+                  <reg>immediately</reg>
+               </choice> repress and put an end to such Violent
+			 outrages, and cause such lawless <choice>
+                  <orig>Banditties</orig>
+                  <reg>Bandits</reg>
+               </choice>, to
+			 remain within their own bounds  The Executive is penetrated with a due
+			 friendship to the 
+			 <name type="place">Creek nation</name>; he might enlarge further on
+			 such a state of things, and circumstances so important, and so unexpected. but
+			 it would be as afflicting to him to state the facts, as it would be for you to
+			 hear them 
+               </p>
+            <closer>
+               <salute>I have the honor to be Sir, <lb/> with due consideration 
+				respect <lb/> Your 
+				<choice>
+                     <abbr>Mo. Ob. Hbl
+				  Servt.</abbr>
+                     <expan>Most Obedient Humble Servant</expan>
+                  </choice>
+                  <lb/> (Signed)
+                        
+                     
+                  </salute>
+               <signed>
+                  <name type="person">John Sevier</name>
+               </signed>
+               <add place="to the left of the salute">(A copy)</add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="3" facs="tl061c.small.jpg"/>
+            <p>
+               <add place="left of first line">
+                  <choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice>
+			 5</add> Copy <lb/>
+               <add>
+                  <date when="1807">1807</date>
+               </add>
+               <lb/> To the
+			 <choice>
+                  <orig>Superintendant</orig>
+                  <reg>Superintendent</reg>
+               </choice>
+               <lb/> of the 
+			 <name type="place">Creek nation</name>
+               <lb/>
+               <add>in regard to the murder of 2 white
+			 <lb/> men.
+                              </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

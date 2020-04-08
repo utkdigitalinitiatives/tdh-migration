@@ -1,0 +1,135 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl429">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Nov. 21, Carthage, Tennessee [to]  R. Yeatman &amp; Co., New Orleans [Louisiana] / A[dam] Fergusson: a machine readable transcription of an image</title>
+            <author>Fergusson, A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl429</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1848 Nov. 21, Carthage, Tennessee [to]  R. Yeatman &amp; Co., New Orleans [Louisiana] / A[dam] Fergusson</title>
+               <author>Fergusson, A.</author>
+               <date when="1848-11-21">November 21, 1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Adam Fergusson to R. Yeatman &amp; Co., dated November 21, 1848. Fergusson is getting into the business of tobacco. He is consigning his crop to Yeatman. Fergusson also wishes Yeatman to give him periodic advice, as he is new to this business.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl429</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Tobacco</term>
+               <term>Business enterprises</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fergusson, Adam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl429a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Carthage</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>21st November 1848</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>About the last of august I drew a Bill of Exchange on you for fifteen hundred dollars endorsed by <name>Joseph S Carter</name> and <name>John H Bedford</name> both of whom are I expect well known to you  as <choice>
+                  <orig>exlusive</orig>
+                  <reg>exclusive</reg>
+               </choice> dealers in tobacco</p>
+            <p>This bill I expect to meet with <unclear>produce</unclear> if in my power and will make the proper exertions to have it (Tobacco) at your disposal in time. I have already made Some engagements and have Some of my own raising all of which I expect to consign to you</p>
+            <p>This is my first effort of the kind I do not know how I shall Suc <add>c</add> eed or like it if it turns out a failure I only have to repeat the old adage of one hunter being spoiled one thing is certain I must meet the bill at maturity.</p>
+            <p>Be pleased to Send me Such information from time to time as you may think my interest requires as to the markets and any other advice you may See proper to communicate. Taking into <unclear>consideration</unclear> my inexperience you can be of great Service to me I will hope to hear from you shortly and as the letter is mailed at <name>Nashville</name> Please <choice>
+                  <orig>adress</orig>
+                  <reg>address</reg>
+               </choice> me at Carthage Tennessee</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>A.</abbr>
+                        <expan>Adam</expan>
+                     </choice> Fergusson</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Messr</abbr>
+                           <expan>Messieurs</expan>
+                        </choice> R Yeatman</name>
+                     <choice>
+                        <abbr>&amp;c</abbr>
+                        <expan>etcetera</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name>New Orleans</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl429b.small.jpg"/>
+               <add>Copy of a letter</add>
+               <address>
+                  <addrLine>to R Yeatman &amp; C</addrLine>
+                  <addrLine>New Orleans</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

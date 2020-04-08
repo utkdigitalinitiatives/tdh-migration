@@ -1,0 +1,178 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mp002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Voucher No. 3, 1798 Sep. 5 [to] William Mizell  : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mp002</idno>
+            <idno>OCLC: 50334399</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Memphis Public Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Memphis Public Library, 3030 Poplar Avenue, Memphis, TN 38111</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Voucher No. 3, 1798 Sep. 5 [to] William Mizell</title>
+               <date when="1798-09-05">September 5, 1798</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">The following document is a voucher dated September 5, 1798, for William Mizell.  Mizell served as interpreter for the Chickasaw Bluffs and was to be paid 369 dollars and 02 cents for his services.</note>
+               <note type="collection" anchored="true">Goodman Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">mp002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chickasaw Indians -- Government relations</term>
+               <term>Southern States</term>
+               <term>Mizell, William</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mp002a.small.jpg"/>
+            <head>
+               <name type="place">The United States</name>
+            </head>
+            <p>
+               <table>
+                  <head>To <name type="person">William Mizell</name> — — — — — — — <unclear>Dr.</unclear>
+                  </head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>dollr.</abbr>
+                           <expan>dollars</expan>
+                        </choice>—</cell>
+                     <cell role="data" rows="1" cols="1">cents</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To his services as Interpreter for the Post at the <name type="place">Chickasaw Bluffs</name>, and that nation— from the <date when="1790-05-01">1st of May</date> to the <date when="1798-08-31">31st of August —98—</date> at one dollar <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day ―</cell>
+                     <cell role="data" rows="1" cols="1">123―</cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To subsistence for same period at 2 ration  <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day — 17.Cents —</cell>
+                     <cell role="data" rows="1" cols="1">41 ―02</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To one Bay horse furnished for the use of the <choice>
+                           <abbr>Qmaster</abbr>
+                           <expan>Quarter master </expan>
+                        </choice> Department &amp; for the purpose of Express riding ―</cell>
+                     <cell role="data" rows="1" cols="1">55 ―</cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To Six Beefs— for the use of the <name type="person">Chickasaw Indians</name>— and for the use of the sick in the Hospital of the <choice>
+                           <abbr>Detach.</abbr>
+                           <expan>Detachment</expan>
+                        </choice> of troops descending <name type="place">the Mississippi</name> under the orders of <name type="person">
+                           <choice>
+                              <abbr>Genl.</abbr>
+                              <expan>General</expan>
+                           </choice> Wilkinson</name> —</cell>
+                     <cell role="data" rows="1" cols="1">150 —</cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Total —</cell>
+                     <cell role="data" rows="1" cols="1">369 —</cell>
+                     <cell role="data" rows="1" cols="1">02 —</cell>
+                  </row>
+               </table> The Quartermaster will discharge the above Account —</p>
+            <p>Received at the Chickasaw Bluffs <date when="1798-09-13">5th. September 1798</date> — Of <name type="person">John Wilkins</name>
+               <choice>
+                  <abbr>Junr.</abbr>
+                  <expan>Junior</expan>
+               </choice> Quartermaster General — Three hundred &amp; sixty nine dollars <add place="supralinear">02 Cents</add> in full —of the account above Stated — Signed duplicates —</p>
+            <closer>
+               <signed>William Mizell Interpreter</signed>
+               <add place="bottom, left">
+                  <figure>
+                     <figDesc>miscellaneous calculations</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="mp002b.small.jpg"/>
+            <p>The <choice>
+                  <abbr>Qr. Mr.</abbr>
+                  <expan>Quarter Master</expan>
+               </choice> will <unclear>examine</unclear> the written <choice>
+                  <abbr>amt.</abbr>
+                  <expan>amount</expan>
+               </choice>, discharge the same &amp; plan to the proper Hand </p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <unclear>Jamie Kinson</unclear>
+                  </name>
+               </signed>
+               <add place="right, on side">
+                  <del type="overstrike">1004</del> Voucher No. 3 <lb/> William Mizell's Excerpt <lb/> N1390 <lb/>for 369 dollars 02 Cents <lb/> A. 1440 <lb/>
+                  <date>5th. <choice>
+                        <abbr>Septbr</abbr>
+                        <expan>September</expan>
+                     </choice> 1798</date> — <lb/> ― <lb/>
+                  <choice>
+                     <abbr>Ind dept.</abbr>
+                     <expan>Indian Department</expan>
+                  </choice>
+                  <figure>
+                     <figDesc>miscellaneous numbers and calculations</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>

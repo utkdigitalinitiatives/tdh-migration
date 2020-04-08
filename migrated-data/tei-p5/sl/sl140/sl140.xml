@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl140">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1812 Jun. 30, Knoxville, [TN] [to] Major Gen[era]l John Cocke, Rutledge, Grainger County, [TN] / Willie Blount     : a machine readable transcription of an image</title>
+            <author>Blount, Willie</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl140</idno>
+            <idno>OCLC: 50549287</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1812 Jun. 30, Knoxville, [TN] [to] Major Gen[era]l John Cocke, Rutledge, Grainger County, [TN] / Willie Blount</title>
+               <author>Blount, Willie</author>
+               <date when="1812-06-30">June 30, 1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is  a letter dated June 30, 1812, from Tennessee Governor Willie Blount to John Cocke, in which Blount makes the momentous announcement that the US has declared war on Britain. Blount instructs Cocke to have his Division prepared for battle.  </note>
+               <note type="collection" anchored="true">John Cocke Papers V-J-3</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">F:8</note>
+               <note type="document" anchored="true">sl140</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Military planning</term>
+               <term>United States -- History -- War of 1812</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n98009970"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, Willie, 1768-1835</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl140a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1812-06-30">June 30th 1812</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir:</salute>
+            </opener>
+            <p>The <name type="place">United States</name> on the <date when="1812-06-18">18th Instant</date> passed a declaration of war against <name type="place">Britain</name> to day <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> a copy of it as passed transmitted by the <choice>
+                  <abbr>Secy</abbr>
+                  <expan>Secretary</expan>
+               </choice> of State and  expect to receive by next mail order from The <choice>
+                  <abbr>Secy</abbr>
+                  <expan>Secretary</expan>
+               </choice> War respecting the detachment from the militia some time since orders to be held in readiness  — I hope your Division on the detachment from it is ready — in haste</p>
+            <closer>
+               <salute>your friend</salute>
+               <signed>
+                  <emph>
+                     <name type="person">Willie Blount</name>
+                  </emph>
+               </signed>
+               <add place="lower left corner">
+                  <name type="person">Major <choice>
+                        <abbr>Genl</abbr>
+                        <expan>general</expan>
+                     </choice> John Cocke</name>
+               </add>
+               <pb n="2" facs="sl140b.small.jpg"/>
+               <add place="top, right">8</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Major <choice>
+                           <abbr>Genl</abbr>
+                           <expan>general</expan>
+                        </choice> John Cocke</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Rutledge</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Grainger County</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl715">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1802 Jul. 9, War Department [to] Archibald Roane / Henry Dearborn : a machine readable transcription of an image</title>
+            <author> Dearborn, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl715</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1802 Jul. 9, War Department [to] Archibald Roane / Henry Dearborn</title>
+               <author> Dearborn, Henry </author>
+               <date when="1802-07-09"> 
+			 July 9, 1802</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated July 9, 1802 from Henry Dearborn to governor Archibald Roane of Tennessee.  The subject of the letter is the cutting and clearing of a road through Davidson and Williamson counties.  Also in the letter, he discusses the contemplation by the president of the United States to the  opening of a road from Tennessee to  the navigable waters of Georgia.</note>
+               <note type="collection" anchored="true">Governor Archibald Roane Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true"> sl715</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Roane, Archibald, 1759-1819</term>
+               <term>Tennessee. Office of the Governor.</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79055568"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dearborn, Henry, 1751-1829</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl715a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>War Department</addrLine>
+               </address>
+               <date>July 9th 1802</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your favor of the 18th <choice>
+                  <abbr>Ult</abbr>
+                  <expan>Ultimo</expan>
+               </choice> has been duly received and its contents considered.</p>
+            <p>The obstacles to opening the road through <name>Davidson</name> and <name>Williamson</name> Counties is to be regretted.__ Whether the troops retained in service will, in addition to the opening the remainder of the road to <name>Natchez</name> and their ordinary duties be able to complete that part of the road which was to pass <choice>
+                  <orig>thru</orig>
+                  <reg>through</reg>
+               </choice> the aforesaid counties is doubtful__ When the opening the road was first contemplated there was reason to hope the whole would have been completed last autumn and winter But necessary delays in commencing the business prevented our hopes being realized.  It is the ardent wish of the President of the <name>United States</name> to give every facility in his power to the communication between the citizens of <name>Tennessee</name> and <name>Kentucky</name> and the <name>atlantic</name> States and to render the trade and Navigation of the Western States as convenient as possible.__ <pb n="2" facs="sl715b.small.jpg"/> He has it in contemplation to have a road opened from <name>Tennessee</name> to the boatable waters of <name>Georgia</name>.__</p>
+            <p>When your Legislature shall have decided on the most eligible rout through the counties of Davidson and Williamson is it not <del>probable</del>   probable some aid will be offered by the State for completing the road?__ Every aid will be offered <choice>
+                  <orig>chearfully</orig>
+                  <reg>cheerfully</reg>
+               </choice> in the power of the President for carrying into complete effect the original plan for making the road.__  But we ought by all the means in our power to guard against any unnecessary extension of the distance__ It ought not to be expected that a great public road made for the purpose of connecting two distant countries, and national purposes should be averted from the shortest and best route merely to accommodate the Inhabitants of a Single County</p>
+            <closer>
+               <add>I am respectfully your <choice>
+                     <abbr>Huml Serv</abbr>
+                     <expan>Humble Servant</expan>
+                  </choice> (signed)</add>
+               <signed>
+                  <name>H Dearborn</name>
+               </signed>
+               <add>Archibald Roane <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl711">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1802 Jun. 18, Knoxville [Tennessee, to] Henry Dearborn / Archibald Roane : a machine readable transcription of an image</title>
+            <author> Roane, Archibald</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl711</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1802 Jun. 18, Knoxville [Tennessee, to] Henry Dearborn / Archibald Roane</title>
+               <author> Roane, Archibald</author>
+               <date when="1802-06-18"> 
+			 June 18, 1802</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor Archibald Roane to Henry Dearborn, dated June 18, 1802. Dearborn is the Secretary of War. Roane is writing regarding the Natchez Trace, an important road  from Nashville to Natchez, Mississippi.  Roane requests that Dearborn  send new orders to a Colonel Butler that will allow Butler to open the road in Williamson County.</note>
+               <note type="collection" anchored="true">Governor Archibald Roane Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl711</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Roane, Archibald, 1759-1819</term>
+               <term>Natchez Trace</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96010062"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Roane, Archibald, 1759-1819</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl711a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>18th June 1802</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name>General Wilkenson</name> and <name>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Butler</name> wrote to me some time ago that it was the order of the Executive of the <name>United States</name> that the road to be opened in the route to <name>Natchez</name> should be commenced at <name>Nashville</name> and requested the concurrence of the State to License and give permanency to such an establishment_____ The Legislature not being in Session application was made to the Courts of <name>Davidson</name> and <name>Williamson</name> Counties to pass orders to have the road viewed  and marked as far as the Indian boundary line___ I have been informed that no difficulty will occur with respect to the county of Davidson. they are Anxious that the road should be opened and will agree to any convenient route <add>The court of</add>Williamson County (which Joins the Indian Line) have made an order that a road be viewed and marked from the Indian Boundary where it intersects the road to Natchez cut by the troops of the United States, the nearest and best way to <name>Franklin</name> ( the County town) and from <del type="overstrike">[unclear]</del>
+               <add>Franklin</add> the nearest and best way towards Nashville to the Davidson County line____ I am informed Colo Butler declines opening the road in that route <choice>
+                  <orig>alledging</orig>
+                  <reg>alleging</reg>
+               </choice> that he is not authorized by his orders, because the road by Franklin will be three or four miles longer than a direct route from the Boundary line to Nashville__ </p>
+            <p>It was contemplated to remove all difficulty by endeavouring to procure the Consent of the owners of the lands <choice>
+                  <orig>thro</orig>
+                  <reg>through</reg>
+               </choice>' which a road in the most direct rout would probably pass but on enquiry this is found to be impracticable at present as many of the proprietors are non-resident.</p>
+            <p>It is to be regretted that an object  to highly important to the citizens of this state and <name>Kentucky</name> cannot be carried into <pb n="2" facs="sl711b.small.jpg"/> immediate effect.</p>
+            <p>As there will not be a stated session of the Legislature of this state sooner than fifteen months__ as the court of Williamson county probably will not  from their order__ as the road through Franklin would meet the General approbation of the Citizens most immediately concerned permit me to indulge a hope that Colo Butler's orders may be renewed and that he may be authorized to open the road through Franklin as laid off by the order of the court</p>
+            <p>Your attention is <choice>
+                  <orig>sollicited</orig>
+                  <reg>solicited</reg>
+               </choice> to this application, with a request that it may be stated to the President and that I may be informed of the result as soon as convenient</p>
+            <closer>
+               <salute>I have the honor to be <lb/> with sentiments of the highest respect <lb/> your <choice>
+                     <abbr>mst obed</abbr>
+                     <expan>most obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name>Archibald Roane</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Honabl</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <name>Henry Dearborn</name>
+                  </addrLine>
+                  <addrLine>Secretary at War</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

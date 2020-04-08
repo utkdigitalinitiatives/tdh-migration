@@ -1,0 +1,97 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl224">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A MAP of The TENNASSEE GOVERNMENT formerly Part of NORTH CAROLINA taken Chiefly from Surveys by Gen,[era]l D. Smith. &amp; others / Engraved by J. T. Scott : a machine readable transcription of an image</title>
+            <author>Scott, J. T.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl224</idno>
+            <idno>OCLC: 49968599</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>A MAP of The TENNASSEE GOVERNMENT formerly Part of NORTH CAROLINA taken Chiefly from Surveys by Gen,[era]l D. Smith. &amp; others / Engraved by J. T. Scott </title>
+               <author>Scott, J. T.</author>
+               <date when="1795">ca. 1795</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a rare map of Tennessee surveyed and engraved circa 1795. The map shows public roads, Indian boundaries, forts, Indian towns, and width of rivers in yards.</note>
+               <note type="collection" anchored="true">Map # 1862</note>
+               <note type="box" anchored="true">stack 8</note>
+               <note type="folder" anchored="true">Tennessee State Library, Miscellaneous documents</note>
+               <note type="document" anchored="true">tl224</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Maps</term>
+               <term>Surveyors</term>
+               <term>Tennessee -- History</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Engraver http://id.loc.gov/vocabulary/relators/egr">Scott, J. T. (Joseph T.)</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter" n="[1]">
+            <pb n="1" facs="tl224a.small.jpg"/>
+            <head>A MAP of The TENNASSEE GOVERNMENT formerly Part of NORTH CAROLINA taken Chiefly from Surveys by <name type="person">
+                  <choice>
+                     <abbr>Gen'l</abbr>
+                     <expan>General</expan>
+                  </choice> D. Smith.</name> &amp; others  <name type="person">J. T. Scott</name>. Folio</head>
+            <head>570. TENNESSEE.  Map of the Tennassee Government, formerly Part of <name type="place">North Carolina</name>, taken chiefly from Surveys by Gen'l D. Smith and others.  Engraved by J.T. Scott.  Folio. [Phila: <name type="person">M. Carey</name>, 1795]. <add place="bottom">Very rare and early map of Tennessee, showing Public Roads, Indian Boundaries, Forts, Indian Towns, Width of Rivers in Yards, <choice>
+                     <abbr>etc</abbr>
+                     <expan>et cetera</expan>
+                  </choice>.</add>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>This is an image of a map of the Tennassee Government, formerly part of North Carolina, ca. 1775</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

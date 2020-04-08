@@ -1,0 +1,173 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0279">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Annuities] 1820 Oct. 4, United States to the Cherokee Indians / Return J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, Return Jonathan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0279</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Annuities] 1820 Oct. 4, United States to the Cherokee Indians / Return J. Meigs </title>
+               <author>Meigs, Return Jonathan</author>
+               <date when="1820-10-04">October 4, 1820</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a report on the third quarter of annuities for 1820 owed to the Cherokee Indians. The document is signed by Return J. Meigs, agent to the Cherokees, on behalf of the United States.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0279</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians</term>
+               <term>Annuities</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Autographer http://id.loc.gov/vocabulary/relators/ato">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0279a.small.jpg"/>
+            <p>
+               <table>
+                  <head>
+                     <choice>
+                        <abbr>Dr</abbr>
+                        <expan>Debtor</expan>
+                     </choice> The <name>United States</name> in account <add>current</add> with <name>Return J. Meigs</name> for expenditures in the <name>Cherokee</name> Agency in the 3rd quarter <unclear>Cr.</unclear> of the year 1820 including the ordinary expenses of the Agency, expenses for missionary establishments &amp; military expenses for <unclear>
+                        <choice>
+                           <abbr>Chero</abbr>
+                           <expan>Cherokee</expan>
+                        </choice> :</unclear> Horse</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1820</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">1820</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <date>October 1</date>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">To cash paid amount of Disbursements <lb/> in the 3rd quarter year of 1820 marked</cell>
+                     <cell role="data" rows="1" cols="1">A</cell>
+                     <cell role="data" rows="1" cols="1">13100.51¾</cell>
+                     <cell role="data" rows="1" cols="1">October 1</cell>
+                     <cell role="data" rows="1" cols="1">By the balance due as stated in my <lb/> account current the <choice>
+                           <orig>preceeding</orig>
+                           <reg>preceding</reg>
+                        </choice> quarter</cell>
+                     <cell role="data" rows="1" cols="1">12255.30¼</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"   "</cell>
+                     <cell role="data" rows="1" cols="1">To cash paid the superintendent of the <lb/> Baptist Missionary established in <lb/> the <name>Cherokee Valley Towns</name>, marked</cell>
+                     <cell role="data" rows="1" cols="1">B</cell>
+                     <cell role="data" rows="1" cols="1">250.00</cell>
+                     <cell role="data" rows="1" cols="1"> " "</cell>
+                     <cell role="data" rows="1" cols="1">By a draft on <name>Knoxville</name> Bank received <lb/> by letter from the United States Treasurer <lb/> dated <date>September 5th 1820</date> for</cell>
+                     <cell role="data" rows="1" cols="1">3080.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"> " "</cell>
+                     <cell role="data" rows="1" cols="1">To the balance due......</cell>
+                     <cell role="data" rows="1" cols="1">....</cell>
+                     <cell role="data" rows="1" cols="1">1985.28½</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$</cell>
+                     <cell role="data" rows="1" cols="1">15335.80¼</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> $</cell>
+                     <cell role="data" rows="1" cols="1">15335.80¼</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">October 4th 1820 <lb/> Return J. Meigs</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+               </table>
+               <pb n="2" facs="pa0279b.small.jpg"/> Account current with the <lb/> United States, end of the <lb/> 3rd quarter of 1820. <lb/> ― $15335.80¼  <lb/> ― <lb/> 4th October 1820 <lb/> to be <lb/> Retained. duplicate</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc141">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Feb. 12, Warrenton, Virginia [to] D. Burford / J. Saunders : a machine readable transcription of an image</title>
+            <author> Saunders, Jourdan M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc141</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Feb. 12, Warrenton, Virginia [to] D. Burford / J. Saunders </title>
+               <author>  Saunders, Jourdan M.</author>
+               <date when="1833-02-12"> 
+			 February 12, 1833</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated February 12, 1833 from J. Saunders in Warrenton, Virginia  to David Burford.  The subject of the letter is slave trade and demand.</note>
+               <note type="collection" anchored="true">David Burford Papers</note>
+               <note type="box" anchored="true">MS-935</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc141</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Business transactions</term>
+               <term>Slave trade</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Saunders, Jourdan M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc141a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Warrenton</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Febr. 12 33</abbr>
+                     <expan>February 12, 1833</expan>
+                  </choice>
+               </date>
+               <salute>Dear Burford</salute>
+            </opener>
+            <p>I this moment <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice>  your letter of the 28th <choice>
+                  <abbr>Jany</abbr>
+                  <expan>January</expan>
+               </choice>:__Williams letter has not come to hand__ The letter I <choice>
+                  <orig>enclosd</orig>
+                  <reg>enclosed</reg>
+               </choice> you from <name>James R Franklin</name> will give you some idea of the demand for slaves, they are at this time higher in this country than I have ever known there since I have been in the Trade, We are now preparing to make a shipment which will be third time since the <unclear>RT</unclear> of <choice>
+                  <abbr>Nov</abbr>
+                  <expan>November</expan>
+               </choice>. last, consequently you see that I shall have no difficulty in finding a place <pb n="2" facs="sc141b.small.jpg"/> for all I have on hand__</p>
+            <p>Your order upon the subject of your funds shall be attended to as soon as I can procure a check of the right suit for the <name>philadelphia</name> money market, having made use of the one you sent me, of which you shall be duly advised__</p>
+            <p>In answer to your inquiry upon the subject of mary &amp; her child, I will only remark that you <add>can</add> have them for $500</p>
+            <closer>
+               <add>your friend</add>
+               <signed>
+                  <name>JM saunders</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

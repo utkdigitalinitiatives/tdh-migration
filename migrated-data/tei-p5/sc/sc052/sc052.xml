@@ -1,0 +1,260 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 Dec. 30 War Department [to] Richard Smith Esq[uire] / J. C. Spencer : a machine readable transcription of an image</title>
+            <author>Spencer, J. C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent> ca. </extent>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc052</idno>
+            <idno>OCLC:50451032</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For commercial use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1842 Dec. 30 War Department [to] Richard Smith Esq[uire] / J. C. Spencer </title>
+               <author> J. C. Spencer</author>
+               <date when="1842-12-30">December 30, 1842</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 30, 1842 from the War department regarding dividends due to various Indian tribes under the United States Treasury Loan of 1841.</note>
+               <note type="collection" anchored="true">Spencer, J.C.</note>
+               <note type="box" anchored="true">MS-1030</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc052</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States Politics and government 1841-1845</term>
+               <term>Five Civilized Tribes</term>
+               <term>Indians of North America Treaties</term>
+               <term>Annuities</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Spencer, J. C.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc052a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>War Department</addrLine>
+               </address>
+               <dateline>
+                  <date when="1842-12-30">December 30th, 1842</date>
+               </dateline>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I have this day receipted on the several Books, sent me for that purpose, for the dividends due <date when="1841-12-31">31 December 1841</date>, <date when="--03-31">31 March</date>, <date when="--06-30">30th June</date> and <date when="1842-09-30">30th September 1842</date> on the amount of <name type="place">United States</name> Treasury Loan of <date when="1841">1841</date> standing in the name of the Secretary of War for the time being, in trust for certain Indian tribes, amounting in all to $5,034.07/100. — On the <date when="---16">16th</date> ultimo I gave an order in favor of <name type="person">D. Saffarrans</name>
+               <choice>
+                  <abbr>Esqr.</abbr>
+                  <expan>Esquire</expan>
+               </choice> on account of the portion due the <name type="person">Chickasaw</name> orphans for $89. which deducted from the above amount will leave to my credit $4,945. 07/100. This amount you will please place to the credit of the Treasurer.</p>
+            <pb n="2" facs="sc052b.small.jpg"/>
+            <p>
+               <table>
+                  <head>Treasurer of the United States under the following heads of Appropriations Viz:</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Trust fund</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Chippewas</name>
+                        <name type="persons">Ottowas</name> &amp;<name type="persons">Potawamins</name>
+                        <name type="persons">Mills</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">719.24</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Do Do Do </abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                        <unclear>
+                           <abbr>Edr</abbr>
+                        </unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">49.60</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Shawnees</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">99.21</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Ottowas &amp; Chippewas</cell>
+                     <cell role="data" rows="1" cols="1">173.61</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Menomonies</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">297.62</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Creek</name> Orphans</cell>
+                     <cell role="data" rows="1" cols="1">496.03</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Kanzas</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">74.40</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Delawares</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">446.42</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Osages</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">644.84</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Choctaw</name> Orphan Reservations</cell>
+                     <cell role="data" rows="1" cols="1">885.41</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Stockbridge</name> &amp; <name type="persons">Munsees</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">311.42</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">4,197.80</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Incompetent Chickasaws</cell>
+                     <cell role="data" rows="1" cols="1">496.03</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="persons">Chickasaw</name> Orphans</cell>
+                     <cell role="data" rows="1" cols="1">251.24</cell>
+                     <cell role="data" rows="1" cols="1">747.27―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">4,945.07</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$4,945.07</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+               </table>and transmit to this Department duplicate certificates of the same.</p>
+            <p>I have to request that the certificate embracing the last two items may be distinct from the others for the purposes of the accounting officers of the Departments.</p>
+            <closer>
+               <salute>very respectfully</salute>
+               <salute>Your <choice>
+                     <abbr>Obedt.</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name type="person">J. C. Spencer</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Richard Smith <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>Cash Bank of the Metropolis <name type="place">D.C.</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <pb n="3" facs="sc052c.small.jpg"/>
+      <back>
+         <head>J. C. Spencer <lb/>
+            <choice>
+               <abbr>Secy</abbr>
+               <expan>Secretary</expan>
+            </choice> of War <lb/>
+            <date when="1842-12-30">
+               <choice>
+                  <abbr>Dec.</abbr>
+                  <expan>December</expan>
+               </choice> 30 1842</date>
+         </head>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl470">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1795 Dec. 10, Nashville [Territory South of the Ohio River, to] David Henley / J.W. Overton   : a machine readable transcription of an image</title>
+            <author>Overton, J.W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl470</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1795 Dec. 10, Nashville [Territory South of the Ohio River, to] David Henley / J.W. Overton</title>
+               <author>Overton, J.W.</author>
+               <date when="1795-12-10">December 10, 1795</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from John Overton to David Henley, dated December 10, 1795. Overton reports that persons named Allison and Evans are broke, and consequently have stopped making payments on their debts. The debts are owed to  Mr. Tait. Overton blames Governor William Blount, who also owes money to Tait, as the prime cause of everyone's financial problems.</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">19</note>
+               <note type="document" anchored="true">sl470</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>Overton, John</term>
+               <term>Debt service</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Overton, John, 1766-1833</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl470a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>10th <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 1795</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>This day I have written you upon the Subject of Indian business; it remains now to communicate in the spirit and freedom of conversation_ The fact is <name>Allison</name> is broke, and I believe <name>John B. Evans</name> too My information is from <name>
+                  <choice>
+                     <abbr>M</abbr>
+                     <expan>Mister</expan>
+                  </choice> Tait</name> immediately from <choice>
+                  <abbr>Phila</abbr>
+                  <expan>Philadelphia</expan>
+               </choice> , who asserts positively that Allison has stopped <choice>
+                  <abbr>payt</abbr>
+                  <expan>payment</expan>
+               </choice> to a considerable <add>amt</add> The circumstance he relates of Evans in this that Evans applied to him for the loan of two thousand dollars for a few days, being obliged to make up money to the bank_  M Tait could not get his <pb n="2" facs="sl470b.small.jpg"/> his money, and was obliged to take goods. I understood it was with difficulty he could get them_ Tait had he says demands upon  Allison for fifteen hundred dollars. nine hundred dollars for monies drawn when he was Pay Master. Six hundred for money advanced the <choice>
+                  <abbr>Gov</abbr>
+                  <expan>Governor</expan>
+               </choice> at <name>Knoxville</name> when on his way_ The Gov gave a Bell upon Allison Such a set of ____ the world can scarcely produce__ All that I wish (and God forgive me for it) to complete the <unclear>scare</unclear> is that <name>Blount</name> the <unclear>primum</unclear> mobile may brake too__ that he is broke in credit with all the world, except few is certain</p>
+            <closer>
+               <salute>I am with much regard <lb/>
+                  <unclear>V. J. O.</unclear>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice> W Overton</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Henley</add>
+               <pb n="3" facs="sl470c.small.jpg"/>
+               <add>Nashville <lb/> 10 <choice>
+                     <abbr>Decemr</abbr>
+                     <expan>December</expan>
+                  </choice> 1795 <lb/> John Overton</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

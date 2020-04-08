@@ -1,0 +1,155 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter in Cherokee [with] translation, 1838 Jan. 5, to John Ross, Washington / George Lowrey: a machine-readable transcription</title>
+            <author>Lowrey, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch004</idno>
+            <idno>OCLC: 44750304</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter in Cherokee [with] translation, 1838 Jan. 5, to John Ross, Washington / George Lowrey</title>
+               <author>Lowrey, George</author>
+               <date when="1838-01-05">January 5, 1838</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written in the Cherokee syllabary from George Lowrey, Assistant Principal Chief, to John Ross, Principal Chief, dated January 5, 1838.  Lowrey reports to Ross, who is in Washington, D.C. with a Cherokee delegation, on the status of the Cherokee Nation.  He informs Ross that  the Cherokees have been given an ultimatum for removal and are threatened with violence if they do not cooperate and prepare to leave.  Lowrey has attempted to stall the progress of their removal and desperately desires communication from Ross.  A type written translation appears with this document.</note>
+               <note type="repository" anchored="true"> The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true"> State Library Cherokee Collection</note>
+               <note type="box" anchored="true"> 1</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">ch004</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Trail of Tears, 1838</term>
+               <term>Cherokee Nation</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lowrey, George</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch004a.small.jpg"/>
+            <p>
+               <add place="top">[<name type="person">George Lowery</name>]</add>
+               <figure>
+                  <figDesc>This is the first page of a letter written in the Cherokee syllabary.</figDesc>
+               </figure>
+            </p>
+            <pb n="2" facs="ch004b.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>This is the second page of a letter written in the Cherokee syllabary.</figDesc>
+               </figure>
+            </p>
+            <signed>
+               <name type="person">George Lowrey</name>
+            </signed>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="ch004c.small.jpg"/>
+            <p>
+               <unclear/>
+               <lb/>
+               <date when="--01-15">Jan 15</date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>25</p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>
+               <address>
+                  <addrLine>Mr. <name type="person">John Ross</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>3 de. 6</unclear>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="ch004d.small.jpg"/>
+            <opener>
+               <add place="top">Translation of a letter written in <name type="person">Cherokee</name> by <name type="person">George Lowrey</name>, Assistant Chief, to <name type="person">John Ross</name>, Chief of the <name>Cherokee Nation</name>- Now in possession of <name type="person">Mr. W.N. Ross</name>, <name type="place"> 
+                     <reg>OK</reg> Park Hill</name>, <name type="place">
+                     <choice>
+                        <abbr>Okla</abbr>
+                        <expan>Oklahoma</expan>
+                     </choice>
+                  </name>- <date when="1929-08-23">Aug 23, 1929</date>
+               </add>
+               <lb/>
+               <dateline>
+                  <address>
+                     <addrLine>Here at the Fort,</addrLine>
+                  </address>
+                  <date when="1838-01-05">Jan. 5, 1838</date>.</dateline>
+               <salute>
+                  <name type="person"> 
+                     <reg>John</reg> Ross</name>, Dear Friend:</salute>
+            </opener>
+            <p>I will now let you know how our country is going.  The other day I wrote you a letter and told you of several families had left <name type="person">Oojalunuhi Captain</name> now there are several different families are here now <name type="person">Woowastiyula Captain</name> and the other one <name type="person">Oodatiyulino Captain</name>.   They gather them up at <name type="place">Galoliyi</name> and I will tell you this, three or four days ago <name type="person">Captain Aniyosgi</name> Captain, he stays at <name type="place">Usdanali</name> and he said this: <q>Do you want to hear what <name type="person"> 
+                     <reg>John</reg> Ross</name> and <name type="person">Mayseen</name> talked about?</q>  I said , <q>Yes.  I want to hear what they said.</q>
+               <q>All right, they now then they will read their letters to you.</q>  And they began to read first letter which they wrote to <name type="person">Mayseen</name>.  When he got through the first letter he began to read the other letter.   The next letter he read was the answer from <name type="person">Mayseen</name>.  The last letter you wrote to <name type="person">Mayseen</name> and they read that also.  Also he read a letter from War Department, Captain of the soldiers gave them orders to approve treaty.  When he got through reading the letter he further said this:  <q>
+                  <name type="person"> 
+                     <reg>John</reg> Ross</name> has resigned his work.</q>  He said this to them: "This is last time I have written for you, therefore the War Department authorized to approve the treaty and the <name type="person">Cherokees</name> to get ready to go down the river and what little property they have to sell it quick as they can.  They will have to leave.  If they are not ready to leave in time to leave <date when="--05-25">May 25</date> I will have my soldiers and they may have to spill blood.  That is what I have to do according to my orders, although I don't want one Indian's single hair to fall to the ground.  Therefore I want you to notify them to get ready to leave and you are the vice president.  You are responsible to notify your people.  He asked me if I was going to notify the Captain of the soldiers.  I answered and said this:  <q>I will not do that.  I will not do this until the delegates come.  <name type="person"> 
+                     <reg>John</reg> Ross</name> will notify us what to do.</q>  He said this: <q>I am satisfied he will say to move out.  Hurry and tell them to move out.  <name type="place">Georgia</name> is their country and now the Indians cannot make their home there.  They will have to move out as quick as they can.  If they stay there to the time of the treaty, what little property they have, white people will steal what they got.  Then I cannot do anything for them unless my own tribe have a battle.</q>  and he said,  <q>You will have to notify your people.</q>  I said this:  <q>I wont do that.  I haven't received no letter yet.  I think I will get a letter to the effect.</q>  He said this-- he told me this:  What you have heard if just like he was sitting in front of you.  He has written you.  He has written you and heard what he has said."  He told me that they may be back already.  <name type="person">Usdali</name>, that was <name type="person"> 
+                  <reg>John</reg> Ross</name>'s Company.  That is all we said and he went away.</p>
+            <p>And this land we thought we might save it.  We have heard and the people in our Country have heard that and had hopes.  White people was sorry to hear that.  But we have heard afterwards that you have failed to do us any good.  Now the <name type="person">Cherokees</name> are very sorry and some have got no hope making a crop this coming spring and the white people are very glad.  That is all I have to tell.  There is lots of talk going on but I cannot tell it all.  I want you to write me a letter.  I want to hear from you and hear how you are getting along and what is going on.  I will let you know.  I am well, also my folks.</p>
+            <closer>From your friend to all your delegates to <name type="person"> 
+                  <reg>John</reg> Ross</name>
+               <signed>From <name type="person">George Lowrey</name>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

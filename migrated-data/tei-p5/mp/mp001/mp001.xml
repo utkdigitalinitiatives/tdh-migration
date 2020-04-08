@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mp001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1792 Nov. 14, Natchez [to] [Governor] Manuel Gayoso de Lemos / Daniel Clark  : a machine readable transcription of an image</title>
+            <author>Clark, Daniel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mp001</idno>
+            <idno>OCLC: 50333538</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Memphis Public Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Memphis Public Library, 3030 Poplar Avenue, Memphis, TN 38111</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1792 Nov. 14, Natchez [to] [Governor] Manuel Gayoso de Lemos / Daniel Clark </title>
+               <author>Clark, Daniel</author>
+               <date when="1792-11-14">November 14, 1792</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">The following document is a letter, dated November 14, 1792, from the representatives of Daniel Clark and Ebenezer Rees to Manuel Gayoso de Lemos, the Spanish governor of the district of Natchez and later governor of Louisiana. The two American traders     wrote to inform Lemos of a debt that is owed to them by Thomas Wilkins.</note>
+               <note type="collection" anchored="true">Goodman Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">mp001</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Debt service</term>
+               <term>Gayoso de Lemos, Manuel</term>
+               <term>Wilkins, Thomas</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n86125381"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Clark, Daniel, Jr., 1766-1813</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mp001a.small.jpg"/>
+            <head>To His Excellency Dr. Manuel <gap agent="damage"/>
+               <unclear>Gayoso de</unclear> Lemos, <choice>
+                  <orig>Coronel</orig>
+                  <reg>Colonel</reg>
+               </choice> of the Royal Army, Governor, <gap agent="damage"/> &amp; Military of the District of <name type="place">Natchez</name>.  </head>
+            <salute>May it Please Your Excellency.</salute>
+            <p>
+               <name type="person">Daniel Clark</name> and <name type="person">Ebenezer Rees</name> of the District of Natchez Planters, lately traders of the same, beg leave to represent to your Excellency, that they were lately connected with <name type="person">Thomas Wilkins</name> in Commerce. That their said <choice>
+                  <orig>Connexion</orig>
+                  <reg>Connection</reg>
+               </choice> was by Mutual consent <choice>
+                  <orig>Disolved</orig>
+                  <reg>Dissolved</reg>
+               </choice> — That on a Settlement of their Accounts Thomas Wilkins falls <choice>
+                  <orig>in debted</orig>
+                  <reg>indebted</reg>
+               </choice> to the said Clark &amp; Rees about Six Thousand Dollars, which sum they have had in Trade over and above their proportion of the Capital employed. — That the said Thomas Wilkins was by the Article which connected them as Partners in Trade, to derive half the Profits to be made during the existence of the said <choice>
+                  <orig>Connexion</orig>
+                  <reg>Connection</reg>
+               </choice>, and was likewise to bear an equal part of any loss they should sustain.</p>
+            <p>That the said Thomas Wilkins being so largely Indebted to them, and he rendered by sickness unfit for any active Business, they beseech Your Excellency <add place="bottom, right">will</add>
+               <pb n="2" facs="mp001b.small.jpg"/> will be pleased to issue an injunction that the Debt of said Store pay their respective Debts to Clark &amp; Rees, and to none else until the said Thomas Wilkins pays off the Debt he owes to Clark &amp; Rees.</p>
+            <closer>
+               <address>
+                  <addrLine>Natchez. <date when="1792-11-14">14th November 1792</date>
+                  </addrLine>
+               </address>
+               <signed>Daniel Clark</signed>
+               <signed>
+                  <choice>
+                     <abbr>Eben.</abbr>
+                     <expan>Ebenezer</expan>
+                  </choice> Rees</signed>
+               <foreign rend="sp">Natchor <date when="1792-11-20">20 de Nov. 1792</date>
+                  <lb/> Traslado a Dr. Thomas Wilkins</foreign>
+               <lb/> Gayoso</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

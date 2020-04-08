@@ -1,0 +1,163 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl651">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1837 Sep. 7, Tampa Bay, Florida [to] Newton Cannon, Nashville, Tennessee / [Thomas] Jessup : a machine readable transcription of an image</title>
+            <author> Jessup, [Thomas]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl651</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1837 Sep. 7, Tampa Bay, Florida [to] Newton Cannon, Nashville, Tennessee / [Thomas] Jessup</title>
+               <author> Jessup, [Thomas]</author>
+               <date when="1837-09-07"> 
+			 September 7, 1837</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Major General Thomas Jessup to Governor Newton Cannon, dates September 7, 1837. Jessup is requesting troops for the war against the Seminoles.</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl651</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Seminole War, 2nd, 1835-1842</term>
+               <term>Military planning</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jessup, [Thomas]</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl651a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Head Quarters Army of the South,</addrLine>
+                  <addrLine>
+                     <name>Tampa Bay</name>
+                     <date>September 6th 1837</date>.</addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I received by the last mail authority from the Secretary of War to call on your Excellency for such number of Volunteers as I might consider <unclear>necessary</unclear> in prosecuting the war in <name>Florida</name>. Under that authority I respectfully request that twelve hundred men be called into service for six months unless sooner discharged. I desire that four hundred of them be mounted_ that they be organized into a spy battalion of four companies.</p>
+            <p>The Secretary of War desires that the force required for Florida be <choice>
+                  <orig>organised</orig>
+                  <reg>organized</reg>
+               </choice> into independent companies: if that can be done I request that the remaining eight hundred men be organized into ten companies of foot, but if the force cannot be obtained with that organization, I request that it be formed into a regiment of foot.</p>
+            <p>An office of the Army will <pb n="2" facs="sl651b.small.jpg"/> be ordered to report to your Excellency to muster the troops into the service of the <name>United States</name>, and to accompany them to Florida and provide for them on the march.</p>
+            <p>If a regiment of foot cannot be obtained, I request your Excellency to send a mounted regiment in lieu of them:</p>
+            <closer>
+               <salute>And I have the honor to be, <lb/> with high consideration &amp; respect, <lb/> Your Excellency's <lb/> most <choice>
+                     <abbr>obdt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <unclear>Mj</unclear>Jessup</name>
+               </signed>
+               <add>Major <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+                  <unclear>ard</unclear>
+                  <lb/> the Southern Army</add>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>
+                     <name>Newton Cannon</name>,</addrLine>
+                  <addrLine>Governor of <name>Tennessee</name>,</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>,</addrLine>
+                  <addrLine>Tennessee__</addrLine>
+               </address>
+               <pb n="3" facs="sl651c.small.jpg"/>
+               <add>Express Mail <lb/> Paid</add>
+               <address>
+                  <addrLine>Head Quarters</addrLine>
+                  <addrLine>Army of the South</addrLine>
+               </address>
+               <address>
+                  <addrLine>His Excellency Newton Cannon</addrLine>
+                  <addrLine>Governor of Tennessee,</addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>Tennessee___</addrLine>
+               </address>
+               <add>
+                  <unclear>Viw</unclear>
+                  <name>Washington <lb/> City</name>.</add>
+               <add>Genl Jessup <lb/>
+                  <choice>
+                     <abbr>Sept.</abbr>
+                     <expan>September</expan>
+                  </choice> 6. 1837 <lb/>
+                  <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received</expan>
+                  </choice>
+                  <date>Sept 29. 37</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

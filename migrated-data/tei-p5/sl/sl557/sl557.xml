@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl557">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Jun. 30, Nashville, Tennessee [to] J[ames] Winchester, Cragfont, Tennessee / Jo[natha]n Anderson   : a machine readable transcription of an image</title>
+            <author>Anderson, Jno.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl557</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1815 Jun. 30, Nashville, Tennessee [to] J[ames] Winchester, Cragfont, Tennessee / Jo[natha]n Anderson</title>
+               <author>Anderson, Jno.</author>
+               <date when="1815-06-30">June 30, 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Jonathan Anderson to James Winchester, dated June 30, 1815. Anderson is writing on behalf of the Bank of Nashville. He is explaining to Winchester why the bank will not take his North Carolina bank notes.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl557</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Winchester, James, 1752-1826</term>
+               <term>Banks and Banking</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Anderson, Jno.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl557a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name> Bank <date>June 30th 1815</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>General <name>
+                        <choice>
+                           <abbr>J</abbr>
+                           <expan>James</expan>
+                        </choice> Winchester</name>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>We cannot give Nashville Bank notes in exchange for <name>North Carolina</name> Notes___ From persons in Business who deposit the cash they receive of every description, North Carolina state bank notes are taken in deposit, and even in this way are extremely inconvenient to us,_____ In no other way can we receive such notes, and we avoid them every way as much as possible</p>
+            <closer>
+               <salute>very respectfully <lb/> your <choice>
+                     <abbr>Obedt</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name>Jno Anderson</name>
+                  <choice>
+                     <abbr>Cashr</abbr>
+                     <expan>Cashier</expan>
+                  </choice>
+               </signed>
+               <pb n="2" facs="sl557b.small.jpg"/>
+               <address>
+                  <addrLine>Jno Anderson</addrLine>
+                  <addrLine>Cashier</addrLine>
+                  <addrLine>Nashville Bank</addrLine>
+               </address>
+               <address>
+                  <addrLine>General J Winchester</addrLine>
+                  <addrLine>
+                     <name>Cragfont</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

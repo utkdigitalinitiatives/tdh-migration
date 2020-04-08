@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0210">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1812 May 14 [to] Colonel Elias Earle, War Department / William Eustis : a machine readable transcription of an image</title>
+            <author>Eustis, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0210</idno>
+            <idno type="OCLC">OCLC: 45847436</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>  [Letter] 1812 May 14 [to] Colonel Elias Earle, War Department / William Eustis</title>
+               <author> Eustis, William</author>
+               <date when="1812-05-14"> 
+			 May 14, 1812</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This letter, from Secretary of War William Eustis to Colonel Elias Earle, discusses the desire of Colonel Earle to establish an Ironworks in the Cherokee Nation. Eustis asks Colonel Earle to select another piece of land for the possible establishment of the Ironworks because the previous tract of land has been designated, by treaty, as a site for the Cherokee chiefs and warriors. Eustis also tells Colonel Earle that Colonel Meigs has been instructed to help in this selection of new land.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">57</note>
+               <note type="document" anchored="true"> pa0210</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Cherokee Indians -- Treaties</term>
+               <term>Iron-works</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n86114858"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Eustis, William, 1753-1825</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0210a.small.jpg"/>
+            <opener>Copy <address>
+                  <addrLine>
+                     <name>Colonel Elias Earle</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>War Department</name>
+                     <date>May 14th 1812</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your late communications to this Department, relative to the project you formerly imparted to the Executive of the <name>United States</name>, for establishing a <choice>
+                  <orig>sett</orig>
+                  <reg>set</reg>
+               </choice> of Iron works with Smith shops, in the <name>Cherokee Nation</name>, <del type="overstrike">have</del> have induced a reconsideration of the Subject. The treaty heretofore entered with the Chiefs and warriors of that nation for the location of a site, then selected for the purpose, not having been completely ratified the prospect of your plan has necessarily been suspended; but as you still desirous of carrying it into effect, you may proceed to select some other site, that may be found to unite the principle advantages contemplated in your proposals and when such site shall be found, &amp; the Exchange made, your original intentions may be carried into Effect, agreeable to the Evidence you have introduced from under the hand of General <name>Henry Dearborn</name>, late Secretary of War_ <choice>
+                  <abbr>Colo.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Meigs is instructed to facilitate your operations in effecting such a location, &amp; to advise Government of any ulterior measures that the process of the business may under Expedient</p>
+            <closer>
+               <salute>I am sir respectfully, Your <choice>
+                     <abbr>obt. Servt</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>.</salute>
+               <signed>
+                  <name>William Eustis</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="pa0210b.small.jpg"/>
+            <p>William Eustis <lb/> Secretary of War <lb/> to <lb/> Elias Earle <lb/> May 14th 1812</p>
+         </div>
+      </back>
+   </text>
+</TEI>

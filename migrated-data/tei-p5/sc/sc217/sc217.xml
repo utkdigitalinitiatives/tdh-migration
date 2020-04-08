@@ -1,0 +1,136 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc217">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1803 Feb. 1 [to] John McKnitt Alexander, Mecklenburg County, North Carolina / Peggy A. Ramsey : a machine readable transcription of an image</title>
+            <author> Ramsey, Peggy A.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc217</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1803 Feb. 1 [to] John McKnitt Alexander, Mecklenburg County, North Carolina / Peggy A. Ramsey</title>
+               <author> Ramsey, Peggy A.</author>
+               <date when="1803-02-01"> 
+			 February 1, 1803</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter from Peggy A. Ramsey dated February 1, 1803. The letter is to her grandfather, John McKnitt Alexander. Peggy writes about studying the Bible and letter writing. She reports having finished her shorter catechism. She also mentions that her family has suffered from the whooping cough.</note>
+               <note type="collection" anchored="true">Ramsey Papers</note>
+               <note type="box" anchored="true">MS 253, B1</note>
+               <note type="folder" anchored="true">F1</note>
+               <note type="document" anchored="true"> sc217</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Family communication</term>
+               <term>Religious education</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007055951"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ramsey, Peggy A. (Peggy Alexander), 1766-1805</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc217a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <date>February 1st 1803</date> __</dateline>
+               <salute>Dear Grand papa</salute>
+            </opener>
+            <p>I am happy to hear that you think me worth <del type="overstrike">enquiring</del> enquiring after in my papa's Letter I am Sorry to let you see that I am So poor <unclear>aproficient</unclear> in the art of writing but I have not wrote to dozen of <unclear>leavs</unclear> at School yet but I have wrote at home Some of the time Since you were here as you directed me I am a reading in my Testament and I have got my Shorter catechism for which my papa thought I merited a new Saddle, which he got me, for which I can accompany  him to me <add>e</add> ting, I wish I may be found worthy to make that improvement  of my <choice>
+                  <orig>priviledges</orig>
+                  <reg>privileges</reg>
+               </choice> that will be required of me that I may I request your prayers for I read in my Testament that the effectual fervent prayers of a righteous man a <unclear>saileth</unclear> much, my brothers sister and my Self have the <choice>
+                  <orig>hooping</orig>
+                  <reg>whooping</reg>
+               </choice> Cough I remain <choice>
+                  <orig>Honoured</orig>
+                  <reg>Honored</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>Sir yours affectionately</salute>
+               <add>
+                  <name>John Mcknitt</name>
+                  <name>A Ramsey</name>
+               </add>
+               <pb n="2" facs="sc217b.small.jpg"/>
+               <add>from <name>Peggy A. Ramsey</name> dated <choice>
+                     <abbr>feby</abbr>
+                     <expan>february</expan>
+                  </choice> 1. 1803 <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice> the 13th____</add>
+               <address>
+                  <addrLine>
+                     <name>John McKnitt Alexander</name>  Esquire;</addrLine>
+                  <addrLine>
+                     <name>Mecklenburg County</name>;</addrLine>
+                  <addrLine>
+                     <name>North Carolina</name>.</addrLine>
+               </address>
+               <add>by <name>Mr Callin</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

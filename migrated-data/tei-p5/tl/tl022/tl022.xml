@@ -1,0 +1,272 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl022">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1795 Oct. 24, Nashville, [Tennessee to] Col[onel] David
+			 Henley, Knoxville, [Tennessee] / J[ames] L. Robertson : a machine-readable
+			 transcription of an image</title>
+            <author>Robertson, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl022</idno>
+            <idno>OCLC: 47822489</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1795 Oct. 24, Nashville, [Tennessee to] Col[onel]
+				David Henley, Knoxville, [Tennessee] / J[ames] L. Robertson</title>
+               <author>Robertson, James</author>
+               <date when="1795-10-24">October 24, 1795 </date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter written by General
+				James L. Robertson to Colonel David Henley of Knoxville, dated October 24,
+				1795. In the letter, Robertson warned Henley about the Creek Indians, who,
+				although they appeared to be seeking peace with the United States and
+				neighboring tribes, had been instigating hostilities with the Chickasaw
+				Indians. Robertson described a battle between the two tribes, which he stated
+				was initiated by a Creek offensive, yet concluded by a Chickasaw victory.
+				Robertson explained that the attack would prevent the Chickasaws from hunting,
+				which in turn would require the US government to send more provisions. The
+				letter concluded with Robertson offering Henley a proposal to purchase land.
+				Enclosed with the letter was a copy of a letter written by Chickasaw chief
+				Pioming (referred to by Robertson as Opiomingo), which further described the
+				Creeks' hostility and asked for assistance from the US government.</note>
+               <note type="Collection">Henley Papers</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">15</note>
+               <note type="Document">tl022</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek Indians--Wars</term>
+               <term>Chickasaw Indians--Wars</term>
+               <term>Creek Indians--Government relations</term>
+               <term>Chickasaw Indians--Government relations</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80165335"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Robertson, James, 1742-1814</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl022a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1795-10-24">October 24th 1795</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I take the liberty of troubling you with these lines, believing they
+			 will give you <choice>
+                  <orig>intelligiance</orig>
+                  <reg>intelligence</reg>
+               </choice> which may be
+			 pleasing to you as well as all the other <choice>
+                  <orig>Officirs</orig>
+                  <reg>Officers</reg>
+               </choice>
+			 of the General <choice>
+                  <orig>Govermint</orig>
+                  <reg>Government</reg>
+               </choice>
+               <del type="overstrike">
+                  <unclear>unk</unclear>
+               </del>
+            </p>
+            <p>Although the 
+			 <name type="person">Creeks</name> are at peace with the 
+			 <name type="place">United States</name>, the deceptive conduct they
+			 have made use of, with the <choice>
+                  <orig>officirs</orig>
+                  <reg>officers</reg>
+               </choice> of government,
+			 in getting them to <choice>
+                  <orig>Midiate</orig>
+                  <reg>Mediate</reg>
+               </choice> a peace between them
+			  the 
+			 <name type="person">Chickasaws</name> at the very time they were
+			 <choice>
+                  <orig>Midiating</orig>
+                  <reg>Mediating</reg>
+               </choice> the reverse against the latter Tribe,
+			 and actually marching <unclear>against (document damaged)</unclear> them,
+			 cannot be pleasing, or promise any <unclear>Just (document damaged)</unclear>
+			 grounds for a reliance on their Talks. This morning 
+			 <name> 
+                  <reg>person</reg> Sergeant Casselman</name> returned from the 
+			 <name type="place">Chickasaw Nation</name> with the following
+			 information that about the 
+			 <date when="---20">20th</date>
+               <choice>
+                  <abbr>Ultim</abbr>
+                  <expan>Ultimo</expan>
+               </choice> A large body of 
+			 <name type="person">Creeks</name> attacked the 
+			 <name type="person">Chickasaws</name> in their Town, no doubt, with
+			 intent to reduce some of their Forts as the 
+			 <name type="person">Creeks</name> had Stocks <unclear>prepared
+			 (document damaged)</unclear> to secure prisoners. As I have
+			 <choice>
+                  <orig>inclosed</orig>
+                  <reg>enclosed</reg>
+               </choice> you a copy of 
+			 <name> 
+                  <reg>person</reg> Opiomingo</name>'s letter to me, I need only give
+			 you such information as that letter does not contain. Since he wrote, one
+			 killed Some wounded 
+			 <name type="person">Creek</name> has been found, this makes the
+			 amount 26 in all which they gotten. This action has<unclear>much</unclear>
+			 animated the 
+			 <name type="person">Chickasaws</name> (<choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice>
+			 they say they are still willing to be at peace if the 
+			 <name type="person">Creeks</name> really <pb n="2" facs="tl022b.small.jpg"/> wish it) they
+			 took our Pack-Horse loaded with <choice>
+                  <orig>amunition</orig>
+                  <reg>ammunition</reg>
+               </choice>
+            </p>
+            <p>
+               <choice>
+                  <orig>Tho</orig>
+                  <reg>Though</reg>
+               </choice> they ask for men to assist them I
+			 think they do not expect them, for the reasons I gave them when in their
+			 Nation</p>
+            <p>you will see that the 
+			 <name type="person">Creeks</name> have got a <unclear>
+                  <choice>
+                     <orig>compleat</orig>
+                     <reg>complete</reg>
+                  </choice>
+               </unclear> flogging as they well deserved and
+			 returned home with the Loss of all their baggage <unclear>se</unclear>. This
+			 attack on the 
+			 <name type="person">Chickasaws</name> makes them give up all hopes of
+			 Hunting this Season, and I suppose will need much more Provisions from the 
+			 <name type="place">United States</name> than if they could.</p>
+            <p>The Land I was offering to you, I have sold for one thousand
+			 dollars; but if you have a desire to purchase one or two 640 acre Tracts for
+			 your <unclear>(document damaged)</unclear>, I will let you have them on
+			 <unclear>Warpath</unclear> at <unclear>(faded)</unclear> a dollar per acre, and
+			 others are selling at a dollar, if you incline to accept of my proposals,
+			 please to write me, or 
+			 <name type="person">Mr. Courton</name> I hope you have got
+			 safe through the Wilderness.</p>
+            <closer>
+               <salute>I have the Honor to be <lb/> Sir <lb/> your 
+				<choice>
+                     <abbr>Obt Humb Servt</abbr>
+                     <expan>Obedient Humble Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>James</expan>
+                     </choice> L.
+				  Robertson</name>
+               </signed>
+               <add place="bottom, left">
+                  <choice>
+                     <abbr>Col D</abbr>
+                     <expan>Colonel David</expan>
+                  </choice> Henley</add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> David
+				  Henley</name>
+                  </addrLine>
+                  <addrLine>agent Department of War</addrLine>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <add place="left">
+                        <name type="person">NJ. White</name>
+                     </add>
+                  </addrLine>
+               </address>
+               <add place="below, upside down">Nashville<lb/>
+                  <date when="1795-10-24">24 October 1795</date>
+                  <lb/>
+                  <name type="person">General Robertson</name>
+                  <lb/> Letter respecting the
+		  <lb/>
+                  <name type="person">Choctaw</name>
+                  <name type="person">Creeks</name> battle
+                        
+                     
+                  
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

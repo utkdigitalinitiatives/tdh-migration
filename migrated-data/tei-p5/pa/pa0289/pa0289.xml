@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0289">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt]  1807 Aug. 29, United States to Daniel McCoy / Return J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, Return Jonathan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0289</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt]  1807 Aug. 29, United States to Daniel McCoy / Return J. Meigs</title>
+               <author>Meigs, Return Jonathan</author>
+               <date when="1807-08-29">August 29, 1807</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a receipt for payment of $50.00 to Daniel McCoy for 20 spinning wheels made for the Cherokee Indians. Return J. Meigs, agent for the War Department in Tennessee made the payment on behalf of the United States.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0289</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Cherokee Indians</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0289a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Creek Path</name>
+                     <date>August 5th, 1807</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>This is to certify that <name>Daniel McCoy</name> made Twenty Passible Spinning wheels agreeable to my judgment and that <name>Mr. John Gunter</name> has delivered them unto such Indian Families as he thought would make proper use of them, which said wheels were delivered <add>In my presence <name>George Wolfe</name>
+               </add>
+            </p>
+            <pb n="2" facs="pa0289b.small.jpg"/>
+            <p>
+               <table>
+                  <head>The <name>United States</name>
+                  </head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1807</cell>
+                     <cell role="data" rows="1" cols="1">To <name>Daniel McCoy</name> ----</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Dr.</abbr>
+                           <expan>Debtor</expan>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">August 29th</cell>
+                     <cell role="data" rows="1" cols="1">To 20 Spinning wheels for <name>Cherokees</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"><?xm-replace_text {cell}?></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">at 250 <choice>
+                           <abbr>cts.</abbr>
+                           <expan>cents</expan>
+                        </choice> each-----</cell>
+                     <cell role="data" rows="1" cols="1">$50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Received of <name>Return <choice>
+                     <abbr>J.</abbr>
+                     <expan>Jonathan</expan>
+                  </choice> Meigs</name> fifty dollars in full payment of the above account. <lb/>
+               <name>Highwassee</name>
+               <date>29th August <lb/> 1807</date>
+               <lb/>
+               <name>David Files</name>
+            </p>
+            <closer>Duplicates signed <lb/>
+               <signed>John <add>his X mark</add> Gunter <unclear>
+                     <choice>
+                        <abbr>Atty</abbr>
+                        <expan>Attorney</expan>
+                     </choice>
+                  </unclear>
+               </signed>
+               <pb n="3" facs="pa0289c.small.jpg"/>
+               <add> Daniel McCoys' <lb/> Receipt $50.00 <lb/> 29th August 1807</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

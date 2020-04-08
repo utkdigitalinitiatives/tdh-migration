@@ -1,0 +1,102 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extracts from a letter, 1817 Mar. 2,  Washington City to John C. Calhoun, Sec[retar]y of War / Rev[erend] Samuel Worcester: a machine-readable transcription</title>
+            <author>Worcester, Samuel, 1770-1821</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch040</idno>
+            <idno>OCLC: 44837816</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Extracts from a letter, 1817 Mar. 2,  Washington City to John C. Calhoun, Sec[retar]y of War / Rev[erend] Samuel Worcester</title>
+               <author>Worcester, Samuel, 1770-1821</author>
+               <date when="1817-03-02">March 2, 1817</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">Copied extract of a letter wherein Reverend Samuel Worcester, Corresponding Secretary of the American Board of Commissioners for Foreign Missions and missionary to the Cherokees, writes to John C. Calhoun, Secretary of War, to inform him, with regard to Indian civilization and culture, that views and dispositions of the President are in full accordance with those of the Board. The Board in which Samuel Worcester is associated deals mainly with Cherokees, Chickasaws, Choctaws, and Creeks, March 2, 1817.</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">29</note>
+               <note type="document" anchored="true">ch040</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Missions</term>
+               <term>Creek Indians</term>
+               <term>Chickasaw Indians</term>
+               <term>Choctaw Indians</term>
+               <term>Cherokee Indians--Social conditions</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr91036456"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Worcester, S. A. (Samuel Austin), 1798-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch040a.small.jpg"/>
+            <head>
+               <add place="top">E.</add>
+               <lb/>Extracts from a letter of <name type="person">Rev. Samuel Worcester</name> D.D. <choice>
+                  <abbr>Cor. Sec.</abbr>
+                  <expan>Corresponding Secretary</expan>
+               </choice> to <choice>
+                  <abbr>Hon.</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <name type="person">John C. Calhoun</name>
+               <choice>
+                  <abbr>Secy.</abbr>
+                  <expan>Secretary</expan>
+               </choice> of War, dated, <name type="place">Washington City</name>
+               <date when="1817-03-02"> Mar. 2 1817</date>
+            </head>
+            <p>I <del type="overstrike">and</del> have no doubt, that, in regard to the general object of Indian civilization  culture, the views  dispositions of the Executive are in full accordance with those of the Board.  It has been with the Board from the first a matter of earnest desire  care to deserve  to obtain the countenance  aid of the government;  it is a particular felicity to feel the confidence, that in this it have not failed; and that so long as it shall continue to be duly entitled to this high patronage, it will have no occasion to use solicitation, but only in a fair manner to present its objects  its exigencies, in order to secure the help which shall be in the power of the Executive to afford.</p>
+            <p>The attention of <add place="supralinear">the</add> Board in whose behalf I have the honor to act is Especially directed, as you have been apprised, to the four nations of the South West, the <name type="person">Cherokees</name>, <name type="person">Chickasaws</name>, <name type="person">Choctaws</name>, and <name type="person">Creeks</name>.  Its first establishment was commenced in the <name>Cherokee nation</name> just about two years ago,  has prospered beyond the most sanguine Expectations.  It comprises at present four missionaries  teachers with their families, besides a farmer  other laborers.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,327 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mp006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Sep. 13, Choctaw Nation, Pigeon Roost [to]  Reverend W. Elias Cornelius, Andover, Mass[achusetts] / David Folsom : a machine readable transcription of an image </title>
+            <author>Folsom, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mp006</idno>
+            <idno>OCLC: 50335391</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Memphis Public Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Memphis Public Library, 3030 Poplar Avenue, Memphis, TN 38111</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Sep. 13, Choctaw Nation, Pigeon Roost [to]  Reverend W. Elias Cornelius, Andover, Mass[achusetts] / David Folsom</title>
+               <author>Folsom, David</author>
+               <date when="1819-09-13">September 13, 1819</date>
+               <extent>3 p</extent>
+               <note type="summary" anchored="true">The following document is a letter, dated September 13, 1819, from David Folsom of the Choctaw Nation to Reverend Elias Cornelius in Andover, MA.  Folsom writes in reference to an inquiries made by the United States government about a possible exchange of money for land within the Choctaw Nation.  Folsom also describes plans to build a new missionary school in Yello Busha.  At the close of the document, the obituary of David Folsom is attached.  Folsom fought with the US army against the Creeks during the Creek War and he served as a chief of the Choctaw Nation from 1826 to 1830.  He was one of the Choctaw leaders responsible for the treaty which removed the Choctaw Nation to Oklahoma.</note>
+               <note type="collection" anchored="true">Goodman Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">mp006</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Choctaw Indians -- Treaties</term>
+               <term>Real property</term>
+               <term>Missions -- Study and teaching</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2006107139"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Folsom, David, 1791-1847</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mp006a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Choctaw Nation Pigeon Roost</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1819-09-13">
+                        <choice>
+                           <abbr>Sept.</abbr>
+                           <expan>September</expan>
+                        </choice>13th. 1819</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>With much pleasure I take the liberty to write <del type="overstrike">you</del> you <choice>
+                  <orig>fiw</orig>
+                  <reg>few</reg>
+               </choice> lines— I will say to you on this, and inform you that <choice>
+                  <orig>perticulars</orig>
+                  <reg>particular</reg>
+               </choice>   of what it has been <choice>
+                  <orig>past</orig>
+                  <reg>passed</reg>
+               </choice> now in Law month back in the Nation. The <unclear>throught</unclear> by <del type="overstrike">by</del>
+               <name type="person">
+                  <choice>
+                     <abbr>Genl. A.</abbr>
+                     <expan>General Andrew</expan>
+                  </choice> Jackson</name>  the <choice>
+                  <orig>Govenment disiries</orig>
+                  <reg>Government desires</reg>
+               </choice> to obtain the sense of the Nation <choice>
+                  <orig>wether</orig>
+                  <reg>whether</reg>
+               </choice> any part or the <choice>
+                  <orig>hole</orig>
+                  <reg>whole</reg>
+               </choice> of the Nation would Exchange lands with <name type="place">
+                  <choice>
+                     <abbr>U.</abbr>
+                     <expan>United</expan>
+                  </choice> States</name>  or not, and on the <choice>
+                  <orig>consequance</orig>
+                  <reg>consequence</reg>
+               </choice> of it. the Agent send <name type="person">John Pitchlynn</name>  the <choice>
+                  <orig>interpretor</orig>
+                  <reg>interpreter</reg>
+               </choice> for this Nation, <choice>
+                  <orig>throught</orig>
+                  <reg>throughout</reg>
+               </choice>  the Nation, and <choice>
+                  <orig>Explane</orig>
+                  <reg>Explain</reg>
+               </choice> the <choice>
+                  <orig>Govenment</orig>
+                  <reg>Government</reg>
+               </choice> wanting to exchange land with us, And at the same time the Nation ordered a General Council to be held which it was done. And I <choice>
+                  <orig>belive</orig>
+                  <reg>believe</reg>
+               </choice> to a men was a poise to in regard of Exchange. And  I think I can say on a show <unclear>Ground</unclear> that Choctaws never will agree to <del type="overstrike">spare</del> Exchange land and at the same time at that Council, the people gave for the benefit of school at <name> 
+                  <reg>place</reg> 
+                  <choice>
+                     <orig>Yollo</orig>
+                     <reg>Yello</reg>
+                  </choice> Busha</name>— <unclear>nealy</unclear> 85 Cows &amp; Calves, and some money <name type="person">Mr. Jewell</name>was out in Collecting those Cows &amp; Calves have been given to that School.  he collect 53 Cows &amp; Calves and 2 <choice>
+                  <orig>stears</orig>
+                  <reg>steers</reg>
+               </choice> and yoke of oxen was lent to work at the Establishment. I did help myself yesterday and went with Mr Jewell 5 or 6 miles on his way to <choice>
+                  <orig>Yollo</orig>
+                  <reg>Yello</reg>
+               </choice> Busha with those Cattles. and he will <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> more <choice>
+                  <orig>betwen</orig>
+                  <reg>between</reg>
+               </choice> this and to the Establishment. as people have <unclear>
+                  <choice>
+                     <orig>poramis</orig>
+                     <reg>promised</reg>
+                  </choice>
+               </unclear>  to aid for the good of School.  I have gave myself 53 $ and 2 Cows and Calves and one <choice>
+                  <orig>steare</orig>
+                  <reg>steer</reg>
+               </choice> for the benefit of School at <choice>
+                  <abbr>Yoll.</abbr>
+                  <expan>Yello</expan>
+               </choice> Busha and <choice>
+                  <orig>maney</orig>
+                  <reg>many</reg>
+               </choice> more have, and will, follow the same <choice>
+                  <orig>Exampble</orig>
+                  <reg>Example</reg>
+               </choice>— You will understand that there is three <choice>
+                  <orig>Destrict</orig>
+                  <reg>District</reg>
+               </choice> in the Choctaw Nation, and <add place="supralinear">I</add> did now in five days ago attend a Council in one of the <choice>
+                  <orig>Destrict</orig>
+                  <reg>district</reg>
+               </choice>, called North East <choice>
+                  <orig>Destrict</orig>
+                  <reg>District</reg>
+               </choice>, And in that Council, the Chiefs and Warriors have <pb n="2" facs="mp006b.small.jpg"/> have <choice>
+                  <orig>findilly agreeed</orig>
+                  <reg>finally agreed</reg>
+               </choice> to appropriate <choice>
+                  <orig>Tan</orig>
+                  <reg>Ten</reg>
+               </choice> thousand Dollars per Year, for 17 years this money is a <choice>
+                  <orig>anualy</orig>
+                  <reg>annually</reg>
+               </choice> due this <choice>
+                  <orig>Destrict</orig>
+                  <reg>District</reg>
+               </choice> up to 17 years from the <choice>
+                  <abbr>U.</abbr>
+                  <expan>United</expan>
+               </choice> States— For which money this <choice>
+                  <abbr>N.E.</abbr>
+                  <expan>North East</expan>
+               </choice>
+               <choice>
+                  <orig>Destrict</orig>
+                  <reg>District</reg>
+               </choice> will give in aid<add place="supralinear">ing</add> the School <del type="overstrike">to</del> If <add place="supralinear">the</add>
+               <choice>
+                  <orig>Bord</orig>
+                  <reg>Board</reg>
+               </choice> will <choice>
+                  <orig>ennact</orig>
+                  <reg>enact</reg>
+               </choice> a School in this <choice>
+                  <orig>Destrict</orig>
+                  <reg>District</reg>
+               </choice>— The <choice>
+                  <abbr>U.</abbr>
+                  <expan>United</expan>
+               </choice> States Agent will I hope will help us forwarding this school.  As the Council depend on him to aid us all he can.  however he has not as Yet <choice>
+                  <orig>Recived</orig>
+                  <reg>Received</reg>
+               </choice> information to write on, on this <choice>
+                  <orig>subgect</orig>
+                  <reg>subject</reg>
+               </choice> , as he was not at the Council—</p>
+            <p>Dear friend you will understand, that your good people of the North have leads us to the edge of great good of white path. and we Red people have <unclear>lession</unclear> an to you, good Council and me.  Choctaws have discovered the day light <choice>
+                  <orig>approgeing</orig>
+                  <reg>approaching</reg>
+               </choice> for us good.  by <choice>
+                  <orig>takeing</orig>
+                  <reg>taking</reg>
+               </choice> your Council. You have treated us with kindness you have been our guide and Father. </p>
+            <p>Now lead us <add place="supralinear">on</add> in this white path.  that we may find the great joy and happiness, as you do— We are anxious for more school in our Nation— all our hope and <choice>
+                  <orig>hole confidience</orig>
+                  <reg>whole confidence</reg>
+               </choice> is in your good people to save us. We are looking for help from   <add place="supralinear">you</add> as a helpless Child <del type="overstrike">would</del> Crying to their father to have <choice>
+                  <orig>pitty</orig>
+                  <reg>pity</reg>
+               </choice> on them. The health of our beloved <choice>
+                  <orig>Missionarys</orig>
+                  <reg>Missionaries</reg>
+               </choice> at <choice>
+                  <orig>Yollo</orig>
+                  <reg>Yello</reg>
+               </choice> Busha are good.</p>
+            <p>Please to write me as <choice>
+                  <orig>offen</orig>
+                  <reg>often</reg>
+               </choice> as you can as I never had the honor of <choice>
+                  <orig>Reciving</orig>
+                  <reg>Receiving</reg>
+               </choice> any letter from you <choice>
+                  <orig>sense</orig>
+                  <reg>since</reg>
+               </choice> you Wrote me at <name type="place">Philadelphia</name>  —</p>
+            <closer>
+               <salute>I am your true friend and humble servant</salute>
+               <signed>
+                  <name type="person">David Folsom</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Rev.</abbr>
+                           <expan>Reverend</expan>
+                        </choice> W. Elias Cornelius</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="mp006c.small.jpg"/>
+            <p>
+               <add place="top, right">25</add>
+               <address>
+                  <addrLine>
+                     <name type="place">Chickasaw Agency</name>
+                  </addrLine>
+                  <addrLine>
+                     <add rend="different ink">Andover <add place="infralinear">ford</add> Nor25 </add>
+                     <unclear>Oct</unclear> 30</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Rev.</abbr>
+                        <expan>Reverend</expan>
+                     </choice> Elias Cornelius</addrLine>
+                  <addrLine>
+                     <name type="place">Andover</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Mass.</abbr>
+                           <expan>Massachusetts</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="bottom, left">Mail }</add>
+            </p>
+            <p>
+               <add place="bottom, left">Death of an Old Warrior.—<choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> David Folsom, a highly respectable citizen of the Choctaw Nation, died at his residence on the 24th <choice>
+                     <abbr>ult.</abbr>
+                     <expan>ultimo</expan>
+                  </choice> The <hi rend="i">Arkansas Intelligencer</hi> says, that in the death of <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Folsom the Choctaws have lost one of the lights of that Nation, and the Government of the United States a steadfast friend, who has been the same at all times.  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Folsom has filled every position that a citizen  of the Choctaw Nation can fill under the constitution, and by the voice of his countrymen.  <choice>
+                     <abbr>Col. F.</abbr>
+                     <expan>Colonel Folsom</expan>
+                  </choice> served as a leader of a party of Choctaw warriors against the <name type="person">Creeks</name>, during the creek war, where his bravery and friendship to the United States rendered him a cherished object of Government favor.  He was also under <choice>
+                     <abbr>Gen.</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson at the surrender of <name type="place">Pensacola</name>. He was the untiring advocate of religion and education, and had the high gratification before his death, to witness a moral and intellectual change among his people. <lb/> [N. O. Pic. 21st.</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

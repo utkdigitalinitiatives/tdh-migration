@@ -1,0 +1,194 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1803 June 9, Knoxville, [Tennessee], [to] Henry
+			 Dearborne, [i.e. Dearborn], Secretary at War / Archibald Roane, Governor of the
+			 State of Tennessee : a machine-readable transcription of an image</title>
+            <author>Roane, Archibald</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Chadwell</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl003</idno>
+            <idno>OCLC: 47783986</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1803 June 9, Knoxville, [Tennessee], [to] Henry
+				Dearborne, [i.e. Dearborn], Secretary at War / Archibald Roane, Governor of the
+				State of Tennessee</title>
+               <author>Roane, Archibald</author>
+               <date when="1803-06-09">June 9, 1803 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written on June 9,
+				1803, by Tennessee Governor Archibald Roane (1801-1803) to Secretary at War
+				Henry Dearborn. In the letter, Roane informed Dearborn of a road in Tennessee
+				which was believed to be inhabited by bandits who had been attacking
+				travellers. It was unknown if the bandits were Indians, white men, or both.
+				Roane offered some suggestions concerning the insurance safety of the
+				travellers, including offering a reward to induce the Indians to help catch the
+				culprits. Roane expressed concern that if it were discovered that the bandits
+				were from an Indian tribe, relations between the Indians and whites in the
+				region would deteriorate.</note>
+               <note type="Collection"> Governor Roane Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl003</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians of North America--Government relations</term>
+               <term>Brigands and robbers</term>
+               <term>Tennessee</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96010062"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Roane, Archibald, 1759-1819</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl003a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1803-06-09">9th June 1803</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>The road passing through the 
+			 <name type="place">Anderson County</name> from 
+			 <name type="place">Nashville</name> to 
+			 <name type="place">Natchez</name> has for some time past been
+			 infested with a gang of <choice>
+                  <orig>Banditts</orig>
+                  <reg>Bandits</reg>
+               </choice>, whether White men
+			 or Indians or both, has not been fully ascertained. I enclose a
+			 <add place="supralinear">copy of a</add> Letter from 
+			 <name type="person">General Winchester</name> on that subject. Not
+			 long before the transaction mentioned by him three of the Citizens of this
+			 state were returning from 
+			 <name type="place">Natchez</name> they were fired on, and one of the
+			 party (<unclear>
+                  <name type="person">Reuben White</name>
+               </unclear>) killed, the others
+			 made their escape, they were pursued several miles by three persons one of whom
+			 they supposed to be a white man and the other two Indians.</p>
+            <p>I am aware of the difficulty of devising any effectual plan to
+			 ensure the safety of travellers on that road, or to <add place="supralinear">discover and</add> apprehend the perpetrators of such
+			 crimes  Perhaps a <del type="overstrike">
+                  <unclear>few men</unclear>
+		  stationed at different</del>
+               <add place="supralinear">some
+		  <unclear>houses</unclear> of <unclear>entertainment</unclear> and a few</add>
+		  posts <add place="supralinear">established</add> on the road (say at the
+		  <del type="overstrike">unc</del>
+               <name type="place">
+                  <unclear>Duck</unclear>
+               </name> and 
+		  <name type="place">Tennessee</name> rivers) might have a good effect
+		  <del type="overstrike">on deterring</del> and a reward offered might
+		  <pb n="2" facs="tl003b.small.jpg"/> induce some of the Indians to use their efforts under the
+		  direction of the Agents to apprehend the offenders, or such other measures as
+		  the President may think proper to direct.
+               </p>
+            <p>I wish to hear from you on this subject as soon as Convenient. If
+			 Similar cases should occur and it should appear that the offenders belong to
+			 any tribe of Indians I doubt whether the frontier citizens would wait for the
+			 Orders of Government while their minds are so much <add place="supralinear">
+                  <unclear>an of so Justly</unclear>
+               </add> irritated 
+			 <choice>
+                  <orig>Every thing</orig>
+                  <reg>Everything</reg>
+               </choice> in my power will be done to make a
+			 discovery of the perpetrators of the Murders and Robberies
+			 <add place="supralinear">and also</add> to preserve that peace
+			 <del type="overstrike">friends</del> with the Indians which is so necessary to
+		  our prosperity <del type="overstrike">and</del>
+            </p>
+            <closer>
+               <salute>I am Sir with great respect <lb/>
+                  <del type="overstrike">unc</del>
+                  <lb/> Your Most 
+				<choice>
+                     <abbr>Obd</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant
+                     
+                  </salute>
+               <signed>
+                  <hi>
+                     <name type="person">Archibald Roane</name>
+                  </hi>
+               </signed>
+               <add>
+                  <address>
+                     <addrLine>
+                        <name type="person">Henry Dearborne 
+					 <choice>
+                              <abbr>Esq</abbr>
+                              <expan>Esquire</expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                     <addrLine>Secretary at War</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0255">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Testimony] 1843 Nov. 4 [of] William H. Thomas regarding the improvements of Rebecca Starritt  : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0255</idno>
+            <idno type="OCLC">OCLC: 45963522</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Testimony] 1843 Nov. 4 [of] William H. Thomas regarding the improvements of Rebecca Starritt</title>
+               <date when="1843-11-04">November 4, 1843</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a sworn statement given by William H. Thomas. Thomas claims he was employed by Rebecca Starritt in 1838 to help her receive compensation for improvements to her land. Thomas also states that he failed to obtain compensation for Rebecca Starritt. See also pa0252, pa0253, and pa0254.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033, b1</note>
+               <note type="folder" anchored="true">142</note>
+               <note type="document" anchored="true"> pa0255</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Land tenure</term>
+               <term>Betterments</term>
+               <term>Cherokee Indians -- Claims</term>
+               <term>Starritt, Rebecca</term>
+               <term>Union County (Ga.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0255a.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name>County of Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Dist</abbr>
+                           <expan>District</expan>
+                        </choice>. Columbia</name>
+                  </addrLine>
+               </address> In the year 1838 I was employed by <name>Richard Henson</name> to <unclear>presuite</unclear> a claim for his daughter Rebecca for an improvement but failed to obtain any compensation for the claimant.</p>
+            <p>
+               <name>Preston Starritt</name> married the said <name>Rebecca Henson</name> as I have been informed by her father as well as by the general report in the neighborhood. <choice>
+                  <abbr>Nov</abbr>
+                  <expan>November</expan>
+               </choice>. 4 1843</p>
+            <closer>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Wm H</abbr>
+                        <expan>William Holland</expan>
+                     </choice>. Thomas</name>
+               </signed>
+               <add>Sworn to me this 4' day of November 1843.</add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> D McPherson</name>
+                  <choice>
+                     <abbr>J.P</abbr>
+                     <expan>Justice of the Peace</expan>
+                  </choice>.―</signed>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="pa0255b.small.jpg"/>
+      <back>
+         <head>945 4th <unclear>Comm</unclear> Deposition</head>
+         <signed>
+            <name>
+               <choice>
+                  <abbr>Wm H</abbr>
+                  <expan>William Holland</expan>
+               </choice> Thomas</name>
+         </signed>
+      </back>
+   </text>
+</TEI>

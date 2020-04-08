@@ -1,0 +1,201 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Apr. 13, Washington to President Martin Van Buren / delegation of the Cherokee Nation: a machine-readable transcription</title>
+            <author>Cherokee Nation</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch025</idno>
+            <idno>OCLC: 44772432</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Apr. 13, Washington to President Martin Van Buren / delegation of the Cherokee Nation</title>
+               <author>Cherokee Nation</author>
+               <date when="1838-04-13">April 13,1838</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a copy of a letter from a delegation of Cherokee leaders, including John Ross, Elijah Hicks, and White Path, among others, to President Martin Van Buren (1837-1841), dated April 13, 1838.  The delegation complains to the President that their communications in Washington were unfairly curtailed before they truly began, and the news of this occurrence has caused considerable distress in the Cherokee Nation.  They prepared a Memorial to be delivered to Congress in response, and it was signed by over fifteen thousand people.  The Memorial is no longer attached.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true"> 1</note>
+               <note type="folder" anchored="true"> 23</note>
+               <note type="document" anchored="true">ch025</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Legal status, laws, etc.</term>
+               <term>Georgia</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007049443"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Cherokee Nation</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n82214557"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Ross, John, 1790-1866</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Gunter, Edward</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr96029997"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Taylor, Richard, 1788-1853</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Brown, James</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Gunter, Samuel</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Sitawakee</name>
+               </term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2007000024"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Hicks, Elijah, 1797-1856</name>
+               </term>
+               <term>
+                  <name role="Contributor http://id.loc.gov/vocabulary/relators/ctb">White Path</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch025a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Washington City</name>
+                     </addrLine>
+                  </address>
+                  <date when="1838-04-13">April 13th. 1838</date>
+               </dateline>
+               <salute>To His <choice>
+                     <abbr>Excy</abbr>
+                     <expan>Excellency</expan>
+                  </choice>
+                  <lb/>
+                  <name type="person">Martin Vanburen</name>
+                  <lb/> President of the <name type="place">U.S.</name>
+                  <lb/>Sir,
+                        
+                     
+                  </salute>
+            </opener>
+            <p>At the interview with which we were <choice>
+                  <orig>honoured</orig>
+                  <reg>honored</reg>
+               </choice> on our arrival here some Months ago, as a regularly appointed Delegation from the <name>Cherokee Nation</name>, we were referred by your  Excellency to the Secretary of War.  We were then encouraged to expect that a negotiation would be forthwith opened to settle all matters between the <name>Cherokee Nation</name> and the <name type="place">United States</name>.  Informal Communications followed, at the express suggestion of the Secretary of War, between Mr. <name type="person">John Mason jr.</name>, and two individuals of our Delegation, <name type="person">John Ross</name> and <name type="person">Edward Gunter</name>, who were told that if there should be no result from those Communications, the Delegation, as a body, would Still be at perfect liberty to proceed with our official intercourse, as though nothing had intervened.  But while the individuals in question were yet waiting a reply<pb n="2" facs="ch025b.small.jpg"/>from <name type="person"> 
+                  <reg>John</reg> Mr. Mason</name>, to the last unofficial suggestion they had offered, and before any <del type="overstrike">pro</del> official proposition whatever had been presented by us to the Secretary of War, subsequently to his recognition of our Credentials,  A letter was written by <name type="person">Mr. Harris</name>, the Indian Commissioner, to the Government Officers in the <name type="person">Cherokee</name> Country, stating that all official Communication between the Government and the Delegation was closed.  We were certainly at a loss to understand how that could be closed, which had not as yet commenced; And we were Still further perplexed when we found that, upon this assurance from <name type="person">Mr. Harris</name>, a Circular was sent among our people, of which we convey <add place="supralinear">a copy</add> to your Excellency. The effect of this paper upon the Nation will be seen from a protest and Memorial which it produced, signed by fifteen thousand, six hundred and sixty five persons, and of which we also enclose a copy .  We were instructed to present this protest and memorial to Congress, and we did present it.  It was there remarked that nothing having been referred <add place="supralinear">by the Executive</add> to Congress, the whole affair more properly belonged to the Executive.  This, we trust, will sufficiently explain why We have thought it proper to bring the Subject at once before your Excellency.
+               </p>
+            <p>We would now distinctly assure your Excellency,<pb n="3" facs="ch025c.small.jpg"/>that since our ardent desire to have settled the differences between the <name type="place">United States</name> and our Nation, by retaining a portion of our territory and becoming Citizens, with all the <choice>
+                  <orig>previleges</orig>
+                  <reg>privileges</reg>
+               </choice> of <del type="overstrike">becoming</del> Citizens of the <name type="place">United States</name>, has been entirely rejected by the Government; We are perfectly ready, under the necessity of the case, to meet the views of the <name type="place">United States</name>, by entering into such a treaty of entire Cession for ever of the <name type="person">Cherokee</name> Country, as our duty to our Constituents will permit.
+               </p>
+            <p>We cannot but believe that, blended with the vast power of the <name type="place">United States</name>, there must be all that magnanimity, which may entitle us to hope that this earnest wish on our part to settle an extremely embarrassing question in a manner which can afford no pretext whatever for difficulty on either side, will be met in the same spirit with which it is offered.  Our people expect that we <add place="supralinear">shall</add> should finally arrange the matter here in <name type="place">Washington</name>.  We are fully prepared to do so; and we cannot doubt, if such be the disposition of your Excellency, that the whole subject will be most satisfactorily terminated without delay, <q>peaceably and on reasonable terms.</q>
+            </p>
+            <p>We need not explain to the considerate mind of your Excellency, why we ask the earliest decision<pb n="4" facs="ch025d.small.jpg"/>upon this request, from,
+               </p>
+            <closer>
+               <salute>Sir, Most respectfully Your Excellency's most  humble and <del type="overstrike">Obt</del>
+                  <add place="supralinear"> devoted</add>
+                  <choice>
+                     <abbr>Servts.</abbr>
+                     <expan>Servants</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> Ross</name>
+               </signed>
+               <signed>
+                  <name type="person">Edward Gunter</name>
+               </signed>
+               <signed>
+                  <name type="person">R. Taylor</name>
+               </signed>
+               <signed>
+                  <name type="person">James Brown</name>
+               </signed>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Saml.</abbr>
+                        <expan>Samuel</expan>
+                     </choice> Gunter</name>
+                  <unclear/>
+               </signed>
+               <signed>
+                  <name type="person">Sitawakee</name>
+               </signed> X<signed>
+                  <name type="person">Elijah Hicks</name>
+               </signed>
+               <signed>
+                  <name type="person">White Path</name>
+               </signed> X</closer>
+         </div>
+         <div subtype="1" type="letter">
+            <p>Copy of a letter from the Delegation of the <name>Cherokee Nation</name> to The President of the <name type="place">United States</name>
+               <date when="1838-04-13">April 13th 1838</date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>From papers of <name type="person">John Ross</name> in possession of his grandson <name type="person">Robert B. Ross</name>
+               <name type="place"> 
+                  <reg>OK</reg> Park Hill</name>, <name type="place">
+                  <choice>
+                     <abbr>Okla</abbr>
+                     <expan>Oklahoma</expan>
+                  </choice>
+               </name>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

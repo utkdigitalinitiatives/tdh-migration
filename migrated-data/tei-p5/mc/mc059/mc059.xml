@@ -1,0 +1,135 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Jul. 7, Mouth of Sweet Water [to] Mr. Cha[rle]s F. Welcker, Roane County, Ten[nessee] / A[lbert] S. Lenoir  : a machine readable transcription of an image</title>
+            <author>Lenoir, Albert S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc059</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Jul. 7, Mouth of Sweet Water [to] Mr. Cha[rle]s F. Welcker, Roane County, Ten[nessee] / A[lbert] S. Lenoir</title>
+               <author>Lenoir, Albert S.</author>
+               <date when="1839-07-07">July 7, 1839</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated July 7, 1839, from Albert S. Lenoir to his brother-in-law Charles F. Welcker in Roane County, Tennessee.  Lenoir writes to inform Welcker that Ellick, a slave he had hired from Welcker was found to have left his clothes behind in a hollow log as he had seemingly departed from Lenoir's property.  Lenoir states that he wishes to flog Ellick, but asks Welcker his opinion on the matter.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc059</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Slaveholders</term>
+               <term>Tennessee, East</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2008162663"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lenoir, Albert S., 1803-1861</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc059a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Mouth of <name>Sweet Water</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>July 7th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Charles</salute>
+            </opener>
+            <p>
+               <name>Goin</name> arrived safe last evening, and I have taken the liberty of sending him back to acquaint you with some circumstances of late occurrence, in regard to which I am at a loss how to proceed.</p>
+            <p>Yesterday evening some fishermen found a wallet hid in a hollow log about two hundred yards up the creek which they examined and found to contain mens clothes_ <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> let me know it &amp; I found them to be Ellick's_ brought them to the house privately &amp; have them in keeping but for which I think he would have been off last night.  I think he has no mistrust as yet that I am in the secret, but will have shortly</p>
+            <p>My own course if left unadvised would be to tuck him up &amp; flog him pretty well; but I think it best to <choice>
+                  <orig>in form</orig>
+                  <reg>inform</reg>
+               </choice> you and wish you take some steps about it or advise me what to do_ perhaps it might be well for you to come over this evening_ but of this  you must be the judge_ if you do not come write_ We are all tolerable well</p>
+            <closer>
+               <salute>Yours <choice>
+                     <abbr>&amp;C.</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>A.</abbr>
+                        <expan>Albert</expan>
+                     </choice> S. Lenoir</name>
+               </signed>
+               <pb n="2" facs="mc059b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Mr <choice>
+                           <abbr>Chas. F.</abbr>
+                           <expan>Charles Frederick</expan>
+                        </choice> Welcker</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Roane County</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>By Goin</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

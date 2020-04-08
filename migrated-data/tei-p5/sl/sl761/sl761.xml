@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl761">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Resolution] 1819 Jan. 8 United States Senate : a machine readable transcription of an image</title>
+            <author>United States Senate</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl761</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Resolution] 1819 Jan. 8 United States Senate</title>
+               <author> United States Senate</author>
+               <date when="1819-01-08">January 8, 1819</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a resolution dated January 8, 1819 by the United States Senate requesting that the President initiate negotiations with the Chicasaw Indians for the cession of a four mile tract of land to the state of Tennessee.</note>
+               <note type="collection" anchored="true">Governor Joseph McMinn Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl761</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>Chickasaw Indians -- Land tenure</term>
+               <term>McMinn, Joseph, 1758-1824</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79022161"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">United States. Congress. Senate</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl761a.small.jpg"/>
+            <opener>
+               <date>Friday <choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice>. 8th 1819</date>
+            </opener>
+            <p>
+               <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice>. Williams of <name>Tennessee</name> submitted the following resolution, Resolved the President of the <name>United States</name> be requested to institute a negotiation with the <name>Chicasaw</name> tribe of Indians for the cession of a tract of land four miles square including a <unclear>salt spring reserved</unclear>   to said tribe by th- 4th article of a treaty concluded on the <date>19th day of <choice>
+                     <abbr>oct</abbr>
+                     <expan>October</expan>
+                  </choice>. 1818</date> said cession when made shall be for the benefit of the state of Tennessee on said state paying the expense of holding said treaty__ <pb n="2" facs="sl761b.small.jpg"/>
+               <add>Resolution of the Senate of the <name>
+                     <choice>
+                        <abbr>U</abbr>
+                        <expan>United</expan>
+                     </choice>. States</name>
+               </add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

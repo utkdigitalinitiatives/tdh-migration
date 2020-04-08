@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc155">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Legal] 1802 Mar., State of Tennessee [to] Sheriff of Cocke County / [witnessed by Francis A. Ramsey] : a machine readable transcription of an image</title>
+            <author> [witnessed by Francis A. Ramsey]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc155</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal] 1802 Mar., State of Tennessee [to] Sheriff of Cocke County / [witnessed by Francis A. Ramsey]</title>
+               <author>[witnessed by Francis A. Ramsey]</author>
+               <date when="1802-03"> 
+			 March 1802</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a court order  issued March 1802 to the sheriff of Cocke County. It is witnessed by Francis A. Ramsey. The sheriff is being notified that the case of Todd vs McPeters is being removed to the Superior Court of Hamilton District. The sheriff is being ordered to stop the suit per change of venue.</note>
+               <note type="collection" anchored="true">Francis A. Ramsey Papers</note>
+               <note type="box" anchored="true">MS 764</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc155</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Legal document</term>
+               <term>Court administration</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007053135"
+                        role="Witness http://id.loc.gov/vocabulary/relators/wit">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc155a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To the Sheriff of <name>Cocke County</name>
+                  </addrLine>
+               </address>
+               <salute>Greeting</salute>
+            </opener>
+            <p>you are hereby commanded that from all further proceedings upon a <unclear>Tiri Francis</unclear> for Costs from the Court of your County issued at the instance of <name>Lon todd</name> against <name>John McPeters</name> you entirely desist and altogether <unclear>Suspend</unclear> the said suit being ordered by <unclear>Certioease</unclear> to be removed into our Superior Court of Law for <name>Hamilton District</name> and you are also hereby commanded to notify the said Lon Todd to appear at our next Court to be holden for the District aforesaid at the Court House in Knoxville the Fourth Monday of September next there to Defend the said suit of John McPeters by that friend against him and do you have there this Writ, Witness <name>Francis A. Ramsey</name> Clerk of our said court at office the Fourth Monday of March Anno Domini 1802 and <unclear>XXN1</unclear> of American Independence</p>
+            <closer>
+               <signed>
+                  <name>FA Ramsey</name>
+               </signed>
+               <pb n="2" facs="sc155b.small.jpg"/>
+               <add>755 <lb/> Superseded <lb/> John McPeters <lb/>
+                  <choice>
+                     <abbr>vs</abbr>
+                     <expan>versus</expan>
+                  </choice>
+                  <lb/>
+                  <name>Lon Todd</name>
+                  <lb/> Issued <date>22d of April</date>
+                  <lb/> To September <unclear>Tevw</unclear>
+                  <lb/> 1802 <lb/> Came to hand <lb/>
+                  <date>July the 5th 1802</date>
+                  <lb/> Made known <lb/> the <date>15th July 1802</date>
+                  <lb/> D McPherson <unclear>FA</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

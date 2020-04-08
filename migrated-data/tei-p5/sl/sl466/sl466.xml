@@ -1,0 +1,161 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl466">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]    1795 Oct. 2, Knoxville [Territory South of the Ohio River, to] D[avid] Henley / Wm. Richard: a machine readable transcription of an image</title>
+            <author>Richard, Wm.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl466</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1795 Oct. 2, Knoxville [Territory South of the Ohio River, to] D[avid] Henley / Wm. Richard</title>
+               <author>Richard, Wm.</author>
+               <date when="1795-10-02">October 2, 1795</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Captain Wm. Richard to Colonel David Henley, dated October 2, 1795. He is updating Henley presumably about happenings at Henley's office in Knoxville. Henley is an agent of the War Department. Richard mentions John Chisolm, a commissioner of Knoxville.</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sl466</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of River Ohio</term>
+               <term>Henley, David, 1749-1823.</term>
+               <term>Military</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Richard, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl466a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 2d 1795</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> your Letters by <name>Mr Clung</name>- and observed the Contents_ <name>Mr Cousin</name> set off for  <name>
+                  <unclear>N</unclear>
+                  <gap/> Carolina</name> with <name>Colonel Blount</name> this day week _ nothing has been done with respect to <choice>
+                  <orig>journalising</orig>
+                  <reg>journalizing</reg>
+               </choice> the payments_ Chimneys will be finished by the time you return_ the Brick gave out and there will not be any to complete <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> next monday_ we have had so much rain that the workmen could not go on with the Kiln_ I expect you <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> your letters by <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Hays</name> who <choice>
+                  <abbr>recd </abbr>
+                  <expan>received</expan>
+               </choice> them prior to your Letter reaching me- I have one more from <name>Boston</name> which I shall Keep untill you return- <name>Chisolm</name> has many but has orders to deliver them in person_ I conversed with the <choice>
+                  <abbr>Govr</abbr>
+                  <expan>Governor</expan>
+               </choice> about Indian goods they have not as yet come forward, he told me he ordered Chisolm to <unclear>procure</unclear> at Boat which Chisolm has done- the <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> are expected in a few days and the Govr says Chisolm has the care of Goods <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> &amp;c &amp;c I have paid fifty Eight dollars over the 500 left me for Indian department and <choice>
+                  <orig>intirely</orig>
+                  <reg>entirely</reg>
+               </choice> out of Bills I Cash and Cannot pay off my men to be discharged this month without borrowing or negotiating a Loan with the Dutch- <name>Arthur Horse</name> gone by Miller- You may keep white Hall untill you <pb n="2" facs="sl466b.small.jpg"/>
+               <choice>
+                  <orig>sett</orig>
+                  <reg>set</reg>
+               </choice> off for the northward___</p>
+            <p>Benjamin has a great plenty of Corn- Fodder &amp;c I have directed him to exchange fifty Bushels of Corn with a man who is moving near <gap/> Birds from our quarter___</p>
+            <p>I hope your Ventilators will soon waft you home- in health and to the relief of </p>
+            <closer>
+               <salute>Dear Sir <lb/> Your <choice>
+                     <abbr>Obd</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name>Wm Richard</name>
+               </signed>
+               <address>
+                  <addrLine>Colonel <name>
+                        <choice>
+                           <abbr>D.</abbr>
+                           <expan>David</expan>
+                        </choice> Henley</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>NB</abbr>
+                     <expan>Nota Bene</expan>
+                  </choice> The Militia are called out again to protect the frontiers of <name>Washington</name> &amp; <name>Hamilton</name> districts as my men are discharged-</add>
+               <add>Knoxville <lb/> 2 Oct 1795 <lb/>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Richard Letter</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

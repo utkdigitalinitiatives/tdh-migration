@@ -1,0 +1,160 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc160">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1797 Aug. 31, [to] David Henley, Agent of War / William Richards :  a machine readable transcription of an image</title>
+            <author> Richards, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2004 
+		  </date>
+            <idno type="SPCID">sc160</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1797 Aug. 31, [to] David Henley, Agent of War / William Richards :</title>
+               <author> Richards, William</author>
+               <date when="1797-08-31"> 
+			 August 31, 1797</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 31, 1797 from Captain William Richards to David Henley, Agent of War. Richards requests money to purchase a wagon to carry supplies for himself and his men.</note>
+               <note type="collection" anchored="true">David Henley Papers</note>
+               <note type="box" anchored="true">MS-736</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc160</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Military supplies</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Richard, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc160a.small.jpg"/>
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>I find on examination the canoe which I have hired at 1/-<choice>
+                  <abbr>pr</abbr>
+                  <expan>per</expan>
+               </choice> day (as I could not purchase one under twenty dollars.) will not take all my baggage_ The spare <choice>
+                  <orig>cloathing </orig>
+                  <reg>clothing</reg>
+               </choice>of my company and camp equipage requires a <choice>
+                  <orig>waggon</orig>
+                  <reg>wagon</reg>
+               </choice>_ I can procure one by and with your approbation_</p>
+            <closer>
+               <salute>I am with Respect Sir <lb/> Your Obedient Servant <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Richard </name>
+                  <choice>
+                     <abbr>Capt 3rd Reg.</abbr>
+                     <expan>Captain 3rd Regiment</expan>
+                  </choice>
+               </salute>
+               <add>Four Horses yet absent_<lb/> 4 wanting Shoeing_</add>
+               <add>
+                  <address>
+                     <addrLine>
+                        <name>David Henley Esquire</name>
+                     </addrLine>
+                     <addrLine>Agent of War</addrLine>
+                  </address>
+                  <name>Knoxville</name>
+                  <date>31st <choice>
+                        <abbr>Aug</abbr>
+                        <expan>August</expan>
+                     </choice>_ 1797</date>
+               </add>
+               <add>P.S. Will you please to direct the purchase of a Lock as I cannot obtain the key of my store room_the sending after those articles would cost the United States forty dollars</add>
+               <signed>
+                  <choice>
+                     <abbr>W.R.</abbr>
+                     <expan>William Richards</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="sc160b.small.jpg"/>
+      <back>
+         <div subtype="1">
+            <p>
+               <address>
+                  <addrLine>Knoxville<date>31st Aug. 1797</date>
+                     <name>William Richards</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <name>David Henley Esquire</name> Agent of War <lb/>
+                  <unclear>
+                     <name>Serjeant McLaud</name>
+                  </unclear>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

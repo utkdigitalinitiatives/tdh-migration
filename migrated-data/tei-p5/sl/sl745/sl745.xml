@@ -1,0 +1,159 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl745">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1797 Apr. 7, Knoxville [Tennessee, to] Robert Housten / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl745</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1797 Apr. 7, Knoxville [Tennessee, to] Robert Housten / John Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1797-04-07">April 7, 1797</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This  is a letter from Governor John Sevier to Robert Housten, dated April 7, 1797. Housten is the sheriff of Knox County. Sevier is writing to compel Housten to not allow some unnamed prisoners to escape from custody.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl745</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Sevier, John, 1745-1815 Correspondence.</term>
+               <term>Law enforcement</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl745a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>
+                        <choice>
+                           <orig>Aprile</orig>
+                           <reg>April</reg>
+                        </choice> 7th 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I am <choice>
+                  <orig>Doubtfull</orig>
+                  <reg>Doubtful</reg>
+               </choice> the prisoners is preparing to make their escape</p>
+            <p>I am told they were heard <add>at work</add>Last night appearingly filing their Irons off </p>
+            <p>I beg you to come over and examine them, and take the most <choice>
+                  <orig>affectual</orig>
+                  <reg>effectual</reg>
+               </choice> means in your power to keep them secure in prison</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>Hbl.</abbr>
+                     <expan>Humble</expan>
+                  </choice>
+                  <choice>
+                     <abbr>Servt.</abbr>
+                     <expan>Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>Robert Housten</name>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>Sheriff of <name>Knox <choice>
+                        <abbr> Co</abbr>
+                        <expan>County</expan>
+                     </choice>
+                  </name>
+               </add>
+               <pb n="2" facs="sl745b.small.jpg"/>
+               <add>Sending out to different parts of the union for persons and papers in order to elucidate and facilitate the charges___</add>
+               <salute>I am sir very respectfully <lb/>  your <choice>
+                     <abbr>mo. obed.</abbr>
+                     <expan>most obedient</expan>
+                  </choice> servt.</salute>
+               <pb n="3" facs="sl745c.small.jpg"/>
+               <add>copy of a letter <lb/> to the <lb/> Sheriff of Knox <lb/> 7 April 1797 <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 3</add>
+               <add>Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

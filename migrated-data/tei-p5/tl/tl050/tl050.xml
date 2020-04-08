@@ -1,0 +1,164 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 Sept. 16, Knoxville, [Tennessee, to] The
+			 Hon[ora]ble James Robertson, Lachlen [i.e. Lachlan] McIntosh, and James White /
+			 John Sevier : a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl050</idno>
+            <idno>OCLC: 47832650</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 Sept. 16, Knoxville, [Tennessee, to] The
+				Hon[ora]ble James Robertson, Lachlen [i.e. Lachlan] McIntosh, and James White /
+				John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1798-09-16">September 16, 1798</date>
+               <extent>2p</extent>
+               <note type="summary">This document was written by Governor John
+				Sevier (1796-1801, 1803-1809) to James Robertson, Lachlan McIntosh and James
+				White, dated September 16, 1798. This letter was written to inform the three
+				men that the Cherokee are preparing to enter into a treaty with the United
+				States commissioners. Sevier instructed the men to attend the treaty meeting
+				and represent the interests of the state of Tennessee, particularly in regards
+				to the settlers who have been removed from their plantations because they
+				resided within Indian land boundaries.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">6</note>
+               <note type="Document">tl050</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl050a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1798-09-16">16 September 1798</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>From various reports, I am induced to believe, that a great number
+			 of Cherokees, has assembled at 
+			 <name type="place">Tellico Blockhouse</name>, in order to enter into
+			 treaty with the Commissioners of the 
+			 <name type="place">United States</name>, appointed for that purpose;
+			 permit me to request, that you will immediately repair to the treaty ground,
+			 and attend to such matters and things as materially concern the welfare and
+			 interest of this State, particularly to the early relief of the unfortunate
+			 people, who has been removed from their plantations, and at the same time keep
+			 in view the instructions, I before gave the Agents, on the general and various
+			 subjects touching the treaty.</p>
+            <closer>
+               <salute>Your 
+				<choice>
+                     <abbr>Mo. Obt. and Huml</abbr>
+                     <expan>Most Obedient and Humble </expan>
+                  </choice>
+				Servant <lb/>  signed 
+                  </salute>
+               <signed>
+                  <name type="person">John Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>The 
+				  <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">James Robertson</name>, 
+				  <name type="person">
+                        <choice>
+                           <orig>Lachlen</orig>
+                           <reg>Lachlan</reg>
+                        </choice>
+					 McIntosh</name>, and 
+				  <name type="person">James White</name>
+                  </addrLine>
+                  <addrLine>Agents on the part of</addrLine>
+                  <addrLine>the State of 
+				  <name type="place">Tennessee</name>.</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl050b.small.jpg"/>
+            <p>
+               <add place="top">  Copy </add> Letter of
+			 instructions, from the <lb/> Governor, to the State Agents  <lb/>
+               <date when="1798-09-16">16 September 1798</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl739">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1796 Oct. 7, Knoxville [Tennessee, to] W[illia]m Blount / J[ohn] Sevier : a machine readable transcription of an image</title>
+            <author> Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl739</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1796 Oct. 7, Knoxville [Tennessee, to] W[illia]m Blount / J[ohn] Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1796-10-07">October 7, 1796</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor John Sevier to William Blount, dated October 7, 1796. Sevier writes about manning the frontier with militia. He also writes about how to increase Tennessee's prestige, which he feels will be achieved if more people move there. Sevier writes that peaceful relations with the Natives is necessary if they want more people to immigrate to Tennessee.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">B</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl739</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Sevier, John, 1745-1815 Correspondence.</term>
+               <term>Militia planning</term>
+               <term>Chickasaw Indians</term>
+               <term>Creek Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl739a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>7th October 1796</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>By <name>Mr Hillis</name> I had the pleasure to receive yours of the <date>14 August</date> I have wrote the secretary of war long since respecting the militia necessary to be stationed on the Frontier of this state, but as yet have <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> no reply.</p>
+            <p>I have been moderate as to the number, <del type="overstrike">chiefly</del>owing to an expectation that the <name>Creek</name>s and <name>Georgians</name> would not  very agreably <unclear>reconcile</unclear> to each other, their disputes <del type="overstrike">which</del> I believe I have suggested pretty right and as <del type="overstrike">On</del>
+               <add>it</add> may probably be the case I have no doubt, but a greater number will be highly necessary and <add>more</add> readily obtained from the <del type="overstrike">Secretary of war</del>
+               <add>Executive</add>; <del type="overstrike">I have been willing</del>
+               <add>I was</add>desirous <del type="overstrike">to</del>
+               <add>of</add> discovering to the executive <del type="overstrike">that</del> we did not wish to <del type="overstrike">discover</del>
+               <choice>
+                  <orig>accumilate</orig>
+                  <reg>accumulate</reg>
+               </choice> on the <name>united States</name> unnecessary <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice>; or that we <del type="overstrike">had what</del>
+               <add>
+                  <unclear>Contained</unclear> any great</add> apprehensions of an indian war but <pb n="2" facs="sl739b.small.jpg"/> but in case <del type="overstrike">another</del>
+               <add>other</add> states should cause hostilities to be Commenced, it <del type="overstrike">is highly</del>
+               <add>will be</add> consistent with our safety to be Security protected. As to <del type="overstrike">a</del> peace, which you <del type="overstrike">seem to</del> express a desire should be continued, you may assure yourself that my endeavours &amp; exertion will not be lacking on that head,  <del type="overstrike">to obtain the </del> my first case and object is to <del type="overstrike">how people</del>
+               <add>measure</add> a sufficient number of inhabitants <del type="overstrike">within</del>
+               <add>to come into</add>our <del type="overstrike">Government</del>
+               <add>state</add>, after that <add>is the case</add> which cant be <del type="overstrike">for</del>
+               <add>very</add> distant, I contemplate all things will come right; a war would flusterate, the desirable object, because the emigration would of Course be obstructed a country <del type="overstrike">be it</del> ever so fertile is worth little without <add>being sufficiently</add> inhabited, and the latter is all we want to make us <add>become</add>
+               <choice>
+                  <orig>oppulent</orig>
+                  <reg>opulent</reg>
+               </choice> &amp; respected <add>And</add> it is the primary object of all well regulated Governments, and of Course it is our duty to endeavour to obtain it. the <name>Chickasaw</name>s <del type="overstrike">amongst which we</del> is at this place, waiting for the Creeks which is expected daily <del type="overstrike">have</del>, as to any information from this country your brother <pb n="3" facs="sl739c.small.jpg"/> is competent, to whom I beg leave to refer you</p>
+            <p>I have been much indisposed for the space of about fifteen days, but am perfectly recovered</p>
+            <closer>
+               <salute>I have the honor to be sir <lb/> with sincere and much regard <lb/> your <choice>
+                     <abbr>mo. ob. hbl. servt.</abbr>
+                     <expan>most obedient humble servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice> Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice> Mr <name>
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> Blount</name>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl739d.small.jpg"/>
+               <add>copy <lb/> letter of letter to the Honble <lb/> Wm Blount <lb/> 7 October 1796 <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 7 <lb/> Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

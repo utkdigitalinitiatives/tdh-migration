@@ -1,0 +1,177 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Aug. 20 [to] Gen[era]l John Coffee / Andrew Jackson : a machine
+                    readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um001</idno>
+            <idno>OCLC: 50192772</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special
+                        Collections Department, Ned R. McWherter Library, Memphis, TN. It may be
+                        used freely by individuals for research, teaching, and personal use as long
+                        as this statement of availability is included in the text. For all other use
+                        contact the University of Memphis Libraries, 126 Ned R. McWherter Library,
+                        The University of Memphis, Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Aug. 20 [to] Gen[era]l John Coffee / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1819-08-20">August 20, 1819</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 20, 1819 to General
+                        John Coffee from Andrew Jackson regarding the birth of General Coffee's son
+                        who was named after Andrew Jackson.</note>
+               <note type="collection" anchored="true">Andrew Jackson 1804-1844, MS28</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um001</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Baby Names</term>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um001a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice> John Coffee</name>
+                  </addrLine>
+               </address>present<lb/>
+                    pr. Bundy} <pb n="2" facs="um001b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <date when="1819-08-20">20th of August 1819</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr Genl</abbr>
+                     <expan>Dear General</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p> I have the pleasure to acknowledge the <choice>
+                  <abbr>recpt</abbr>
+                  <expan>receipt</expan>
+               </choice> of
+                    your note of this morning &amp; congratulate you upon the happy delivery of
+                        <name type="person">Mrs. Coffee</name>, and the birth of a fine son—
+                    The honor you have done me, in giving it my name, commands my gratitude, and it
+                    will afford me pleasure to bestow on his education, such means as may be in my
+                    power, to put him, for that stage in society, that I trust his creator has
+                    destined him for— We have the company of <name type="person">Doctor &amp;
+                        Mrs. Shelby</name>, <name type="person">Mrs. McDowell</name>, daughter, of
+                        <name type="person">
+                  <choice>
+                     <abbr>Govr</abbr>
+                     <expan>Governor</expan>
+                  </choice> Shelby</name>—
+                        <name type="person">Mr James <choice>
+                     <orig>Jakson</orig>
+                     <reg>Jackson</reg>
+                  </choice>
+               </name>, <name type="name">Major Eaton</name> &amp; <name type="person">Major <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> B. Lewis</name> so soon as we are relieved
+                    from this confinement <name type="person">Mrs.<choice>
+                     <abbr> J
+                        </abbr>
+                     <expan>Jackson</expan>
+                  </choice>
+               </name>&amp; myself will do ourselves the pleasure to visit our young
+                    stranger &amp; friend, in the mean time Mrs. J. requests me to tender to you
+                    &amp; <name type="person">Dolly</name> her heart felt congratulations on this
+                        <choice>
+                  <orig>joyfull</orig>
+                  <reg>joyful</reg>
+               </choice> occasion—and our blessings for the
+                    health of the mother &amp; prosperity of the infant—</p>
+            <closer>
+               <salute>with sincere regard yours</salute>
+               <signed>
+                  <name type="person">
+                     <emph>Andrew Jackson</emph>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl</abbr>
+                           <expan>General</expan>
+                        </choice> John Coffee.</name>
+                  </addrLine>
+               </address>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> Mr. James
+                        Jackson will see you at your house before he returns should you not be
+                        here.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

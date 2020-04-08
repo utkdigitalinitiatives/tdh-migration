@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0264">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Claim] 1836 Dec. 15, [to] Cass County, Georgia / Spencer Jarnagin  : a machine readable transcription of an image</title>
+            <author> Jarnagin, Spencer</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0264</idno>
+            <idno type="OCLC">OCLC: 45963556</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Claim] 1836 Dec. 15, [to] Cass County, Georgia / Spencer Jarnagin</title>
+               <author>Jarnagin, Spencer</author>
+               <date when="1836-12-15">December 15, 1836</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This note, dated December 15, 1836, concerns payment of legal fees for services rendered in the courts of Tennessee.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033, b1</note>
+               <note type="folder" anchored="true">153</note>
+               <note type="document" anchored="true"> pa0264</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Claims</term>
+               <term>Costs (Law)</term>
+               <term>Cherokee Indians -- Claims</term>
+               <term>Cass County (Ga.)</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2008078368"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Jarnagin, Spencer, 1792-1853</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0264a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Georgia</name>}</addrLine>
+                  <addrLine>
+                     <name>Cass County</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>I <name>Spencer Jarnagin</name> of the State of <name>Tennessee</name> do hereby state that I have been attending to causes in law and agents in the courts of Tennessee and circuit court of the <name>United States</name> at <name>Knoxville</name>, as said causes arose, since the year 1821<add>for Cherokee people</add> I <unclear>by travel and services</unclear> as the attorney for the Nation by which, as her public officers I was retained I do further declare said Nation has never paid me any thing for said services, nor has any one done so for her. The sum of two hundred and fifty dollars a year I consider reasonable compensation, <choice>
+                  <abbr>tho' </abbr>
+                  <expan>though</expan>
+               </choice> it is less than is usually charged for similar services rendered to citizens of the United States._</p>
+            <closer>
+               <signed>
+                  <name>Spencer Jarnagin</name>
+               </signed>
+               <add>Sworn to and subscribed before me  this 15th <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice>. 1836 <name>J. T. Kirkham</name>
+                  <choice>
+                     <abbr>J.P.</abbr>
+                     <expan>Justice of the Peace</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="pa0264b.small.jpg"/>
+      <back>
+         <div subtype="1">
+            <p>
+               <choice>
+                  <orig>affidavid</orig>
+                  <reg>affidavit</reg>
+               </choice>
+               <lb/> =<lb/> Spencer Jarnagin <choice>
+                  <abbr> Esq</abbr>
+                  <expan>Esquire</expan>
+               </choice>.= <lb/>
+               <choice>
+                  <abbr>Ga</abbr>
+                  <expan>Georgia</expan>
+               </choice>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

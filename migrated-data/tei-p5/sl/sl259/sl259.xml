@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl259">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Mar. 5, Meridian Springs, M[ississippi] [to] George W. House, Nashville, T[ennessee] / W[illia]m B. Ross   : a machine readable transcription of an image</title>
+            <author>Ross, William  B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl259</idno>
+            <idno>OCLC: 51217821</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1846 Mar. 5, Meridian Springs, M[ississippi] [to] George W. House, Nashville, T[ennessee] / W[illia]m B. Ross</title>
+               <author>Ross, William B.</author>
+               <date when="1846-03-05">March 5, 1846</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated March 5, 1846 to George W. House, from William B. Ross. Ross mentions visiting Mrs. House recently with his wife in Jackson. Ross thanks House for the pile ointment he gave him, even though he does not think his case is curable. He bemoans not being able to find a large sum of money that his stepson claimed to have had.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl259</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Medical care</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ross, William B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl259a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name> 
+                        <reg>place</reg> Meridian Springs</name>
+                     <name type="place">
+                        <choice>
+                           <abbr/>
+                           <expan>Mississippi</expan>
+                        </choice>
+                     </name>
+                     <date>
+                        <choice>
+                           <abbr>Mar</abbr>
+                           <expan>March</expan>
+                        </choice> 5th 1846</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>G W</abbr>
+                           <expan>George Washington</expan>
+                        </choice> House</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr.</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir.</salute>
+            </opener>
+            <p>
+               <name type="person">Mrs Ross</name> &amp; myself have had the pleasure of spending a day or two with your Lady, at <name type="person">Dr. Morgan</name>'s, (<name type="place">Jackson</name>) She was kind enough, to drop Mrs. Ross a note, informing her of her arrival, and with pleasure, &amp; satisfaction, we availed ourselves of the first <choice>
+                  <orig>oppertunity</orig>
+                  <reg>opportunity</reg>
+               </choice> , to visit her, and were gratified to find her in the enjoyment of fine health, &amp; spirits; and that sweet little daughter, Sally, was as active &amp; lively as a cricket, industriously engaged, in nursing her dolls &amp; running from room to room, apparently, conscious of her own sweetness &amp; activity.</p>
+            <p>The <choice>
+                  <abbr>Doctr</abbr>
+                  <expan>Doctor</expan>
+               </choice> &amp; family were well &amp; the citizens of Jackson also. I intended to have written you long since, but have been so engaged in business, when my health would<del type="overstrike">admit</del>
+               <add place="supralinear">permit</add> , since we returned home, that I have not done one half of what I should have done, in the way of letter writing. In relation to your Pile Ointment, I must say, I believe it will cure any ordinary case of piles, if used agreeably to the directions, but mine have been of so long standing, I doubt a permanent cure being affected, yet I have derived great benefit from the use of your ointment, more, far more, than from any <choice>
+                  <orig>prepartion</orig>
+                  <reg>preparation</reg>
+               </choice> I have ⁁ <add place="supralinear">ever</add> used, &amp; I believe I have used every preparation, I ever heard of, commencing at last Sixteen years ago. — I consider your Pills inferior to none. That I have tried, &amp; think they are bound to do well, wherever they ⁁ <add place="supralinear">are</add> known — I wish you great success in your business, hoping it may be profitable to you, &amp; <choice>
+                  <orig>beneficail</orig>
+                  <reg>beneficial</reg>
+               </choice> ⁁ <add>to</add> mankind. — <pb n="2" facs="sl259b.small.jpg"/> Mr. House, I believe I mentioned to you that my Stepson, <unclear/> A. Fort, had a considerable amount of money, at least $4500 when he left home; — well sir, I have never been able to <unclear>trace</unclear> it up, I can not find any thing among  his paper showing what he done with it.</p>
+            <p>He told his friends in <name type="place">
+                  <choice>
+                     <abbr>Ky.</abbr>
+                     <expan>Kentucky</expan>
+                  </choice>
+               </name> that his money was in Nashville, but ⁁ <add place="supralinear">did</add> not say in ⁁ <add place="supralinear">
+                  <unclear>whose</unclear>
+               </add> hands he had placed it, I thought it likely he had deposited it in Bank, &amp; got a friend from <name type="place">Clarksville</name> to inquire, he could learn nothing whatever in relation to; I have since thought, he may possibly have left it with some individual, who may have forgotten it, I am at a loss to conjecture what has become of it.— I must think it is in Nashville somewhere. — I therefore have concluded to get you if you please to make some, &amp; such, inquiry, as you may think most likely to succeed; it is  a good deal of money to loose these hard times; &amp; trust it may yet be obtained. you will greatly oblige Mrs. Ross by attending to this request.</p>
+            <p>Mrs. Ross desires to be remembered, in the warmest terms, to <name type="person">Mrs. Hamilton</name>, &amp; is sadly disappointed in not having her company this winter in Mi. — Tell her she must come down as soon as she can. — We all remember her, &amp; the whole family with pleasure, &amp; desire to be presented to all with sentiments of esteem high regards, yourself particularly included. My Dear Sir, accept my best wishes for your health, prosperity &amp; happiness</p>
+            <closer>
+               <salute>y. f. truly</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Wm.</abbr>
+                        <expan>William</expan>
+                     </choice> B. Ross</name>
+               </signed>
+               <pb n="3" facs="sl259c.small.jpg"/>
+               <address>
+                  <addrLine>George W. House</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="right of address">
+                  <unclear>Favr. <lb/> Doctr. Hammon }</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

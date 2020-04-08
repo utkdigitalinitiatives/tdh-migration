@@ -1,0 +1,258 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Oct. 17, Jackson, Tennessee [to] Mary Jane Chester, Columbia, Ten[nessee] / John Chester : a machine readable transcription of an image</title>
+            <author>Chester, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um027</idno>
+            <idno>OCLC: 50274796</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Oct. 17, Jackson, Tennessee [to] Mary Jane Chester, Columbia, Ten[nessee] / John Chester</title>
+               <author>Chester, John</author>
+               <date when="1840-10-17">October 17, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Mary Jane Chester on October 17, 1840, and contains two letters. The first letter is from her brother John, and discusses family events, mainly one involving a dinner where Andrew Jackson, Governor Polk, and Judge Grundy were in attendance. The second letter is from her mother, Elizabeth, and expresses feelings of love for her daughter.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS 25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um027</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um027a.small.jpg"/>
+            <opener>
+               <add place="above address">
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+                  <hi rend="different hand, different ink">John Chester <lb/> Answered</hi>
+                  <emph>Paid</emph> 18 ¾</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Jane Chester</name>
+                  </addrLine>
+                  <addrLine>Care of <name type="person">
+                        <choice>
+                           <abbr>Saml.</abbr>
+                           <expan>Samuel</expan>
+                        </choice> P. Walker <choice>
+                           <abbr>Esq.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="bottom of page, upside down">My Dear Mother <lb/> and Sister <lb/>
+                  <date when="1840-10-17">17 <choice>
+                        <abbr>Octr</abbr>
+                        <expan>October</expan>
+                     </choice> 1840</date>
+               </add>
+               <pb n="2" facs="um027b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1840-10-17">17th October 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Sister</salute>
+            </opener>
+            <p>Papa <choice>
+                  <orig>Recieved</orig>
+                  <reg>Received</reg>
+               </choice> your kind and <choice>
+                  <orig>affectionat</orig>
+                  <reg>affectionate</reg>
+               </choice> letter on yesterday and it gave us great Pleasure to <choice>
+                  <orig>here</orig>
+                  <reg>hear</reg>
+               </choice> that you have entirely recovered from your sickness and had commenced school. He also <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> a letter from <name type="person">Mr Smith</name>
+               <choice>
+                  <orig>spekeing</orig>
+                  <reg>speaking</reg>
+               </choice> in very ⁁ <add place="supralinear">flattering</add> terms of your Progress. <name type="person">Aunt Narsissa</name> has been very sick again but she is better now and She has give out the notion of coming up <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice>
+               <add place="supralinear">Christmas</add>
+               <name type="person">Cousin Jane</name> is very sick. <name type="person">Cousin Martha <unclear>Hine</unclear>
+               </name>  has a fine boy named <name type="person">William Edward</name>.</p>
+            <p>We had a great dinner here on the 8.</p>
+            <p>
+               <name type="person">Uncle Jackson</name>, <name type="person">
+                  <choice>
+                     <orig>Govener</orig>
+                     <reg>Governor</reg>
+                  </choice> Polk</name>, <name type="person">Judge Grundy</name>, and a great many others distinguished strangers were here.</p>
+            <p>The Procession was formed in front of the court House <choice>
+                  <orig>dooer</orig>
+                  <reg>door</reg>
+               </choice>, and they marched up to <name type="person">uncle Wills</name> When Uncle Jackson was <choice>
+                  <orig>recived</orig>
+                  <reg>received</reg>
+               </choice> and conducted under a large escort to the spring.</p>
+            <p>He was <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> in the stand by <name type="person">Mr McClanahan</name> and welcomed in <add place="supralinear">a</add> very <choice>
+                  <orig>handsom</orig>
+                  <reg>handsome</reg>
+               </choice> speech to which Uncle Jackson replied, You will see <choice>
+                  <orig>th</orig>
+                  <reg>the</reg>
+               </choice>
+               <choice>
+                  <orig>Procedings</orig>
+                  <reg>Proceedings</reg>
+               </choice> in <pb n="3" facs="um027c.small.jpg"/>
+               <choice>
+                  <orig>th</orig>
+                  <reg>the</reg>
+               </choice> union. Papa says that you must ask <name type="person">cousin Sam</name> for the union and Read it yourself.</p>
+            <p>We had great feastings you may depend; <choice>
+                  <orig>Their</orig>
+                  <reg>There</reg>
+               </choice> was 65 <choice>
+                  <orig>Beeves</orig>
+                  <reg>Beefs</reg>
+               </choice> 70 or 80 Muttons and 160 <choice>
+                  <orig>shotes</orig>
+                  <reg>shoats</reg>
+               </choice> all <choice>
+                  <orig>barbacude</orig>
+                  <reg>barbecued</reg>
+               </choice> very nice and they had an ash <emph>poon</emph> baked in one of the <choice>
+                  <orig>Barbacue</orig>
+                  <reg>Barbecue</reg>
+               </choice> pits 4 feet Long 9 foot wide it had 2 ½ Bushels of Meal in it and the name of Jackson Written on it the Poon was Placed at <choice>
+                  <orig>th</orig>
+                  <reg>the</reg>
+               </choice> head of one of the Tables and on it was Placed 1 Turkey 9 Pigs &amp; uncle Jackson, <choice>
+                  <orig>Governer</orig>
+                  <reg>Governor</reg>
+               </choice> Polk, Judge Grundy, dined on it. <choice>
+                  <orig>Their</orig>
+                  <reg>There</reg>
+               </choice> were 6 tables in all ¾ of a Mile long. <name type="person">Miss <choice>
+                     <orig>Catherin</orig>
+                     <reg>Catherine</reg>
+                  </choice> Fuftin</name> was married to <name type="person">
+                  <choice>
+                     <abbr>Dr.</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Jones</name> last Thursday night. I remember of no other news that would interest you.</p>
+            <p>We had a great Deal of Rain by which it is feared that it will injure <choice>
+                  <orig>th</orig>
+                  <reg>the</reg>
+               </choice> crops.</p>
+            <p>Mama, Papa, and all of the children, Aunt <choice>
+                  <abbr>N</abbr>
+                  <expan>Narsissa</expan>
+               </choice> Aunt P &amp; uncle Will sends their love to you and all of the servants <choice>
+                  <orig>desin</orig>
+                  <reg>design</reg>
+               </choice> to be Remembered <choice>
+                  <orig>to</orig>
+                  <reg>too</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>I remain your affection Brother</salute>
+               <signed>
+                  <name type="person">John Chester</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Mary Jane Chester</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+         <pb n="4" facs="um027d.small.jpg"/>
+         <div subtype="1" type="letter">
+            <opener>
+               <salute>My Dear Daughter</salute>
+            </opener>
+            <p>I Greet you with Love and affection and feel thankful to the giver of all good for your recovery, I shall write you next week</p>
+            <closer>
+               <salute>Affectionately your Mother</salute>
+               <signed>
+                  <name type="person">Elizabeth Chester</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2578 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thrilling narrative: How the judgement of Heaven fell on the
+			 Indians who wounded Rev'd Joseph Brown in 1794, / Rev[erend] Joseph Brown: a
+			 machine-readable transcription of an image</title>
+            <author>Brown, Joseph</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Chadwell</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl012</idno>
+            <idno>OCLC: 47800552</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Thrilling narrative: How the judgement of Heaven fell on the
+				Indians who wounded Rev'd Joseph Brown in 1794, / Rev[erend] Joseph
+				Brown</title>
+               <author>Brown, Joseph</author>
+               <date when="1858-03-30">March 30, 1858 </date>
+               <extent>16p</extent>
+               <note type="summary">This document, entitled "Thrilling Narrative.
+				How The Judgement of Heaven fell on the Indians who wounded Rev'd Joseph Brown
+				in 1794," was written to Colonel A. W. Putman on March 30, 1858 by Reverend
+				Joseph Brown. In this narrative Brown details the events surrounding his return
+				trip from Knoxville to Nashville. It appears that he was informed by a Cherokee
+				trader that there was a large body of Indians waiting to do harm on the direct
+				route, so he was advised to return through Kentucky. Accepting this advice,
+				Brown and travel partners, William Hayes, a Negro woman, Ross, Friley, and
+				others set out only to be ambushed along the way by Indians. During the attack
+				Brown was wounded in the shoulder although they escaped. He stayed with a Dutch
+				man for two nights and then with a brother-in-law, who was a doctor, of Ross's
+				for six weeks, until he healed well enough to travel home. Later, Brown was
+				informed by another trader that the same party of Indians had rode into East
+				Tennessee to take prisoners of women and children and if Brown and others
+				wanted to free the prisoners he would show them where they were. Brown set out
+				with a group of white men to seek revenge on the Indians. When they located
+				them they noticed that the Indians were wearing white men's clothing and,
+				satisfied that these were the guilty Indians, they decided to lay in wait to
+				ambush them in the morning fearing that the prisoners would be killed if they
+				acted too quickly. The Indians were all killed the next day and the white men
+				found a little girl who had hid for three days. Brown submitted this account
+				with the intent that it would be published or returned. It was, in fact,
+				published in the "Banner of Peace" August 5, 1858.</note>
+               <note type="Collection"> Tennessee Historical Society </note>
+               <note type="Box">B2</note>
+               <note type="Folder">221</note>
+               <note type="Document">tl012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Writings</term>
+               <term>Indians of North America--Claims against</term>
+               <term>Prisoners</term>
+               <term>Cherokee Indians</term>
+               <term>Brigands and robbers</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Brown, Joseph</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl012a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Pulaskie Giles County </name>
+                     <date when="1858-03-30">March 30th / 58</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> A. W.
+					 Putman</name>
+                  </addrLine>
+               </address>
+               <salute>Dear  <add place="supralinear">Sir</add>
+               </salute>
+            </opener>
+            <p>yours of the 
+			 <date when="---02">2nd</date>
+               <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> Came to hand last night from 
+			 <name type="place">
+                  <choice>
+                     <orig>pleasant</orig>
+                     <reg>Pleasant</reg>
+                  </choice> Grove</name>
+               <name type="place">Pleasant Grove</name> never was my Post office
+			 <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> I lived <choice>
+                  <orig>handey</orig>
+                  <reg>handy</reg>
+               </choice> to
+			 <add place="supralinear">it</add> for <choice>
+                  <orig>maney</orig>
+                  <reg>many</reg>
+               </choice> years but 
+			 <name type="place">Pulaskie Giles County</name> is now my post office
+			 and Relative to your <choice>
+                  <orig>Enquiry</orig>
+                  <reg>Inquiry</reg>
+               </choice>
+               <name type="person">General 
+				<choice>
+                     <abbr>A</abbr>
+                     <expan>Andrew</expan>
+                  </choice>. Jackson</name> was not on the
+			 Nickajack <choice>
+                  <orig>Campain</orig>
+                  <reg>Campaign</reg>
+               </choice> but if My Memory Serves me he at
+			 that time had <choice>
+                  <orig>somthing</orig>
+                  <reg>something</reg>
+               </choice> to do in the Contractor
+			 <choice>
+                  <orig>busines</orig>
+                  <reg>business</reg>
+               </choice> for his <choice>
+                  <orig>Brother
+			 in law</orig>
+                  <reg>Brother-in-law</reg>
+               </choice>
+               <name type="person">Mr Samuel Donnelson</name> Came to our camp a day
+			 or two before we started and 
+			 <name type="person">
+                  <choice>
+                     <abbr>Wm.</abbr>
+                     <expan>William</expan>
+                  </choice> Reed</name>
+               <add place="supralinear">of 
+			 <name type="place">
+                     <choice>
+                        <orig>sumner</orig>
+                        <reg>Sumner</reg>
+                     </choice>
+				County</name>
+               </add>was there and <choice>
+                  <orig>neather</orig>
+                  <reg>neither</reg>
+               </choice> of them had
+			 Ever been beat at a foot race and 
+			 <name type="person">Donnelson</name> Observed that he
+			 <add place="supralinear">was</add> in bad fix to Run for he had been
+			 <choice>
+                  <orig>gathern</orig>
+                  <reg>gathering</reg>
+               </choice>
+               <choice>
+                  <orig>Beevers</orig>
+                  <reg>Beavers</reg>
+               </choice> the day before but still he
+			 <add place="supralinear">was</add> willing to Run to gratify The Company and
+			 did Run and was beat five or six feet, but 
+			 <name type="person">
+                  <choice>
+                     <orig>Sandey</orig>
+                     <reg>Sandy</reg>
+                  </choice> Donnelson</name>
+			 Did go<del type="overstrike">w</del> and
+		  Was Wou<add place="supralinear">n</add>ded at 
+		  <name type="place">Nickajack</name> a younger Brother so I know that 
+		  <name type="person">Jackson</name> and 
+		  <name type="person">the Donnelsons</name> done all the<add>y</add> could for The protection of the
+		  <choice>
+                  <orig>Cuntrey</orig>
+                  <reg>Country</reg>
+               </choice>, <choice>
+                  <orig>Altho</orig>
+                  <reg>Although</reg>
+               </choice> I
+		  <choice>
+                  <orig>presum</orig>
+                  <reg>presume</reg>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Ramsay</name> had
+		  been <choice>
+                  <orig>Rongley</orig>
+                  <reg>Wrongly</reg>
+               </choice> informed on that
+		  Subject<add>.</add>
+               <hi rend="underline">a</hi>nd as to Rel<del type="overstrike">e</del>
+               <add>i</add>c<del type="overstrike">t</del>s of the war I
+		  now have none<add>.</add> I had an
+		  El<add place="supralinear">e</add>gant
+		  Sword but I g<add place="supralinear">a</add>ve it to one of my
+		  <choice>
+                  <orig>Grand sons</orig>
+                  <reg>Grandsons</reg>
+               </choice> and <add place="supralinear">it</add>
+		  is gone to 
+		  <name type="place">Texas</name> or <add place="supralinear">the</add>
+		  society should have it</p>
+            <pb n="2" facs="tl012b.small.jpg"/>
+            <p>if I live to the 
+			 <date when="--08-02">2nd day of August</date> next I shall be
+			 <choice>
+                  <orig>Eighty six</orig>
+                  <reg>Eighty-six</reg>
+               </choice> years old, so I hope
+			 <choice>
+                  <orig>you l</orig>
+                  <reg>you'll</reg>
+               </choice> Excuse my <choice>
+                  <orig>Enterlining</orig>
+                  <reg>Interlining</reg>
+               </choice>
+               <choice>
+                  <abbr>c</abbr>
+                  <expan>et cetera</expan>
+               </choice> but 
+			 <name type="person">Mrs Fogg</name> has attem<add place="supralinear">p</add>ted <add place="supralinear">to</add> give a history
+			 of the <choice>
+                  <orig>mercey</orig>
+                  <reg>mercy</reg>
+               </choice> of God, to so unprofit<add place="supralinear">able</add> a mortal
+			 as I have Ever been to society there is one ne<del type="overstrike">a</del>ver been penned<add>,</add>
+               <del type="overstrike">is</del> one as
+		  strong as that has been penned<add>.</add>
+            </p>
+            <p>I went to 
+			 <name type="place">East Tennessee</name> on <choice>
+                  <orig>Buisnes</orig>
+                  <reg>Business</reg>
+               </choice> in the winter of 
+			 <date when="1793">1793</date> and on My Return got in company
+			 with 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Robert Hay<del type="overstrike">n</del>
+                  <add>s</add>e</name> a
+			 <choice>
+                  <orig>Brother in law</orig>
+                  <reg>Brother-in-law</reg>
+               </choice> of 
+			 <name type="person">General Jackson</name> and When we got to 
+			 <name type="place">Knoxville</name>
+               <add>,</add> the night before
+			 <add place="supralinear">a Trader</add> and 
+			 <name type="person">William <choice>
+                     <orig>Blunt</orig>
+                     <reg>Blount</reg>
+                  </choice>
+               </name>
+               <add>,</add> then Governor<add>,</add> or 
+			 <name type="person">Governor<add>,</add>
+                  <choice>
+                     <orig>Sevear</orig>
+                     <reg>Sevier</reg>
+                  </choice>
+                  <add place="left-hand margin">Sevier</add>
+               </name>
+               <add>,</add> I do not
+			 <add place="supralinear">
+                  <add>k</add>now</add> which was Governor of
+			 the <choice>
+                  <orig>Teretory</orig>
+                  <reg>Territory</reg>
+               </choice> at that time<add>;</add> this <choice>
+                  <orig>Cherrokee</orig>
+                  <reg>Cherokee</reg>
+               </choice>
+               <choice>
+                  <orig>Trador</orig>
+                  <reg>Trader</reg>
+               </choice> informed them
+			 that a large <choice>
+                  <orig>Bodey</orig>
+                  <reg>Body</reg>
+               </choice> of Indians was <choice>
+                  <orig>a
+			 bout</orig>
+                  <reg>about</reg>
+               </choice>
+               <unclear>start (paper is
+			 torn at end of word)</unclear> to <choice>
+                  <orig>way lay</orig>
+                  <reg>waylay</reg>
+               </choice> the tra<del type="overstrike">s</del>
+               <add place="supralinear">c</add>e Com<del type="overstrike">e</del>ing to 
+		  <name type="place">
+                  <choice>
+                     <orig>Nashvill</orig>
+                     <reg>Nashville</reg>
+                  </choice>
+               </name> and we
+		  had better turn and Come by 
+		  <name type="place">
+                  <choice>
+                     <orig>Kntuckey</orig>
+                     <reg>Kentucky</reg>
+                  </choice>
+               </name>
+               <add>.</add>
+               <hi rend="underline">w</hi>e
+		  done  <add place="supralinear">so</add> and the 2nd night we got in
+		  three miles of the last house, and I had a Negro Woman <choice>
+                  <orig> a
+		  long</orig>
+                  <reg>along</reg>
+               </choice> and <add place="supralinear">we</add> Concluded not
+		  <add place="supralinear">to</add> Eat BreaKfast to we Would go there and
+		  then not stop to night<add>;</add> but
+		  when we Went to start<add>,</add> the
+		  horse the Negro Rode was badly <add>[</add>foundered<add>,</add> a <choice>
+                  <orig>gentlman</orig>
+                  <reg>gentleman</reg>
+               </choice>
+               <choice>
+                  <orig>ong</orig>
+                  <reg>along</reg>
+               </choice> said<add>,</add> if I would bleed him at the Edge
+		  of the hair <choice>
+                  <orig>round</orig>
+                  <reg>around</reg>
+               </choice> his feet he <add place="supralinear">would be</add> well in a mile or two I requested him to do
+		  it for me, he attempted to do <add place="supralinear">so</add> but 
+		  <add place="supralinear">the horse
+		  <del type="overstrike">was</del>
+               </add>
+		  was ver<del type="overstrike">r</del>y
+		  wild and <choice>
+                  <orig>Jrked</orig>
+                  <reg>Jerked</reg>
+               </choice> up his foot and the
+		  Knif<add>e</add> went into the arter<add>y</add> in the front of his foot and I
+		  made <add place="supralinear">the woman</add> ride my hors<add>e</add> and I walked and Drove the
+		  foundered one to the last house<add>.</add>
+               <hi rend="underline">h</hi>e
+		  Bled all the way and while the Company was Eating I got some cobwebs and held
+		  on it<add>,</add> and
+		  <choice>
+                  <orig>stoped </orig>
+                  <reg>stopped</reg>
+               </choice> the blood we then started up 
+		  <name type="place">Clinch <choice>
+                     <orig>Mounten</orig>
+                     <reg>Mountain</reg>
+                  </choice>
+                  <add place="supralinear">road</add>
+               </name> but before we got halfway up
+		  <pb n="3" facs="tl012c.small.jpg"/> the <choice>
+                  <orig>mounten</orig>
+                  <reg>mountain</reg>
+               </choice> it broke to B<add place="supralinear">l</add>eeding as fast as Ever and <add place="supralinear">I</add> Knew I should lose my horse if I went on<add>.]</add> I observed to 
+		  <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Ha<add place="supralinear">y</add>se</name> that I <choice>
+                  <orig>woul</orig>
+                  <reg>would</reg>
+               </choice> be
+		  glad he would take charge <add place="supralinear">of</add> the Negro woman as
+		  I <choice>
+                  <orig>hade</orig>
+                  <reg>had</reg>
+               </choice> to stop with my horse and She had
+		  <choice>
+                  <orig>provison</orig>
+                  <reg>provision</reg>
+               </choice>
+               <choice>
+                  <orig>a nough</orig>
+                  <reg>enough</reg>
+               </choice> to do
+		  her to 
+		  <name type="place">
+                  <choice>
+                     <orig>Nashvel</orig>
+                     <reg>Nashville</reg>
+                  </choice>
+               </name> but
+		  <add place="supralinear">he would</add> have to buy some corn for the horse in 
+		  <name type="place">
+                  <choice>
+                     <orig>Kantuckey</orig>
+                     <reg>Kentucky</reg>
+                  </choice>
+               </name>
+               <add>.</add>
+               <hi rend="underline">h</hi>e
+		  said he wou <add place="supralinear">l</add>d do so
+		  <choice>
+                  <orig>Cherfuly</orig>
+                  <reg>Cheerfully</reg>
+               </choice>
+		  for my Broth<add>er</add>
+               <name type="person">William</name> had saved his life two years
+		  before<add>,</add> at 
+		  <name type="place">
+                  <hi rend="underline">Emreys</hi> River </name>
+               <choice>
+                  <orig>proably</orig>
+                  <reg>probably</reg>
+               </choice> 12 miles from 
+		  <name type="place">Kingston<add>,</add> East Tennessee<add>,</add>
+               </name> a large <choice>
+                  <orig>Bodey</orig>
+                  <reg>Body</reg>
+               </choice> of Indians fired on them <choice>
+                  <orig>a
+		  boute day brak</orig>
+                  <reg>about daybreak</reg>
+               </choice>
+               <add>,</add>
+               <del type="overstrike">as</del>
+               <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> were <choice>
+                  <orig> waking</orig>
+                  <reg>awaking</reg>
+               </choice> out of sleep<add>.</add> the<del type="overstrike">y</del> Indians Rushed on them<add>,</add> it was
+		  <del type="overstrike">a</del> 
+		  of a mile to 
+		  <name type="place"> Emreys River</name>
+               <del type="overstrike">t</del>he<add>y</add> Ran to the River<add>.</add>
+               <hi rend="underline">m</hi>y
+		  Brother was shot in the back of his Righ<add>t</add> hand and the Ball Came out at
+		  his <add>W</add>Rist but 
+		  <add place="supralinear">he</add> got his clothing of<add>f</add> and tied them with his
+		  <choice>
+                  <orig>hand kerchief</orig>
+                  <reg>handkerchief</reg>
+               </choice> to a chunk, but not being tied
+		  good and the <choice>
+                  <orig>Riffeling</orig>
+                  <reg>riffling</reg>
+               </choice> of the
+		  <unclear>water</unclear> the <choice>
+                  <orig>hankerchief</orig>
+                  <reg>handkerchief</reg>
+               </choice> came
+		  lo <add place="supralinear">o</add>se and at that instant 
+		  <name> 
+                  <reg>person</reg> 
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Hayse</name>was a
+		  sinking <choice>
+                  <orig>gust</orig>
+                  <reg>just</reg>
+               </choice> before him he caught his shirt in his
+		  teeth and he being a good <choice>
+                  <orig>swimer</orig>
+                  <reg>swimmer</reg>
+               </choice>
+		  gave his Chunk to 
+		  <name type="person">Hayse</name> and by that means both lives were
+		  saved<add>,</add>
+               <choice>
+                  <orig>tho</orig>
+                  <reg>although</reg>
+               </choice> my Brother had lost three fine horse<add>s</add> and all his money and clothing
+		  but his shirt<add>.</add>
+               <hi rend="underline">b</hi>ut it was only 12 or 15 miles to the
+		  <choice>
+                  <orig>settelment</orig>
+                  <reg>settlement</reg>
+               </choice>
+               <add>.</add>
+            </p>
+            <p>
+               <hi rend="underline">a</hi>fter 
+			 <name type="person">Hayse</name> g<del type="overstrike">i</del>ve the <choice>
+                  <orig>a
+		  bove</orig>
+                  <reg>above</reg>
+               </choice> information the Company started and I stayed with my horse and
+		  <add place="supralinear">held</add> the wound
+		  <del type="overstrike">to</del>
+               <add place="supralinear">
+                  <choice>
+                     <abbr>till</abbr>
+                     <expan>until</expan>
+                  </choice>
+               </add> it began to swell<add>.</add>
+               <hi rend="underline">t</hi>hen I
+		  led him Back to the fort and stayed there one <choice>
+                  <orig>wek</orig>
+                  <reg>week</reg>
+               </choice> to my <add place="supralinear">horse</add> got well and the Post Rider 
+		  <name type="person">Thomas Ross</name> and 
+		  <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Friley</name> came
+		  <choice>
+                  <orig>a long</orig>
+                  <reg>along</reg>
+               </choice> and as they lived in 
+		  <name type="place">
+                  <choice>
+                     <orig>Kaintucky</orig>
+                     <reg>Kentucky</reg>
+                  </choice>
+               </name> I
+		  conclude <pb n="4" facs="tl012d.small.jpg"/> if they could <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> safe I could,
+		  <choice>
+                  <orig>accordinly</orig>
+                  <reg>accordingly</reg>
+               </choice> we started the next Morning and went
+		  on all day ve<del type="overstrike">a</del>ry <add place="supralinear">well</add> but <add place="supralinear">the</add>
+		  2nd day <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice> two <choice>
+                  <orig>a Clock</orig>
+                  <reg>o'clock</reg>
+               </choice>
+		  on the East side of 
+		  <name type="place">
+                  <choice>
+                     <orig>littel</orig>
+                     <reg>Little</reg>
+                  </choice> Sorrel River</name>
+		  we <choice>
+                  <orig>ware </orig>
+                  <reg>were</reg>
+               </choice> fired on by a part<del type="overstrike">e</del>y of Indians We
+		  Dashed forward  <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice> 150 yards <add place="supralinear">to the <add>River</add>
+               </add> it did not
+		  <unclear>swim (inkblot)</unclear> us at the ford<add>.</add>
+               <hi rend="underline">t</hi>he
+		  Ro<add place="supralinear">a</add>d<del type="overstrike">e</del> led up the
+		  River <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> a <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> distance
+		  from the River and in <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice>
+               <del type="overstrike">the</del>
+               <add place="supralinear">a</add>
+		   of mile it came near the Road <choice>
+                  <orig>a gain</orig>
+                  <reg>again</reg>
+               </choice>, and at
+		  that <choice>
+                  <orig>plase</orig>
+                  <reg>place</reg>
+               </choice> a <choice>
+                  <orig>littel
+		  Harricn
+		  </orig>
+                  <reg>little Hurricane</reg>
+               </choice> had
+		  <choice>
+                  <orig>cros ed</orig>
+                  <reg>crossed</reg>
+               </choice>
+		  the Ro<add place="supralinear">a</add>d<del type="overstrike">e</del> the sum<add place="supralinear">m</add>er before but
+		  the g<add place="supralinear">u</add>ard that went <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice> to protect the Traveller had the cut the limbs of
+		  <add place="supralinear">the</add> fallen trees so that <add place="supralinear">the</add> pack horses could g<del type="overstrike">i</del>t <choice>
+                  <orig>a
+		  long</orig>
+                  <reg>along</reg>
+               </choice>, 
+		  <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name>
+               <add place="supralinear">horse</add> creature
+		  could <choice>
+                  <orig>out Run</orig>
+                  <reg>outrun</reg>
+               </choice> my hors<add>e</add> I think he was a rod
+		  <choice>
+                  <orig>a head</orig>
+                  <reg>ahead</reg>
+               </choice> of me<add>.</add>
+               <choice>
+                  <orig>ust</orig>
+                  <reg>just</reg>
+               </choice> as we <choice>
+                  <orig>Enterd</orig>
+                  <reg>Entered</reg>
+               </choice> the
+		  fallen timber an Indian from behind a tree fired at him and <add place="supralinear">I</add> suppose shot his <choice>
+                  <orig>creture
+		  thro</orig>
+                  <reg>creature through</reg>
+               </choice> the Ear for she was shot <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice> the Ear
+		  she <choice>
+                  <orig>Whealed</orig>
+                  <reg>wheeled</reg>
+               </choice> back and at the<add>y</add> fired on 
+		  <name type="person">Ross</name>  me<add>,</add>
+               <name type="person">Friley</name> said <choice>
+                  <orig>ther</orig>
+                  <reg>there</reg>
+               </choice>
+		  was twenty or thirty guns fired at us two<add>,</add> for 
+		  <name type="person">Friley</name> was forty yards behind but our
+		  <choice>
+                  <orig>hor</orig>
+                  <reg>horses</reg>
+               </choice> scaring at
+		  <add place="supralinear">the</add> screaming of the Indians and guns and
+		  dodging <choice>
+                  <orig>the misd</orig>
+                  <reg>they missed</reg>
+               </choice> us <choice>
+                  <orig>boath</orig>
+                  <reg>both</reg>
+               </choice>
+               <add>.</add>
+               <hi rend="underline">w</hi>e
+		  Dashed back and met 
+		  <name type="person">
+                  <choice>
+                     <orig>Frily</orig>
+                     <reg>Friley</reg>
+                  </choice>
+               </name> and we all
+		  Came in <choice>
+                  <orig>a breast</orig>
+                  <reg>abreast</reg>
+               </choice> to <add place="supralinear">a</add> large fallen tree and I was on <choice>
+                  <orig>theft</orig>
+                  <reg>the left</reg>
+               </choice> and 
+		  <name type="person">Ross</name> in the <choice>
+                  <orig>middel</orig>
+                  <reg>middle</reg>
+               </choice>
+               <add place="supralinear">and as</add>
+               <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> mare
+		  <del type="overstrike">as</del> charged
+		  the log her four feet went <choice>
+                  <orig>in to</orig>
+                  <reg>into</reg>
+               </choice> ground so she
+		  <choice>
+                  <orig>fel</orig>
+                  <reg>fell</reg>
+               </choice> on her <choice>
+                  <orig>Brast</orig>
+                  <reg>Breast</reg>
+               </choice>
+               <add>,</add> and then on her side and he went
+		  over <add place="supralinear">her</add> head and his gun fell out of
+		  his hand he spran<del type="overstrike">d</del>
+               <add>g</add> to his gun and looked at his mare and I
+		  suppose he thought she was killed for I Expected mine to fall
+		  <choice>
+                  <orig>Evry minuite</orig>
+                  <reg>Every minute</reg>
+               </choice> the kept missing me so much and
+		  <add place="supralinear">
+                  <unclear>that was</unclear>
+               </add> the last I seen of
+		  him I then <choice>
+                  <orig>Reiend</orig>
+                  <reg>Reined</reg>
+               </choice>
+               <add place="supralinear">my
+		  horse</add> to <choice>
+                  <orig>pas</orig>
+                  <reg>pass</reg>
+               </choice> the Bend of the <choice>
+                  <orig>Rive</orig>
+                  <reg>River</reg>
+               </choice>
+               <name type="person">Friley</name>
+               <choice>
+                  <orig>hollerred</orig>
+                  <reg>hollered</reg>
+               </choice>
+		  at me not to <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> there for <add place="superlinear">he</add> said when the<add>y</add> fired on 
+		  <name type="person">Ross</name> and me in the Hurrican<add>e</add> he seen the trees all lined with
+		  Indians <choice>
+                  <orig>betwean</orig>
+                  <reg>between</reg>
+               </choice> me and the River I then made for the
+		  River and when I came to it <pb n="5" facs="tl012e.small.jpg"/> it was a high caving bank I turned
+		  down the River but it got no better four or five feet to the wat<del type="overstrike">t</del>er<add>.</add>
+               <name type="person">Friley</name>
+               <choice>
+                  <orig>Hollorred</orig>
+                  <reg>Hollered</reg>
+               </choice>
+		  to me that he was wounded<add>,</add>
+		  and for me to charg<add>e</add> my horse
+		  down the bank or they would have us I <choice>
+                  <orig>answerd</orig>
+                  <reg>answered</reg>
+               </choice> him
+		  that I was wounded also and turned my horse toward the River<add>.</add> he sailed <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> as <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> it was level ground the
+		  first plung<add>e</add> took me Round
+		  <del type="overstrike">the</del>
+               <choice>
+                  <orig>middel</orig>
+                  <reg>middle</reg>
+               </choice> in swimming wat<del type="overstrike">t</del>er<add>.</add> he then took Down the River with
+		  me and <add place="supralinear">unc</add> I could do I could not turn him<add>.</add>
+               <hi rend="underline">a</hi>t
+		  length I hit him with my left hand on the side of his head and that turned him
+		  as my Right arm <choice>
+                  <orig>fel</orig>
+                  <reg>fell</reg>
+               </choice> dead when the Ball Struck me and
+		  <add place="supralinear">I</add> would have left him in River but I was fearful
+		  that I could not swim out with one hand having my <choice>
+                  <orig>over
+		  Coat</orig>
+                  <reg>overcoat</reg>
+               </choice> on and I thought the horse was shot and dying but I
+		  <choice>
+                  <orig>thougt</orig>
+                  <reg>thought</reg>
+               </choice> I would <choice>
+                  <orig>trey</orig>
+                  <reg>try</reg>
+               </choice> to
+		  <choice>
+                  <orig>mak</orig>
+                  <reg>make</reg>
+               </choice> him <choice>
+                  <orig>Carrey</orig>
+                  <reg>Carry</reg>
+               </choice> me to the shore
+		  and when he got to the bank it was slate bank he got <choice>
+                  <orig>a
+		  boute</orig>
+                  <reg>about</reg>
+               </choice> half way up the <del type="overstrike">the</del> bank<add>.</add>
+               <hi rend="underline">H</hi>e got
+		  <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice>
+               <choice>
+                  <orig>half way</orig>
+                  <reg>half-way</reg>
+               </choice> up the <del type="overstrike">the</del>
+		  bank and <choice>
+                  <orig>fel</orig>
+                  <reg>fell</reg>
+               </choice> and I <choice>
+                  <orig>thot</orig>
+                  <reg>thought</reg>
+               </choice> he
+		  <unclear>was dead</unclear> and sprung of<add>f</add> him and shoved my
+		  <choice>
+                  <orig>over Coat</orig>
+                  <reg>overcoat</reg>
+               </choice> of<add>f</add> the point of my
+		  <choice>
+                  <orig>shoalder</orig>
+                  <reg>shoulder</reg>
+               </choice> to Run and at that moment I seen
+		  <add place="supralinear over the letters &#34;een&#34;">aw</add>
+               <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> mare
+		  Nearing the bank. I caught my coat again and pulled it up and made for 
+		  <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> mare, and
+		  as she <choice>
+                  <orig>pased</orig>
+                  <reg>passed</reg>
+               </choice> me I got hold of the Brid<del type="overstrike">al</del>
+               <add place="over the letters &#34;el&#34;">le</add>.
+		  <hi rend="underline">i</hi>t was <choice>
+                  <orig>a mong</orig>
+                  <reg>among</reg>
+               </choice> her feet
+		  <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> not tangled I put it over her head and sprung on
+		  her and Came of<add>f</add> on her
+		  <pb n="6" facs="tl012f.small.jpg"/> and <add place="supralinear">as</add> I Raised the Bank I
+		  seen <add place="supralinear over the letters &#34;een&#34;">aw</add>
+               <name type="person">Friley</name>
+               <choice>
+                  <orig>a gowing</orig>
+                  <reg>going</reg>
+               </choice>
+		  over <add place="supralinear">the hill</add> more than a hundred yards
+		  <choice>
+                  <orig>a head</orig>
+                  <reg>ahead</reg>
+               </choice>
+               <choice>
+                  <orig>Altho</orig>
+                  <reg>although</reg>
+               </choice> he went after
+		  me <add place="supralinear">into the river</add> and it
+		  <add place="supralinear">Did not</add> Swim him, and he had a low bank to rise.
+		  <hi rend="underline">i</hi>f my horse would have gone straight
+		  <choice>
+                  <orig>a Cross</orig>
+                  <reg>across</reg>
+               </choice> he <add place="supralinear">would</add> have the same low Bank but as I mounted 
+		  <name type="person">
+                  <choice>
+                     <orig>Roses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name>
+               <add place="supralinear">mare</add> I started the Course I seen <add place="supralinear over the letters &#34;een&#34;">aw</add>
+               <name type="person">
+                  <choice>
+                     <orig>Frily</orig>
+                     <reg>Friley</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <orig>a gowing</orig>
+                  <reg>going</reg>
+               </choice> after going <choice>
+                  <orig>fiftey</orig>
+                  <reg>fifty</reg>
+               </choice>
+		  or <choice>
+                  <orig>sixtey</orig>
+                  <reg>sixty</reg>
+               </choice>
+               <add place="supralinear">yards</add>
+		  I look Round to see if <add place="supralinear">I</add> could see
+		  <choice>
+                  <orig>aney</orig>
+                  <reg>any</reg>
+               </choice> of the<choice>
+                  <orig>Idians</orig>
+                  <reg>Indians</reg>
+               </choice> that first
+		  fired on me on that side of the <choice>
+                  <orig>Rive</orig>
+                  <reg>River</reg>
+               </choice> and
+		  <choice>
+                  <orig>dscovered</orig>
+                  <reg>discovered</reg>
+               </choice> my own horse Right at
+		  <del type="overstrike">heals</del> my hea<add place="supralinear over the letters &#34;ea&#34;">ee</add>ls<add>.</add> I checked my mare a moment to he
+		  <choice>
+                  <orig>pased</orig>
+                  <reg>passed</reg>
+               </choice> me and I heard the <unclear>scream</unclear>
+		  after him and turned him the way I seen 
+		  <name type="person">Friley</name>go<del type="overstrike">w</del> and directly struck his trail it
+		  <add place="supralinear">was</add> post oak land and the Indians had Bur<add place="supralinear">n</add>t the <choice>
+                  <orig>laves of</orig>
+                  <reg>leaves off</reg>
+               </choice> the
+		  ground  his <add place="supralinear">mare</add> had thrown up the White
+		  clay as he Run so I could
+		  <add place="supralinear">see</add> his
+		  trail for <choice>
+                  <orig>thirtey</orig>
+                  <reg>thrity</reg>
+               </choice> yards <choice>
+                  <orig>a
+		  head</orig>
+                  <reg>ahead</reg>
+               </choice> I could see the Blood on Bushes where <add place="supralinear">he
+		  pased</add> and in <choice>
+                  <orig>
+		  bout</orig>
+                  <reg>about</reg>
+               </choice> the  of a mile I <choice>
+                  <orig>over took</orig>
+                  <reg>overtook</reg>
+               </choice> him
+		  <unclear>
+                  <add place="supralinear">he</add>
+               </unclear> had
+		  <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice> in <add place="supralinear">a</add>
+               <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> Sunk pla<del type="overstrike">s</del>
+               <add>c</add>e, he said he was <add place="supralinear">so</add> sick he would be obliged to <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> down. I <choice>
+                  <orig>oberved</orig>
+                  <reg>observed</reg>
+               </choice> to him if you
+		  <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> down you <choice>
+                  <orig>neaver</orig>
+                  <reg>never</reg>
+               </choice> will
+		  <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> up again for the Indian will be <choice>
+                  <orig>hear</orig>
+                  <reg>here</reg>
+               </choice> in <choice>
+                  <orig>les</orig>
+                  <reg>less</reg>
+               </choice> than five minutes and
+		  besides that your ho<add place="supralinear">r</add>se is shot in his th<del type="overstrike">ey</del>
+               <add place="supralinear">ighs</add> he may
+		  not <choice>
+                  <orig>Carrey</orig>
+                  <reg>Carry</reg>
+               </choice> you twenty minutes, shove him as long as
+		  you Can<add>.</add>
+               <hi rend="underline">h</hi>e then observed<add>,</add> go <choice>
+                  <orig>a
+		  head</orig>
+                  <reg>ahead</reg>
+               </choice>
+               <add>,</add> and
+		  <add>I</add> will <add place="supralinear">try</add> to keep up I went
+		  <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> East probably a mile and turned north and struck the
+		  River <choice>
+                  <orig>a gain</orig>
+                  <reg>again</reg>
+               </choice> at <choice>
+                  <orig>som</orig>
+                  <reg>some</reg>
+               </choice>
+               <choice>
+                  <orig>Buffelow</orig>
+                  <reg>Buffalo</reg>
+               </choice> licks which I was informed after I got
+		  <add place="supralinear">in</add> the <choice>
+                  <orig>settelment</orig>
+                  <reg>settlement</reg>
+               </choice>
+		  was five miles from the ford where I had <choice>
+                  <orig>cosed</orig>
+                  <reg>crossed</reg>
+               </choice>, the
+		  River there <add place="supralinear">was</add> a small stream
+		  <pb n="7" facs="tl012g.small.jpg"/> not <choice>
+                  <orig>belley</orig>
+                  <reg>belly</reg>
+               </choice> Deep on our horses and after I
+		  had <choice>
+                  <orig>crosed</orig>
+                  <reg>crossed</reg>
+               </choice> I seen my horse had <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice> to eat some kain <add place="supralinear over the work &#34;kain&#34;">cane</add> that was on the bank I then
+		  turned back and caught my own horse he had lost the rains <add place="supralinear over the word &#34;rains&#34;">reins</add> of my Bridel <add place="supralinear over the letters &#34;el&#34;">le</add>. I then pulled the Bridel
+		  <add place="supralinear over the letters &#34;el&#34;">le</add> of<add>f</add>
+               <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> mare and
+		  put it on my own horse and Drove the mare <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice> the
+		  River and Requested 
+		  <name type="person">
+                  <choice>
+                     <orig>friley</orig>
+                     <reg>Friley</reg>
+                  </choice>
+               </name> to Drive
+		  <add place="supralinear">her</add> after me he said he was so sick he
+		  could not but she would follow us, she had the mail on and his Blanket
+		  <choice>
+                  <orig>sircingeled</orig>
+                  <reg>surcingled</reg>
+               </choice> on Just as he left her I went on a
+		  westerly course and <add place="supralinear">in</add>
+               <choice>
+                  <orig>les</orig>
+                  <reg>less</reg>
+               </choice> than a mile we struck the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice>
+               <name> 
+                  <reg>person</reg> Friley</name> was so deranged he wanted to take the
+		  <choice>
+                  <orig>Rong</orig>
+                  <reg>Wrong</reg>
+               </choice> end of the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> I
+		  informed him that <add place="supralinear">I</add> would not keep the
+		  <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> any further I <choice>
+                  <orig>Enquired</orig>
+                  <reg>Inquired</reg>
+               </choice>
+		  of him the <choice>
+                  <orig>Cours</orig>
+                  <reg>Course</reg>
+               </choice> to the <choice>
+                  <orig>settelment</orig>
+                  <reg>settlement</reg>
+               </choice> of 
+		  <name type="place">
+                  <choice>
+                     <orig>Kaintuckey</orig>
+                     <reg>Kentucky</reg>
+                  </choice>
+               </name> as I
+		  had <choice>
+                  <orig>neaver</orig>
+                  <reg>never</reg>
+               </choice> been there he said it was <choice>
+                  <orig>a but</orig>
+                  <reg>about</reg>
+               </choice> a <choice>
+                  <orig>sun set</orig>
+                  <reg>sunset</reg>
+               </choice> course if I know
+		  which <unclear>way (hole in page)</unclear> that was a <choice>
+                  <orig>beutiful</orig>
+                  <reg>beautiful</reg>
+               </choice> Clear day and at that <choice>
+                  <orig>plase</orig>
+                  <reg>place</reg>
+               </choice> the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> was a
+		  <choice>
+                  <orig>gowing</orig>
+                  <reg>going</reg>
+               </choice> right north I went right <choice>
+                  <orig>a
+		  cros</orig>
+                  <reg>across</reg>
+               </choice> the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> took up a long hill and
+		  <choice>
+                  <orig>gust</orig>
+                  <reg>just</reg>
+               </choice>
+               <add place="supralinear">as</add> I got to
+		  the top of the hill I struck a path leading westerly which I thought was
+		  <add place="supralinear">a</add>
+               <choice>
+                  <orig>Buffelow</orig>
+                  <reg>Buffalo</reg>
+               </choice>
+		  path leading to a lick and from there I could <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> a path
+		  leading almost <choice>
+                  <orig>aney</orig>
+                  <reg>any</reg>
+               </choice> course for miles but after I had
+		  followed it<add>,</add>
+               <choice>
+                  <orig>povibelly</orig>
+                  <reg>probably</reg>
+               </choice> half a mile it began to give out and
+		  supposed the main path <add place="supralinear">was</add> to the Right
+		  and took down a point <add place="supralinear">of</add> the Ridge and
+		  had not gone more than <add place="supralinear"> of a <choice>
+                     <orig>mil</orig>
+                     <reg>mile</reg>
+                  </choice>
+               </add> before I seen a fresh parsel of logs
+		  <choice>
+                  <orig>puled</orig>
+                  <reg>pulled</reg>
+               </choice> up by the side of a big log I conclude
+		  <choice>
+                  <orig>som</orig>
+                  <reg>some</reg>
+               </choice> Indian had <add place="supralinear">died</add> and <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> had
+		  <choice>
+                  <orig>coverd</orig>
+                  <reg>covered</reg>
+               </choice> him up there and I would <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> and see but when I got there I got down and seen it was
+		  <add place="supralinear">a</add> White man. I then looked <pb n="8" facs="tl012h.small.jpg"/>		  over on the North side of the hill and seen where the <choice>
+                  <orig>Idians</orig>
+                  <reg>Indians</reg>
+               </choice> had e<add place="supralinear">m</add>ptied the
+		  <choice>
+                  <orig>Fether</orig>
+                  <reg>Feather</reg>
+               </choice> Beds of a Company they had defeated at that
+		  <choice>
+                  <orig>veary plase</orig>
+                  <reg>very place</reg>
+               </choice> the Monday <choice>
+                  <orig>weak</orig>
+                  <reg>week</reg>
+               </choice> before, and there was a man in that Company a Running
+		  <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> with <choice>
+                  <orig>a nother</orig>
+                  <reg>another</reg>
+               </choice> mans wife
+		  and the woman had her <choice>
+                  <orig>littel dauter</orig>
+                  <reg>little daughter</reg>
+               </choice>
+               <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice>
+               <choice>
+                  <orig>seaven</orig>
+                  <reg>seven</reg>
+               </choice> years
+		  <choice>
+                  <orig>Oald</orig>
+                  <reg>old</reg>
+               </choice> a Riding behind her and when the Indians fired on
+		  them the horse threw the woman and <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> girl and
+		  the man sprang <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> his horse gathered the woman and threw
+		  her on his own horse and Jumped on behind her and left the <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> girl a laying there and the Indians took her, the
+		  <choice>
+                  <orig>Mans</orig>
+                  <reg>Man's</reg>
+               </choice>
+               <choice>
+                  <orig>Nam</orig>
+                  <reg>Name</reg>
+               </choice> was 
+		  <name type="person">Drake</name> and the woman the wife of 
+		  <name type="person">Webb Nance</name>
+            </p>
+            <p>
+               <name type="person">Friley</name> said to me we had better take the
+			 road as <add place="supralinear">we</add> were so near it for there was a
+			 <choice>
+                  <orig>duch</orig>
+                  <reg>Dutch</reg>
+               </choice> man three or four miles from
+			 <unclear>there</unclear> that had a good Block house and a good horse pen near
+			 the Doors and a number of guns  dogs we then made for the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> and went as fast as our horses Could <choice>
+                  <orig>Carrey</orig>
+                  <reg>Carry</reg>
+               </choice> us I <choice>
+                  <orig>kep</orig>
+                  <reg>kept</reg>
+               </choice>
+               <unclear>hart</unclear> hole to I got in <add place="supralinear">a</add> mile of the house and was <choice>
+                  <orig>verey</orig>
+                  <reg>very</reg>
+               </choice> sick the <choice>
+                  <orig>Duch</orig>
+                  <reg>Dutch</reg>
+               </choice> man was kind
+			 took my horse and put him in his pen and <choice>
+                  <orig>dresed</orig>
+                  <reg>dressed</reg>
+               </choice> my
+			 wound found a <choice>
+                  <orig>peas</orig>
+                  <reg>piece</reg>
+               </choice> of the socket Bone of my
+			 <choice>
+                  <orig>shoalder</orig>
+                  <reg>shoulder</reg>
+               </choice> in my shirt and put some <choice>
+                  <orig>sugar</orig>
+                  <reg>sugar</reg>
+               </choice> and whiskey to my
+			 wound and give me a Deer skin to lay down on <pb n="9" facs="tl012i.small.jpg"/> which I
+			 <choice>
+                  <orig>Occopyed</orig>
+                  <reg>Occupied</reg>
+               </choice> for two nights and a day with a high
+			 <choice>
+                  <orig>feaver</orig>
+                  <reg>fever</reg>
+               </choice>, and <choice>
+                  <orig>seaverl</orig>
+                  <reg>several</reg>
+               </choice> times
+			 in the day <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> informed me <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice>
+			 Believed my <choice>
+                  <orig>hors</orig>
+                  <reg>horse</reg>
+               </choice> would die as we had fed our horses
+			 with the Corn <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> had been <choice>
+                  <orig>Carreying</orig>
+                  <reg>Carrying</reg>
+               </choice> on their backs Just before the Indians fired on
+			 us and my horse was Just <choice>
+                  <orig>giting</orig>
+                  <reg>getting</reg>
+               </choice> over a founder, and
+			 <choice>
+                  <orig>straing</orig>
+                  <reg>straining</reg>
+               </choice> him for ten or twelve miles
+			 <choice>
+                  <orig>founderd</orig>
+                  <reg>foundered</reg>
+               </choice> him over again but he was the only one
+			 man or beast in the Company but was killed wound or taken as 
+			 <name type="person">Friley</name> lost one of his that he had a pack
+			 on and his mare that was shot in <add place="supralinear">the</add>
+               <choice>
+                  <orig>they</orig>
+                  <reg>thigh</reg>
+               </choice> proved to be a slight wound and his wound was
+			 <choice>
+                  <orig>a bove</orig>
+                  <reg>above</reg>
+               </choice> and below his <choice>
+                  <orig>Elbo</orig>
+                  <reg>Elbow</reg>
+               </choice>
+			 only in the flesh but he Bled so much that he was <choice>
+                  <orig>veary</orig>
+                  <reg>very</reg>
+               </choice>
+			 sick to we got near the <choice>
+                  <orig>Rode whare</orig>
+                  <reg>Road where</reg>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <orig>Drak</orig>
+                     <reg>Drake</reg>
+                  </choice>
+               </name> was
+			 Defeated
+                  </p>
+            <p>the second night <choice>
+                  <orig>a boute</orig>
+                  <reg>about</reg>
+               </choice> midnight a Company
+			 of three men and two <choice>
+                  <orig>wemen</orig>
+                  <reg>women</reg>
+               </choice> Came <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice> after us and had <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice>
+			 at 
+			 <name type="place">
+                  <choice>
+                     <orig>littel</orig>
+                     <reg>Little</reg>
+                  </choice> Sorrel
+				River</name> to Camp as it was <choice>
+                  <orig>gitting</orig>
+                  <reg>getting</reg>
+               </choice> Dark and
+			 found poor 
+			 <name type="person">Ross</name>
+               <choice>
+                  <orig>striped</orig>
+                  <reg>stripped</reg>
+               </choice>
+			 naked and his head cut off and that alarmed them <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice>
+			 mounted <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> horses and <choice>
+                  <orig>Cam</orig>
+                  <reg>came</reg>
+               </choice>
+			 12 miles to where I was the next morning my <choice>
+                  <orig>feaver</orig>
+                  <reg>fever</reg>
+               </choice> had
+			 subsided and my horse had got up I pled with <choice>
+                  <orig>thos
+			 theavs</orig>
+                  <reg>those thieves</reg>
+               </choice> as I learned afterward that was their <choice>
+                  <orig>Carrcter</orig>
+                  <reg>Character</reg>
+               </choice> in 
+			 <name type="place">Georgia</name> and <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice>
+			 then a <choice>
+                  <orig>Rung a way</orig>
+                  <reg>Running away</reg>
+               </choice> , to pack my horse as he was
+			 so stiff and let me Ride<add place="supralinear">one</add> of their pack horses
+			 but <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice>
+               <unclear>Refused (inkblot)</unclear>and said I
+			 could <pb n="10" facs="tl012j.small.jpg"/> not <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> I <choice>
+                  <orig>Replyed</orig>
+                  <reg>Replied</reg>
+               </choice> there <add place="supralinear">was</add> no
+			 could not with me I <choice>
+                  <orig>mus gow whare</orig>
+                  <reg>must go where</reg>
+               </choice> I could
+			 <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> medical aid and <choice>
+                  <orig>noureshment</orig>
+                  <reg>nourishment</reg>
+               </choice>
+               <add place="supralinear">and</add>
+			 directed the Dutch man to put my <choice>
+                  <orig>saddel</orig>
+                  <reg>saddle</reg>
+               </choice> on my own
+			 horse that the Road was <choice>
+                  <orig>a</orig>
+                  <reg>as</reg>
+               </choice> free for me as <choice>
+                  <orig>aney</orig>
+                  <reg>any</reg>
+               </choice> other person but I did not <choice>
+                  <orig>gow
+			 ove</orig>
+                  <reg>go over</reg>
+               </choice> a quarter of a mile before I <choice>
+                  <orig>dscoverd</orig>
+                  <reg>discovered</reg>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> mare
+			 <choice>
+                  <orig>a gain</orig>
+                  <reg>again</reg>
+               </choice> but she had lost her mail and
+			 <choice>
+                  <orig>sadel</orig>
+                  <reg>saddle</reg>
+               </choice> I Rode Round her and one of those men did help
+			 me to catch her and put on my <choice>
+                  <orig>saddel</orig>
+                  <reg>saddle</reg>
+               </choice> on her and I got
+			 on her she was a <choice>
+                  <orig>delightfule</orig>
+                  <reg>delightful</reg>
+               </choice> Riding Animal and it
+			 was <choice>
+                  <orig>Caled</orig>
+                  <reg>Called</reg>
+               </choice> forty miles to the 
+			 <name type="place">Crab <choice>
+                     <orig>Orcherd</orig>
+                     <reg>Orchard</reg>
+                  </choice>
+               </name> the
+			 first <choice>
+                  <orig>settelment</orig>
+                  <reg>settlement</reg>
+               </choice> and we <choice>
+                  <orig>goot thare</orig>
+                  <reg>got there</reg>
+               </choice> before dark but I was <choice>
+                  <orig>veary</orig>
+                  <reg>very</reg>
+               </choice> much <choice>
+                  <orig>Exausted</orig>
+                  <reg>Exhausted</reg>
+               </choice> and
+			 <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was a Doctor a <choice>
+                  <orig>Brother in law</orig>
+                  <reg>brother-in-law</reg>
+               </choice> of 
+			 <name type="person">
+                  <choice>
+                     <orig>Rosses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> that
+			 live<add place="supralinear">d</add> in sixty or Eighty yard of the fort
+			 I of course went to the <choice>
+                  <orig>Docters</orig>
+                  <reg>Doctors</reg>
+               </choice> and <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> treated me with <choice>
+                  <orig>grate</orig>
+                  <reg>great</reg>
+               </choice> deal of
+			 kindness and tenderness for six <choice>
+                  <orig>weaks</orig>
+                  <reg>weeks</reg>
+               </choice> before I felt
+			 <choice>
+                  <orig>abel</orig>
+                  <reg>able</reg>
+               </choice> to start home and the <choice>
+                  <orig>Docter</orig>
+                  <reg>Doctor</reg>
+               </choice> would <add place="supralinear">not</add>
+			 suffer me to <add place="supralinear">Eat</add>
+               <choice>
+                  <orig>meet</orig>
+                  <reg>meat</reg>
+               </choice> but <choice>
+                  <orig>kep</orig>
+                  <reg>kept</reg>
+               </choice> me on
+			 <choice>
+                  <orig>swetned vinnagar</orig>
+                  <reg>sweetened vinegar</reg>
+               </choice> and <choice>
+                  <orig>watter</orig>
+                  <reg>water</reg>
+               </choice> and bread as it was in 
+			 <date when="--03">March</date> and the Cows
+			 <choice>
+                  <orig>genraley</orig>
+                  <reg>generally</reg>
+               </choice> had their Calves with them in the
+			 <choice>
+                  <orig>Cain</orig>
+                  <reg>Cane</reg>
+               </choice> but 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col Wm</abbr>
+                     <expan>Colonel William</expan>
+                  </choice>
+				Whitley</name> lived in three miles and in about three <choice>
+                  <orig>weaks</orig>
+                  <reg>weeks</reg>
+               </choice> I got so I could Ride and I went to 
+			 <name type="person">
+                  <choice>
+                     <orig>Whiteys</orig>
+                     <reg>Whitley's</reg>
+                  </choice>
+               </name> Every
+			 other <add place="supralinear">day</add> to <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice>
+			 me <add place="supralinear">a</add> cup of Buttermilk they
+			 <choice>
+                  <orig>ware veary</orig>
+                  <reg>were very</reg>
+               </choice> kind to me and the next summer Come a
+			 year 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Whitley</name>
+			 Came to 
+			 <name>
+                  <choice>
+                     <orig>Nashvile</orig>
+                     <reg>Nashville</reg>
+                  </choice>
+               </name>
+			 with a large Company of men to <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> with 
+			 <name type="person">Major Orr</name> of 
+			 <name type="place">East Tennessee</name> and the
+			 <choice>
+                  <orig>Volenters</orig>
+                  <reg>Volunteers</reg>
+               </choice> around to <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice>
+			 from 
+			 <name type="place">
+                  <choice>
+                     <orig>Nashvile</orig>
+                     <reg>Nashville</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <sic>to to</sic>
+                  <corr>to</corr>
+               </choice> take the Town of 
+			 <name type="place">
+                  <choice>
+                     <orig>Necajack</orig>
+                     <reg>Nickajack</reg>
+                  </choice>
+               </name>
+               <pb n="11" facs="tl012k.small.jpg"/>
+               <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> I had been a <choice>
+                  <orig>prisner</orig>
+                  <reg>prisoner</reg>
+               </choice> by the <choice>
+                  <orig>Cherrokes</orig>
+                  <reg>Cherokees</reg>
+               </choice> six
+			 years before of Course I went <choice>
+                  <orig>a long</orig>
+                  <reg>along</reg>
+               </choice>
+               <choice>
+                  <orig>all tho</orig>
+                  <reg>although</reg>
+               </choice> the wound was still a <choice>
+                  <orig>Runing</orig>
+                  <reg>Running</reg>
+               </choice> in <choice>
+                  <orig>boath</orig>
+                  <reg>both</reg>
+               </choice> sides and
+			 <choice>
+                  <orig>peases</orig>
+                  <reg>pieces</reg>
+               </choice> of bone <choice>
+                  <orig>kep
+			 comeing</orig>
+                  <reg>kept coming</reg>
+               </choice> out for two years and at that time there was a hole Clean
+			 <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice> my <choice>
+                  <orig>shoalder</orig>
+                  <reg>shoulder</reg>
+               </choice> and on
+			 that <choice>
+                  <orig>Campain</orig>
+                  <reg>Campaign</reg>
+               </choice> a <choice>
+                  <orig>Nefew</orig>
+                  <reg>Nephew</reg>
+               </choice> of 
+			 <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Whitley</name>
+			 give me information of <add place="supralinear">
+                  <unclear>the
+			 (inkblot)</unclear>
+               </add> Judgment of Heaven on the <choice>
+                  <orig>veary</orig>
+                  <reg>very</reg>
+               </choice> Indians that wounded me a Trader had Just come in from
+			 <add place="supralinear">the</add>
+               <choice>
+                  <orig>Norther</orig>
+                  <reg>Northern</reg>
+               </choice> Indians
+			 <del type="overstrike">I</del> who said <choice>
+                  <orig>thare
+			 ware</orig>
+                  <reg>there were</reg>
+               </choice> sixty from one Town that <choice>
+                  <orig>Cam</orig>
+                  <reg>came</reg>
+               </choice> out to
+			 <choice>
+                  <orig>way lay</orig>
+                  <reg>waylay</reg>
+               </choice> the <choice>
+                  <orig>Rode</orig>
+                  <reg>road</reg>
+               </choice> from 
+			 <name type="place">
+                  <choice>
+                     <orig>Kaintuck</orig>
+                     <reg>Kentucky</reg>
+                  </choice>
+               </name>to 
+			 <name type="place">East Tennessee</name> the winter and spring
+			 <choice>
+                  <orig>befor</orig>
+                  <reg>before</reg>
+               </choice> and after <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> had
+			 <add place="supralinear">defeated</add>
+               <choice>
+                  <orig>Differnt famely</orig>
+                  <reg>Different family</reg>
+               </choice> on the <choice>
+                  <orig>Rode the toke</orig>
+                  <reg>Road they took</reg>
+               </choice> a fort on 
+			 <name type="place">
+                  <choice>
+                     <orig>slate</orig>
+                     <reg>Slate</reg>
+                  </choice> River </name> and
+			 took <choice>
+                  <orig>prisners</orig>
+                  <reg>prisoners</reg>
+               </choice> and was followed by a
+			 <choice>
+                  <orig>Companey</orig>
+                  <reg>Company</reg>
+               </choice> for some distance and
+			 <choice>
+                  <orig>som stoney</orig>
+                  <reg>some stony</reg>
+               </choice> ground the Indians had
+			 <choice>
+                  <orig>scatterd</orig>
+                  <reg>scattered</reg>
+               </choice> so that <choice>
+                  <orig>thear</orig>
+                  <reg>their</reg>
+               </choice>
+			 trail could not be followed the Company Returned and 
+			 <name type="person">Simon Kenton</name>
+               <add place="supralinear">who had been a <choice>
+                     <orig>prisner</orig>
+                     <reg>prisoner</reg>
+                  </choice> by the
+			 Indians</add> then <choice>
+                  <orig>Commande</orig>
+                  <reg>Commanded</reg>
+               </choice> a Company Observed he
+			 thought that he knew what Indians <choice>
+                  <orig>the ware</orig>
+                  <reg>they were</reg>
+               </choice> from
+			 the Course they <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> a <choice>
+                  <orig>gowing</orig>
+                  <reg>going</reg>
+               </choice>
+			 and if his men would <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> with him he would follow them
+			 his men <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> willing to <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> and
+			 they started and got to <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> the others turned back
+			 but he went the Course he supposed the Indians did <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice>
+			 and <choice>
+                  <orig>gust</orig>
+                  <reg>just</reg>
+               </choice> before night he struck a large trail and
+			 followed to he found he was near them he then <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice>
+			 his men and went on himself to he come to their camp and found they had more
+			 camps then he had men he then <pb n="12" facs="tl012l.small.jpg"/> informed his men of their
+			 <choice>
+                  <orig>dainger</orig>
+                  <reg>danger</reg>
+               </choice> and thought <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> had
+			 better <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> as <choice>
+                  <orig>fare</orig>
+                  <reg>far</reg>
+               </choice> back as
+			 <choice>
+                  <orig>possibel</orig>
+                  <reg>possible</reg>
+               </choice> that night for the Indians
+			 <add place="supralinear">would</add> see their trail in the morning and follow
+			 them then <add place="supralinear">
+                  <choice>
+                     <orig>the</orig>
+                     <reg>they</reg>
+                  </choice>
+               </add> turned for
+			 home and <choice>
+                  <orig>gust</orig>
+                  <reg>just</reg>
+               </choice> before day he Came in sight of a fire he
+			 <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice> his men and went and <choice>
+                  <orig>Exmined</orig>
+                  <reg>Examined</reg>
+               </choice> the Camp and <add place="supralinear">seen</add>
+               <orig resp="#where #there">whare thare</orig> was <choice>
+                  <orig>parsel</orig>
+                  <reg>parcel</reg>
+               </choice> of <choice>
+                  <orig>peopel</orig>
+                  <reg>people</reg>
+               </choice> that was covered
+			 with white peoples clothing he then went back and informed his men that
+			 <choice>
+                  <orig>the ware</orig>
+                  <reg>they were</reg>
+               </choice> the <choice>
+                  <orig>verey</orig>
+                  <reg>very</reg>
+               </choice> Indians
+			 <choice>
+                  <orig>the ware</orig>
+                  <reg>they were</reg>
+               </choice> a hunting but it would not do to fire on
+			 them if <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> did the Indians would <choice>
+                  <orig>Tomhawk</orig>
+                  <reg>Tomahawk</reg>
+               </choice> the <choice>
+                  <orig>prisners</orig>
+                  <reg>prisoners</reg>
+               </choice> but
+			 <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> must <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> as nigh as
+			 <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> could a<add place="supralinear">nd</add> lay
+			 still to <add place="supralinear">it</add> was light <choice>
+                  <orig>a nough</orig>
+                  <reg>enough</reg>
+               </choice> to see to shoot a man ten steps and then Run upon
+			 them with their <choice>
+                  <orig>Tom hak</orig>
+                  <reg>Tomahawk</reg>
+               </choice> and then as
+			 <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> run shoot them and by that means they <add place="supralinear">would</add> save the <choice>
+                  <orig>prisnors</orig>
+                  <reg>prisoners</reg>
+               </choice>
+               <add>,</add> and <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice>
+			 done so and they thought <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> had killed all of them and
+			 <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> they got the mail that I left on 
+			 <name type="person">
+                  <choice>
+                     <orig>Roses</orig>
+                     <reg>Ross's</reg>
+                  </choice>
+               </name> mare and
+			 the <choice>
+                  <orig>prisners</orig>
+                  <reg>prisoners</reg>
+               </choice> that was taken when 
+			 <name type="person">
+                  <unclear>Mr. McFarlin</unclear>
+               </name> was
+			 defeated the next Tuesday after I was Defeated <choice>
+                  <sic>and and</sic>
+                  <corr>and</corr>
+               </choice>
+			 the <choice>
+                  <orig>prisners</orig>
+                  <reg>prisoners</reg>
+               </choice> that was taken when they took the
+			 Fort so that we knew it was the same Indians that had done all the mischief the
+			 Trader said <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was one <choice>
+                  <orig>onley</orig>
+                  <reg>only</reg>
+               </choice> got back out of <choice>
+                  <orig>sixtey</orig>
+                  <reg>sixty</reg>
+               </choice> that
+			 had started from That Town I will now give a relation of 
+			 <name type="name">
+                  <choice>
+                     <orig>McFarlen</orig>
+                     <reg>McFarlin</reg>
+                  </choice>
+               </name>s Defeat
+			 the next Tuesday after I was defeated they <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice>
+               <name type="person">North Carolinians</name> nine men and several
+			 <choice>
+                  <orig>wemen</orig>
+                  <reg>women</reg>
+               </choice>
+               <choice>
+                  <sic>and and</sic>
+                  <corr>and</corr>
+               </choice> children and as 
+			 <name type="person">
+                  <choice>
+                     <orig>McFarlen</orig>
+                     <reg>McFarlin</reg>
+                  </choice>
+               </name> was a
+			 
+			 <name type="person">East <choice>
+                     <orig>Tenneseyan</orig>
+                     <reg>Tennesseean</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice>
+			 requested him to command them while in <choice>
+                  <orig>Wilder</orig>
+                  <reg>wilderness</reg>
+               </choice> he agreed to do so and had
+			 <choice>
+                  <orig>pased whare</orig>
+                  <reg>passed where</reg>
+               </choice> I was Defeated and near
+			 <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <orig>drake</orig>
+                     <reg>Drake</reg>
+                  </choice>
+               </name> was
+			 defeated and he seen a small Rock by the side of <choice>
+                  <orig>saplin</orig>
+                  <reg>sapling</reg>
+               </choice> on a Bank <pb n="13" facs="tl012m.small.jpg"/> and
+			 <add place="supralinear">he</add> said he thought that had not grew
+			 <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> glanced his <add place="supralinear">Eyes</add> Closely on it <add place="supralinear">and</add>
+               <choice>
+                  <orig>Discoverd</orig>
+                  <reg>discovered</reg>
+               </choice> the <choice>
+                  <orig>musel</orig>
+                  <reg>muzzle</reg>
+               </choice> of
+			 the Indian gun on the top of the Rock he cried Indians <del type="overstrike">unc</del> and sprung <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> his horse and
+			 Drew his sight to split the fellows head as soon as he Raised it but he
+			 supposed the <choice>
+                  <orig>fello</orig>
+                  <reg>fellow</reg>
+               </choice> seen him between the Rock and the
+			 <choice>
+                  <orig>saplin</orig>
+                  <reg>sapling</reg>
+               </choice> and sprang <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> to Come
+			 <del type="overstrike">unc</del> Round him he Ran Even with the fellow forty or
+			 <choice>
+                  <orig>fiftey</orig>
+                  <reg>fifty</reg>
+               </choice> yards and <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice> forty
+			 yards <add place="supralinear">
+                  <choice>
+                     <orig>a part</orig>
+                     <reg>apart</reg>
+                  </choice>
+               </add> and
+			 he seen the fellow was <choice>
+                  <orig>a bout stoping</orig>
+                  <reg>about stopping</reg>
+               </choice> and
+			 <add place="supralinear">he</add> thought he could <choice>
+                  <orig>out shoot</orig>
+                  <reg>outshoot</reg>
+               </choice> any Indian but the Indian gun fired first and
+			 shot <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice>
+               <name type="person">McFarlin</name>
+               <add place="supralinear">Clothing</add> on one side but he <choice>
+                  <orig>kiled</orig>
+                  <reg>killed</reg>
+               </choice> the Indian he <choice>
+                  <orig>gumped</orig>
+                  <reg>jumped</reg>
+               </choice> behind
+			 a tree and loaded again <choice>
+                  <orig>gust</orig>
+                  <reg>just</reg>
+               </choice> at <add place="supralinear">that</add> time <choice>
+                  <orig>a nother</orig>
+                  <reg>another</reg>
+               </choice> Indian
+			 came <choice>
+                  <orig>Runing</orig>
+                  <reg>Running</reg>
+               </choice> Round and he Run with him and Run forty
+			 or fifty steps and he the fellow was <choice>
+                  <orig>a but
+			 stoping</orig>
+                  <reg>about stopping</reg>
+               </choice> and he still thought he Could <choice>
+                  <orig>out shote
+			 aney</orig>
+                  <reg>outshoot any</reg>
+               </choice> Indian but <add place="supralinear">that</add> fellows gun fired
+			 Rather first and shot threw 
+			 <name type="person">McFarlin</name> clothing on the other side
+			 <choice>
+                  <sic>but but</sic>
+                  <corr>but</corr>
+               </choice>
+               <add place="supralinear">he</add>
+               <choice>
+                  <orig>Droped</orig>
+                  <reg>Dropped</reg>
+               </choice> him he then got behind <choice>
+                  <orig>a
+			 nother</orig>
+                  <reg>another</reg>
+               </choice> tree and loaded again and a third fellow Came Round and he looked
+			 like a <choice>
+                  <orig>whit</orig>
+                  <reg>white</reg>
+               </choice> man or a <choice>
+                  <orig>veary</orig>
+                  <reg>very</reg>
+               </choice>
+			 fair half breed and 
+			 <name type="person">
+                  <choice>
+                     <abbr>Mc</abbr>
+                     <expan>McFarlin</expan>
+                  </choice>
+               </name> and him
+			 had <add place="supralinear">a</add>
+               <choice>
+                  <orig>semilar</orig>
+                  <reg>similar</reg>
+               </choice>
+			 Race and as the fellow <choice>
+                  <orig>stoped</orig>
+                  <reg>stopped</reg>
+               </choice>
+               <choice>
+                  <orig>the Boath</orig>
+                  <reg>they both</reg>
+               </choice> fired and <add place="supralinear">the</add>
+			 Fellow shot <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <abbr>Mc</abbr>
+                     <expan>McFarlin</expan>
+                  </choice>
+               </name> Charger
+			 and <choice>
+                  <orig>threw</orig>
+                  <reg>through</reg>
+               </choice> his shot pouch strap but 
+			 <name type="person">
+                  <choice>
+                     <abbr>Mc</abbr>
+                     <expan>McFarlin</expan>
+                  </choice>
+               </name>
+               <choice>
+                  <orig>Droped</orig>
+                  <reg>Dropped</reg>
+               </choice> him 
+			 <name type="person">
+                  <choice>
+                     <abbr>Mc</abbr>
+                     <expan>McFarlin</expan>
+                  </choice>
+               </name>loaded
+			 and no others Came he then Ran back and he Could see but <add place="supralinear">one</add> of his men and <add place="supralinear">he
+			 was</add> a quarter of mile <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> and <add place="supralinear">a</add> Crowd of Indians had taken the <choice>
+                  <orig>wemen</orig>
+                  <reg>women</reg>
+               </choice> he said he then thought it was not
+			 <choice>
+                  <orig>worth whale</orig>
+                  <reg>worthwhile</reg>
+               </choice> to throw away his life he then left
+			 four of his men Dead on the ground and the fifth one dead by my side of his
+			 wound a company went to <choice>
+                  <orig>Berrey</orig>
+                  <reg>Bury</reg>
+               </choice> the <choice>
+                  <orig>dad</orig>
+                  <reg>dead</reg>
+               </choice> with 
+			 <name type="person">McFarlin</name> and before <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> got to <add place="supralinear">the</add>
+               <choice>
+                  <orig>plase</orig>
+                  <reg>place</reg>
+               </choice> they seen a pack horse standing some distance
+			 from the <choice>
+                  <orig>Rode</orig>
+                  <reg>road</reg>
+               </choice>
+               <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> Dashed out
+			 <pb n="14" facs="tl012n.small.jpg"/> and <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was a <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice>
+               <add place="superlinear">girl</add> laying near him
+			 <choice>
+                  <orig>a sleep</orig>
+                  <reg>asleep</reg>
+               </choice> some of them said <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was one <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> girl dead but
+			 then <choice>
+                  <orig>Comeing</orig>
+                  <reg>coming</reg>
+               </choice>
+               <unclear>wakened (inkblot)</unclear> her
+			 she look up and smiled to see the white men and <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice>
+               <add place="supralinear">was</add>
+               <choice>
+                  <orig>hardley</orig>
+                  <reg>hardly</reg>
+               </choice> a
+			 man but shed tears the pack horse Run <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> with her in the
+			 <del type="overstrike">of</del> the fight and had <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> got his <choice>
+                  <orig>Bridel
+			 fastend</orig>
+                  <reg>bridle fastened</reg>
+               </choice> to again and had been near three days 
+			 <name type="person">
+                  <choice>
+                     <abbr>Mc</abbr>
+                     <expan>McFarlin</expan>
+                  </choice>
+               </name> went on
+			 to the <choice>
+                  <orig>Battel ground</orig>
+                  <reg>battleground</reg>
+               </choice> and showed
+			 <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> he stood and <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> the
+			 Indians stood stood and <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was the Blood
+			 <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> the fellows lay but the Indians had taken them
+			 <add place="supralinear">away</add> and <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice> two
+			 hundred yards off in a tree top the last man man he shot was
+			 <choice>
+                  <orig>coverd</orig>
+                  <reg>covered</reg>
+               </choice> and he was a white man and by finding the
+			 pack and <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> girl <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> went
+			 back <choice>
+                  <orig>a long</orig>
+                  <reg>along</reg>
+               </choice> the <add place="supralinear">
+                  <choice>
+                     <orig>Rode</orig>
+                     <reg>road</reg>
+                  </choice>
+               </add> and found the track of 
+			 <name type="person">Nance</name>s <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice>
+			 daughter that was taken when 
+			 <name type="person">Drake</name> was Defeated and <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> followed it by <choice>
+                  <orig>whare</orig>
+                  <reg>where</reg>
+               </choice> I was
+			 Defeated and it <add place="supralinear">was</add> called twelve miles from
+			 <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> to 
+			 <name type="place">
+                  <choice>
+                     <orig>big</orig>
+                     <reg>Big</reg>
+                  </choice> Sorrel River</name> and
+			 it was a Deep <choice>
+                  <orig>boald</orig>
+                  <reg>bold</reg>
+               </choice> stream <choice>
+                  <orig>provibely</orig>
+                  <reg>probably</reg>
+               </choice> forty <choice>
+                  <sic>yards yards</sic>
+                  <corr>yards</corr>
+               </choice> wide
+			 <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> followed her <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> and
+			 seen she had went down to the <choice>
+                  <orig>watter</orig>
+                  <reg>water</reg>
+               </choice> and Came up again
+			 and <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> went up and down the River in search of her at
+			 le<add place="supralinear">n</add>gth <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> found her
+			 <choice>
+                  <orig>a bout</orig>
+                  <reg>about</reg>
+               </choice>
+               <choice>
+                  <orig>three fourth</orig>
+                  <reg>three-fourths</reg>
+               </choice>
+			 of a mile from the ford down the River she was a <choice>
+                  <orig>perty littel</orig>
+                  <reg>pretty little</reg>
+               </choice> girl with red hair and <add place="supralinear">she</add> said the <choice>
+                  <orig>Indins</orig>
+                  <reg>Indians</reg>
+               </choice> went
+			 <choice>
+                  <orig>Every day</orig>
+                  <reg>everyday</reg>
+               </choice> to watch the Road, and <choice>
+                  <orig>thare</orig>
+                  <reg>there</reg>
+               </choice> was three white men with them and one day
+			 <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> had been a <choice>
+                  <orig>shoting</orig>
+                  <reg>shooting</reg>
+               </choice> at
+			 the Road and Came back a <choice>
+                  <orig>grate</orig>
+                  <reg>great</reg>
+               </choice> while before night and
+			 only <choice>
+                  <orig>too</orig>
+                  <reg>two</reg>
+               </choice> of the white men came back and one of the
+			 Indi<add place="supralinear">a</add>ns had a <choice>
+                  <orig>veary</orig>
+                  <reg>very</reg>
+               </choice> sore
+			 leg, and <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> Cried that <choice>
+                  <orig>Eavning</orig>
+                  <reg>Evening</reg>
+               </choice>
+               <choice>
+                  <orig>veary</orig>
+                  <reg>very</reg>
+               </choice> much and the next
+			 morning <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> Cried <choice>
+                  <orig>a gain</orig>
+                  <reg>again</reg>
+               </choice>
+               <pb n="15" facs="tl012o.small.jpg"/> and then started and Came back the same way <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> went to the <choice>
+                  <orig>Cam</orig>
+                  <reg>camp</reg>
+               </choice> near the
+			 <choice>
+                  <orig>plase</orig>
+                  <reg>place</reg>
+               </choice> she was taken and in a few days <choice>
+                  <orig>the</orig>
+                  <reg>they</reg>
+               </choice> began to shoot at <choice>
+                  <orig>the</orig>
+                  <reg>them</reg>
+               </choice> again and
+			 the Indians that was at the Camp with her hopped and was mighty glad and all
+			 Run <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> to the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> and left her
+			 by herself and she said <add place="supralinear">she thought</add> she
+			 would <choice>
+                  <orig>gow</orig>
+                  <reg>go</reg>
+               </choice> to <add place="supralinear">
+                  <del type="overstrike">unc</del>
+               </add> hazel patch for she <choice>
+                  <orig>kew</orig>
+                  <reg>knew</reg>
+               </choice> she had only <choice>
+                  <orig>pased</orig>
+                  <reg>passed</reg>
+               </choice> the hazel
+			 patch a <choice>
+                  <orig>littel</orig>
+                  <reg>little</reg>
+               </choice> when she was taken by the Indians but
+			 she took the <choice>
+                  <orig>Rong</orig>
+                  <reg>Wrong</reg>
+               </choice> end of the <choice>
+                  <orig>Rode</orig>
+                  <reg>Road</reg>
+               </choice> and said she gather leaves Every night to the side of a
+			 log and lay in them and she had been near three days that she had Eat nothing
+			 when she was found and all the other children that was brought in was
+			 <choice>
+                  <orig>Frost bitten</orig>
+                  <reg>Frostbitten</reg>
+               </choice> but <choice>
+                  <orig>her</orig>
+                  <reg>here</reg>
+               </choice> I
+			 am Now done with the <choice>
+                  <orig>Narative</orig>
+                  <reg>Narrative</reg>
+               </choice> and as 
+			 <name type="person">Mrs <add place="supralinear">
+                     <choice>
+                        <orig>Fog</orig>
+                        <reg>Fogg</reg>
+                     </choice>
+                  </add>
+               </name>found <add place="supralinear">me</add> with <add place="supralinear">one</add> of
+			 her Books and will have the <choice>
+                  <orig>foreging
+			 publised</orig>
+                  <reg>foregoing published</reg>
+               </choice> in the history 
+			 <name type="person">
+                  <choice>
+                     <abbr>Jo</abbr>
+                     <expan>Joseph</expan>
+                  </choice> Brown</name> as a
+			 second <choice>
+                  <orig>adition</orig>
+                  <reg>eidition</reg>
+               </choice> I <choice>
+                  <orig>wil</orig>
+                  <reg>will</reg>
+               </choice> take a
+			 Dozen or <choice>
+                  <orig>tw</orig>
+                  <reg>two</reg>
+               </choice> of them if <add place="supralinear">I</add> am alive the facts Contained in the history are
+			 Correct <choice>
+                  <orig>Exsept</orig>
+                  <reg>Except</reg>
+               </choice>
+               <name type="place">
+                  <choice>
+                     <orig>Buckhana</orig>
+                     <reg>Buchanan's</reg>
+                  </choice> Fort
+				</name> the history says 14 miles from 
+			 <name type="place">
+                  <choice>
+                     <orig>Nashvile</orig>
+                     <reg>Nashville</reg>
+                  </choice>
+               </name> when
+			 it is only<choice>
+                  <orig> a bout</orig>
+                  <reg>about</reg>
+               </choice> 4 miles if <unclear>the (damaged
+			 document)</unclear> the above cannot be <choice>
+                  <orig>publised</orig>
+                  <reg>published</reg>
+               </choice>
+			 in a 2nd Edition of the history of 
+			 <name type="person">
+                  <choice>
+                     <abbr>Jo</abbr>
+                     <expan>Joseph</expan>
+                  </choice> Brown</name> by 
+			 <name type="person">Mrs Fogg</name> or the Editor of the Banner of
+			 Peace or on the Methodists Editor you will <choice>
+                  <orig>pleas</orig>
+                  <reg>please</reg>
+               </choice>
+			 Return it by mail to me 
+			 <name type="place">Pulaskie Giles <add place="supralinear">
+                     <choice>
+                        <abbr>Cty</abbr>
+                        <expan>County</expan>
+                     </choice>
+                  </add>
+               </name>
+            </p>
+            <closer>
+               <salute>and oblige yours</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos</abbr>
+                        <expan>Joseph</expan>
+                     </choice>
+				  Brown</name>
+               </signed>
+            </closer>
+            <pb n="16" facs="tl012p.small.jpg"/>
+            <lb/>
+            <closer>The contents of this manuscript was published in the "Banner of
+			 Peace," 
+			 <date when="1858-08-05">Augt 5th 1858</date> , occupying four
+			 columns of that paper. <lb/> See 
+			 <name type="person">Serah Bork</name> of Historical Society<lb/>
+               <address>
+                  <addrLine>Thrilling Narrative. How The Judgement of Heaven fell on
+				  the Indians who wounded 
+				  <name type="person">
+                        <choice>
+                           <abbr>Rev'd</abbr>
+                           <expan>Reverend</expan>
+                        </choice> Joseph
+					 Brown</name> in 
+				  <date when="1794">1794</date>
+                  </addrLine>
+                  <addrLine>The original manuscript</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

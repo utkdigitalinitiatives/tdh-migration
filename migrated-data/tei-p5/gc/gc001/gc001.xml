@@ -1,0 +1,228 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1813 Oct. 20, North Carolina, Sampson Co[unty] [to] Mr. Henry King,
+                    Davidson Co[unty] Tennessee / J[ames] M[oore] King : a machine readable
+                    transcription of an image</title>
+            <author>King, James Moore</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc001</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle
+                        Tennessee State University, Murfreesboro, TN 37132. It may be used freely by
+                        individuals for research, teaching, and personal use as long as this
+                        statement of availability is included in the text. For all other use contact
+                        The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State
+                        University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1813 Oct. 20, North Carolina, Sampson Co[unty] [to] Mr. Henry
+                        King, Davidson Co[unty] Tennessee / J[ames] M[oore] King</title>
+               <author>King, James Moore</author>
+               <date when="1813-10-20">October 20, 1813</date>
+               <extent>3 p</extent>
+               <note type="summary" anchored="true">This document is a letter from James Moore King to his
+                        brother Henry King in Davidson County, Tennessee, dated October 20, 1813. He
+                        is conveying that he cannot send money at the time, and offering his regards
+                        for a future visit.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1813,
+                        1815-1817</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">gc001</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, James Moore</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc001a.small.jpg"/>
+            <opener>
+               <add place="above address">
+                  <address>
+                     <addrLine>From</addrLine>
+                     <addrLine>Col. J.M. King, 1813</addrLine>
+                     <addrLine>from North Carolina</addrLine>
+                  </address>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. Henry King</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="Place">State of Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="Place">Davidson Co</name>.</addrLine>
+               </address>
+               <add place="left of address">Dance at <name type="person">Joseph Moore's</name>
+               </add>
+            </opener>
+            <pb n="2" facs="gc001b.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">North carolina, Sampson <choice>
+                           <abbr>Co</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name> — <choice>
+                        <abbr>Oct.</abbr>
+                        <expan>October</expan>
+                     </choice> 20, <add place="infralinear">1813</add>
+                  </addrLine>
+               </address>
+               <salute>Dear Brother</salute>
+               <add place="below address">
+                  <figure>
+                     <figDesc>misc. calculations</figDesc>
+                  </figure>
+               </add>
+            </opener>
+            <p> This opportunity <choice>
+                  <orig>affordes</orig>
+                  <reg>affords</reg>
+               </choice> me the pleasure of writing
+                    to you, but unfortunately I have to state to you that it is <choice>
+                  <orig>imposable</orig>
+                  <reg>impossible</reg>
+               </choice> to <choice>
+                  <orig>colect</orig>
+                  <reg>collect</reg>
+               </choice> money
+                    at this time to send to you, either if it was <choice>
+                  <orig>posable</orig>
+                  <reg>possible</reg>
+               </choice> to colect; there is no opportunity that I know <choice>
+                  <orig>off</orig>
+                  <reg>of</reg>
+               </choice> to send it, I havent received a cent <choice>
+                  <orig>sence</orig>
+                  <reg>since</reg>
+               </choice> here been. If Uncle Hay's will supply you with money and other
+                        <choice>
+                  <orig>conveniencies</orig>
+                  <reg>conveniences</reg>
+               </choice> I wish you to come on as soon
+                    as you <choice>
+                  <orig>pleas.</orig>
+                  <reg>please</reg>
+               </choice> You can inform <name type="person">Bennet Blackman</name> that it is imposible to colect money here at
+                    present, and if <name type="person">Mr. Bierd</name> assists for the payment
+                    when due; for him to make out as well as posible to satisfy him; if I can; I
+                    will send some money to him <choice>
+                  <orig>betwen</orig>
+                  <reg>between</reg>
+               </choice> now and <choice>
+                  <orig>Christmass</orig>
+                  <reg>Christmas</reg>
+               </choice>.</p>
+            <p>I have wrote to <name type="person">Mr. Butlar</name> and Mother and informed
+                    them the particulars of my journey, you must refer to them for the information
+                        <pb n="3" facs="gc001c.small.jpg"/> I have spent my time very agreeable since my arrival here, I
+                    have had that <choice>
+                  <orig>honour</orig>
+                  <reg>honor</reg>
+               </choice> of being in some of the finest
+                    ladies <choice>
+                  <orig>companees</orig>
+                  <reg>companies</reg>
+               </choice> that are in those <choice>
+                  <orig>partes</orig>
+                  <reg>parts</reg>
+               </choice>; <del type="overstrike">there</del> I was at a
+                    small party at Joseph Moore's last Thursday evening, there was but seven or
+                    eight of each <choice>
+                  <orig>sect</orig>
+                  <reg>set</reg>
+               </choice>; we danced <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice>
+               <choice>
+                  <orig>brake</orig>
+                  <reg>break</reg>
+               </choice> there was <choice>
+                  <orig>scearse</orig>
+                  <reg>scarce</reg>
+               </choice> one
+                    that close <choice>
+                  <orig>there</orig>
+                  <reg>their</reg>
+               </choice> eyes for <choice>
+                  <orig>sleap</orig>
+                  <reg>sleep</reg>
+               </choice>. Nothing more particular to inform you your relation
+                        ⁁<add place="supralinear">&amp; friends</add> are all well </p>
+            <closer>
+               <salute>I remain in perfect health and your loving Brother,</salute>
+               <signed>
+                  <choice>
+                     <abbr>J.M.</abbr>
+                     <expan>James Moore</expan>
+                  </choice> King</signed>
+               <add place="below signature">
+                  <choice>
+                     <abbr>N.B.</abbr>
+                     <expan>Note Bene</expan>
+                  </choice> Here I shall
+                        add my complements to all my relation and friends particular to Mr. Porter
+                        you may tell him that I shall write to him in a few day without fail. </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0295">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1808 Aug. 13, Return J. Meigs to Lieutenant Thomas Vaughan : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0295</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1808 Aug. 13, Return J. Meigs to Lieutenant Thomas Vaughan</title>
+               <date when="1808-08-13">August 13, 1808</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a receipt for payment of two hundred and fifty dollars given to Lieutenant Thomas Vaughn for possible expenses occurred while his Company marched from Highwassee, Tennessee to Savannah, Georgia. Return J. Meigs, agent for the War Department delivered the money for the Secretary of War.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0295</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Military expenses</term>
+               <term>Tennessee</term>
+               <term>Georgia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0295a.small.jpg"/>
+            <p>Received of<name> Return J. Meigs</name> Two hundred &amp; fifty dollars on an order annexed from Captain <name>Addison B. Armistead</name> dated 13th August 1808 for the purpose of defraying the contingent expenses of his Company on their march from <name>Highwassee</name> to <name>Savannah</name> in <name>Georgia</name>: for the expenditure of which an account is to be rendered to the accountant of the War Department. </p>
+            <closer>
+               <salute>Duplicates Signed</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Thos.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> N. Vaughan</name>
+                  <choice>
+                     <abbr>Lieut.</abbr>
+                     <expan>Lieutenent</expan>
+                  </choice>
+                  <choice>
+                     <abbr>U. S.</abbr>
+                     <expan>United States</expan>
+                  </choice> Artillerists</signed>
+               <address>
+                  <addrLine>Highwassee<date>13th August 1808.</date>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="pa0295b.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice>
+                  <lb/> Captain Addison B. <lb/> Armisteads <choice>
+                     <sic>order order</sic>
+                     <corr>order</corr>
+                  </choice>
+                  <lb/> for money for contingent <lb/>
+                  <choice>
+                     <orig>expence</orig>
+                     <reg>expense</reg>
+                  </choice> on his march <lb/> to be <choice>
+                     <abbr>pd..</abbr>
+                     <expan>paid</expan>
+                  </choice> to Lieutenant <lb/> Vaughn $250.00 <lb/> The Secretary of War <lb/> ordered the agent to furnish <lb/>  money for the purpose <lb/> mentioned by letter__ <lb/>13th August 1808</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

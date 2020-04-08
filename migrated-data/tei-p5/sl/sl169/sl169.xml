@@ -1,0 +1,181 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl169">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Legal Valuation] 1814 Dec. 12, Natchez, [MS] [for] Col. Joseph Brown   : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl169</idno>
+            <idno>OCLC: 51159292</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal Valuation] 1814 Dec. 12, Natchez, [MS] [for] Col. Joseph Brown</title>
+               <date when="1814-12-12">December 12, 1814</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a valuation dated Dec. 12, 1814 done for Colonel Joseph Brown. It is evaluating the worth of  the decedents of the slave, Sue, that was stolen from Brown's father in 1788 by the Cherokee Chief Cotetoy. These children and grandchildren, know as  "Indian Negroes" were returned to Brown by Cotetoy in 1814.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">83-86</note>
+               <note type="document" anchored="true">sl169</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians</term>
+               <term>Slaves</term>
+               <term>Legal documents</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl169a.small.jpg"/>
+            <head>the Valuation of the Indian Negroes &amp; Expense of the trip to <name type="place">Natchez</name>
+               <add place="top of page">misc. math problems</add>
+            </head>
+            <pb n="2" facs="sl169b.small.jpg"/>
+            <p>  We the Undersigned being <choice>
+                  <abbr>Calld</abbr>
+                  <expan>Called</expan>
+               </choice> on by <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Joseph Brown</name> to Value the following Negroes <choice>
+                  <orig>hav</orig>
+                  <reg>have</reg>
+               </choice> agreed on the following Prices <unclear>annexed</unclear> to Each of their names to wit —<table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Jenny</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">268.75</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Lucy</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">268.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Abernella</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">273.75</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>
+                           <name type="person">Doucena</name>
+                        </unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">161.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>
+                           <name type="person">Newchowce</name>
+                        </unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">213.75</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">OMiah</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">122.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Watters</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">143.75</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$ 552.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Sanallacku</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">83.75</cell>
+                     <cell role="data" rows="1" cols="1"><?xm-replace_text {cell}?></cell>
+                     <cell role="data" rows="1" cols="1">923.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$ 923.75</cell>
+                     <cell role="data" rows="1" cols="1">Total</cell>
+                     <cell role="data" rows="1" cols="1">$1476.25</cell>
+                  </row>
+               </table> and also being <choice>
+                  <abbr>Calld</abbr>
+                  <expan>called</expan>
+               </choice> on to value a Boy of <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Joseph Browns by the Name of <name type="person">Sanday</name>
+               <choice>
+                  <orig>hav</orig>
+                  <reg>have</reg>
+               </choice> agreed that he is Worth $267 = 50 =   which Boy has been Valued by request of  <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Brown for the <choice>
+                  <orig>purpos</orig>
+                  <reg>purpose</reg>
+               </choice> of Sending him to the other <unclear>legalus</unclear> in place of the two Children of Lucy Given Under Our hands this <date when="1814-12-12">12th Day of December <emph>1814</emph>
+               </date>
+            </p>
+            <signed>
+               <emph>
+                  <name type="person">P. N. Bocker</name>
+               </emph>
+               <name type="person">Edmund Harriss</name>
+               <name type="person">Robert Camthens <choice>
+                     <abbr>Ser.</abbr>
+                     <expan>Senior</expan>
+                  </choice>
+               </name>
+               <emph>
+                  <name type="person">Will Bradhaer</name>
+               </emph>
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

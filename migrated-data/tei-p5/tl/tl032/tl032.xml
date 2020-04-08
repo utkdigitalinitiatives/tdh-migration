@@ -1,0 +1,211 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Feb. 10, Knoxville, [Tennessee, to] The Warriors
+			 and Chiefs of the Cherokee Nation / John Sevier, Governor of the state of
+			 Tennessee: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl032</idno>
+            <idno>OCLC: 47827129</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Feb. 10, Knoxville, [Tennessee, to] The Warriors
+				and Chiefs of the Cherokee Nation / John Sevier, Governor of the state of
+				Tennessee</title>
+               <author>Sevier, John</author>
+               <date when="1797-02-10">February 10, 1797 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter dated February 10,
+				1797, addressed to the warriors and chiefs of the Cherokee Nation by Governor
+				John Sevier of Tennessee (1796-1801). Sevier sent his apologies for the recent
+				violence that had been committed against several of the Cherokees. He also
+				criticized the chiefs for not making any complaints about these actions, for it
+				impeded the process of apprehending the perpetrators. Sevier stated that
+				although the murders of two Cherokees were committed in Kentucky, the murderers
+				were from Tennessee. Sevier, however, changed his tone when he began to speak
+				of crimes committed against White people by Cherokees. He warned them that if
+				such actions did not cease, it would bring about a war, which would have
+				disastrous consequences for the Cherokee Nation.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl032</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Kentucky</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl032a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-02-10">February 10th 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Brothers</salute>
+            </opener>
+            <p>I am Sorry to hear of so much blood being spilt
+			 <del type="overstrike">on both sides</del>, it <del type="overstrike">was
+		  what</del>
+               <add place="supralinear">is a thing</add> I never expected would
+		  again <del type="overstrike">ever</del> happen <del type="overstrike">again</del> between the Cherokees and White people 
+		  when I first heard that two of your people was killed I did not believe it, and
+		  My reason was that none of your people sent me any information, neither did the
+		  agent, or any person make any complaint, which ought to have been done and
+		  <del type="overstrike">had it been the Case</del>
+               <add place="supralinear">then</add> I would have endeavored to have the men taken,
+		  that killed your people, 
+		  <choice>
+                  <abbr>Altho</abbr>
+                  <expan>Although</expan>
+               </choice> it was done <del type="overstrike">in</del> I am informed in the State of 
+		  <name type="place">Kentucky</name> , 
+		  <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> I believe the men
+		  <del type="overstrike">that did it</del> lives in this state that committed the
+		  murder  they are bad men and have <del type="overstrike">done</del>
+               <add place="supralinear">committed</add> a cowardly and black action,
+		  and I am very Sorry to hear of it, but it is done, and if the person can be
+		  taken they must suffer <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice> to our laws and
+		  the treaty existing between your nation and the 
+		  <name type="place">United States</name>.</p>
+            <p>It is very wrong in your people to take long Satisfaction until you
+			 had made a complaint And let us had an opportunity to have taken the
+			 <pb n="2" facs="tl032b.small.jpg"/> Murderers, and let them that did the <choice>
+                  <orig>mischeife</orig>
+                  <reg>mischief</reg>
+               </choice> suffer. your own good sense must tell you that
+			 it is a Very Wrong <del type="overstrike">and dark action</del>
+               <add place="supralinear">thing</add> for to make the innocent suffer for the
+			 guilty, it is contrary to <add place="supralinear">our</add> reason, and
+			 <add place="supralinear">to</add> the laws of the Great being who made all
+			 things  your <add place="supralinear">people</add> has lately taken
+			 Several lives and those who Are <choice>
+                  <orig>intirely</orig>
+                  <reg>entirely</reg>
+               </choice> innocent,
+			 and had <add place="supralinear">not</add> done your people any
+			 <del type="overstrike">harm</del>
+               <add place="supralinear">injury</add>; this
+			 my brothers is contrary to our treaty, and your own interest;
+			 <del type="overstrike">for</del> if you <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> put a
+			 stop to such conduct, your nation will bring On a war, and
+			 <del type="overstrike">wh</del> then the consequence must be very bad On your
+			 side, <del type="overstrike">your are</del>
+               <add place="supralinear">you
+			 are</add> but a handful of people, and you would have to leave your country,
+			 which will cause your woman And Children to suffer very much  our people
+			 <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> want to go to War against you, 
+			 <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> they are not <choice>
+                  <orig>a
+			 feard</orig>
+                  <reg>afraid</reg>
+               </choice>
+               <del type="overstrike">of war</del>, and You know they are not;
+			 therefore I expect you will consider Your own interest and keep your foolish
+			 <del type="overstrike">young fellows</del>
+               <add place="supralinear">people</add> from doing any more <choice>
+                  <orig>mischeife</orig>
+                  <reg>mischief</reg>
+               </choice>, <choice>
+                  <orig>otherways</orig>
+                  <reg>otherwise</reg>
+               </choice> the
+			 consequence will be bad
+               </p>
+            <closer>
+               <salute>Your friend and brother</salute>
+               <address>
+                  <addrLine>The Warriors  <choice>
+                        <orig>Cheifs</orig>
+                        <reg>Chiefs</reg>
+                     </choice> of
+				  the <lb/>
+                     <name> 
+                        <reg>place</reg> Cherokee nation</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

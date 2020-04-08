@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl628">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Jan. 13 [to] James Jones / W. Houston : a machine readable transcription of an image</title>
+            <author>Houston, W. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl628</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1844 Jan. 13 [to] James Jones / W. Houston</title>
+               <author> Houston, W.</author>
+               <date when="1844-01-13"> 
+			 January 13, 1844</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a brief letter of request dated January 13, 1844 from W. Houston to the governor of Tennessee, James C. Jones.  In the letter, Houston asks for the addition of clerk to his branch.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true"> sl628</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Houston, W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl628a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Br <choice>
+                        <abbr>RR Ten</abbr>
+                        <expan>Rail Road Tennessee</expan>
+                     </choice>' Sommerville</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Janny</abbr>
+                     <expan>January</expan>
+                  </choice> 13 1844</date>
+               <salute>To His Excellency <name>James C Jones</name> Governor </salute>
+            </opener>
+            <p>Being firmly convinced of the necessity of having an additional clerk in this Branch.  I have thought it proper to address you on the subject, hoping that you would give it attention.  The labor to be performed at this Branch by its officers, is greater than at any of the others.__ It has made, &amp; paid to the state <unclear>spirit</unclear> on its capital regularly every half year, There is therefore neither justice nor equality in placing us on the same footing with others, and <name>Rogersville</name>.  It is important to the welfare of the institution, that an additional clerk should be allowed, The reason why application was never made before, is this, there was a <unclear>Running</unclear>
+               <choice>
+                  <orig>imployed</orig>
+                  <reg>employed</reg>
+               </choice>, who, discharged the duties of clerk when not delivering notices.  But a  late decision of the Supreme Court rendered it unnecessary to employ him longer as Running, and he was discharged,</p>
+            <closer>
+               <salute>Very respectfully</salute>
+               <name>W. Houston</name>
+               <pb n="2" facs="sl628b.small.jpg"/>
+               <address>
+                  <addrLine>His Excellency James C. Jones Nashville Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

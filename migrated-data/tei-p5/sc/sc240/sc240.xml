@@ -1,0 +1,113 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc240">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Deposition of John Cawood] 1798 Aug. 8, [witnessed by] David Campbell : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc240</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Deposition of John Cawood] 1798 Aug. 8, [witnessed by] David Campbell </title>
+               <date when="1798-08-08"> 
+			 August 8, 1798</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a deposition  dated August 8, 1798.  The document details John Cawood's account in a matter involving bail monies as he was deposed before judge David Campbell of the Superior Court of Law &amp; Equity in Tennessee. </note>
+               <note type="collection" anchored="true">John Cawood Deposition</note>
+               <note type="box" anchored="true">New Accessions</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc240</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Evidence, Documentary</term>
+               <term>Legal documents</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc240a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of Tennessee</addrLine>
+               </address>
+               <date>8th august 1798</date>
+            </opener>
+            <p>There came <name>John Cawood</name> before me <date>David Campbell</date> Esquire, one of the judges of the superior court of <del>law</del> law &amp; Equity for the state aforesaid  and made oath.  That himself &amp; one <name>Edward Warren</name> were some time past special bail for one <name>Samuel Mason</name> in a suit brought by a certain <name>Archibald Taylor</name> against the said samuel mason &amp; <name>James Blevins</name> in the ___ County Court <add>of</add>
+               <name>sullivan</name>  which cause at august sessions 1795 was left to the arbitration of governor Sevier who permitted the said Archibald Taylor to Establish his reward on an open account of not less than twenty five years standing by his own oath, against the said defendants, and for a much larger sum than a man can by law prove his demand of an open account for one hundred <del>dollars</del> and five dollars &amp; thirty two each which sum was awarded by the said arbetration to be paid the plaintiff by the said defendants.__  At November Sessions 1797   the plaintiff obtained judgement on <unclear>scire faus</unclear> against this deponent &amp; the said Edmund Warren for the said sum of one hundred &amp; five dollars &amp; thirty two cents, as special bail as aforesaid, without over issuing a <del>favour</del> CA, Sa against James Blevins one of the defendants who lived in sullivan County &amp; might have been taken as any turn as this deponant suppose &amp; the property of this deponant is now under execution for the same, </p>
+            <p>This deponant therefore forays that writs of certiorari &amp; supersede as be <add>allowed</add>
+               <del>granted</del> here &amp; that all further__  proceedings be stayed till the matter can be heard we the superior court of Washington District &amp; this deponant will pray</p>
+            <closer>
+               <signed>David Campbell</signed>
+               <add>
+                  <choice>
+                     <abbr>aug</abbr>
+                     <expan>august</expan>
+                  </choice> 11th 1790</add>
+               <pb n="2" facs="sc240b.small.jpg"/>
+               <add>Let writs of certiorari &amp; supersede as pre__ agreeable to the prayer of the <unclear>witheu</unclear> petition &amp; affidavit. <name>David Campbell</name> Petition for Certiorari &amp; Supersedure in the Trust__ Taylor <choice>
+                     <abbr>vs</abbr>
+                     <expan>versus</expan>
+                  </choice> Cawood &amp; <unclear>Warrin</unclear> Bail for Sum Masson</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

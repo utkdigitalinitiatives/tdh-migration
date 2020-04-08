@@ -1,0 +1,168 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Dec. 8 [to] J[oh] n D. Coffee, Florence, Ala[bama] / Andrew [Jackson Coffee] : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um008</idno>
+            <idno>OCLC: 50198155</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Dec. 8 [to] J[oh] n D. Coffee, Florence, Ala[bama] / Andrew [Jackson Coffee]</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1835-12-08">December 8, 1835</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Andrew Jackson Coffee to his brother, John D. Coffee, dated December 8, 1835. In the letter, Andrew discusses his anger at John for writing him letters of unwanted advice and criticism. Andrew asks him not to write to him anymore if the subjects of the letters will be the same as the previous ones.</note>
+               <note type="collection" anchored="true">Andrew Jackson Coffee Family Papers 1833-1903 MS 27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um008</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alabama</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um008a.small.jpg"/>
+            <opener>
+               <add place="above address, left">
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+               </add>
+               <add place="above address, right">25</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Jn</abbr>
+                           <expan>John</expan>
+                        </choice> D. Coffee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Florence</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Alabama</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="um008b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>United States</expan>
+                     </choice> Military Academy</addrLine>
+                  <addrLine>
+                     <name type="place">West Point </name>
+                     <date when="1835-12-08">
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 8th 1835</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <name type="place">John</name>
+               </salute>
+            </opener>
+            <p>I have received your letters of the <date>9th &amp; 14th of <choice>
+                     <abbr>Nov</abbr>
+                     <expan>November</expan>
+                  </choice>
+               </date> and have not had time to answer them until now. I need not tell you I am very busy as now is the most <del type="overstrike">I</del> important time in my course and I have very little time to write and I hope you will excuse me on that account. Dear Brother I will not ask any more questions of Sister <name type="person">Mary</name> or any body else to know how I am to get away from here for I know one already and will trouble you or myself any more about it so be easy on that Point. Dear Brother — I need no inducement to stay here for I would not go for the world and I was very angry that you said you would send <name type="person">Alex</name> to <name type="place">Yale <choice>
+                     <orig>Colege</orig>
+                     <reg>College</reg>
+                  </choice>
+               </name> as an inducement for me to stay here so I your humble <choice>
+                  <orig>servent</orig>
+                  <reg>servant</reg>
+               </choice> would be much <choice>
+                  <orig>ablige</orig>
+                  <reg>oblige</reg>
+               </choice> to you if you would never name such a thing again. Give my respects to <name type="person">Mr &amp; Mrs Lorance</name> and tell Mr Lorance I am much ablige to him for his<pb n="3" facs="um008c.small.jpg"/> good wishes more particularly considering my peculiar situation and the time and the place I am at. Dear Brother you see I am willing to stay here for this reason. Sending you the regulations and even <name type="person">uncle Jackson</name> is in my <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> but still my Brother John cannot be satisfied when I do <del type="overstrike">w</del> not write like I was a Methodist Parson, and if you my Dear Brother cannot  put up with my dull, complaining style as you call it (which I do not intend). I cannot with yours for shame. A young man who is just going to join himself in wedlock with an amiable &amp; handsome young lady to complain of his Brother who is at a distance from home who wishes to make a little fun and who you take for a dull, complaining style you must not be so <choice>
+                  <orig>suspitious</orig>
+                  <reg>suspicious</reg>
+               </choice> and more so to me in my <emph>situation</emph>. now I will tell you we have no amusements or pleasures but studying &amp; as the snow and ice covers the ground, the Ice on the ponds is about three inches thick, and it is a little amusement on Saturday Evenings but I do not go for this reason it is the only day I have to write unless I <choice>
+                  <orig>encro ⁁  ch</orig>
+                  <reg>encroach</reg>
+               </choice> on my studies &amp; you ask whether I <choice>
+                  <orig>corespond</orig>
+                  <reg>correspond</reg>
+               </choice> with uncle. I do. <pb n="4" facs="um008d.small.jpg"/>
+            </p>
+            <p>Dear Brother you are too severe on me come give me some thing better and do not depress my spirits so you do more to make me dislike this place than any thing else by your long and uninteresting letters filled with advice I cannot some times understand</p>
+            <p>I always feel like all was not going as well as it might. I feel as I have done something wrong, said some thing very wounding to your feelings, or said some thing I ought not to , some thing I would not to have done for the world. Oh John do not write so any more if you can help it for my sake and feelings at this moment I feel my heart as is it was ready to burst after reading your last letter. Do save my feelings by writing no more such letters, tell me at once what I have said <choice>
+                  <orig>incorect</orig>
+                  <reg>incorrect</reg>
+               </choice>, for I <del type="overstrike">am</del> now feel as if I could go where no human face could see me do leave of writing any <choice>
+                  <orig>mo</orig>
+                  <reg>more</reg>
+               </choice> such Letters</p>
+            <p>Give my love to all my relations and accepts of the same</p>
+            <closer>
+               <salute>from your Brother</salute>
+               <signed>
+                  <name type="person">Andrew</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

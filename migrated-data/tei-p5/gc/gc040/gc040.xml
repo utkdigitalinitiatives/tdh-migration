@@ -1,0 +1,243 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1838 Jun. 16, Rural Rest [to] Henry King, Koss Landing, Tennessee / Ja[mes] M. King: a machine readable transcription of an image </title>
+            <author>King, James M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version: </resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney </name>
+               <name> Maha Ayesh </name>
+               <name> Danielle Harding </name>
+               <name> Bobby Holt </name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine> Knoxville, Tennessee 37996 </addrLine>
+            </address>
+            <date> 2002 </date>
+            <idno> gc040 </idno>
+            <idno> OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1838 Jun. 16, Rural Rest [to] Henry King, Koss Landing, Tennessee / Ja[mes] M. King</title>
+               <author> King, James M.</author>
+               <date when="1838-06-16"> June 16, 1838 </date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true"> This is a letter dated June 16, 1838 from James King to his son, Henry King.  He praises his son for his achievements as a volunteer in the army and is grateful for  the letters Henry has written to him.  He urges him to write with more information on army movements and other inside information.   </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1838 </note>
+               <note type="box" anchored="true"> 2 </note>
+               <note type="folder" anchored="true"> 5 </note>
+               <note type="document" anchored="true"> gc040 </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Military history</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, James Moore</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc040a.small.jpg"/>
+            <opener>
+               <add>Paid 12 1/2</add>
+               <gap/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Coln</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Henderson Yoakum</name> For <name>Henry A.J. King</name>
+                     <name>Koss Lauding</name>
+                     <name>
+                        <choice>
+                           <abbr>E Tenn</abbr>
+                           <expan>East Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add>
+                  <figure>
+                     <figDesc>postmark, June 19, Murfressboro, TN</figDesc>
+                  </figure>
+               </add>
+               <add>From <choice>
+                     <abbr>JM</abbr>
+                     <expan>James Moore</expan>
+                  </choice> King</add>
+               <pb n="2" facs="gc040b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Rural Rest</name>
+                     <date>16th June 1838</date>
+                  </addrLine>
+               </address>
+               <salute>My Son Henry</salute>
+            </opener>
+            <p> I received yours of the 4th Instant and was pleased to <choice>
+                  <orig>here</orig>
+                  <reg>hear</reg>
+               </choice> that you William &amp; <choice>
+                  <orig>Abert</orig>
+                  <reg>Albert</reg>
+               </choice> enjoyed good health, as well as that of the company, I was also pleased with the diction of your letter, giving the general transactions and and movements of the army, Your friends and <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> makes much <choice>
+                  <orig>enquireay</orig>
+                  <reg>enquiry</reg>
+               </choice> about you, and are highly gratified to here from you, I received a letter from Coln Yoakum speaking very highly of you boys, I also saw <del type="overstrike">a</del>
+               <add>his</add> letter to your Uncle Jamison speaking of you, he also had reference to the letter I <choice>
+                  <orig>rote</orig>
+                  <reg>wrote</reg>
+               </choice> you, <del type="overstrike">responding</del> approving of it very highly from such <choice>
+                  <orig>sorses</orig>
+                  <reg>sources</reg>
+               </choice> of impressions I feel highly gratified <del type="overstrike">gratified</del>, and hope that I shall not be disappointed in you, <del type="overstrike">as</del> nor the rest of the <choice>
+                  <orig>volenteers</orig>
+                  <reg>volunteers</reg>
+               </choice> of our company in their ready willingness to <choice>
+                  <orig>purform</orig>
+                  <reg>perform</reg>
+               </choice> their duties, and act the part of prudent <choice>
+                  <orig>highminded</orig>
+                  <reg>high-minded</reg>
+               </choice> and  <choice>
+                  <orig>honourably soaldiers</orig>
+                  <reg>honorable soldiers</reg>
+               </choice>, My former letter I wish you to preserve and bear in mind its contents, _ I saw <name>
+                  <choice>
+                     <abbr>Majr</abbr>
+                     <expan>Major</expan>
+                  </choice> Beshares</name>, he informed me he become acquainted with you and eat several times in your mess and that you requested him to let me know how you <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> he informed me you <add>and Albert</add> ware in a mess with <name>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Cocks</name> and two <name>Mr Landers</name>, but <choice>
+                  <orig>did'nt</orig>
+                  <reg>didn't</reg>
+               </choice> recollect who else I have no doubt but Cocks is first rate <choice>
+                  <orig>mismate</orig>
+                  <reg>messmate</reg>
+               </choice>
+               <pb n="3" facs="gc040c.small.jpg"/> and I understand <name>Mr sander's</name> are very <choice>
+                  <orig>respectible</orig>
+                  <reg>respectable</reg>
+               </choice> men, it is very <choice>
+                  <orig>importent</orig>
+                  <reg>important</reg>
+               </choice> to have an <choice>
+                  <orig>agreeably</orig>
+                  <reg>agreeable</reg>
+               </choice> mess no other I <choice>
+                  <orig>wouldend</orig>
+                  <reg>wouldn't </reg>
+               </choice> stay in, therefore you must act the prudent part, then, <choice>
+                  <orig>their</orig>
+                  <reg>there</reg>
+               </choice> will be no difficulty in being taken <del type="overstrike">in</del>  any where, I wish not to be understood, as <choice>
+                  <orig>incinuating</orig>
+                  <reg>insinuating</reg>
+               </choice> that you are not in an agreeably mess, but on the contrary I hope their is no others but agreeably ones, when you <choice>
+                  <orig>rite</orig>
+                  <reg>write</reg>
+               </choice> let me know who are your <choice>
+                  <orig>mesmates</orig>
+                  <reg>messmates</reg>
+               </choice>, let me know what has been the principal regulations of the army what you are generally <choice>
+                  <orig>imployed</orig>
+                  <reg>employed</reg>
+               </choice> about, What number of Indians are come in and sent off and their willingness whether the indians on the <name>North Carolina</name> side are coming in or not, or incline hostile, and any thing else that you may think interesting, <choice>
+                  <orig>tel</orig>
+                  <reg>tell</reg>
+               </choice> the <name>Ransoms</name> I saw their father  yesterday they ware all well; tel <name>Bright Snell</name> I stayed with his father <add>
+                  <choice>
+                     <orig>thirsday</orig>
+                     <reg>thursday</reg>
+                  </choice>
+               </add> night left in the morning 15 Instant, he is quite  <choice>
+                  <orig>delarious</orig>
+                  <reg>delirious</reg>
+               </choice>  knows no body, he cant live <del type="overstrike">long</del> many days, the rest of his children ware all there and well, Your uncle Ganoways &amp; Jamisons family are all well, also the rest of your friends and connection  <name>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Turner</name> was married to <name>
+                  <choice>
+                     <abbr>Miss</abbr>
+                     <expan>Misses</expan>
+                  </choice> Litton</name> on Wednesday the 6th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice>
+            </p>
+            <p>The examination ended <del type="overstrike">on</del> yesterday at <name> Salem Academa</name> We are now out of teachers, <name>Mr Jones</name> &amp; <name>Russworm</name> does not teach their the next session,</p>
+            <p>
+               <del type="overstrike">Myself Your Mother Brother &amp; Sister are all well and Joines me in love and well wishes for your William &amp; Aberts prosperity &amp; return,</del>
+            </p>
+            <pb n="4" facs="gc040d.small.jpg"/>
+            <p>    My respects to Coln Yoakum <name>Majr  Molloy</name>, <name>Capt <del type="overstrike">Macklin</del> Maclin</name>, and Officers, and to all the company  </p>
+            <p>  Myself Your mother Brothers &amp; sisters cousin Sarah &amp; martha are all well, and <choice>
+                  <orig>Joines</orig>
+                  <reg>Joins</reg>
+               </choice> me in love and well wishes for yours Williams &amp; Aberts prosperity and return -</p>
+            <closer>
+               <salute>Your affectionate father </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr> Ja. M.</abbr>
+                        <expan>James Moore</expan>
+                     </choice> King</name>
+               </signed>
+               <add>To- <choice>
+                     <abbr>H</abbr>
+                     <expan>Henry</expan>
+                  </choice> A J. King </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

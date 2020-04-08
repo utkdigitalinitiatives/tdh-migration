@@ -1,0 +1,118 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc138">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Proclamation] 1832 Aug. 6, Nashville, Tennessee [by] William Carroll : a machine readable transcription of an image</title>
+            <author>Carroll, William </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc138</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Proclamation] 1832 Aug. 6, Nashville, Tennessee [by] William Carroll </title>
+               <author>Carroll, William </author>
+               <date when="1832-08-06"> 
+			 August 6, 1832</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is an executive proclamation dated August 6, 1832 by the governor of Tennessee, William Carroll.  Its purpose is to convene the state General Assembly for the purpose of electing representatives to the House of Representatives of the Congress of the United States.</note>
+               <note type="collection" anchored="true">David Burford Papers</note>
+               <note type="box" anchored="true">MS-935</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc138</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Carroll, William, 1788-1844</term>
+               <term>Election districts</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Carroll, William, 1788-1844</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc138a.small.jpg"/>
+            <opener>
+               <add>By <name>WILLIAM CARROLL</name>, Governor in and over the State of <name>Tennessee</name>, A PROCLAMATION.</add>
+            </opener>
+            <p>WHEREAS, by the ninth section of the second article of the Constitution of the State of Tennessee, the Governor, for the time being, may, on extraordinary occasions, convene the General Assembly by Proclamation.  And, whereas, by an act of Congress, entitled "An act for the apportionment of Representatives among the several States, according to the fifth census,"__ approved <date>22d May, 1832</date>, it appears that the State of Tennessee is entitled to thirteen Representatives in the House of Representatives of the Congress of the <name>United States</name>, from and after the <name>3d day of March one thousand eight hundred and thirty-three</name>, ;__ And, whereas, it appears that no provision has been made by the Legislature of this State, for the election of Representatives, as authorized by the act of Congress aforesaid; nor does it appear that there has been any provision made by the Legislature of this State, for the election of President and Vice-President of the United States, as required by the Constitution and Laws of the United States.</p>
+            <p>Now, I WILLIAM CARROLL, Governor as aforesaid, do hereby declare, make known and require, that the several Senators and Representatives, now composing the General Assembly of the State of Tennessee, respectively, do meet in General Assembly, at the town of <name>Nashville</name>, on Monday the third day of September next, to the end that they may advise and act upon the matters aforesaid, as well as upon such other matters as shall be submitted to them, or may pertain to the advancement of the public good.</p>
+            <closer>
+               <add>IN TESTIMONY WHEREOF, I have hereunto set my hand, and caused the Great Seal of the State to be affixed at Nashville, <date>August 6, 1832</date>
+               </add>
+               <signed>
+                  <name>Wm Carroll</name>
+               </signed>
+               <add>By the Governor, <name>Tim G Smith</name> Secretary of State.</add>
+               <pb n="2" facs="sc138b.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Hon</abbr>
+                           <expan>Honorable</expan>
+                        </choice>: David Burford <lb/> Dixons Spring <lb/> Smith county, <lb/>   Tennessee</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl327">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Jan. 24, Washington [City, D.C.] [to Adam Fergusson] / Andrew Ewing   : a machine readable transcription of an image</title>
+            <author>Ewing, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl327</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Jan. 24, Washington [City, D.C.] [to Adam Fergusson] / Andrew Ewing</title>
+               <author>Ewing, Andrew</author>
+               <date when="1850-01-24">January 24, 1850</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Andrew Ewing dated January 24, 1850. It is probably to Adam Fergusson. Ewing writes that there is no hope for the pension claim by the heirs of John Martin. He writes about the problem of California becoming a free state. He mentions a special message given by President Taylor on the subject in regards to the Wilmot proviso. Ewing thinks that the President it being unduly influenced by General Taylor. He asks Fergusson to write to him with the opinion of him and his friends  on the matter.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b3</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl327</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War pensions</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr2001010974"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ewing, Andrew, 1813-1864</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl327a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1850-01-24">January 24 1850</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p> Enclosed you have the answer to your communication and mine in regard to the claim of the heirs of <name type="person">John Martin</name> It seems utterly hopeless to press this matter as the Acts allowing double pensions never reached the case of those who claimed and <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> under the Act of 1818 and further as Heirs under the Pension Laws are never permitted to claim under the Pension Laws except for those arrears already claimed by the Pension and only in arrear at his death by want of payment __ I did not think from my knowledge of the Pension Laws that there was any chance for this claim from the first. but for the satisfaction of those concerned I have pressed it to a hearing __</p>
+            <p>You will have read no doubt ere this reaches you the Special Message of the President in regard to the Territories. it is non committal in the extreme and shows a very un-authorized and dangerous interference on the part of <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Taylor</name> in the affairs of <name type="place">California</name> with a view to her erection into a State  in order to avoid the question of the Wilmot proviso. In consequence of all this there is a strong majority of our Southern friends who are <gap agent="damage"/> to vote against the admission of California as a State <pb n="2" facs="sl327b.small.jpg"/> I confess that this is a subject of painful reflection with me. Y<gap agent="damage"/> are aware of my strong Southern feeling and my disposition to <gap agent="damage"/> the South on their true interest. the action of the President too is certainly very reprehensible but how does this affect California.  She has adopted a Constitution. her people are not to blame in this matter. She has judged the question of Slavery for herself and although the decision is against us &amp; our interest. yet can we and our Friends on our ground of <del type="overstrike">
+                  <unclear>ntervention</unclear>
+               </del> non intervention refuse her application for admission as a State.</p>
+            <p>This is a question upon which I wish the advice of yourself and our leading Friends. talk around and write me your &amp; their opinion <choice>
+                  <orig>immidiately</orig>
+                  <reg>immediately</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yrs</abbr>
+                     <expan>Yours</expan>
+                  </choice> Respectfully</salute>
+               <signed>
+                  <name type="person">Andrew Ewing</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

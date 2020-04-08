@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1821 Nov. 22 [to] John C. Calhoun, Secretary of War / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl009</idno>
+            <idno>OCLC: 50008110</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1821 Nov. 22 [to] John C. Calhoun, Secretary of War / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1821-11-22">November 22, 1821</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter from Andrew Jackson dated November 22, 1821 to John C. Calhoun, Secretary of War. Jackson tells Calhoun that since he has turned in his resignation as Governor of Florida he has  referred a Mr. Peniurs to the Secretary of East Florida regarding his memoirs of the Floridas. </note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">21</note>
+               <note type="document" anchored="true">sl009</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Five Civilized Tribes -- Government relations</term>
+               <term>Florida. Governor (1821 : Jackson)</term>
+               <term>Autobiography</term>
+               <term>Florida</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl009a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>, <date when="1821-11-22">November 22d 1821</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I have the honor to enclose for your information, a letter of the 29th of August last from <name type="person">Mr Peniurs</name> with his <choice>
+                  <orig>memois</orig>
+                  <reg>memoirs</reg>
+               </choice> on the <name type="place">Floridas.</name> Being much pressed with business at this time, I have been compelled to refer <name type="person">Mr Peniurs</name> to the Secretary of <name type="place">
+                  <choice>
+                     <abbr>E.</abbr>
+                     <expan>East</expan>
+                  </choice> Florida</name>
+               <name type="person">(W Worthington)</name> for the information he has desired. Mr Worthington has a copy of my talk with the Indians, and has been particularly instructed upon most of the points upon which Mr Peniurs wishes to be informed. He will therefore be able fully to explain to him the course which I have thought ought to be pursued towards the Indians within the Floridas.— A copy of this <emph>talk</emph> I also transmitted to you in my letter of <choice>
+                  <abbr>Septer</abbr>
+                  <expan>September</expan>
+               </choice> 20th last.</p>
+            <p>Mr Peniurs has desired permission to present his accounts for settlement to the Secretary of East Florida— this I could not permit, in as much as I have forwarded my <pb n="2" facs="sl009b.small.jpg"/> resignation as Governor, and to avoid any prolixity in the settlement of his accounts, have advised him to transmit them forthwith to you. as I had given you my views as to the proper course to be pursued with the Indians now in Florida, I have declined giving him any instructions on that subject, as I was awaiting your further instructions.</p>
+            <closer>
+               <salute>I am sir with sincere respects &amp; due regard, <choice>
+                     <abbr>yr mo obdt servt</abbr>
+                     <expan>your most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>The <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <name type="person">J.C. Calhoun</name>
+                     <choice>
+                        <abbr>Secry</abbr>
+                        <expan>Secretary</expan>
+                     </choice> of War</addrLine>
+               </address>
+               <add place="bottom of page">Jackson A. <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice> Nashville <date when="1821-11-22">22 <choice>
+                        <abbr>Nov </abbr>
+                        <expan>November</expan>
+                     </choice>1821</date> Enclosing a letter from Mr Peniures <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice> of 29th Aug. <unclear>last with his memoirs on the Lido pid as <choice>
+                        <abbr>&amp;c &amp;c</abbr>
+                        <expan>et cetera et cetera</expan>
+                     </choice>
+                  </unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

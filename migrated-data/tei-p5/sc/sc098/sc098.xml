@@ -1,0 +1,132 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc098">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1805 Aug. 12, Knoxville, Tennessee [to] Colonel Jonathan Meigs, Department of War / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc098</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1805 Aug. 12, Knoxville, Tennessee [to] Colonel Jonathan Meigs, Department of War / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1805-08-12">August 12, 1805</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter dated August 12, 1805 from John Sevier of Tennessee to Colonel Jonathan Meigs at the Department of War.  Sevier's brief letter to Meigs informs of an enclosed letter by Colonel Scott describing a massacre involving Cherokee Indians.</note>
+               <note type="collection" anchored="true">John Sevier Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sc098</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Cherokee Indians -- Warfare</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc098a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <date>12 august 1805</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>You will receive enclosed the copy of a letter from Colonel Scott of <name>Blount County</name> to the executive, and my letter addressed the warriors and chiefs of the <name>cherokee nation</name> on that subject</p>
+            <p>You will perceive by <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Scotts letter that some of the <name>Cherokees</name> have committed a very daring insult, <choice>
+                  <orig>massacar</orig>
+                  <reg>massacre</reg>
+               </choice> can not be passed over in silence- You will have the goodness to cause my letter to be laid before the  chief <gap agent="damage"/> so soon as may be <choice>
+                  <orig>conveinant</orig>
+                  <reg>convenient</reg>
+               </choice>, in order that their answer may be obtained as speedily as possible.</p>
+            <closer>I have the honor to be Sir, with respect &amp; great esteem your most, <choice>
+                  <abbr>obet and hbl Servt</abbr>
+                  <expan>obedient and humble servant</expan>
+               </choice>. <signed>John Sevier</signed>
+               <add>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Meigs agent for the department of war</add>
+               <pb n="2" facs="sc098b.small.jpg"/>
+               <choice>
+                  <abbr>Gov</abbr>
+                  <expan>Governor</expan>
+               </choice>. Sevier's letter <date>12th <choice>
+                     <abbr>Augt</abbr>
+                     <expan>August</expan>
+                  </choice>. 1805</date>- <unclear>Cavag</unclear> a letter from <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>. Scott subjects. <name>Cherokees</name> describing born of a <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Mc Nult Colonel Return <choice>
+                  <abbr>J </abbr>
+                  <expan>Jonathan</expan>
+               </choice> Meigg esquire, agent for the department of war in <name>Tennessee</name>
+               <choice>
+                  <abbr>Fo</abbr>
+                  <expan>From</expan>
+               </choice> West Point  <add>mail</add>
+               <add>Public Service</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl455">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Jun. 11, Cold Water [to] R.H. McEwen, Nashville, Tennessee / W.B. Robinson   : a machine readable transcription of an image</title>
+            <author>Robinson, W.B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl455</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Jun. 11, Cold Water [to] R.H. McEwen, Nashville, Tennessee / W.B. Robinson</title>
+               <author>Robinson, W.B.</author>
+               <date when="1838-06-11">June 11, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 11, 1838 from W.B. Robinson to Colonel R. H. McEwen in Nashville, Tennessee.  It is a brief letter relating to cotton cultivation and market conditions.</note>
+               <note type="collection" anchored="true">McEwen Papers</note>
+               <note type="box" anchored="true">Correspondence</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl455</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Cotton</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Robinson, W. B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl455a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Cold Water</addrLine>
+               </address>
+               <date>11th June 1838</date>
+               <salute>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> R H McEwen</salute>
+               <choice>
+                  <abbr>DSir</abbr>
+                  <expan>Dear Sir</expan>
+               </choice>
+            </opener>
+            <p>Your favor of the 26th May came to hand the 4th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>instant</expan>
+               </choice> with enclosed slip advising me of small advance on cotton and sound condition of the market much of course gave me Great Satisfaction as I have now on Hand the labor of many years hard toil and my all now hangs suspended on the great staple of the South and West </p>
+            <p>I have twelve Bales Cotton or cotton Receipts to make that amount of Bales and four Bales of my Remaining lot is so badly damaged that I will have to repack the cotton and probably lose one Bale and three Bales not made which will leave me but five Bales to send to Your place which will be started in few days do the best you can with it I will in Your town <add>in</add> 10 or 15 days</p>
+            <closer>Yours Truly <signed>W.B. Robinson</signed>
+               <pb n="2" facs="sl455b.small.jpg"/>
+               <address>
+                  <addrLine>Robinsons Store<choice>
+                        <abbr>Tn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address> 11th June <name>WB Robinson</name> PM<address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice> R H McEwen Nashville <abbr>Tenn</abbr>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> W.B. Robinson <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice>__<date>15 June 1828</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

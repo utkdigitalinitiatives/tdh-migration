@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc060">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1839 Dec. 24, Mouth of Sweet Water [to] Charles Welcker, Laurel Banks, Roane Co[unty, Tennessee] / A[lbert] S. L[enoir] : a machine readable transcription of an image</title>
+            <author>Lenoir, Albert S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc060</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter]  1839 Dec. 24, Mouth of Sweet Water [to] Charles Welcker, Laurel Banks, Roane Co[unty, Tennessee] / A[lbert] S. L[enoir]</title>
+               <author>Lenoir, Albert S.</author>
+               <date when="1839-12-24">December 24, 1839</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 24, 1839, from Albert S. Lenoir to his brother-in-law Charles F. Welcker in Roane County, Tennessee.  Lenoir writes to inform Welcker that his sister, Lenoir's wife, Catherine had just given birth to a baby boy.  Both mother and child were in fine health.  He also briefly mentions that he hopes the Georgia railroad will extend to Chattanooga.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc060</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Birth announcements</term>
+               <term>Tennessee, East</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2008162663"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lenoir, Albert S., 1803-1861</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc060a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Mouth of <name>Sweet Water</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Decr.</abbr>
+                           <expan>December</expan>
+                        </choice> 24th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Charles</salute>
+            </opener>
+            <p>As Ellick is going over home to commence his Christmas I write a line to inform you all of our health, fortune, prospects <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>._ We are all entirely well except Catherine, and she quite as well as could be expected taking into consideration the fact that yesterday between 12 and 1 Oclock, she became the mother of what the old ladies say is a "fine boy." And a fine fellow I think he is.  Catherine would be glad for you to bring your Caroline over tomorrow if convenient, as my mother, who came over yesterday, says she will have to go home tomorrow._ If we have good luck we can give you <choice>
+                  <orig>pidgeon</orig>
+                  <reg>pigeon</reg>
+               </choice> pie as they appear plenty yesterday evening &amp; this morning_ allow yourself a few days to stay when you come.</p>
+            <p>Old Buck is now at your service.  I would be glad to hear if the furniture is made that Henry was to see to for us. We have heard that the <name>
+                  <choice>
+                     <abbr>Ga.</abbr>
+                     <expan>Georgia</expan>
+                  </choice>
+               </name> Legislature have determined by a majority of one vote to extend the <choice>
+                  <abbr>R.</abbr>
+                  <expan>Rail</expan>
+               </choice> Road to <name>Chattanooga</name>_ hurra for Chattanooga.  Ellick has conducted himself very well for some time past &amp; I give him a pass, till next Monday.</p>
+            <closer>
+               <salute>Yours truly</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>A.</abbr>
+                        <expan>Albert</expan>
+                     </choice> S. Lenoir</name>
+               </signed>
+               <add>P.S. Caty sends howdy to the family_ she is in fine spirits &amp; I think quite proud of her boy, as well as <del type="overstrike">myself</del> I am.  <lb/>
+                  <choice>
+                     <abbr>A.S.L.</abbr>
+                     <expan>Albert S. Lenoir</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="mc060b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Charles Welcker <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Laurel Banks</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Roane <choice>
+                           <abbr>Co.</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add>By Ellick</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

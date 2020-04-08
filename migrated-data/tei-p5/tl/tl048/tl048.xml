@@ -1,0 +1,155 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 July 11, Knoxville, [Tennessee, to] Colo[nel]
+			 Henly / John Sevier: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl048</idno>
+            <idno>OCLC: 47832579</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 July 11, Knoxville, [Tennessee, to] Colo[nel]
+				Henly / John Sevier: a machine-readable transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1798-07-11">July 11, 1798</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written to Colonel
+				Henly by John Sevier, Governor of Tennessee from 1796-1801 and 1803-1809, on
+				July 11, 1798. In the letter, John Sevier states that James Calbert, from the
+				Chickasaw Nation has complaints against the United States. Sevier encourages
+				Colonel Henly to listen to the complaints of Calbert and the Chickasaw Nation
+				because of their loyalty and friendship to the United States.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">6</note>
+               <note type="Document">tl048</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chickasaw Indians--Government relations</term>
+               <term>Chickasaw Indians--Claims</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl048a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1798-07-11">11th July 1798</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name type="person"> Mr. James Calbert </name>of the 
+			 <name type="place">Chickasaw Nation</name>, has made known to me,
+			 Some accounts he has against the 
+			 <name type="place">United States</name> contracted by 
+			 <name type="place">Chism</name>, when <del type="overstrike">he
+		  was</del> engaged for to <choice>
+                  <orig>trans act</orig>
+                  <reg>transact</reg>
+               </choice> some Indian
+		  business  I have recommended to him, to wait on you with his papers,
+		  assuring him at the same time you would do him that Justice his claim merited
+		   permit me to Observe, that 
+		  <name type="person">Mr. James Calbert</name>, together with the rest of
+		  the family, and also the principle leaders of the 
+		  <name type="place">Chickasaw Nation</name>, has always discovered great
+		  friendship and Sincere attachment to the 
+		  <name type="place">United States</name>. <del type="overstrike">from</del> And their conduct in General entitles them to the
+		  particular notice and Attention of Government especially at the present
+		  Crisis</p>
+            <closer>
+               <salute>I have the honor to be Very Respectfully <lb/> Yours 
+				<choice>
+                     <abbr> C  C</abbr>
+                     <expan>et cetera, et cetera</expan>
+                  </choice>
+               </salute>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice>
+					 Henly</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl048b.small.jpg"/>
+            <p>
+               <name type="person">Colonel Henly</name>
+               <lb/>
+               <date when="1798-06-11">11th June 1798</date>
+               <lb/> by 
+			 <name type="person">James Calbert</name>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

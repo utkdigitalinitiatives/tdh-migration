@@ -1,0 +1,182 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Jan.13, Knoxville, [Tennessee, to] Silas Dinsmore
+			 / John Sevier, Governor of the state of Tennessee: a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl028</idno>
+            <idno>OCLC: 47826553</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Jan. 13, Knoxville, [Tennessee to] Silas
+				Dinsmore / John Sevier, Governor of the state of Tennessee </title>
+               <author>Sevier, John</author>
+               <date when="1797-01-13">January 13, 1791 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Governor
+				John Sevier of Tennessee (1796-1801) to Cherokee Agent Silas Dinsmore, dated
+				January 13, 1797. Sevier wrote the letter to inform Dinsmore that a man by the
+				name of Abraham Martin reported that, while on his way to Cumberland, he lost a
+				horse. Martin had reason to believe the horse was stolen by some Cherokees, and
+				Sevier urged Dinsmore to inquire about the matter within the Cherokee nation
+				and return the horse if possible.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl028</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Horse stealing</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl028a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-01-13">13 January 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <name type="person">Mr. Abraham Martin</name> on his way to 
+			 <name type="place">Cumberland</name>Near 
+			 <name type="place">J. W. <choice>
+                     <orig>point</orig>
+                     <reg>Point</reg>
+                  </choice>
+               </name> lost a
+			 black horse four white legs nearby to the hams, <del type="overstrike">
+                  <unclear>unk</unclear>
+               </del> a bald face near five feet high,
+		  if any brand not <unclear>returned</unclear>
+            </p>
+            <p>
+               <name type="person">Mr. Martin</name> is of the opinion he was stolen
+			 by the Indians as he followed the track to one of their old lodging places
+			  please to make inquiry in the nation, and obtain him if possible</p>
+            <closer>
+               <salute>I have the honor to be <lb/> with respect  Esteem <lb/>				Your 
+				<choice>
+                     <abbr>mo. obedt.
+				  servt.</abbr>
+                     <expan>most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Silas Dinsmore 
+					 <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl028b.small.jpg"/>
+            <p>Letter to <lb/>
+               <name type="person">Silas Dinsmore 
+				<choice>
+                     <abbr>esq</abbr>
+                     <expan>esquire</expan>
+                  </choice>
+               </name>
+               <lb/> agent to the 
+			 <name type="person">Cherokees</name>
+               <lb/>
+               <date when="1797-01-13">13 
+				<choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice> 1797</date>
+               <lb/>
+               <choice>
+                  <abbr>iss</abbr>
+                  <expan>issue</expan>
+               </choice> 1 <lb/> ( 
+			 <choice>
+                  <abbr>No. </abbr>
+                  <expan>Number</expan>
+               </choice>15 ) <add place="below">			 Recorded </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

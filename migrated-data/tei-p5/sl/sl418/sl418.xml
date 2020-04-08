@@ -1,0 +1,123 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl418">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Mar. 13, Holley Springs, Mississippi [to unknown recipient] / [Adam Fergusson]: a machine readable transcription of an image</title>
+            <author>[Fergusson, Adam]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl418</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1836 Mar. 13, Holley Springs, Mississippi [to unknown recipient] / [Adam Fergusson]</title>
+               <author>[Fergusson, Adam]</author>
+               <date when="1836-03-13">March 13, 1836</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated March 13, 1836. The author is most likely Adam Fergusson. Fergusson writes to discuss the regulations by which the Chickasaw Nation may sell portions of their land. Fergusson also relates a story about a possible corrupt land speculator.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true">IV-G-1, B6</note>
+               <note type="folder" anchored="true">F2</note>
+               <note type="document" anchored="true">sl418</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mississippi</term>
+               <term>Land question</term>
+               <term>Chickasaw Indians</term>
+               <term>
+                  <name>[Fergusson, Adam]</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl418a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Holley Springs</name>
+                     <name>Mississippi</name>
+                  </addrLine>
+                  <addrLine>13th March 1836</addrLine>
+               </address>
+               <salute>Dear <lb/> Sir</salute>
+            </opener>
+            <p>the regulations respecting the <choice>
+                  <orig>maner</orig>
+                  <reg>manner</reg>
+               </choice> tha <gap/>
+               <unclear>t</unclear> the Indians may Sell and dispose of their lands in the <name>Chickasaw nation</name> Submitted by the Honorable <name> Lewis Cass</name> and <choice>
+                  <orig>aproved</orig>
+                  <reg>approved</reg>
+               </choice> by the President on the <date>5th february</date> last are now before me. No act of the Presidents life I believe will be more gratefully remembered Nor was ever one of his good actions better <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> than by the people of this country. Hitherto I have been merely a looker-on Since I Settled here occasionally writing to my friends how things were man <gap/>
+               <unclear>a</unclear> ged here I <unclear>apprised</unclear> Several of the members of the <name>Tennessee</name> Legislature and among the rest our ol <gap/> Friend <name>
+                  <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice> McClaine</name> that the whole Chickasaw <gap/> nation belonged to a few Speculators who punch <gap/> reserves at from $1,,25 down as low as they could get trean <gap/> acre but when bought asked and in many instances obtained from eight to ten per acre. never was there <del>
+                  <add>ever</add>
+               </del> Such confusion as have been here all winter and the agent has been <choice>
+                  <orig>strongley</orig>
+                  <reg>strongly</reg>
+               </choice> Suspected of <choice>
+                  <orig>favouring</orig>
+                  <reg>favoring</reg>
+               </choice> the views of a few individuals to the exclusion of others how true this is I cannot Say but the report is current every thing at Pontitoe was uncertain and veiled in the most profound mystery myself with many others had come to the determinat <add>i</add> on to leave a country where the many were likely to be tributary to the few the <choice>
+                  <orig>ballance</orig>
+                  <reg>balance</reg>
+               </choice> of our lives that the speculators were to be Princes and nobody among us and that too by the <unclear>conivance</unclear> of the General Government. I will qive one instance of the man <gap/> of obtaining land from the Indians as it is the Sec <gap/>
+               <pb n="2" facs="sl418b.small.jpg"/>
+               <gap/> got <choice>
+                  <orig>permession</orig>
+                  <reg>permission</reg>
+               </choice> to live from the land company who pret <gap/> own it. I am creditably informed the Indian was made drunk at a late hour of the night and his deeds or obligatory taken for three <unclear>Sections</unclear> at $1,000 per <unclear>Section</unclear> which now and even then could have been sold at $3,000 per Section at least for two of them</p>
+         </div>
+      </body>
+   </text>
+</TEI>

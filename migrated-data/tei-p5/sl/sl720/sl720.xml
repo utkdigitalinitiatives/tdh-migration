@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl720">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Legal] 1798 Jan. 20 [Travel Permit for] Joseph Sevier [and] Anthony Sevel / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl720</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal] 1798 Jan. 20 [Travel Permit for] Joseph Sevier [and] Anthony Sevel / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1798-01-20">January 20, 1798</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a travel permit for Joseph Sevier and Anthony Sevel. It is written by Governor John Sevier on January 20, 1798. The permit is for the men to go to and from the Cherokee Nation.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">5</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl720</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Cherokee Indians</term>
+               <term>Travel</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl720a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>John Sevier</name> Governor and Commander in Chief in and over the State of <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>
+               <name>Joseph Sevier</name> has communicated to me his desire to be permitted to pass into the <name>Cherokee nation</name>, by way of the Tennessee <add>river</add> in order to bring <add>from</add>
+               <del type="overstrike">of</del> thence some property he has in the said nation__ <del type="overstrike">also</del> I have committed to his charge, and employ him to deliver unto the chiefs of the Cherokees <del type="overstrike">an express</del> a letter of public importance,</p>
+            <p>
+               <del type="overstrike">The said Joseph Sevier is therefore permitted to pass</del> He also has in his care a Quantity of goods for <name>George Lowry</name> a half breed Indian in the cherokee nation <del type="overstrike">and</del>
+            </p>
+            <p>The said Joseph is therefore permitted to pass &amp; Repass <del type="overstrike">unmolisted</del>to and from the Cherokee nation with his property <add>
+                  <choice>
+                     <orig>unmolisted</orig>
+                     <reg>unmolested</reg>
+                  </choice>
+               </add> he be having accordingly</p>
+            <p>Given under my hand in <name>Knoxville</name>, the <date>20th day of January 1798</date>
+            </p>
+            <closer>
+               <add>
+                  <choice>
+                     <abbr>PS.</abbr>
+                     <expan>Post Script</expan>
+                  </choice>
+                  <name>Anthony Sevel</name> free <choice>
+                     <orig>mulato</orig>
+                     <reg>mulatto</reg>
+                  </choice> man is <lb/> permitted to pass with the aforesaid and Joseph <lb/> Sevier to and from the Cherokee Nation</add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>James</expan>
+                     </choice> Sevier</name>
+               </signed>
+               <pb n="2" facs="sl720b.small.jpg"/>
+               <add>Permit for Joseph <lb/> Sevier &amp; Anthony Sevel</add>
+               <add>20 <choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice> 1798</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

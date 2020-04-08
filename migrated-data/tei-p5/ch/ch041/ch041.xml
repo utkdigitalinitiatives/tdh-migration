@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter], 1819 Sept. 3, Department of War to Rev[erend] Samuel Worcester, Sec[retar]y of the Amer[ican] Board of Commissioners for For[eig]n Missions / J[ohn] C. Calhoun : a machine-readable transcription</title>
+            <author>Calhoun, John C. (John Caldwell), 1782-1850</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch041</idno>
+            <idno>OCLC: 44837821</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter], 1819 Sept. 3, Department of War to Rev[erend] Samuel Worcester, Sec[retar]y of the Amer[ican] Board of Commissioners for For[eig]n Missions / J[ohn] C. Calhoun</title>
+               <author>Calhoun, John C. (John Caldwell), 1782-1850</author>
+               <date when="1819-09-03"> September 3, 1819</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">Copy of a letter wherein John C. Calhoun, Secretary of War, writes to Reverend Samuel Worcester, Corresponding Secretary of the American Board of Commissioners for Foreign Missions and missionary to the Cherokees, about an enclosed letter pertaining to the views of  President Monroe, September 3, 1819. The enclosed letter appears in the Southeastern Native American Documents Database as <ref>ch042</ref>
+               </note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">29</note>
+               <note type="document" anchored="true">ch041</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Monroe, James, 1758-1831</term>
+               <term>Missions</term>
+               <term>Cherokee Indians</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79137102">Calhoun, John C.(John Caldwell), 1782-1850</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch041a.small.jpg"/>
+            <head>
+               <add place="top">
+                  <hi rend="o">F.</hi>
+               </add>
+               <lb/>Note from the Secretary of War to <name type="person">Rev. Samuel Worcester</name>
+               <choice>
+                  <abbr>Cor. Secy.</abbr>
+                  <expan>Corresponding Secretary</expan>
+               </choice> covering a communication from the President of the <name type="place">United States</name> on the subject of schools <choice>
+                  <abbr>c.</abbr>
+                  <expan>et cetera</expan>
+               </choice> among the Indians.
+               </head>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>Department of War</addrLine>
+                  </address>
+                  <date when="1819-09-03"> 3 <choice>
+                        <abbr>Sept.</abbr>
+                        <expan>September</expan>
+                     </choice> 1819</date>
+               </dateline>
+               <salute>Sir,</salute>
+            </opener>
+            <p> Believing that the society of which you are the corresponding Secretary, takes an interest in the subject to which the enclosed paper, <add place="bottom">See paper marked G.</add> containing the views of the President, relates, I have taken the liberty to transmit it to you for the information of the Society.</p>
+            <closer>I am very respectfully Your <choice>
+                  <abbr>Obedt. Servt.</abbr>
+                  <expan>Obedient Servant</expan>
+               </choice> (Signed)<signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice> C. Calhoun</name>
+               </signed>
+               <lb/>
+               <address>
+                  <addrLine>
+                     <name type="person">Rev. Samuel Worcester</name>, <choice>
+                        <abbr>Correspondg Secy</abbr>
+                        <expan>Corresponding Secretary</expan>
+                     </choice> of the <choice>
+                        <abbr>Amer.</abbr>
+                        <expan>American</expan>
+                     </choice> Board of Commissioners for<choice>
+                        <abbr> Forn.</abbr>
+                        <expan>Foreign</expan>
+                     </choice> Missions.</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

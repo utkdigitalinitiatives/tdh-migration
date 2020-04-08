@@ -1,0 +1,157 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0312">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Claim] 1843 Mar. 26, The United States to Tobacco Will : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0312</idno>
+            <idno type="OCLC">OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>  [Claim] 1843 Mar. 26, The United States to Tobacco Will</title>
+               <date when="1843-03-26">March 26, 1843</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a claim against the United States by Tobacco Will, a Cherokee, who lost his horses during the removal. The United States rejected his claim.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> pa0312</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Claim</term>
+               <term>Cherokee Indians</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0312a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>The <name>United States</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To <name>Tobacco Will </name>
+                     <choice>
+                        <abbr>Dr,,</abbr>
+                        <expan>Debtor</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Resident of<name> Lees Creek </name>
+                     <name>Skim Bayou <choice>
+                           <abbr>Dist</abbr>
+                           <expan>District</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>
+               <table>
+                  <head>To Property from the removal under treaty of 1828_ <choice>
+                        <orig>Arkansaw</orig>
+                        <reg>Arkansas</reg>
+                     </choice>.</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1828</cell>
+                     <cell role="data" rows="1" cols="1">To 2 Horses $ 1/30 $ 1/30</cell>
+                     <cell role="data" rows="1" cols="1">$60</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <name>Ne co lus tah</name>, a son of the Claimant states as follows <lb/> That his father is not able to come up to to have his claim made out and sent him up he is Knowing to the loss of the horses they they run run away from him from his present residence soon after he moved from the Cherokee Nation below now state of Arkansas <del type="overstrike">and were never after</del> under the treaty of 1828 and were never afterwards- recovered or received any compensation from any source whatever___</p>
+            <closer>
+               <add>March 26th 1845</add>
+               <signed>Ne co lus tah <add>
+                     <add>his</add>
+                     <figure>
+                        <figDesc>x</figDesc>
+                     </figure>
+                     <add>mark</add>
+                  </add>
+               </signed>
+               <add>
+                  <name>Bear Paw </name>testifies to the claim of Tobacco Will state as follows: <lb/> I lived or settled a near neighbor to the claim out on Lees Creek Skim Bayou when we removed from our old country now state of Arkansaw. I Knew the horses run away from the claimant the first spring after we moved up to our present country I <unclear>assisted</unclear> in searching for the horses and pursued the track some distance in the State of Arkansaw. finally gave up the pursuit the Claimant has never recovered them </add>
+               <signed>Bear <add>
+                     <add>his</add>
+                     <figure>
+                        <figDesc>x</figDesc>
+                     </figure>
+                     <add>mark</add>
+                  </add> Paw</signed>
+               <add>March 26th 1845</add>
+               <add>test. <name>James M,, Payne</name>.</add>
+               <add>Before <lb/> Washington <unclear>Comm</unclear>
+               </add>
+               <pb n="2" facs="pa0312b.small.jpg"/>
+               <add>954 - 4th Commission</add>
+               <add>Tobacco Wells <lb/> Claim Spoil 28 <lb/> No 53</add>
+               <add>rejected <unclear>BU Breenften</unclear>
+               </add>
+               <add>Edward Harden</add>
+               <pb n="3" facs="pa0312c.small.jpg"/>
+               <add>954 <lb/> ― <lb/> Fourth Commissioner <lb/> ― <lb/> Tobacco Will <lb/> Vs: __ Spoliation <lb/> The United States<lb/> ― <lb/> Filed with former board <lb/> W.D. Miller, Secy, <lb/> Decree rendered June <lb/> 14, 1847, rejecting claim. <lb/> W.D. Miller, Secy,</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

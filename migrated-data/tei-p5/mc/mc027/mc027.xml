@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Aug. 19 [to] Grantham and Welcker, Talladega, Ala[bama] / James R. Hobbs : a machine readable transcription of an image</title>
+            <author>Hobbs, James R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc027</idno>
+            <idno>OCLC: 50473154</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Aug. 19 [to] Grantham and Welcker, Talladega, Ala[bama] / James R. Hobbs</title>
+               <author>Hobbs, James R.</author>
+               <date when="1836-08-19">August 19, 1836</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 19, 1836 to Mr. Grantham and Mr. Welcker from James R. Hobbs and company regarding four cotton gins purchased but not yet paid for. Mr. Hobbs asks that they please send payment for the cotton gins.</note>
+               <note type="collection" anchored="true">Welker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">May-December 1836</note>
+               <note type="document" anchored="true">mc027</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cotton Machinery</term>
+               <term>Complaint letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hobbs, James R.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc027a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Winchester <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                     <date when="1836-08-19">August 19th 1836</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>The present is to say that we wish to know what disposition you made with the four cotton gins we sent you last December. your <choice>
+                  <abbr>Recpt.</abbr>
+                  <expan>Receipt</expan>
+               </choice> calls for 3 @ 200$ and one at 125$</p>
+            <p>We should be obliged if you write us on <choice>
+                  <abbr>Recpt.</abbr>
+                  <expan>Receipt</expan>
+               </choice> of this whether you have sold any of the above gins as yet and whether we can receive any of the money for them this ensuing fall</p>
+            <closer>
+               <salute>Your Friends</salute>
+               <salute>Respectfully</salute>
+               <name type="person">James R. Hobbs &amp; <choice>
+                     <abbr>Co.</abbr>
+                     <expan>Company</expan>
+                  </choice>
+               </name>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Mess.</abbr>
+                           <expan>Messieurs</expan>
+                        </choice> Grantham &amp; Welcker</name>
+                     <name type="place">Talladega <choice>
+                           <abbr>Ala—</abbr>
+                           <expan>Alabama</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+            <pb n="2" facs="mc027b.small.jpg"/>
+         </div>
+         <div subtype="1">
+            <p>
+               <address>
+                  <addrLine>
+                     <abbr>Mess</abbr> Grantham &amp; Welker</addrLine>
+                  <addrLine>Talladega <choice>
+                        <abbr>Ala</abbr>
+                        <expan>Alabama</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="left of address">Mail }</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

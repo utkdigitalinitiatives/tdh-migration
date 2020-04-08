@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0287">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1804 June 25, War Department [to] Colonel Return J. Meigs, South West Point, Tennessee / Henry Dearborn : a machine readable transcription of an image</title>
+            <author>Dearborn, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0287</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1804 June 25, War Department [to] Colonel Return J. Meigs, South West Point, Tennessee / Henry Dearborn</title>
+               <author>Dearborn, Henry</author>
+               <date when="1804-06-25">June 25, 1804</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Henry Dearborn, Secretary of War, to Return J. Meigs, Agent to the War Department. Dearborn instructs Meigs to provide a horse and safe passage to Missouri for a Captain Randal.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0287</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War department document</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79055568"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dearborn, Henry, 1751-1829</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0287a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>War Department<date>June 25th 1804</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>You will please to afford any aid in your power to the bearer, <name>
+                  <choice>
+                     <abbr>Cap.</abbr>
+                     <expan>Captain</expan>
+                  </choice>
+                  <choice>
+                     <orig>Randall</orig>
+                     <reg>Randal</reg>
+                  </choice>
+               </name> in passing <add>from</add>
+               <name>South West Point</name> to <name>Nashville</name>. If the horse he rides should be too much fatigued to proceed on his journey you will please to have him exchanged for one in the employment of the public, which he should be directed to deliver to some such character at Nashville as you may direct on public account. And I will thank you to request some person at Nashville to assist Cap. Randal in procuring a passage to <name>
+                  <choice>
+                     <orig>Mussar</orig>
+                     <reg>Missouri</reg>
+                  </choice>
+               </name> by water as soon as possible.</p>
+            <closer>
+               <salute>Yours Respectfully</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>H.</abbr>
+                        <expan>Henry</expan>
+                     </choice> Dearborn</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col. R. J.</abbr>
+                           <expan>Colonel Return Jonathan</expan>
+                        </choice> Meigs</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="pa0287b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Colo.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Return J. Meigs </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>So.</abbr>
+                        <expan>South</expan>
+                     </choice> West Point <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>Secretary of War his letter by <name>Mr. Randal</name> going to <name>St. Louis</name> on Public Business<date>June 25th 1804</date>
+                  <choice>
+                     <abbr>Recd</abbr>
+                     <expan>Received</expan>
+                  </choice> the 19th or 20th July</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

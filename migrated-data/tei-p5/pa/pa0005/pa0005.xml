@@ -1,0 +1,358 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Financial statement for funds] received in behalf of the Cherokee Nation as full compensation for time and expenses attending and completing the survey of the boundary lines, 1808 Nov. 1, Highwassee [i.e., Hiwassee, Tennessee]: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0005</idno>
+            <idno>OCLC: 44889252</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Financial statement for funds] received in behalf of the Cherokee Nation as full compensation for time and expenses attending and completing the survey of the boundary lines, 1808 Nov. 1, Highwassee [i.e., Hiwassee, Tennessee]</title>
+               <date when="1808-11-01">November 1, 1808</date>
+               <extent>2p</extent>
+               <note type="summary">This is a financial statement and receipt for money received on behalf of the Cherokee Nation for expenses related to the survey of boundary lines conformable to a convention entered into with the United States at Washington on the January 7, 1806, and approved September 11, 1807.  The statement indicates that the Cherokees were to receive 2,000 dollars from U.S. agent Return J. Meigs for their service in completing the survey.  This document also details property losses and compensation amounts for area inhabitants who were alleged victims of Cherokee theft.  Dated at Hiwassee, Tennessee, November 1, 1808.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box"/>
+               <note type="folder"/>
+               <note type="document">pa0005</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Georgia Libraries Electronic Text Center</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Boundaries</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0005a.small.jpg"/>
+            <p>
+               <table>
+                  <head>The <name>Cherokee Nation</name>
+                     <lb/>To the <name type="place">United States</name>    Dr,,
+                     </head>
+                  <row>
+                     <cell>
+                        <date when="1804">1804</date>.</cell>
+                     <cell>To cash paid <name type="person">Giles Thompson</name> for 2 stolen horses at 60$</cell>
+                     <cell rend="right">120.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Scott Mt.Gommery</name> house plundered</cell>
+                     <cell rend="right">29.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person"> 
+                           <reg>Hedgecough</reg> John</name>
+                        <name type="person">Ezekiel Hedgecough</name> 5 horses stolen</cell>
+                     <cell rend="right">300.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">William Ryan</name> 1 horse stolen</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Thomas Gist</name> House burnt</cell>
+                     <cell rend="right">200.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Jonathan Clenny</name> 1 Rifle Stolen</cell>
+                     <cell rend="right">21.50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Caleb Griffiths</name> 1 horse stolen</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">
+                           <choice>
+                              <abbr>Wm</abbr>
+                              <expan>William</expan>
+                           </choice> McNutt</name> Saddle  Bridle stolen</cell>
+                     <cell rend="right">25.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Zackfield Maclin</name> 1 horse stolen</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">William Gallaher</name> Canoe stolen</cell>
+                     <cell rend="right">12.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Townley Deakins</name> 1 Canoe stolen</cell>
+                     <cell rend="right">10.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Doct Tho: I. Vandyke</name> 2 Canoe stolen</cell>
+                     <cell rend="right">27.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">William Smith</name> skins stolen</cell>
+                     <cell rend="right">3.50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">William Utter</name> Whisky stolen</cell>
+                     <cell rend="right">3.50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Stephen Thompson</name> Mason Rifle Stolen 20.00</cell>
+                     <cell rend="right">20.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">951.50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Dianna Story</name> for a grey mare stolen by <name type="person">Cherokees</name>
+                        <date when="1804">1804</date>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Thomas Malone</name> for a horse stolen <date when="1802">1802</date>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">George Gentry</name> 1 horse stolen <date when="1801">1801</date>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Thomas Johnson</name> 1 horse stolen <date when="1804">1804</date>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">William Ellit</name> 1 horse stolen <date when="1804">1804</date>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person"> 
+                           <reg>Linville</reg> Richard</name>
+                        <name type="person">Worley Linville</name> 3 horses <choice>
+                           <abbr>stl</abbr>
+                           <expan>stolen</expan>
+                        </choice>
+                        <date when="1804">1804</date>
+                     </cell>
+                     <cell rend="right">180.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">David Hunt</name>
+                        <name type="person">Thomas Austin</name> 1 horse <add place="supralinear">
+                           <choice>
+                              <abbr>s.</abbr>
+                              <expan>stolen</expan>
+                           </choice>
+                           <date when="1804">1804</date>
+                        </add>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">
+                           <choice>
+                              <abbr>Jno.</abbr>
+                              <expan>John</expan>
+                           </choice> D. Chisholm</name> 1 horse, saddle,  other <add place="supralinear">property</add>
+                        <date when="1805">1805</date>
+                     </cell>
+                     <cell rend="right">92.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Robert Noble</name> acting under a license bought a horse
+of an Indian who had stolen it</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">James Blair</name> 1 horse stolen</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Thomas Lovelady</name> 1 Mare stolen by <name type="person">
+                           <choice>
+                              <abbr>Cher-ees</abbr>
+                              <expan>Cherokees</expan>
+                           </choice>
+                        </name>
+                     </cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To "  "  <name type="person">Ezekiel Hoskins</name> 1 mare stolen</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">$72.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">$1823.50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>To cash paid <name type="person">James Vann</name> for a horse stolen from <name type="person">Edward Moore</name>.  see the adjustment on Book of Claims</cell>
+                     <cell rend="right">60.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">$1883.50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="--11-01">Nov 1st</date>
+                     </cell>
+                     <cell>To cash paid to <choice>
+                           <orig>ballance</orig>
+                           <reg>balance</reg>
+                        </choice>
+                     </cell>
+                     <cell rend="right">116.50</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">Dollars2000.00</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0005b.small.jpg"/>
+            <p>Received of <name type="person">Return J. Meigs</name> Two thousand dollars i.e. eighteen hundred  twenty three dollars  fifty cents, due the <name type="place">United States</name> as stated in the within account; which account is hereby paid  cancelled the sum of one hundred  seventy six dollars  fifty cents <add place="supralinear">in cash this day</add>: making in the whole Two thousand dollars which sum of Two thousand dollars is allowed by the Executive of the <name type="place">United States</name>  received in behalf of the <name>Cherokee Nation</name> as full compensation for time  expenses attending  completing the survey of the boundary lines conformably to a convention entered into with the <name type="place">United States</name> at City <name type="place">Washington</name> on the <date when="1806-01-07">7th day of January 1806</date>,  an elucidation thereof, dated the <date when="1807-09-11">11th day of September 1807</date>, whereof we sign Duplicates.</p>
+            <p>
+               <hi>$2000.00</hi>
+            </p>
+            <p>
+               <figure>
+                  <head>marks</head>
+                  <figDesc>A handwritten mark appears next to each name.</figDesc>
+               </figure>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">Glass</name>
+               </signed>
+               <signed>
+                  <name type="person">Dick Justice</name>
+               </signed>
+               <signed>
+                  <name type="person">John <gap agent="damage"/>
+                     <unclear>B</unclear>ogs</name>
+               </signed>
+               <signed>
+                  <name type="person">Turtle at Home</name>
+               </signed>
+               <signed>
+                  <name type="person">Tolunluskee</name>
+               </signed>
+               <signed>
+                  <name type="person">Broom</name>
+               </signed>
+               <lb/>Witness. <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Saml.</abbr>
+                        <expan>Samuel</expan>
+                     </choice> Riley</name>
+                  <lb/>Interpreter
+                     </signed>
+               <lb/>
+               <name type="place">Highwassee</name>
+               <date when="1808-11-01">1st November 1808</date>
+               <lb/>Dollars 2000..00
+                     
+                  
+               </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>Receipts for 2000 $ paid the <name>Cherokee Nation</name> for their time 
+<choice>
+                  <orig>expence</orig>
+                  <reg>expense</reg>
+               </choice> in elucidating  in surveying certain boundary lines convention with them made the <date when="1806-01-07">7th day of January 1806</date> ultimately explained  carried into effect the <date when="1807-09-11">11th day of September 1807</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

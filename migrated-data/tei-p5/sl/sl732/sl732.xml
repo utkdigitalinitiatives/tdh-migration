@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl732">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1796 Apr. 27, Knoxville [Tennessee, to] Capt[ain] Chis[h]olm / J[ohn] Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, J[ohn]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl732</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1796 Apr. 27, Knoxville [Tennessee, to] Capt[ain] Chis[h]olm / J[ohn] Sevier</title>
+               <author> Sevier, J[ohn]</author>
+               <date when="1796-04-27">April 27, 1796</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Captain John D. Chisholm from Governor John Sevier, dated April 27, 1796. Sevier writes his good wishes for the Cherokees, and hopes that they will stop fighting. Chisholm is going into Cherokee land regarding the supposed murder of a Cherokee. Sevier writes that he has not been able to find the killer or the body. Sevier asks him to pass on to the Cherokee his good wishes.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl732</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Cherokee Indians -- Crimes against</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1">
+            <pb n="1" facs="sl732a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>27 April 1796</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>You are going into the <name>cherokee</name> country <del type="overstrike">I am told</del> Among my red <choice>
+                  <orig>brothen</orig>
+                  <reg>brethren</reg>
+               </choice> a people <del type="overstrike">who</del> I wish may do well, and hope their rash and inconsiderate young men has seen the folly of going to war which Occasions their country to be destroyed, &amp; much blood to be spilt. I hope that you, and the white men that <add>travel</add>
+               <del type="overstrike">go</del> into <del type="overstrike">their country</del>
+               <add>that land</add> will always advise them people for their good</p>
+            <p>I cant as yet find out what person it was that killed the indian near Clinch, neither has the indian <del type="overstrike">ever</del> been found, which appears <del type="overstrike">to me</del> very strange; The people who lives near the place says, that they are sure no person among them killed the indian, for if they had, they could have found it out, and <pb n="2" facs="sl732b.small.jpg"/> also have found the indian; <del type="overstrike">and</del> it is generally believed that he has been lost in some way that no body can account for. If he has been Killed by any white man and It known who the person will surely be hanged.</p>
+            <p>You may tell my red brothen that my heart is tender towards them, that<del type="overstrike"> I</del>
+               <add>my</add> wish<add>is for them to do well &amp; </add>
+               <del type="overstrike">them well, &amp;</del> shall always be happy to hear of their welfare, And happiness</p>
+            <closer>
+               <salute>I am with respect &amp; esteem <lb/> your <choice>
+                     <abbr>Mo. Obedt. Servt.</abbr>
+                     <expan>Most Obedient Servant</expan>
+                  </choice>
+                  <lb/> Signed</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice> Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Capt Chism</abbr>
+                           <expan>Captain Chisholm</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add>a copy <lb/> letter to Capt <choice>
+                     <orig>Chisolmy</orig>
+                     <reg>Chisholm</reg>
+                  </choice>
+                  <lb/> 27 April 1796 <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 9</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

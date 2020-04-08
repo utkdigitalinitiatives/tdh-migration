@@ -1,0 +1,237 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0206">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1808 Apr. 10, Greenville, So[uth] Carolina [to] Return J. Meigs, Highwassee / Col[onel] Elias Earle : a machine readable transcription of an image</title>
+            <author>Earle, Elias</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0206</idno>
+            <idno type="OCLC">OCLC: 45823652</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1808 Apr. 10, Greenville, So[uth] Carolina [to] Return J. Meigs, Highwassee / Col[onel] Elias Earle</title>
+               <author>Earle, Elias</author>
+               <date when="1808-04-10">April 10, 1808</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated April 10, 1806 from Colonel Elias Earle to Return J. Meigs, agent for Indian affairs. Earle informs Meigs that an unnamed treaty recently signed with the Cherokees has not been ratified and speculates that the failure is attributable to an inaccurate map of the United States. Earle mentions a memorial sent by [James] Vann and [Charles] Hicks. He also discusses the storage of corn at Highwassee as opposed to Chickama[u]ga Creek, both inside the Cherokee Nation. Earle was a congressman from Greenville, South Carolina.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0206</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Treaties</term>
+               <term>Letters</term>
+               <term>Map reading</term>
+               <term>Southern States</term>
+               <term>Treaties--Ratification</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94007548"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Earle, Elias, 1762-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0206a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name>Greenville</name>
+                     </addrLine>
+                  </address>
+                  <date>10th April 1808</date>
+               </dateline>
+               <salute>Sir</salute>
+            </opener>
+            <p>after days since I had the pleasure to receive your <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice>
+               <date>12th March</date> by <name>Capt. Shackleford</name>, and am Truly glad to find that you have been kind Enough to him to let the corn be stored at- <name>Highwassee</name> a place that suits me much  better than at <name>
+                  <choice>
+                     <orig>Chickamaga</orig>
+                     <reg>Chickamauga</reg>
+                  </choice>
+               </name> under Every circumstance- You have no doubt before this been advised by the Secretary at war that the Treaty was not ratified, &amp; the reasons why it was not; I believe that there would not have <add>been</add> the Least doubt of it, had it not <choice>
+                  <orig>apeard</orig>
+                  <reg>appeared</reg>
+               </choice> to have been in the State of <name>Tennessee</name>, by Examining <name>Bradley</name>s map of the <name>
+                  <choice>
+                     <abbr>U.S.</abbr>
+                     <expan>United States</expan>
+                  </choice>
+               </name> upon making the <choice>
+                  <orig>enquiry</orig>
+                  <reg>inquiry</reg>
+               </choice> It was thought best to let it Lay over till <choice>
+                  <orig>an other</orig>
+                  <reg>another</reg>
+               </choice> session then was Several Very well wrote memorials sent on against it by <name>Vann Hicks</name> &amp; party, which went to protest against other <choice>
+                  <orig>Treatys</orig>
+                  <reg>Treaties</reg>
+               </choice> on the Head of <name>Elk</name> &amp; <name>Duck rivers</name>
+               <choice>
+                  <abbr>&amp; c</abbr>
+                  <expan>et cetera</expan>
+               </choice> made <pb n="2" facs="pa0206b.small.jpg"/> Lately- all that they could have done would not have had any influence <del type="overstrike">on</del> If the Cession had been made in the Land below <name>Nickajack</name>, or <choice>
+                  <abbr>So.</abbr>
+                  <expan>South</expan>
+               </choice> of 35th Degree Latitude- which land is Solely under the direction of the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Government. However as Tennessee has obtained Leave to purchase all within her Limits of the <name>Indians</name> as first as they will Sell- It is probable that there will be some provision made for the purchase at <choice>
+                  <orig>Chickamaga</orig>
+                  <reg>Chickamauga</reg>
+               </choice> - the Secretary at war promised me that he would Take what corn I had purchased, &amp; that he would write <choice>
+                  <orig>Imediately</orig>
+                  <reg>Immediately</reg>
+               </choice> to you on the subject If he has &amp; you have it in you power, to forward me the money by a safe hand or by mail, I will Take it as a Very Singular <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> for I assure <add>you</add> that cash has become a very scarce article in this part of the country- I suppose owing to the Embargo- Cotton, which is our Staple will not bring more than 12 1/2 cents at <choice>
+                  <orig>markett</orig>
+                  <reg>market</reg>
+               </choice>, a price that we are all unwilling to sell at - I will thank you to give Me the Earliest information when the next annuity <pb n="3" facs="pa0206c.small.jpg"/> is at Highwassee, as I wish to attend to Say my business before the Chiefs <choice>
+                  <abbr>&amp; c</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </p>
+            <closer>
+               <salute>I am Sir With great regret you Most <choice>
+                     <abbr>Obt Servt.</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Elias Earle</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice>
+                  <choice>
+                     <orig>pleas</orig>
+                     <reg>please</reg>
+                  </choice> to Direct your letter for Me<lb/>
+                  <name>Greenville Court House</name>
+                  <name>
+                     <choice>
+                        <abbr>So</abbr>
+                        <expan>South</expan>
+                     </choice> Carolina</name>
+                  <lb/>
+               </add>
+               <signed>
+                  <choice>
+                     <abbr>E.E.</abbr>
+                     <expan>Elias Earle</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="4" facs="pa0206d.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Greenville <choice>
+                        <abbr>c.h.</abbr>
+                        <expan>court house</expan>
+                     </choice>
+                     <choice>
+                        <abbr>So. C</abbr>
+                        <expan>South Carolina</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>April 13th. 1808</date>
+            </p>
+         </div>
+         <div subtype="1">
+            <p>Free</p>
+         </div>
+         <div subtype="1">
+            <p>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Return J. Meigs</name>
+                  </addrLine>
+                  <addrLine>Agent for Indian affairs</addrLine>
+                  <addrLine>Highwassee</addrLine>
+                  <addrLine>
+                     <name>Kingston</name>
+                     <unclear>p</unclear> office</addrLine>
+               </address>
+            </p>
+         </div>
+         <div subtype="1">
+            <p>
+               <choice>
+                  <abbr>Colo.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Earles Letter informs <choice>
+                  <abbr>Colo.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Meigs that he may sell his corn- &amp;; why the Treaty was not <choice>
+                  <orig>ratifyed</orig>
+                  <reg>ratified</reg>
+               </choice>
+               <lb/>
+               <date>10th April 1808</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

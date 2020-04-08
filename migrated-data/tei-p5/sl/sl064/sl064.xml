@@ -1,0 +1,172 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Nov. 27, Gainesboro, [Tennessee] [to] Postmaster General / Sam Smith : a machine readable transcription of an image</title>
+            <author>Smith, Sam</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl064</idno>
+            <idno>OCLC: 50078664</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 Nov. 27, Gainesboro, [Tennessee] [to] Postmaster General / Sam Smith</title>
+               <author>Smith, Sam</author>
+               <date when="1824-11-27">November 27, 1824</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Sam L. Smith to the Postmaster General on November 27, 1824. In the letter, Smith informs the Postmaster General that on the mail route from Sparta, Tennessee to Tompkinsville, Kentucky, one mail carrier's horse died and another became sick and could not continue the route. He is concerned about the mail not continuing on its route to Meigsville and on to Tompkinsville. Sam Smith concludes the letter by asking the Postmaster General the appropriate age for a person to become a mail carrier.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">19</note>
+               <note type="document" anchored="true">sl064</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Postal service</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Smith, Sam</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1">
+            <pb n="1" facs="sl064a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Gainesboro</name>
+                     <date when="1824-11-27">27th <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 1824</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have to report to you that a few weeks since the horse belonging to the mail carrier on the <choice>
+                  <orig>rout</orig>
+                  <reg>route</reg>
+               </choice> from  <name type="place">Sparta <choice>
+                     <abbr>Ten</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name> to <name type="place">Tompkinsville <choice>
+                     <abbr>Ky</abbr>
+                     <expan>Kentucky</expan>
+                  </choice>
+               </name> died on the road in the <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> of this office while making a trip and thereby some <del type="overstrike">delay</del>
+               <add place="supralinear">irregularity &amp; <choice>
+                     <orig>dilay</orig>
+                     <reg>delay</reg>
+                  </choice>
+               </add> was occasioned in completing the trip <del type="overstrike">that it was not on</del> And I have further to report that on last Monday the mail carrier upon the same <unclear>rout reached</unclear> &amp; this office with a foundered horse (sick) and thereby some delay has again been occasioned in completing the Trip —</p>
+            <p>I did not think in either case <del type="overstrike">that it was</del>
+               <choice>
+                  <orig>nessary</orig>
+                  <reg>necessary</reg>
+               </choice> to forward the mail by another person because I did not believe the public good required it — the mail is a very <choice>
+                  <orig>immportant</orig>
+                  <reg>important</reg>
+               </choice> one and at both times <del type="overstrike">when</del> at which the delay was occasioned there could not have been more than one or two very small packets in it <pb n="2" facs="sl064b.small.jpg"/> so that no injury could result either public or private —</p>
+            <p>I am informed by the carrier of the mail that he has not been able to call at <name type="place">Meigsville</name> for several trips for the want of a ferry boat to cross Cumberland River consequently he is <unclear>compelled</unclear>   to take a <choice>
+                  <orig>diferent rout</orig>
+                  <reg>different route</reg>
+               </choice> to Tompkinsville —</p>
+            <p>It could not be considered an <choice>
+                  <orig>intire</orig>
+                  <reg>entire</reg>
+               </choice> failure at either time not were they such occasioned by such circumstances as the Contractor could have <choice>
+                  <orig>controled</orig>
+                  <reg>controlled</reg>
+               </choice> at the time they <choice>
+                  <orig>ocured</orig>
+                  <reg>occurred</reg>
+               </choice>
+            </p>
+            <p>If the mail cannot be continued by Meigsville it is  unimportant to continue the <choice>
+                  <orig>ballance</orig>
+                  <reg>balance</reg>
+               </choice> of the <choice>
+                  <orig>rout</orig>
+                  <reg>route</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>I have the honor to be your <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Sam L Smith</name>
+               </signed>
+               <address>
+                  <addrLine>Post Master General</addrLine>
+               </address>
+               <add place="below address">
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice> It would afford me some satisfaction to know at what age a person must be to make him competent to carry the mail Sam L. Smith</add>
+               <pb n="3" facs="sl064c.small.jpg"/> Copy of a letter <lb/> to } <lb/> Postmaster <lb/> General <lb/>
+               <date when="1824-11-27">27 <choice>
+                     <abbr>Nov.</abbr>
+                     <expan>November</expan>
+                  </choice> 1824</date>
+               <lb/>
+               <hi rend="different hand, different ink">
+                  <emph>From Gainesboro</emph>
+                  <lb/>
+                  <unclear>Hertoned</unclear>
+                  <lb/> Jackson Co. <lb/>1824</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

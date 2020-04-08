@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1798 Jun. 14 Knoxville [to] Andrew Jackson   / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl011</idno>
+            <idno>OCLC: 50008529</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1798 Jun. 14 Knoxville [to] Andrew Jackson / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1798-06-14">June 14, 1798</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by John Sevier to Andrew Jackson on June 14, 1798. In the letter, Sevier tells Jackson that the Cherokee are requested to meet with Commissioners at Chota, the Cherokee capital, on June 25,  and  a treaty will likely be signed in Tellico.</note>
+               <note type="collection" anchored="true">Sir Emil Hurja Collection</note>
+               <note type="box" anchored="true">6</note>
+               <note type="folder" anchored="true">32</note>
+               <note type="document" anchored="true">sl011</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians -- Treaties</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl011a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1798-06-14">14th June 1798</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have just time to inform you, that the Indians are requested to meet the Commissioners at <name type="place">Chota</name> near <name type="place">Tellico</name>, on the 25th Instant, and is supposed the treaty will be held at the latter — <name type="person">Mr. Moore</name> is in the Neighborhood and will be here today — The bearer hereof <name type="person">Mr. James Irwin</name> is a particular friend and acquaintance of mine, permit me, to introduce him to your notice &amp; attention</p>
+            <closer>
+               <salute>I have the honor to be sir</salute>
+               <salute>Your <choice>
+                     <abbr>Mo. Obedt. Servt.</abbr>
+                     <expan>Most Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name type="person">John Sevier</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>Honorable Mr. Jackson</addrLine>
+               </address>
+               <pb n="2" facs="sl011b.small.jpg"/>
+               <address>
+                  <addrLine>Honorable <name type="person">Andrew Jackson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Mero</name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <name type="person">James Erwin</name>
+                  <choice>
+                     <abbr>Esqr.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </add>
+               <add place="below address, upside down" rend="different ink">
+                  <name type="person">
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice> Sevier</name>
+                  <lb/> Letter <lb/>
+                  <date when="1798-06-14">14th June 98</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

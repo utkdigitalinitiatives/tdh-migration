@@ -1,0 +1,163 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl646">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1836 Dec. 24, Mossey Creek, Jefferson C[oun]ty, Tennessee [to] Newton Cannon, Nashville, Tennessee / George Branner : a machine readable transcription of an image</title>
+            <author> Branner, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl646</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1836 Dec. 24, Mossey Creek, Jefferson C[oun]ty, Tennessee [to] Newton Cannon, Nashville, Tennessee / George Branner</title>
+               <author> Branner, George</author>
+               <date when="1836-12-24"> 
+			 December 24, 1836</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor Newton Cannon from George Branner, dated December 24, 1836. Branner suggests that Cannon appoint Judge Jacob Peck to be an engineer on the Charleston-Cinncinnati-Louisville Rail Road.</note>
+               <note type="collection" anchored="true">Governor Newton Cannon Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl646</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Engineering</term>
+               <term>Rail Roads Design and construction</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Branner, George</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl646a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Mossey Creek</name>
+                     <name>Jefferson <choice>
+                           <abbr>Cty</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date>24th <choice>
+                           <abbr>Decr</abbr>
+                           <expan>December</expan>
+                        </choice> 1836</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>
+                     <name>Newton Cannon</name>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>enclosed is a subscription paper drawn up and signed by a number of persons in this neighborhood. Requesting you to appoint <name>Judge Jacob Peck</name> one of the Engineers to survey the <name>Charleston</name>
+               <name>Cincinatti</name> &amp; <name>Louisville</name> Rail Road, which I hope will be approbated by you, and the appointment given</p>
+            <closer>
+               <salute>Respectfully your <choice>
+                     <abbr>Hbl Servt</abbr>
+                     <expan>Humble Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>George Branner</name>
+               </signed>
+               <pb n="2" facs="sl646b.small.jpg"/>
+               <add>George Branner <lb/> and others__ <lb/> recommendation of <lb/> Jacob Peck for <lb/>
+                  <choice>
+                     <abbr>apt</abbr>
+                     <expan>appointment</expan>
+                  </choice> of <choice>
+                     <abbr>Asst</abbr>
+                     <expan>Assistant</expan>
+                  </choice> Engineer</add>
+               <add>1836</add>
+               <address>
+                  <addrLine>Mossey Creek Ten.</addrLine>
+                  <addrLine>24th Decr___ 1836</addrLine>
+               </address>
+               <add>paid _18 3/4</add>
+               <address>
+                  <addrLine>His Excellency <choice>
+                        <abbr>N.</abbr>
+                        <expan>Newton</expan>
+                     </choice> Cannon</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

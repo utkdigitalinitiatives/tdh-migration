@@ -1,0 +1,100 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl591">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Aug. 18 [to] Mrs. Spencer / Aaron Brown   : a machine readable transcription of an image</title>
+            <author>Brown, Aaron</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl591</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Aug. 18 [to] Mrs. Spencer / Aaron Brown</title>
+               <author>Brown, Aaron</author>
+               <date when="1847-08-18">August 18, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Tennessee Governor Aaron V. Brown to a Mrs. Spencer, dated August 18, 1847.  The Governor tells Mrs. Spencer that he is not able to grant a petition for relief of her husband from the charges made against him at this time.  </note>
+               <note type="collection" anchored="true">Governor Aaron V. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl591</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Brown, Aaron V. (Aaron Venable), 1795-1859</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90000566"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brown, Aaron V. (Aaron Venable), 1795-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl591a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>at office</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>augst</abbr>
+                     <expan>august</expan>
+                  </choice>. 18th 1847</date>
+               <salute>Respective Madam</salute>
+            </opener>
+            <p>I regret exceedingly not being able consistently with a sense of official duty to grant the petition for the relief of your husband at the present time.   I will hold it up for further consideration in reference to his health &amp; any further statements in his behalf which may be presented.  I would recommend that you apply to some of the public <add>or businesses of <unclear>cincinatti</unclear>
+               </add> men known in this city, for the character of your husband for industry &amp; integrity &amp; that they believe in his innocence of the charge against him.  </p>
+            <closer>yours respectfully <signed>Aaron V. Brown</signed>
+               <add>Mrs. Spencer <lb/> sent to me</add>
+               <pb n="2" facs="sl591b.small.jpg"/>
+               <add>To whom it may concern</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

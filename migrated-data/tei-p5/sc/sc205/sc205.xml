@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc205">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Dec. 18, New York [to] Albert G. Welker, Knoxville, Tennessee / Dorenny Nixon : a machine readable transcription of an image</title>
+            <author> Nixon, Dorenny</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc205</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Dec. 18, New York [to] Albert G. Welker, Knoxville, Tennessee / Dorenny Nixon </title>
+               <author>Nixon, Dorenny</author>
+               <date when="1848-12-18">December 18, 1848</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 18, 1848 to Albert G. Welker regarding a draft note on the account of J. B. Morgan.</note>
+               <note type="collection" anchored="true">Welker Letters</note>
+               <note type="box" anchored="true">MS-271</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc205</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Nixon, Dorenny</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" xml:id="Letters">
+            <pb n="1" facs="sc205a.small.jpg"/>
+            <opener>Paid <address>
+                  <addrLine>New York</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice>. 18th 1848</date>
+               <name>A. G. Welker</name>
+               <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <address>
+                  <addrLine>
+                     <name>Knoxville, <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>.</name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice>. Sir</salute>
+            </opener>
+            <p>Your favor of 8th <choice>
+                  <abbr>inst </abbr>
+                  <expan>instant</expan>
+               </choice> is at hand concerning draft on <choice>
+                  <abbr>Mess</abbr>
+                  <expan>Messieurs</expan>
+               </choice>. N &amp; J <name>Seymour</name> for Ninety 63/100 doll. (90.63/100) on <choice>
+                  <abbr>acct</abbr>
+                  <expan>account</expan>
+               </choice> note of <name>J B Morgan</name> which is to his credit</p>
+            <p>Please bear in mind that the original note of Mr. Morgan ready with exchange on N Y, &amp; on final settlement. You must make him pay for exchange on your remittances. We hope you will be able to collect the balance remaining unpaid, at an early day_</p>
+            <closer>
+               <salute>Yours Respectfully</salute>
+               <signed>
+                  <name>Dorenny Nixon</name>
+                  <name>W H Harris</name>
+               </signed>
+               <pb n="2" facs="sc205b.small.jpg"/>
+               <add>Paid<address>
+                     <addrLine>
+                        <name>Albert G. Welker <choice>
+                              <abbr>Esq</abbr>
+                              <expan>Esquire</expan>
+                           </choice>
+                        </name>Knoxville</addrLine>
+                     <addrLine>
+                        <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

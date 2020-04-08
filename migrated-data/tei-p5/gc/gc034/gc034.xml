@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Apr. 30, Alexandria, Louisiana [to] James M. King, Murfreesboro, Tennessee / Thomas Moore : a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc034</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Apr. 30, Alexandria, Louisiana [to] James M. King, Murfreesboro, Tennessee / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1837-04-30">April 30, 1837</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Thomas Moore dated April 30, 1837 to his cousin James M. King.  Moore tells King of the failure of many banks in Louisiana, and that many lives  had been interrupted by a virtually paralyzed commercial community.  According to Moore's letter, money is scarce, and his future, as well as many other's  is uncertain.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1837</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">gc034</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letter</term>
+               <term>Financial, Personal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc034a.small.jpg"/>
+            <opener>
+               <add>
+                  <choice>
+                     <abbr>T</abbr>
+                     <expan>Thomas</expan>
+                  </choice>.O. Moore 1837</add>
+               <add>25</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> James M King</name>
+                     <name>Murfreesboro</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>Mail</add>
+               <add>
+                  <figure>
+                     <figDesc>Alexandria LA 37</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc034b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Alexa</abbr>
+                        <expan>Alexandria</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>30th April 1837</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> I again address you &amp; hope this will find you all in the enjoyment of that inestimable blessing &amp; good health  I wrote Sarah some weeks since but have had no answer yet, I have no news more than what is common I presume throughout the union (viz, The unprecedented distress in the <choice>
+                  <orig>monied</orig>
+                  <reg>moneyed</reg>
+               </choice>
+               <choice>
+                  <orig>affars</orig>
+                  <reg>affaires</reg>
+               </choice> of the country, your Country of course from the failure of one of your banks and the banking house of <name>yeatman &amp; Woods</name> must shun in the calamity, a great number of failures have <choice>
+                  <orig>occured</orig>
+                  <reg>occurred</reg>
+               </choice> in <name type="place">
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name> , such times have never been seen all confidence last, the commercial community seems to be completely paralyzed nothing doing, merchants will not even pay <choice>
+                  <orig>frieght</orig>
+                  <reg>freight</reg>
+               </choice> on Cotton to have it to sell, among those who have failed are <name>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. Barrett</name> &amp; my former merchants, then <name type="person">Hermann Briggs </name>&amp;. Co.  when I went after the failure of  the other house, the latter house failed for five millions, thus came <name>S &amp; L Dick</name> for fifteen million.  <name>Burke Wall</name> &amp; Co. amount not yet ascertained, <name>Staunton Buckuer</name> &amp; Co., <name>Leigh &amp; Maddox</name> all larger houses &amp; a great many others  not recollected &amp; too numerous to mention, I am told the <name>Mississippi</name>   planters are going daily, our planters will hold on particularly on <name type="place">red river</name>
+               <pb n="3" facs="gc034c.small.jpg"/>  there are not more than two or three in our parish that are much distressed but money is remarkably scarce in consequence of the <add>timidity</add> Banks to discount, we all hope for better times.</p>
+            <p>We have had an unusual dry winter &amp; spring not rain enough to bring up cotton I never have had so bad a stand &amp; prospects so far bad for a cotton crop as my cotton <choice>
+                  <orig> Cant </orig>
+                  <reg>Can't</reg>
+               </choice> Come up we have not had such a spring for thirty years.  Every thing is falling rapidly except pork though that will soon fall Cotton is at this time worth from 6 to 10 cents I was fortunate enough to get my whole crop off at 16 <choice>
+                  <abbr>cts</abbr>
+                  <expan>cents</expan>
+               </choice> sound &amp; that very day it commenced falling — negroes are selling men at 800 &amp; 850 women in proportion.  Have you heard lately from Carolina I have not since I left <choice>
+                  <abbr/>
+                  <expan>Tennessee</expan>
+               </choice>  Bethiah joins me in best love to cousin patsy Sarah Walter Jane &amp; aunt Miss Martha &amp; Elizabeth the balance of the family &amp; friends.  in hast as I am on the jury May god bless you all</p>
+            <closer>
+               <choice>
+                  <abbr>Yr</abbr>
+                  <expan>Your</expan>
+               </choice> relative &amp; <choice>
+                  <orig>frind</orig>
+                  <reg>friend</reg>
+               </choice>
+               <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moor</signed>
+               <add place="bottom of page">write me my negroes are all well</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

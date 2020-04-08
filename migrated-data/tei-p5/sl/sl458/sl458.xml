@@ -1,0 +1,113 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl458">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 Jan. 21, Columbia, Tennessee [to Mr.] Hogan [and Mr.] Heiss, Nashville, Tennessee / James K. Polk   : a machine readable transcription of an image</title>
+            <author>Polk, James K.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl458</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1844 Jan. 21, Columbia, Tennessee [to Mr.] Hogan [and Mr.] Heiss, Nashville, Tennessee / James K. Polk</title>
+               <author>Polk, James K.</author>
+               <date when="1844-01-21">January 21, 1844</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from James K. Polk to Mr Hogan and Mr Heiss, dated January 21, 1844. Polk is questioning why his name appears above Martin Van Buren's in the Union newspaper. Polk believes that Van Buren will be the Democratic candidate for president no himself.</note>
+               <note type="collection" anchored="true">Heiss Papers</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">sl458</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Polk, James K., 1767-1845</term>
+               <term>Van Buren, Martin, 1782-1862</term>
+               <term>Presidential elections</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80145740"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Polk, James K. (James Knox), 1795-1849</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl458a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Columbia</name>
+                     <date>
+                        <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 21st 1844</date>-</addrLine>
+               </address>
+               <add>Private</add>
+               <salute>Gentleman:</salute>
+            </opener>
+            <p>I neglected when I was at <name>Nashville</name> to suggest to you the propriety of placing Mr <name>Van-Buren</name>'s name at the Head of your column in your paper, as well mine__ it is now certain that Mr Van-Buren will be the candidate,__ and some of my friends out of the state__ do not understand- why it is, that my name is at the head of the column of the Union &amp; Mr Van-Buren's is not. Some of my opponents- or rather some of those who urge the nomination of another for the Vice Presidency,- are attempting, to use the fact that Van-Buren's name has  not been hoisted in your paper to my prejudice. If you see no objections therefore- I hope you will run-up his name__ subject of course to the decision of the National Convention__</p>
+            <closer>
+               <salute>I am Very Respectfully <lb/> Your <choice>
+                     <abbr>obt Sert</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>James K Polk</name>___</signed>
+               <address>
+                  <addrLine>Messrs-<name>Hogan</name> &amp; <name>Heiss</name>
+                  </addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

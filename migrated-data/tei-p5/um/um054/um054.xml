@@ -1,0 +1,179 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Sep. 19, Steamer Palo Alto [to] Ed[ward] E Porter, South Hanover, Ind[ian]a / E. H. Porter: a machine readable transcription of an image</title>
+            <author>Porter, E. H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um054</idno>
+            <idno>OCLC: 50295901</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Sep. 19, Steamer Palo Alto [to] Ed[ward] E Porter, South Hanover, Ind[ian]a / E. H. Porter</title>
+               <author>Porter, E. H.</author>
+               <date when="1848-09-19">September 19, 1848</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">The following document is a letter written by E. E. Porter, addressed to his son Edward, on September 19, 1848.  The elder Porter writes this letter aboard a steamer in the midst of his travels.  He talks about the places he has been and provides Edward with the good news that he may have found a cure for the son's illness.</note>
+               <note type="collection" anchored="true">Porter-Rice Family Letters MS-154 (letters 1846-1849)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um054</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States -- Travel and description</term>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Porter, E. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um054a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Steamer Palo Alto <date when="1848-09-19">19th Sept / 48</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <name type="person">Edward</name> &amp; <name type="person">
+                     <choice>
+                        <abbr>Benj</abbr>
+                        <expan>Benjamin</expan>
+                     </choice>
+                  </name>
+               </salute>
+            </opener>
+            <p>After we left you on the bank at <name type="place">Hanover Landing</name> We had a very Pleasant Trip to <name type="place">
+                  <choice>
+                     <abbr>Cin</abbr>
+                     <expan>Cincinnati</expan>
+                  </choice>
+               </name> on the Ben Franklin The next morning We took a <choice>
+                  <orig>Carrage</orig>
+                  <reg>Carriage</reg>
+               </choice> and went to <name type="place">walnut Hills</name> to Breakfast.  I found the Phoenix Landing and would Leave for <name type="place">Memphis</name> the next day (last Thursday) and I thought of going on her but when the Time came for her starting I found She had so much Load on that it was doubtful whether she would be able to get out, as the river is so very Low &amp; I concluded to wait for a <choice>
+                  <orig>smaler</orig>
+                  <reg>smaller</reg>
+               </choice> Boat or a rise in the river — If I had met <name type="person">the Stephens</name> as I wished I could not have <choice>
+                  <orig>gon</orig>
+                  <reg>gone</reg>
+               </choice> home on her as she is now aground below <name type="place">Louisville</name>
+            </p>
+            <p>I am on a <choice>
+                  <orig>medeum</orig>
+                  <reg>medium</reg>
+               </choice> sized stern wheel <name type="place">St Louis</name>  Boat which is making a Trip to Memphis as there are so many <choice>
+                  <orig>Passangers</orig>
+                  <reg>Passengers</reg>
+               </choice> &amp; so much Freight for that place — We left <choice>
+                  <abbr>Cin</abbr>
+                  <expan>Cincinnati</expan>
+               </choice> 4 P.M yesterday and have been aground 10 Hours on Warsaw Bar but are now under way Just above <name type="place">Carralton</name>— Your mother will wait for more water if it is 3 weeks She has a very pleasant Boarding place <pb n="2" facs="um054b.small.jpg"/> With <name type="person">Mrs Williams</name>   the 3d House from <name type="person">Mrs Vails</name> towards the <choice>
+                  <orig>Semanary</orig>
+                  <reg>Seminary</reg>
+               </choice> —</p>
+            <p>
+               <name type="person">Marys</name> School commenced on Yesterday — She is rather low spirited.  I wish she liked her Teachers Better — I have only entered her <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> April which will be soon Here and we Hope then all to Meet again — Dear Edward I found on reaching <choice>
+                  <abbr>Cin</abbr>
+                  <expan>Cincinnati</expan>
+               </choice> that <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Mussey</name>   had returned from the East and went and consulted with him about your Head and I am Happy in being able to Say that He gives reason to Hope that It can be cured — He Says that He has had 5 or 6 cases and has cured them all — He has given me medicines &amp; Direction which I will send with your Books if The Boat does not stop at <name type="place">Madison</name>  Long Enough to get them prepared — You may ask who is <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> Mussey?  That you may have confidence so as to carry out his Prescriptions <choice>
+                  <orig>carfully</orig>
+                  <reg>carefully</reg>
+               </choice> I will say that He perhaps the most successful Physicians &amp; (Especially) <choice>
+                  <orig>Surgans</orig>
+                  <reg>Surgeons</reg>
+               </choice> in the <name type="place">United States</name>, Two cases of his <choice>
+                  <orig>opperations</orig>
+                  <reg>operations</reg>
+               </choice> we have seen besides He is Pious good man &amp; Pretends to no more than He is Dinner is coming on and I can write no more at this Time — May God Bless you both —</p>
+            <closer>
+               <salute>Sincerely yours</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>E. H.</abbr>
+                        <expan>Ethel Henry</expan>
+                     </choice> Porter</name>
+               </signed>
+               <pb n="3" facs="um054c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Ed</abbr>
+                           <expan>Edward</expan>
+                        </choice> E Porter</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">South Hanover</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Inda</abbr>
+                           <expan>Indiana</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

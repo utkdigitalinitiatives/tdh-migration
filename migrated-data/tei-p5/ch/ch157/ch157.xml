@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch157">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Entries from the Cherokee Supreme Court Docket, 1823-1834, New Echota]      1828 Nov. 6 : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">ch157</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Entries from the Cherokee Supreme Court Docket, 1823-1834, New Echota]    1828 Nov. 6</title>
+               <date when="1828-11-06">November 6, 1828</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is an excerpt from the Cherokee Supreme Court docket for the years 1823 to 1834.  The Cherokee Supreme Court convened annually in New Echota beginning on the second Monday in October and lasting three weeks.  This is an excerpt from Thursday November 6, 1828, on which dated a case involving debt was heard before the court. Entries from this Supreme Court docket cover items ch100-ch163.</note>
+               <note type="collection" anchored="true">Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">ch157</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal Document</term>
+               <term>Cherokee Nation</term>
+               <term>Cherokee Indians--Legal status, laws, etc.</term>
+               <term>Georgia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch157a.small.jpg"/>
+            <head>
+               <choice>
+                  <orig>Thuresday</orig>
+                  <reg>Thursday</reg>
+               </choice>
+               <date when="1828-11-06">6th <choice>
+                     <abbr>Nov.</abbr>
+                     <expan>November</expan>
+                  </choice> 1828</date>
+            </head>
+            <p>The Court according to adjournment.  Present The Judges <name>A. Ross</name>. <name>J. Huss</name> and <name>W. S. Adair</name>.</p>
+            <p>
+               <name>Thomas Pettit</name> &amp; <lb/>
+               <del type="overstrike">David Vann</del>
+               <lb/> vs <lb/>
+               <name>John Downing</name>
+               <lb/> Executor of <name>George Downing</name>
+               <choice>
+                  <abbr>decd.</abbr>
+                  <expan>deceased</expan>
+               </choice>
+            </p>
+            <p>On a plea of Debt, arising from <choice>
+                  <orig>Copartership</orig>
+                  <reg>Copartnership</reg>
+               </choice>  in trade amounting to $4271.00</p>
+            <p>The Court finds for the Defendant</p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Witnesses attendance</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Mary Alberty</name> 5 days at <name>hickory Log</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">$3.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">at <name>New Echota</name> __ 7 days</cell>
+                     <cell role="data" rows="1" cols="1">5.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Salley Allberty</name> ___ 7 "</cell>
+                     <cell role="data" rows="1" cols="1">5.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Stephen Whitmire</name> 15 "</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Thomas Saunders</name> 15</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Wind ___ 15</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>James Doherty</name> 15</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Nelly Downing</name> 15</cell>
+                     <cell role="data" rows="1" cols="1">11.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$70.50</cell>
+                  </row>
+               </table>
+               <add>
+                  <unclear>deturo?</unclear> to <name>Eli Harlin</name>
+                  <lb/> Execution issued <lb/>
+                  <date>13th <choice>
+                        <abbr>Decr</abbr>
+                        <expan>December</expan>
+                     </choice>_ 1828</date>
+               </add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl309">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841 Feb. 22, Washington [City, D. C.] [to] A. Fergusson, Carthage, Ten[nessee] / W. B. Campbell   : a machine readable transcription of an image</title>
+            <author>Campbell, W. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl309</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1841 Feb. 22, Washington [City, D. C.] [to] A. Fergusson, Carthage, Ten[nessee] / W. B. Campbell</title>
+               <author>Campbell, W. B.</author>
+               <date when="1841-02-22">February 22, 1841</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from W. B. Campbell to A. Fergusson, dated February 22, 1841. Campbell reports that a pension claim has been denied. It was filed by the heirs of a Revolutionary War soldier, Col. H. Dixon.</note>
+               <note type="collection" anchored="true">Fergusson Papers </note>
+               <note type="box" anchored="true">IV-G-1 b2</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl309</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War pensions</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007144179"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Campbell, William Bowen, 1807-1867</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl309a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1841-02-22">February 22 1841</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <salute>My Dear Sir,</salute>
+            <p>Your letter of <del type="overstrike">the letter</del> of the 11th <choice>
+                  <abbr>inst</abbr>
+                  <expan>instant</expan>
+               </choice> has  just been <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice>, and I hasten to state to you the condition of the claim of the Heirs of <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> H. Dixon</name>
+               <choice>
+                  <abbr>decd</abbr>
+                  <expan>deceased</expan>
+               </choice>__ I have passed the <unclear>numbers</unclear> of the committee on Revolutionary claims to  <choice>
+                  <orig>dicision</orig>
+                  <reg>decision</reg>
+               </choice> of that claim, but I have found them opposed to doing any thing this session as they <choice>
+                  <orig>alledged</orig>
+                  <reg>alleged</reg>
+               </choice> that if it was reported upon, no bill could be passed at this session. I have however pressed them to examine the papers &amp; see if they would make a <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> report upon it, and to day I have been informed that they will decide against the claim on the ground that they will presume payment, or account of the fact that a portion has been paid &amp; the great length of time which has been permitted to elapse. They say they will require explanation &amp; evidence of the cause of the <pb n="2" facs="sl309b.small.jpg"/> delay in making the claim, and how it was that one year was paid,_ They say that the papers which would show the fact of the payment of this claim were burned <del type="overstrike">by</del> by the <choice>
+                  <orig>Brittish</orig>
+                  <reg>British</reg>
+               </choice> in 1814 at the time this capitol was sacked and burned. I again repeat that I have done all in my power to get this claim <unclear>along</unclear> and shall continue to do so as long as I continue to be in a position to aid in this matter.</p>
+            <closer>
+               <salute>I am your <choice>
+                     <abbr>Obt Svt</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">W B Campbell</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">A Fergusson</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="bottom of page">I have asked the committee, to make no report at this session on the case of Col Dixons heirs, unless they can make a favourable one So that additional <pb n="3" facs="sl309c.small.jpg"/> evidence can be procured before the next session</add>
+               <signed>WB<choice>
+                     <abbr>C</abbr>
+                     <expan>Campbell</expan>
+                  </choice>_</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

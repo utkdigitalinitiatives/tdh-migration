@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Writ] 1793 July / Andrew Ewing: a machine-readable
+			 transcription of an image</title>
+            <author>Ewing, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc030</idno>
+            <idno>OCLC: 50395452</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Writ] 1793 July / Andrew Ewing</title>
+               <author>Ewing, Andrew</author>
+               <date when="1793-07">July 1793</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a writ dated July 1793 and
+				signed by Andrew Ewing. The writ orders James Cole to pay Howel Tatum the sum
+				of 69 pounds, 14 shillings, and 4 pence half penny.</note>
+               <note type="Repository"> Special Collections Library, The University
+				of Tennessee, Knoxville, TN</note>
+               <note type="Collection">Davidson County, Court of Pleas  Quarter
+				Sessions </note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-1194</note>
+               <note type="Document">sc030</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal Documents</term>
+               <term>Ewing, Andrew</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ewing, Andrew</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc030a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Territory of the United Staets of America South of the
+				  River Ohio</addrLine>
+                  <addrLine>To the Sheriff of Davidson County</addrLine>
+               </address>
+               <salute>Greeting</salute>
+            </opener>
+            <p>Whereas Howel Tatum 
+			 <abbr>Esqr.</abbr> in our Court of pleas  Quarter Sessions held
+			 for the County of Davidson 
+			 <date when="1793-04">April Term 1793</date> did by Writ of
+			 Original Attachment Recover Against James Cole <unclear>Montflorence</unclear>
+               <choice>
+                  <abbr>Esqr.</abbr>
+                  <expan>Esquire</expan>
+               </choice> the Sum of Sixty nine pounds
+			 fourteen Shilings  four pence half penny With the <unclear>? </unclear>
+               <choice>
+                  <orig>Indorsed</orig>
+                  <reg>Endorsed</reg>
+               </choice> As to us Appears of Record. Which Writ of
+			 Attachment Was Levied on the Remaining <choice>
+                  <orig>Ballance</orig>
+                  <reg>Balance</reg>
+               </choice> of
+			 the One fourth part of <unclear/> Lick After Andrew Jackson is
+			 Satisfied,.... you Are therefore Commanded that you Expose to
+			 <unclear>Sale</unclear> Such <choice>
+                  <orig>Ballance</orig>
+                  <reg>Balance</reg>
+               </choice> of the one
+			 fourth part of <unclear>Neely</unclear> Lick As Shall Remain After Satisfying
+			 the Judgment Obtained by Mr. Jackson, Or Otherwise, as the Circumstance of the
+			 Case may Require Cause to be made,  Secured, Such Remaining
+			 <choice>
+                  <orig>Ballance</orig>
+                  <reg>Balance</reg>
+               </choice>
+               <choice>
+                  <abbr>Aforesd.</abbr>
+                  <expan>Aforesaid</expan>
+               </choice> So that the Same may Apply
+			 Towards Satisfying to the 
+			 <choice>
+                  <abbr>sd.</abbr>
+                  <expan>said</expan>
+               </choice> Tatum this Judgment Above Recited; And
+			 have you the Same before the Justices of over Couth of pleas and Quarter
+			 Sessions to be held for the County of Davidson at the Courthouse in the Town of
+			 <unclear>
+                  <choice>
+                     <abbr>Nahsll</abbr>
+                     <expan>Nashville</expan>
+                  </choice>
+               </unclear> On the Second Monday
+			 in 
+			 <date when="--10">October</date> next Ready to Render to the
+			 said Tatum Toward Satisfying his Debt  Costs 
+			 <choice>
+                  <abbr>Aforesd.</abbr>
+                  <expan>Aforesaid</expan>
+               </choice> fact not Witness Andrew Ewing
+			 Clerk of our said Court of Davidson at Office at 
+			 <choice>
+                  <abbr>Nahsll</abbr>
+                  <expan>Nashville</expan>
+               </choice> on the Second Monday in 
+			 <date when="1793-07">July 1793</date>
+            </p>
+            <closer>
+               <signed>Andrew Ewing</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

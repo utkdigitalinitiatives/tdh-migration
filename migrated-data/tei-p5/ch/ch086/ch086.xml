@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch086">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter], 1834 Apr. 3, Aquohee Dist[rict], Cherokee Nation to the gentlemen of the [Cherokee ?] Delegation / Sam[ue]l Dick : a machine-readable transcription</title>
+            <author>Dick, Samuel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch086</idno>
+            <idno>OCLC: 44869737</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter], 1834 Apr. 3, Aquohee Dist[rict], Cherokee Nation to the gentlemen of the [Cherokee ?] Delegation / Sam[ue]l Dick</title>
+               <author>Dick, Samuel</author>
+               <date when="1834-04-03">April 3, 1834</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">Letter dated April 3, 1834 from Samuel Dick to the (Cherokee ?) Delegation asking them to assist him with a property dispute. Dick claims that he was turned off the land to which he has the rightful title by David Ross and Thomas Berry. He has submitted his case to the Enrolling Agent, Major Benjamin F. Currey and also to Colonel Montgomery, but has received no satisfaction.</note>
+               <note type="repository" anchored="true"> The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">4</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">ch086</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Georgia</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dick, Samuel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch086a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Aquohee <choice>
+                              <abbr>Dist.</abbr>
+                              <expan>District</expan>
+                           </choice>
+                        </name>
+                        <name>Cherokee Nation</name>
+                     </addrLine>
+                  </address>
+                  <date when="1834-04-03">April 3rd. 1834</date>
+               </dateline>
+               <salute>To the Gentlemen of The Delegation <choice>
+                     <abbr>Messrs.</abbr>
+                     <expan>Messieurs</expan>
+                  </choice>
+                  <name type="person"> 
+                     <reg>John?</reg> Ross</name>. <name type="person">Taylor McCoy</name>, <name type="person"> 
+                     <reg>Conard?</reg> Timson</name>
+                  <name type="person">Hair Conard</name>
+                  <lb/> Gentlemen.
+                  </salute>
+            </opener>
+            <p>I beg leave respectfully to represent to you The injustice and abuse I have suffered of late through operation and under the authority or pretended authority of the <choice>
+                  <orig>Enroling</orig>
+                  <reg>Enrolling</reg>
+               </choice> Agent <name type="person">Major Curry</name> together with the pretence of the operation of the laws of <name type="place">Georgia</name>.  I have made application for redress to <name type="person">Major Curry</name> but could get no attention nor satisfaction whatever.  I <del type="overstrike">hope  you will take <unclear/>
+               </del> have also applied to <name type="person">Col. Montgomery</name> but he says he has nothing to do in the matter and <choice>
+                  <orig>refferred</orig>
+                  <reg>referred</reg>
+               </choice> all such business to the Enrolling Agent.  I hope you will represent my case to the proper department of Government as I am now turned out of house  field old Lame  helpless having no place to live at.</p>
+            <p>The following is a statement of the case.  My field which I have occupied about fourteen years without dispute or molestation is situated on the <name type="place">Unicoy Road</name> about a mile within the <name type="place">Georgia</name> Charter line.</p>
+            <p>The field was enrolled by <name type="person">David Ross</name> under pretence that he had purchased it from <name type="person">
+                  <choice>
+                     <abbr>Thos.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Berry</name> a white man having no right in the nation and that <name type="person"> 
+                  <reg>Thomas</reg> Berry</name> had <choice>
+                  <abbr>bot.</abbr>
+                  <expan>bought</expan>
+               </choice> it of my son <name type="person"> 
+                  <reg>Thompson Dick?</reg> Thompson</name>.  But <name type="person"> 
+                  <reg>Thompson Dick?</reg> Thompson</name>
+               <choice>
+                  <orig>denys</orig>
+                  <reg>denies</reg>
+               </choice> even making any such sale to <name type="person"> 
+                  <reg>Thomas'</reg> Berry</name>.  And if he had done so that ought not to alienate the field from me as he has no title whatever to it.  I will forward with this some certificates which I hope will be attended to by the Government.</p>
+            <closer>
+               <salute>I am your <choice>
+                     <abbr>obt. Sert.</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Saml  Dick</name>
+               </signed> his <signed>X</signed> mark<lb/>Test <signed>
+                  <name type="person">J.D. Wofford</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="ch086b.small.jpg"/>
+            <p>
+               <hi>No.7</hi>
+            </p>
+            <p>
+               <name type="person">Saml Dick</name> to the Delegation.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

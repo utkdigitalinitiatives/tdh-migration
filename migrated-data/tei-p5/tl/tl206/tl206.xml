@@ -1,0 +1,162 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl206">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1827 Dec. 4, Jackson [to] The Governor [Sam Houston]  of Tennessee at Nashville / W[illia]m Harris: a machine readable transcription of an image</title>
+            <author>Harris, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl206</idno>
+            <idno>OCLC: 49931146</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1827 Dec. 4, Jackson [to] The Governor [Sam Houston]  of Tennessee at Nashville / W[illia]m Harris</title>
+               <author>Harris, William</author>
+               <date when="1827-12-04">December 4, 1827</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">The following document is a letter written to Tennessee Governor Sam Houston (1827-1829) from William Harris in Jackson, TN.  Harris writes in regards to a murder trial he witnessed as clerk of the Circuit Court of Madison.  Harris urges the governor to exhibit clemency, particularly in regards to the branding sentence, for the defendant, a Doctor Wright.  </note>
+               <note type="collection" anchored="true">Governor Sam Houston Correspondence</note>
+               <note type="box" anchored="true"> Brown - White, b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">tl206</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government To 1865</term>
+               <term>Trials (Murder)</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Harris, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl206a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                     <date when="1827-12-04">
+                        <choice>
+                           <abbr>Decr.</abbr>
+                           <expan>December</expan>
+                        </choice> 4th. 1827</date>.</addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Having as Clerk of the Circuit Court of <name type="place">Madison</name>, witnessed the trial of Wright  for the murder of <name type="person">Wesley Ratcliff</name>. I am induced by the strong interest I take in the fate of <name type="person">Doctor Wright</name>, to press at your hands for a remission of <choice>
+                  <orig>somuch</orig>
+                  <reg>so much</reg>
+               </choice> of his punishment as relates to the Branding — The Character proved by Wright and the Circumstances of the case make it one of <choice>
+                  <orig>doubtfull</orig>
+                  <reg>doubtful</reg>
+               </choice> manslaughter, in as much that the Jury were much divided in opinion, and while in the act of Rendering their verdict solicited mitigation of the punishment, so far as might be practicable, I believe ⁁<add place="supralinear">that</add> in soliciting <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> interferences of execution Clemency in behalf of Doctor Wright, I express the wishes of the Jury and of many of our most respectable Citizens</p>
+            <p>I am Dear Sir with sentiments of high esteem</p>
+            <closer>
+               <salute>Your friend and <choice>
+                     <abbr>Obet. Servt</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name type="person">
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William Harris</expan>
+                        </choice>Harris</name>
+                  </emph>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl206b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>To his Excellency</addrLine>
+                  <addrLine>The Governor of</addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+                  <addrLine>at <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+               <add place="right margin">
+                  <address>
+                     <addrLine>Harris</addrLine>
+                     <addrLine>
+                        <date when="1827-12-04">
+                           <choice>
+                              <abbr>Decem</abbr>
+                              <expan>December</expan>
+                           </choice> 4. 1827</date>
+                     </addrLine>
+                  </address>
+               </add>
+               <add place="top, left">
+                  <name type="person">
+                     <choice>
+                        <abbr>Gov.</abbr>
+                        <expan>Governor</expan>
+                     </choice> Sam Houston</name>
+                  <lb/> B1-f1</add>
+               <add place="bottom">Wm Harris <lb/>
+                  <date when="1827-12-04">
+                     <choice>
+                        <abbr>Decr</abbr>
+                        <expan>December</expan>
+                     </choice> 4 1827</date>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc232">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1847 Feb. 20 [to] John Swan / [signed by] Hewhitt &amp; Gant : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc232</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Receipt] 1847 Feb. 20 [to] John Swan / [signed by] Hewhitt &amp; Gant</title>
+               <date when="1847-02-20"> 
+			 February 20, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a receipt dated February 20, 1847 written by Hewhitt &amp; Gant in the amount of fifty-two dollars and seventy eight cents as the result of a judgement in the case of Luke Lea v. John Swan.</note>
+               <note type="collection" anchored="true">John Swan Receipt</note>
+               <note type="box" anchored="true">New Accessions</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc232</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Court records</term>
+               <term>Receipts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc232a.small.jpg"/>
+            <p>Received of <name>Luke Lea</name> fifty two dollars and Seventy eight cents, the amount, except the costs of the judgement rendered in the Supreme court at <name>Knoxville</name>
+               <name>Tennessee</name>, on the <date>12th day of October 1846</date> in the case of Luke Lea against <name>John Swan</name>.  This <date>20th of February 1847</date>.</p>
+            <closer>
+               <name>Hewhitt &amp; Gant</name>
+               <choice>
+                  <abbr>Sols</abbr>
+                  <expan>Solicitors</expan>
+               </choice>, for John Swan <pb n="2" facs="sc232b.small.jpg"/>
+               <address>
+                  <addrLine>Hewhitt &amp; Gants Receipt for John Swan</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

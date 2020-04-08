@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl735">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter]  1796 May 6, Knoxville [Tennessee, to] Colonel White et.al. / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl735</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter]  1796 May 6, Knoxville [Tennessee, to] Colonel White et.al. / John Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1796-05-06">May 6, 1796</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor John Sevier dated May 6, 1796. The letter is to Colonels White, Kelly, and Weir. Sevier writes that he is going to be in Washington D.C. for about a month. He asks that the Colonels keep a close watch on the frontier and on the Cherokees.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl735</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Sevier, John, 1745-1815 Correspondence.</term>
+               <term>Cherokee Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl735a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>6 May 1796</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>I am under expectation <del type="overstrike">that</del> I shall be ready to sit out for <name>washington</name>, some time to day or early tomorrow morning shall I suppose be absent from this place, three or four weeks; In the mean time I beg you to have a <choice>
+                  <orig>watchfull</orig>
+                  <reg>watchful</reg>
+               </choice> eye towards the frontiers, and <del type="overstrike">their</del> your <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> the <name>Cherokee</name>s.</p>
+            <p>If any thing of moment should occur, let me know by express as soon as possible</p>
+            <closer>
+               <salute>I am respectfully sir <lb/> your <choice>
+                     <abbr>mo obedt sert</abbr>
+                     <expan>most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <add>Circular</add>
+               <address>
+                  <addrLine>Colonels <name>White</name>
+                     <del type="overstrike">&amp;</del>
+                     <name>Kelly</name>
+                  </addrLine>
+                  <addrLine>and <name>Weir</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl735b.small.jpg"/>
+               <add>Copy of Circular letters <lb/> to Colonels, White, Kelly, <lb/> &amp; Weir <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 15 6th May 1796</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

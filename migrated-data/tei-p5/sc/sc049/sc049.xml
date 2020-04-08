@@ -1,0 +1,174 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Writ] 1778 May 12, State of No[rth] Carolina [to] Sheriff of
+			 Washington [County] / [signed by] John Sevier : a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc049</idno>
+            <idno>OCLC: 50451229</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Writ] 1778 May 12, State of No[rth] Carolina [to] Sheriff of
+				Washington [County] / [signed by] John Sevier </title>
+               <date when="1778-05-12">May 12, 1778</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a writ issued by the state of
+				North Carolina and signed by John Sevier on May 12, 1778. The writ orders the
+				sheriff of Washington County to locate James Robertson and bring him forth to
+				appear in court regarding a charge brought against him by Zachariah
+				Isbell.</note>
+               <note type="Collection">John Sevier</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-368</note>
+               <note type="Document">sc049</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>North Carolina</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Legal documents</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Autographer http://id.loc.gov/vocabulary/relators/ato">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc049a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of 
+				  <name type="place">
+                        <choice>
+                           <abbr>No</abbr>
+                           <expan>North</expan>
+                        </choice>
+					 Carolina</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>To the <choice>
+                  <orig>Sherriff</orig>
+                  <reg>Sheriff</reg>
+               </choice> of 
+			 <name type="place">Washington</name>
+               <choice>
+                  <abbr>c</abbr>
+                  <expan>et cetera</expan>
+               </choice>, we Command you That you take
+			 the Body of 
+			 <name type="person">James Robertson 
+				<choice>
+                     <abbr>Esqr.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </name> if he be found Within
+			 your <choice>
+                  <orig>Bailwicke</orig>
+                  <reg>Bailiwick</reg>
+               </choice> and him safely keep so that you
+			 have his Body before the Justices of Our Next Court to be held on the 4th
+			 Monday In 
+			 <date when="--05">may</date> next, then and there to answer 
+			 <name type="person">Zachariah Isbell 
+				<choice>
+                     <abbr>Esqr.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </name> of a plea of
+			 <choice>
+                  <orig>Tresspass</orig>
+                  <reg>Trespass</reg>
+               </choice> on the Case to the Damage of him and said
+			 Zachariah Isbell To the sum of five Hundred pounds Herein fail not, and have
+			 you then and there this Writ Witness 
+			 <name type="person">John Sevier</name> Clerk of Our <unclear>
+                  <choice>
+                     <abbr>Sd.</abbr>
+                     <expan>Said</expan>
+                  </choice>
+               </unclear> Court the 
+			 <date when="1778-05-12">12th day of May 
+				<choice>
+                     <abbr>anno. Dom.</abbr>
+                     <expan>Anno Domini</expan>
+                  </choice> 1778</date>
+            </p>
+            <closer>
+               <signed>John Sevier <unclear/>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>Isbell <lb/>
+               <unclear>vs</unclear>
+               <lb/> Robertson  
+			 <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice>
+            </p>
+            <p>
+               <date when="1778-05">May Term 1778</date>
+               <lb/> not found
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Commission] 1839 July 19 [for] Thomas B. Reppatoe / [signed by] Newton Cannon : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl031</idno>
+            <idno>OCLC: 50021567</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Commission] 1839 July 19 [for] Thomas B. Reppatoe / [signed by] Newton Cannon </title>
+               <date when="1839-07-19">July 19, 1839</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a commission dated July 19, 1839 for Thomas B. Reppatoe to serve as justice of the peace in Jefferson County, Tennessee.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true"> 275 Miscellaneous documents, b1</note>
+               <note type="folder" anchored="true">I-D-1</note>
+               <note type="document" anchored="true">sl031</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Public service commissions</term>
+               <term>Reppatoe, Thomas B.</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl031a.small.jpg"/>
+            <head>STATE OF <name type="place">TENNESSEE</name>
+            </head>
+            <head>TO ALL WHO SHALL SEE THESE PRESENTS--Greeting:</head>
+            <p>KNOW YE, That we do commission <name type="person">
+                  <hi rend="written text">Thomas B. Reppetoe</hi>
+               </name> of the <name type="place">county of <hi rend="written text">Jefferson</hi>
+               </name>a Justice of the Peace in and for said county, and do authorize and empower him to execute and fulfil the duties of a Justice of the Peace in said county, agreeably to the constitution and laws of this State; with all the powers, privileges and enduments thereto appertaining.</p>
+            <p>In testimony whereof, <name type="person">J. Newton Cannon</name>, Governor of the State aforesaid, have hereunto set my hand, and caused the great Seal of the State to be affixed at <name type="place">Nashville</name>, the <date when="1839-07-19">
+                  <hi rend="written text">19</hi> day of <hi rend="written text">July</hi> 18<hi rend="written text">39</hi>
+               </date>. </p>
+            <closer>
+               <signed>
+                  <hi rend="written text">N. Cannon</hi>
+               </signed> By the Governor: <signed>
+                  <name type="person">
+                     <hi rend="written text">Luke Leaf</hi>
+                  </name>
+               </signed> Secretary of State. <pb n="2" facs="sl031b.small.jpg"/> Thomas D. Reppatoe <choice>
+                  <abbr>Com</abbr>
+                  <expan>Commission</expan>
+               </choice> as Justice of the Peace filed in office <date when="1839-09-02">2 <choice>
+                     <abbr>Sept</abbr>
+                     <expan>September</expan>
+                  </choice> 1839</date> and the Oath of Office <unclear>administered</unclear>
+               <signed>
+                  <name>
+                     <emph>Joseph Hamilton Clerk</emph>
+                  </name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl384">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Jan. 22, New Orleans, Louisiana [to] Sam[ue]l J. Peters / Edmund P. Gaines: a machine readable transcription of an image</title>
+            <author>Gaines, Edmond P.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl384</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1839 Jan. 22, New Orleans, Louisiana [to] Sam[ue]l J. Peters / Edmund P. Gaines</title>
+               <author>Gaines, Edmond P.</author>
+               <date when="1839-01-22">January 22, 1839</date>
+               <extent>8p</extent>
+               <note type="summary" anchored="true">This is a letter from General Edmund Pendleton Gaines to Samuel J. Peters, President of the Chamber of Commerce, dated January 22, 1839.  Gaines is writing in response to a recent report by the Chamber on improving navigation of the Mississippi River. Gaines describes in great detail the mannerisms of the Mississippi River and how it differs from other rivers, especially concerning formation of alluvial lands. Gaines writes how important the river is in relation to national defence, commerce, and agriculture. Gaines also includes his opinions on improving national defence in relation to the use of railroads, and waterways.  Accompanying Gaines' letter is a note dated April 6, 1839 from C. W. Dreschler, who is forwarding the letter to Tennessee Governor Newton Cannon per Gaines' request.   Gaines hopes that the Governor will consider the views expressed in his letter.</note>
+               <note type="collection" anchored="true">Gaines Papers</note>
+               <note type="box" anchored="true">I-C-3</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl384</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gaines, Edmond Pendleton, 1777-1849 Correspondence.</term>
+               <term>Mississippi River Navigation</term>
+               <term>Mississippi River Alluvial Plain</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n88277194"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Gaines, Edmund Pendleton, 1777-1849</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl384a.small.jpg"/>
+            <head>General Gaines' Letter <lb/> to the <lb/> Chamber of Commerce.</head>
+            <opener>
+               <address>
+                  <addrLine>Head Quarters, Western Division,</addrLine>
+                  <addrLine>Near <name>New-Orleans</name>, <name>
+                        <choice>
+                           <abbr>LA.</abbr>
+                           <expan>Louisiana</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date>January 22d, 1839.</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Sam'l.</abbr>
+                           <expan>Samuel</expan>
+                        </choice> J. Peters</name>, <choice>
+                        <abbr>Esq.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>,</addrLine>
+                  <addrLine>President of the Chamber of Commerce:</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have read with great interest the report of the Committee of the Chamber of Commerce on the improvement of the navigation of the <name>Mississippi</name> and its entrances; with the accompanying documents. That in manuscript I return herewith, agreeably to your request. I regret that neither the report, nor any of the documents upon which the committee appears to have relied, were ever seen by me before you did me the  favor to hand them to me on yesterday.</p>
+            <p>I cannot afford you better evidence of my hearty concurrence in most of the views contained in the very lucid and able report of the committee, than by referring you to my published and unpublished reports upon the same, or in part the same subject. A copy of the former I enclose herewith, and promise myself the pleasure as soon as I can obtain the paper, now at <name>St. Louis</name>, to send you a copy of my unpublished views.</p>
+            <p>In the interim, however, I think it due to the public service, to the committee, to <name>Mr. Stein</name>, and to myself, that I should submit to  you for the consideration of the Chamber of Commerce the remarks which follow:</p>
+            <p>In expressing my concurrence in most of the views contained in the report, I leave it to be inferred that I do not concur altogether with the committee.</p>
+            <p>Having long deemed the military, as well as the commercial aspect of the subject in question, to embrace interests of vital importance to the <name>United States</name>, I have lost no time or opportunity in my power during the greater part of military services for more than thirty years past, to make myself acquainted with this mighty river --- its natural habits --- its apparent susceptibility of improvement -- the manner of improving it, and its properties as applicable to the national defence, and to the purposes of commerce and agriculture.</p>
+            <p>The report of your committee, and the views of your able engineer Mr. Stein, as far as we concur in opinion, afford me the most gratifying evidence that my efforts to understand the subject have not been altogether unavailing; and that inasmuch as we are all earnestly and honestly in pursuit of truth, and that which will enable us to do the greatest possible good at the least possible expense, I cannot but persuade myself that we shall soon come to the same conclusions.</p>
+            <p>I unhesitatingly admit the correctness of the general premises laid down by Mr. Stein as the basis of his argument; and that his reasoning applies to most -- I may say to ninety nine hundredths of the rivers known to me; but the Mississippi differs in some respects from all the other rivers of which I have any knowledge. Hence it is in reference to its peculiar properties alone will be found any material difference of opinion between us.</p>
+            <p>In the year 1822-23, I reported to the war department <pb n="2" facs="sl384b.small.jpg"/>
+               <add>2</add> the result of my previous observation, as to the formation of planters, snags and sawyers; their evil effects in obstructing the navigation, and the necessity of their removal. Our excellent commander <name>Shreve</name> was soon after successfully employed in their removal. Since which I have often had the satisfaction of witnessing the salutary effects of their removal, not only in improving the navigation, but in quieting the turbulence of the stream, and keeping it within its established bed.</p>
+            <p>I had found, and so reported, that the excavations by which the bed of the river was constantly undergoing great changes in its shape and direction, were materially different from the excavation of most of the rivers known to me: -- In them the overflow of the freshets produce excavations commencing upon the surface of the adjacent rich low grounds; whilst in the Mississippi and <name>Missouri</name> (which from its exact  likeness should be considered as the Mississippi proper) the excavations of the freshets are produced by the action --- the undermining action --- of the principal rapid current of the river, wherever it happens to reach either of its banks, as from the serpentine course of the river is often the case.  The rapid current thus undermines the adjacent bank, which being clothed, as it generally has been, with heavy masses of forest trees, and vines, is precipitated into the bed of the river, leaving many large and small trees locked together, and fastened by great accumulations of mud in the bed of the river. ___ These encroachments of the rapid current upon the bordering lands, have often contained until the trees thus first planted in the river, were in the course of a few years found firmly fixed in the middle of the river, and beyond the reach of the devouring current, (which was still cleaving to the shore and making new conquests, leaving its trophies in the slack water, towards the middle of the river.) Then it was that eddies were seen immediately below the first mentioned groups of planters and snags; in these eddies soon appeared a mud or sand bar. This continued to rise, and grow with the growth of every freshet, until it reached the surface of the water in its lowest stages. The mud or sand bar thus formed had no sooner made its appearance above the surface of the water, than it was taken possession of the pioneers and light corps of the vegetable kingdom, and was soon covered over with groups of young willows, cotton wood, vines, <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>etcetera</expan>
+               </choice> &amp;c. An island was thus formed, -- in process of time, often in the course of 15 to 30 years, the island thus formed was found to attach itself to the main land on the opposite side of the river. In the interim, the surface of the adjacent low grounds, including the island and the forest lands on both sides of the river, were often submerged with the deep overflow of the freshets; not only without sustaining any loss or injury from the overflow, but with the obvious benefit of a rich and thick coat of clay and loam which had seized upon the fallen leaves and boughs of trees, with the grass and vines, and other vegetable productions of the forest, whereby the overflow often left a coat of from four to ten inches in thickness. This description of one small section of the river, forming part of  the western boundary of the state of Tennessee (where the process of the revolution was frequently witnessed by me) is applicable to almost every other section of the river, from the western border of the state of Missouri to the mouth of <name>Red river</name>, if not to the bayou <name>Iberville</name>. Here the character of the river exhibits evidence of a material change. Above that bayou, and more especially above the mouth of Red river, all the waters constituting the overflow, which leave the river in time of high freshets, return to it, or  remain stagnant in the ponds, or by evaporation mix with the atmosphere; whereas below the Iberville, and thence to the great outlet or passes, at the sea, all the waters of the overflow that leave the river, on either side, leave it never to return. They find their way to the lakes, and thence to the sea. In their way thither, however, as they slowly progress through the thick clusters of willows, cotton wood and grass, the waters are generally stripped of all clay and loam with which they leave the parent stream. Hence it is that we find the lands on the margin of the river higher than any other part of the alluvial lands of this section of the state. This is obviously the result of the action of the waters in their first entrance into the adjacent masses of vegetable productions which cover the surface, leaving a greater portion  of clay and loam in the first conflict with those productions, simply because the waters hold in solution a <pb n="3" facs="sl384c.small.jpg"/>
+               <add>3</add> larger quantity of clay and loam at the moment of leaving the river than they can retain after passing through the first masses of vegetable productions; and because the quantity is lessened as the waters progress, slowly as they do, to back swamps or to the lakes. This is a fact of some importance in the consideration of the questions to be decided, as to the previous, the present, and the future alluvial <choice>
+                  <orig>deposites</orig>
+                  <reg>deposits</reg>
+               </choice>, and formations produced by the overflow of the freshets; to which I may add the great question as to the best method of improving the navigation of the river; and I will add, another great question which has not been sufficiently attended to in any work which has fallen into my hands --- namely --- the best means of  subduing and replenishing the lands bordering on the river, for the purposes of cultivation, in the valuable staple of this region of country, the Sugar, the Rice and the Cotton; the importance of the former to this nation is now incalculable, -- but in time of war, when our foreign commerce is cut off by European fleets and pirates, then will the sugar lands of Louisiana  be to the United States, what the richest gold mines of <name>Peru</name> and <name>Chili</name>, are to those who own them.</p>
+            <p>The foregoing views are for the most part intended to give some leading traits of the character of the Mississippi river in its primitive condition, and before the hand of civilization was extended to it. I will conclude this letter, which is already longer than was intended when I sat down to write, with some suggestions touching the means of civilizing, or in other words, improving the navigation of this giant stream of the west.</p>
+            <p>I have said in one of my reports that this mighty river is susceptible of such improvement as will render it almost as docile, and harmless, as the waters of a canal, or a small river, and I may add, improvements that will render it ten thousand times more valuable in a military, and commercial, and agricultural point of view, than any other river in this nation.</p>
+            <p>To accomplish the proposed improvements, we must carefully study the character, the habits, and propensities of the river (if I may so express myself,) and in place of dams, ship canals, and all other obstructions, we must quietly approach its bed as we would approach the habitation of an untamed giant whose civilization we greatly desired to effect. We must take the snags and all other obstructions out of its bed, and when we find from its superabundance of overflow, its masses of driftwood, or from any other cause, its current may seem disposed to make encroachments upon either of its banks, we should instantly go to work, not with long or large piles, with the hope of at once arresting the evil, but with small stakes and saplings, to check the force of the current, and gradually to strengthen the suffering section of the bank, until we can find means of quieting the turbulence of the current, and prevail on it remain within its proper bed. This it is believed may be soon effected if we take care that no efforts be made by the owners of batture property, to encroach upon any section of the river, for it is certain that when encroachments are made upon one side of the river, the current will encroach upon the other side, and vice versa, until both banks are alternately undermined, and the navigation and planting interests greatly injured.</p>
+            <p>To illustrate the foregoing views, let us suppose the existence of a mighty giant, coming daily among us from the land of promise and of plenty; and though in a state of barbarism, bringing with him, daily, for our use, without money and without price, supplies of all the comforts of life, and all the wealth we could desire. Surely we should feel inclined to civilize the noble giant, and keep open the bed or road of his choice; and if in his visit to the sea, he should seem disposed to form for himself two or three roads or beds, so as to enable him to make his entre into the sea according to  his own notion of etiquette, we should rather yield to his supposed whim, and make smooth the rough places of each one of his roads or beds, than suddenly attempt to stop up either, lest he should revolt at our puny efforts to control him, and withdraw from us his wonted usefulness.</p>
+            <p>In all our efforts to obstruct, or alter the direction, of any one of the outlets of this great river, we should avail ourselves of the suggestion of <name>Bacon</name>, regarding that innovation which is always admissable: in every attempt at such innovation, we should follow the example of time itself, which indeed innovateth greatly, but by slow and almost imperceptible degrees. <pb n="4" facs="sl384d.small.jpg"/>
+               <add>4</add>
+            </p>
+            <p>There is, I think, a radical error in the supposition that the gulf stream carries off to a great distance the earthy particles which are wafted down the Mississippi river.</p>
+            <p>In reply to this suggestion, I need only advert to the well know fact, that the swell of the sea has a constant, and I may say universal tendency to lave, and preserve the transparency of its own element; and in this process to drive to its shore, or to its future bed, and adjacent shallows, most, if not all the earth which its tributaries carry to its domain. As proof of this fact, we find in most of our rivers, but more especially in the Mississippi, a bank or bar of mud and sand, tending to obstruct the navigation -- the very evil we are now devising ways and means to obviate or remove. Nothing can be more obvious than that these banks or bars, are in all cases formed by the action of the swell of the sea against the approaching current of the river, tending thereby to suspend the turbid, or earthy masses, and separate the clay and loam from the water. But the most conclusive argument upon this branch of the subject is to be found in the facts which follow:</p>
+            <p>The chart of the <unclear>sea-coast</unclear> between  the <name>Sabine</name> outlet and the bay of <name>Mobile</name>, and the appearances of most of the country, on the lands of the river-coast and bayous between the Iberville and the Passes, afford the most irrefragable evidence that all this section of the river and adjacent lands and swamp, have been formed by the gradual and long continued deposites of the clay, and loam, and sand and trees wafted down the river, and thrown out by the annual overflow, upon each side of the often changed and ever changing bed of the river.</p>
+            <p>The time doubtless was, when the spot on which the city of New Orleans now stands was entirely within the limits of the Bay or <name>Gulf of Mexico</name>. Since that period, however, the united forces of the mineral, the fossil, and the vegetable kingdoms, aided by those of the river and its freshets, have contributed to take possession of  this section of the sea, and to plant in it a colony of unsurpassed richness; presenting, first, that chaotic mass of earth and timber, with all manner of vegetable substances, embracing the simple elements of unformed land, like that which we find about the <name>Balize</name> and the other Passes.</p>
+            <p>To complete the formation, time, and the usual annual overflow, was necessary. Hence it is, that we find here a tolerably compact body of land; and although it holds in its bosom some thousands of trees, in part sound and firm, it is worth from fifty dollars to fifty thousand dollars per acre!</p>
+            <p>In process of formation, by masses of trees and clay, and loam, and more especially in the direction of this new formation of lands, are chaotic masses of what is neither land nor water, but a combination of each, with an ample supply of alligators, and other amphibious bodies of animal life.</p>
+            <p>We see plainly, in these formations of land, and in the direction of them, corresponding with the course of the river, and of the Gulf stream, that that stream has tended rather to aid in these new formations, and mainly to control their direction, than to carry off to a great distance and to an unknown region in "the dark unfathomed caves of ocean," the clay and loam held in solution in the waters of the Mississippi, and brought in contact with the salt water. The Gulf stream has contributed to change the general course of this section of the Mississippi from south-west to east-- forcing it to run nearly parallel to the Gulf stream itself. Hence it  is, that the whole of the river coast, from the Iberville to the Passes, has taken the direction of the Gulf stream; and extends eastward, between that stream and the seacoast of what has been designed <name>West Florida</name>. And here let me ask the advocates in favor of a ship canal, to extend out from the right bank of the river, to meet, or to intersect at right angles, the Gulf stream, can you have the temerity thus to work against that stream, when you see that the Mississippi itself has, obviously, for centuries past yielded to the pressure of that stream; inasmuch as we find this mighty river has for near two hundred miles, in its most recent formation, gone  nearly parallel to the Gulf stream, rather than to encounter it by a direct, or even an oblique movement?</p>
+            <p>If any of the outlets of the Mississippi should be stopped up, and I think it may be well to try the experiment with some few of the smallest ones; in this case, I would recommend that the experiment be made upon those of the right bank of the Mississippi; but by all means to keep open most of those upon the left bank. We should thus <pb n="5" facs="sl384e.small.jpg"/>
+               <add>5</add> aid and assist the river in continuing to take that direction which we are convinced from the apparent process and result of centuries of time, it has been habitually or naturally inclined to take. Let us act thus, and the time may come when the great outlet of the Mississippi may be hundred of miles from this city to the eastward and southward, on the coast of <name>Florida</name>--- probably as far distant as Mobile, <name>Tampa Bay</name>, or <name>Key West</name>: for if 200 miles from the Iberville to the Balize, have been formed in 6,000 years, we may fairly conclude that the residue of the distance to Key West, being less than 800 miles, may accomplish its formation in the space of 24,000 years. In the interim will be found between the Mississippi river and the Florida coast, and more particularly where lakes Borgue and Ponchartrain now exhibit their thin sheets of water, with their oyster beds and rising islands an marshes, the best of sugar, cotton and rice plantations. And it will not be long before the inhabitants of the delightful climate of <name>East Florida</name> will anticipate the progress of the Mississippi towards their western shore, by conveying thither in their coasting vessels, as manure for their gardens and delicious  orange groves, the Delta of the shores of the Mississippi. But to have done with what may seem involved in speculation, and return to our obvious and immediate interests and duties; I take leave to entreat you, and your able collegues, and your distinguished engineer, to unite with me in an effort to convince the public functionaries of the state and federal governments, of the necessity of providing means to be wielded by steam power, to defend our sea ports against fleets propelled by steam power, --- by which we are destined sooner or later to be assailed.</p>
+            <p>I recommend floating batteries, to be propelled by our common tow boats, to be employed near the outlets of the Mississippi for defending in war, --- and in peace, for deepening the channels, and making any other improvements which may, by a series of experiments, be found most advisable. If any one of the passes are to be stopped up, surely this can be done most appropriately by the engineers, officers and men held ready to meet at those passes the invading foe. In this work I hold it to be my duty to urge the propriety of employing the ablest civil, as well as military engineers, to superintend the work; but the principal force, to be employed in the execution of the work; officers and operatives, I contend, should consist of the corps destined for the defence of the place during a state of war. Floating batteries are deemed to be preferable steam ships of war, because the former will carry more heavy guns, and more men, and they will draw less water than the latter, and because the floating batteries form the appropriate link, in the national defence, between the land and naval forces of our country, and should therefore be wielded by tow boats belonging to the seaport to be defended, --- and should be manned by the land forces of the nation: To these views I may add the important fact that steam ships of war having the capacity to go to sea, will often be absent on distant service, when most needed for the defence of the sea port to which they may belong. At any rate no evil can result from each state, and every great seaport, having means of defence within their own harbors, and not liable to be taken out of their own harbors. These views cannot but be sustained by the evidence before us, that the whole range of military operations on land, in all future wars, must be confined mainly, in wars against civilized nations especially, to the immediate vicinity of great commercial cities.</p>
+            <p>In addition to large floating batteries for defending and deepening the passes into our harbors, I recommend railroads, leading from the two central states of <name>Kentucky</name> and <name>Tennessee</name>, to the seven grand divisions of the seaboard and northern and western frontier. These are rendered indispensable by the certainty of our  being attacked by forces propelled by steam power. Without the proposed railroads, our disposable force from the central states, and indeed our local force from the interior districts of our own Atlantic states, would seldom be able to <unclear>reach</unclear> the point of attack until after the enemy had overrun and laid waste every thing worth defending in our seaports and commercial cities, more especially if we have not a sufficient supply of floating batteries to aid our brave volunteers in the destruction of the invading foe, on his first attempt to enter our seaports.</p>
+            <p>I am yet to learn the a b c of my profession if I am not correct in the opinion often expressed, that if the city of <pb n="6" facs="sl384f.small.jpg"/>
+               <add>6</add> New Orleans is ever battered down or sacked by an invading foe (which heaven avert!) it will be because we shall have neglected, in time of peace, to lock up the river by floating batteries, and to provide (as we can at a moderate expense, or in war,) the railroads which I propose for bringing our fighting men and supplies from the central and western states, and interior districts of our border states to the point of attack, in one tenth part of the time, and at one tenth part of the expense which their movements would cost in the present state of the roads, the common roads of all the border and central states.</p>
+            <closer>
+               <salute>With great respect, <lb/> I have the honor to be <lb/> Your most obedient servant,</salute>
+               <signed>
+                  <name>Edmund P. Gaines</name>.</signed>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="7" facs="sl384g.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>New Orleans, La.</addrLine>
+                  <addrLine>
+                     <date when="1839-04-06">April 6th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I am desired by Major General Gaines to say that he sometime past forwarded to your Excellency a Copy of his Diagram, and subsequently his Pamphlet embracing his System of Rail Roads and Floating Batteries. He now requests you to accept his views contained in the fore going communication in reference to the Mississippi River-- and intimately connected with the great subject of the national defence.</p>
+            <p>The General will be much gratified to be favored with the views of Your Excellency, and of the principle officers of the Militia &amp; Volunteers of the State over which You reside</p>
+            <closer>
+               <salute>I have the honor to be, Sir, <lb/> very Respectfully <lb/> your most <choice>
+                     <abbr>obt. St.</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <unclear>C.W. Drechsler</unclear>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>To <lb/> His Excellency <lb/>
+                     <name>Newton Cannon</name>, <lb/> Governor of the State <lb/> of Tennessee</addrLine>
+               </address>
+               <pb n="8" facs="sl384h.small.jpg"/>
+               <address>
+                  <addrLine>Public Document</addrLine>
+                  <addrLine>Major General Gaines</addrLine>
+                  <addrLine>U.S. Army</addrLine>
+               </address>
+               <address>
+                  <addrLine>His Excellency Newton Cannon</addrLine>
+                  <addrLine>Governor of the State of Tennessee</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>1839</add>
+               <add>
+                  <choice>
+                     <abbr>Genrl</abbr>
+                     <expan>General</expan>
+                  </choice> Gaines</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

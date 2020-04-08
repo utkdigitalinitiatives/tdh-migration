@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc162">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1844 Dec. 13 [to] B. McDaniel, Greenville,  Tennessee / S.L. Edwards : a machine readable transcription of an image</title>
+            <author> Edwards, S.L.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2004</date>
+            <idno type="SPCID">sc162</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>  [Letter] 1844 Dec. 13 [to] B. McDaniel, Greenville, Tennessee / S.L. Edwards </title>
+               <author>Edwards, S.L. </author>
+               <date when="1844-12-13"> 
+			 December 13, 1844</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written in 1844 by S. L. Edwards of the Pension Office to B. McDaniel regarding a claim made on the estate of Sarah Hawley.</note>
+               <note type="collection" anchored="true">S. L. Edwards Letter</note>
+               <note type="box" anchored="true">MS-728</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc162</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Claims</term>
+               <term>Death</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Edwards, S. L.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc162a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Pension Office</addrLine>
+               </address>
+               <date>December 13th 1844</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have the honor to inform you that the claim of <name>Sarah Hawley</name> deceased, has been examined.</p>
+            <p>The certificate of the Clerk of the County from which the license issued should be obtained as evidence respecting the date of the marriage and the court should certify the day of claimants death and the names of the children who survived her</p>
+            <closer>
+               <salute>I have the honor to be very respectfully Your <choice>
+                     <abbr>Obt</abbr>
+                     <expan>Obedient</expan>
+                  </choice>. Servant</salute>
+               <signed>
+                  <name>J. L. Edwards</name>
+               </signed>
+               <add>
+                  <name>
+                     <choice>
+                        <abbr>Hon</abbr>
+                        <expan>Honorable</expan>
+                     </choice>. A. Johnson</name> House of Representatives</add>
+            </closer>
+            <pb n="2" facs="sc162b.small.jpg"/>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <p>Free A. Johnson <lb/>
+               <address>
+                  <addrLine>
+                     <name>Mr. B. McDaniel</name>Greenville <choice>
+                        <abbr>E</abbr>
+                        <expan>East</expan>
+                     </choice>. Tennessee</addrLine>
+               </address>
+               <add>J. L. Edwards letter relating to Sarah Hawley</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

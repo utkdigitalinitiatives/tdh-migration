@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl295">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1841 Dec. 2, Rutherford County, Tennessee [to] A. Fergusson, Carthage, Tennessee / Logan Anderson   : a machine readable transcription of an image</title>
+            <author>Anderson, Logan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl295</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1841 Dec. 2, Rutherford County, Tennessee [to] A. Fergusson, Carthage, Tennessee / Logan Anderson</title>
+               <author>Anderson, Logan</author>
+               <date when="1841-12-02">December 2, 1841</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Logan Anderson to A. Fergusson, dated December 2, 1841. Fergusson had written to Anderson requesting information on Jerry Smith's service during the American Revolution. Anderson cannot help him because he was not yet born, but he gives Fergusson the name of someone who might be able to help him.</note>
+               <note type="collection" anchored="true">Fergusson Papers </note>
+               <note type="collection" anchored="true"/>
+               <note type="box" anchored="true">IV-G-1 b2</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl295</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Military history</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Anderson, Logan</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl295a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Rutherford County</name>
+                     <name type="place">State of Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1841-12-02">December 2nd 1841</date>
+                  </addrLine>
+               </address>
+               <add place="left of return address">
+                  <address>
+                     <addrLine>Mr <name type="person">A <choice>
+                              <orig>Furgusson</orig>
+                              <reg>Fergusson</reg>
+                           </choice>
+                        </name>
+                     </addrLine>
+                  </address>
+               </add>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>yours of the 23rd <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice> came to hand on yesterday wishing Some information respecting <name type="person">Jerry Smith</name>s Revolutionary Services I was not born <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> after the revolution was over of course I Know nothing of his services I <unclear>became</unclear> acquainted with him after the war the latter named gentleman I am unaqcuainted with <name type="person">Mr Cobb</name> I will refer you to <name type="person">John Patterson <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </name>
+               <unclear>Snr</unclear> of <name type="place">Summer County</name> who was acquainted with both the gentleman if they did any Service its Known by him call on him and I think he can give you the information desired _</p>
+            <closer>
+               <salute>yours Respectfully</salute>
+               <signed>
+                  <name type="person">Logan Anderson</name>
+               </signed>
+               <pb n="2" facs="sl295b.small.jpg"/>
+               <address>
+                  <addrLine>Mr <name type="person">A Ferguson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">mail }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

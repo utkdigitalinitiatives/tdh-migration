@@ -1,0 +1,137 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl659">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Nov. 15, Washington [D.C., to James K. Polk] Nashville, Tennessee /  Talbot, G. : a machine readable transcription of an image</title>
+            <author> Talbot, G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl659</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1839 Nov. 15, Washington [D.C., to James K. Polk] Nashville, Tennessee /  Talbot, G.</title>
+               <author> Talbot, G.</author>
+               <date when="1839-11-15"> 
+			 November 15, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from G. Talbot to Governor James K. Polk, dated November 15, 1839. Talbot is writing  to ask Polk to send him a list of arms that Tennessee's militia will need for the upcoming year.</note>
+               <note type="collection" anchored="true">Governor James K. Polk Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl659</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Military supplies</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Talbot, G.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl659a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Ordinance Office</addrLine>
+                  <addrLine>
+                     <name>Washington</name>, <date>
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 15th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>In order that arrangements may be made to answer the calls of the States for arms to be issued in the next year, for arming the Militia, under the Act of 1808, you are respectfully requested to inform this office what description of arms will be required by the State of <name>Tennessee</name> for the year 1840 The quota due to the State will be furnished either in muskets or other small arms, or in field artillery, and you will be pleased to state particularly whether the appropriate accoutrements, equipments, harness <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> will be required with the kind of arms that may be designated__</p>
+            <p>Be pleased also to say where and to whom the stores shall be delivered, observing that, by the <pb n="2" facs="sl659b.small.jpg"/> existing regulations; the place designated for this purpose, must be on navigable water, within the State</p>
+            <p>The quota which will be due at the end of 1840, will probably amount to about 2,300 muskets including the quota due for 1838 &amp; 1839 not delivered not having been called for___</p>
+            <closer>
+               <salute>I have the honor <lb/> to be Sir <lb/>
+                  <choice>
+                     <abbr>yr obt st</abbr>
+                     <expan>your obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>G Talbot</name>
+               </signed>
+               <add>L Col. ordnt</add>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>the <choice>
+                        <abbr>Govr</abbr>
+                        <expan>Governor</expan>
+                     </choice> of the State</addrLine>
+                  <addrLine>of Tennessee</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

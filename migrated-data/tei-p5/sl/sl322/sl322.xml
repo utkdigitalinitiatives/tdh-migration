@@ -1,0 +1,121 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl322">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1846 May 30, Carthage Ten[nessee] [to] Adam Fergusson, Carthage /  C[harles] W. Dixon: a machine readable transcription of an image</title>
+            <author>Dixon, Charles W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl322</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1846 May 30, Carthage Ten[nessee] [to] Adam Fergusson, Carthage /  C[harles] W. Dixon</title>
+               <author>Dixon, Charles W.</author>
+               <date when="1846-05-30">May 30, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a short letter by Charles W. Dixon to Adam Fergusson, dated May 30, 1846.  Dixon writes that he intends to keep Fergusson's military coat, as it fits him quite well.  He also wishes to leave Fergusson a personal letter that was left in the coat pocket.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b3</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl322</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dixon, Charles W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl322a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                     <date when="1846-05-30">May 30th 1846</date>
+                  </addrLine>
+                  <addrLine>Mr Fergusson</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Having used your Uniform coat a few days and finding it fits me I conclude to take it with me.  I expected to have gone to see you about it had you been at home.  but I learned you would be absent until tomorrow which time would in all probability be too late for me</p>
+            <p>In using it I found it contained a (letter or at least a piece of paper with your name upon it but have not examined it to see what was the contents) which I enclose to you</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>C.</abbr>
+                        <expan>Charles</expan>
+                     </choice> W. Dixon</name>
+               </signed>
+               <pb n="2" facs="sl322b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Adam Fergusson</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Carthage</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

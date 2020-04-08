@@ -1,0 +1,132 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm063">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Photograph of unexcavated structural ruins at Fort Southwest
+			 Point in Kingston, Tennessee, taken circa 1980s] / [by Gerald F. Schroedl] : a
+			 machine-readable transcription</title>
+            <author>Schroedl, Gerald F.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version: </resp>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name>Debra Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>mm063</idno>
+            <idno>OCLC: 48016857</idno>
+            <availability status="restricted">
+               <p>This work in the property of the Frank H. McClung Museum,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. All other use is prohibited without the
+				express written permission of the copyright holder.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Photograph of unexcavated structural ruins at Fort Southwest
+				Point in Kingston, Tennessee, taken circa 1980s] / [by Gerald F. Schroedl] : a
+				machine-readable transcription</title>
+               <author>Schroedl, Gerald F.</author>
+               <date when="1980">1980s</date>
+               <extent>1p</extent>
+               <note type="summary">This photograph is of unexcavated structural
+				ruins at Fort Southwest Point, located near the city of Kingston, in Roane
+				County, Tennessee. The ruins show that the structures were composed of stacked
+				mortared and unmortared limestone blocks and, occasionally, river rocks. Fort
+				Southwest Point was established in 1792 as a blockhouse post for the
+				territorial militia troops that were protecting white settlers from Indian acts
+				of hostility. By 1797, the militia was replaced by Federal troops whose goals
+				were to maintain peace with the Indians and protect their rights on the
+				frontier. During the years between 1801-1807, the fort was established as the
+				headquarters for the Cherokee Agency. In 1974, archaeological crews from the
+				University of Tennessee unearthed portions of six fort building foundations,
+				the remains of a massive stone wall, and many fort-period artifacts. A 1984
+				excavation of the site by the Department of Conservation and the City of
+				Kingston located the sites of a total of thirteen buildings. These buildings
+				include an officer's barracks, four blockhouses, and several buildings that are
+				believed to have been barracks. A complementary excavation in 1986 revealed the
+				location of two more buildings, bringing the total to fifteen buildings. The
+				excavation also produced a more detailed examination of the palisade and stone
+				wall enclosures, and uncovered several historic and prehistoric features.
+				Additional excavations were conducted at Fort Southwest Point in the 1990s
+				yielded new information as to the fort's original layout and functions, as well
+				as the life ways of the people who occupied the fort. Fort Southwest Point was
+				given to the city of Kingston by the Tennessee Valley Authority (TVA) and is
+				now used as a historical and recreational areal.</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note>mm063</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Photographs</term>
+               <term>Cherokee Indians--Antiquities</term>
+               <term>Fort Southwest Point (Tenn.)</term>
+               <term>Fortification</term>
+               <term>Historic sites</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n78090514"
+                        role="Photographer http://id.loc.gov/vocabulary/relators/pht">Schroedl, Gerald F.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1">
+            <pb n="1" facs="mm063.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc> This is a photographic image of unexcavated ruins at 
+				  <name type="place">Fort Southwest Point</name> located near 
+				  <name type="place">Kingston</name> in 
+				  <name type="place">Roane County</name>, 
+				  <name type="place">Tennessee</name>. Photograph taken by 
+				  <name type="person">Gerald F. Schroedl</name>, circa 1980s. This
+				  information was provided by the 
+				  <name type="person">Frank H. McClung</name> Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

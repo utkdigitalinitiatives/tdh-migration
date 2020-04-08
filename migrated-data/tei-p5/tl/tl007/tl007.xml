@@ -1,0 +1,231 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1818 Oct 1, Cherokee Agency, [to] Daniel Graham,
+			 Secretary of State, Murfreesborough [i.e. Murfreesboro], [Tennessee] / McMinn,
+			 Joseph, Governor of Tennessee : a machine-readable transcription of an
+			 image</title>
+            <author>McMinn, Joseph</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl007</idno>
+            <idno>OCLC: 47799027</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1818 Oct 1, Cherokee Agency, [to] Daniel Graham,
+				Secretary of State, Murfreesborough [i.e. Murfreesboro], [Tennessee] / McMinn,
+				Joseph, Governor of Tennessee</title>
+               <author>McMinn, Joseph</author>
+               <date when="1818-10-01">October 1, 1818 </date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter written by Joseph
+				McMinn, Governor of the state of Tennessee (1815-1821), and future agent to the
+				Cherokee to Daniel Graham, Secretary of State, dated October 1, 1818. In his
+				letter, Governor McMinn first apologized to Graham for his belated
+				communication. Governor McMinn reported that he was still enrolling emigrants
+				at a rapid pace. He concluded his letter by telling Graham that he would soon
+				be able to return to Knoxville.</note>
+               <note type="Collection"> Governor McMinn Letters </note>
+               <note type="Box">10</note>
+               <note type="Folder">53</note>
+               <note type="Document">tl007</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indian agents</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Relocation</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl007a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>cherokee agency</orig>
+                        <reg>Cherokee Agency</reg>
+                     </choice>
+                     <date when="--10-01">1st <choice>
+                           <orig>october</orig>
+                           <reg>October</reg>
+                        </choice>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>Dear 
+				<name type="person">Daniel</name>
+               </salute>
+            </opener>
+            <p>I have been very much Proper with business for some days past, in
+			 fitting out a party for the west, and in purchasing  Repairing Boats, So
+			 much so that I had forgotten the day on which the mail goes to the west, but
+			 have <choice>
+                  <orig>fortunatily</orig>
+                  <reg>fortunately</reg>
+               </choice> obtain the favor of a gentleman
+			 to bear this scrawl to the 
+			 <choice>
+                  <abbr>P</abbr>
+                  <expan>Post</expan>
+               </choice>. office  your favor in last mail
+			 has been duly <unclear>ne</unclear>, an answer to which will form a part of my
+			 next  I have nothing worthy of communicating since the date of my last,
+			 Prospects are a little Fluctuating <choice>
+                  <orig>some times</orig>
+                  <reg>sometimes</reg>
+               </choice>
+               <hi>Bad</hi>  other times <hi>worse</hi>, Tho amidst all difficulties I am
+			 enrolling <choice>
+                  <orig>Emigrants</orig>
+                  <reg>Immigrants</reg>
+               </choice> pretty fast, and great
+			 exertions are making for their departure, I mean amongst <choice>
+                  <orig>them selves</orig>
+                  <reg>themselves</reg>
+               </choice>, which necessarily will involve
+			 <add place="supralinear">me in</add> much business, the under Devine Smiles I
+			 hope to <pb n="2" facs="tl007b.small.jpg"/> to be competent  I will leave here on Sunday or
+			 <choice>
+                  <orig>monday</orig>
+                  <reg>Monday</reg>
+               </choice> next God willing for 
+			 <name type="place">Knoxville</name> with a view to return to this
+			 place on the 
+			 <date when="---18">18th</date>
+               <choice>
+                  <abbr>inst</abbr>
+                  <expan>instant</expan>
+               </choice>
+            </p>
+            <p>Pray make my respects to 
+			 <name type="person">
+                  <choice>
+                     <orig>mrs and mr
+				childers</orig>
+                     <reg>Mr. Childers</reg>
+                  </choice>
+               </name>  family as heretofore to our friend, who ask for
+			 me, Presuming that 
+			 <name type="person">
+                  <choice>
+                     <orig>mr
+				childers</orig>
+                     <reg>Mr. Childers</reg>
+                  </choice>
+               </name> has not arrived, and add to that the Scarcity of time
+			 will I hope form an apology for not writing by this mail as I had intended to
+			 have done</p>
+            <closer>
+               <salute>your Friend</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos</abbr>
+                        <expan>Joseph</expan>
+                     </choice>.
+				  McMinn</name>
+               </signed>
+               <add place="bottom, left">
+                  <name type="person">
+                     <choice>
+                        <abbr>Honl</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                     <lb/>
+                     <choice>
+                        <abbr>D</abbr>
+                        <expan>David</expan>
+                     </choice>. Graham
+                     </name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="3" facs="tl007c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="--10-02">2nd October</date>
+                  </addrLine>
+                  <addrLine>Honorable</addrLine>
+                  <addrLine>
+                     <name type="person">Daniel Graham</name>
+                  </addrLine>
+                  <addrLine>Secretary of State</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Murfreesborough</orig>
+                           <reg>Murfreesboro</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

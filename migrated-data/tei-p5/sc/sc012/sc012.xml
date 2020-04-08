@@ -1,0 +1,317 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Writ] 1793 Nov. 4 / [signed by] John Sevier : a
+			 machine-readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc012</idno>
+            <idno>OCLC: 50008789</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Writ] 1793 Nov. 4 / [signed by] John Sevier</title>
+               <date when="1793-11-04">November 4, 1793</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a writ addressed to the Sheriff
+				of Washington County, signed by John Sevier, and dated November 4, 1793. The
+				sheriff is instructed to turn over all goods and land belonging to Richard
+				Minton who has been ordered to pay John Cotteral the sum of 21 pounds , 18
+				shillings, and 11 pence.</note>
+               <note type="Collection"> Writ signed by John Sevier</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-752</note>
+               <note type="Document">sc012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States, South of the River
+				  Ohio</term>
+               <term>Legal Document</term>
+               <term>Land Tenure</term>
+               <term>Minton, Richard</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc012a.small.jpg"/>
+            <head>United States of America</head>
+            <p>
+               <hi rend="printed text">To the Sheriff of</hi>
+               <hi rend="written text">
+                  <name type="place">Washington</name>
+               </hi>
+               <name>county, in the Territory South of 
+				<name type="place">Ohio</name>, Greeting,</name>
+            </p>
+            <p>
+               <hi rend="printed text">You are hereby commanded, that of the goods
+			 and chattels, lands and tenements of</hi>
+               <hi rend="written text">
+                  <name type="person">Richard Minton</name> if</hi>
+               <hi rend="printed text">in your county, you cause to be made</hi>
+               <hi rend="written text">
+                  <choice>
+                     <orig>twenty one</orig>
+                     <reg>twenty-one</reg>
+                  </choice> pounds
+			 Eighteen shillings  eleven pence</hi>
+               <hi rend="printed text">which lately
+			 in our county court of pleas and quarter-sessions</hi>
+               <hi rend="written text">
+                  <name type="person">John Cotteral</name>
+               </hi>
+               <hi rend="printed text">recovered against</hi>
+               <hi rend="written text">him</hi>
+               <hi rend="printed text">for costs and damages, whereof the said</hi>
+               <hi rend="written text">
+                  <name type="person">Richard Minton is</name>
+               </hi>
+               <hi rend="printed text">convict and liable as appears to us of record. And have
+			 you the said monies ready to render into the office of our said court, to be
+			 held for the county aforesaid at the court-house in</hi>
+               <hi rend="written text">
+                  <unclear/>
+               </hi>
+               <hi rend="printed text">on
+			 the</hi>
+               <hi rend="written text">fourth</hi>
+               <hi rend="printed text">Monday
+			 in</hi>
+               <hi rend="written text"> february</hi>
+               <hi rend="printed text">next,
+			 together with this writ.</hi>
+            </p>
+            <p>
+               <hi rend="printed text">Witness</hi>
+               <hi rend="written text">James
+			 Levin</hi>
+               <hi rend="printed text">clerk of our said court, at office, the</hi>
+               <hi rend="written text">fourth</hi>
+               <hi rend="printed text">Monday of </hi>
+               <date when="1793-11">
+                  <hi rend="written text">November</hi>
+                  <hi rend="printed text">in the year of our Lord one thousand seven hundred and
+				ninety</hi>
+                  <hi rend="written text">three</hi>
+               </date>
+               <hi rend="printed text">and in the</hi>
+               <hi rend="written text">XVIII</hi>
+               <hi rend="printed text">of our independence.</hi>
+            </p>
+            <signed>
+               <emph>
+                  <name type="person">
+                     <unclear>John</unclear> Sevier</name>
+                  <unclear/>
+               </emph>
+            </signed>
+         </div>
+         <pb n="2" facs="sc012b.small.jpg"/>
+         <div subtype="1">
+            <p>
+               <unclear>fi fa</unclear>
+            </p>
+            <p>
+               <name type="person">John Cotteral</name>
+            </p>
+            <p>vs</p>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Richd</abbr>
+                     <expan>Richard</expan>
+                  </choice>
+				Minton</name>
+            </p>
+            <p>To February</p>
+            <p>
+               <date when="1797">1794</date>
+            </p>
+            <p>Nothing Found</p>
+            <p>
+               <name type="person">
+                  <choice>
+                     <abbr>Geo.</abbr>
+                     <expan>George</expan>
+                  </choice>
+				Gillispe</name>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <unclear>
+                           <choice>
+                              <abbr>Attor</abbr>
+                              <expan>Attorney</expan>
+                           </choice>
+                        </unclear>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>10</cell>
+                     <cell>
+                        <unclear/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Eight Continuances</cell>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <unclear/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Judge</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>This execution </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <choice>
+                           <abbr>Govt</abbr>
+                           <expan>Government </expan>
+                        </choice> tax</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell> 2</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Sheriff 
+				  <name type="person">
+                           <choice>
+                              <abbr>G</abbr>
+                              <expan>George</expan>
+                           </choice>
+					 Gillespe</name>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Sheriff 
+				  <name type="person">
+                           <choice>
+                              <abbr>Robt</abbr>
+                              <expan>Robert</expan>
+                           </choice>
+					 Levan</name>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <choice>
+                           <abbr>Atto</abbr>
+                           <expan>Attorney</expan>
+                        </choice>
+                        <name type="person">J Rhea</name>
+                     </cell>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <unclear/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>plaintiff debt</cell>
+                     <cell/>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell> 21</cell>
+                     <cell>18</cell>
+                     <cell>11</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

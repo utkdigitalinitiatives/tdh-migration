@@ -1,0 +1,742 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Book] 1793, A Short Description of the Tennassee [Tennessee] Government :a
+                    machine readable transcription of an image</title>
+            <author>Carey, Mathew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc067</idno>
+            <idno>OCLC: 51317366</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of
+                        Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+                        teaching, and personal use as long as this statement of availability is
+                        included in the text. For all other use contact the Special Collections
+                        Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue,
+                        Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Book] 1793, A Short Description of the Tennassee [Tennessee]
+                        Government</title>
+               <author>Carey, Mathew</author>
+               <date when="1793">1793</date>
+               <extent>20p</extent>
+               <note type="summary" anchored="true">This document is a book
+                        titled "A Short Description of the Tennassee (Tennessee) Government" and was
+                        written in 1793. The term 'Government' can be understood to refer to the
+                        term 'state' or 'area'. The book discusses many aspects of Tennessee,
+                        including topics concerning the land and the livelihood of the inhabitants
+                        of the various areas of the state. The topics covered in the book that
+                        discuss the topography of the land include rivers, climate, plants, animals,
+                        and land and soil composition. The book also discusses how the inhabitants
+                        of Tennessee farmed their land, used the rivers to gain access to supplies,
+                        and related with the Indian tribes in the state.</note>
+               <note type="collection" anchored="true">A Short Description of the Tennassee
+                        Government</note>
+               <note type="box" anchored="true">F436.S65</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc067</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Books</term>
+               <term>Tennessee -- Description and travel</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n50035124"
+                        role="Printer http://id.loc.gov/vocabulary/relators/prt">Carey, Mathew, 1760-1839</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc067a.small.jpg"/>
+            <p>A <lb/> SHORT DESCRIPTION <lb/> OF THE <lb/>
+               <choice>
+                  <orig/>
+                  <reg>Tennessee</reg>
+               </choice> GOVERNMENT <lb/>
+               <date when="1793">1793</date>
+               <pb n="2" facs="sc067b.small.jpg"/>SHORT DESCRIPTION <lb/> OF THE <lb/>
+               <choice>
+                  <orig/>
+                  <reg>Tennessee</reg>
+               </choice> GOVERNMENT,
+                    <lb/> OR THE <lb/>
+               <name type="place">TERRITORY <lb/> OF THE <lb/>
+                  <name type="place">UNITED STATES</name>
+                  <lb/> SOUTH OF THE RIVER OHIO</name>, <lb/> TO ACCOMPANY AND EXPLAIN A <lb/>
+                    MAP OF THAT COUNTRY. <lb/>—<lb/>
+               <name type="place">PHILADELPHIA</name>: <lb/> PRINTED BY <name type="person">MATHEW CAREY</name>, BOOKSELLER, <lb/> No. 118, HIGH-STREET.
+                    <lb/>—<lb/> — <date when="1793">1793</date> —</p>
+         </div>
+      </front>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="sc067c.small.jpg"/>
+            <head>A<lb/> SHORT DESCRIPTION, <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </head>
+            <p>THE <choice>
+                  <orig/>
+                  <reg>Tennessee</reg>
+               </choice> government,
+                    or the territory of the United States, south of the river Ohio, is that tract of
+                    country, which was ceded to the United States by the state of <choice>
+                  <orig/>
+                  <reg>North Carolina</reg>
+               </choice>, in the
+                    year 1789. It is situated between the parallels of 35 degrees and 36 degrees 30
+                    minutes, extending from the great Iron mountain to the river <name type="place">Mississippi</name>.</p>
+            <p>WHEN we cast our eyes on the map of any country, especially the map of a new
+                    country, in which little else is seen than the situation of mountains, rivers,
+                    and plains, we are desirous to know what is the state of its soil and climate;
+                    what are the advantages its inhabitants may be expected to enjoy, or the
+                    difficulties under which they must <choice>
+                  <orig>labour</orig>
+                  <reg>labor</reg>
+               </choice>. A general
+                    answer to these questions, as they respect the <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice> government, is the object of this publication.</p>
+            <p>WE discover, at first sight, that the southern territory is cut into eastern and
+                    western divisions, by Cumberland mountain, a ridge near thirty miles broad; and
+                    it is probable, that the commercial <choice>
+                  <orig>connexions</orig>
+                  <reg>connections</reg>
+               </choice> of
+                    people who live in the eastern division, may be different <pb n="4" facs="sc067d.small.jpg"/>
+               <add place="top of page">(4)</add> from those of the western inhabitants. The
+                    great island on the Holston river, is not <choice>
+                  <orig>abve</orig>
+                  <reg>above</reg>
+               </choice> 340
+                    miles from <name type="place">Richmond</name> in <name type="place">Virginia</name>, along a good <choice>
+                  <orig>waggon</orig>
+                  <reg>wagon</reg>
+               </choice> road, whence
+                    we may conclude that the settlers on Holston will preserve a considerable
+                    intercourse with the Atlantic states: but people who live to the westward of
+                    Cumberland mountain, will send their produce to market by means of the
+                    Mississippi. This remarkable difference in their situation will probably induce
+                    the inhabitants of those districts to employ themselves differently, for the
+                    most proper or profitable productions in one settlement, may not be most
+                    profitable in the other.</p>
+            <p>THE Holston settlement contains 28,649 inhabitants, though in the year <date when="1775">1775</date> it hardly contained 2000. The land in this
+                    settlement is generally fertile; but the face of the country is much broken.
+                    Placed, as it is, between two large mountains, we may readily suppose that the
+                    farmer never suffers by the want of rain. The soil produces wheat, barley,
+                    Indian corn, hemp, and flax, in great perfection. Physicians have not hitherto
+                    found their way to that country, for the people have not been sick. They enjoy a
+                    temperate climate, ease, and abundance.</p>
+            <p>IRON ore abounds in that country. A capital furnace and forge have lately been
+                    erected on Holston, near the Virginia line. There is a bloomery below the mouth
+                    of <choice>
+                  <orig>Wataga</orig>
+                  <reg>Watauga</reg>
+               </choice>, and another 25 miles above the mouth of
+                    French Broad. There are also sundry leadmines in the settlement, one in
+                    particular on French Broad river, that produces seventy five <choice>
+                  <orig>per cent</orig>
+                  <reg>percent</reg>
+               </choice> in pure lead.</p>
+            <p>THE greatest part of the <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice> government lies
+                    on the west side of Cumberland mountain; and though that country has hardly been
+                    settled ten years by civilized men, it naturally claims the greatest share of
+                    our attention, because it is extensive, and will probably become the residence
+                    of a numerous and powerful colony.</p>
+            <p>THE mean distance between Cumberland mountain and the Mississippi is about 230
+                    miles. This, at 103 <pb n="5" facs="sc067e.small.jpg"/>
+               <add place="top of page">(5)</add> miles broad, gives fifteen millions of acres;
+                    and it is generally agreed, that eleven or twelve millions of that land may be
+                    cultivated to advantage; such is the proportion of arable land. The natives, who
+                    formerly inhabited that country, must have been very numerous; we seldom go more
+                    than five or six miles along the banks of Cumberland river, without finding a
+                    large burying-place, the evident remains of a considerable town. As the Indians
+                    had their choice of land, and do not appear to have been equally numerous in
+                    other places, we may suppose they found this to be a soil on which they could
+                    live with greatest ease.</p>
+            <p>Of the Rivers.<lb/> FROM the face of the map it appears, that this country is
+                    well intersected by rivers, and most of those rivers are navigable by large
+                    boats; some of them by ships.</p>
+            <p>
+               <choice>
+                  <orig>TENNASSEE</orig>
+                  <reg>Tennessee</reg>
+               </choice> river is navigable by vessels of great
+                    burden to the Muscle Shoals; those shoals are only to be passed in small boats
+                    or batteaux; from the Muscle Shoals the river is navigable in boats of 40 or 50
+                    tons burden, to the Virginia line.</p>
+            <p>CUMBERLAND river is navigable in large vessels to <name type="place">Nashville</name>, and thence in boats to the mouth of Obas river.</p>
+            <p>DUCK river is navigable in boats about 90 miles. The waters of Harpath,
+                    Cany-fork, Stones, Roaring and Red river, have uniformly a gentle current
+                    towards the mouth, whence they are all navigable in boats for a considerable
+                    distance. In a word, no spot can be marked in that country, that is more than 20
+                    miles from a boatable stream, so great are its advantages of
+                    water-conveyance.</p>
+            <p>THERE are five navigable rivers in this territory which discharge themselves
+                    immediately into the Mississippi, <choice>
+                  <abbr>viz</abbr>
+                  <expan>to wit</expan>
+               </choice>. Wolf,
+                    Hatchee, Forked-deer, Obion, and Reel-foot. <pb n="6" facs="sc067f.small.jpg"/>
+            </p>
+            <p>
+               <add place="top of page">(6)</add> WOLF river, seven miles from the mouth, is
+                    about 50 yards wide; Hatchee 80 yards; Forked-deer 60 yards; Obion 70 yards; and
+                    Reel-foot 30 yards. These rivers in general are deep, and flow with a gentle
+                    current, unincumbered with rocks or rapids, until they reach the barren or
+                    broken tract in which they rise. Each of those rivers is bordered by a small
+                    strip of low ground, 60 or 80 wards wide, and this again is terminated by a
+                    gentle slope or secondary bank. In order to understand the use, perhaps the
+                    cause of this remarkable circumstance, an inner and an outer bank to each of
+                    those rivers, it should be remembered that the river Mississippi, during the
+                    month of May, rises perpendicularly near 25 feet, at which season the low ground
+                    on both sides of that river is covered with water, to the depth of 12 or 18
+                    inches. This inundation, on the west side of the river extends to a great
+                    distance, for the country seems to be lower in that direction, and some of the
+                    waters of that river find their way to the ocean by other channels. On the east
+                    side of the river, the inundation hardly extends above five miles; at that
+                    distance the waters are restrained by a secondary bank, which runs parallel to
+                    the general course of the river. This outer bank is properly the beginning of
+                    high and dry land. It is obvious, that during those spring floods, the rivers,
+                    which run into the Mississippi, must suffer a considerable interruption. Their
+                    current is affected 10, 15, or 20 miles from the mouth, and they overflow their
+                    banks. On those occasions, the secondary bank of those small rivers becomes
+                    necessary, for it prevents the adjacent land from being overflowed, except the
+                    narrow border above described. The industry of a small French colony at <name type="place">New Orleans</name> has given a sufficient proof that the
+                    inundations of the Mississippi may be restrained by artificial banks, by which
+                    means arable land has been and may be secured, that is hardly equaled in value
+                    by any known lands, except in <name type="place">Egypt</name>. <pb n="7" facs="sc067g.small.jpg"/>
+            </p>
+            <p>
+               <add place="top of page">(7)</add>Of the Timber, Plants, Animals, <choice>
+                  <abbr>&amp;c.</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+               <lb/> THE land on the waters of <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice> and
+                    Cumberland rivers is generally well timbered. In some places, there are glades
+                    of rich land without timber; but these are not frequent nor large. The general
+                    growth is popular, hickory, black-walnut, buck-eye, or the horse-<choice>
+                  <orig>chesnut</orig>
+                  <reg>chestnut</reg>
+               </choice>, sycamore, locust, and the sugar-maple. The
+                    under growth, in many places, is cane 15 or 20 feet high, so close together, as
+                    to exclude all other plants; where the cane does not abound, we find red-bud,
+                    wild-plumb, spice-wood, red and white mulberry, <choice>
+                  <orig>gensang</orig>
+                  <reg>ginseng</reg>
+               </choice>, Virginia and <choice>
+                  <orig>Seneka</orig>
+                  <reg>Seneca</reg>
+               </choice> snake-root,
+                    angelica, sweet-anise, ginger, and wild-hops. The glades are covered with
+                    clover, wild-rye, buffalo-grass, and peavine. On the hills, at the heads of
+                    rivers, we find stately red-cedars; many of these trees are four feet in
+                    diameter, and forty feet clear of limbs. In those hills there is abundance of
+                    iron-ore, lead-ore, and coals. Copperas and alum fit for use have been gathered
+                    in caves near Nashville.</p>
+            <p>ON the rivers that run into the Mississippi, the growth is nearly the same as on
+                    the waters of Cumberland river.</p>
+            <p>IN speaking of a new country, that is extremely fertile and well covered with
+                    herbage, it can hardly be necessary to say that it abounds in wild game. The
+                    buffalo, elk, deer, and bear, are numerous, nor is there an scarcity of wolves,
+                    panthers, wild-cats, foxes, beavers, and otters. They have pheasants, partridges
+                    or quails, and <choice>
+                  <orig>turkies</orig>
+                  <reg>turkeys</reg>
+               </choice> in abundance through the year.
+                    During the winter, their waters are covered with the swan, wild-goose, brant,
+                    and duck. Cat-fish have been caught in those rivers, that weighed above 100
+                    pounds, and perch that weighed above 20 pounds. Nature seems to measure her
+                    works on a different scale on the opposite sides of the <choice>
+                  <orig>Apallachian</orig>
+                  <reg>Appalachian</reg>
+               </choice> mountains.</p>
+            <p>IN the year <date when="1780">1780</date>, a small colony under the
+                    direction of <name type="person">James Robertson</name>, crossed the mountain,
+                    and settled <pb n="8" facs="sc067h.small.jpg"/>
+               <add place="top of page">(8)</add> on Cumberland river, at the place now called
+                    Nashville. In year 1783, the state of <choice>
+                  <orig>North-Carolina</orig>
+                  <reg>North Carolina</reg>
+               </choice> laid off a tract of land to be reserved for the
+                    discharge of military bounties; this reservation included the infant colony, a
+                    small tract having been allotted to each of the settlers. A county was also laid
+                    off on those waters, called Davidson, to commemorate a brave and popular officer
+                    who fell in the service of his country. The bounty lands were run off by
+                    surveyors appointed for that purpose; and in a few years a considerable number
+                    of the original grantees fold their titles to other persons, and the settlement
+                    has lately been increasing very fast. There were 7000 people on that river in
+                    September 1791, and their number, since that time, is much increased. We
+                    frequently hear of emigrants from the parent state 2 or 300 at a time crossing
+                    the mountain.</p>
+            <p>Of the Soil. <lb/> THE farmers on Cumberland river, for the sake of describing
+                    their lands, distinguish them by first, second, and third quality. Land of the
+                    first quality will bear Indian corn or hemp; but it will not bear wheat without
+                    great reduction. Land of the second quality does not bear wheat to advantage
+                    until it has been reduced by two or three crops of corn, hemp, tobacco, or
+                    cotton. Land of the third quality bears every kind of grain, that is usually
+                    sown on dry ground, in the Atlantic states. It is agreed by all who have visited
+                    the Cumberland settlement, that 100 bushels of Indian corn are frequently
+                    gathered from an acre of their best land. Sixty or seventy bushels from an acre
+                    is very common; but the farmer who expects to gather such a crop must be
+                    careful, while the corn is soft, to guard it against bears and <choice>
+                  <orig>racoons</orig>
+                  <reg>raccoons</reg>
+               </choice>. This, however, is a trouble that must cease
+                    when the country is well settled. Wheat, barley, oats, rye, buckwheat, Indian
+                    corn, <choice>
+                  <orig>pease</orig>
+                  <reg>peas</reg>
+               </choice>, beans, potatoes of both forts, flax, hemp,
+                    tobacco, indigo, rice, <pb n="9" facs="sc067i.small.jpg"/>
+               <add place="top of page">(9)</add> and cotton, have already been planted in that
+                    settlement, and they all thrive in great perfection. The usual crop of cotton is
+                    800 pounds to the acre; the staple is long and fine. It is alleged, however,
+                    that the lands on the small rivers that run into the Mississippi, have a decided
+                    preference to those on the Cumberland river, for the production of cotton and
+                    indigo. No experiments have been made on land near the Mississippi, within the
+                    ceded territory; but there is a small settlement further down the river, within
+                    the limits of the United States, on a similar soil, where the growth and quality
+                    of cotton is so remarkable, that its culture is more profitable than any other
+                    crop. The soil on those rivers is deep and light, having a small mixture of sand
+                    with a black earth; hence, as the planters allege, it proves <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> to the culture of all kinds of roots, as
+                    well as of indigo and cotton.</p>
+            <p>Of the Climate.<lb/> THE climate in this country is very temperate; and the
+                    experience of ten years assures us, that it is healthy. The piercing northerly
+                    winds that prevail, during the winter, in the Atlantic states, seldom molest the
+                    inhabitants on Cumberland river for they have no great mountains to the north or
+                    the westward. The inhabitants of the Atlantic states are also subjected to
+                    sudden changes in the atmosphere, arising from their vicinity to the ocean; the
+                    air that comes from the surface of the sea, especially from the war Gulf-stream
+                    in winter, must by very different in its temperature from the air that comes
+                    across cold and high mountains; but the great distance between the Cumberland
+                    settlers and the ocean, considering that many great mountains are interposed,
+                    effectually secures them against the bad effects of those sudden changes.
+                    North-easterly storms never reach this country. <lb/> B <pb n="10" facs="sc067j.small.jpg"/>
+            </p>
+            <p>
+               <add place="top of page">(10)</add> OTHER circumstances present themselves, by
+                    which we may account for the remarkable healthiness of this settlement.
+                    Lime-stone is common on both sides of Cumberland mountain. The bottom of a river
+                    on the west side of the mountain, is frequently a continued stratum of this
+                    rock. It is generally known that small streams of water are apt to disappear in
+                    countries that abound in <choice>
+                  <orig>lime-stone</orig>
+                  <reg>limestone</reg>
+               </choice>: this is
+                    occasioned, doubtless, by the great fissures that are common in those rocks;
+                    from the same cause it probably arises, that we seldom find marshes or stagnant
+                    waters where there is much lime-stone. In this territory we find no stagnant
+                    waters; and this is certainly one of the reasons why the inhabitants are not
+                    afflicted with those bilious and intermitting fevers, which are so frequent, and
+                    often fatal, in the same latitude near the coast in <name type="place">Carolina</name>. Whether it proceeds from the goodness of the water, the
+                    purity of the air, the temperature of the climate, or whatever else may have
+                    been the cause, the inhabitants of that country have certainly been remarkably
+                    healthy, ever since they settled on the waters of Cumberland river, whence it
+                    appears that the climate is healthy and pleasant.</p>
+            <p>MEN frequently change their habitations in quest of a better place; and the man,
+                    who can enjoy the greatest degree of health, ease, and plenty, is generally
+                    supported to have the most desirable habitation. Keeping this remark in view,
+                    perhaps there are few places that present fairer prospects to the man who is
+                    looking for a settlement. Few places are more healthy; there is none more
+                    fertile; and there is hardly any other place, in which the farmer can support
+                    his family in such a degree of affluence. The soil is not only fertile, but
+                    easily cultivated. Six hogsheads of tobacco for one man does not require more
+                        <choice>
+                  <orig>labour</orig>
+                  <reg>labor</reg>
+               </choice>, than three hogsheads in the Atlantic
+                    states; and a difference similar to this appears in every other crop. In the
+                    culture of corn, the difference is greater. This circumstance alone would secure
+                    abundance to the industrious man; but we must <pb n="11" facs="sc067k.small.jpg"/>
+               <add place="top of page">11</add> also recollect, that, in cold climates, the
+                    farmer is shut up or prevented from working several months in the year, during
+                    which cold season he is consuming his stores, and his cattle are making greater
+                    destruction. When we consider the quantity of food that must be laid up for the
+                    necessary support of stock in cold climates, we may fairly calculate, that half
+                    of the farmer's time is spent in making provision for his cattle, or in
+                    sheltering himself from the weather. In the southern territory, cattle at
+                    present support themselves among the reeds, pea-vines, rye-grass, and clover;
+                    but when the progress os cultivation shall have destroyed the wild range, it is
+                    obvious, that the sodder and straw obtained from the ordinary crops, will be
+                    more than sufficient to support the cattle.</p>
+            <p>LET us review this account. It is granted, that, in cold climates, more than half
+                    of the farmer's time is lost from <choice>
+                  <orig>labour</orig>
+                  <reg>labor</reg>
+               </choice> by intemperate
+                    weather, or taken up in working for the support of his cattle; this gives an
+                    odds of two to one in <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> of the country that has
+                    been described. We are next to recollect, that one day's <choice>
+                  <orig>labour</orig>
+                  <reg>labor</reg>
+               </choice>, in this country, produces more than twice as much grain, or
+                    other provisions, as it produces in common land, and in a northern climate; this
+                    gives another difference of two to one, which makes four to one throughout the
+                    year. But, considering that industry, in all countries, bears some proportion to
+                    the necessities of the inhabitants, we shall suppose, that the farmer, in this
+                    territory, during the year, raises only twice as much provision for his family,
+                    as he could raise on common land in a colder climate; and the difference, as it
+                    respects himself, must be immense. In this country, he would live in great
+                    affluence, or become rich, by that measure of industry, which, in the other
+                    situation, would hardly be sufficient to the support of a miserable life.</p>
+            <p>PEOPLE, however, are seldom contented with the mere necessaries of life. There
+                    are certain luxuries, which the progress of society has taught us to consider
+                        <pb n="12" facs="sc067l.small.jpg"/>
+               <add place="top of page">12</add> as necessary. Sugar, coffee, and tea belong to
+                    this class; as do sundry articles of foreign dress. What is the farmer to sell
+                    in the western part of the <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice> government,
+                    that he may be enabled to buy foreign articles? He lives at a great distance
+                    from sea; how is he to be provided with salt?</p>
+            <p>IT is very remarkable, that the farmer has more use for salt in the western
+                    country, than in the Atlantic states. His cattle, in that country, will not
+                    thrive without salt; and this is the only thing, at present, he has occasion to
+                    give them. It has already been observed, that limestone abounds in the western
+                    country; this stone is not found in the southern states, until we approach the
+                    first ridge of mountains. As we travel westward, we find lead ore and salt
+                    springs in abundance. Does this country abound in articles that are seldom found
+                    in the Atlantic states, because it is composed of the original mother earth;
+                    whereas the land near the coast, in the middle and southern states, is
+                    adventitious? Be this as it may, the salt-springs that are found in every part
+                    of the western country, afford the utmost relief to the inhabitants, whose
+                    cattle, from the quality of their food, have more need of salt than those who
+                    are nearer the sea. Hitherto the salt-works have not been judiciously managed,
+                    either at <name type="place">Kentucky</name> or the Cumberland settlement: and
+                    yet salt, made from the water of salt-springs, may be purchased for one dollar
+                    the bushel. As the source can never fail, and the mode of preparing it is
+                    capable of great improvement, we may reasonably suppose, that the average price
+                    of salt made on Cumberland river, will be three fourths of a dollar the
+                    bushel.</p>
+            <p>THE settlers have not had much experience of bringing loaded boats up the
+                    Mississippi; but they calculate, from the trips they have made, that salt may be
+                    freighted from New-Orleans to Nashville, at rather less than three eights of a
+                    dollar the bushel; and it appears from similar experiments, that pork, flour, or
+                    other produce, may be taken from Nashville to New Orleans at less than <pb n="13" facs="sc067m.small.jpg"/>
+               <add place="top of page">13</add> three eights of a dollar the bushel. Those
+                    calculations regard the river Mississippi in its present state, with all its
+                    circular bendings, the banks covered with trees, and no part of the upper
+                    country settled; but the river, at present, is more than double the necessary
+                    length. From the mouth of the river Ohio to New-Orleans, the present distance by
+                    water is supposed to be 1000 miles; the direct distance is considerably short of
+                    500 miles. In navigating that river we often find places like a horse-shoe,
+                    where we do not gain more than a mile by failing or rowing five miles. Every one
+                    of those bends may be cut off at a small expense. Let a common ditch, three or
+                    four feet deep, be dug across those necks of land, the roots being cut away when
+                    the river is low, and the next flood, by the rapidity of the stream through the
+                    short passage, will change the ditch to a navigable channel. An experiment of
+                    this kind has been made with success, at a place called <name type="place">Point
+                        Coupe</name>. Two great benefits will arise from this process of giving the
+                    river a straight course; one half of the time and labour in ascending the river,
+                    will be saved by shortening the distance. This case supposes that vessels ascend
+                    the river by the help of oars, and poles, without sails, which is generally the
+                    case at present, because the river is so crooked, that no wind can be fair; but
+                    in case the chief bendings of the river should be cut off, as a southerly wind
+                    prevails there for the greater part of the year, every vessel would ascend by
+                    the use of sails, and the difficulties of that navigation would be reduced to a
+                    trifle. Considering what would be the utmost expense of transporting salt from
+                    New-Orleans to Nashville, and considering that Nashville is 2 or 300 miles by
+                    water farther from New-Orleans, than some other parts of the territory, and
+                    presuming that a great share of the present expense may be saved by practicable
+                    improvements in the navigation of the Mississippi, we may readily conclude, that
+                    the mere freight of the luxuries of life must be a small object to the
+                    inhabitants of that territory. As matters are now circumstanced, provided the
+                        <choice>
+                  <orig>navi  gation</orig>
+                  <reg>navigation</reg>
+               </choice>
+               <add place="top of page">14</add> of the Mississippi was free, the <choice>
+                  <orig>setters</orig>
+                  <reg>settlers</reg>
+               </choice> on Cumberland river would take their produce
+                    to a shipping port, at less expense than it can be <choice>
+                  <orig>waggoned</orig>
+                  <reg>wagoned</reg>
+               </choice> fifty miles in any country.</p>
+            <p>As the country that has been described, is capable of producing, in great
+                    perfection, every article that grows in the Atlantic states, there are no
+                    leading circumstances, by which we can possibly determine, what is like to be
+                    the general course of its trade, or the particular articles in which its most
+                    valuable exports will consist. Iron, lead, pot-ash, pork, bacon, butter, cheese,
+                    corn, wheat, barley, flax, hemp, rice, indigo, and cotton, have all been
+                    mentioned by different persons from that country, as articles of export. Each of
+                    these articles will doubtless be exported in greater or less quantity, according
+                    to the demand; but it appears most probable, that the inhabitants will make
+                    their chief remittances in tobacco, hemp, rice, indigo, and cotton. The low
+                    grounds on the Mississippi must produce great crops of rice, and it has already
+                    been observed, that the high grounds near that river are particularly <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> to the culture of indigo and cotton. The
+                    article last mentioned must be a constant source of wealth to the planter,
+                    because its value is considerable when compared with its weight, and it must be
+                    in constant demand in foreign markets. It is hardly necessary to observe, that
+                    in a country where timber of the best and most durable quality, and all other
+                    materials abound, necessary for shipping, the inhabitants will doubtless build
+                    ships for a distant market.</p>
+            <p>EVERY thing that has been said concerning the advantages to be expected by people
+                    who settle in the Tennassee government, is founded on a supposition that all the
+                    country may be settled, and the inhabitants permitted to navigate the
+                    Mississippi. At present they are greatly restrained on both those heads; but
+                    there does not seem to be any violence offered to common sense, nor any great
+                    departure from probability, in supposing that the case will be materially
+                    altered within a few years. It <pb n="15" facs="sc067o.small.jpg"/>
+               <add place="top of page">15</add>
+                    is hardly worth while to observe, that the navigation of the Mississippi is ours
+                    by the express words of treaties; because paper promises are seldom very binding
+                    on nations, unless they are supported by other arguments; but it happens in the
+                    present case, that arguments more conclusive than treaties present themselves to
+                    every attentive mind. Necessity is invincible, and a nation so well informed as
+                    the Spaniards must discover, that our fellow citizens on the western waters
+                    cannot remain quiet without the use of the Mississippi. The progress of
+                    population in that country is no more to be prevented or restrained than the
+                    flowing of the rivers. It cannot be retarded by laws, not by treaties, nor by a
+                    stronger cure- the fear of death. The proofs are recent and clear. There was not
+                    a single family settled in Kentucky before the year <date when="1775">1775</date>, and the first colony migrated to that country in the face of
+                    numerous and hostile savages, when they were more openly supported than of late
+                    years, by the British. It is known, that they have continued, from the
+                    beginning, in a constant state of war; and yet the settlement, at this hour,
+                    contains near one hundred thousand inhabitants. The first adventurers were men,
+                    and the increase for several years was chiefly occasioned by emigrants; but
+                    women are now become numerous, and the settlement begins to enjoy the benefit of
+                    a rapid increase from early marriage and constant emigration. This observation
+                    is also applicable to the settlers in the <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice>
+                    government; wherefore, it is a very moderate computation, that supposes four
+                    hundred thousand settlers on the western waters by the end of twenty years from
+                    this time. Are the inhabitants of such a country to be restrained from going to
+                    sea by means of a river that washes their land? Is the little colony of
+                    New-Orleans, by the help of a few soldiers, to sustain the weight of such a
+                    people, and prevent them from descending? We could as readily believe with the
+                    poets, that Mount Atlas sustains the heavens. To say that they are citizens, and
+                    must be restrained by the laws of the Union, is to suppose that <pb n="16" facs="sc067p.small.jpg"/>
+               <add place="top of page">(16)</add> men will submit to the dominion of
+                    laws that are destructive of property — that they will endure oppression,
+                    when they can emancipate themselves; that they will suffer under the want of
+                    common necessaries, when they have comfortable supplies and riches before their
+                    eyes; a case that is not like to happen in America. There are people of such a
+                    stamp in the world, but this race does not thrive in the Atlantic states; much
+                    less can such a race of animated machines be expected to grow in the western
+                    country. Viewing the subject in this point of light, and considering the natural
+                    effect of this most unnatural obstruction, events that are very unpleasing
+                    present themselves to the mind.</p>
+            <p>THE western people consider the navigation of the Mississippi as the light of the
+                    fun, a birth-right that cannot be alienated. They believe that the national
+                    government is bound to support this claim. Let them be told, that their claims,
+                    for certain political reasons, cannot be admitted, and they will discover no
+                    strength in the argument. They will think of taking by force, the thing that
+                    seems to be retained by finesse. Let them be told, that such conduct would be
+                    treasonable, and they will reply, that obedience and protection are mutual. If
+                    those people should commit a single act of violence on that head, they could not
+                    afterwards be restrained by all the powers of the national government. It is
+                    true, that the capture of New-Orleans and every port on the Mississippi, would
+                    not secure them the navigation of that river. A single frigate at the mouth of
+                    the river, would blast the mercantile schemes of all the people in the western
+                    country; but we know, that men who have once dipped their feet in treason, are
+                    apt to proceed. The penalty is alike for little and for much. Hardy, adventurous
+                    men, who are prevented from cultivating the soil, because they are not suffered
+                    to carry their produce to sea, may look for some other employment; they may
+                    think of a more easy way of getting money. Objects of ambition will not fail to
+                    present themselves. Considering, therefore, <pb n="17" facs="sc067q.small.jpg"/>
+               <add place="top of page">(17)</add> that the settlement of the western country
+                    cannot possibly be retarded; that no human eloquence can dissuade those people
+                    from claiming the Mississippi, which is their chief avenue to wealth; that the
+                    commerce of Spain might be greatly increased by permitting them to enjoy the
+                    free use of that river, and that consequences, unpleasing to both nations, must
+                    infallibly arise, from a perseverance in shutting up the river; we may consider
+                    the free navigation of the Mississippi as a certain event. By tracing the short
+                    lines which mark the Indian boundary, we discover, that all lands on Duck river
+                    and Elk river, as well as on the several rivers which run into the Mississippi,
+                    continue to be claimed by the Indians; and those lands are among the best in
+                    that country. It may be observed, at the same time, that all those lands are
+                    claimed by the <name type="person">Chickasaws</name>, a small tribe of friendly
+                    Indians. We may be assured, that the government of the United States will not
+                    permit those lands to be settled, without the consent of the Indians; but we
+                    must discover, that the natural progress of things, in a short time, will render
+                    a considerable part of that country, especially the lands on the Mississippi,
+                    useless to the Indians, and necessary to the Whites. Numerous boatmen, passing
+                    up and down the river, will have frequent occasion to go on shore; they will
+                    need refreshments. Many who go down on rafts or boats, will return by land; they
+                    will destroy the game. In a word, every man who lives on the western waters must
+                    be interested in having settlements on the Mississippi. There can be little
+                    difficulty in making a bargain for a country that is of great use to the Whites,
+                    and little use to the Indians. The true interest of the United States would
+                    point out a price for those lands, that would enable the <name type="person">Chickasaws</name> to live in a degree of ease and affluence, which
+                    otherwise they can never expect. Suppose the Indians should cede all the lands
+                    to the northward of Wolf river; in that case, the amount of the North-Carolina
+                    grants being deducted, the United States will have at least six millions of <add place="bottom of page">C</add>
+               <pb n="18" facs="sc067r.small.jpg"/>
+               <add place="top of page">(18)</add> acres of good land for sale;
+                    lands of such a quality, and so near the sea, will hardly be sold, even by the
+                    public, for less than one third of a dollar the acre. Six millions of acres at
+                    one third of a dollar, would bring two millions of dollars, by which a debt to
+                    that amount must be extinguished, and 120,000 dollars per annum saved to the
+                    national treasury. Suppose the twelfth part of the money thus saved, ten
+                    thousand dollars, was paid annually to the Chickasaws; one half, in corn or
+                    other provisions at a stipulated price; and the other half in clothing; is it
+                    not obvious, that their condition would be greatly mended, and equally clear,
+                    that the state of our finances would be much improved by such a regulation? It
+                    is true, that Indian lands have commonly been obtained on terms much less
+                    profitable to the Indians, and more expensive to the Whites; but it may be
+                    presumed, that experience will teach us to forsake the old plan, since it is
+                    neither recommended by the dictates of humanity nor the rules of economy.</p>
+            <p>SUCH is the territory south of the Ohio. The eastern division, as we have
+                    observed, is composed of small mountains and <choice>
+                  <orig>vallies</orig>
+                  <reg>valleys</reg>
+               </choice>,
+                    which are extended in the direction of the rivers. There is no plain, or tract
+                    of arable land, of any considerable width, in that settlement; but the <choice>
+                  <orig>vallies</orig>
+                  <reg>valleys</reg>
+               </choice> are generally fertile. In the great western
+                    division, there is not a single eminence or ridge, that claims the name of a
+                    mountain. This country, nevertheless, is sufficiently diversified by rising
+                    ground, and bears no resemblance to the continued plain, which is found near the
+                    coast, in the middle and southern states. The rich lands near the Cumberland
+                    river are considerably broken by knobs or short hills; but those hills have
+                    lime-stone for their basis, and are fertile and fit for cultivation to the very
+                    top. Streams that run in opposite direction to the very top. Streams that run in
+                    opposite directions are uniformly divided by rising ground, and some of the
+                    ridges are considerably elevated; but they are generally covered with good soil,
+                    and are seldom too steep for the plough. There are two remarkable ridges or
+                    broken tracks, in that country of considerable <choice>
+                  <orig>di  mensions</orig>
+                  <reg>dimensions</reg>
+               </choice>, <add place="top of page">(19)</add> which
+                    are not included in the above description; for they are stony or barren in many
+                    places, the first of those ridges divides the waters of Cumberland river from
+                    those of the <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice>; it is broad as it
+                    approaches the foot of Cumberland mountain, or rather, diversified in that part
+                    by alternate hills and plains; but the plains, being chiefly without timber, are
+                    called barrens. The second remarkable tract of broken or barren land, begins
+                    near the mouth of <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice>, dividing the waters of
+                    that river from those of the Mississippi, and extending southerly towards the
+                    Chickasaw towns. The small rivers that run into the Mississippi, have their
+                    heads in this ridge. It is, in some parts, above twenty miles broad, rising at
+                    the very margin of the <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice>. It is covered
+                    with long grass, having little or no timber, except a small growth on the
+                    watercourses, which are numerous.</p>
+            <p>THE territory west of Cumberland mountain has been stated at fifteen millions of
+                    acres; but this calculation leaves eight millions for the Holston settlement,
+                    which is certainly too much. The amount that may remain for sale on that side of
+                    the mountain, has, in round numbers, been stated at six millions; but the
+                    quantity, in all probability, will be considerably greater, without incident the
+                    great tract of vacant land south of the French Broad, nor the considerable
+                    tracts of arable land that are found in Cumberland mountain, nor those in the
+                    Cumberland barrens, so called, where the land, though without timber, is
+                    frequently very good; the Indians formerly, in burning the long grass, must have
+                    destroyed the trees.</p>
+            <p>IT is probable, that all the lands to the northward of the great bend of the
+                        <choice>
+                  <orig>Tennassee</orig>
+                  <reg>Tennessee</reg>
+               </choice>, may hereafter be joined to those
+                    ceded by North-Carolina, so as to form one state; such a state would have a
+                    natural boundary. And when we consider that the Creeks and <choice>
+                  <orig>Chactaws</orig>
+                  <reg>Choctaws</reg>
+               </choice> live to the southward, who are numerous nations, together
+                    with the Chickasaws, we shall be apt to mark the latitude of the south bend, for
+                    a long series of years, <pb n="20" facs="sc067t.small.jpg"/>
+               <add place="top of page">(20)</add> as our southern boundary for the purpose of
+                    settlement.</p>
+            <p>THE reader has been informed, that the soil, climate, and productions of the
+                    country on the western waters, are different from those in the Atlantic states;
+                    and it has been intimated, that the whole face of nature in that country bears a
+                    different appearance. Observations concerning things that are new or uncommon,
+                    should be made and received with caution; but the reader cannot fail to realize
+                    the narrative, if he takes the trouble of recollecting two or three remarkable
+                    facts, to which reference has already been had.</p>
+            <p>IN the Atlantic states, the strata of lime-stone are broken, and inclined
+                    considerably to the horizon, being, at a medium, nearly parallel to the axis of
+                    the earth. In the western country, the strata are constantly found parallel to
+                    the horizon.</p>
+            <p>IN the Atlantic states, salt springs are seldom or never found. In the western
+                    country, they abound in every part.</p>
+            <p>IN the Atlantic states, pit-coal is very scarce, and is obtained with difficulty.
+                    In the western country, it is common, and frequently appears within a few feet
+                    of the surface.</p>
+            <p>ONE of those countries must have suffered prodigious convulsions; the other may
+                    be supposed to retain more of its original form. Is it at all surprising, that a
+                    country, so different in its structure, its appearance, and essential qualities,
+                    should produce more plentiful crops, or that it should engage a considerable
+                    degree of public attention? <add place="below text">THE END.</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

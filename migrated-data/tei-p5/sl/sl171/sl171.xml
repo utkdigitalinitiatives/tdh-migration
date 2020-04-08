@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl171">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Feb. 19, Highwassee Garrison, [TN] [to] Colonel James Brown / Return J. Meigs : a machine readable transcription of an image</title>
+            <author>Meigs, Return J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl171</idno>
+            <idno>OCLC: 51165161</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Feb. 19, Highwassee Garrison, [TN] [to] Colonel James Brown / Return J. Meigs</title>
+               <author>Meigs, Return J. </author>
+               <date when="1815-02-19">February 19, 1815</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 19, 1815, from Cherokee Agent Return J. Meigs to James Brown, a son of Colonel Joseph Brown. Meigs is advising Brown that recovering his father's slaves from Cherokee chief Coteoyetohee is threatening a peace between the US and the Cherokee and is in violation of a treaty. Meigs reminds Brown that treaties are the highest law and that all are accountable to the law.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">83-86</note>
+               <note type="document" anchored="true">sl171</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians -- Treaties</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Slavery</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl171a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Highwassee Garrison</name>
+                     <date when="1815-02-19">19th February 1815</date>.</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have received your letter of the <date when="1815-01-03">3rd. January</date> last on the subject of the Negroes taken from <name type="person">Co,te,oy,hee</name> by you   on your return from the army active against the <name type="people">Creeks</name> —</p>
+            <p>The <gap agent="damage"/> you give as states in your letter <del type="overstrike">is a tragical one</del> of the transaction of <del type="overstrike">the</del> Co,te,oy,hee at the time he took your fathers Boat &amp; property is truly a tragical account &amp; I have no <gap agent="damage"/>
+               <unclear>d</unclear>oubt of the facts you mention and no man can wonder that you <choice>
+                  <orig>ar</orig>
+                  <reg>are</reg>
+               </choice> so closely connected by blood &amp; family affection should even at this distance of time feel the distress brought on your family by savage barbarity but peace being made with the <name type="people">Cherokees</name> by the highest authority of the <name type="place">
+                  <choice>
+                     <abbr>U.</abbr>
+                     <expan>United</expan>
+                  </choice> States</name>
+               <choice>
+                  <abbr>leg</abbr>
+                  <expan>legislature</expan>
+               </choice> (a treaty) we cannot on my account break that treaty — treaties are declared to be the supreme laws of  the land. —</p>
+            <p>Coteoyetohee has sent a man to me to demand an inquiry into the affair of having the negroes <choice>
+                  <orig>forcebly</orig>
+                  <reg>forcibly</reg>
+               </choice> taken from him —</p>
+            <p>And now it is agreed on by Coteoyetes friend who came that if you will give him one of the Children that he will not seek any further for the recovery of the negroes.</p>
+            <p>The Government having agreed by the 9th article of the treaty at <name type="place">Tellico</name> in <date when="1798">1798</date> to an act of oblivion for all animosities, aggressions, thefts &amp; plunderings, prior to the date of that treaty  — would bar you from recovery of the negroes — and by law <pb n="2" facs="sl171b.small.jpg"/> might subject you to damages for <choice>
+                  <orig>forceably</orig>
+                  <reg>forcibly</reg>
+               </choice> taking the property — We are all to be bound by the laws of our own making &amp; if certain laws by <choice>
+                  <orig>thire opporation</orig>
+                  <reg>their operation</reg>
+               </choice> bear hard on some individuals we cannot <choice>
+                  <orig>kiep</orig>
+                  <reg>keep</reg>
+               </choice> it.</p>
+            <p>whether the government has a right to make such <gap agent="damage"/>
+               <unclear/> in the treaty or not is not for us to determine at this late period. the law is made and is binding equally on all the parties.</p>
+            <closer>
+               <salute>I am Sir very respectfully your <choice>
+                     <abbr>Obt.</abbr>
+                     <expan>Obedient</expan>
+                  </choice> servant.</salute>
+               <signed>
+                  <name type="person">Return J Meigs</name> . </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Colonel James Brown</name>
+                  </addrLine>
+               </address>
+               <add place="post script">P. S. As an Officer of the government I have no right to advise you to a compromise with Coteoyeotohee : but by the request of the friend of Cote,oye,to,hee I have written this letter.</add>
+               <signed>
+                  <choice>
+                     <abbr>RJM</abbr>
+                     <expan>Return Jonathan Meigs</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

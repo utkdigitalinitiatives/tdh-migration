@@ -1,0 +1,169 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1834 Feb. 24, Alexandria, L[ouisian]a [to] James King, Murfreesboro, Tennessee / Tho[mas] O. Moore : a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc027</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1834 Feb. 24, Alexandria, L[ouisian]a [to] James King, Murfreesboro, Tennessee / Tho[mas] O. Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1834-02-24">February, 24, 1834</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 24, 1834 from James King to his cousin Thomas Moore.  King mentions that three of his slaves had run away and describes their pursuit and capture.  He also writes of his prospects of his cotton and corn crops in light of the "bank question" possibly being settled by Congress.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1834</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">gc027</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Slaves</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc027a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Alexandria <choice>
+                           <abbr>La</abbr>
+                           <expan>Louisiana</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Feb</abbr>
+                        <expan>February</expan>
+                     </choice> 27</addrLine>
+               </address>
+               <add>50</add>
+               <add>
+                  <name type="person">
+                     <choice>
+                        <abbr>T.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> O. Moore</name> 1834</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name>
+                     <name type="place">Murfreesboro</name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>Mail</add>
+               <pb n="2" facs="gc027b.small.jpg"/>
+               <address>
+                  <addrLine>Alexandria <choice>
+                        <abbr>La</abbr>
+                        <expan>Louisiana</expan>
+                     </choice>,</addrLine>
+                  <addrLine>
+                     <date when="1834-02-24">24 <choice>
+                           <abbr>Feby.</abbr>
+                           <expan>February</expan>
+                        </choice> 1834</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> I had the pleasure of bringing Sarah from <name>Henry Overton</name>s    on the 9th <choice>
+                  <abbr>inst.</abbr>
+                  <expan>instant</expan>
+               </choice> where she arrived in safety and good health and is very much pleased with <choice>
+                  <abbr>Loua.</abbr>
+                  <expan>Louisiana</expan>
+               </choice>  I would have written you sooner but on the day of my arrival home with sister found that three of my negroes had run away and as they had went off without any cause the presumption was they were endeavoring to get back to <name>Carolina</name> I accordingly pursued the route they came, but I was entirely <choice>
+                  <orig>decieved</orig>
+                  <reg>deceived</reg>
+               </choice> they were caught six or eight days since making their way to <name type="place">Texas</name>had gotten within fifty miles of the <name>Sabine</name>,  failing to take the near route.  I have given them a dose &amp; put them to work this morning.  I have an immense quantity of heavy labor to do before I can plant my cotton crop.  am now ready to plant my corn ⁁ <add>a great many</add> others have finished.  I shall put in one hundred acres in corn and am pushing hard  to get three hundred in cotton on the prospects for a good price next season is flattering should the Bank question be settled by Congress <pb n="3" facs="gc027c.small.jpg"/> I have still the larger portion of my Crop unsold and fear that I have refused a better price than I shall obtain as the pressure in the money market in <name>
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name> is at this time very great, the U Bank has a great many friends who are large <choice>
+                  <orig>Capitolists</orig>
+                  <reg>Capitalists</reg>
+               </choice> and they strain every nerve to oppress the people that they may be favorable to a recharter and a return of the <choice>
+                  <orig>Deposites</orig>
+                  <reg>Deposits</reg>
+               </choice>
+               <choice>
+                  <orig>niether</orig>
+                  <reg>neither</reg>
+               </choice> of which I hope will ever be effected.  I herein enclose you thirty dollars the amount loaned to Sarah and am much obliged to you for your Kindness.  tell Cousin Martha I have her pecans but have seen no person by whom I could send them but will by the first opportunity also a sack of Mexican seed,  should no unexpected accident occur &amp; I should not get too money hungry I shall be in <choice>
+                  <abbr>Tenn</abbr>
+                  <expan>Tennessee</expan>
+               </choice>  in 1835 I expect to leave for the City in a few days where I shall be a week or two.  negroes are falling,  should I not accept an offer that has been made me in Orleans I shall have to get you to purchase me a blacksmith they ask for one in the city who is a complete  master of his trade $2000 I think it probable I shall take him, Sarah &amp; wife joins me in love to all</p>
+            <closer>
+               <choice>
+                  <abbr>yr. afftc</abbr>
+                  <expan>your affectionate</expan>
+               </choice> Cousin <signed>
+                  <choice>
+                     <abbr>Tho.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O. Moore</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

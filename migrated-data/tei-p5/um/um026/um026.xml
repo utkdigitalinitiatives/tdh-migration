@@ -1,0 +1,179 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Oct. 10, Columbia Institute [to] Col[onel] Rob[er]t J. Chester, Jackson, Tennessee / Mary Jane Chester  : a machine readable transcription of an image</title>
+            <author>Chester, Mary Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um026</idno>
+            <idno>OCLC: 50274735</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Oct. 10, Columbia Institute [to] Col[onel] Rob[er]t J. Chester, Jackson, Tennessee / Mary Jane Chester</title>
+               <author>Chester, Mary Jane</author>
+               <date when="1840-10-10">October 10, 1840</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated October 10, 1840, from Mary Jane Chester to her parents, Elizabeth and Robert Chester of Jackson, Tennessee. Mary Jane relates her time spent at the Columbia Institute and how much she misses everyone back home.</note>
+               <note type="collection" anchored="true">Chester Family Papers, MS25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um026</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Mary Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um026a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col. Robt.</abbr>
+                           <expan>Colonel Robert</expan>
+                        </choice> J Chester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">
+                  <figure>
+                     <figDesc>postmark</figDesc>
+                  </figure> per mail</add>
+               <add place="bottom">
+                  <date when="1840-10-10">10 <choice>
+                        <abbr>Oct.</abbr>
+                        <expan>October</expan>
+                     </choice> 1840</date>
+               </add>
+               <pb n="2" facs="um026b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia Institute</name>
+                  </addrLine>
+               </address>
+               <date when="1840-10-10">Saturday <choice>
+                     <abbr>Oct.</abbr>
+                     <expan>October</expan>
+                  </choice> 10th 1840</date>
+               <salute>Dear Papa &amp; Mama.</salute>
+            </opener>
+            <p>You wrote to me that you had received only one letter from me since I arrived here; but this will be the fourth that I have written. I wrote an answer to my sister's on last Wednesday. O! I was so much pleased to receive a letter from her, and it was written so well I wish that I could receive one from brother <name type="person">John</name>. O! I was so very happy to hear that <name type="person">Aunt Narcissa</name> is coming up. I hope that she will not get out of the notion; for if she does I shall be so much disappointed. I shall look for her on Thursday; I wish that you both would come up with her. I had commenced school before I received your last letter. I have been enjoying very health ever since I commenced school.</p>
+            <closer>
+               <salute>I remain your affectionate daughter</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>M. J.</abbr>
+                        <expan>Mary Jane</expan>
+                     </choice>Chester</name>
+                  <address>
+                     <addrLine>
+                        <name type="person">
+                           <choice>
+                              <abbr>Col. Robt.</abbr>
+                              <expan>Colonel Robert</expan>
+                           </choice> J. &amp; Elizabeth Chester</name>
+                     </addrLine>
+                  </address>
+               </signed>
+               <add place="end of page 2">
+                  <note>
+                     <p>P.S. I <choice>
+                           <orig>staid</orig>
+                           <reg>stayed</reg>
+                        </choice> all <choice>
+                           <orig>nigh</orig>
+                           <reg>night</reg>
+                        </choice> at cousin <name type="person">Sam Walker's</name> night and cousin <name type="person">Elen</name> sent for cousin <name type="person">Sally and Kate Wormely</name> and had a Candy Stew; we had a great deal of pleasure. <name type="person">Mr Brinkley</name> arrived here yesterday but I have not seen him yet. I want to see him because he came from  </p>
+                  </note>
+               </add>
+               <pb n="3" facs="um026c.small.jpg"/>
+               <add place="top of page 3">
+                  <note>
+                     <p>
+                        <name type="place">Jackson</name>; and I want to hear from home. The letter's have just this <choice>
+                           <orig>minuet</orig>
+                           <reg>minute</reg>
+                        </choice> got here and not one line for me. O! me I am so much disappointed; I did expect one to day — but how can I expect to get one every mail &amp; I know I ought not to but I cannot help it. Dear Mama I have got my <choice>
+                           <orig>flanens</orig>
+                           <reg>flannels</reg>
+                        </choice> made up. Give my love to all my relations, kiss all of the children for me. give my love to all of my schoolmates; and <choice>
+                           <orig>except</orig>
+                           <reg>accept</reg>
+                        </choice> the love of your affectionate Daughter</p>
+                  </note>
+               </add>
+               <signed>Mary Jane Chester</signed>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Col. R.</abbr>
+                        <expan>Colonel Robert</expan>
+                     </choice>J. &amp; <choice>
+                        <abbr>E.</abbr>
+                        <expan>Elizabeth</expan>
+                     </choice> Chester</addrLine>
+               </address>
+               <add place="bottom of page">P.S. Give my love to all of the Servants. I would have written Aunt <choice>
+                     <abbr>N.</abbr>
+                     <expan>Narcissa</expan>
+                  </choice> but she will not be at home.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

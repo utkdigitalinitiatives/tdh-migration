@@ -1,0 +1,118 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl267">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ Letter] 1847 Aug. 2, Russellville [to] Joseph D. Hamilton, Nashville, Tennessee / John W. Mills   : a machine readable transcription of an image</title>
+            <author>Mills, John W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl267</idno>
+            <idno>OCLC: 51237987</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1847 Aug. 2, Russellville [to] Joseph D. Hamilton, Nashville, Tennessee / John W. Mills</title>
+               <author>Mills, John W.</author>
+               <date when="1847-08-02">August 2, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from John W. Mills to Joseph D. Hamilton, dated August 2, 1847. Mills apologizes for misplacing a letter to Hamilton that contained some money. He also mentions the upcoming election and that he hopes the Whigs will beat the Democrats.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sl267</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Mills, John W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl267a.small.jpg"/>
+            <opener>
+               <salute>Dear Joseph</salute>
+            </opener>
+            <p>By some <choice>
+                  <orig>incalcuble</orig>
+                  <reg>incalculable</reg>
+               </choice> mischance the letter I wrote you soon after my marriage enclosing the money for the ring, was instead of being mailed, mislaid, and was to my very great mortification, found safely put away not very long since — I hope, Joe, that you will allow me to make the "Amends honorable" for I am truly ashamed that you have been treated so <choice>
+                  <orig>shablily</orig>
+                  <reg>shabbily</reg>
+               </choice> — I trust then that you will understand that it was any thing but an intentional oversight —</p>
+            <p>We have nothing new here. Our Election is now going on, and very little excitement. The Democrats are <unclear>sanguine about</unclear> their success, but I think we will be too strong for them, notwithstanding the apathy among the whigs —</p>
+            <p>Please present me very kindly to your Mother &amp; sister, and to other friends —</p>
+            <p>I am writing in a great hurry, and must ask you to excuse my very hasty letter — Accept <unclear>sir</unclear> my assurances of regard and  believe me</p>
+            <closer>
+               <salute>Very Truly Yours</salute>
+               <signed>
+                  <name type="person">John W. Mills.</name>
+               </signed>
+               <add place="left of signature">
+                  <name type="place">Russellville</name>
+                  <date when="1847-08-02">2d August / 47</date>
+               </add>
+               <pb n="2" facs="sl267b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr Joseph D Hamilton</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">
+                  <unclear>Politeness of Mr Harrison</unclear> }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl465">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1795 Sep. 21, Tellico Blockhouse [Territory South of the Ohio River, to] [William] Blount / John McKee: a machine readable transcription of an image</title>
+            <author>McKee, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl465</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1795 Sep. 21, Tellico Blockhouse [Territory South of the Ohio River, to] [William] Blount / John McKee</title>
+               <author>McKee, John</author>
+               <date when="1795-09-21">September 21, 1795</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">There are two letters. The first letter is from John McKee to Governor William Blount, dated September 21, 1795. McKee confirms sending letters  to Cherokee Chiefs and Mr. Dinsmoor as requested by Governor Blount. The second letter is a statement of witness from Silas Dinsmoor and John McKee to Blount, dated October 21, 1795. They confirm that a rifle was given to Willioe in thanks for services rendered to the United States. </note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl465</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Blount, William, 1749-1800.</term>
+               <term>Cherokee Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n88244913"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McKee, John, 1771-1832</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl465a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Tellico Blockhouse</name>
+                     <choice>
+                        <abbr>Sep</abbr>
+                        <expan>September</expan>
+                     </choice> 21st 1795.</addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>In obedience to your instructions I dispatched <name>Willioe</name> &amp; <name>Toonai</name> with Letters for <name>M Dinsmoor</name> the Stallion &amp; to the Chiefs of the <name>Cherokee</name>s from the execution of which they have returned &amp; brought with them three stolen horses which they collected in the Lower Towns.</p>
+            <closer>
+               <salute>I have the honor to be with respect <lb/> Your Excellencys <lb/>
+                  <choice>
+                     <abbr>Obt</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name>John McKee</name>
+               </signed>
+               <address>
+                  <addrLine>His Excellency</addrLine>
+                  <addrLine>
+                     <name>Governor Blount</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl465b.small.jpg"/>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <p>We <name>Silas Dinsmoor</name> &amp; John McKee saw delivered by <name>Barclay MGhee</name> to Willioe by Governor Blount's order a new Riffle gun, valued at twenty five Dollars in reward for services rendered the United States by the said Willioe</p>
+            <closer>
+               <address>
+                  <addrLine>Tellico Blockhouse<date>October 21st 1795</date>
+                  </addrLine>
+               </address>
+               <signed>
+                  <name>Silas Dinmoor</name>
+               </signed>
+               <signed>John McKee</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

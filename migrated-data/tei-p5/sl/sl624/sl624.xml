@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl624">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 Dec, 28, Pulaski, Tennessee [to] James C. Jones, Nashville, Tennessee / Thomas M. Jones : a machine readable transcription of an image</title>
+            <author> Jones, Thomas, M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl624</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1842 Dec, 28, Pulaski, Tennessee [to] James C. Jones, Nashville, Tennessee / Thomas M. Jones</title>
+               <author> Jones, Thomas M.</author>
+               <date when="1842-12-28"> 
+			 December 28, 1842</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Thomas M. Jones to Governor James C. Jones, dated December 28, 1842. Jones is requesting on behalf of the Pulaski-Alabama Turnpike Company that the turnpike's toll booths be opened. He also mentions that there should be more toll booths on the turnpike.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl624</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Turnpike roads</term>
+               <term>Jones, James C.</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jones, Thomas, M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl624a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Pulaski</name>
+                     <date>
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 28th <unclear>1842</unclear>
+                     </date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Hond</abbr>
+                        <expan>Honored</expan>
+                     </choice>
+                     <name>James C Jones</name>
+                     <choice>
+                        <abbr>Gov</abbr>
+                        <expan>Governor</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>The <name>Columbia</name>, Pulaski, and <name>Elkton</name> &amp; <name>Alabama</name> Turnpike Company, having been finished from Columbia to Elkton, as you will see by reference to the last report of the commissioners which has been forwarded, and I presume, now on file in the Secretary's office, and I must therefore request of you your warrant to open and receive at all the gates on said Turnpike road___. I find from examination, that the Turnpike Company have heretofore received your warrant to open and receive toll at five of the gates between Pulaski &amp; Columbia we are by law entitled to one gate more between Pulaski &amp; Columbia and three gates between Pulaski &amp; Elkton, being of our gates which we wish the authority of the state to open, which will be nine in all from Columbia to Elkton___ As some of the gates have been changed, and the particular <add>gates</add>
+               <del type="overstrike">[unclear]</del>not specified in the warrant heretofore issued, it would probably be better to issue a warrant for the whole in order to prevent any difficulty.</p>
+            <closer>
+               <salute>Yours Respectfully</salute>
+               <signed>
+                  <name>Thomas M Jones</name>
+               </signed>
+               <add>President of <lb/> said company</add>
+               <pb n="2" facs="sl624b.small.jpg"/>
+               <address>
+                  <addrLine>Hond James C Jones</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

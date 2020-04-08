@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl499">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1822 Jun. 13, Murfreesborough, Tennessee [to] James Winchester, Cairo, Tennessee / Charles Derby   : a machine readable transcription of an image</title>
+            <author>Derby, Charles</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl499</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1822 Jun. 13, Murfreesborough, Tennessee [to] James Winchester, Cairo, Tennessee / Charles Derby</title>
+               <author>Derby, Charles</author>
+               <date when="1822-06-13">June 13, 1822</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 13, 1822 from Charles Derby to James Winchester.  Derby tells Winchester that he has taken a partner and opened shop on the square of a very public place in Murfreesboro, Tennessee. </note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl499</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>New business enterprises</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Derby, Charles</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl499a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Murfreesborough</addrLine>
+               </address>
+               <date>June 13th 1822</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I have taken a stand and commenced work in this place, prospects are very flattering, I have also taken a partner who is a very ingenious and an excellent workman and will no doubt be of great service to me as he is well known in His part of the country__</p>
+            <p>We had in three days after we opened about fifty dollars worth of work engaged and have done since the greater part of it though we are obliged to credit good customers, we have <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> very little money as yet, but I have reason to think it will not be long before I shall be clear of <choice>
+                  <orig>dets</orig>
+                  <reg>debts</reg>
+               </choice> in your parts__ I am much pleased with the place; the society very good, and every one appears to be busy and attentive to business, the people generally are very moral, and the able are ready to assist those in need, I had no difficulty in getting a house and shop, rent low, <add>our</add> shop <add>is</add> on the square in a very public place__ Have the goodness <gap agent="damage"/> to <unclear>Lucilius</unclear> to send any letters directed to me <gap agent="damage"/> office, to this place__  It seems the sheriff of <gap agent="damage"/> county has not taken account of my furniture yet <unclear>though</unclear> there is no danger here as I am determined not to go in debt more than is absolutely <choice>
+                  <orig>nescesary</orig>
+                  <reg>necessary</reg>
+               </choice>  you can of course send whenever you think fit__ </p>
+            <closer>I am sir <choice>
+                  <abbr>Yr</abbr>
+                  <expan>Your</expan>
+               </choice> Humble <choice>
+                  <abbr>Servt</abbr>
+                  <expan>Servant</expan>
+               </choice>
+               <signed>Charles Derby</signed>
+               <pb n="2" facs="sl499b.small.jpg"/>
+               <add>
+                  <name>Charles Derby</name> 13th <choice>
+                     <abbr>In</abbr>
+                     <expan>Instant</expan>
+                  </choice> 121/2 </add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice> James Winchester__ Cairo__ <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>__ </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

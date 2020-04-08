@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Dec. 3, Spring Hill, Maury Co[unty], Tenn[essee] [to] Tho[ma]s Abernathy / Gen[eral] W. White : a machine readable transcription of an image</title>
+            <author>White, General W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl097</idno>
+            <idno>OCLC: 50488170</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Dec. 3, Spring Hill, Maury Co[unty], Tenn[essee] [to] Tho[ma]s Abernathy / Gen[eral] W. White</title>
+               <author>White, General W.</author>
+               <date when="1847-12-03">December 3, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by General W. White to Thomas Abernathy on December 3, 1847. In the letter, White informs Abernathy that he has twenty pieces of rope and bagging, as well as other factory items that he will sell him for five percent less than market value if he is interested in purchasing them.</note>
+               <note type="collection" anchored="true">Abernathy Papers</note>
+               <note type="box" anchored="true">II-H-3</note>
+               <note type="folder" anchored="true">14</note>
+               <note type="document" anchored="true">sl097</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Bulk sales</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">White, W. (General)</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl097a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Spring Hill Maury <choice>
+                           <abbr>Co. Tenn.</abbr>
+                           <expan>County Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1847-12-03">3rd December 1847</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir:</salute>
+            </opener>
+            <p>I have on hand some twenty pieces of rope &amp; bagging each, a new &amp; good articles from the factory of <name type="person">Mr <choice>
+                     <abbr>Jas</abbr>
+                     <expan>James</expan>
+                  </choice> Lugh</name> of <name type="place">Williamson</name>.</p>
+            <p>As you are well acquainted with the quality, and learning that you were recently in want, I write to inform you that I will sell the lot at 5 per cent less than the current market price.</p>
+            <p>You will please inform me, on the receipt of this, whether you will take it.</p>
+            <closer>
+               <salute>Very Respectfully <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Gen.</abbr>
+                        <expan>General</expan>
+                     </choice> W. White</name>
+               </signed>
+               <pb n="2" facs="sl097b.small.jpg"/>
+               <address>
+                  <addrLine>Spring Hill <choice>
+                        <abbr>T.</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1847-12-03">
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 3rd</date>
+                  </addrLine>
+               </address>
+               <add place="above address">Paid 5</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr <choice>
+                           <abbr>Thos.</abbr>
+                           <expan>Thomas</expan>
+                        </choice> Abernathy</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Elkton</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Giles County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">{<choice>
+                           <abbr>Tenne</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

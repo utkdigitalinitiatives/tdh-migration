@@ -1,0 +1,135 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biographical Album of Tennessee Governors [James Knox Polk
+			 1839-1841] / J. S. Jones : a machine-readable transcription of an image</title>
+            <author>Jones, J. S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc040</idno>
+            <idno>OCLC: 50396464</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Biographical Album of Tennessee Governors [James Knox Polk
+				1839-1841] / J. S. Jones</title>
+               <author>Jones, J. S.</author>
+               <date when="1904">1904</date>
+               <extent>2p</extent>
+               <note type="summary">The Biographical Album of Tennessee Governors,
+				dated 1904, contains 31 plates, each featuring a Tennessee Governor's photo on
+				the front and biographical information on the back. This plate features James
+				Knox Polk, who later became President of the United States.</note>
+               <note type="Collection">Biographical Album of Tennessee
+				Governors</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">F435.J65</note>
+               <note type="Document">sc040</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Polk, James K. (James Knox), 1795-1849</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Jones, J. S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc040a.small.jpg"/>
+            <p>
+               <figure>
+                  <head>
+                     <name type="person">James Knox Polk</name> 1839-1841
+				  [Photo]</head>
+               </figure>
+            </p>
+         </div>
+         <pb n="2" facs="sc040b.small.jpg"/>
+         <div subtype="1" type="letter">
+            <p>
+               <name type="person">James Knox Polk</name>, Democrat, Governor of 
+			 <name type="place">Tennessee</name>, 1839-1841, was the first college
+			 graduate to fill the Governor's chair in the State. He was born in 
+			 <name type="place">Mecklenburg County, N.C.,</name> Nov. 2, 1795; was
+			 of Scotch-Irish descent, the original family name being 
+			 <name type="person">Pollock</name>. He was graduated from the
+			 University of North Carolina with first honors, 1818, and it is said that while
+			 in college he never missed a single recitation or duty. This habit followed
+			 him, and during his long term in Congress he was never absent a single day from
+			 the House. 1806 his father moved to Tennessee and on leaving college James K.
+			 came also. He studied law under 
+			 <name type="person">Felix Grundy</name>, and was admitted to the bar
+			 1820. In 1821 he was chief clerk of the State Senate, and 1823 was a member of
+			 the House of Representatives from 
+			 <name type="place">Maury County</name>. He helped to elect 
+			 <name type="person">Andrew Jackson</name> to the United States Senate
+			 at this session. He was a member of Congress 1825-1839, and was speaker of the
+			 House 1835-1839. He defeated 
+			 <name type="person">Newton Cannon</name>, the Whig candidate for
+			 Governor, 1839 and at the two succeeding elections, 1841, 1843, he was defeated
+			 by 
+			 <name type="person">James C. Jones</name>, the representative of the
+			 Whig party. 1844 Polk was elected President of the United States over 
+			 <name type="person">Henry Clay</name>, Jackson's political enemy, but
+			 he failed to carry his own state. Polk's administration as Governor is
+			 unimportant while his presidency is crowded with interest. The Mexican war was
+			 fought, the 
+			 <name type="place">Oregon</name> controversy peacefully settled. He
+			 retired to private life in 
+			 <name>Nashville</name> at the close of his term; died June 15, 1849,
+			 and is buried on the Capitol grounds.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

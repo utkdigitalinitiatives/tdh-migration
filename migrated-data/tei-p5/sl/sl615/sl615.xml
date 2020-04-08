@@ -1,0 +1,135 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl615">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Apr. 22, Nashville, Tennessee [to] Washington County Sheriff / James Jones : a machine readable transcription of an image</title>
+            <author>Jones, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl615</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1845 Apr. 22, Nashville, Tennessee [to] Washington County Sheriff / James Jones</title>
+               <author> Jones, James</author>
+               <date when="1845-04-22"> 
+			 April 22, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated April 22, 1845 from the governor of Tennessee, James Jones to the sheriff of Washington County, located in Northeast Tennessee.  The purpose of the letter is to urge the sheriff to fulfill his duty, and obligation by carrying out the  warrant issued   for the arrest of William Bales, Nathaniel Brown,  John Block, and Arless Collins, charged with highway robbery in North Carolina.  In the letter, the governor says he is aware of a   strong "feeling and excitement" created in  Washington county by the case, however, it is not up to him, or the sheriff to pass judgement.  </note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl615</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor (1841-1845 : Jones)</term>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90007847"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jones, James C. (James Chamberlain), 1809-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl615a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Executive Department Nashville</addrLine>
+               </address>
+               <date>April 22d 1845</date>
+               <add>To the Sheriff of <name>Washington County</name>
+                  <name>Tennessee</name>
+                  <lb/>
+               </add>
+               <salute>Sir</salute>
+            </opener>
+            <p>Enclosed you will find a warrant for the apprehension of <name>William MS Bales</name>
+               <name>Nathaniel L Brown</name>
+               <name>John S Block</name> and <name>Arless C Collins</name> charges with the crime of highway <choice>
+                  <orig>robery</orig>
+                  <reg>robbery</reg>
+               </choice> in the state of <name>North Carolina</name>.  These individuals have been regularly remanded <choice>
+                  <orig>acording</orig>
+                  <reg>according</reg>
+               </choice> to the requirements of the Correction and Laws.</p>
+            <p>I am aware that there is much feeling and excitement in your County growing out of the case but I trust that the Law and Constitution will be regarded as paramount of the guilt or <choice>
+                  <orig>inocene</orig>
+                  <reg>innocence</reg>
+               </choice> of these individuals I know nothing they may be  <choice>
+                  <orig>inocent</orig>
+                  <reg>innocent</reg>
+               </choice> but  this is not a question that I or you or any other authority in this state is competent to decide.  The simple question for my consideration is have they been charged with an offense against the Laws of North Carolina and is the evidence of this fact made to me according to law if so I have no alternative and it is equally the duty of all <unclear>the arch</unclear> officers of this state to do their duty</p>
+            <p>You know your duty and I doubt not will perform it</p>
+            <closer>
+               <add>Yours Respectfully</add>
+               <signed>
+                  <name>James C Jones</name>
+               </signed>
+               <pb n="2" facs="sl615b.small.jpg"/>
+               <add>Papers in the case of the demand of the <choice>
+                     <abbr>gov</abbr>
+                     <expan>governor</expan>
+                  </choice> of <name>North Carolina</name> of <name>AC Collins</name> and others</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

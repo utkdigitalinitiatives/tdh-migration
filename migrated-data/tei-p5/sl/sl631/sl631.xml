@@ -1,0 +1,238 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl631">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 May 5, Lunatic Asylum [Nashville, Tennessee, to] John M. Hill / Jno. D. Kelly : a machine readable transcription of an image</title>
+            <author> Kelly, Jno. D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl631</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> 1842 May 5, Lunatic Asylum [Nashville, Tennessee, to] John M. Hill / Jno. D. Kelly</title>
+               <author> Kelly, Jno. D.</author>
+               <date when="1842-05-05"> 
+			 May 5, 1842</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Jno. D. Kelly dated May 5, 1842. It is a list of expences to be paid for by John M. Hill,  treasurer of the Lunatic Asylum in Nashville.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true"> sl631</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Associations, institutions, etc.</term>
+               <term>Medical care</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90023847"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Kelly, John D., -1870</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1">
+            <pb n="1" facs="sl631a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Lunatic Asylum <date>May 5 1842</date>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 43</add>
+            </opener>
+            <p>At a meeting of the Boards of Trustees of Lunatic Asylum it was <choice>
+                  <abbr>orderd</abbr>
+                  <expan>ordered</expan>
+               </choice> that <name>John M Hill <choice>
+                     <abbr>Treas</abbr>
+                     <expan>Treasurer</expan>
+                  </choice>
+               </name> pay the following sums <choice>
+                  <abbr>viz</abbr>
+                  <expan>videlicet</expan>
+               </choice>
+            </p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>No</abbr>
+                           <expan>Number</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">108</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>James Grizzard</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">$ 258.21</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">109</cell>
+                     <cell role="data" rows="1" cols="1">ditto</cell>
+                     <cell role="data" rows="1" cols="1">300 36</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">116</cell>
+                     <cell role="data" rows="1" cols="1">ditto</cell>
+                     <cell role="data" rows="1" cols="1">80.59</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">112</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Henry G Williamson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">63 24</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">113</cell>
+                     <cell role="data" rows="1" cols="1">Philip I chute</cell>
+                     <cell role="data" rows="1" cols="1">31 50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">114</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Thos B Coleman</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">48.71</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">115</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Prittchard</name> &amp; <name>Callender</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">34.43</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">116</cell>
+                     <cell role="data" rows="1" cols="1">A Wright</cell>
+                     <cell role="data" rows="1" cols="1">23 75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">117</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name>Harrison H Dodson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">8 00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">118</cell>
+                     <cell role="data" rows="1" cols="1">James Grizzard future experiences</cell>
+                     <cell role="data" rows="1" cols="1">150.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$999.28</cell>
+                  </row>
+               </table>
+            </p>
+            <p>We certify that the above <unclear>A/6</unclear> is correct</p>
+            <closer>
+               <signed>
+                  <name>Jno D Kelly</name>
+                  <unclear>Ann</unclear>
+               </signed>
+               <signed>
+                  <name>R K Martness</name>
+                  <add>
+                     <choice>
+                        <abbr>Secy</abbr>
+                        <expan>Secretary</expan>
+                     </choice>
+                  </add>
+               </signed>
+               <pb n="2" facs="sl631b.small.jpg"/>
+               <add>No 4 <unclear>3</unclear> No 43</add>
+               <address>
+                  <addrLine>Lunatic Asylum</addrLine>
+                  <addrLine>A/6 with</addrLine>
+                  <addrLine>Jno M Hill Treas</addrLine>
+                  <addrLine>pass</addrLine>
+                  <addrLine>
+                     <name>May 5th 1842</name>
+                  </addrLine>
+                  <addrLine>$999 22</addrLine>
+               </address>
+               <add>No 43</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

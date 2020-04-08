@@ -1,0 +1,193 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl373">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Jun. 23, Hendersonville [Tennessee] [to] A[ndrew] J[ackson] Donelson, N[ew] Orleans, L[ouisian]a / Dan[ie]l  S. Donelson   : a machine readable transcription of an image</title>
+            <author>Donelson, Daniel S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl373</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1845 Jun. 23, Hendersonville [Tennessee] [to] A[ndrew] J[ackson] Donelson, N[ew] Orleans, L[ouisian]a / Dan[ie]l S. Donelson</title>
+               <author>Donelson, Daniel S.</author>
+               <date when="1845-06-23">June 23, 1845</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 23, 1845. It is to Andrew Jackson Donelson in the care of Major Thomas B. Eastland, from his brother Daniel S. Donelson. Andrew is returning from Texas where he has been conducting annexation negotiations. Daniel is considering a trip to Washington D.C. in relation to some land that he wants near the Rio Grande. He hopes to meet William Marcy, President Polk's Secretary of War. Daniel writes to Andrew that he wishes that Andrew could have made it to General Andrew Jackson's deathbed. Daniel expresses regret that General Houston did not make it either, until right after Jackson had died.</note>
+               <note type="collection" anchored="true">Bettie Donelson Papers</note>
+               <note type="box" anchored="true">III-E-2-3, b1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl373</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Houston, Samuel, 1793-1863</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Donelson, Daniel S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl373a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Hendersonville</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>June 23rd,, 1845</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Andrew</salute>
+            </opener>
+            <p>I have <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> some two letter from you, whilst in <name>
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name>, which I certainly intended to answer ere' this, on the subject of my application for the <name>sutler</name> place on the <name>Rio' Grande'</name>, at  the same time urging me to visit <name>Washington</name> on that account. When your letters with  <unclear>store</unclear> of <name>
+                  <choice>
+                     <abbr>maj</abbr>
+                     <expan>major</expan>
+                  </choice> Eastland</name>  reached me I could not well without a great sacrifice leave home. I therefore upon consultation with <name>Mr Conner</name> postponed the trip, though should it be necessary say in July I <add>will</add> willingly go provided a can accomplish anything by it. I however without delay wrote to <name>President Polk</name> on the subject, saying to him that I would he pleased for him to confer the place upon me, if he could do so with his views of propriety, that I considered it unnecessary to visit <choice>
+                  <abbr>W.</abbr>
+                  <expan>Washington</expan>
+               </choice> an that account, that he knew me as well in <choice>
+                  <abbr>Ten.</abbr>
+                  <expan>Tennessee</expan>
+               </choice> as he could there, but if it were necessary to go for the purpose of making the acquaintance of the <choice>
+                  <abbr>Sec try</abbr>
+                  <expan>Secretary</expan>
+               </choice> of War the trip would be made forthwith. A few days after the arrival of <name>
+                  <choice>
+                     <abbr>Genrl</abbr>
+                     <expan>General</expan>
+                  </choice> Houston</name>, I made the acquaintance of <name>maj. Miller</name>, we had some conversation in relation to the Sutler places <pb n="2" facs="sl373b.small.jpg"/> and when upon the point of leaving Nashville for <name>
+                  <choice>
+                     <abbr>Alama</abbr>
+                     <expan>Alabama</expan>
+                  </choice>
+               </name> he wrote me a letter, saying that he had just gotten a letter from majr Eastland, stating that he had recieved the information through <name>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice> Yell</name> of <name>Arkansas</name> now at W. that the disposal of the troops, supplies <choice>
+                  <abbr>etc</abbr>
+                  <expan>etcetera</expan>
+               </choice> , would be subject to your arrangements and per influence, the <choice>
+                  <orig>confering</orig>
+                  <reg>conferring</reg>
+               </choice> of the appointments in question given to you, this being so, there will be of course no difficulty in the matter, I have so written to Maj miller, and to Maj Eastland, to the latter gentleman I have said that he has full authority how we to enter into any stipulation he may think proper, at the same time requesting him to give me the earliest notice what I am do, and how I am to act. I am making nothing here upon <unclear>my farm</unclear> , and will be greatly pleased to engage in this matter <unclear>provided</unclear> I can <add>make</add> money by it, and that it <add>will</add> yield a handsome profit I do not doubt.</p>
+            <p>I was with Genl Houston and family at your house, they have been well recieved in Ten. ___ on saturday next the 25th <choice>
+                  <abbr>inst,,</abbr>
+                  <expan>instant</expan>
+               </choice> a <unclear>free Barbacue</unclear> will be given him in the vicinity of <name>Nashville</name> irrespective of party, there would seem to be quite a contest between the parties, as to which will show the most attention, as to whiggery <pb n="3" facs="sl373c.small.jpg"/> it will be no go, for he is undoubtedly a Democrat. A is a same of deep regret that he did not reach in time to see <name>Genrl Jackson</name>, he died about the time Genrl <choice>
+                  <abbr>H.</abbr>
+                  <expan>Houston</expan>
+               </choice>
+               <unclear>land  <add>ed</add>
+               </unclear> at <name>Nashville</name>- being advised of his extreme illness he proceeded without delay to the Hermitage, but <choice>
+                  <orig>alass</orig>
+                  <reg>alas</reg>
+               </choice> he was no more I wish you could have been here, <del type="overstrike">when</del> during his last days of existence, I do not doubt it would have been for the best, could it have been so -  I will not say more on this subject, Elizabeth. I know has written you <gap/>
+               <del type="overstrike">are the subject</del> in relation to it. <gap/> directed this letter to the <gap/>
+               <unclear>care</unclear> of majr Eastland, under the belief that it will reach <choice>
+                  <abbr>N. O.</abbr>
+                  <expan>New Orleans</expan>
+               </choice> at about the <add>time you</add> do or you may have from <name>Texas</name> ___  I fear you are risking a good deal on the score of health by staying as long as you have.</p>
+            <p>I was at your house on wednesday last, all well, except little Daniel, somewhat indisposed in his bowels, though the next day he was better.</p>
+            <p>margaret  and the children join me in love to you. with my prayer for your good health and speedy return</p>
+            <closer>
+               <salute>I am truly your Brother</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Danl,</abbr>
+                        <expan>Daniel</expan>
+                     </choice> S. Donelson</name>
+               </signed>
+               <pb n="4" facs="sl373d.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>Hendersonville 2</addrLine>
+                     <addrLine>June 23</addrLine>
+                  </address>
+               </add>
+               <add> care of <lb/> care of majr <lb/>
+                  <name>
+                     <choice>
+                        <abbr>Thom.</abbr>
+                        <expan>Thomas</expan>
+                     </choice> B. Eastland</name>
+                  <lb/> N. Orleans, }</add>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Maj A. J.</abbr>
+                           <expan>Major Andrew Jackson</expan>
+                        </choice> Donelson</name>
+                  </addrLine>
+                  <addrLine>N. Orleans,</addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>La</abbr>
+                           <expan>Louisiana</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

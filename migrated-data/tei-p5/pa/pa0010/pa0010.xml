@@ -1,0 +1,156 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Account [of] Return J. Meigs, 1810 May 21 - 1810 June 30: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0010</idno>
+            <idno>OCLC: 44921830</idno>
+            <availability status="restricted">
+               <p>This work is the property of The University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Account [of] Return J. Meigs, 1810 May 21 - 1810 June 30</title>
+               <date when="1810-05-21">May 21, 1810</date>
+               <date when="1810-06-30">June 30, 1810</date>
+               <extent>2p</extent>
+               <note type="summary">This is a copy of the account of Return J. Meigs, U.S. agent to the Cherokee Nation, for his salary and expenses relative to the Cherokee Agency in Tennessee, covering the period from May 21, 1810 - June 30, 1810.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box">1</note>
+               <note type="folder">11</note>
+               <note type="document">pa0010</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Expense accounts</term>
+               <term>Cherokee Indians</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0010a.small.jpg"/>
+            <head>The <name type="place">United States</name>
+               <lb/>
+               <date when="1810">1810</date>. To <name type="person">Return J Meigs</name>.......... <unclear>
+                  <abbr>Dr.</abbr>
+               </unclear>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <date when="1810-05-21">May 21st.</date>
+                     </cell>
+                     <cell>To Cash paid for <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice> of 6 men with 9 Horses in bringing 12,246 dollars from <name type="place">Nashville</name> to <name type="place">Highwassee</name> Garrison, going  returning  14 Days......at 586 cents <choice>
+                           <abbr>pr.</abbr>
+                           <expan>per</expan>
+                        </choice> day...</cell>
+                     <cell rend="right"> $82.00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1810-06-27">June 27th</date>
+                     </cell>
+                     <cell>To Cash paid for <choice>
+                           <orig>expences</orig>
+                           <reg>expenses</reg>
+                        </choice> for Self  Interpreter having 4 Horses on a tour for the purpose  of selecting a proper position for a <choice>
+                           <orig>scite</orig>
+                           <reg>site</reg>
+                        </choice> for a military Post in the vicinity of the <name type="place">muscle Shoals</name> being absent 17 days at 2 $ <choice>
+                           <abbr>pr</abbr>
+                           <expan>per</expan>
+                        </choice> Day....</cell>
+                     <cell rend="right">34.00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <date when="1810-06-30">June 30th</date>
+                     </cell>
+                     <cell>To Salary for the 2nd quarter year of <date when="1810-06-30">1810 ending 30th June</date>...</cell>
+                     <cell rend="right"> 350.00</cell>
+                  </row>
+                  <row>
+                     <cell>"  "</cell>
+                     <cell>To 91 days rations. 6 rations <choice>
+                           <abbr>pr. </abbr>
+                           <expan>per</expan>
+                        </choice> day 546 rations at 16 cts.....</cell>
+                     <cell rend="right">87.36</cell>
+                  </row>
+                  <row>
+                     <cell>"  "</cell>
+                     <cell>To 3 months forage for 1 Horse.. at 6 $ <choice>
+                           <abbr>pr</abbr>
+                           <expan>per</expan>
+                        </choice> month...</cell>
+                     <cell rend="right">18.00</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell rend="right">$571.36</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0010b.small.jpg"/>
+            <p>No.1<lb/>
+               <name type="person">Return J Meigs</name>' account<lb/>2nd quarter year <date when="1810">1810</date>.<lb/>
+               <hi>$571.36</hi>
+               <lb/>Retained Duplicate
+                        
+                     
+                  
+               </p>
+         </div>
+      </back>
+   </text>
+</TEI>

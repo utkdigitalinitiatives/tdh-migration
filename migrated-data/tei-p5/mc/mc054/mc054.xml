@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Jan. 5, Knoxville, Tennessee [to] Charles F. Welcker, Mouth [of] Poplar Creek, Roane County / James M. Welcker : a machine readable transcription of an image</title>
+            <author>Welcker, James Monroe</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc054</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Jan. 5, Knoxville, Tennessee [to] Charles F. Welcker, Mouth [of] Poplar Creek, Roane County / James M. Welcker </title>
+               <author>Welcker, James Monroe</author>
+               <date>January 5, 1839</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated January 5, 1839, from James Monroe Welcker in Knoxville, Tennessee, to his brother Charles Frederick Welcker in Roane County.  James informs his brother that he could not procure any of the clover seed he had been asked to send, nor could he manage to finish other business for their brother Henry and others.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc054</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Business enterprises</term>
+               <term>Tennessee, East</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Welcker, James Monroe</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc054a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Jan.</abbr>
+                           <expan>January</expan>
+                        </choice> 5th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Brother Charles,</salute>
+            </opener>
+            <p>I could not procure any Clover seed, there being none in this place. The merchants think a sufficient quantity can be purchased before time for sowing them.  Horses are dull sale <choice>
+                  <orig>hire</orig>
+                  <reg>here</reg>
+               </choice>, I can hear of no one wanting to buy</p>
+            <p>I will send in this your money and a ten dollar bill to Henry, which he sent by me to <name>
+                  <choice>
+                     <abbr>Col,</abbr>
+                     <expan>Colonel</expan>
+                  </choice> R, White</name>. I did not see him.  I could not get <name>John M Duffie</name>'s business done in time to send by <name>Ham</name>; if he enquires concerning it tell him when I have gotten the <choice>
+                  <orig>cetificate</orig>
+                  <reg>certificate</reg>
+               </choice> I will envelop the <choice>
+                  <orig>writeings</orig>
+                  <reg>writings</reg>
+               </choice> and send them by mail.</p>
+            <closer>
+               <signed>
+                  <name>James <choice>
+                        <abbr>M.</abbr>
+                        <expan>Monroe</expan>
+                     </choice> Welcker</name>
+               </signed>
+               <pb n="2" facs="mc054b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Charles <choice>
+                           <abbr>F.</abbr>
+                           <expan>Frederick</expan>
+                        </choice> Welcker</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Mouth <name>Poplar Creek</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Roane County</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

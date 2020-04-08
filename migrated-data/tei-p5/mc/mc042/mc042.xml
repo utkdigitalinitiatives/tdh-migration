@@ -1,0 +1,92 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1837 Feb. 23, to Joseph Burke / Henry Welcker  : a machine readable transcription of an image</title>
+            <author>Welcker, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc042</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1837 Feb. 23, to Joseph Burke / Henry Welcker</title>
+               <author>Welcker, Henry</author>
+               <date when="1837-02-23">February 23, 1837</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a purchase agreement signed by Henry Welcker of Roane County, TN and dated February 23, 1837.  Welcker has sold to Joseph Burke 400 bushels of corn, and the document outlines how the transfer of the corn is to take place.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">1837</note>
+               <note type="document" anchored="true">mc042</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Financial, Personal</term>
+               <term>Tennessee, East</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Welcker, Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc042a.small.jpg"/>
+            <p>I have this day sold to <name>Joseph Burke</name> four hundred bushels of good sound corn, which he is to receive in his boat, on <name>clinch river</name>, within three weeks from this time- I am to haul the corn to the most Convenient point, to my  corn <unclear>crick</unclear>, on said river; &amp; said Burke is to assist in loading and unloading the waggons</p>
+            <closer>
+               <signed>
+                  <name>Henry Welcker</name>
+                  <date>
+                     <choice>
+                        <abbr>Febry</abbr>
+                        <expan>February</expan>
+                     </choice> 23rd 1837</date>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

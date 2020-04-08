@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Nov. 2, Jackson, [Tennessee] [to] Mary Jane Chester, Columbia, Ten [nessee] / Elizabeth Chester : a machine readable transcription of an image</title>
+            <author>Chester, Elizabeth</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um029</idno>
+            <idno>OCLC: 50274893</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Nov. 2, Jackson, [Tennessee] [to] Mary Jane Chester, Columbia, Ten [nessee] / Elizabeth Chester</title>
+               <author>Chester, Elizabeth</author>
+               <date when="1840-11-02">November 2, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written to Mary Jane Chester from her mother, Elizabeth Chester, on November 2, 1840. In the letter, Elizabeth discusses the visit between Mary Jane and "Uncle" Andrew Jackson. Elizabeth advises that even though Mary Jane is homesick, that she needs to stay at school, do well in her classes, and remain devoted to her Bible and religion.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS 25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Elizabeth</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um029a.small.jpg"/>
+            <opener>
+               <add place="above address">
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+                  <emph>Paid</emph> 18¾ <hi rend="different hand, different ink">
+                     <name type="person">Mrs Elizabeth Chester</name> Answered</hi>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Jane Chester</name>
+                  </addrLine>
+                  <addrLine>Care of <name type="person">
+                        <choice>
+                           <abbr>Saml.</abbr>
+                           <expan>Samuel</expan>
+                        </choice> P Walker <choice>
+                           <abbr>Esq.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="below address, upside down">My Dear Mother <lb/>
+                  <date when="1840-11-02">2 <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice> 1840</date>
+               </add>
+               <pb n="2" facs="um029b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1840-11-02">
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 2nd 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Daughter</salute>
+            </opener>
+            <p>Yesterday your <name type="person">Aunt Frances</name> received your letter, we were glad to hear that you still remain in good health, I was <choice>
+                  <orig>affraid</orig>
+                  <reg>afraid</reg>
+               </choice> that so much rain might produce another <choice>
+                  <orig>relaps</orig>
+                  <reg>relapse</reg>
+               </choice> as it had that effort on your <name type="person">Aunt Narcissa</name> this day she had <choice>
+                  <orig>anoth</orig>
+                  <reg>another</reg>
+               </choice> chill the third attack her sickness is nothing serious She desires me to say that she well write to you in a few days, indeed my dear I am <choice>
+                  <orig>affraid</orig>
+                  <reg>afraid</reg>
+               </choice> your correspondents are so numerous that it will take all your time to answer your letters — you know my dear Child we are extremely anxious that you should stand high in  your <emph>Classes</emph> Indeed we were much gratified by receiving a letter from <name type="person">Mr Smith</name> speaking in very flattering terms of you, try my dear to retain his good opinion by conforming strictly to the rules of the Institute and attending closely to your Studies, I hope my dear Mary Jane you will be able to graduate in June next, I think we cannot let you remain longer, I would tell you how much we <pb n="3" facs="um029c.small.jpg"/>
+               <gap agent="damage"/> you but that I fear it might make you <emph>vain</emph> your Papa received a letter from <name type="person">Uncle Jackson</name> a few days since he said a good deal about you said you wanted to come home very much, he regrets the necessity of  your being sent from home to finish your Education he says and truly "that there is no eye like that of a mothers", you know not half the anxiety we feel on your account. I wish to know particularly what you are Learning how you progress in the <emph>French</emph> I consider it an important and an <choice>
+                  <orig>Ornimental</orig>
+                  <reg>Ornamental</reg>
+               </choice> branch of Education, you Friends <name type="person">Miss Hale</name> and <name type="person">McNeal</name> will feel the necessity of it this Winter in <name type="place">Orleans</name> I presume you have heard that Miss McNeal spend this winter in that City</p>
+            <p>The Methodist Conference commences here <choice>
+                  <orig>to morrow</orig>
+                  <reg>tomorrow</reg>
+               </choice> there will be a great many preaching and People, and I hope much good will be done in the way of converts I ⁁ <add place="supralinear">wish</add> you were here to be <choice>
+                  <orig>benifitted</orig>
+                  <reg>benefitted</reg>
+               </choice> by the good Preaching your last Indisposition caused me to reflect much on my conduct towards your conversion I have not been sufficient zealous and earnest with you, it was because I thought you were to young but I find none to young and that all should be prepared I have to again remind you not to neglect to read your Bible and to attend to the duties of Religion <pb n="4" facs="um029d.small.jpg"/> we can be truly pious and at the same time cheerful and even gay there has a report reached here that <name type="person">Eliza Lyon</name> is married ran away, from the Female Academy at <name type="place">Nashville</name> ; her mother has gone up to learn the truth of the report if she is really married how much mortified and shocked her parents must be I can conceive of nothing more that could distress me so much, no Female with a delicate and well <gap agent="damage"/> mind could be guilty of such conduct; they did not pay her Parents the poor compliment of asking permission to <emph>marry</emph> you <emph>had</emph> better not mention the report perhaps it is not true although it has come pretty straight Our relations are <gap agent="damage"/> but, your Aunt Narcissa she had  entirely recovered and went to Church and was taken with a Chill hope it will be an attack of Chills and Fevers your Cousin <name type="person">William Butler</name> has moved to town lives in <name type="person">Mr Patters</name> House sister B is much pleased I assure you nothing more to <choice>
+                  <orig>right</orig>
+                  <reg>write</reg>
+               </choice> but to give the united Love of all the Family and bid you adieu and to ask the blessing of a kind <choice>
+                  <orig>god</orig>
+                  <reg>God</reg>
+               </choice> to be with you to guide and <choice>
+                  <orig>protict</orig>
+                  <reg>protect</reg>
+               </choice> from all harm is my prayer</p>
+            <closer>
+               <salute>your affectionate Mother</salute>
+               <signed>
+                  <name type="person">Elizabeth Chester</name>
+               </signed>
+               <add place="bottom of page">We ask our love to be presented to our kind relatives, the <name type="person">Walkers</name> one &amp; all —Our respects to <name type="person">Mr &amp; Mrs Smith</name> — <choice>
+                     <abbr>Yr</abbr>
+                     <expan>Your</expan>
+                  </choice> Pa will write next — You <emph>must</emph> write every <emph>week</emph> — if you miss — we feel uneasy</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

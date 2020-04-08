@@ -1,0 +1,109 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Journal entry] 1846 Nov. 22 / William Richard Caswell : a machine readable transcription of an image</title>
+            <author>Caswell, William Richard</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc021</idno>
+            <idno>OCLC: 50474378</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Journal entry] 1846 Nov. 22 / William Richard Caswell</title>
+               <author>Caswell, William Richard</author>
+               <date when="1846-11-22">November 22, 1846</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a journal entry written November 22, 1846 by Captain William Richard Caswell. Caswell kept a journal during his service  in the Mexican-American War.</note>
+               <note type="collection" anchored="true">William R. Caswell Papers</note>
+               <note type="box" anchored="true">MS-18, b1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">mc021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Diaries</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>United States</term>
+               <term>Mexico</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Caswell, William Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc021a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Camp Ringold Near Matamoos<date>22nd November 1846</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>The Tennessee Regiment of Cavalry have crossed the <name type="place">Rio Grande,</name> and encamped upon the Mexican side, and is now the strongest Regiment in the whole army of the <name type="place">United States—</name>  Strongest in numbers, and in <del type="overstrike">the</del> vigorous health. And <choice>
+                  <abbr>tho'</abbr>
+                  <expan>though</expan>
+               </choice> there have been very many cases of sickness in ⁁<add place="supralinear">the</add> Regiment upon their march yet there have been remarkably and wonderfully few deaths— This is very much to be attributed to the vigilance, and skill of the acting surgeon of <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice>
+               <name type="person">Dr. Robards</name> ⁁<add place="supralinear">who has prescribed during the time of his acting as Surgeon for almost every man</add> For his devoted attention to the sick of the Regiment ⁁<add place="supralinear">upon their arduous and tedious march <choice>
+                     <abbr>thro' Ark. &amp; </abbr>
+                     <expan>through Arkansas and </expan>
+                  </choice> Texas.</add> he is entitled  to the gratitude of us all and of our friends, — He has been supplanted as Regimental Surgeon by the appointment of <name type="person">Dr. Allsuss'—</name> But Dr. Robard is a <hi>volunteer</hi> and has generously volunteered ⁁<add place="superlinear">a continuation of </add> his⁁<add place="superlinear">valuable</add> services to the Regiment without compensation— And so numerous have been the applications to the<choice>
+                  <abbr> Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <unclear>
+                  <name type="person">Couidt</name>
+               </unclear> to furnish  Dr. Robards with medicines that this evening the <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> has promised the officers applying, to furnish the Doctor with authority to procure medicines— If he does not receive the pecuniary compensation and the compensation of rank in the army ⁁<add>which he so well deserves</add> let him at least receive the reward he deserves<del> in the </del>
+               <add place="superlinear">of public</add> gratitude.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

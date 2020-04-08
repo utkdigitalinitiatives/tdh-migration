@@ -1,0 +1,123 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl754">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1800 Jul. 7, Knoxville, Tennessee [to] David Henl[e]y / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl754</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1800 Jul. 7, Knoxville, Tennessee [to] David Henl[e]y / John Sevier </title>
+               <author> Sevier, John</author>
+               <date when="1800-07-07">July 7, 1800</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a brief letter dated July 7, 1800 from governor John Sevier of Tennessee to David Henley, agent for the department of war.  The purpose of the letter is a death allegedly caused by Indians in march of 1799.  The governor requests any information Henley may have on the matter.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true"> sl754</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor (1796-1801 : Sevier)</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl754a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <date>12 July 1800</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>A Mr. Kilpatrick lately informed me, that he had applied to you as agent <del>of</del>
+               <add>for</add>  the department of war, respecting his son &amp; Kyser, who it is supposed were murdered by the Indians in march last__ Will you be so good as to inform me what information you have <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> from Mr. Lewis <add>and the indians</add> on the Subject, and whether or not, the perpetrators are likely to be discovered</p>
+            <closer>
+               <add>I have the honor <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and et cetera</expan>
+                  </choice>
+               </add>
+               <signed>
+                  <name>J. Sevier</name>
+               </signed>
+               <add>Colonel <name>David Henly</name> agent for the department of war__</add>
+               <pb n="2" facs="sl754b.small.jpg"/>
+               <address>
+                  <addrLine>Colonel David Henly agent for the department of war</addrLine>
+               </address>
+               <date>7th July 1800</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

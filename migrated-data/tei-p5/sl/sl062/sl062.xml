@@ -1,0 +1,168 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl062">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Jul. 18, New York [to] John Dickenson, Nashville, Tennessee / Samuel Ferguson : a machine readable transcription of an image</title>
+            <author>Ferguson, Samuel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl062</idno>
+            <idno>OCLC: 50078443</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Jul. 18, New York [to] John Dickenson, Nashville, Tennessee / Samuel Ferguson</title>
+               <author>Ferguson, Samuel</author>
+               <date when="1815-07-18"> July 18, 1815</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Samuel Ferguson to John Dickenson on July 18, 1815. In the letter, Ferguson asks Dickenson to collect a debt from a George Poyzer and give the proceeds to a man named William Seger. Ferguson also includes directions as to how the debt of $1298.00 is to be collected and paid.</note>
+               <note type="collection" anchored="true">Coffee Perkins Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">17</note>
+               <note type="document" anchored="true">sl062</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Debt service</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ferguson, Samuel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl062a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">John Dickenson <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">New York</name>
+                     <date when="1815-07-18">18th July 1815</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>Availing myself of the obliging introduction of my friends <choice>
+                  <abbr>Mesrs</abbr>
+                  <expan>Messeiurs</expan>
+               </choice>
+               <name type="person">
+                  <choice>
+                     <orig>Neil</orig>
+                     <reg>Neill</reg>
+                  </choice> &amp; Harley</name> of <name type="place">Philadelphia</name> I now beg leave to trouble you with the collection of a debt due from <name type="person">Mr. George Poyzer</name> of <name type="place">Nashville</name> to <name type="person">Mr. <choice>
+                     <abbr>Wm.</abbr>
+                     <expan>William</expan>
+                  </choice> Seger</name> of this city.</p>
+            <p>The assignment of the same from the latter to me is now enclosed together with an abstract of the account itself This claim has been long since virtually, though not in form, conveyed to me by Mr. Seger; but I was willing to leave the collection of it to himself having confidence in him and he assuring me from time to time that the money would be soon forthcoming my patience however is now exhausted.</p>
+            <p>I understand Mr Poyzer to be a Gentleman not only of substance but of respectability and I shall therefore be very sorry to be under the necessity of adopting coercive measures against him: these, however you must put in force<pb n="2" facs="sl062b.small.jpg"/> unless he will immediately give his notes for the full amount, payable at <choice>
+                  <abbr>yr</abbr>
+                  <expan>your</expan>
+               </choice> Bank in sixty or ninety days; and if in your judgement his own name is not indubitably safe for the amount you must demand an endorser, or some other good collateral security. Neither must your acquittance be so worded as to exonerate a former partner of Mr Poyzer named <name type="person">Mr Bean</name>, if you have any doubt as to the safety of the paper given you. — Be pleased to advise me on receipt hereof, and as to your subsequent proceedings.  — I remain with great respect Sir</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Yr. ob Sevt</abbr>
+                     <expan>Your obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Sam Ferguson</name>
+               </signed>
+               <add place="below signature">
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice> should there arise any difficulty on the Subject of <choice>
+                     <orig>Mockasons</orig>
+                     <reg>Moccasins</reg>
+                  </choice>, which you will see referred to at foot of Mr Segers account, you will be content to leave them out if <choice>
+                     <orig>needfull</orig>
+                     <reg>needful</reg>
+                  </choice> and accept the $1298.00 in full or let them remain subject to future discussion between the parties. —</add>
+               <pb n="3" facs="sl062c.small.jpg"/>
+               <address>
+                  <addrLine>John Dickenson <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Nashville</addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="above, left of address">
+                  <choice>
+                     <abbr>Saml</abbr>
+                     <expan>Samuel</expan>
+                  </choice> Ferguson <choice>
+                     <abbr>N</abbr>
+                     <expan>New</expan>
+                  </choice> York <lb/>
+                  <date when="1815-07-18">18 July 1815</date>
+                  <lb/>
+                  <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice>
+                  <date when="1815-08-12">
+                     <emph>12 Aug 1815</emph>
+                  </date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

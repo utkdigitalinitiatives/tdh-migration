@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Oct. 6 [to] Martha B.Chester, Jackson Tennessee / Mary Jane Chester : a machine readable transcription of an image</title>
+            <author>Chester, Mary Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um024</idno>
+            <idno>OCLC: 50274612</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Oct. 6 [to] Martha B.Chester, Jackson Tennessee / Mary Jane Chester</title>
+               <author>Chester, Mary Jane</author>
+               <date when="1840-10-06">October 6, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter from Mary Jane Chester to her sister Martha Chester in Jackson, Tennessee. Mary Jane discusses her daily routine at the girls institute that she attends.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um024</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Mary Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um024a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <date when="1840-10-06">
+                        <emph>6t <choice>
+                              <abbr>Octer</abbr>
+                              <expan>October</expan>
+                           </choice> 1840</emph>
+                     </date>
+                     <name type="person">Miss Martha B. Chester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="above address">postmark &amp; seal</add>
+               <pb n="2" facs="um024b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                     <date when="1840-10-06">
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 6 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Sister</salute>
+            </opener>
+            <p>On this pleasant evening I could not choose a more pleasant task than to write to my little sister. I ⁁<del type="overstrike">se</del>
+               <add place="supralinear">received</add> your kind and affectionate <del type="overstrike">on</del>
+               <add place="supralinear">letter</add> yesterday. It gratified me very much indeed to see that you could write such an <choice>
+                  <orig>inteligent</orig>
+                  <reg>intelligent</reg>
+               </choice> letter. I have recovered ⁁<add place="supralinear">entirely</add> from my sickness; and commenced school week before last. I am very much pleased with the Insitute indeed. I have received no <choice>
+                  <orig>cencures</orig>
+                  <reg>censures</reg>
+               </choice> yet, but it is very difficult to keep them off <del type="overstrike">of</del> my list. I am in the Second Senior Department we all have to study very hard <del type="overstrike">indeed</del>. We sit up every night until<del type="overstrike">l</del> 9, o'clock, and get up at daybreak every morning. I am taking Music lessons under a very fine teacher <del type="overstrike">indeed</del>, <name type="person">Mrs <del type="overstrike">Bolman</del>,  <add place="supralinear ">Boardman</add>
+               </name> she pays a great deal of attention to my fingering. I practice from 8 until 9 O'Clock every night. I sleep in the third <emph>S</emph>tory, <add place="supralinear">no capital</add> in the long Dormitory. Dear sister you say that I do not ⁁<add place="supralinear">write</add> to you often enough; hereafter I shall try to write <del type="overstrike">to</del>
+               <del type="overstrike">
+                  <add place="supralinear">you</add>
+               </del> every week as I have composition to write then and I shall write a letter in its place. Sister you forgot to write me what cousin Martha Ann has named her fine son. O' I should like to see him so much. I expect Aunt P. &amp; uncle Will are very much delighted that it is a son. Tell <name type="person">Aunt Narcissa</name> that I shall write to her next week; but one letter must do for you all for we are not allowed to write but one letter a <pb n="3" facs="um024c.small.jpg"/> week. I want to see you all so very much that I can scarcely study for thinking of home. O' why do not some of my relation write to me I think that some of them might write <del type="overstrike">to me</del> . tell them that they must not wait to receive a letter from me. You do not know how very bad I feel when all of the letters come and there is none for me. tell Aunt Narcissa I thought that her ; Aunt F. and cousin Jane were going to write to me directly I arrived here; and I have not received one line from them yet. I received a letter from cousin Rachel last Saturday; she says that they are all very well and that <name type="place">Florida</name> is very gay. Oh! <del type="overstrike">she</del> you said that I had forgot to tell the name of the little girl that sent her love to you; it was <name type="person">Ann Maria Walker</name>. I expect that Brother Sam looks very sweet with his new tooth. O' I do want to see him so much. Why dont cousin Dick write to me it is getting very late now and I go to book as cousin Will says.</p>
+            <closer>
+               <salute>I remain your affectionate Sister</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>M. J.</abbr>
+                        <expan>Mary Jane</expan>
+                     </choice> Chester</name>
+               </signed>
+               <address>
+                  <addrLine>Miss Martha Butler Chester</addrLine>
+               </address>
+               <add place="bottom of page">
+                  <note>
+                     <p>
+                        <choice>
+                           <abbr>P. S.</abbr>
+                           <expan>Post Script</expan>
+                        </choice> Give my love to Father &amp; Mother and all my brothers; Aunt N; Aunt P; Aunt F; Cousin Jane; Aunt Lydia Cousin Rachel; Cousin Martha Ann; cousin Will Uncle Sam and Uncle Will and <pb n="4" facs="um024d.small.jpg"/> except the love of your affectionate sister.</p>
+                  </note>
+               </add>
+               <signed>
+                  <choice>
+                     <abbr>M. J.</abbr>
+                     <expan>Mary Jane</expan>
+                  </choice> Chester</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

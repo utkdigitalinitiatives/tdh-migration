@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl265">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal Document] 1802 Dec. 28 Diamond Hill, Cherokee Nation [to] Return J. Meigs / James Vann   : a machine readable transcription of an image</title>
+            <author>Vann, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl265</idno>
+            <idno>OCLC: 51237316</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1802 Dec. 28 Diamond Hill, Cherokee Nation [to] Return J. Meigs / James Vann</title>
+               <author>Vann, James</author>
+               <date when="1802-12-28">December 28, 1802</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a statement sent by Chief James Vann to Return J Meigs, dated Dec. 28, 1802. It is the account of a series of events beginning with a  Creek man who asked a Cherokee man to help him trade a horse for some whiskey. Vann is asking Meigs, who is the US agent to the Cherokee Nation, to investigate the arrest of the Cherokee man by some Americans. The man is being held in a jail in Nashville.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">12</note>
+               <note type="document" anchored="true">sl265</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek Indians</term>
+               <term>Cherokee Indians -- Legal status, laws, etc.</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2009081214"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Vann, James, 1765 or 1766-1809</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl265a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Diamond Hill Cherokee Nation</name> —</addrLine>
+                  <addrLine>
+                     <date when="1802-12-28">28th Dec 1802</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Two Indians arrived at my house this day, and informed me that at this camp on the Waters of <name type="place">Caney fork</name> in <name type="place">Cumberland</name> a Creek Indian, came to their camp with a horse — and requested one of the Cherokees to accompany him to a House 7 or 8 Miles from the camp for the purpose of assisting him in selling his horse for Whiskey — the Cherokee consented and rode the horse the creek followed on behind a foot, and when coming in sight of the House the Creek declined going any farther — the Cherokee with ⁁ <add place="supralinear">the</add> Horse went to the house and stayed all night purchased some Whiskey in the morning and started for his camp again — when he was pursued by eight White Men — the Creek fellow had got back to the camp some time before the young man that rode his Horse — and when the white men came to the camp he was out in the woods a small distance cutting <choice>
+                  <orig>sadle</orig>
+                  <reg>saddle</reg>
+               </choice> ties to make him self a saddle... he saw the white people when coming to the Cherokee camp and fled, and was not seen afterwards — leaving behind him at the camp a very fine rifle gun — the whitemen immediately seized the Cherokee that stayed at the House all night with the horse and <unclear>carried</unclear> him of prisoner and took <gap agent="damage"/> gun and his own — This is the account the Indians gave me that has come in and they wish you to make enquiry respecting the matter and rectify the mistake that their companion may be released.</p>
+            <closer>
+               <signed>
+                  <name type="person">James Vann</name>
+               </signed>
+               <add place="left of signature"> (Copy) A true Copy <lb/>
+                  <name type="person">Return J Meigs</name>
+                  <lb/>
+                  <choice>
+                     <abbr>a war</abbr>
+                     <expan>agent of war</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="sl265b.small.jpg"/> The within is the copy of a Statement of the Case of a Cherokee man who is confined in <name type="place">Nashville</name>
+               <choice>
+                  <orig>goal</orig>
+                  <reg>jail</reg>
+               </choice>
+               <del type="overstrike">Si?</del>
+               <salute>Signed</salute>
+               <signed>James Vann</signed>
+               <add place="left of signature">Return J Meigs <lb/>
+                  <choice>
+                     <abbr>A. war in</abbr>
+                     <expan>Agent of War in</expan>
+                  </choice>
+                  <name type="place">Tennessee</name>
+               </add>
+               <add place="up left margin">Indian Statement relating the taking &amp; confinement of an Indian in Nashville Goal. —</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

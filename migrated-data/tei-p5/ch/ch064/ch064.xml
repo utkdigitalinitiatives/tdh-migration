@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorandum, 1838 Nov. 9, Headq[uarte]rs Eastern Division, Athens, Ten[nessee] / Winfield Scott: a machine-readable transcription</title>
+            <author>Scott, Winfield, 1786-1866</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch064</idno>
+            <idno>oclc: 44853943</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Memorandum, 1838 Nov. 9, Headq[uarte]rs Eastern Division, Athens, Ten[nessee] / Winfield Scott</title>
+               <author>Scott, Winfield, 1786-1866</author>
+               <date when="1838-11-09">November 9,1838</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">Copy of a memorandum dated November 9, 1838 from General Winfield Scott, commander of the Cherokee removal, concerning a possible discrepancy between the number of Cherokees on muster rolls and those actually removed. Scott was informed by the Cherokee authorities that 12,608 people in twelve detachments emigrated west by land, but only 11,721 were counted. He intends to make compensation if investigation proves this true.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">ch064</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Trail of Tears, 1838</term>
+               <term>Cherokee Indians--Claims</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79059770"
+                        role="Author http://id.loc.gov/vocabulary/relators/aut">Scott, Winfield, 1786-1866.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch064a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Head Qrs.</abbr>
+                           <expan>Headquarters</expan>
+                        </choice> Eastern Division</addrLine>
+                     <addrLine>
+                        <name type="place"> 
+                           <reg>TN</reg> Athens</name>
+                        <name type="place">
+                           <choice>
+                              <abbr>Ten.</abbr>
+                              <expan>Tennessee</expan>
+                           </choice>
+                        </name>
+                     </addrLine>
+                  </address>
+                  <date when="1838-11-09">Nov 9th 1838</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Memorandum.</hi>
+            </p>
+            <p>This last requisition for funds to defray the expenses of Twelve land detachments of emigrants, takes the numbers so emigrated, from the several muster rolls in the possession of <name type="person">Capt. Page</name>, disbursing Agent <choice>
+                  <abbr>c</abbr>
+                  <expan>et cetera</expan>
+               </choice> which muster rolls make the whole number emigrated, by <hi> land,</hi> under the arrangement entered into with me, 11721 souls.  But the <name type="person">Cherokee</name> authorities, a party to that agreement, allege, that after several of the muster rolls were closed, many additional families and Individuals joined the detachments in <date when="--03">March</date> increasing the twelve detachments emigrated, <hi>by land,</hi> to the aggregate of 12608 emigrants  making a difference of 887 Souls.  Should this be found to be correct when the said land detachments shall be finally mustered West, an additional requisition may be made by the <name type="person">Cherokee</name> authorities for the excess of individuals, whatever the number, over and above the number of 11721.  Who have been in this Country mustered in the twelve detachments which are now on the road.</p>
+            <pb n="2" facs="ch064b.small.jpg"/>
+            <p>
+               <name type="person">Capt. Page</name> will send a copy of this memorandum to the mustering officer on the <name type="place">Arkansaw</name> and desire his particular attention to the Subject, so that a final settlement, on account of the twelve land detachments of emigrants may be made according to the principles of justice.</p>
+            <closer>(Signed) <signed>
+                  <name type="person">Winfield Scott</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="ch064c.small.jpg"/>
+            <p>
+               <hi>Memorandum</hi> inserted by <name type="person">Major <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> W. Scott</name>, on the last requisition drawn on him by <name type="person">John Ross</name> for funds on <choice>
+                  <abbr>a/ct. </abbr>
+                  <expan>account</expan>
+               </choice> the <name type="person">Cherokee</name> Emigration <date when="1840-11-09">9th November 1840.</date>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <p>This copy made by <name type="person">John Ross</name> was among his papers, and secured from his grandson <name type="person">Robert B. Ross</name>, of <name type="place"> 
+                  <reg>OK</reg> Park Hill</name>, <name type="place">
+                  <choice>
+                     <abbr>Okla.</abbr>
+                     <expan>Oklahoma</expan>
+                  </choice>
+               </name>
+               <date when="1930-03-08">3-8-1930</date>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

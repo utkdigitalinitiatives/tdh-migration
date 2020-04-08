@@ -1,0 +1,278 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0310">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Claim]  1842 Feb. 17, The United States to Hunter Langby : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0310</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Claim]  1842 Feb. 17, The United States to Hunter Langby</title>
+               <date when="1842-02-17"> 
+			 February 17, 1842</date>
+               <extent>5p</extent>
+               <note type="summary" anchored="true">This document is a spoliation claim against the United States by Hunter Langby who was dispossessed of his property in 1836.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Claims</term>
+               <term>Cherokee Indians</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0310a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>The <name>United States</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>To <name>Hunter Langby</name>
+                     <choice>
+                        <abbr>Dr</abbr>
+                        <expan>Debtor</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add>For being dispossessed of an improvement in the state of <name>Georgia</name> in 1836__ and emigrated in 1838</add>
+            </opener>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1836__ </cell>
+                     <cell role="data" rows="1" cols="1">Rent for 35 Acres of land under cultivation for <lb/> 2 years at $3 per Acre for one year 1 yr $105. -</cell>
+                     <cell role="data" rows="1" cols="1"> $210.- </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> Rent for 3 Buildings at 25 $ for one year  </cell>
+                     <cell role="data" rows="1" cols="1">50-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"> ____ In <name>Alabama</name> ,</cell>
+                     <cell role="data" rows="1" cols="1"> $260-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1838</cell>
+                     <cell role="data" rows="1" cols="1">2 Log Building- $15 Each  </cell>
+                     <cell role="data" rows="1" cols="1">30-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">5 Acres of land fenced- $8- per Acre</cell>
+                     <cell role="data" rows="1" cols="1">     40- </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1"> 3 '' '' cleaned &amp; not fenced, but rails <lb/> made to fence the same $5 per Acre</cell>
+                     <cell role="data" rows="1" cols="1">15- </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">  ___</cell>
+                     <cell role="data" rows="1" cols="1"> In the state of <name>Tennessee</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"> $345-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">12 Acres of growing Corn $10- per Acre</cell>
+                     <cell role="data" rows="1" cols="1">   120-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">  "Cherokee" Wife of <choice>
+                           <abbr>Lt</abbr>
+                           <expan>Lieutenant</expan>
+                        </choice> Langby-</cell>
+                     <cell role="data" rows="1" cols="1"> $465-</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>  In the State of Alabama (improvement)</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">  8 Acres of land under cultivation $10-</cell>
+                     <cell role="data" rows="1" cols="1"> 80-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">  1 Dwelling house ( <unclear>Hewed</unclear> ,  $30-</cell>
+                     <cell role="data" rows="1" cols="1"> 30-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">  2 Buildings (Kitchen &amp; Crib) $10 <choice>
+                           <abbr>Ea</abbr>
+                           <expan>Each</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"> 20-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">  3 Bearing Apple trees $2-</cell>
+                     <cell role="data" rows="1" cols="1"> 6-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">20 '' Peach Do __ $1-</cell>
+                     <cell role="data" rows="1" cols="1">20-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Another <choice>
+                           <orig>Feild </orig>
+                           <reg>Field</reg>
+                        </choice>of 5 Acres of lane $10- per Acre</cell>
+                     <cell role="data" rows="1" cols="1">      50-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"> From <date>June 1st</date> to <date>
+                           <choice>
+                              <abbr>Sept</abbr>
+                              <expan>September</expan>
+                           </choice> 12th 1838</date> . For furnishing my own <lb/> Subsistance 10in family 102 days at 160 per Ru</cell>
+                     <cell role="data" rows="1" cols="1">163.20</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">To forage of 2 <choice>
+                           <abbr>hd</abbr>
+                           <expan>herd</expan>
+                        </choice> of horses, same time 40</cell>
+                     <cell role="data" rows="1" cols="1">81.60</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$915.80</cell>
+                  </row>
+               </table>
+               <add>  Refer to-  <lb/> affidavit </add>
+            </p>
+            <p>"Hunter Langby" __ under oath_ Says he now resides about one mile from this place emigrated in 1838 in <name>
+                  <choice>
+                     <abbr>Capt  Jno</abbr>
+                     <expan>Captain John</expan>
+                  </choice>
+                  <unclear>Rudges</unclear>
+               </name> Detachment- from near Ross Landing in old nation East of Tennessee- is a half breed cherokee that he <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> in old Nation - valuation money <pb n="2" facs="pa0310b.small.jpg"/> for place  in Georgia &amp; Alabama in all about $600 - which he will explain here after- The <add>place</add> Rent <add>is</add> charged for was near Lookout Mountain __ in Georgia This place was valued to him <add>
+                  <unclear>&amp; <choice>
+                        <abbr>pd</abbr>
+                        <expan>paid</expan>
+                     </choice> for</unclear>
+               </add> at $397_ in the mean time he &amp; all the cherokees were guaranteed_ the peacable_ possession of thier places for two years - <add>by US</add> he was given notice by the " <unclear>lawyer</unclear> " - of his land _ a Georgian__ that he must leave it by a given day in march or he would have been forced away <add>threatened Georgians &amp;</add> accordingly done so_ Knowing he would have it do__ He there went 7 miles in <del type="overstrike">Georgia</del> - Alabama - where he bought a place at $170- from "Little Jissy" __ a cherokee it is for the rent of the Georgia place &amp; the houses he charges___</p>
+            <p>The place in Alabama was also value to him &amp; pd for at about $200- it is for the additional land cleared &amp; houses built he claims___ thence he moved to Tennessee about 25 miles- where he bought a place of Jno Young a half Breed_ &amp; leased his Alabama place to young__ young had the place valued to him &amp; pd for___ it is for the corn planted &amp; growing on this place &amp; (bottom land) he claims pay __</p>
+            <p>The corn was planted &amp; about 6 inches high- but had never been worked-</p>
+            <p>The other improvements <unclear>limit his </unclear> &amp; charged for in the name of his wife- was due from her Fathers Estate &amp; which she <unclear>can testify</unclear> to__ the subsistance charge for - per statement <pb n="3" facs="pa0310c.small.jpg"/> appended- was for the time- interveaning between his arrest by the U.S. troops- &amp; the time when he recieved rations- from the Government</p>
+            <closer>
+               <signed>Hunter <add>his <figure>
+                        <figDesc>x</figDesc>
+                     </figure>mark</add> Langby</signed>
+               <add>sworn to &amp; subscribed before me 17th Feb 1842 <lb/>
+                  <name>Jesse Bushyhead</name>
+                  <lb/> chief Justce <unclear>
+                     <choice>
+                        <abbr>C.N.</abbr>
+                        <expan>Cherokee Nation</expan>
+                     </choice>
+                  </unclear>
+                  <choice>
+                     <abbr>Capt Jno</abbr>
+                     <expan>Captain John</expan>
+                  </choice>. Benge__ a witness under oath says he knows the place- claimed for by Hunter  Langby in  Georgia near Lookout mountain__ <unclear>thinks</unclear> there was about 23 or 5 acres <del type="overstrike">on</del> in one field &amp; about 10 in the other-- there was also dwelling house kitchen &amp; smoke House_ Does not know about the other places_-- or his being dispossessed was not at home at the time__ <lb/> John <add>his <figure>
+                        <figDesc>x</figDesc>
+                     </figure>mark</add> Benge</add>
+               <add>Sworn to &amp; subscribed <lb/> before me 17th Feb 1842 <lb/> P. M. Butter <lb/> cherokee agent</add>
+               <pb n="4" facs="pa0310d.small.jpg"/>
+               <add>
+                  <del type="overstrike">974:-  4th commission</del> No,, <del type="overstrike">124</del>
+                  <lb/> ― <lb/> Hunter Langby, <lb/> Emigrated in 1838 <lb/> ― <lb/> claim $ 915=80</add>
+               <add>rejected</add>
+               <unclear>
+                  <name> Bw Bewtter</name>
+                  <name>Edward Harden</name>
+               </unclear>
+               <pb n="5" facs="pa0310e.small.jpg"/>
+               <add>974 <lb/> Fourth Commission</add>
+               <add>Hunter Langley _ <lb/> claim <unclear>Ga &amp; Ala</unclear>
+                  <lb/> emigrated under Capt John Benge <lb/> from Rosses Landing</add>
+               <add>Hunter Langley <lb/>
+                  <unclear>vs:</unclear> __ Spoliation &amp; Improvement. <lb/> The United States.</add>
+               <add>Filed with former <unclear>Board</unclear>
+                  <lb/> W.D. Miller Secy, <lb/> Decree rendered <date>June <lb/> 26, 1847</date>, rejecting claim <lb/> W.D. Miller, Secy,</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

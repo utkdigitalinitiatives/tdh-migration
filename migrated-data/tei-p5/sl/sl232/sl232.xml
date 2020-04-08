@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl232">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1804 Aug 20, Travellers West [to] Col. John Overton, Knoxville [TN]  /  Sam[ue]l Overton   : a machine readable transcription of an image</title>
+            <author> Overton, Samuel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl232</idno>
+            <idno>OCLC: 51236888</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1804 Aug 20, Travellers West [to] Col. John Overton, Knoxville [TN]  /  Sam[ue]l Overton</title>
+               <author>Overton, Samuel</author>
+               <date when="1804-08-20">August 20, 1804</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated Aug. 20, 1804, from Samuel Overton to his brother Col. John Overton. Samuel has been sick with Rheumatism like symptoms. He also writes about planting</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl232</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Diseases</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr91036621"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Overton, Samuel, 1768-1832</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl232a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Travellers Rest</name>
+                     <date when="1804-08-20">20th <choice>
+                           <abbr>Augt</abbr>
+                           <expan>August</expan>
+                        </choice> 1804</date> —</addrLine>
+               </address>
+               <salute>My Dear Brother </salute>
+            </opener>
+            <p>I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> yours of 7th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>Instant</expan>
+               </choice> , from <name type="place">Knoxville</name>, I feel myself perfectly at home ⁁ <add place="supralinear">here</add> and should have spent my time very agreeable, but have been afflicted with some thing like the Rheumatism ever since I have been here <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> : with little or no fever, <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice>about a week <choice>
+                  <orig>passd</orig>
+                  <reg>passed</reg>
+               </choice> when I was <choice>
+                  <orig>attackd</orig>
+                  <reg>attacked</reg>
+               </choice> with one  &amp; have been very unwell every other day since without much alteration as to the Rheumatism I heard from <del type="overstrike"><?xm-replace_text {del}?></del> my Fathers family the 27th of last month they were as well as common — have you given over the Idea of <unclear>raising a nursery</unclear>   if you have not it would be well to sow the seed this fall, I can attend to the sewing the seed, which I suppose can be procured in this country <unclear>convenient</unclear> , I presume 2 or 3 acres would do to begin the business with, tho: your <choice>
+                  <orig>cleard</orig>
+                  <reg>cleared</reg>
+               </choice> land <unclear>seems</unclear> most of its to have a Crop on it however you can best determine where <pb n="2" facs="sl232b.small.jpg"/> to have the seed sown &amp; write to <name type="person">W. Dickinson</name> if you are <choice>
+                  <orig>disposd</orig>
+                  <reg>disposed</reg>
+               </choice> have it done — Nothing more at present —</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yr. affect. Br.</abbr>
+                     <expan>your affectionate Brother</expan>
+                  </choice>
+               </salute>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col</abbr>
+                           <expan>Colonel</expan>
+                        </choice> John Overton</name> }</addrLine>
+               </address>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Saml</abbr>
+                        <expan>Samuel</expan>
+                     </choice> Overton</name>
+               </signed>
+               <add place="bottom of page">NB I think you have a fine crop tho: W.D. says it would have been much better if there had been rain at proper times, ie the corn S.O.</add>
+               <pb n="3" facs="sl232c.small.jpg"/>
+               <add place="top of page">Sam Overton</add>
+               <add place="above address">Nashville <choice>
+                     <abbr>T</abbr>
+                     <expan>Tennessee</expan>
+                  </choice> Augut 31</add>
+               <address>
+                  <addrLine>Col John Overton</addrLine>
+                  <addrLine>now at</addrLine>
+                  <addrLine>
+                     <add place="left of address">mail</add> Knoxville</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

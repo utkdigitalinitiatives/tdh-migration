@@ -1,0 +1,158 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl406">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Feb. 9, Hazlewood [to] Isaac B Williams, Paris, Tennessee / M. Finiman   : a machine readable transcription of an image</title>
+            <author>Finiman, M.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl406</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Feb. 9, Hazlewood [to] Isaac B Williams, Paris, Tennessee / M. Finiman</title>
+               <author>Finiman, M.</author>
+               <date when="1839-02-09">February 9, 1839</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 9, 1839 from M. Finiman to her brother Isaac B Williams in Paris, Tennessee.  It is a personal letter, detailing information on family members, and their current affairs.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">15</note>
+               <note type="document" anchored="true">sl406</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Finiman, M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl406a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Hazlewood</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Feb</abbr>
+                     <expan>February</expan>
+                  </choice> 9 1839</date>
+               <salute>Dear brother</salute>
+            </opener>
+            <p>I <choice>
+                  <orig>recived</orig>
+                  <reg>received</reg>
+               </choice> your letter last saturday and fully intended to have answered it before this, but several little things have <choice>
+                  <orig>occured</orig>
+                  <reg>occurred</reg>
+               </choice> to prevent me on every day I was rejoiced to hear that you had arrived safe and <choice>
+                  <orig>ind</orig>
+                  <reg>in</reg>
+               </choice> improved health your letter was short with not many particulars in it you told me of marriages and of the death of <name>Sarah Hicks</name> which I was sorry to hear but did not say what was the cause of her death; and of the birth of <name>Susan Wooldrige</name>'s son, but not his age nor his name, all such little things are generally considered the cream of correspondence with ladies, you know our life is composed of trifles. You say <name>Paris</name> is "<choice>
+                  <orig>meloncholly</orig>
+                  <reg>melancholy</reg>
+               </choice> dull" perhaps what I heard a gentleman observe not long ago is true, that all <name>Paris</name> was moved away and the town was sown down in oats, if it should ever be the case, the place where it once stood would always be hallowed ground to me, there is not a scene, or a street, nor an old house about the town, but what linked with <add>some</add> happy <choice>
+                  <orig>rememberence</orig>
+                  <reg>remembrance</reg>
+               </choice> of the past that cannot easily be forgotten.  I went down home in october but did not stay out at my Fathers but one night, they had the <choice>
+                  <abbr>hooping</abbr>
+                  <expan>whooping</expan>
+               </choice> cough among the negroes very bad and I was afraid for my children to take it so late in the year I went to Aunt <choice>
+                  <orig>Watsons</orig>
+                  <reg>Watson's</reg>
+               </choice> and <choice>
+                  <orig>staid</orig>
+                  <reg>stayed</reg>
+               </choice> a few days and mama and the children come up and staid with me, I was very sorry I could not remain any longer I go so seldom but I could not stay with <pb n="2" facs="sl406b.small.jpg"/> Aunt Watson, you know her failing. <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Watson has built an <choice>
+                  <orig>adition</orig>
+                  <reg>addition</reg>
+               </choice> to his house and finished it off very <choice>
+                  <orig>hansomely</orig>
+                  <reg>handsomely</reg>
+               </choice> with a nice portico in front, I did not know the place it was so much changed.   </p>
+            <p>I have not received a letter from home since I was there but I have heard by a gentleman that was at my Fathers about a month ago, he said they are building in town and expected to move very soon, he said mama told him that my Father had divided out his negroes among his children and that if I would come down there this spring she would give a maid, whether it be true or not I do not know. <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Finiman myself and both my children are all very well, Laura can talk very plain and Junius is <choice>
+                  <orig>beging</orig>
+                  <reg>begging</reg>
+               </choice> to step about a little and is I think very fine smart looking fellow every body says he is just like you so you can judge of his beauty that You must come down soon and see us all yourself it has been nearly a year now since you were here.  give my best love to Susan and <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Wooldrige and tell Susan I congratulate her on the birth of her son and sincerely hope that she may be fortunate enough to raise him give my love to every person that remembers me.  write soon and tell if you can when you expect to visit us.</p>
+            <closer>Your Sister <signed>M. Finiman</signed>
+               <pb n="3" facs="sl406c.small.jpg"/>
+               <add>10 <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Mr</abbr>
+                           <expan>Mister</expan>
+                        </choice> Isaac B. Williams, Paris, <choice>
+                           <abbr>Tenne</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </addrLine>
+                  </address> - <figure>
+                     <figDesc>
+                        <choice>
+                           <sic/>
+                           <orig/>
+                        </choice>
+                     </figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

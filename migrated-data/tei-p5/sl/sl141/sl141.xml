@@ -1,0 +1,138 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl141">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1814 Jul. 26, Lockland, [TN] [to] Major Gen[era]l John Cocke, Grainger County, TN /  R[obert] Weakley   : a machine readable transcription of an image</title>
+            <author>Weakley, Robert</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl141</idno>
+            <idno>OCLC: 50555549</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1814 Jul. 26, Lockland, [TN] [to] Major Gen[era]l John Cocke, Grainger County, TN /  R[obert] Weakley</title>
+               <author>Weakley, Robert</author>
+               <date when="1814-07-26">July 26, 1814</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from Colonel Robert Weakly to Major General John Cocke announcing his candidacy for governor of the state of Tennessee. Weakley asks Cocke to put out a good word for him in East Tennessee. It is dated July 26, 1814.</note>
+               <note type="collection" anchored="true">John Cocke Papers V-J-3</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">F:8</note>
+               <note type="document" anchored="true">sl141</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>Weakley, Robert</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Weakley, Robert</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl141a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Lockland </name>
+                     <date when="1814-07-26">July 26th 1814</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>From our long acquaintance I take the liberty of naming to you that I am a Candidate for the next Governor — &amp; flatter myself to find you a friend should there not be a Candidate in <name type="place">East Tennessee</name> that you might prefer — I am induced to believe that  the <name type="person">
+                  <choice>
+                     <abbr>Hon'ble</abbr>
+                     <expan>Honorable</expan>
+                  </choice> John Seveir</name> will not offer — &amp; I have not heard any other person spoken <choice>
+                  <orig>off</orig>
+                  <reg>of</reg>
+               </choice> in that end of the state— <name type="person">Robert C. Foster</name> &amp; <name type="person">Jessee Wharton</name> have both declared themselves Candidates. my faith is strong that I can out poll them in this end of the state — well Knowing that you have much influence <pb n="2" facs="sl141b.small.jpg"/> in East Tennessee. I trust you will make it known so far as may be perfectly convenient. that I am a Candidate and your opinion of me to fill that office — Please drop me a line when convenient. also give my best respects to <name type="person">Judge Cocke</name> and my worthy friend <name type="person">John F. Jack Esquire</name>
+            </p>
+            <closer>
+               <salute>I am dear <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> yours Respectfully —</salute>
+               <signed>
+                  <emph>
+                     <name type="person">
+                        <choice>
+                           <abbr>R</abbr>
+                           <expan>Robert</expan>
+                        </choice> Weakley</name>
+                  </emph>
+               </signed>
+               <pb n="3" facs="sl141c.small.jpg"/>
+               <add place="top, right">17</add>
+               <address>
+                  <addrLine>Major <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">John Cocke</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Grainger County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                     <add place="left of address">mail }</add>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl222">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Pay warrant for the protection of the frontier] 1794 / [signed by] William Blount : a machine readable transcription of an image</title>
+            <author>Blount, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>tl222</idno>
+            <idno>OCLC: 49968362</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Pay warrant for the protection of the frontier] 1794 / [signed by] William Blount </title>
+               <author>Blount, William</author>
+               <date when="1794-12-03">December 3, 1794</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a pay warrant, dated December 3, 1794 and signed by Governor William Blount. William Rickard, pay master, received three hundred and thirty nine dollars to pay troops under Captain Thomas Murray for protecting the frontier from October 22, 1793 to November 22, 1793.</note>
+               <note type="collection" anchored="true">Pay warrant for the protection of the frontier</note>
+               <note type="box" anchored="true">IV-C-2</note>
+               <note type="folder" anchored="true">Tennessee State Library, Miscellaneous documents, 70-119</note>
+               <note type="document" anchored="true">tl222</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Territory of the United States, Southeast of the River Ohio</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n84136128"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Blount, William, 1749-1800</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl222a.small.jpg"/>
+            <head>No. 167 Dollars 339</head>
+            <p>
+               <name type="person">William Blount</name> Governor in and over the <name type="place">Territory of the United States south of the river Ohio</name> .</p>
+            <p>To <name type="person">David Henley</name> Esquire Agent for the Department of War </p>
+            <p>Pay to <name type="person">William Rickard</name> pay-master pro tem, to the Troops in the Territory aforesaid three hundred and thirty nine dollars, out of the money in your hands appropriated, for the defensive protection of the frontiers for the pay of a company of infantry on the frontiers of <name type="place">Mero District</name> commanded by <name type="person">Captain Thomas Murray</name> from the twenty second of October to the Twenty second of November 1793, agreeably to pay-roll and your report Whereon of this date, for which this shall be your warrant— Given at <name type="place">Knoxville</name> under my hand and seal this 3rd day of  December 1794</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Blount</signed>
+               <add place="bottom of page">By the Governor</add>
+               <signed>
+                  <name type="person">Willie Blount</name> Pro Secretary</signed>
+               <add place="left margin">Registered in the Secretary's office Knoxville <date when="1794-12-03">December 3rd 1794</date>
+               </add>
+               <signed>
+                  <emph>Willie Blount</emph>
+               </signed>
+            </closer>
+            <pb n="2" facs="tl222b.small.jpg"/>
+            <closer>Received of David Henley Agent to the <choice>
+                  <abbr>Deptmt</abbr>
+                  <expan>Department</expan>
+               </choice> of War the several sums amounting to three hundred and twenty seven dollars, being the pay in part due <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice> Thomas Murray and his Company the <date when="1793-11-22">22 <choice>
+                     <abbr>Novem.</abbr>
+                     <expan>November</expan>
+                  </choice> 1793</date>Knoxville <unclear>the</unclear>
+               <date when="1795-04-10"> 10 April 1795</date>
+               <signed>
+                  <emph>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Rickard</emph>
+               </signed>
+               <add place="right margin">No. 167 <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Rickard</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl614">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Executive action] 1844 Jan. 4, Nashville, Tennessee [to] Legislature re Capitol site / James Jones : a machine readable transcription of an image</title>
+            <author>Jones, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl614</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Executive action] 1844 Jan. 4, Nashville, Tennessee [to] Legislature re Capitol site / James Jones</title>
+               <author>Jones, James </author>
+               <date when="1844-01-04"> 
+			 January 4, 1844</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is an executive action dated January 4, 1844 from Tennessee governor James Jones addressed to the state legislature regarding the Capitol building site.  Specifically, the subject of the letter is a resolution of the General Assembly for the governor to occupy a house on the grounds. The governor chose to decline the offer to reside in the house.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl614</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor (1841-1845 : Jones)</term>
+               <term>Tennessee -- History</term>
+               <term>Executive -- legislative relations</term>
+               <term>Letters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr90007847"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Jones, James C. (James Chamberlain), 1809-1859</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl614a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Executive Department <lb/>  Nashville</addrLine>
+               </address>
+               <date>January 4 1844</date>
+               <salute>Gentleman of the Senate <lb/>     and House of Representatives</salute>
+            </opener>
+            <p>I have the honor to acknowledge the receipt of your Resolution of the 27th ultimo, directing me to take charge of the grounds set apart for the Capital of the State. I do not know that I fully comprehend the intention of the General Assembly in the first Resolution; if however it <del>is</del> your intention (and I presume it was) that I should occupy the house as a residence, I want beg leave most respectfully to decline the honor, fully appreciating, as I can the kind intentions that suggested the adoption of the Resolution.</p>
+            <p>The second Resolution provides, that the Brick edifice on the ground shall be occupied by the Secretary of State; thus, I regard as a wise provision, as the office at present occupied by that officer is insufficient for a business office, and a library room.  If the General Assembly shall think proper to give other direction to the Executive in regard to the public grounds, they will be most cheerfully attended to.</p>
+            <closer>
+               <signed>
+                  <name>James C Jones</name>
+               </signed>
+               <pb n="2" facs="sl614b.small.jpg"/>
+               <add>Executive Message In relation to the occupation of the grounds set apart as a site for the State Capitol__<lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice>. of <choice>
+                     <abbr>Reps</abbr>
+                     <expan>Representatives</expan>
+                  </choice>. 4 <choice>
+                     <abbr>jany</abbr>
+                     <expan>january</expan>
+                  </choice> 1844 Read and laid on the table P.S. Mitchell </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

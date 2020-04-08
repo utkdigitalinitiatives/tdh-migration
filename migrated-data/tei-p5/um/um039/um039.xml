@@ -1,0 +1,184 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Nov. 6, Salem, Miss[issippi] [to] Mrs Susan Taylor /  Mit: a machine readable transcription of an image</title>
+            <author/>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um039</idno>
+            <idno>OCLC: 50281065</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Nov. 6, Salem, Miss[issippi] [to] Mrs Susan Taylor / Mit  :</title>
+               <author/>
+               <date when="1846-11-06">November 6, 1846</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">The following document is a letter, dated November 6, 1846, to Susan Taylor from her sister-in-law.   In the letter, the sister-in-law discusses piano lessons she will be giving as well as her current lodging and living conditions.</note>
+               <note type="collection" anchored="true">Taylor Family of Fayette Co. TN Letters MS 384 Corr. 1830-1847</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um039</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Piano -- Instruction and study</term>
+               <term>Mississippi</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1">
+            <pb n="1" facs="um039a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Mrs Susan Taylor</name>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>Eage field</unclear>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <emph>
+                           <choice>
+                              <abbr>Tenn</abbr>
+                              <expan>Tennessee</expan>
+                           </choice>
+                        </emph>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <add place="left">Politeness of <name type="person">
+                           <choice>
+                              <abbr>Rev</abbr>
+                              <expan>Reverend</expan>
+                           </choice> R. V. Taylor</name> }</add>
+                  </addrLine>
+               </address>
+            </opener>
+            <pb n="2" facs="um039b.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Salem <choice>
+                           <abbr>Miss</abbr>
+                           <expan>Mississippi</expan>
+                        </choice>
+                     </name> —<date when="1846-11"> Nov — 46</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Sue</salute>
+            </opener>
+            <p>I wrote to Uncle a few days since by mail so I think <choice>
+                  <abbr>Ill</abbr>
+                  <expan>I will</expan>
+               </choice> ⁁ <add place="supralinear">give</add> you a bit of my nonsense by Bob — expect him tomorrow — Well in the first place I am well &amp; <choice>
+                  <abbr>havent</abbr>
+                  <expan>have not</expan>
+               </choice> the blues either Commenced giving  lessons yesterday to <name type="person">Miss Martin</name>
+               <name type="person">Miss Hamer</name> &amp; <name type="person">Mr Sprague</name> — —  —— <name type="person">Miss Leak <name type="person">Miss Cohee</name>
+               </name>, <name type="person">Miss Ayres</name>, <name type="person">Miss Wilcox</name> another <name type="person">Miss Martin</name> &amp; <name type="person">Mr Alexander  </name> will commence Monday — <name type="person">Mrs Sprague</name> will begin <choice>
+                  <orig>assoon</orig>
+                  <reg>as soon</reg>
+               </choice> as her little Eugene's health will admit — You may think I am only jesting about Mr Alexander taking lessons but upon my word Mr Sprague  told me last night Mr <choice>
+                  <abbr>A—</abbr>
+                  <expan>Alexander</expan>
+               </choice> told him so — now just imagine to yourself how funny I will feel sitting at the piano giving lessons to Messers <choice>
+                  <abbr>A</abbr>
+                  <expan>Alexander</expan>
+               </choice> &amp; <choice>
+                  <abbr>S</abbr>
+                  <expan>Sprague</expan>
+               </choice> — Mr Sprague is the most amusing fellow taking lessons you ever saw I actually thought I should have split my sides laughing at his actions —  I like him right well <pb n="3" facs="um039c.small.jpg"/> for the acquaintance I have with him — I never have seen his wife since I saw her in Burns tavern the day Uncle was with me It is thought by some she is more capable of teaching than he is — but of that I know nothing — Mrs Martin called on me just now — she is quite an <choice>
+                  <orig>agreable</orig>
+                  <reg>agreeable</reg>
+               </choice> lady I think I shall like to board there nightly — Oh! me Sue I have my seat at the table right opposite the ugliest nastiest looking sore face man  I ever saw — I <choice>
+                  <abbr>cant</abbr>
+                  <expan>can not</expan>
+               </choice> half eat for every time I raise my eyes from my plate there he is I get right sick every time I go to the table upon my word they are  ugliest set of men that boards at this place (as <name type="person">Uncle Wills</name> says) that walks upon the face of clay — but it is neither here nor there with me I duly wish the poor things were not so Toby stricken <name type="person">Ophelia Wilcox</name> will board here  after next Monday — she will stay in my room — her Pa called here this morning — he seems to be a very fine clever fellow — invites me very pressingly to come out to his house every Friday evening with his daughter expect I shall go once if no more — I  have not paid the first visiting call since I saw you — every time <choice>
+                  <abbr>I've</abbr>
+                  <expan>I have</expan>
+               </choice> been out at all it was on business — Mrs Wilcox &amp; I walked out down town this evening the first time <choice>
+                  <abbr>I've</abbr>
+                  <expan>I have</expan>
+               </choice>
+               <pb n="4" facs="um039d.small.jpg"/> put my foot on the ground since I came to this place — I do expect I shall eat so much &amp; take so little exercise that <choice>
+                  <abbr>I'll</abbr>
+                  <expan>I will</expan>
+               </choice> just swell up as big as a hogs head The boogers have not caught me yet — my room is joining Mrs Wilcox's — it has an out door which goes into a porch &amp; the porch is right on the street but you may depend I keep that door locked close both day &amp; night — I have not felt the least afraid yet I have had the St Anthony's fire terribly for a few days past — it swells my face powerfully sometimes &amp; gives me such a fever I <choice>
+                  <abbr>cant</abbr>
+                  <expan>can not</expan>
+               </choice> rest — Think if I can get some cream of tarter it may <choice>
+                  <orig>releive</orig>
+                  <reg>relieve</reg>
+               </choice> me in a measure  <choice>
+                  <orig>Etherial</orig>
+                  <reg>Ethereal</reg>
+               </choice> parties are all the rage in Salem night before last had one at <name type="person">Mr Hales</name>  &amp; last night at Burns' — you may depend I <choice>
+                  <abbr>would'nt</abbr>
+                  <expan>would not</expan>
+               </choice> be caught taking it for my right <unclear>a run</unclear> — <name type="person">Miss Lane</name> is head fellow in taking it — They say she cuts up some rare shines one fellow night before last came near killing himself — he <choice>
+                  <orig/>
+                  <reg>didn't</reg>
+               </choice> get over it in a long time I suppose he was something like  Sam from what I can hear — It is said <name type="person">Miss Laura Ayres</name> is soon to be married — hope &amp; trust I may be invited to the wedding — you must <choice>
+                  <orig>besure</orig>
+                  <reg>be sure</reg>
+               </choice> &amp; write soon — Give love to Uncle &amp; the babes</p>
+            <p>I am well</p>
+            <closer>
+               <salute>Yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <unclear>mit</unclear>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

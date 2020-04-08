@@ -1,0 +1,381 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt], 1798 Jan. 30, [to] Anthony Foster / [signed by]
+			 Edm[un]d Crutcher, Francis B. Sappington : a machine-readable transcription of
+			 an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc001</idno>
+            <idno>OCLC: 49909693</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt], 1798 Jan. 30, [to] Anthony Foster / [signed by]
+				Edm[un]d Crutcher, Francis B. Sappington</title>
+               <date when="1798-01-30">January 30, 1798 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a receipt for goods dated
+				January 30, 1798. The receipt was given to Anthony Foster and pertained to
+				goods given to two Cherokee Indians in reward for returning 10 stolen horses
+				from the Creek Nation. Their payment of goods, not cash, included a rifle and
+				powder, cloth, thread, buttons, and other domestic goods. The receipt was
+				signed by Edmond Crutcher and Francis B. Sappington.</note>
+               <note type="Collection">John W. Greene Papers</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-25</note>
+               <note type="Document">sc001</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts</term>
+               <term>Cherokee Indians</term>
+               <term>Creek Indians</term>
+               <term>Southern States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc001a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>The 
+				  <name type="place">United States</name>
+                  </addrLine>
+                  <addrLine>To 
+				  <name type="person">Anthony Foster</name>
+                     <choice>
+                        <abbr>cr</abbr>
+                        <expan>creditor</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>For amount paid two 
+			 <name type="persons">Cherokee</name> Indians for bringing in ten
+			 <add place="supralinear">stolen</add> horses from the Creek Nation agreeable to
+			 the order of 
+			 <name type="person">Sackfield Marlin</name> Assistant Agent to the
+			 Southern Indians <add place="top left of table">
+                  <date when="1797-12-22">1797<lb/>
+                     <choice>
+                        <abbr>Decemr.</abbr>
+                        <expan>December</expan>
+                     </choice> 22nd
+                     </date>
+               </add>
+            </p>
+            <p>
+               <table>
+                  <head>(to Wit)</head>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <choice>
+                           <abbr>Dol.</abbr>
+                           <expan>Dollars</expan>
+                        </choice>
+                     </cell>
+                     <cell>
+                        <choice>
+                           <abbr>C.</abbr>
+                           <expan>Cents</expan>
+                        </choice>
+                     </cell>
+                     <cell>
+                        <choice>
+                           <abbr>D.</abbr>
+                           <expan>Dollars</expan>
+                        </choice>
+                     </cell>
+                     <cell>
+                        <choice>
+                           <abbr>C</abbr>
+                           <expan>Cents</expan>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>14 lbs powder</cell>
+                     <cell> 1 <unclear> ?</unclear>
+                     </cell>
+                     <cell rend="right">14</cell>
+                     <cell rend="right">
+                        <unclear>?</unclear>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1 Rifle <choice>
+                           <orig>Gunn</orig>
+                           <reg>Gun</reg>
+                        </choice>
+                     </cell>
+                     <cell/>
+                     <cell rend="right">12</cell>
+                     <cell rend="right">50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>paid for Making 2 <unclear>Surtuets</unclear>
+                     </cell>
+                     <cell>250</cell>
+                     <cell rend="right">5</cell>
+                     <cell rend="right">0</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1 lb powder </cell>
+                     <cell/>
+                     <cell rend="right">1</cell>
+                     <cell rend="right">
+                        <unclear>?</unclear>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">32</cell>
+                     <cell rend="right">50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7 
+				<choice>
+                           <abbr>yd.</abbr>
+                           <expan>yard</expan>
+                        </choice> Cloth</cell>
+                     <cell>4 <unclear>?</unclear>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">28</cell>
+                     <cell rend="right">
+                        <unclear>?</unclear>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3 
+				<choice>
+                           <abbr>doz</abbr>
+                           <expan>dozen</expan>
+                        </choice> Buttons</cell>
+                     <cell>
+                        <unclear>?</unclear> 62 </cell>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">1</cell>
+                     <cell rend="right">87 </cell>
+                  </row>
+                  <row>
+                     <cell>10 skeins thread</cell>
+                     <cell>
+                        <unclear>?</unclear> 4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">
+                        <unclear>?</unclear>
+                     </cell>
+                     <cell rend="right">40</cell>
+                  </row>
+                  <row>
+                     <cell>11  
+				<choice>
+                           <abbr>yd.</abbr>
+                           <expan>yards</expan>
+                        </choice> Linen</cell>
+                     <cell>1 25</cell>
+                     <cell>for</cell>
+                     <cell/>
+                     <cell rend="right">14</cell>
+                     <cell rend="right">
+                        <unclear>?</unclear>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4 skeins silk</cell>
+                     <cell>
+                        <unclear>?</unclear> 12 </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <unclear> ?</unclear>
+                     </cell>
+                     <cell rend="right">50</cell>
+                  </row>
+                  <row>
+                     <cell>4 
+				<choice>
+                           <abbr>Stichs</abbr>
+                           <expan>stitches</expan>
+                        </choice> twist</cell>
+                     <cell>
+                        <unclear>?</unclear> 12 </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">50</cell>
+                  </row>
+                  <row>
+                     <cell>3 
+				<choice>
+                           <abbr>yd</abbr>
+                           <expan>yard</expan>
+                        </choice> Linen</cell>
+                     <cell>
+                        <unclear>? </unclear>50</cell>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">1</cell>
+                     <cell rend="right">50</cell>
+                  </row>
+                  <row>
+                     <cell>1 
+				<choice>
+                           <abbr>stich</abbr>
+                           <expan>stitch</expan>
+                        </choice> twist</cell>
+                     <cell>
+                        <unclear>?</unclear>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <unclear>?</unclear>
+                     </cell>
+                     <cell rend="right">12 </cell>
+                  </row>
+                  <row>
+                     <cell>3 skeins thread</cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <choice>
+                           <abbr>doz</abbr>
+                           <expan>dozen</expan>
+                        </choice> Buttons</cell>
+                     <cell>
+                        <unclear>?</unclear> 94</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">48</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell rend="right">47</cell>
+                     <cell rend="right">50</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <add place="left of signature">
+                  <unclear>E.
+			 Eceipted</unclear>
+               </add>
+               <signed>
+                  <hi>
+                     <name type="person">A Foster</name>
+                  </hi>
+               </signed>
+               <add>We the
+			 Subscribers do Certify that the Above Articles were delivered to the Cherokee
+			 Indians  of Which we have Signed duplicates Witness our hands this 
+			 <date when="1798-01-30">30th day of January 1798</date>
+                  <lb/>
+                  <name type="person">
+                     <hi>
+                        <choice>
+                           <abbr>Edmd.</abbr>
+                           <expan>Edmond</expan>
+                        </choice>
+				Crutcher</hi>
+                  </name>
+                  <lb/>
+                  <name type="person"> Francis B. Sappington</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <pb n="2" facs="sc001b.small.jpg"/>
+      <back>
+         <div subtype="1">
+            <p>
+               <unclear>my</unclear>
+               <lb/>
+               <name type="person">Anthony Foster</name>
+               <lb/>
+               <date when="1797-12-22">22 
+				<choice>
+                     <abbr>Dec</abbr>
+                     <expan>December</expan>
+                  </choice> 1797</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

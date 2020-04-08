@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl160">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1846 Jun. 19, Cincinnati [to]  Mr. James A. Woods, Nashville, Tennessee / Tho[ma]s Layton : a machine readable transcription of an image</title>
+            <author>Layton, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl160</idno>
+            <idno>OCLC: 51106288</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1846 Jun. 19, Cincinnati [to]  Mr. James A. Woods, Nashville, Tennessee / Tho[ma]s Layton</title>
+               <author>Layton, Thomas</author>
+               <date when="1846-06-19">June 19, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated June 19, 1846, to James A. Woods in Nashville from his friend Thomas Layton.  Layton informs Woods of his adventures getting to Cincinnati, including the story of the malfunctions of a ship named the Peytonn.</note>
+               <note type="collection" anchored="true">Woods Family</note>
+               <note type="box" anchored="true">Layton-West</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sl160</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Ohio -- Description and travel</term>
+               <term>Ohio</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Layton, Thomas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl160a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Cincinnati</name>
+                     <date when="1846-06-19">June 19th 1846</date>
+                  </addrLine>
+               </address>
+               <salute>My dear friend</salute>
+            </opener>
+            <p>I beg leave to inform you of my arrival at this place, and that I am somewhat better than I was when we parted at <name type="place">Smithland</name> .  Still finding myself rather feeble, I have concluded to go to the <name type="place">Virginia Springs</name>  &amp; to pass a week or two there before I proceed on to <name type="place">New York</name>
+            </p>
+            <p>The following morning after you left, I got on board the <unclear>SSW</unclear> Cincinnati, for <name type="place">Louisville</name> — We overtook the Peytonn  about 100 miles below Louisville with her other shaft broken, &amp; took her in tow.  Besides the shafts, the engine of the Peytonn is much injured — The repairs which the boat will require, will I am told cost at least $7,000— <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice>
+                  <unclear>Shallcross</unclear>
+               </name> appeared very much dejected at his misfortunes &amp; estimates his loss of time in consequence of them as very serious.</p>
+            <p>Remember me most kindly to your lady, &amp; to your good Uncles.  I regret exceedingly that I was deprived by indisposition of the pleasure of seeing them at Nashville — I think, however, on account of my health,  that I acted prudently in not going up the <name type="place">Cumberland</name>.</p>
+            <p>I hope you found your wife &amp; little boy in good health.</p>
+            <closer>
+               <salute>Believe me to be with sincere regard</salute>
+               <salute>Your friend</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Thos</abbr>
+                        <expan>Thomas</expan>
+                     </choice> Layton</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr James A Woods</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl160b.small.jpg"/>
+               <add rend="different hand, ink" place="above address">10</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr James A. Woods</name>
+                  </addrLine>
+                  <addrLine>Messrs <name type="person">Wharton</name> &amp; Woods</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc136">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1831 Nov. 15, Alexandria [to] David Burford / J. Saunders : a machine readable transcription of an image</title>
+            <author>Saunders, J. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc136</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1831 Nov. 15, Alexandria [to] David Burford / J. Saunders</title>
+               <author> Saunders, J.</author>
+               <date when="1831-11-15"> 
+			 November 15, 1831</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated November 15, 1831   from J. Saunders in Warrenton, Virginia  to David Burford in Dixons Spring, Tennessee.  The subject of the letter is the business of  slave labor speculation, including the purchase of slaves.</note>
+               <note type="collection" anchored="true">David Burford Papers</note>
+               <note type="box" anchored="true">MS-935</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc136</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Business transactions.</term>
+               <term>Slave trade</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Saunders, Jourdan M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc136a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Alexand</abbr>
+                        <expan>Alexandria</expan>
+                     </choice>.</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Nov</abbr>
+                     <expan>November</expan>
+                  </choice>. 15th 1831</date>
+               <salute>Dear Burford</salute>
+            </opener>
+            <p>I this day make a <choice>
+                  <abbr>shipt</abbr>
+                  <expan>shipment</expan>
+               </choice>. of 13 likely <choice>
+                  <abbr>negrs</abbr>
+                  <expan>negroes</expan>
+               </choice>, 8 men &amp; 5 girls no. 1.  If they should reach the market before the passage of the interdictive, they will doubtless pay a handsome profit:__ Our subsequent course will depend upon the advise  we receive from <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice>. Franklin__</p>
+            <p>Let me hear from you &amp; give me the news at large</p>
+            <closer>
+               <add>Yr. friend</add>
+               <signed>
+                  <name>JM saunders</name>
+               </signed>
+               <add>the whole number up to this time are 42</add>
+               <pb n="2" facs="sc136b.small.jpg"/>
+               <add>From <name>J.M. Saunders</name>
+                  <date>
+                     <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice> 15 1831</date>
+               </add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Majr</abbr>
+                        <expan>Major</expan>
+                     </choice>. David Burford <lb/> Nashville <lb/> Tennessee</addrLine>
+               </address>
+               <add>From <name>J.M. Saunders</name>
+                  <date>Nov. 29th 1831</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

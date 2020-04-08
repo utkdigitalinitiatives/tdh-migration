@@ -1,0 +1,121 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl403">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841 Mar. 20, Paris [Tennessee, to William and Elizabeth] Fitzgerald, Paris [Tennessee] / I[saac] B. Williams : a machine readable transcription of an image</title>
+            <author>Williams, I.B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl403</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1841 Mar. 20, Paris [Tennessee, to William and Elizabeth] Fitzgerald, Paris [Tennessee] / I[saac] B. Williams</title>
+               <author>Williams, I.B.</author>
+               <date when="1841-03-21">March 20, 1841</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a  letter from Isaac B. Williams to William and Elizabeth Fitzgerald, dated March 20, 1841. They are the parents of his fiance, Adeline. Isaac is writing them to formally announce his intentions to marry, and be a good and responsible husband to Adeline. He informs them that the wedding is planned for April. Isaac hopes to receive their approval for this union.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer  Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl403</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Fitzgerald, William</term>
+               <term>Marriage Parental Consent</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, Isaac B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl403a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Paris</name>
+                     <date>
+                        <choice>
+                           <abbr>Mar</abbr>
+                           <expan>March</expan>
+                        </choice> 20th 1841</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <name>Mr &amp; Mrs Fitzgerald</name>
+               </salute>
+            </opener>
+            <p>You are probably aware that  for some time past an engagement has existed between Miss Adeline &amp; myself and I assure you that on my part it has not been made without a full consideration of the importance of such an union. and the sacred and important charge that I shall take upon myself, my situation and condition from your intimate acquaintance with <unclear>me must</unclear>  be well known to you. I have no estate except the <choice>
+                  <orig>oppinion</orig>
+                  <reg>opinion</reg>
+               </choice> of my <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> my future prospects can be better judged of by you than myself we have <unclear>paid</unclear> upon the last week in April for the <choice>
+                  <orig>consumation</orig>
+                  <reg>consummation</reg>
+               </choice> of <add>our</add> nuptials I hope that the engagement will met your approbation and that the time may suit the convenience of yourselves &amp; family should I receive a favorable answer all I can do is to promise my best exertions to render your Daughter happy &amp; discharge the duties I shall owe you. <pb n="2" facs="sl403b.small.jpg"/> I expect to <unclear>leave</unclear>  tomorrow and hope you will give me a <unclear>definite</unclear> answer before I start, drop me a note by my friend <name>IG Harris</name>.</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>I</abbr>
+                        <expan>Isaac</expan>
+                     </choice> B. Williams</name>
+               </signed>
+               <pb n="3" facs="sl403c.small.jpg"/>
+               <address>
+                  <addrLine>Mr &amp; Mrs Fitzgerald</addrLine>
+                  <addrLine> { Present</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

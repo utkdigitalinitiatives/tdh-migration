@@ -1,0 +1,217 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Aug. 7, Chickasaw Agency / H[enry] Sherburne: a
+			 machine-readable transcription of an image</title>
+            <author>Sherburne, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl013</idno>
+            <idno>OCLC: 47800776</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Aug. 7, Chickasaw agency / H[enry] Sherburne: a
+				machine-readable transcription of an image</title>
+               <author>Sherburne, H[enry]</author>
+               <date when="1819-08-07">August 7, 1819</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Henry
+				Sherburne, agent for the Chickasaw Nation, to an unknown recipient on August 7,
+				1819. In the letter, Sherburne explains that the Chickasaw Nation had
+				objections to the boundary line of their land that the recipient of the letter
+				had laid out. The letter also states that the line has been drawn without
+				regard to specifications listed in the treaty between the Chickasaw and the
+				United States government. Sherburne states that the Chickasaw want nothing but
+				a new line drawn that respects the conditions noted in the treaty.</note>
+               <note type="Collection">Tennessee Historical Society </note>
+               <note type="Box">2</note>
+               <note type="Folder">24</note>
+               <note type="Document">tl013</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Chickasaw Indians--Government relations</term>
+               <term>Chickasaw Indians--Treaties</term>
+               <term>Boundaries</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sherburne, Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl013a.small.jpg"/>
+            <opener>
+               <add place="top left">
+                  <name type="person">Sherburne,<choice>
+                        <abbr>				  H.</abbr>
+                        <expan>Henry</expan>
+                     </choice>
+                  </name>.</add>
+               <add place="top left">Copy</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Chickasaw</name> agency 
+				  <date when="1819-08-07">
+                        <choice>
+                           <abbr>augt</abbr>
+                           <expan>August</expan>
+                        </choice> 7
+					 1819</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>Your letter of the 
+			 <date when="--07-08">8th July</date> was not received until the 
+			 <date when="---20">20th</date>. I have delayed answering of it
+			 till this time that I might give you the result of the council of the Nation,
+			 respecting the line you lately sued, between the 
+			 <name type="place">
+                  <choice>
+                     <abbr>Ustates</abbr>
+                     <expan>United States</expan>
+                  </choice>
+               </name>
+			 and the nation, yesterday the council assembled and gave me in writing the
+			 following reasons for their objections to the line as run by you, with a
+			 request that I would transmit it to their father the President of the 
+			 <name type="place">
+                  <choice>
+                     <abbr> U.</abbr>
+                     <expan>United</expan>
+                  </choice> States</name>,
+			 (<choice>
+                  <abbr>viz</abbr>
+                  <expan>to wit</expan>
+               </choice>) Surveying and laying off a town at the 
+			 <name type="place">
+                  <choice>
+                     <orig>chickasaw</orig>
+                     <reg>Chickasaw</reg>
+                  </choice>
+				Bluffs</name> before the line was run and not <choice>
+                  <orig>giveing</orig>
+                  <reg>giving</reg>
+               </choice>
+			 due notice agreeable to treaty, starting the line without any commissioners in
+			 behalf of the 
+			 <name type="place">
+                  <choice>
+                     <orig>chickasaw</orig>
+                     <reg>Chickasaw</reg>
+                  </choice>
+				Nation</name>, running the line without proper instruments, not starting the
+			 line until <choice>
+                  <orig>eigh</orig>
+                  <reg>eight</reg>
+               </choice> or nine <choice>
+                  <orig>OClock</orig>
+                  <reg>o'clock</reg>
+               </choice> in the morning, Not blazing the trees as the treaty
+			 calls for, they <lb/> further <pb n="2" facs="tl013b.small.jpg"/> further request that the President
+			 would appoint 
+			 <name type="person">
+                  <choice>
+                     <orig>Majar</orig>
+                     <reg>Major</reg>
+                  </choice> Freeman</name> to
+			 run another line between them and the state of 
+			 <name type="place">Tennessee</name> as they want nothing but Justice
+			 done them
+                  
+               </p>
+            <p>Thus <del type="overstrike">for</del> I have given you a fair and
+		  just statement of the case and if it Should prove by another line being run
+		  that the <choice>
+                  <orig>presant</orig>
+                  <reg>present</reg>
+               </choice> one is <choice>
+                  <orig>incorect</orig>
+                  <reg>incorrect</reg>
+               </choice> no <choice>
+                  <orig>doub</orig>
+                  <reg>doubt</reg>
+               </choice> but
+		  <del type="overstrike">our</del>
+               <add place="supralinear"> the</add> nation
+		  will receive from our government ample justice</p>
+            <closer>
+               <salute>I am respectfully <lb/> Si r<lb/> Your 
+				<choice>
+                     <abbr>Obedt</abbr>
+                     <expan>Obedient</expan>
+                  </choice> servant <lb/> Signed
+                        
+                     
+                  </salute>
+               <signed>
+                  <choice>
+                     <abbr>H.</abbr>
+                     <expan>Henry</expan>
+                  </choice> Sherburne agent for <lb/> the 
+				<name type="place">
+                     <choice>
+                        <orig>chickasaw
+				  nation</orig>
+                        <reg>Chickasaw Nation</reg>
+                     </choice>
+                  </name> of Indians
+                  </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Nov. 16, Bellemont, [to] Mr. H[owell] A. Taylor / A.W. Littlejohn : a machine readable transcription of an image</title>
+            <author>Littlejohn, A.W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um040</idno>
+            <idno>OCLC: 50281132</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1846 Nov. 16, Bellemont [to] Mr. H [owell] A. Taylor / A.W. Littlejohn</title>
+               <author>Littlejohn, A.W.</author>
+               <date when="1846-11-16">November 16, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by A.W. Littlejohn to Howell A. Taylor, dated November 16, 1846. In the letter, Littlejohn asks for Taylor's certificate testifying to allegations made by a man named J.J. Alison. Alison had  made bad remarks about Littlejohn's character.</note>
+               <note type="collection" anchored="true">Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1836-1847)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">um040</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal opinions</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Littlejohn, A. W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um040a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. <choice>
+                           <abbr>H.</abbr>
+                           <expan>Howell</expan>
+                        </choice> A. Taylor</name>
+                  </addrLine>
+                  <addrLine>at Home</addrLine>
+               </address>
+               <add place="left of address">
+                  <name type="person">
+                     <choice>
+                        <abbr>bro.</abbr>
+                        <expan>brother</expan>
+                     </choice> Smith</name> }</add>
+               <pb n="2" facs="um040b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Bellemont</name>
+                     <date when="1846-11-16">
+                        <choice>
+                           <abbr>Nov.</abbr>
+                           <expan>November</expan>
+                        </choice> 16th 1846</date>
+                  </addrLine>
+               </address>
+               <salute>My dear <choice>
+                     <abbr>bro.</abbr>
+                     <expan>brother</expan>
+                  </choice> Taylor</salute>
+            </opener>
+            <p>you told me in <name type="place">Somerville</name> I think some time after J. J. Alison's trial at <name type="place">Wesly</name> what he said to you at your house respecting my character, <choice>
+                  <abbr>viz.</abbr>
+                  <expan>to wit</expan>
+               </choice> that I was a very corrupt, <choice>
+                  <orig>rotton</orig>
+                  <reg>rotten</reg>
+               </choice> -hearted man this conversation took place at the time, when he informed you what the <name type="person">Stewards</name> had done at Cloyton-Camp meeting. you agreed to give me your certificate, if I thought it necessary.  <name type="person">brother Brock</name> was at my house the other day ⁁ <add place="supralinear">I told him</add> that I could get you to certify to the above and I promised to have it at Conference. it is important I think for me to have your certificate. will you then be so good as to send me by bro. Smith in writing, as near as you can recollect, what <name type="person">J.J. Alison</name> did say to you in disparagement of my character. be particular to state in your certificate, <emph>when</emph> and <emph>where</emph> this conversation took place. Comply with the above and oblige</p>
+            <closer>
+               <salute>yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">A.W. Littlejohn</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

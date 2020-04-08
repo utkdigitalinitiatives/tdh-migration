@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc130">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Court record] 1805 Feb. Description of road closings in Washington County, Tennessee : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc130</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Court record] 1805 Feb. Description of road closings in Washington County, Tennessee</title>
+               <date when="1805-02"> 
+			 February 1805</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a court record from Washington County, Tennessee dated February 1805. The record is signed by members of the grand jury and lists roads that are closed due to being in need of repair.</note>
+               <note type="collection" anchored="true">Fink and Dulaney Papers</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">38</note>
+               <note type="document" anchored="true"> sc130</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Roads</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc130a.small.jpg"/>
+            <opener>
+               <date>February Term 1805</date>
+            </opener>
+            <p>The grand jury Present to the worshipful Court of <name>Washington</name> that the Road from <name>Ezekial Brown</name> to the ford of <name>Sinking Creek</name> is out Repair to wit, against <name>James Delany</name>'s Plantation By Reason of Several Trees Across P. Road within the Distance of three Hundred yards And also the Road from <name>Joseph Young</name>'s <choice>
+                  <abbr>Esqr</abbr>
+                  <expan>esquire</expan>
+               </choice>. to the forks of the Road Near <name>Jonesborough</name> So likewise <add>out</add> of Repair Not having Been Lately Worked Upon __ <add>
+                  <name>John Ruble</name>
+               </add>
+               <name>John Helm Foreman</name>
+               <name>Amos Ball</name>
+               <name>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice>. Clark</name>
+               <name>Jesse Crouch</name>
+               <name>Chaney</name>
+               <name>Chaucy Beret</name>
+               <name>Robert Mea <gap agent="damage"/>
+               </name>
+               <name>
+                  <choice>
+                     <abbr>Benjmn</abbr>
+                     <expan>Benjamin</expan>
+                  </choice>. Drain</name>
+               <name>Charles Bacon</name>
+               <name>Jacob Brown</name>
+               <name>John Bowman</name>
+               <name>Robt Mitchell</name>
+               <name>Nicholas Chenan</name>
+               <name>Elias Bowman</name>
+               <name>Charles Graham</name>
+               <pb n="2" facs="sc130b.small.jpg"/>
+               <unclear>Presentment</unclear>of <choice>
+                  <abbr>G</abbr>
+                  <expan>Grand</expan>
+               </choice> Jury</p>
+         </div>
+      </body>
+   </text>
+</TEI>

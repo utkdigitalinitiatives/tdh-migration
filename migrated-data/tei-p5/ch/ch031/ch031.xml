@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter], 1857 Nov. 18, Executive Department, Tahlequah [to] Colo[nel] George Butler, U[nited] S[tates] Agent / John Ross : a machine-readable transcription</title>
+            <author>Cherokee Nation. Principal Chief (1828-1866 : Ross)</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch031</idno>
+            <idno>OCLC: 44804338</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter], 1857 Nov. 18, Executive Department, Tahlequah [to] Colo[nel] George Butler, U[nited] S[tates] Agent / John Ross</title>
+               <author>Cherokee Nation. Principal Chief (1828-1866 : Ross)</author>
+               <date when="1857-11-18">November 18,1857</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">(Copy ?) of a letter dated November 18, 1857 from John Ross, Principal Chief of the Cherokee Nation, to Colonel George Butler calling on Butler to remove intruders from the "Neutral Land" per an act of the National Council. A copy of the act, originally enclosed, is no longer attached. A note on the back indicates that this letter is a copy, but Ross's signature appears to be in his own hand.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">23</note>
+               <note type="document" anchored="true">ch031</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Land tenure</term>
+               <term>Cherokee Indians--Legal status, laws, etc.</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n82214557"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ross, John, 1790-1866</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch031a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>Executive Department</addrLine>
+                     <addrLine>
+                        <name type="place">Tahlequah</name>
+                     </addrLine>
+                  </address>
+                  <date when="1857-11-18">Nov. 18th. 1857</date>
+               </dateline>
+               <salute>
+                  <name type="person">
+                     <choice>
+                        <abbr>Colo.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> George Butler</name>
+                  <name type="place">U.S.</name> Agent<lb/>Sir,,
+                  </salute>
+            </opener>
+            <p>In compliance with the requirements of the enclosed Copy of an Act of the National Council; <del type="overstrike">It has</del>
+               <add place="supralinear">you will perceive that it has</add> become my duty again, "to call upon you, as, the Agent of the <name type="place">United States</name>, for the immediate removal of the intruders upon the Neutral Lands"</p>
+            <closer>
+               <salute>I am Sir, Very respectfully Your <choice>
+                     <abbr>Obt. Servt.</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">John Ross</name>
+               </signed>
+               <choice>
+                  <abbr>Prinl.</abbr>
+                  <expan>Principal</expan>
+               </choice> Chief <name>Cherokee Nation</name>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch031b.small.jpg"/>
+            <p>Copy of a Note to <name type="person">
+                  <choice>
+                     <abbr> Colo. Geo.</abbr>
+                     <expan>Colonel George</expan>
+                  </choice> Butler</name>
+               <name type="place">U.S.</name> Agent  respecting <add place="supralinear">the</add> intruders upon the Neutral Land <date when="1857-11-18">18th Nov. 1857</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

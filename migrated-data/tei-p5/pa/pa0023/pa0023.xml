@@ -1,0 +1,85 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Motion for Treaty to United States Senate, 1812 Jan. 10 ]  : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0023</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Motion for Treaty to United States Senate, 1812 Jan.10 ]</title>
+               <date when="1812-01-10">January 10, 1812</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a motion to the United States Senate, dated January 10, 1812 regarding the ratification of a treaty made with the Cherokee Nation on December 2, 1807, at Chickamauga, on the Tennessee River. The senate unanimously voted no.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0023</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Treaties</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>United States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0023.small.jpg"/>
+            <head>In the Senate of the United States<date>January 10th 1812.</date>
+            </head>
+            <p>The senate proceeded to consider the motion submitted yesterday "that the senate do advise and consent to the ratification of the treaty made and concluded at <name>Chickamaga</name> on the <name>Tennessee river</name>, on the 2nd day of December 1807, between ( <name>Return J. Meigs</name>, commissioner on the part of the <name>United States</name>, and the chiefs and warriors of the <name>Cherokee</name> nation of Indians;" And <lb/> On the question to agree thereto, <lb/> It was unanimously determined in the negative. <lb/> Attest</p>
+            <closer>
+               <signed>
+                  <name>Sam A. Otis</name> secretary </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,505 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch088">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from the Secretary of War transmitting a list of persons entitled to reservations under the treaty with the Cherokees of the 27th February, 1819, [et c.], 1828, Washington : a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch088</idno>
+            <idno>OCLC: 44870465</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter from the Secretary of War transmitting a list of persons entitled to reservations under the treaty with the Cherokees of the 27th February, 1819, [et c.], 1828, Washington</title>
+               <pubPlace>Washington</pubPlace>
+               <publisher>Gales [and] Seaton</publisher>
+               <date when="1828">1828</date>
+               <extent>6p</extent>
+               <note type="summary" anchored="true">Congressional publication containing a letter dated January 23, 1828 from James Barbour, Secretary of War, to the Speaker of the House concerning Cherokee reservations provided for in the Treaty of Washington, 1819. Barbour transmits the communication from  Thomas L. McKenney, a clerk in the Office of Indian Affairs, along with a list of reservees, indicating whether they are entitled to fee simple or life only reservations. One hundred and seven are life only reservations and 39 are fee simple. The 23 reservations that exist within the bounds of Georgia have been purchased for that state through a provision of Congress.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">18</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">ch088</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Claims</term>
+               <term>Georgia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <pb n="1" facs="ch088a.small.jpg"/>
+            <docTitle>
+               <titlePart type="main">20th <hi rend="sc">Congress</hi>, 1<hi rend="i">st Session</hi>.  <lb/>[Doc. No.104.]  <lb/>
+                  <hi rend="sc">
+                     <choice>
+                        <abbr> Ho. </abbr>
+                        <expan>House</expan>
+                     </choice>
+                  </hi> OF <hi rend="sc">
+                     <choice>
+                        <abbr> REPS.</abbr>
+                        <expan>Representatives</expan>
+                     </choice>
+                  </hi>
+                  <hi rend="i">War Dept.</hi>
+                  <lb/>
+                  <hi>RESERVATIONS UNDER THE <name type="person">CHEROKEE</name> TREATY.</hi>
+               </titlePart>
+               <lb/>
+               <titlePart type="main">
+                  <hi rend="b">LETTER</hi>
+                  <lb/>FROM<lb/>
+                  <hi rend="b">THE SECRETARY OF WAR</hi>,<lb/>TRANSMITTING<lb/>
+                  <hi rend="b">A LIST OF PERSONS ENTITLED TO RESERVATIONS,</hi>
+                  <lb/>UNDER THE TREATY WITH THE <name type="person">CHEROKEES</name>,<lb/>OF THE <date when="1819-02-27">27TH FEBRUARY, 1819,</date>
+                  <choice>
+                     <abbr>c.</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </titlePart>
+            </docTitle>
+            <lb/>
+            <docImprint>
+               <date when="1828-01-23">JANUARY 23, 1828.</date>
+               <lb/>Read, and laid on the table.<lb/>
+               <pubPlace>WASHINGTON:</pubPlace>
+               <lb/>
+               <publisher>PRINTED BY GALES  SEATON</publisher>
+               <lb/>
+               <docDate>
+                  <date when="1828">1828</date>.</docDate>
+            </docImprint>
+         </titlePage>
+      </front>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch088b.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <hi rend="sc">Department</hi> OF <hi rend="sc">War</hi>,</addrLine>
+               </address>
+               <date when="1828-01-23">
+                  <hi rend="i">January</hi>
+                  <choice>
+                     <abbr>23</abbr>
+                     <expan>23rd</expan>
+                  </choice>, 1828.</date>
+               <salute>
+                  <hi rend="sc">Sir</hi>:</salute>
+            </opener>
+            <p>I have the honor, in obedience to a resolution of the House of Representatives, of the 16th instant, of submitting, herewith, a communication from the Clerk charged with the Indian business of this Department, accompanied by a list of persons entitled to reservations under the Treaty with the <name type="person">Cherokees</name>, of <date when="1819-02-27">27th February, 1819</date>, according to the Treaty, and the returns of the Commissioners appointed to superintend the surveying and laying off said reservations, distinguishing between those who are entitled to reservations in fee simple, and those who are entitled to reservations for life only.</p>
+            <closer>
+               <salute>I have the honor to be, Your obedient servant,</salute>
+               <signed>
+                  <name type="person">JAMES BARBOUR</name>
+               </signed>
+               <address>
+                  <addrLine>The <hi rend="sc">SPEAKER</hi>
+                     <hi rend="i">of the</hi>
+                     <hi rend="i">House of Representatives.</hi>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="3" facs="ch088c.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <hi rend="sc">Department</hi> OF <hi rend="sc">War</hi>,</addrLine>
+                  <addrLine>
+                     <hi rend="i">Office of Indian Affairs</hi>,</addrLine>
+               </address>
+               <date when="1828-01-19">
+                  <hi rend="i">January</hi> 19, 1828.</date>
+               <salute>SIR:</salute>
+            </opener>
+            <p>I have the honor to accompany this with an abstract, in conformity to a resolution of the House of Representatives, of the 16th instant, (and upon which you have directed me to report to you,) of each and every head of an Indian family, who is entitled to a reservation of land. by virtue of the Treaty made between <name type="person">John C. Calhoun</name>, late Secretary of War, and the Chiefs and Head Men of the <name>Cherokee Nation of Indians</name>, at the City of <name type="place">Washington</name>, on the <date when="1819-02-27">27th day of February, 1819,</date> distinguishing between those who are entitled to reservations in fee simple, and those who are entitled to reservations for life only, with reversion in fee simple, so far as the records of this office enable me to do so.  There is no information in this office in regard to the question of reversion.</p>
+            <closer>
+               <salute>Respectfully submitted.</salute>
+               <signed>
+                  <name type="person">THO. L. McKENNEY</name>.</signed>
+               <address>
+                  <addrLine>To the <choice>
+                        <abbr>Hon.</abbr>
+                        <expan>Honorable</expan>
+                     </choice> the <hi rend="sc">Secretary</hi> OF <hi rend="sc">War</hi>.</addrLine>
+               </address>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="4" facs="ch088d.small.jpg"/>
+            <list type="simple">
+               <head>
+                  <hi rend="i">LIST OF PERSONS entitled to Reservations, under the Treaty with the <name type="person">Cherokees</name>, of <date when="1819-02-27">27th February, 1819</date>, according to the treaty, and the returns of the Commissioners appointed to superintend the surveying and laying off said Reservations, to the Department of War, <choice>
+                        <orig>shewing</orig>
+                        <reg>showing</reg>
+                     </choice> those entitled to Reservations for life, and those entitled to Reservations in fee simple.</hi>
+                  <lb/>FOR LIFE.
+                  </head>
+               <item>1 <name type="person">Choctaw</name>
+               </item>
+               <item>2 <name type="person">John Miller</name>
+               </item>
+               <item>3 <name type="person">Allen B. Grubb</name>
+               </item>
+               <item>4 <name type="person">Co-lo-nees-kie</name>
+               </item>
+               <item>5 <name type="person">Tall o-tuskee</name>
+               </item>
+               <item>6 <name type="person">Betsy McIntosh</name>
+               </item>
+               <item>7 <name type="person">Path Killer</name>
+               </item>
+               <item>8 <name type="person">Bold Hunter</name>
+               </item>
+               <item>9 <name type="person">Willie Tooten</name>
+               </item>
+               <item>10 <name type="person">James Coody</name>
+               </item>
+               <item>11 <name type="person">John Spear</name>
+               </item>
+               <item>12 <name type="person">Jacob</name>
+               </item>
+               <item>13 <name type="person">Con-naugh-ty</name>
+               </item>
+               <item>14 <name type="person">Yoon-no-gy-kah</name>
+               </item>
+               <item>15 <name type="person">Big Tom</name>
+               </item>
+               <item>16 <name type="person"> 
+                     <reg>aka Sapsucker</reg> Bag</name>, or <name type="person"> 
+                     <reg>aka Bag</reg> Sapsucker</name>
+               </item>
+               <item>17 <name type="person">Johnston</name>
+               </item>
+               <item>18 <name type="person">Oo-lah-not-tee</name>
+               </item>
+               <item>19 <name type="person">Back Water</name>
+               </item>
+               <item>20 The heirs of <name type="person">Too-lee-noos-tah</name>
+               </item>
+               <item>21 <name type="person">Jack</name>
+               </item>
+               <item>22 <name type="person">Thomas</name>
+               </item>
+               <item>23 <name type="person">Cul-sow-wee</name>
+               </item>
+               <item>24 <name type="person">Parch-corn Flower</name>
+               </item>
+               <item>25 <name type="person">Panther</name>
+               </item>
+               <item>26 <name type="person">Ca-te-hee</name>
+               </item>
+               <item>27 <name type="person">Yellow Bear</name>
+               </item>
+               <item>28 <name type="person">Jenny</name>
+               </item>
+               <item>29 <name type="person">The Bear going in the hole</name>
+               </item>
+               <item>30 <name type="person">John</name>
+               </item>
+               <item>31 <name type="person">Beaver-toter</name>
+               </item>
+               <item>32 <name type="person">John Quchey</name>
+               </item>
+               <item>33 <name type="person">Too-naugh-he-ah</name>
+               </item>
+               <item>34 <name type="person">The Fence</name>
+               </item>
+               <item>35 <name type="person">The Old Mouse</name>
+               </item>
+               <item>36 <name type="person">Am-ma-choo</name>
+               </item>
+               <item>37 <name type="person">Eu-chu-lah</name>
+               </item>
+               <item>38 <name type="person">The Wolf</name>
+               </item>
+               <item>39 <name type="person">She-ken</name>
+               </item>
+               <item>40 <name type="person">Oo-saw-too-take</name>
+               </item>
+               <item>41 <name type="person">Coo-lu-chu</name>
+               </item>
+               <item>42 <name type="person">Su-a-ga</name>
+               </item>
+               <item>43 <name type="person">Treat</name>
+               </item>
+               <item>44 <name type="person">Little Deer</name>
+               </item>
+               <item>45 <name type="person">Whip-per-will</name>
+               </item>
+               <item>46 <name type="person">Six Killer</name>
+               </item>
+               <item>47 The heirs of <name type="person">Ah-leach</name>
+               </item>
+               <item>48 <name type="person">John Welsh</name>
+               </item>
+               <item>49 <name type="person">The Cat</name>
+               </item>
+               <item>50 <name type="person">Wallie</name>
+               </item>
+               <item>51 <name type="person">The Clubb</name>
+               </item>
+               <item>52 <name type="person">Gideon F. Morriss</name>
+               </item>
+               <item>53 <name type="person">Ha-ne-lah</name>
+               </item>
+               <item>54 <name type="person">Sharp Fellow</name>
+               </item>
+               <item>55 <name type="person"> 
+                     <reg>aka Trout</reg> Eunoch</name>, or <name type="person"> 
+                     <reg>aka Eunoch</reg> Trout</name>
+               </item>
+               <item>56 <name type="person">William Read</name>
+               </item>
+               <item>57 <name type="person">Old Nanny</name>
+               </item>
+               <item>58 <name type="person">John Ben</name>
+               </item>
+               <item>59 <name type="person">Te-gen-tas-ey</name>
+               </item>
+               <item>60 <name type="person"> 
+                     <reg>aka Grass Grows</reg> Wha-a-kah</name>, or <name type="person"> 
+                     <reg>aka Wha-a-ka</reg> Grass grows</name>
+               </item>
+               <item>61 <name type="person">Bell Rattle</name>
+               </item>
+               <item>62 <name type="person">Smoke</name>
+               </item>
+               <item>63 <name type="person">Sit-u-wa-kee</name>
+               </item>
+               <item>64 <name type="person">Tee-las-ka-ask</name>
+               </item>
+               <item>65 <name type="person">John Hilderbrand</name>
+               </item>
+               <item>66 <name type="person">Thomas Jones</name>
+               </item>
+               <item>67 <name type="person">William Jones</name>
+               </item>
+               <item>68 <name type="person">Drury Jones</name>
+               </item>
+               <item>69 <name type="person">James Jones</name>
+               </item>
+               <item>70 <name type="person">Daniel Thorn</name>
+               </item>
+               <item>71 <name type="person">Peter Johnston</name>
+               </item>
+               <item>72 <name type="person">Captain John Wood</name>
+               </item>
+               <item>73 <name type="person">John Shumaker</name>
+               </item>
+               <item>74 <name type="person">Samuel Key</name>
+               </item>
+               <item>75 <name type="person">William Key</name>
+               </item>
+               <item>76 <name type="person">John McNary</name>
+               </item>
+               <item>77 Heirs of <name type="person">Arthur Burns</name>
+               </item>
+               <item>78 <name type="person">Joseph Elliott</name>
+               </item>
+               <item>79 <name type="person">Sutton Stephens</name>
+               </item>
+               <item>80 <name type="person">Andrew Lacy</name>
+               </item>
+            </list>
+            <pb n="5" facs="ch088e.small.jpg"/>
+            <list type="simple">
+               <item>81 <name type="person">Giles McAnulty</name>
+               </item>
+               <item>82 <name type="person">Kan-a-noo-lus-kah</name>
+               </item>
+               <item>83 <name type="person">William Wilson</name>
+               </item>
+               <item>84 <name type="person">Nancy Merrell</name>
+               </item>
+               <item>85 <name type="person">Amos Robinson</name>
+               </item>
+               <item>86 <name type="person">John Thompson</name>
+               </item>
+               <item>87 <name type="person">Thomas Harrison</name>
+               </item>
+               <item>88 <name type="person">James Orr</name>
+               </item>
+               <item>89 <name type="person">Peggy Shore</name>
+               </item>
+               <item>90 *<name type="person">Alexander Kell</name>
+               </item>
+               <item>91 *<name type="person">James Ward</name>
+               </item>
+               <item>92 *<name type="person">Benjamin Cooper</name>
+               </item>
+               <item>93 *<name type="person">Uriah Hubbard</name>
+               </item>
+               <item>94 *<name type="person">Moses McDaniel</name>
+               </item>
+               <item>95 *<name type="person">James Landrum</name>
+               </item>
+               <item>96 *<name type="person">David England</name>
+               </item>
+               <item>97 *<name type="person">George Ward</name>
+               </item>
+               <item>98 *<name type="person">William England</name>
+               </item>
+               <item>99 *<name type="person">Catherine Ward</name>
+               </item>
+               <item>100 *<name type="person">Bryant Ward</name>
+               </item>
+               <item>101 *<name type="person">Delilah Welsh</name>
+               </item>
+               <item>102 *<name type="person">Edward Adair</name>
+               </item>
+               <item>103 *<name type="person">Samuel Ward</name>
+               </item>
+               <item>104 *<name type="person">John Terrell</name>
+               </item>
+               <item>105 *<name type="person">Joel Kirby</name>
+               </item>
+               <item>106 *<name type="person">John Duncan</name>
+               </item>
+               <item>107 *<name type="person">Dascob Duncan</name>
+               </item>
+            </list>
+            <list type="simple">
+               <head>FEE SIMPLE.</head>
+               <item>1 <name type="person">Fox Taylor</name>
+               </item>
+               <item>2 <name type="person">James Brown</name>
+               </item>
+               <item>3 <name type="person">Richard Timberlake</name>
+               </item>
+               <item>4 <name type="person">The Old Bark</name> of <name type="place">Chota</name>
+               </item>
+               <item>5 <name type="person">James Starr</name>
+               </item>
+               <item>6 <name type="person">John McIntosh</name>
+               </item>
+               <item>7 <name type="person">Richard Taylor</name>
+               </item>
+               <item>8 <name type="person">William Brown</name>
+               </item>
+               <item>9 <name type="person">David Fields</name>
+               </item>
+               <item>10 <name type="person">John Brown</name>
+               </item>
+               <item>11 <name type="person"> 
+                     <reg>Jr.</reg> John Walker</name>, Jr.</item>
+               <item>12 <name type="person">Elizabeth Pack</name>
+               </item>
+               <item>13 <name type="person">Elizabeth Lowry</name>
+               </item>
+               <item>14 <name type="person">George Lowry</name>
+               </item>
+               <item>15 <name type="person">Robert McLemore</name>
+               </item>
+               <item>16 <name type="person">Susannah Lowry</name>
+               </item>
+               <item>17 <name type="person">James Lowry</name>
+               </item>
+               <item>18 <name type="person">John Benge</name>
+               </item>
+               <item>19 <name type="person">John Baldridge</name>
+               </item>
+               <item>20 <name type="person">Thomas Wilson</name>
+               </item>
+               <item>21 <name type="person">Edward Gunter</name>
+               </item>
+               <item>22 <name type="person">Richard Riley</name>
+               </item>
+               <item>23 <name type="person">James Riley</name>
+               </item>
+               <item>24 <name type="person">Margaret Morgan</name>
+               </item>
+               <item>25 <name type="person">George Harlin</name>
+               </item>
+               <item>26 <name type="person">Lewis Ross</name>
+               </item>
+               <item>27 <name type="person">Richard Walker</name>
+               </item>
+               <item>28 <name type="person"> 
+                     <reg>aka Big Bear</reg> Yonah</name>, or <name type="person"> 
+                     <reg>aka Yonah</reg> Big Bear</name>
+               </item>
+               <item>29 *<name type="person">John Martin</name>
+               </item>
+               <item>30 *<name type="person">Peter Linch</name>
+               </item>
+               <item>31 *<name type="person">Daniel Davis</name>
+               </item>
+               <item>32 *<name type="person">George Parris</name>
+               </item>
+               <item>33 *<name type="person">Walter S. Adair</name>
+               </item>
+               <item>34 <name type="person">Cabbin Smith</name>
+               </item>
+               <item>35 <name type="person">John Ross</name>
+               </item>
+               <item>36 <name type="person">Eliza Ross</name>
+               </item>
+               <item>37 <name type="person">Nicholas Byers</name>
+               </item>
+               <item>38 <name type="person"> 
+                     <reg>Sr.</reg> John Walker</name>, Senr.</item>
+               <item>39 <name type="person">Samuel Parks</name>
+               </item>
+            </list>
+            <p>RECAPITULATION.</p>
+            <p>107 Life Reservations.  39 Fee Simple Reservations.</p>
+            <p>Note.  All those marked * are within the limits of the State of <name type="place">Georgia</name>, being eighteen life estate reservations and five fee simple reservations; and all, or nearly all of them, have been purchased for the State of <name type="place">Georgia</name>, under a provision made by Congress for that purpose.</p>
+            <signed>
+               <name type="person">T. L. McKENNEY</name>
+            </signed>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="6" facs="ch088f.small.jpg"/>
+            <p>
+               <name type="person">CHEROKEE</name> RESERVATIONS under Treaty of <date when="1819">1819</date>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

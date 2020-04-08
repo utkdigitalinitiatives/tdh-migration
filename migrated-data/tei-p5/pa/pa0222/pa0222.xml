@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0222">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1818 Apr. 22, Cherokee Agency [to] John C. Calhoun / Return J. Meigs  : a machine readable transcription of an image</title>
+            <author> Calhoun John C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0222</idno>
+            <idno type="OCLC">OCLC: 45870031</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1818 Apr. 22, Cherokee Agency [to] John C. Calhoun / Return J. Meigs</title>
+               <author>Meigs, Return J.</author>
+               <date when="1822-04-22">April 22, 1818</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This is a copy of a letter dated April 22, 1818 from Return J. Meigs of the Cherokee Agency to John C. Calhoun requesting the sum of $3472.00 for payment to John and Lewis Ross for expenditures in the Cherokee Agency. Following is a copy of a notice from John C. Calhoun approving the payment.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033, b1</note>
+               <note type="folder" anchored="true">94</note>
+               <note type="document" anchored="true"> pa0222</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>United States -- Office of Indian Affairs -- Cherokee Indian Agency</term>
+               <term>Letters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79137102"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Calhoun, John C.(John Caldwell), 1782-1850</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0222a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Cherokee Agency</addrLine>
+               </address>
+               <date>22nd April 1818</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have this day drawn on you for the sum of Three Thousand four hundred &amp; seventy two dollars in favor of <name>John &amp; Lewis Ross</name> &amp; <choice>
+                  <abbr>Co</abbr>
+                  <expan>Company</expan>
+               </choice>. having received that sum of them to pay the expenditures in the Cherokee Agency for the first quarter of the current year. One thousand eight hundred &amp; eighteen, an estimate of these <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> will accompany my drafts.</p>
+            <closer>
+               <salute>I have the honor to be your <choice>
+                     <abbr>obt. Servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>Return J. Meigs</name>
+               </signed>
+               <add>Copies</add>
+               <add>
+                  <address>
+                     <addrLine>Honorable <choice>
+                           <abbr>Jno</abbr>
+                           <expan>John</expan>
+                        </choice>. C. Calhoun <lb/> Secretary of War</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+         <pb n="2" facs="pa0222b.small.jpg"/>
+         <div subtype="1">
+            <p>
+               <add>Copies</add> Ten days after sight of this my second Bill of exchange first of this tenor and date date not paid_Please to pay John &amp; Lewis Ross &amp; Co. on order Three Thousand four hundred &amp; seventy two dollars for that sum received of them appropriated to the payment of expenses in the Cherokee Agency in the first Quarter of the current year 1818. See my letter of advice of this date.</p>
+         </div>
+         <closer>
+            <name>Cherokee Agency</name>
+            <address>
+               <addrLine>
+                  <choice>
+                     <abbr>Honble</abbr>
+                     <expan>Honorable</expan>
+                  </choice>
+                  <name>
+                     <choice>
+                        <abbr>Jn</abbr>
+                        <expan>John</expan>
+                     </choice>. C. Calhoun</name> Secretary of War </addrLine>
+            </address>
+            <pb n="3" facs="pa0222c.small.jpg"/>
+            <add>Copies of a letter of advice &amp; Bills of Exchange in favor of Jno. &amp; Lewis Ross &amp; Co.―<lb/> $3472.00 <lb/> ― 22nd April 1818 <lb/> 1st <choice>
+                  <abbr>qt</abbr>
+                  <expan>quarter</expan>
+               </choice>. 1818</add>
+         </closer>
+      </body>
+   </text>
+</TEI>

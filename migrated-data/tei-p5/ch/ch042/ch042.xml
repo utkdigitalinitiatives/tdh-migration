@@ -1,0 +1,86 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paper from President Monroe [directed to Reverend Samuel Worcester, 1819 ?] : a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch042</idno>
+            <idno>OCLC: 44837825</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Paper from President Monroe [directed to Reverend Samuel Worcester, 1819 ?]</title>
+               <date when="1819">1819</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">A copy of the views of President Monroe concerning the  education of the Indians. It is Monroe's opinion that part of the 10,000 dollars annually appropriated by the United States Congress for the "civilization" of the Indians ought to be spent on education, school buildings, and teachers and administered in cooperation with benevolent associations, (1819 ?). This enclosure was originally part of document <ref>ch041</ref> that appears in the Southeastern Native American Documents Database.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">29</note>
+               <note type="document" anchored="true">ch042</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Indians of North America--Education</term>
+               <term>United States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch042a.small.jpg"/>
+            <head>
+               <add place="top">
+                  <hi rend="o">G.</hi>
+                  <lb/>Paper from <name type="person">President Monroe</name>, referred to in document F.
+                  </add>
+            </head>
+            <p>In order to render the sum of $10,000 annually appropriated at the last session of congress for the civilization of the Indians, as extensively beneficial as possible, the President is of an opinion, that it ought to be applied in cooperation with the exertions of benevolent associations or individuals who may choose to devote their time or means to effect the object contemplated by Congress.</p>
+            <p>But it will be indispensable in order to apply any portion of the sum appropriated in the manner proposed, that the plan of Education in addition to reading, writing  arithmetic, should, in the i<add place="supralinear">n</add>struction of the Boys, extend to the practical knowledge of the mode of agriculture,  of such of the mechanic arts as are suited to the condition of the Indians; and in that of the girls, to spinning, weaving  sewing.  It is also indispensable that the Establishment should be fixed within the limits of those Indian nations, which border on our settlements.  Such associations, or individuals, who are already actually Engaged in Educating the Indians,  who may desire the cooperation of the government, will report to the Department of war, to be laid before the President, the location of the institutions under their superintendence, their funds, the number  kind of teachers, the number of youths of both sexes, the objects which are actually embraced in their plan of education,  the Extent of the aid which they require; and such institutions as are formed, but have not gone into actual operation, will report the extent of their funds, the places at which they intend to make their Establishments, the whole number of youths of both sexes<pb n="2" facs="ch042b.small.jpg"/>which they intend to Educate, the number  kind of teachers to be Employed, the plan of Education adopted,  the extent of the aid required.  This information will  be necessary to Enable the President to determine whether the appropriation of congress ought to be applied in cooperation with the institutions which may request it, and to make a just distribution of the sum appropriated.
+               </p>
+            <p>In proportion to the means of the government, cooperation will be Extended to such institutions as may be approved, as well in Erecting the necessary buildings as in their current expenses.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

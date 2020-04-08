@@ -1,0 +1,234 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Mar. 30, Knoxville, [Tennessee, to] Silas Dinsmore
+			 / J[ohn] Sevier: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl040</idno>
+            <idno>OCLC: 47831187</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Mar. 30, Knoxville, [Tennessee, to] Silas
+				Dinsmore / John Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-03-30">March 30, 1797</date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter written by Tennessee
+				Governor John Sevier (1796-1801, 1803-1809) to Cherokee agent Silas Dinsmore,
+				dated March 30, 1797. In the letter, Sevier demanded that the Cherokee chiefs
+				do their best to apprehend and punish those from amongst their nation who were
+				responsible for the murders of several citizens of Tennessee. He also assured
+				Dinsmore that it is his intention to punish any white men who committed
+				violence against the Cherokee Nation. Sevier requested that Dinsmore read aloud
+				to the Chiefs of the nation a letter enclosed with this one and to assure them
+				that the state of Tennessee only desired to be at peace with them. </note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl040</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl040a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-03-30">30 th March 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I am induced to believe, that the <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice>
+			 of the 
+			 <name type="place">Cherokee nation</name> have possessed time
+			 sufficient to fully <choice>
+                  <orig>assertain</orig>
+                  <reg>ascertain</reg>
+               </choice> by whom the late
+			 Murders have been committed on Several of the Citizens of the State of 
+			 <name type="place">Tennessee</name>,.</p>
+            <p>I demand that the <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice> of the 
+			 <name type="place">Cherokee Nation</name> apprehend, And bring to
+			 condign punishment, those of their nation, who have been guilty of the
+			 perpetrations, and Shall expect the leaders <del type="overstrike">of the
+		  Nation</del> will evince, a disposition to Strictly and explicitly comply With
+		  the Articles of the Subsisting treaty between their nation and the 
+		  <name type="place">United States</name> . On the part of this State,
+		  <del type="overstrike">you will</del> permit me to assure You, that those white
+		  persons who have so flagrantly Violated, the laws of this and the 
+		  <name type="place">United States</name>, by committing violences on any
+		  <add place="supralinear">part</add> of the 
+		  <name type="place">Cherokee Nation</name>, shall not be suffered to
+		  escape with <lb/> impunity <pb n="2" facs="tl040b.small.jpg"/> That it is the perfect intention of the
+		  executive, and A Sincere desire, that Such Violators of the
+		  <del type="overstrike">Cruel</del> laws And treaties existing between the 
+		  <name type="place">United States</name> and the indian tribes, As also
+		  their disregard to the feelings of humanity, may and shall suffer
+		  <choice>
+                  <orig>agreably</orig>
+                  <reg>agreeably</reg>
+               </choice> to the demerits of their Crimes, so far
+		  As the Government Shall have energy Sufficient to <choice>
+                  <orig>inflect</orig>
+                  <reg>inflict</reg>
+               </choice>
+               <add place="supralinear">the Same</add> which I
+		  have no doubt is fully <choice>
+                  <orig>competant</orig>
+                  <reg>competent</reg>
+               </choice> and adequate
+		  
+                  
+               </p>
+            <p>
+               <del type="overstrike">With</del> this is accompanied
+		  <add place="supralinear">by</add> one to the <choice>
+                  <orig>Cheifs</orig>
+                  <reg>Chiefs</reg>
+               </choice>
+		  On the Subject, which you will please to have read and explained to them, and
+		  <del type="overstrike">give them</del> Assure the nation that it is the desire
+		  of the State of 
+		  <name type="place">Tennessee</name>, to continue <del type="overstrike">an</del>
+               <choice>
+                  <orig>uninterupted</orig>
+                  <reg>uninterrupted</reg>
+               </choice> peace,
+		  reciprocity of friendship, and a friendly intercourse, So far as the
+		  <hi rend="underlined">good conduct</hi> of the Nation may Warrant
+		  <add place="supralinear">and merit</add> the same</p>
+            <closer>
+               <salute>I have the honor to be with very Sincere <lb/> and great
+				respect, your 
+				<choice>
+                     <abbr>mo. obt. Ser</abbr>
+                     <expan>most obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name> 
+                     <reg>person</reg> 
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Silas Dinsmore 
+					 <choice>
+                           <abbr>Esqr.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="tl040c.small.jpg"/>
+               <add place="on separate page">Sir, <lb/> Please
+			 to make out a copy of this, in order that it may be delivered to the agent with
+			 the other Which I wish the 
+			 <choice>
+                     <abbr>Secy.</abbr>
+                     <expan>Secretary</expan>
+                  </choice> to do with his own hands I
+			 <choice>
+                     <orig>under stand</orig>
+                     <reg>understand</reg>
+                  </choice> the agent is going to 
+			 <name type="place">Tellico</name> early <choice>
+                     <orig>to
+			 day</orig>
+                     <reg>today</reg>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>Letter to the <lb/> agent of the Cherokees <lb/>
+               <date when="1797-03-30">30 March 1797</date>
+               <lb/>
+               <choice>
+                  <abbr>No</abbr>
+                  <expan>Number</expan>
+               </choice> 11 <lb/>
+               <hi rend="lines over and under">Recorded </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

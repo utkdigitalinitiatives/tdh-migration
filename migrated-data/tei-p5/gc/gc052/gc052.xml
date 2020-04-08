@@ -1,0 +1,214 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1842 Aug. 7 [to] James King / Thomas Moore: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc052</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1842 Aug. 7 [to] James King / Thomas Moore:</title>
+               <author>Moore, Thomas</author>
+               <date when="1842-08-07">August 7, 1842</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated August 7, 1842 from Thomas Moore to James King.  The subject of the letter is Sarah Moore and her economic hardship and well-being.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1842</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">gc052</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Communication in the family</term>
+               <term>Stressful life events</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc052a.small.jpg"/>
+            <opener>
+               <add>1842 negroes To <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+                  <choice>
+                     <abbr>J</abbr>
+                     <expan>James</expan>
+                  </choice>.<choice>
+                     <abbr>M</abbr>
+                     <expan>Moore</expan>
+                  </choice>. King <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O. Moore</add>
+               <add>25</add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Mrs</abbr>
+                        <expan>Misses</expan>
+                     </choice> Sarah Lee Brothers near Murfreesboro Tennessee</addrLine>
+               </address>
+               <add>Mail</add>
+               <add>Answered <date>26 <choice>
+                        <abbr>Decr</abbr>
+                        <expan>December</expan>
+                     </choice> 1842</date>
+               </add>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <choice>
+                           <sic>May</sic>
+                           <orig>May</orig>
+                        </choice>
+                     </figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc052b.small.jpg"/>
+               <date>11th. <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice> 1842</date>
+               <address>
+                  <addrLine>near Alexandria </addrLine>
+               </address>
+               <date>7th <choice>
+                     <abbr>Augt</abbr>
+                     <expan>August</expan>
+                  </choice>. 1842</date>
+               <salute>Dear <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p> I wrote Sarah some time since &amp; got a distressing letter in answer, detailing her misfortunes although I apprehended an occurrence of the sort  I had no idea Brothers situation was a fourth as desperate, and am truly sorry that Sarah has lost the negroes father gave her as well as those <add>of</add> uncle Hardy's, she is in hopes &amp; I am also that you can eventually save them for her, she looks to you as the only friend there that will extend  to her the hand of friendship and I must beg of you to do all you can for her, any reasonable expense <choice>
+                  <orig>incured</orig>
+                  <reg>incurred</reg>
+               </choice> I will pay it, <choice>
+                  <orig>independant</orig>
+                  <reg>independent</reg>
+               </choice> of that Sarah must not suffer as long as I have any thing to support her on, this Brothers must not know as he may relax in his <choice>
+                  <orig>excurtions</orig>
+                  <reg>excretions</reg>
+               </choice> to get along, I will cheerfully contribute two or three hundred dollars annually &amp; were more for Sarah &amp; family, but in the mean time they must put their shoulders to the wheel &amp; not be above doing any thing that is necessary for a support, and not be disheartened at their misfortunes but to look ahead but be more economical &amp; prudent for the future.  they are young enough &amp; in a healthy country to make a handsome support for a family &amp; they have only to forget the past &amp; work for the future to succeed as well as their limited means to justify them in spending.  I hope you will write me fully a detailed statement of their misfortunes on receipt of this.</p>
+            <p>Sarah complains to me of cousin Tom's conduct towards her, but I can not think that he would act <pb n="3" facs="gc052c.small.jpg"/> in any manner to distress her unless it was to save himself from some previous transaction (write me confidentially on the subject.) which if that be the case was perfectly justifiable as he has always had to work hard &amp; has a family &amp; should take care of himself, should it be as I suppose &amp; Tom has done nothing but what he was <choice>
+                  <orig>closly</orig>
+                  <reg>closely</reg>
+               </choice> right in doing, Sarah should not blame him for protecting himself against the imprudence &amp; misfortune of others.  Sarah wrote me they had taken off her cook if she has none please him such a one as will answer her &amp; let me know when the money is here &amp; I will remit it to you, I hope &amp; beg you will render her such aid as you may deem necessary &amp; I will be good to you for the <choice>
+                  <abbr>amt</abbr>
+                  <expan>amount</expan>
+               </choice>.</p>
+            <p>Our Country has been remarkably healthy I have had but one slight case of fever on my plantation this summer I have not heard of but two deaths, <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Hynson &amp; <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Overton's family are well, Bethiah &amp; Eve are well my health has improved though the attack of 1840 had nigh laid me on the shelf.</p>
+            <p>You have seen that we have elected our <choice>
+                  <abbr>Gov</abbr>
+                  <expan>Governor</expan>
+               </choice>. by 1500 majority, the remains of whiging boys prostrate on the <choice>
+                  <orig>plaines</orig>
+                  <reg>planes</reg>
+               </choice> of <name>Louisiana</name>, I hope the whole <name>Tennessee</name> delegation will resign &amp; give that Democratic state a chance to release herself from the arms of whiging but fear the whig portion of the Legislature are too smart as I see the <choice>
+                  <abbr>Dem</abbr>
+                  <expan>Democratic</expan>
+               </choice>. portion challenge them to resign &amp; give the people a chance to elect men who will fairly represent them <pb n="4" facs="gc052d.small.jpg"/> Bethiah <choice>
+                  <orig>joines</orig>
+                  <reg>joins</reg>
+               </choice> me in best love to cousin Patsy &amp; balance of family, Cousin Tom &amp; cousin <unclear>Dermelia</unclear> &amp; <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Brothers &amp; Sarah and accept best wishes for health &amp; happiness of all</p>
+            <closer>Your Friend &amp; relative <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+               <add>col King</add>
+               <add>I wish you to get some person to furnish me with five barrels of the artichoke root &amp; have sent to <name>J.B. Plauche</name> to <name>
+                     <choice>
+                        <abbr>N</abbr>
+                        <expan>New</expan>
+                     </choice> Orleans</name> this winter as I wish to get in seed <choice>
+                     <abbr>Yr</abbr>
+                     <expan>Your</expan>
+                  </choice>
+                  <choice>
+                     <abbr>afft</abbr>
+                     <expan>affectionate</expan>
+                  </choice>
+                  <choice>
+                     <abbr>T</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O <choice>
+                     <abbr>M</abbr>
+                     <expan>Moore</expan>
+                  </choice>
+               </add>
+               <add>
+                  <name>Thomas O Moore</name>
+                  <date>11th <choice>
+                        <abbr>Dcr</abbr>
+                        <expan>December</expan>
+                     </choice> 1842</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

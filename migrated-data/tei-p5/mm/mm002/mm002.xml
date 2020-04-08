@@ -1,0 +1,111 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Photograph of pit feature filled with refuse at mid-18th
+			 century Tomotley, taken in 1974] / [by Gerald F. Schroedl] : a machine-readable
+			 transcription</title>
+            <author>Schroedl, Gerald F.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. 3k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>mm002</idno>
+            <idno>OCLC: 44394313</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Museum, University of
+				Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Photograph of pit feature filled with refuse at mid-18th
+				century Tomotley, taken in 1974] / [by Gerald F. Schroedl]</title>
+               <author>Schroedl, Gerald F.</author>
+               <date>1974</date>
+               <extent>1p</extent>
+               <note type="summary">This is a photograph of a pit-feature at the
+				Overhill Cherokee town of Tomotley. The pit was originally used to recover soil
+				or to store food, and was later filled with refuse. Excavations of Overhill
+				Cherokee villages were conducted by the University of Tennessee between 1967
+				and 1983 as part of the Tellico Archaeological Project. Excavations continued
+				until 1983, and laboratory studies and report preparation continued until 1987.
+				The excavations were conducted in anticipation of the flooding of the Lower
+				Little Tennessee River Valley, in eastern Tennessee, by the Tellico Dam
+				Reservoir. The excavations were conducted under contract with the National Park
+				Service and the Tennessee Valley Authority (TVA). Principal Investigator,
+				Alfred K. Guthe. Field Director, Gerald F. Schrodel.</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note type="document">mm002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Photographs</term>
+               <term>Cherokee Indians</term>
+               <term>Historic sites</term>
+               <term>Refuse and refuse disposal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n78090514"
+                        role="Photographer http://id.loc.gov/vocabulary/relators/pht">Schroedl, Gerald F.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm002.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>Pit feature at Tomotley. Original use to recover soil or
+				  to store food, subsequently filled with refuse, mid 18th century, excavations
+				  by University of Tennessee 1974. Photograph by Gerald F. Schroedl. This
+				  information was provided by the Frank H. McClung Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

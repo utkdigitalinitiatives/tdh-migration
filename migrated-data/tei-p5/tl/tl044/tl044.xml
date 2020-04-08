@@ -1,0 +1,223 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl044">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Nov. 19, Knoxville, [Tennessee, to] Andrew Jackson
+			 / John Sevier: a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl044</idno>
+            <idno>OCLC: 47832292</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Nov. 19, Knoxville, [Tennessee, to] Andrew
+				Jackson / John Sevier: a machine-readable transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1797-11-19">November 19, 1797</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written to Andrew
+				Jackson, with copies also being sent to Joseph Anderson and William Claiborne,
+				by Governor John Sevier (1796-1801, 1803-1809) on November 19, 1797. In the
+				letter, Sevier describes the murder of two Indians. Sevier says that the Indian
+				people of the area are distressed over the murders, but promise that no
+				retaliation for the murders will occur. Sevier explains that several people
+				have left the area, while others remain and refuse to leave. Sevier asks
+				Jackson for his support in dealing with the distressed people.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">4</note>
+               <note type="Document">tl044</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl044a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville </name>
+                     <date when="1797-11-19">19th November 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Since you left 
+			 <name type="place">Tennessee</name> two indians was inhumanly
+			 Murdered, near the Mouth of 
+			 <name type="place">Stones <choice>
+                     <orig>river</orig>
+                     <reg>River</reg>
+                  </choice>
+               </name>. The
+			 circumstances <del type="overstrike">appear</del> is reported, that the indians
+		  at 
+		  <name type="place">
+                  <choice>
+                     <orig>Hayse's</orig>
+                     <reg>Hayes's</reg>
+                  </choice> Station</name>,
+		  was <del type="overstrike">somewhat</del> a little intoxicated, and
+		  <del type="overstrike">
+                  <choice>
+                     <orig>braged</orig>
+                     <reg>bragged</reg>
+                  </choice>
+               </del> boasted of their
+		  war exploits, Said they had killed 
+		  <name type="person">
+                  <choice>
+                     <orig>Hays</orig>
+                     <reg>Hayes</reg>
+                  </choice>
+               </name> the former
+		  owner of <del type="overstrike">that</del> the station, and a young man of the
+		  name of 
+		  <name type="person">McCown</name> near the same place
+		  <del type="overstrike">It</del> in the Course of a day or two afterwards the
+		  two indians Were found near their Camp, both dead, and shot through their
+		  bodies  Notwithstanding the Murder being thus committed, the indians on
+		  the 
+		  <name type="place">Cumberland road</name>, And <choice>
+                  <orig>every where</orig>
+                  <reg>everywhere</reg>
+               </choice> else seem friendly disposed, and Say no
+		  damage Shall be done on their Side <del type="overstrike">in</del> as
+		  <del type="overstrike">consequences</del> a retaliation for their people killed
+		  </p>
+            <p>Several persons Suspected, have been apprehended, but no proof of
+			 the overt Act could be had </p>
+            <p>The people on what is called the indian lands, Appear to be in great
+			 distress, some have removed,  others have not, and say they will not, and
+			 <add place="supralinear">again</add> others that did remove, have returned,
+			 what will be the consequence I am not able to foretell, but I
+			 <choice>
+                  <orig>realy</orig>
+                  <reg>really</reg>
+               </choice> fear the event.</p>
+            <p>I need not request you to use your utmost exertions in behalf of
+			 these distressed people, for I am well assured you will, and if
+			 <choice>
+                  <orig>any thing</orig>
+                  <reg>anything</reg>
+               </choice> can be done in their favor
+			 <del type="overstrike">I hope you will</del> it will lay both the people 
+		  myself under very great obligations</p>
+            <closer>
+               <salute>I am with great  Sincere respect, your 
+				<choice>
+                     <abbr>Mo. obed Sert.</abbr>
+                     <expan>Most obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <unclear>
+                     <name type="person">John Sevier</name>
+                  </unclear>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="tl044b.small.jpg"/>
+            <p>Copy to the 
+			 <choice>
+                  <abbr>Honble</abbr>
+                  <expan>Honorable</expan>
+               </choice>
+               <lb/>
+               <name type="person">Andrew Jackson</name>
+               <lb/>
+               <name type="person">
+                  <choice>
+                     <abbr>Jos</abbr>
+                     <expan>Joseph</expan>
+                  </choice>
+				Anderson</name>
+               <lb/>
+               <name type="person">
+                  <choice>
+                     <abbr>Wm.</abbr>
+                     <expan>William</expan>
+                  </choice> C.C.
+				Claiborne</name>
+               <lb/>
+               <date when="1797-11-19">19th Nov. 1797</date>
+               <lb/> Post 
+			 <choice>
+                  <abbr>no</abbr>
+                  <expan>number</expan>
+               </choice>14 <lb/> Recorded
+			 <add place="right, sideways to text">The Secretary will please to make our
+			 three copies in time for the post tomorrow. <lb/> Tuesday 
+			 <choice>
+                     <abbr>eveng</abbr>
+                     <expan>evening</expan>
+                  </choice>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

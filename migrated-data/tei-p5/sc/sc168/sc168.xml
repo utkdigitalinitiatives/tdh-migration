@@ -1,0 +1,142 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc168">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1818 Nov. 2, Fairfield [to] Ralph Earle / W. B. Lewis : a machine readable transcription of an image</title>
+            <author> Lewis, W. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc168</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1818 Nov. 2, Fairfield [to] Ralph Earle / W. B. Lewis</title>
+               <author>Lewis, W. B.</author>
+               <date when="1818-11-02">November 2, 1818</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by W. B. Lewis regarding orders from the Secretary of War to General Gaines. Lewis received the wrong orders and wanted the correct orders sent immediately.</note>
+               <note type="collection" anchored="true">W. B. Lewis Letter</note>
+               <note type="box" anchored="true">MS-856</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc168</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jackson, Andrew</term>
+               <term>1767-1845</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr95015169"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lewis, William Berkeley, 1784-1866</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc168a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Fairfield</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Nov</abbr>
+                     <expan>November</expan>
+                  </choice>. 2nd 1818</date>
+               <salute>
+                  <choice>
+                     <abbr>D</abbr>
+                     <expan>Dear</expan>
+                  </choice>.Sir</salute>
+            </opener>
+            <p>The order which you sent me by Sam is not the order or orders that I wanted. Those that I wrote for, or those that I thought I wrote for, were from the Secretary of War to <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+                  <choice>
+                     <orig> Gains</orig>
+                     <reg>Gaines</reg>
+                  </choice>
+               </name> and referred to by the Secretary of War in his order to <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>. Jackson</name>. I had the order you sent me; but I want those from the Secretary to Genl Gains, which I think are 4 or 5 in number.</p>
+            <p>I am anxious to get them in time to take copies before <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Butler </name>and <name>Doctor Brunaugh</name>
+               <choice>
+                  <orig>leavs</orig>
+                  <reg>leaves</reg>
+               </choice>
+               <name>Nashville</name> for the city, as I wish to send them to <name>Major Eaton</name> by them. Do not mistake me; the orders I want are from the Secretary of War to Genl. Gains, and perhaps, 4 or 5 in number_ Send me all of that discerption <pb n="2" facs="sc168b.small.jpg"/> you can find among the Genl's papers. The packages addressed to Col. Butler and the Doctor shall be attended to as by you requested.</p>
+            <closer>
+               <salute>I have the honor to be very respectfully Sir, your<choice>
+                     <abbr> Obt. Servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>.</salute>
+               <signed>
+                  <name>W. B. Lewis</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl282">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1851 Oct. 26, Phila[delphia, PA] [to A. J. Donelson] / John D. Martin   : a machine readable transcription of an image</title>
+            <author>Martin, John D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl282</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1851 Oct. 26, Phila[delphia, PA] [to A. J. Donelson] / John D. Martin</title>
+               <author>Martin, John D.</author>
+               <date when="1851-10-26">October 26, 1851</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter form John D. Martin dated October 26, 1851. It is believed to be to A. J. Donelson. Martin is borrowing money for school. He also thanks Donelson for being a good role model.</note>
+               <note type="collection" anchored="true">A. J. Donelson Papers I-D-3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl282</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Loans</term>
+               <term>Financial, personal</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Martin, John D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl282a.small.jpg"/>
+            <opener>
+               <add>To <name>Major Andrew J. Donelson</name> from <name>John D. Martin</name>
+               </add>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Phila</abbr>
+                           <expan>Philadelphia</expan>
+                        </choice>
+                     </name>
+                     <date>
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 26th, 1851</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Sir</salute>
+            </opener>
+            <p>I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> your Kind letter of 8th <choice>
+                  <abbr>ult.</abbr>
+                  <expan>ultimo</expan>
+               </choice> I recd a letter from Cousin Jackson a few days since, he was well and in fine spirits, Also a letter from Brother James who was on the eve of starting for <name>Florida</name> where he intends settling he is to <add>be</add> married on the 20th next  month  all were well in <name>Tennessee</name>. I am glad to see every thing is going on just as you desire. every thing that has transpired in the political word gives assurances of success to you. I finally got my trunk it was sent to <name>Baltimore</name>. <name>Mr <unclear>Buckhann</unclear>
+               </name> arrived in Phila on yesterday. I will see him this evening in order to gratify my curiosity. I am in need of a hundred and fifty dollars. in order to get my books <unclear>recd</unclear> which you will confer a great <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> by letting me have. I can repay you next spring. as to the <unclear>Miss. ?</unclear> I have been sufficiently paid for that already. I am getting on admirably with my studies, and with your assistance in the offset. can make a man of myself. and you have done more to fix the determination to be a clever man. than any thing in world. My best respects to <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Armstrong</name> and <name>Mr Benson</name>. (is the Genl in <name>Washington</name>) I hope you will answer soon.</p>
+            <closer>
+               <salute>Yours Affectionately</salute>
+               <signed>
+                  <name type="person">John D Martin</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

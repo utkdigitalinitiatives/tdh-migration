@@ -1,0 +1,176 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1804 Apr. 4, Knoxville, [Tennessee, to] Colo[nel] Hugh
+			 Montgomery / J[ohn] Sevier: a machine-readable transcription of an
+			 image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl057</idno>
+            <idno>OCLC: 47833061</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1804 Apr. 4, Knoxville, [Tennessee, to] Colo[nel]
+				Hugh Montgomery / J[ohn] Sevier: a machine-readable transcription of an
+				image</title>
+               <author>Sevier, John</author>
+               <date when="1804-04-04">April 4, 1804</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Governor
+				John Sevier (1796-1801, 1803-1809) to Colonel Hugh Montgomery on April 4, 1804.
+				The letter states that people have illegally settled on Indian lands and that
+				troops are going to be employed to remove them. Sevier instructs Montgomery to
+				warn these settlers of the dangers to which they will be exposed if they
+				trespass on Indian lands.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">1</note>
+               <note type="Document">tl057</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Indians of North America--Land tenure</term>
+               <term>Trespass</term>
+               <term>Indians of North America--Government relations</term>
+               <term>Trespass</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl057a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1804-04-04">4 April 1804</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Permit me to trouble you with An address <add place="supralinear">which</add> I beg you to forward <add place="supralinear">directed</add> to the <del type="overstrike">inhabit</del>
+		  people said to be <add place="supralinear">settled and</add> intruding upon the
+		  Indian lands. I am officially informed by the Agent of the War department that
+		  there is a considerable number of <del type="overstrike">those</del> persons
+		  settled on those lands, and I also understand that the regular troops
+		  <add place="supralinear">are shortly</add>
+               <del type="overstrike">is
+		  about</del> to be employed for their removal I <add place="supralinear">therefore</add> deem it expedient to <del type="overstrike">
+                  <choice>
+                     <orig>fore warn</orig>
+                     <reg>forewarn</reg>
+                  </choice> them</del> give them
+		  information of the dangers they may <del type="overstrike">be</del> expose<del type="overstrike">d</del> themselves to, should they be found trespassing as
+		  has been to me represented</p>
+            <closer>
+               <salute>I have the honor  
+				<choice>
+                     <abbr>C</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice> Sevier</name>
+                  <address>
+                     <addrLine>
+                        <name type="person">
+                           <choice>
+                              <abbr>Colo.</abbr>
+                              <expan>Colonel</expan>
+                           </choice> Hugh
+						Montgomery</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place">Anderson County</name>
+                     </addrLine>
+                  </address>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl057b.small.jpg"/>
+            <p>
+               <add place="top">copy</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo.</abbr>
+                           <expan>Colonel</expan>
+                        </choice>
+                        <choice>
+                           <abbr>H.</abbr>
+                           <expan>Hugh</expan>
+                        </choice> Montgomery</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1804-04-04">4 April 1804</date>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

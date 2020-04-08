@@ -1,0 +1,409 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Invoice] 1812 Nov. 30, The United States for the Cherokees on the Arkansas River : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0026</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Invoice] 1812 Nov. 30, The United States for the Cherokees on the Arkansas River</title>
+               <date when="1812-11-30">November 30, 1812</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is an invoice for goods received by Return J. Meigs on behalf of the Cherokee Indians. Meigs paid Eight hundred, fifty three dollars and twelve and one half cents for the goods.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0026</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Invoices</term>
+               <term>Cherokee Indians -- Government relations</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0026a.small.jpg"/>
+            <p>
+               <table>
+                  <head>The United States for the Cherokees on the <choice>
+                        <orig>Arkansaw</orig>
+                        <reg>Arkansas</reg>
+                     </choice>
+                     <lb/> Bought of Timothy Meigs <lb/>
+                     <date when="1812-11-30">1812 November 30</date>
+                  </head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8 <choice>
+                           <abbr>Ps</abbr>
+                           <expan>Pieces</expan>
+                        </choice> furniture prints 224 <choice>
+                           <abbr>yds</abbr>
+                           <expan>yards</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 100</cell>
+                     <cell role="data" rows="1" cols="1">224_</cell>
+                     <cell role="data" rows="1" cols="1">        _</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 <choice>
+                           <abbr>" </abbr>
+                           <expan>Pieces</expan>
+                        </choice> Dark grounded callico 100 yds</cell>
+                     <cell role="data" rows="1" cols="1">@ 75</cell>
+                     <cell role="data" rows="1" cols="1">75_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">12 Ps <choice>
+                           <orig>madrass</orig>
+                           <reg>madras</reg>
+                        </choice>
+                        <choice>
+                           <abbr>Hkf</abbr>
+                           <expan>Handkerchief</expan>
+                        </choice>(96)</cell>
+                     <cell role="data" rows="1" cols="1">@75</cell>
+                     <cell role="data" rows="1" cols="1">72_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">26 1/2 yds Homespun Cotton Cloth</cell>
+                     <cell role="data" rows="1" cols="1">@ 75</cell>
+                     <cell role="data" rows="1" cols="1">19 87/2</cell>
+                     <cell role="data" rows="1" cols="1">-</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <abbr>Doz</abbr>
+                           <expan>Dozen</expan>
+                        </choice> muslin Hkf</cell>
+                     <cell role="data" rows="1" cols="1">@ 4$</cell>
+                     <cell role="data" rows="1" cols="1">4_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 gross Binding</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">6_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">24 <choice>
+                           <abbr>pr</abbr>
+                           <expan>pair</expan>
+                        </choice> cotton cards</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">48_</cell>
+                     <cell role="data" rows="1" cols="1">448.87 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">31 Beaver Traps</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">62_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">10 <choice>
+                           <orig>Shott</orig>
+                           <reg>Shot</reg>
+                        </choice> Guns</cell>
+                     <cell role="data" rows="1" cols="1">@ 10$</cell>
+                     <cell role="data" rows="1" cols="1">100_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">120 small hatchets</cell>
+                     <cell role="data" rows="1" cols="1">@ 50.</cell>
+                     <cell role="data" rows="1" cols="1">60_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 Doz Butcher Knives</cell>
+                     <cell role="data" rows="1" cols="1">@ 4$</cell>
+                     <cell role="data" rows="1" cols="1">16_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 1/2 <choice>
+                           <abbr>''</abbr>
+                           <expan>Dozen</expan>
+                        </choice> Razors</cell>
+                     <cell role="data" rows="1" cols="1">@ 6$</cell>
+                     <cell role="data" rows="1" cols="1">9_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1/2<choice>
+                           <abbr> ''</abbr>
+                           <expan>Dozen</expan>
+                        </choice> Razor cases</cell>
+                     <cell role="data" rows="1" cols="1">@ 4$</cell>
+                     <cell role="data" rows="1" cols="1">2_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 <choice>
+                           <abbr>''</abbr>
+                           <expan>Dozen</expan>
+                        </choice> Riding combs</cell>
+                     <cell role="data" rows="1" cols="1">@ 1$</cell>
+                     <cell role="data" rows="1" cols="1">3_</cell>
+                     <cell role="data" rows="1" cols="1">252</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">Continued_</cell>
+                     <cell role="data" rows="1" cols="1">$700. 87 1/2</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="2" facs="pa0026b.small.jpg"/>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Amt.</abbr>
+                           <expan>Amount</expan>
+                        </choice> of footing <choice>
+                           <abbr>brot.</abbr>
+                           <expan>brought</expan>
+                        </choice> forward</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                     <cell role="data" rows="1" cols="1">700.87 1/2</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Doz small scissors</cell>
+                     <cell role="data" rows="1" cols="1">@ 1$</cell>
+                     <cell role="data" rows="1" cols="1">8_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <abbr>''</abbr>
+                           <expan>Dozen</expan>
+                        </choice> large <choice>
+                           <abbr>Do</abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 6$</cell>
+                     <cell role="data" rows="1" cols="1">6_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3000 small fish hooks</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">6_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 m. needles</cell>
+                     <cell role="data" rows="1" cols="1">@ 4$</cell>
+                     <cell role="data" rows="1" cols="1">8_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">24 pr spurs</cell>
+                     <cell role="data" rows="1" cols="1">@ 75.</cell>
+                     <cell role="data" rows="1" cols="1">18_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 gross Buttons</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">6_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 <choice>
+                           <abbr> '' </abbr>
+                           <expan>gross</expan>
+                        </choice>
+                        <choice>
+                           <abbr>Do.</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 3$</cell>
+                     <cell role="data" rows="1" cols="1">9</cell>
+                     <cell role="data" rows="1" cols="1">61.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">20 <choice>
+                           <orig>strans</orig>
+                           <reg>strands</reg>
+                        </choice> of wampum</cell>
+                     <cell role="data" rows="1" cols="1">@ 12 1/2</cell>
+                     <cell role="data" rows="1" cols="1">2.50</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 <choice>
+                           <orig>Bunces</orig>
+                           <reg>Bunches</reg>
+                        </choice> small Beads</cell>
+                     <cell role="data" rows="1" cols="1">@ 1$</cell>
+                     <cell role="data" rows="1" cols="1">2_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1000 Gun-flints</cell>
+                     <cell role="data" rows="1" cols="1">@ 10$</cell>
+                     <cell role="data" rows="1" cols="1">10_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 Doz cow Bells</cell>
+                     <cell role="data" rows="1" cols="1">@ 4$</cell>
+                     <cell role="data" rows="1" cols="1">12_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1<choice>
+                           <abbr> ''</abbr>
+                           <expan>Dozen</expan>
+                        </choice> Horse <choice>
+                           <abbr>Do.</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">@ 6$</cell>
+                     <cell role="data" rows="1" cols="1">6_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">120<choice>
+                           <abbr> lb</abbr>
+                           <expan>pound</expan>
+                        </choice> Tobacco</cell>
+                     <cell role="data" rows="1" cols="1">@ 1/_</cell>
+                     <cell role="data" rows="1" cols="1">20_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 gunlocks</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">4_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">12 weeding hoes</cell>
+                     <cell role="data" rows="1" cols="1">@ 1$</cell>
+                     <cell role="data" rows="1" cols="1">12_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 axes</cell>
+                     <cell role="data" rows="1" cols="1">@ 2$</cell>
+                     <cell role="data" rows="1" cols="1">4_ <del type="overstrike">84</del>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">$84 50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Trunks</cell>
+                     <cell role="data" rows="1" cols="1">@ 250</cell>
+                     <cell role="data" rows="1" cols="1">5_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Boxes</cell>
+                     <cell role="data" rows="1" cols="1">@ 50</cell>
+                     <cell role="data" rows="1" cols="1">1_</cell>
+                     <cell role="data" rows="1" cols="1">_</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 yds linen for Burling</cell>
+                     <cell role="data" rows="1" cols="1">@ 37 1/2</cell>
+                     <cell role="data" rows="1" cols="1">.75</cell>
+                     <cell role="data" rows="1" cols="1">6.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$853.12 1/2</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="3" facs="pa0026c.small.jpg"/>
+            <p>Received of Return J. Meigs eight hundred &amp; fifty three dollars &amp; twelve % 1/2 cents in full for the above account._</p>
+            <closer>
+               <salute>Signed Duplicates</salute>
+               <signed>
+                  <name>Timothy Meigs</name>
+               </signed>
+               <address>
+                  <addrLine>Highwassee</addrLine>
+               </address>
+               <date>30th November 1812</date>
+               <pb n="4" facs="pa0026d.small.jpg"/>
+               <add>No. 14<lb/> Timothy Meig's <lb/> Receipt ―<lb/> $853.12 1/2 ―<lb/> 30th Nov 1812<lb/> goods sent to the <lb/> Cherokees on <lb/> Arkansaw river <lb/> 30th November _1812_ <lb/> No. 14</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

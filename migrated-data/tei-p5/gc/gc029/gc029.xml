@@ -1,0 +1,195 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Jul. 10 [to] James King, Murfreesboro, Tennessee / Thomas Moore, Alexandria, Louisiana: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc029</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Jul. 10 [to] James King, Murfreesboro, Tennessee / Thomas Moore, Alexandria, Louisiana</title>
+               <author>Moore, Thomas</author>
+               <date when="1835-07-10">July 10, 1835</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This is a letter dated July 10, 1835 from Thomas Moore to his cousin James M. King.  Moore acknowledges this is the first opportunity has has had to write in some time.  He says his son and family are well, but he expresses concern over the health of his crops.  He urges King to buy land in Mississippi, and offers him advice on the success of such an endeavor.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1835</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">gc029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Crop losses</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc029a.small.jpg"/>
+            <opener>
+               <add>From <name>
+                     <choice>
+                        <abbr>T</abbr>
+                        <expan>Thomas</expan>
+                     </choice>.O. Moore </name>1838-</add>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name> near <name>Murfeesboro</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>Mail</add>
+               <add>
+                  <figure>
+                     <figDesc>Alexandria La. <choice>
+                           <abbr>Jul</abbr>
+                           <expan>July</expan>
+                        </choice> 16</figDesc>
+                  </figure>
+               </add>
+               <add>25</add>
+               <add>Answered <date>19th <choice>
+                        <abbr>Jany</abbr>
+                        <expan>January</expan>
+                     </choice> 1836</date>
+               </add>
+               <add>Thomas <name>Thomas O Moor</name>
+                  <name>Thomas O Moor</name>
+                  <name>Thomas O Moor</name>
+               </add>
+               <add>
+                  <name>Thomas</name>
+                  <name>Thomas O Moore </name>
+                  <name>Thomas O Moor</name>
+               </add>
+               <pb n="2" facs="gc029b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Alexandria</name> (<choice>
+                        <abbr/>
+                        <expan>Louisiana</expan>
+                     </choice>)</addrLine>
+               </address> 10th July <salute>Dear Cousin</salute>
+            </opener>
+            <p> I have been <choice>
+                  <orig>proming</orig>
+                  <reg>promising</reg>
+               </choice> myself this pleasure for some time but am so much out of the habit of writing I have not been able to muster resolution enough before this rainy day.  and have now no news worth communicating, write merely from the feelings of <choice>
+                  <orig>frindship</orig>
+                  <reg>friendship</reg>
+               </choice> and to know how you all are and what you are doing in that plentiful country of hog and <choice>
+                  <orig>harring</orig>
+                  <reg>herring</reg>
+               </choice>.  I left my family in the pine woods yesterday all in fine health, our little boy John has got in very fine health running about</p>
+            <p>(<choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> three weeks since our prospects for fine crops have never been better and some places still remain uninjured, in half of my <choice>
+                  <orig>Cotten</orig>
+                  <reg>cotton</reg>
+               </choice> I am Confident he rest has destroyed half <add>the other half</add> is not so much injured yet, though it is progressing rapidly, its drops it leaves &amp; forms &amp; then dies, we are unable to assign any cause for the disease the returned appearance of the stalk is perfectly healthy but on breaking it you discover the stalk more or less blackened, should it continue ten days longer the crops in the valley of<name> red river</name> will be very much shortened.  such crops of corn I have never seen grow in any country I am confident my crop will <choice>
+                  <orig>avarage</orig>
+                  <reg>average</reg>
+               </choice> sixty buckets to the son </p>
+            <pb n="3" facs="gc029c.small.jpg"/>
+            <p>I shall some what calculate on seeing you here this fall or winter and if you have any idea of settling in this country the longer you defer it the worse it will be.  the raft is settling rapidly.  some risk it on public land others have laid old sparish rickets, land can not be purchased in our section of country except at an enormous price if you come down it is not improbable that we could get a place some distance above <name>Natchetez</name> but as I stated to you before unless you can put on it between thirty and forty hands it would not be very profitable business, you must have a force <choice>
+                  <orig>sufficeintly</orig>
+                  <reg>sufficently</reg>
+               </choice> large to justify the employment of a good overseer unless you were to remain in the country, we must make money here rapidly or sink rapidly.</p>
+            <p>There has been some warm discussions here relative to the next presidency.  I am <choice>
+                  <orig>truely</orig>
+                  <reg>truly</reg>
+               </choice> sorry there is so great a prospect of a division in the republican ranks there is a considerable split here, I have separated from many of my warm <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> in my choice.  I have as I believe not only chosen a man eminently qualified for that high station, but one on whom I believe a great majority of the republican party will concentrate, <name>
+                  <choice>
+                     <abbr>Mr</abbr>
+                     <expan>Mister</expan>
+                  </choice> Van Buren</name> is the one he has been nominated by the convention the best means no doubt of tieing the party together, and we should not split I like the motto, United we stand divided we fall.  <pb n="4" facs="gc029d.small.jpg"/> as for my part I cant support any many who is so strongly supported by nullifiers &amp; bank men as <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> White, should he be elected of which I hope there is no chance, it would not be by the republican party, some of course would support him but his strong support would be from the opposition party a mixture of every thing.  his being supported by the frinds of the Bank and nullifiers is a mystery to me I fear there is some thing cloaked in his political feelings adverse to them he has always professed at all events time will prove every thing.</p>
+            <p>Should you not come down and no casualty occur, I shall come up with Sarah some time this winter or spring as she is anxious to visit <name type="place">Tennessee</name> again, I shall want to purchase a few plough boys what chance will there be in your section of country.  please have a look out for me.</p>
+            <p>Remember me affectionately to cousin Martha and all my relatives &amp; enquiring <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> and accept my best wishes for your health and prosperity in this life</p>
+            <closer>Your relative &amp; <choice>
+                  <orig>Frind</orig>
+                  <reg>friend</reg>
+               </choice>
+               <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O Moore</signed>
+               <add>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> James M King</add>
+               <add>Give my respects to <choice>
+                     <abbr>Mr </abbr>
+                     <expan>Mister</expan>
+                  </choice>Wilson &amp; say to him that I should be happy to see him.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

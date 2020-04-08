@@ -1,0 +1,146 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc087">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1826 Dec. 26 Washington City, [recipient unknown] / James K. Polk :a machine readable transcription of an image</title>
+            <author>Polk, James K.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc087</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1826 Dec. 26 Washington City, [recipient unknown] / James K. Polk</title>
+               <author>Polk, James K.</author>
+               <date when="1829-12-26">December 26, 1829</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a letter from James K. Polk to an unknown recipient, dated December 26, 1826. The letter is in regard to a man named Charles Becket who claims that he is promised county land and a pension for his service in the United States Army, neither of which he has received yet. Polk asks the recipient of the letter to look into Mr. Becket's claims.</note>
+               <note type="collection" anchored="true">James K. Polk</note>
+               <note type="box" anchored="true">MS-756</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc087</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Land question</term>
+               <term>Pension funds</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80145740"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Polk, James K. (James Knox), 1795-1849</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc087a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington City</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1829-12-26">
+                        <choice>
+                           <abbr>Decr</abbr>
+                           <expan>December</expan>
+                        </choice> 26th 1829</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I enclose to you the certificate of <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Robert Purdy</name>, at present the Marshall for <name type="place">West Tennessee</name>, relative to the service of <name type="person">
+                  <emph>Charles Becket</emph>
+               </name>, late a soldier in the Army of the <name type="place">
+                  <choice>
+                     <abbr>U.</abbr>
+                     <expan>United</expan>
+                  </choice> States</name>. Mr. Becket applied for County land for his services; He states that he ⁁ <add place="supralinear">was</add> enlisted first at <unclear>Hagerstown Mc</unclear> in <date when="1792">1792</date> by <name type="person">George H. Dunn</name> a coronet in the first <unclear>track of drageens</unclear> attached to <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Wayne's</name> Army, that he served three years in the company of <unclear>drageens</unclear> commanded by <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> Mallard Ford</name>, and was wounded in said service on the <date when="1794-08-20">20th August 1794</date> — in the battle fought by <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Wayne</name> at the <name type="place">Head of the Rapids</name>, — fifty or sixty miles from <name type="place">Detroit</name>; that at the <unclear>expiration</unclear> of his first term of three years — he again enlisted for three years men and was orderly Sergeant in <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice>
+                  <unclear>Molen</unclear> Fords</name> company, — in which he served seven times, when he was <choice>
+                  <orig>transfered</orig>
+                  <reg>transferred</reg>
+               </choice> to an artillery company, — that at the expiration of his second term of enlistment he was discharged, and some considerable time afterwards he enlisted in <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> Robert Purdy's</name> company at <name type="place">Kingston</name> or<unclear> S. Wt. Periet</unclear> in <name type="place">Tennessee</name> for the term of five years, — that he served under the last enlistment about two years &amp; three Months — when the troops to which he belonged were discharged. He states that he was promised County land for his services, but has never received it.</p>
+            <p>Mr. Becket made application for a pension a year or two since, and his papers are either in the <unclear>pacurian</unclear> Office, or are filed in the <unclear>Ho Repts</unclear>. If they are on file in the <unclear>Ho. Repts jenico</unclear> procure &amp; forward them to you, as possibly they may throw some light on his case. — When you have reviewed his case advise me of your decision. —</p>
+            <closer>
+               <salute>Very Respectfully</salute>
+               <salute>
+                  <choice>
+                     <abbr>Yr. Obt Sevt</abbr>
+                     <expan>Your Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">James K. Polk</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

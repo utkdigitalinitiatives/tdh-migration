@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl339">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Nov. 24, Gallatin, Tennessee [to] Masonic Lodge no. 14, Carthage, Tennessee / John G. Turner [et.al]   : a machine readable transcription of an image</title>
+            <author>Turner, John G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl339</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Nov. 24, Gallatin, Tennessee [to] Masonic Lodge no. 14, Carthage, Tennessee / John G. Turner [et.al]</title>
+               <author>Turner, John G.</author>
+               <date when="1848-11-24">November 24, 1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to the Masonic lodge of Carthage Tennessee (no. 14) dated November 24, 1848. It has names of John G. Turner, James L. M'Koin, and Wm. Solomon  stamped as the writers. It is asking for financial help for John Bell. He is a fellow Mason from Gallatin who's store has burned down.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b5</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Associations, institutions, etc.</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Turner, John G.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl339a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>GALLATIN</name>, <name>
+                        <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>, <date>November 24. 1848</date>.</addrLine>
+                  <addrLine>To the Master Wardens and Brethren</addrLine>
+                  <addrLine>of <name>Carthage</name> LODGE. <choice>
+                        <abbr>NO.</abbr>
+                        <expan>Number</expan>
+                     </choice> 14 Carthage</addrLine>
+               </address>
+               <salute>Brethren:</salute>
+            </opener>
+            <p>We the undersigned being appointed a Committee, at a called meeting of <name>KING SOLOMON</name>S LODGE, NO. 94, for the purpose of Corresponding with the Lodges of <name>Tennessee</name>, to ask some assistance for our unfortunate Townsman and Brother, <name>JOHN BELL</name>,  who had the misfortune to have his Store BURNT, on the morning of the <date>22nd <choice>
+                     <abbr>inst.</abbr>
+                     <expan>instant</expan>
+                  </choice>
+               </date>, which is an entire loss, and besides the loss of his House, he lost a considerable part of his Goods. The amount of this loss is unknown, though considerable ___. His situation was very much embarrassed, in consequence of paying security money, and that, together with this loss, makes his case extremely <choice>
+                  <orig>embarassing</orig>
+                  <reg>embarrassing</reg>
+               </choice>. He has been a contributing Mason for thirty odd years, and all the time in good standing. ___ We ask for him, such aid, as you can spare. What you may think proper to give, you can enclose to this place, to the address of <name>John G. Turner</name>.</p>
+            <closer>
+               <salute>Yours, in Brotherly Love,</salute>
+               <signed>JOHN G, TURNER,<name>JAMES L. M'KOIN,</name>
+                  <name>WM. SOLOMON</name>
+               </signed>
+               <pb n="2" facs="sl339b.small.jpg"/>
+               <address>
+                  <addrLine>To the <choice>
+                        <orig>Secetary</orig>
+                        <reg>Secretary</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Carthage Lodge no 14</addrLine>
+                  <addrLine>Carthage</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Tensse</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

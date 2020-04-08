@@ -1,0 +1,120 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc123">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document] 1812 Oct. 19 State of Tennessee versus Thomas Miller : a machine readable transcription of an image</title>
+            <author> State of Tennessee</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc123</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal document] 1812 Oct. 19 State of Tennessee versus Thomas Miller </title>
+               <author>  State of Tennessee</author>
+               <date when="1812-10-19"> 
+			 October 19, 1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a legal document dated October 19, 1812 regarding a monetary forgery case in Washington county, Tennessee.</note>
+               <note type="collection" anchored="true">Fink &amp; Dulaney Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sc123</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Forgery</term>
+               <term>Counterfeiters</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79060965"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Tennessee</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc123a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>State of Tennessee Washington County</addrLine>
+               </address>
+               <lb/>
+               <add>To any lawful officer to Execute</add>
+            </opener>
+            <p>Whereas on this <date>17th day of October 1812</date> Personally came <name>John Rust</name> before me the subscribers  a justice of the peace for the County aforesaid, who being duly sworn according to have <unclear>saith</unclear> that <name>Thomas Miller</name>
+               <choice>
+                  <orig>ofsaid</orig>
+                  <reg>of said</reg>
+               </choice> County, about the first of the present month, was guilty of falsely forgery of counterfeiting  three Dollars, money Current <add>as the Deponent doth verily believe</add> in this State contrary to an act of the General assembly in such case made <gap agent="damage"/> provided,</p>
+            <p>These are therefore to command you to bring the said Thomas Miller before me or some other justice of the peace for the Said County to be dealt with accordingly to <unclear>hand</unclear>  and this shall be Your Warrants, Given under any hand</p>
+            <closer>
+               <add>Seal this 17th October 1812<lb/> summon <name>Mark Bean &amp; Johnston Summers</name>witness  <gap agent="damage"/> on behalf of the State of <name>Tennessee</name>
+               </add>
+               <signed>
+                  <name>John <unclear>Adams</unclear>
+                  </name>
+               </signed>
+               <add>Justice of the Peace</add>
+               <pb n="2" facs="sc123b.small.jpg"/>
+               <add>Executed and <unclear>exchanged</unclear> the <date>19th October 1812</date> by <name>Mark Bean</name> Constable Mark Bean summoned by  <name>Joseph Brown</name> sheriff</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

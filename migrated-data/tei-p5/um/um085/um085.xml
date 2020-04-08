@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1843 Jan. 14, Columbia, Tennessee [to] Col[onel] R[obert] J. Chester, Jackson, Tennessee / M[ary] J[ane] Chester : a machine readable transcription of an image</title>
+            <author>Chester, Mary Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um085</idno>
+            <idno>OCLC: 50323392</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1843 Jan. 14, Columbia, Tennessee [to] Col[onel] R[obert] J. Chester, Jackson, Tennessee / M[ary] J[ane] Chester</title>
+               <author>Chester, Mary Jane</author>
+               <date when="1843-01-14">January 14, 1843</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">The following document is a letter dated January 14, 1843, from Mary Jane Chester to her father Colonel Robert J. Chester of Jackson, TN.  Mary writes from the Female Institute in Columbia, TN and discusses  her busy school schedule and upcoming examination.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS-25 (Jan-June 1843)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">11</note>
+               <note type="document" anchored="true">um085</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee -- History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Mary Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um085a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1843-01-14">
+                        <choice>
+                           <abbr>Jany.</abbr>
+                           <expan>January</expan>
+                        </choice> 14th, 1843</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Papa.</salute>
+            </opener>
+            <p>Since I received your kind letter, I have experienced great uneasiness concerning my dear little Brother, indeed I have been tempted once or twice to beg you to let me return home; but after some consideration concluded that it would be ⁁ <add place="supralinear">better</add> for me to remain.</p>
+            <p>My school duties are <emph>very</emph> numerous, and pressing at present, the Examination being so near. I do not think it right that I should permit a minute of my time to be unoccupied.  I completed my Composition, and carried it to the Tutoress this morning so that it could be <choice>
+                  <orig>criticised</orig>
+                  <reg>criticized</reg>
+               </choice> by her.  Although this is saturday, we attended school as on any other day, &amp; will continue doing so until the dreaded time is over.  I am extremely anxious that you should be here at that time.  <name type="person">Mr. Smith</name> has inquired several times of me if you <pb n="2" facs="um085b.small.jpg"/>  intended coming. I always replied that I thought you did.  The Examination will be in the last week in this month continue three days.  If you can <emph>possibly</emph> make it convenient <emph>do come</emph>.</p>
+            <p>I hope you will excuse this very short letter, as you know the cause.  I must conclude with saying, how much I want to see you <emph>all</emph>.  Kiss the sweet children and give my love to all my dear relations.</p>
+            <closer>
+               <salute>Your ever affectionate Daughter,</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>M. J.</abbr>
+                        <expan>Mary Jane</expan>
+                     </choice> Chester</name>
+               </signed>
+               <add place="bottom">
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> Tell Cousin<name type="person"> Dick</name> that cousin<name type="person"> Knox</name> received his letter yesterday.  We felt the Earth-quake very sensibly here on last wednesday week &amp; I was a good deal alarmed.  Tell <name type="person">Aunt Narcissa</name> that Cousin<name type="person"> Ellen</name> has, with the wide black Lace which I brought with me, improved the appearance of my <emph>old</emph> Bonnet so much that she would not know it.  It looks perfectly now.</add>
+               <pb n="3" facs="um085c.small.jpg"/>
+               <add place="left of address">
+                  <figure>
+                     <figDesc>postmark for January 18</figDesc>
+                  </figure> 18</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Col. R.</abbr>
+                           <expan>Colonel Robert</expan>
+                        </choice> J. Chester</name>,</addrLine>
+                  <addrLine>
+                     <name type="place">Jackson</name>,</addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <emph>Tennessee</emph>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left of address">
+                  <emph>Mail }</emph>
+               </add>
+               <add place="below address" rend="different hand, ink">My Dear Mary Jane <lb/>
+                  <date when="1842-01-14">14 January 1843</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

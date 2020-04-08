@@ -1,0 +1,187 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[List] 1846 Sept. 30 [List of Scholars in Pulaski, TN School District Number 3] : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc092</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[List] 1846 Sept. 30 [List of Scholars in Pulaski, TN School District Number 3]</title>
+               <date when="1846-09-30">September 30, 1846</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a list of the scholars of the Pulaski, Tennessee School District, Number 3, as enrolled on September 30, 1846. There was a total of 35 scholars enrolled at that time.</note>
+               <note type="collection" anchored="true">Pulaski, Tennessee</note>
+               <note type="box" anchored="true">MS-1926</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc092</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lists</term>
+               <term>Students</term>
+               <term>Pulaski County (Tenn)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc092a.small.jpg"/>
+            <p>A List of <choice>
+                  <orig>Schollars</orig>
+                  <reg>Scholars</reg>
+               </choice> in School District <choice>
+                  <abbr>No</abbr>
+                  <expan>Number</expan>
+               </choice> 3 in <name type="place">Pulaski</name> Between the ages of 5 &amp; 18 inclusive at this late <date when="1846-09-30">30th of September 1846</date>
+            </p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <name type="person">Francis E Hodge</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">13 <name type="person">Maria Stookey</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">25 <name type="person">John M Thorn</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 <name type="person">Orville W Hodge</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">14 <name type="person">Martha Stookey</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">26 <name type="person">Homer A Thorn</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 <name type="person">
+                           <choice>
+                              <abbr>Geo.</abbr>
+                              <expan>George</expan>
+                           </choice> F Hodge</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">15 <name type="person">Frances Stookey</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">27 <name type="person">Lydia A Thorn</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 <del type="overstrike">Hellen Jesirance</del>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">16 <name type="person">Sheals</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">28 <name type="person">Sarah M Thorn</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">5 <name type="person">Jerome Simons</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">17 <name type="person">Hanah Chesebro</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">29 <name type="person">Cynthia Chesebro</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 <name type="person">Hellen Simons</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">18 <name type="person">C. G. Tyler</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">30 <name type="person">John Parks</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">7 <name type="person">Loren Stiles</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">19 <name type="person">S. N. Tyler</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">31 <name type="person">Elisha Parks</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8 <name type="person">Webster Stiles</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">20 <name type="person">C. M. Tyler</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">32 <name type="person">Lois Parks</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">9 <name type="person">James Chesebro</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">21 <name type="person">Magarett Tyler</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">33 <name type="person">H.H. Parks</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">10 <name type="person">Volney Chesebro</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">22 <name type="person">Roxana Tyler</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">34 <name type="person">Edward Webster</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">11 <name type="person">Sarah A Hodge</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">23 <name type="person">Frances Thorn</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">35 <name type="person">Pomeroy Abbott</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">12 <name type="person">Theodore Stookey</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">24 <name type="person">Catharin A Thorn</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">36</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

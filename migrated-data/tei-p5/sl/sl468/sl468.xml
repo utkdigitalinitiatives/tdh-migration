@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl468">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1795 Nov. 17, Nashville [Territory South of the Ohio River, to] David Henley, Knoxville [Territory South of the Ohio River] / Sampson Williams   : a machine readable transcription of an image</title>
+            <author>Williams, Sampson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl468</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1795 Nov. 17, Nashville [Territory South of the Ohio River, to] David Henley, Knoxville [Territory South of the Ohio River] / Sampson Williams</title>
+               <author>Williams, Sampson</author>
+               <date when="1795-11-17">November 17, 1795</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Sampson Williams to David Henley, dated November 17, 1795. Williams is writing to send Henley documents of confirmation from General Winchester. Williams  is requesting money from Henley, possibly to pay the salaries of militiamen, Henley is an agent for the War Department.</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">17</note>
+               <note type="document" anchored="true">sl468</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>Winchester, James, 1752-1826</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, Sampson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl468a.small.jpg"/>
+            <head>
+               <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Winchester</name>
+            </head>
+            <opener>
+               <address>
+                  <addrLine>
+                     <date>17th November 1795</date>
+                  </addrLine>
+               </address>
+               <salute>Worthy Sir }</salute>
+            </opener>
+            <p>I am this fair on my way going out to work upon the Road leading to <name>Knoxville</name>
+               <del type="overstrike">I</del> this Tower we will make a proper road for you <add>to</add> come a long when you come out to pay off the mounted Militia, I have <choice>
+                  <orig>Inclosed</orig>
+                  <reg>Enclosed</reg>
+               </choice>
+               <name>Major Johnson</name>s &amp; <name>Major Doyl</name>s certificates confirmed by Genl Winchester and shall depend upon your friendship in getting the money for me. the people of this Country depend greatly on you to make a fair representation to Congress th <add>r</add> ough your friends there of the manner in which the census has been taken in this Territory as well as other imposition. I write in <choice>
+                  <orig>hast</orig>
+                  <reg>haste</reg>
+               </choice> as my company are now waiting for me I <add>will</add> take the liberty of <choice>
+                  <orig>droping</orig>
+                  <reg>dropping</reg>
+               </choice> you a line after my return, and <choice>
+                  <orig>bilieve</orig>
+                  <reg>believe</reg>
+               </choice> me I am Sir with the highest Esteem your most</p>
+            <closer>
+               <salute>Obedient <lb/>
+                  <choice>
+                     <abbr>Sert</abbr>
+                     <expan>Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>S</abbr>
+                        <expan>Sampson</expan>
+                     </choice> Williams</name>
+               </signed>
+               <pb n="2" facs="sl468b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>Colo</abbr>
+                        <expan>Colonel</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name>David Henley</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Hand</abbr>
+                     <expan>Handed</expan>
+                  </choice> by Colo <lb/> James White }</add>
+               <add>
+                  <name>Nashville</name>
+                  <lb/>
+                  <choice>
+                     <abbr>Nov</abbr>
+                     <expan>November</expan>
+                  </choice> 17 1795 <lb/> Sampson Williams</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 May 29 Washington [D.C.] to Miss Mary Coffee / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um004</idno>
+            <idno>OCLC: 50193107</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 May 29 Washington [D.C.] to Miss Mary Coffee / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1833-05-29">May 29, 1833</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated May 29, 1833 to Mary Coffee from Andrew Jackson, then President of the United States. President Jackson inquires on her father's (General John Coffee) health and updates her on his own health.</note>
+               <note type="collection" anchored="true">Andrew Jackson 1804-1844, MS28</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">um004</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coffee, John</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um004a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                  </addrLine>
+               </address>
+               <date when="1833-05-29">May 29th 1833</date>
+               <salute>My Dear Mary,</salute>
+            </opener>
+            <p>Your kind &amp; very interesting letter of the <date when="1833-04-29">29th of April</date>  was duly received and has remained without answer until now, with barely an acknowledgment of its receipt, in my letter to your dear father. To you my dear Mary, who know how little time is permitted to me for friendship, my delay in not answering requires no apology, but I should have snatched a moment from my constant public demand, but I have been much indisposed since you left us, and more than usual pressed with public concerns.</p>
+            <p>My mind has been constantly filled with anxiety with regard to your fathers health— My enquiries are unceasing, and I have been indebted to <name type="person">Major Lewis</name>, at <name type="place">Nashville</name> for ⁁<add place="supralinear">the</add> only information lately received, and that was consoling, as it was from <name type="person">Doctor Hagg</name>, and gave us assurance of his ⁁<add place="supralinear">speedy</add> restoration to perfect health, for which my prayers have been, &amp; are unceasing. </p>
+            <p>In my letter to which you allude I did complain of you &amp; <name type="person">Mary McLourones'</name> neglect in not writing me-you have both leisure and when you reflect how much interest I feel in your, &amp; your respective families <pb n="2" facs="um004b.small.jpg"/> welfare, it must occur to you how much pleasure I feel on the receipt of a letter from any branch of either, giving me intelligence of their health happiness &amp; prosperity. Therefore it was that I enjoined on you both to write me, believing you had not only leisure, but <choice>
+                  <orig>despositions</orig>
+                  <reg>dispositions</reg>
+               </choice>. I have been much gratified by one from you, but Mary McLourone, has, as yet been silent, from you I have the promise that you will be a better correspondent for the future. I can only add how much pleasure it will afford me at all times to receive a letter from you, and I am sure you would write often, if your really knew how much I have your happiness &amp; that of every branch of your dear family at heart.</p>
+            <p>I have said my health has been bad since you left us, it is better, &amp; I will soon travel to the <choice>
+                  <orig>cost</orig>
+                  <reg>coast</reg>
+               </choice> to try to improve it. This, <sic>this</sic> is doubtful whether the fatigue of the journey, &amp; the crowds of people <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> which I have to pass may not prove more in injurious to my health, than the benefit ensuing from change of air &amp; climate My health &amp; life is in the hands of my creator, in him will I trust, &amp; freely resign to his will—our great duty my dear Mary, is to live, &amp; in our lives to learn how to die &amp; ensure our happiness beyond the grave. <pb n="3" facs="um004c.small.jpg"/> your <name type="person">Aunt Emily</name> is preparing to visit <name type="place">Tennessee</name>— She says she will set out next tuesday— <name type="place">Major Donelson</name> goes with me &amp; will join her in Tennessee, <choice>
+                  <orig>seperating</orig>
+                  <reg>separating</reg>
+               </choice> from me in the west—She goes to<name type="place"> Lexington</name> with Mrs. &amp; Major <name type="person">Bosney</name>, where she expects to meet her brother <name type="person">Stockley</name>. We are all well here, <name type="person">Sarah</name> has quite recovered, &amp; her dear little <name type="person">Rachel</name> is growing finely, in her &amp; John, we have two very interesting pets— <name type="person">Jackson </name>&amp; <name type="person">Mary Rachel </name>are growing finely, Jackson learning his book well, reads very correctly,—<name type="person"> Mr Earle</name> enjoys excellent health— and all join in kind salutations to you, your father mother &amp; every branch of your family, &amp; unite in prayers for your fathers speedy recovery &amp; long continued health— and believe me your affectionate uncle</p>
+            <closer>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Coffee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Military order for the honorable discharge of William English
+			 Pillar] 1814 May 10, Fayettesville, [Tennessee] / Andrew Jackson: a
+			 machine-readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl015</idno>
+            <idno>OCLC: 47806607</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Military order for the honorable discharge of William English
+				Pillar] 1814 May 10, Fayettesville, [Tennessee] / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1814-05-10">May 10, 1814</date>
+               <extent>1p</extent>
+               <note type="summary">This document is a military order from Andrew
+				Jackson stating that William English Pillar was honorably discharged on May 10,
+				1814. The order states that Pillar deserves the honorable discharge because he
+				fought with Jackson against the Creek Indians and also because he completed
+				service for the entire length of time for which he had originally
+				enlisted.</note>
+               <note type="Collection">Tennessee Historical Society </note>
+               <note type="Box">12</note>
+               <note type="Folder">P1</note>
+               <note type="Document">tl015</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Creek Indians--Wars</term>
+               <term> Military discharge</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl015a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Fayettesville</name>
+                     <date when="1814-05-10">May 10th 1814</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>
+               <name type="person">William English Pillar</name> a volunteer under
+			 the acts of <choice>
+                  <orig>congress</orig>
+                  <reg>Congress</reg>
+               </choice> of 
+			 <date when="--02-06">February the 6th</date>and 
+			 <date when="1812-07-06">July 6th 1812</date>, has served on an
+			 expedition against the 
+			 <name type="person">
+                  <choice>
+                     <orig>creek</orig>
+                     <reg>Creek</reg>
+                  </choice> Indians</name>
+			 under my command from the 
+			 <date when="1813-10-04"> fourth day of October 1813</date>,
+			 <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> the 
+			 <date when="1814-05-10">tenth day of May 1814</date>  which
+			 with the addition of a tour of four and a half months to 
+			 <name type="place">Natchez</name> makes three hundred and
+			 <choice>
+                  <orig>Sixty five</orig>
+                  <reg>Sixty-five</reg>
+               </choice> days actual Service, the time for
+			 which he originally engaged  he was the only person of
+			 <add place="supralinear">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice>
+               </add>
+               <name type="person">
+                  <choice>
+                     <abbr>Wm.</abbr>
+                     <expan>William</expan>
+                  </choice>
+                  <choice>
+                     <orig>Smiths</orig>
+                     <reg>Smith's</reg>
+                  </choice>
+               </name>company that did not quit the service in 
+			 <date when="--12">
+                  <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice>
+               </date>
+			 last for the faithful discharge of his duty he receives my thanks and is hereby
+			 honorably discharged</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <hi rend="underlined">Andrew
+				  Jackson</hi>
+                  </name>
+               </signed>
+               <lb/> Major 
+			 <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

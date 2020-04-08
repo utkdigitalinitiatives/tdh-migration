@@ -1,0 +1,136 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl738">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1796 Aug. 25,  Knoxville [Tennessee, to] Little Turkey [Cherokee Nation]   / Jo[hn] Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl738</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1796 Aug. 25,  Knoxville [Tennessee, to] Little Turkey [Cherokee Nation]   / Jo[hn] Sevier</title>
+               <author> Sevier, John</author>
+               <date when="1796-08-25">August 25, 1796</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from Governor John Sevier to the Cherokee Chief Little Turkey, dated August 25, 1796. Sevier is writing to pass on a grievance from the Chickasaw Nation. Supposedly the Cherokees have some slaves belonging to a George Colbert. Sevier writes that he hopes they will return the slaves via Joseph Sevier, and that they will live in peace with the Chickasaw Nation.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">B</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl738</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Cherokee Indians -- claims against</term>
+               <term>Chickasaw Indians</term>
+               <term>Sevier, John, 1745-1815 Correspondence.</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl738a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>25 August 1796</date>
+                  </addrLine>
+               </address>
+               <salute>Brother</salute>
+            </opener>
+            <p>The <name>chickasaw</name> people have Complained to me that there is a negro man, a negro woman and child, belonging to <name>George Colbert</name> in your nation, they say that they were to have been sent into this place some time ago, but as they have not yet come, I am requested to write to you, about them and have sent <name>Joseph Sevier</name> on purpose to get <add>the negroes</add>
+               <del type="overstrike">then</del> and bring them to this place, and desire that you will deliver them to him_ if the chickasaw owes your people any thing they say they will pay you_ you know it is wrong to stop people for horses, for negroes is not horses tho they are black__ I shall expect <add>&amp; hope</add> you will send the negroes according to <del type="overstrike">my</del> request <del type="overstrike">for</del> I wish you and the chickasaw people to live as brothers and good neighbours but you cant expect to be the Case, if you keep their people from them__</p>
+            <closer>
+               <salute>your friend and brother</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice> Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>The <name>little Turkey</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="sl738b.small.jpg"/>
+               <add>Letter to the little <lb/> Turkey <lb/> 25 <choice>
+                     <abbr>Aug</abbr>
+                     <expan>August</expan>
+                  </choice> 1796 <lb/> by <choice>
+                     <abbr>Jo.</abbr>
+                     <expan>John</expan>
+                  </choice> Sevier</add>
+               <add>(Copy)</add>
+               <add>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 1</add>
+               <add>Recorded</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

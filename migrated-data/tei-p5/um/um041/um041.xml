@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1849 Jun. 15, Paris, Tenn[essee] / R.V. Taylor : a machine readable transcription of an image</title>
+            <author>Taylor, R.V.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um041</idno>
+            <idno>OCLC: 50281192</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1849 Jun. 15, Paris, Tenn[essee] / R.V. Taylor</title>
+               <author>Taylor, R.V.</author>
+               <date when="1849-06-15">June 15, 1849</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written by R.V. Taylor.  The first page is dated June 15, 1849, to his brother Thomas in which he discusses the illness he is recovering from and states that he wishes to receive letters from people at home.   Taylor also discusses a temperance celebration that the town of Paris, Tennessee is having the next day.  The second page is a brief note dated June 16 to Taylor's cousin Martha.</note>
+               <note type="collection" anchored="true">Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1849-1850)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">um041</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Temperance</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Taylor, R. V.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um041a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Paris <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1849-06-15">June 15 — 49</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <unclear>Mit</unclear> —</salute>
+            </opener>
+            <p>Your kind favor I have just perused I <choice>
+                  <abbr>dont</abbr>
+                  <expan>do not</expan>
+               </choice> think a letter ever came in a better time. It served so well to cheer the drooping spirits of a <choice>
+                  <orig>convulecent</orig>
+                  <reg>convalescent</reg>
+               </choice> man. It was the first letter I had taken out of the <choice>
+                  <abbr>P.O.</abbr>
+                  <expan>Post Office</expan>
+               </choice> in person for two weeks nearly. I have been <emph>mighty</emph> sick for a few days. But I feel thankful that I am up &amp; able to visit &amp; go about the streets when necessary, again. I was fearful that Pa &amp; Ma would grow uneasy about me from the contents of <choice>
+                  <abbr>Sis</abbr>
+                  <expan>Sister</expan>
+               </choice>
+               <name type="person">Susan</name> letter which I wrote when I had just begun to mend a little hence I wrote to them by the last mail in course, but it fail to go out hence I shall not send the letter. I have not much to tell you about "storms &amp; company &amp; courting". For I give it up, that you can beat me on exciting topics or that, rather you can write with more life. I could tell you about sickness &amp; disease, <choice>
+                  <orig>melancholly</orig>
+                  <reg>melancholy</reg>
+               </choice> feelings &amp; lonely moments, but I am recovering from all of these fearful ills I trust. Just about now I think that it would take some extra <choice>
+                  <orig>occassion</orig>
+                  <reg>occasion</reg>
+               </choice> to drive dullness away from Paris, by the way we are to have a temperance celebration, speech, procession <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> here tomorrow. I have not determined whether I shall attend. I gazed over town this evening &amp; I thought that it looked more lovely than usual, we have in the <choice>
+                  <orig>centre</orig>
+                  <reg>center</reg>
+               </choice>
+               <del type="overstrike">s</del> of our " burg" more pretty shade trees than I ever saw in any little town, which adds much to the comfort of <unclear>loungers</unclear>
+               <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+            </p>
+            <p>My hand seems to be out this evening — perhaps I should indulge a more serious strain. But I confess myself frequently at a loss what to say next, as I  write just as the words &amp; ideas f low which is very slow <pb n="2" facs="um041b.small.jpg"/>
+            </p>
+            <p>
+               <date when="1849-06-16">June 16</date> Good morning <choice>
+                  <abbr>cos</abbr>
+                  <expan>cousin</expan>
+               </choice>
+               <name type="person">martha</name> . The mail soon leaves &amp; I must rapidly bring your letter to a <emph>period</emph>. I have just returned from my breakfast. The first morning I have been after <add place="supralinear">it</add> since my illness. I feel that I am improving But <name type="person">
+                  <choice>
+                     <abbr>Bro.</abbr>
+                     <expan>Brother</expan>
+                  </choice> Williams</name> my roommate is sick this morning. I trust that these sickly times will soon pass by &amp; that we may all be profited some by them by this time I guess <name type="person">Mary</name> &amp; <name type="person">Julia</name> are at home tell them I am getting very anxious to hear from them. I suppose it will devolve on some to give me a history of <name type="person">Bucks</name> wedding. Upon the other half of this sheet I have began a letter to <name type="person">
+                  <choice>
+                     <abbr>bro</abbr>
+                     <expan>brother</expan>
+                  </choice> Thomas</name> which I must now finish —</p>
+            <closer>
+               <salute>Adieu</salute>
+               <signed>
+                  <name type="person">R.V. Taylor</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

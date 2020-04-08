@@ -1,0 +1,177 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Nov. 11, [to] gentlemen of the Senate  House
+			 of Representatives, [Washington, D.C.] / McMinn, Joseph, Governor of Tennessee
+			 : a machine-readable transcription of an image</title>
+            <author>McMinn, Joseph</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl006</idno>
+            <idno>OCLC: 47798740</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Nov. 11, [to] gentlemen of the Senate 
+				House of Representatives, [Washington, D.C.] / McMinn, Joseph, Governor of
+				Tennessee</title>
+               <author>McMinn, Joseph</author>
+               <date when="1815-11-11">November 11, 1815 </date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter, dated November 11,
+				1815, written by Joseph McMinn, Governor of the state of Tennessee (1815-1821)
+				addressed to the Senate and House of Representatives in Washington DC. In his
+				letter, Governor McMinn informed the House and Senate that he had enclosed for
+				their consideration a copy of an agreement between the United States (by Agent
+				William Cocke) and the Chickasaw Nation concerning the opening of a road from
+				Reynoldsberg. Governor McMinn wrote that the United States would not bear any
+				of the expenses of opening the road. Governor McMinn stressed that the road
+				would not only be of importance to the citizens of Tennessee, but also to those
+				of Kentucky and Ohio.</note>
+               <note type="Collection"> Governor McMinn Letters </note>
+               <note type="Box">10</note>
+               <note type="Folder">47</note>
+               <note type="Document">tl006</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Chickasaw Indians--Government relations</term>
+               <term>Roads--Design and construction</term>
+               <term>United States--House--Senate</term>
+               <term>Tennessee</term>
+               <term>Ohio</term>
+               <term>Kentucky</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl006a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Gentlemen of the Senate </addrLine>
+                  <addrLine> House of Representatives</addrLine>
+               </address>
+            </opener>
+            <p>I have the honor to enclose for your consideration a copy of an
+			 agreement between the 
+			 <name type="place">United States</name> by then Agent 
+			 <name type="person">Colonel William Cocke</name> and the 
+			 <name type="person">
+                  <choice>
+                     <orig>Chickesaw</orig>
+                     <reg>Chickasaw</reg>
+                  </choice>
+               </name>
+			 nation of Indians, for the opening of a road from 
+			 <name type="place">Reynoldsberg E.</name> together with a letter of
+			 the Secretary at War on that Subject in which it will be discussed that the 
+			 <name type="place">United States</name> are not disposed to bear any
+			 part of the expenses of opening this road</p>
+            <p>It therefore rests with your honorable body to take such course in
+			 relation to the <unclear>numerable</unclear> expenditures as you may judge
+			 expedient, taking into view the advantages that would be derived from a road of
+			 such importance, not only to the citizens of this State, but likewise to those
+			 of 
+			 <name type="place">Kentucky</name> and 
+			 <name type="place">Ohio</name>.</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <choice>
+                     <abbr>Jos</abbr>
+                     <expan>Joseph</expan>
+                  </choice>. McMinn</signed>
+               <add place="bottom, left">
+                  <date when="1815-11-11">
+                     <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice> 11th
+				1815</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="tl006b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>Communication</addrLine>
+                  <addrLine>In Senate 
+				<date when="1815-11-11">
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice>. 11th
+				  <lb/> 1815
+                        </date>
+                  </addrLine>
+                  <addrLine>Read  ordered to be sent</addrLine>
+                  <addrLine>to the House of Representa<lb/>tives 
+                     </addrLine>
+               </address>
+            </p>
+            <signed>
+               <name type="person">John Anderson
+				<unclear>Ch</unclear>
+               </name>
+            </signed>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl225">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Apr. 30, Nashville [TN] [to] Mary [House] / George H[ouse]   : a machine readable transcription of an image</title>
+            <author>House, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl225</idno>
+            <idno>OCLC: 51217559</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1850 Apr. 30, Nashville [TN] [to] Mary [House] / George H[ouse]</title>
+               <author>House, George</author>
+               <date when="1850-04-30">April 30, 1850</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated April 30, 1850, from George House to his wife Mary in Nashville. He hopes that she has had a safe trip to Clarksville. He asks her if she has her life preserver blown up in case she has to jump overboard. He mentions the local news, including one death. He also writes that he will be involved in a Temperance ceremony during the  May Day festivities.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl225</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Temperance and religion</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, George W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl225a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1850-04-30">April 30th 1850</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Mary</salute>
+            </opener>
+            <p>I went up from the river to the "Telegraph Office" Yester day morning to notify <name type="person">Mr Barksdale</name>  that Yourself and "Lou", were underway but alas the Wires Were under the Water, and it was no go — So I consoled myself with the reflection that You would reach<name type="place"> Clarksville</name> at least an hour before sundown and that <name type="person">Mr Martin</name>, the clerk, would see you safely to Your quarters, where I trust You are in the full enjoyment of health and spirits</p>
+            <p>Did You blow up the "life preservers" and have them ready for an accident — Your Ma; said that they would not be of any service at least to You— that You would not jump into the water with one on; on any account Dont be afraid — should necessity require it — You will be perfectly safe with Your <choice>
+                  <orig>preserverer</orig>
+                  <reg>preserver</reg>
+               </choice> to get into the Water any where — I did not rest well last night, being very lonesome — and was up very early this morning, and off to market to deal in Beef, poultry, butter and eggs — We are well — I found out the Strangers now in our city — who we saw at <name type="place">Cincinnati</name> — <pb n="2" facs="sl225b.small.jpg"/> I attend old <name type="person">Mr Bateman</name>s funeral this evening — he died Yesterday about twelve oclock — <name type="person">Dr Edgar</name> preached his funeral by request of the old man, before his death —</p>
+            <p>We have nothing new in the city — Tomorrow — "if clear" — will be a gay day — as well as May-Day — I expect  to be out with the Temperance badge — to assist in dedicating a "Temple" — Tell Lou we shall look for her and You on Next Saturday — <name type="person">Mr Bourne</name> has not as Yet reached home — When he comes I shall be about ready to <choice>
+                  <orig>gett</orig>
+                  <reg>get</reg>
+               </choice> off — but it May be not until the 10th or 12th—   Here is the Conundrum that took the "album" last night </p>
+            <p>"Why is the <name type="place">Cumberland river</name> in its high Condition, like the <name type="place">California</name> Gold; Because it has a much Wider Circulation than when Confined within its banks"— Ask <name type="person">Mr Barksdale</name> what he thinks of it — I dont Know that I shall write to You again — unless some extraordinary occurrence should take place — I think it is hard that You should be absent the last ten days that I contemplate being at home for several months — However if it affords You pleasure in the trip I am Content — <pb n="3" facs="sl225c.small.jpg"/> Please remember Me very Kindly to all friends — I write in haste — with three persons talking to me — some about physic and some about one thing and some on other — <name type="person">Mr Fowler</name> and the Brooklyn is here will leave in the morning— Had a long talk with <name type="person">Mr Bostick</name> — <name type="person">Mr Zimmerman</name> has just sent for the life preservers you have — I have requested him to go to Clarksville — You must press Mr Barksdale into the Service to see you safely home — I was told by an officer of the Bank that they were expecting him —</p>
+            <p>Wishing Yourself and Lou— a very happy, pleasant and <choice>
+                  <orig>agreable</orig>
+                  <reg>agreeable</reg>
+               </choice> trip — and with my love and prayers I am</p>
+            <closer>
+               <salute>Your own</salute>
+               <signed>George</signed>
+               <add place="bottom of page">Make my regards to Mr Barksdale — and to <name type="person">Mr &amp; Mrs Bailey</name> —</add>
+               <salute>Yours forever</salute>
+               <signed>
+                  <choice>
+                     <abbr>H.</abbr>
+                     <expan>House</expan>
+                  </choice>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,232 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Nov. 13, Washington [to] Rev[erend] H. M. Cryer / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl045</idno>
+            <idno>OCLC: 50029880</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Nov. 13, Washington [to] Rev[erend] H. M. Cryer / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1836-11-13">November 13, 1836</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Andrew Jackson to the Reverend H. M. Cryer on November 13, 1836. In the letter, Jackson discusses the political atmosphere surrounding the 1836 Presidential election. He discusses the support of Martin Van Buren by a majority of the states. The Whigs running against Van Buren have, according to Jackson, told lies about him and are hypocrites.</note>
+               <note type="collection" anchored="true">Tennessee Historical Society</note>
+               <note type="box" anchored="true">Miscellaneous documents J1</note>
+               <note type="folder" anchored="true">58J</note>
+               <note type="document" anchored="true">sl045</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>United States -- Politics and government -- 1829-1837</term>
+               <term>Van Buren, Martin, 1782-1862</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl045a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1836-11-13">
+                        <choice>
+                           <abbr>Novbr</abbr>
+                           <expan>November</expan>
+                        </choice> 13th 1836</date> —</addrLine>
+               </address>
+               <salute>My dear friend.</salute>
+            </opener>
+            <p>I have the pleasure of acknowledging the receipt of your very kind letter of the 30th ultimo — <unclear>Situated</unclear> as I now am it is truly grateful to receive a letter from an old friend. After noting its contents, &amp; perusing the various <choice>
+                  <orig>inclosures</orig>
+                  <reg>enclosures</reg>
+               </choice> &amp; noting them, I most heartily concur with you, that we live in days of personal &amp; political changes, and I must add of depraved morals — nothing but <choice>
+                  <orig>falshood</orig>
+                  <reg>falsehood</reg>
+               </choice> appears to be the <choice>
+                  <orig>wepons</orig>
+                  <reg>weapons</reg>
+               </choice> of our modern newborn White <choice>
+                  <orig>Whiggs</orig>
+                  <reg>Whigs</reg>
+               </choice> of <name type="place">Tennessee</name> in their late ⁁ <add place="supralinear">political</add> crusade — <name type="person">White</name>,  <name type="person">Bell</name>,<name type="person">Payton</name> ⁁ <add place="supralinear">
+                  <name type="person">Murry</name>
+               </add> &amp; <choice>
+                  <abbr>Co.</abbr>
+                  <expan>Company</expan>
+               </choice> appear to have abandoned truth, and now when the election is over, does not wish to be held <choice>
+                  <orig>accountible</orig>
+                  <reg>accountable</reg>
+               </choice> for the <choice>
+                  <orig>falshoods</orig>
+                  <reg>falsehoods</reg>
+               </choice>.</p>
+            <p>It is wonderful that <name type="person">Mr. Murry</name> should now wish to regain my confidence by <unclear>indravansing</unclear> to retract what he said of me in his abusive speeches — but either Mr Murry in his note to you, or his informant, has told a positive <choice>
+                  <orig>falshood</orig>
+                  <reg>falsehood</reg>
+               </choice> — there is no one, in truth, can say that I ever said you were present &amp; heard Mr Murrys speech — <pb n="2" facs="sl045b.small.jpg"/> but I have said, and said so to <name type="person">Mr Harris</name>, Mr Murrys brother in law, (as I think a fine &amp; good man) that <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Jones</name> of <name type="place">Franklin</name> told me in your presence, &amp; in the presence of several others, that he <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Jones was present &amp; heard Mr Murrys &amp; Mr Paytons speeches — that they were both abusive &amp; boisterous, and that Mr Murry has <del type="overstrike">said</del> called me, on his speech, an old dotard and led by others <choice>
+                  <abbr>&amp;c &amp;c</abbr>
+                  <expan>et cetera et cetera</expan>
+               </choice> — that he <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Jones &amp; some others had noted these speeches, and <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Jones had promised to furnish me with these ⁁ <add place="supralinear">notes</add> in due time. I have no idea that Mr Harris would misrepresent, but <name type="person">Mr Claibourn</name> has a confused mind, &amp; is said will shoot at times out of a long <unclear>hand</unclear> — I will see Mr Harris soon —</p>
+            <p>I thank you for the <choice>
+                  <orig>inclosures</orig>
+                  <reg>enclosures</reg>
+               </choice> — they add to the collection I have laid on file <unclear>should</unclear> I live to get home, a duty I owe to truth &amp; the morals of society will induce me to expose <name type="person">Judge White</name>, <name type="person">Mr Bell</name>, <name type="person">Mr Payton</name>, Mr Murry, and their <choice>
+                  <orig>falshoods</orig>
+                  <reg>falsehoods</reg>
+               </choice>, so that the moral part, <del type="overstrike">are</del> &amp; truth loving portion of the citizens <pb n="3" facs="sl045c.small.jpg"/> of Tennessee, may judge what credit can be reposed in those men, when they make assertions as to the acts &amp; doings of others — I now believe that Judge White has been acting the hypocrite in politics, all his life, and individually to me — that he is unprincipled &amp; vindictive I have full proof — that he will wilfully lie, his <name type="place">Knoxville</name> speech amply <choice>
+                  <orig>shews</orig>
+                  <reg>shows</reg>
+               </choice> — I can forgive ⁁ <add place="supralinear">&amp; will</add> but I never can forget <choice>
+                  <orig>hypocracy</orig>
+                  <reg>hypocrisy</reg>
+               </choice>, or the individual capable of it — There is no character I abhor more that the liar &amp; hypo <add place="supralinear">crit</add>
+            </p>
+            <p>
+               <name type="place">Pennsylvania</name>, <choice>
+                  <orig/>
+                  <reg>Maine</reg>
+               </choice>
+               <name type="place">New Hampshire</name>, <name type="place">Connecticut</name> — are all heard from &amp; all safe for <name type="person">Van Buren</name> — <name type="place">New York</name> &amp; <name type="place">Virginia</name>
+               <choice>
+                  <abbr>altho</abbr>
+                  <expan>although</expan>
+               </choice> not all parts heard from will give Van Buren large majorities — <name type="place">Ohio</name> as far as heard from the Van Buren &amp; <name type="person">
+                  <choice>
+                     <orig>Johnston</orig>
+                     <reg>Johnson</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <orig>tickett</orig>
+                  <reg>ticket</reg>
+               </choice> 1700 &amp; add a head but the result very <choice>
+                  <orig>doubtfull</orig>
+                  <reg>doubtful</reg>
+               </choice> — <choice>
+                  <orig/>
+                  <reg>New Jersey</reg>
+               </choice> votes on the 15th &amp; <name type="place">Rhode Island</name>, both thought to be sure — but the operation &amp; power of the Banks are <pb n="4" facs="sl045d.small.jpg"/> have been powerfully used in Pennsylvania</p>
+            <p>Strong; &amp; pray operate on <choice>
+                  <orig>New Jersy</orig>
+                  <reg>New Jersey</reg>
+               </choice>, <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice>, our friends have no doubt of sweep — we have strong hopes from <emph>all information</emph>  ⁁ <add place="supralinear">
+                  <choice>
+                     <abbr>recd</abbr>
+                     <expan>received</expan>
+                  </choice>
+               </add> — that <name type="place">Indiana</name>, <name type="place">
+                  <choice>
+                     <orig>Illanoise</orig>
+                     <reg>Illinois</reg>
+                  </choice>
+               </name>, <name type="place">Missouri</name>, <name type="place">
+                  <choice>
+                     <orig>Arkansa</orig>
+                     <reg>Arkansas</reg>
+                  </choice>
+               </name>, <name type="place">Mississippi</name>, <name type="place">Louisiana</name> &amp; <name type="place">Alabama</name> are certain for the <choice>
+                  <abbr>V</abbr>
+                  <expan>Van</expan>
+               </choice> Buren &amp; <choice>
+                  <orig>Johnston</orig>
+                  <reg>Johnson</reg>
+               </choice>
+               <choice>
+                  <orig>tickett</orig>
+                  <reg>ticket</reg>
+               </choice> — have strong hopes of both <name type="place">Georgia</name> &amp; <name type="place">North Carolina</name> — but the die is cast — the votes in the <unclear>ballotboxes</unclear>, <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> not known here. We have a right to believe that Pennsylvania has carried a small majority <del type="overstrike">of</del>  ⁁ <add place="supralinear">in</add> the convention — tomorrow will give us the result — the Electoral tickett <emph>sure</emph>.</p>
+            <p>
+               <name type="person">Major Donelson</name> is with ⁁ <add place="supralinear">us</add> but will have to leave me in a few days to join family at home — I am very busy preparing my <unclear>message</unclear> before he leaves &amp; must close, with my kind salutations to every <unclear>branch</unclear> of your family and a kiss to my dear little <name type="person">Rachel Jackson</name> &amp; my constant prayers for your prosperity here &amp; hereafter —</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yr</abbr>
+                     <expan>your</expan>
+                  </choice> friend</salute>
+               <signed>
+                  <emph>
+                     <name type="person">
+                        <emph>Andrew Jackson</emph>
+                     </name>
+                  </emph>
+               </signed>
+               <address>
+                  <addrLine>The <name type="person">
+                        <abbr>Revd</abbr> H. M. Cryer</name> —</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal Summons] 1794 May 29 [to] Samuel Newel: a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc089</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal Summons] 1794 May 29 [to] Samuel Newel</title>
+               <date when="1794-05-29">May 29, 1794</date>
+               <extent> 1p</extent>
+               <note type="summary" anchored="true">This document is a legal summons dated May 29, 1794. The summons requires a man named Samuel Newel to appear in court to declare what possessions of a man named Sollomon Marks he has in his possession.</note>
+               <note type="collection" anchored="true">Territory of the United States South of the River Ohio</note>
+               <note type="box" anchored="true">MS-1584</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc089</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Theft</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc089a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Western <choice>
+                           <orig>Teretory</orig>
+                           <reg>Territory</reg>
+                        </choice>
+                     </name>
+                     <name type="place">Knox County</name>
+                  </addrLine>
+               </address>
+            </opener>
+            <p> Summon <name type="person">Samuel Newel</name> to appear at the Court house in <name type="place">
+                  <choice>
+                     <orig>Knoxvill</orig>
+                     <reg>Knoxville</reg>
+                  </choice>
+               </name> on the first Monday of August Next as <choice>
+                  <orig/>
+                  <reg>garnisher</reg>
+               </choice>, to Declare What of the Estate of <name type="person">Sollomon Marks</name> he hath in his possession given Under my hand this <date when="1794-05-29">29th Day of May 1794</date>
+            </p>
+            <closer>
+               <signed>
+                  <unclear>
+                     <name type="person">
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> Carng</name>
+                     <figure>
+                        <figDesc>seal</figDesc>
+                     </figure>
+                  </unclear>
+               </signed>
+               <address>
+                  <addrLine>To Any sworn Officer to Execute</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

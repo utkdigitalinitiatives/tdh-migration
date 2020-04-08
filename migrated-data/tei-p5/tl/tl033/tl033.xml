@@ -1,0 +1,228 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 Feb. 14, Knoxville, [Tennessee, to] Hon[ora]ble
+			 Mr. W[illia]m Blount, [Washington D.C.] / J[ohn] Sevier : a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl033</idno>
+            <idno>OCLC: 47827787</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 Feb. 14, Knoxville, [Tennessee, to] Hon[ora]ble
+				Mr. W[illia]m Blount, [Washington D.C.] / J[ohn] Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-02-14"> February 14,1797</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written by Tennessee
+				Governor John Sevier (1796-1801, 1803-1809) to former governor William Blount
+				(1790-1796) in the US Congress, dated February 14, 1797. Sevier reported to
+				Blount that the Cherokees had killed two people and wounded one, in retaliation
+				for the murders of two Cherokees committed by Ned Mitchell and John Levingston.
+				Sevier also discussed reports of the possibility of a war with the French and
+				direct taxation, which may further excite the situation with the Native
+				American tribes.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl033</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Violence against</term>
+               <term>Cherokee Indians--Claims against</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee--Politics and government--to 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl033a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1797-02-14">14 February 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Yours of the 
+			 <date when="---03">3d.</date> ultimo by 
+			 <name type="person">Mr. Casey</name> came duly to Hand; I expect ere
+			 this reaches you Congress will Have risen, but as there is a probability that
+			 you May remain in 
+			 <name type="place">Philadelphia</name> sometime after the Session is
+			 over, I think it necessary to inform You that the indians have killed one
+			 person in 
+			 <name type="place">Powels Valley </name> and wounded another; also
+			 have killed one more on 
+			 <name type="place">
+                  <choice>
+                     <orig>harpeth</orig>
+                     <reg>Harpeth</reg>
+                  </choice> (Cumberland)
+				<choice>
+                     <orig>Jungction</orig>
+                     <reg>Junction</reg>
+                  </choice>
+               </name> that this has been done in
+			 retaliation for two indians said to be very inhumanly murdered by 
+			 <name type="person">Ned Mitchell</name> And 
+			 <name type="person">John <choice>
+                     <orig>Levistone</orig>
+                     <reg>Levingston</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <orig>some
+			 where</orig>
+                  <reg>somewhere</reg>
+               </choice> near unto the head of 
+			 <name type="place">Kentucky river</name>, I hope to have
+			 <del type="overstrike">there been</del> the matter shortly made up so as to
+		  restore peace and <pb n="2" facs="tl033b.small.jpg"/> harmony <del type="overstrike">restored</del>.
+		  The reports of a <del type="overstrike">likelihood</del> probability of a War
+		  with the 
+		  <name type="person">french</name>, and direct taxation seems to
+		  <del type="overstrike">
+                  <choice>
+                     <orig>exite</orig>
+                     <reg>excite</reg>
+                  </choice>
+               </del> Cause much Clamor,
+		  and <choice>
+                  <orig>exites</orig>
+                  <reg>excites</reg>
+               </choice>
+               <add place="supralinear">apparently
+		  much</add>
+               <del type="overstrike">general</del>
+               <add place="supralinear">in</add>dignation among many here, against the
+		  <del type="overstrike">administration</del>
+               <add place="supralinear">measures</add> of the <del type="overstrike">executive</del>
+               <name type="person">American</name> Government. 
+               </p>
+            <p>I have not wrote to the other members Expecting they will in all
+			 probability <del type="overstrike">have</del> leave 
+		  <name type="place">Philadelphia</name>, before this letter will arrive,
+		  which I hope will be Sufficient apology should it be otherwise</p>
+            <closer>
+               <salute>I have the honor to be  
+				<choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice> Sevier</name>
+               </signed>
+               <add place="left">a copy <choice>
+                     <sic>of a letter of a
+			 letter</sic>
+                     <corr>of a letter</corr>
+                  </choice>
+                  <choice>
+                     <orig>inclosed</orig>
+                     <reg>enclosed</reg>
+                  </choice>
+                  <lb/> which was sent to 
+			 <name type="person">Silas Dinsmore</name> agent
+                  </add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Honble</abbr>
+                           <expan>Honorable</expan>
+                        </choice> Mr. 
+					 <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> Blount</name>
+                  </addrLine>
+               </address>
+               <add place="bottom, right">Letter to <lb/>
+                  <name type="person">
+                     <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice> Mr <lb/>				Blount 
+                        </name>
+                  <lb/>
+                  <date when="1797-02-14">14th 
+				<choice>
+                        <abbr>Feby</abbr>
+                        <expan>February</expan>
+                     </choice> 97</date>
+                  <lb/> (<choice>
+                     <abbr>No.</abbr>
+                     <expan>Number</expan>
+                  </choice> 22) <hi rend="underlined">Recorded</hi>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

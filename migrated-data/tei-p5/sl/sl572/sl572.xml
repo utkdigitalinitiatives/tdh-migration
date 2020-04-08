@@ -1,0 +1,208 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl572">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1818 Feb. 15, Dixon Springs, Tennessee [to] Winchester and Cage, Cairo, Tennessee / William Martin   : a machine readable transcription of an image</title>
+            <author>Martin, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl572</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1818 Feb. 15, Dixon Springs, Tennessee [to] Winchester and Cage, Cairo, Tennessee / William Martin</title>
+               <author>Martin, William</author>
+               <date when="1818-02-15">February 15, 1818</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 15, 1818 from William Martin in Dixon Springs, Tennessee to Winchester &amp; Cage in Cairo, Tennessee. The letter covers several subjects including, importantly, remarks concerning a decision to send a branch of the United States bank to Nashville.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">8</note>
+               <note type="document" anchored="true">sl572</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>United States Bank (1816-1836)</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2009202801"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Martin, William, 1765-1846</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl572a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Bellview</addrLine>
+               </address>
+               <date>15th <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice> 1818</date>
+               <salute>Gentlemen</salute>
+            </opener>
+            <p>Your favor of the 6th <choice>
+                  <abbr>Inst</abbr>
+                  <expan>instant</expan>
+               </choice> by my son Brian, was <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> in due time, but was not answered by his return to <name>Cairo</name>, <choice>
+                  <orig>quiry</orig>
+                  <reg>query</reg>
+               </choice> to other &amp; <choice>
+                  <orig>prossiry</orig>
+                  <reg>possible</reg>
+               </choice> engagements.  I now avail myself of the <choice>
+                  <abbr>oppty</abbr>
+                  <expan>opportunity</expan>
+               </choice> to inform you, that the explanations given in that letter, respecting my son__  is satisfactory.  and I repeat my wish for him to continue in your service.  We hear that about 1200 <choice>
+                  <orig>Volunters</orig>
+                  <reg>Volunteers</reg>
+               </choice> appeared at <name>Fayettville</name>, for the purpose of proceeding to the south.  Their commander (<choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Hayns) declared, he knew not their destination.  we also hear, that a large force go from the <name>cherokees</name>__ on the same expedition.  That this force is intended to act <choice>
+                  <abbr>agst</abbr>
+                  <expan>against</expan>
+               </choice>
+               <name>Florida</name>, is <choice>
+                  <orig>inforced</orig>
+                  <reg>enforced</reg>
+               </choice> on the mind by a combination of circumstances, which with me leaves no doubt on the subject.</p>
+            <p>Our court of pleas &amp; quarter <unclear>sessions</unclear> is organized under the late act of assembly (members)  <name>Wilson Cage</name>__ <name>
+                  <choice>
+                     <abbr>Richd</abbr>
+                     <expan>Richard</expan>
+                  </choice> Alexander</name>__ <name>Patrick M Erhern</name>__ <name>William Haney</name>, &amp; <name>Branch Nunly</name>.  The three first named are good <choice>
+                  <abbr>assts</abbr>
+                  <expan>assistants</expan>
+               </choice>__  the others might have been <choice>
+                  <orig>lecttured</orig>
+                  <reg>lectured</reg>
+               </choice> However upon the whole, we have done pretty well, and I anticipate much good to result from it.  Hoping that any defeats which <unclear>experience</unclear> may discover in the system, will be provided for by the next <choice>
+                  <abbr>genl</abbr>
+                  <expan>general</expan>
+               </choice> assembly.  I am glad <pb n="2" facs="sl572b.small.jpg"/> that the directors of the <name>
+                  <choice>
+                     <abbr>U</abbr>
+                     <expan>United</expan>
+                  </choice> States</name> bank have determined to send a branch to <name>Nashville</name> The resolution of Our legislature to the contrary not withstanding.  I am also glad <unclear>that</unclear> that the people are well disposed to <choice>
+                  <orig>recieve</orig>
+                  <reg>receive</reg>
+               </choice> it.  Should this <unclear>inquir</unclear> the profits of the state banks.  What is that to you, or me, or the people <choice>
+                  <orig>gennerally</orig>
+                  <reg>generally</reg>
+               </choice> I say nothing provided a better is substituted__ and that it will be better, I believe now am prepared to deny.</p>
+            <p>a gentleman late from <name>Huntsville</name> say that,  at the late sales of public land there, it averaged $48 per acre  and the best not yet sold.  If this be true, it baffles a <gap agent="damage"/> conjecture.</p>
+            <p>Congress has at last discharged <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <name>John Anderson</name> from <choice>
+                  <orig>confinment</orig>
+                  <reg>confinement</reg>
+               </choice>, with a <choice>
+                  <orig>repremand</orig>
+                  <reg>reprimand</reg>
+               </choice>.  This mans tenacity opened a new and wide field for the display of congressional eloquence, &amp; learning__ and which has been well improved.  <choice>
+                  <orig>altho</orig>
+                  <reg>although</reg>
+               </choice> much time has on this subject been occupied, which might have been usefully employed in attending to the great <choice>
+                  <orig>concens</orig>
+                  <reg>concerns</reg>
+               </choice> of the nation, It may nevertheless be considered well spent, as it has probably settled that principle forever.</p>
+            <p>Our family are in health, hoping you &amp; yours are enjoying the like blessing.  I say blessings, because it may justly <add>be</add> ranked among the greatest which this state of <choice>
+                  <orig>existance</orig>
+                  <reg>existence</reg>
+               </choice> affords, and is necessary to <unclear>sustain</unclear> all the risk. without it, life is an unplea <pb n="3" facs="sl572c.small.jpg"/> sent &amp; <choice>
+                  <orig>undesireable</orig>
+                  <reg>undesirable</reg>
+               </choice> thing.</p>
+            <closer>With due respect &amp; high consideration I am gentlemen your most <choice>
+                  <abbr>obd Hol Sevt </abbr>
+                  <expan>obedient Honorable Servant</expan>
+               </choice>
+               <signed>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Martin</signed>
+               <add>
+                  <unclear>Major</unclear>
+                  <name>Winchester &amp; Cage</name>
+               </add>
+               <pb n="4" facs="sl572d.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Col.</abbr>
+                           <expan>Colonel</expan>
+                        </choice> William Martin</addrLine>
+                  </address>
+                  <date>15th <choice>
+                        <abbr>Fey</abbr>
+                        <expan>February</expan>
+                     </choice> 1818</date>
+                  <address>
+                     <addrLine>Dixon Spring Tn</addrLine>
+                  </address>
+                  <date>16th <choice>
+                        <abbr>Feby</abbr>
+                        <expan>February</expan>
+                     </choice> 1818</date>
+                  <address>
+                     <addrLine>
+                        <unclear>Major</unclear> Winchester &amp; Cage Cairo Tennessee</addrLine>
+                  </address> mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

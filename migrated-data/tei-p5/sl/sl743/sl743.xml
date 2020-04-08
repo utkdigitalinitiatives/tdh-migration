@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl743">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Circular] 1797 Mar. 8, Knoxville, Tennessee [to] Brigadair General &amp; Colonel / John Sevier : a machine readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl743</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Circular] 1797 Mar. 8, Knoxville, Tennessee [to] Brigadair General &amp; Colonel / John Sevier</title>
+               <author>Sevier, John </author>
+               <date when="1797-03-08">March 8, 1797</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a circular dated March 8, 1797 from governor John Sevier of Tennessee.  The purpose of the circular is to inform top level military officers that he has granted several temporary commissioners to volunteer companies of cavalry for the protection of the state.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl743</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Sevier, John, 1745-1815 Correspondence.</term>
+               <term>Tennessee. Governor (1796-1801 : Sevier)</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Author http://id.loc.gov/vocabulary/relators/aut">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl743a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <date>8th march 1797</date>
+               <add>(Circular)</add>
+               <salute>Dr. Sir</salute>
+            </opener>
+            <p>From the great defeats in the <name>north carolina</name> militia law, and that <add>the</add>  only code which seems <add>to be</add>    less for our guide, I have been induced to grant several <add>Temporary</add>   commissioners to volunteer companies  of Cavalry to act more <choice>
+                  <orig>efficationtly</orig>
+                  <reg>efficently</reg>
+               </choice>
+               <del type="overstrike"> for days</del>
+               <add>the</add>    protection of the State should it be invaded__ You will therefore please to notice and consider there companies as part of the cavalry <add>of your district</add>    Until the assembly or myself shall <choice>
+                  <orig>ether</orig>
+                  <reg>either</reg>
+               </choice>  way direct</p>
+            <closer>
+               <add>the <choice>
+                     <orig>Brigadr</orig>
+                     <reg>Brigadier</reg>
+                  </choice> Generals and Colonels of the cavalry__  <lb/>  I have the honor <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and et ceterea</expan>
+                  </choice> Signed</add>
+               <signed>
+                  <name>John Sevier</name>
+               </signed>
+               <pb n="2" facs="sl743b.small.jpg"/>
+               <add>Letter Circular <lb/> To <choice>
+                     <abbr>Bigr</abbr>
+                     <expan>Brigadier</expan>
+                  </choice> Generals <lb/>
+                  <choice>
+                     <abbr>Colos</abbr>
+                     <expan>Colonels</expan>
+                  </choice> of Calalry <lb/> March 1797_<lb/> Recorded</add>
+               <add>a copy sent to G. Caster <lb/> to <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>. Harrison <lb/>
+                  <choice>
+                     <abbr> Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> White <lb/> Col. McClelan</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

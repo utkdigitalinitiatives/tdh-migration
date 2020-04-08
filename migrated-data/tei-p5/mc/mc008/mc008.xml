@@ -1,0 +1,159 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 May 5, Talladega [Alabama] [to] J. Grantham &amp; C[harles] F. Welcker / Richard Grantham : a machine readable transcription of an image</title>
+            <author>Grantham, Richard</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc008</idno>
+            <idno>OCLC: 50442651</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 May 5, Talladega, [Alabama] [to] J. Grantham &amp; C[harles] F. Welcker / Richard Grantham</title>
+               <author>Grantham, Richard</author>
+               <date when="1835-05-05">May 5, 1835</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">The following document is a letter dated May 5, 1835,  written by Richard Grantham to Jonathan Grantham and Charles F. Welcker in Talladega, Alabama.  Richard requests some iron be sent to him for his blacksmith shop.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">1833</note>
+               <note type="document" anchored="true">mc008</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Blacksmiths</term>
+               <term>Iron</term>
+               <term>Tennessee</term>
+               <term>Alabama</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Grantham, Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc008a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Talladega</name>
+                     <date when="1835-05-05">May 5th 1835</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Brother</salute>
+            </opener>
+            <p>sir I want some Iron We are entirely out and it is Badly needed, <name type="person">Tucker</name> and myself are <choice>
+                  <orig>puting</orig>
+                  <reg>putting</reg>
+               </choice> up a Blacksmith shop and we Want a <choice>
+                  <orig>quanty</orig>
+                  <reg>quantity</reg>
+               </choice> of Iron, and all the Shops are out here I <choice>
+                  <orig>Bot</orig>
+                  <reg>Bought</reg>
+               </choice>
+               <del type="overstrike">Col.</del> Couls. Bacon  and has Sold out Bacon will do well.  Flour is <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> fast at Ten dollars, send Some Iron by the first <choice>
+                  <orig>Waggon</orig>
+                  <reg>Wagon</reg>
+               </choice> that <choice>
+                  <orig>halls</orig>
+                  <reg>hauls</reg>
+               </choice> for us I have sold Bacon at 12½ <choice>
+                  <abbr>cts</abbr>
+                  <expan>cents</expan>
+               </choice>
+            </p>
+            <p>all is well.  Show this to <name type="person">Welcker</name>
+               <name type="person">Carson</name> is in a powerful pet about his Iron for that horse Send all you Can for you Cant keep me Supplied</p>
+            <closer>
+               <salute>yours respectfully</salute>
+               <signed>
+                  <name type="person">Richard Grantham</name>
+               </signed>
+               <address>
+                  <addrLine>To <name type="person">J. Grantham</name>
+                  </addrLine>
+                  <addrLine>&amp;</addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>C</abbr>
+                           <expan>Charles</expan>
+                        </choice> F. <emph>Welcker</emph>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="mc008b.small.jpg"/>
+            <p>
+               <add place="top left">
+                  <unclear>Mrss?</unclear>
+               </add>
+               <address>
+                  <addrLine>J. Grantham</addrLine>
+                  <addrLine>or</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>C</abbr>
+                        <expan>Charles</expan>
+                     </choice> F. Welcker</addrLine>
+                  <addrLine>
+                     <unclear>Gunters</unclear>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

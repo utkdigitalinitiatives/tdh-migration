@@ -1,0 +1,124 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl166">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Military Commission] 1813 Sep. 10, Nashville, Tennessee, [for] Joseph Brown   : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl166</idno>
+            <idno>OCLC: 51110060</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Military Commission] 1813 Sep. 10, Nashville, Tennessee, [for] Joseph Brown </title>
+               <date when="1813-09-10">Sept. 10, 1813</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is the military commission dated Sept. 10, 1813 granting Joseph Brown the powers of Lieutenant Colonel Commandant of the 27th militia regiment of Tennessee. It is signed by Gov. Willie Blount.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">77-82</note>
+               <note type="document" anchored="true">sl166</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Militia</term>
+               <term>Tennessee</term>
+               <term>Brown, Joseph</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl166a.small.jpg"/>
+            <head>
+               <hi rend="b">State of <name type="place">Tennessee</name>
+               </hi> , <lb/>
+               <hi rend="b, sc">TO ALL WHO SHALL SEE THESE PRESENTS, <lb/>GREETING</hi> :</head>
+            <p>
+               <hi rend="b, sc">KNOW YE, THAT</hi> reposing special trust and confidence in the patriotism, valor, conduct and fidelity of  <add>
+                  <name type="person">Joseph Brown</name>
+               </add> of the <name type="place">county of <add>Maury</add>
+               </name>
+               <hi rend="b, sc">we do</hi> commission him <add>Lieutenant Colonel Commandant of the 27th</add> regiment of militia of this state; and do authorize and empower him to execute and fulfil the duties of <add>Colonel of</add> the said regiment, agreeable to law, a <hi rend="i">n</hi> d the rules and directions of military discipline <hi rend="i">To Have and to Hold</hi> the rank and command of <add>Colonel of</add> the said regiment, during good behavior with all the powers, privileges and emoluments there- <gap agent="damage"/> appertaining.</p>
+            <p>
+               <gap agent="damage"/> said <add>Joseph Brown</add> is hereby required <gap agent="damage"/> superior officers' lawful commands; and all officers and pri- <gap agent="damage"/> his command, are to be obedient to him as aforesaid.</p>
+            <closer>
+               <hi rend="sc, b">In testimony whereof</hi> ,  <hi rend="i">we have caused the Great Seal of the State to be hereunto affixed,</hi>
+               <hi rend="b, sc">Witness</hi>
+               <signed>
+                  <name type="person">Willie Blount</name>
+               </signed>
+               <hi rend="i">Esquire, our Governor and Commander in Chief, at</hi>
+               <hi rend="b, sc">
+                  <name type="place">Nashville</name>
+               </hi> the <date when="1813-09-10">
+                  <add>10th</add>  day of <add>September</add>
+               </date> in the <hi rend="b">XXXVII</hi> year of our <hi rend="b">Independence</hi> , and in the year one thousand eight hundred and <add>thirteen</add>
+               <hi rend="b, sc">By the Governor</hi> ,<signed>
+                  <emph>Willie Blount</emph>
+               </signed>
+               <signed>
+                  <choice>
+                     <abbr>W.</abbr>
+                     <expan>William</expan>
+                  </choice> Blount</signed>
+               <add place="under last signature">Secretary</add>
+               <pb n="2" facs="sl166b.small.jpg"/>
+               <add>I  Joseph Brown Do Solemnly Swear that I will support the Constitution of this state and also the Constitution of the <name type="place">United States</name> and that I will faithfully and Justly Execute the Office of Colonel in the twenty seventh Regiment of Militia of this state according to the best of my skill and Judgment So help me God</add>
+               <signed>
+                  <choice>
+                     <abbr>Jos,,</abbr>
+                     <expan>Joseph</expan>
+                  </choice> Brown</signed>
+               <add place="under signature">Subscribed and sworn to before me this <emph>
+                     <name type="person">Saml. Craig <unclear>No</unclear>
+                     </name>
+                  </emph>
+                  <date when="1813-09-14">14th. Sept. 1813</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

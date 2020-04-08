@@ -1,0 +1,107 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl616">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Military commission order] 1842 Apr. 11, Memphis, Tennessee [to] James Jones / J.C. McMackin : a machine readable transcription of an image</title>
+            <author> McMackin, J.C.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl616</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Military commission order] 1842 Apr. 11, Memphis, Tennessee [to] James Jones / J.C. McMackin</title>
+               <author>  McMackin, J.C.</author>
+               <date when="1842-04-11">April 11, 1842</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a response to a military commission from J.C. McMackin in Memphis, Tennessee to governor James Jones in Nashville.  McMackin requests the governor to commission and give the order for arms to be supplied to the 128th regiment volunteer company of troops he has raised.</note>
+               <note type="collection" anchored="true">Governor James Jones Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl616</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor (1841-1845 : Jones)</term>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">McMackin, J. C.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl616a.small.jpg"/>
+            <opener>
+               <add>To his Excellency <name>James C. Jones</name> Governor and Commander in Chief of the militia of the State of <name>Tennessee</name>__</add>
+            </opener>
+            <p>after having authorized the raising a volunteer company in the 128 <choice>
+                  <abbr>Reg</abbr>
+                  <expan>Regiment</expan>
+               </choice>__ J.M. in due form I have this day reviewed and received the same, under the denomination of the "Memphis Blues" </p>
+            <p>You will commission the same and give the order for their arms as provided by law.  The certificate enclosed will give you the names of the officers entitled to commissions__ Given under my hand and seal at <name>memphis</name> this <date>11th day of april 1842</date>
+            </p>
+            <closer>
+               <name>J.C. McMackin</name>
+               <add>C.C. 128 Reg. J.M.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

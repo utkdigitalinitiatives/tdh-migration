@@ -1,0 +1,211 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl279">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1834 Jun. 31 [to] Andrew J. Donelson, Washington City, D. C. / Geo. W. Martin   : a machine readable transcription of an image</title>
+            <author>Martin, Geo. W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl279</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1834 Jun. 31 [to] Andrew J. Donelson, Washington City, D. C. / Geo. W. Martin</title>
+               <author>Martin, Geo. W.</author>
+               <!-- dropping the @when on the following date; 1834-06-31 isn't a vaild ISO date -->
+               <date>June 31, 1834</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter from G. W. Martin to Andrew J. Donelson, dated June 31, 1834. Martin has been traveling around the south gaging people's opinions about the government. He writes that they are being misused by their politicians. Martin has many derogatory things to say about the prominent Mississippian politician George Poindexter. He also writes that the people are against the Bank of the U. S.</note>
+               <note type="collection" anchored="true">A. J. Donelson Papers </note>
+               <note type="box" anchored="true">I-D-3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl279</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mississippi</term>
+               <term>Letters</term>
+               <term>U. S. Bank</term>
+               <term>Poindexter, George, 1779-1853</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Martin, Geo. W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl279a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <unclear>Sruchomer</unclear>
+                     <date>
+                        <choice>
+                           <orig>June 31st.</orig>
+                           <reg>July 1st</reg>
+                        </choice> 1834</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir,</salute>
+            </opener>
+            <p>I am just returned from a journey  of some four to six hundred miles, passing through many of the most interesting country in the state and have had every <unclear>facility</unclear> of discovering the un biased if a liberal opinion of the people generally, and I am constrained here to aver there never has been a people more abused, more misrepresented both by their <choice>
+                  <orig>polititians</orig>
+                  <reg>politicians</reg>
+               </choice> particularly at <name type="place">Washington City</name>, as well by a hot headed set of self important would be great men whose views are supported by some half a dozen people <unclear> menings millers Bankers if of swelled head</unclear>
+            </p>
+            <p>But sir let me once and for all tell you these <name>Mississippians</name> with the above exceptions are <unclear>brave to the chosen </unclear> they are opposed to Bank <name>
+                  <choice>
+                     <abbr>U. S.</abbr>
+                     <expan>United States</expan>
+                  </choice>
+               </name> they are dis <pb n="2" facs="sl279b.small.jpg"/> gusted with <choice>
+                  <orig>allarmests</orig>
+                  <reg>alarmists</reg>
+               </choice> whom they set down <name>clay</name>
+               <name>calhoun</name> the leading <unclear>maj ?</unclear> they hesitate not in saying <name>
+                  <choice>
+                     <abbr>Jno.</abbr>
+                     <expan>John</expan>
+                  </choice> Black</name>`<unclear> has forfeted</unclear> his most solemn pledge, and as for  <unclear>Cage pose dever</unclear> they almost would seem to pity him they say he has been over reached by the master spirits and seem to be <choice>
+                  <orig>desposed</orig>
+                  <reg>disposed</reg>
+               </choice> to let pleasure carry or <choice>
+                  <orig>skorge</orig>
+                  <reg>scourge</reg>
+               </choice> him with <unclear>mipos</unclear> for the present, Knowing on what hobby he rode to Congress they have <unclear>a rod in ?</unclear> should he ever <unclear>presume to so want</unclear> himself again for their <choice>
+                  <orig>sufrage</orig>
+                  <reg>suffrage</reg>
+               </choice> ; and last but not least that Fungus <choice>
+                  <orig>car bunkle</orig>
+                  <reg>carbuncle</reg>
+               </choice>
+               <unclear>Hungry ever</unclear>  and Incubus <name>George Poindexter</name> of <unclear>surstun nerur</unclear> memory (on the <date>8th <choice>
+                     <abbr>Jany</abbr>
+                     <expan>January</expan>
+                  </choice> 1815</date>) whose bowels yearned <unclear>hediously</unclear> at the diabolical smell of sulfurous  gunpowder, <choice>
+                  <orig>whos</orig>
+                  <reg>whose</reg>
+               </choice> eyes blinked  at the rockets <choice>
+                  <orig>glowe</orig>
+                  <reg>glow</reg>
+               </choice> , while his <unclear>Kines</unclear> smote other on hearing the mighty cannon roar <pb n="3" facs="sl279c.small.jpg"/> and with the <choice>
+                  <orig>exeplory</orig>
+                  <reg>exemplory</reg>
+               </choice>
+               <unclear>above made</unclear> the Mississippians one and all say away with this vile slanderer of  both men and <choice>
+                  <orig>priciple</orig>
+                  <reg>principle</reg>
+               </choice> , tar &amp; feather is spanker of as suitable <unclear>appeal<choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and etcetera</expan>
+                  </choice>
+               </unclear>
+            </p>
+            <p>Again these people are true to <unclear>justise</unclear> &amp; principle <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> they are much abused not only on the mortification to have <choice>
+                  <orig>ther</orig>
+                  <reg>their</reg>
+               </choice> state misrepresented &amp; shown to the <unclear>D C</unclear> Bank they are also <unclear>nselhel on their private</unclear> feeling the best administration men in the state  <unclear>nearly recur a preble dream</unclear> or speak  in its support, while every  <add>Farm</add> town &amp; <choice>
+                  <orig>vilage</orig>
+                  <reg>village</reg>
+               </choice> teaming  with <choice>
+                  <orig>speaches</orig>
+                  <reg>speeches</reg>
+               </choice> on speaches &amp; pamphlet on pamphlet talking of revolution, war <choice>
+                  <orig>pestilen</orig>
+                  <reg>pestilence</reg>
+               </choice> &amp; pain , Bank <unclear>Eulayes</unclear>
+               <name>Jackson</name> Tyrany &amp;c &amp;c</p>
+            <p>I think it high time they who are so zealous should hear something on ther own side of the question, and if I am not mistaken  ther are many of the little post master in this <unclear>early</unclear>
+            </p>
+            <closer>
+               <salute>
+                  <unclear>your friend</unclear>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Geo</abbr>
+                        <expan>George</expan>
+                     </choice> W Martin</name>
+               </signed>
+               <pb n="4" facs="sl279d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <gap/>
+                  </addrLine>
+                  <addrLine> July <gap/>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>Andrew J Donelson</name>
+                     <choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Washington</addrLine>
+                  <addrLine>City <name>
+                        <choice>
+                           <abbr>D. C.</abbr>
+                           <expan>District of Columbia</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="up right margin">If you think any thing <unclear>herein worth </unclear> publicly you are at liberty to use it as you think fit <unclear>leave the name blank</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

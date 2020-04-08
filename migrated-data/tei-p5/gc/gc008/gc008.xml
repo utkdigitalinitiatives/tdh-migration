@@ -1,0 +1,256 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1818 Aug. 25, Plainfield, N.C. [to] James M. King, Rutherford County, Murfeesborough, Tennessee / Ann Eliza King  : a machine readable transcription of an image</title>
+            <author>King, Ann Eliza</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc008</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1818 Aug. 25, Plainfield, N.C. [to] James M. King, Rutherford County, Murfeesborough, Tennessee / Ann Eliza King</title>
+               <author>King, Ann Eliza</author>
+               <date when="1818-08-25"> August 25, 1818</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated August 25, 1818 from Ann Eliza King to her cousin James Moore King.  She wrote to tell him of a lady she has found for him to possibly marry.  In the letter she offers a detailed description of the young lady, and laments about James' wasted bachelor life.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1818</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">gc008</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, Ann Eliza</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc008a.small.jpg"/>
+            <opener>
+               <add place="upper right corner">From <name type="person">Ann Eliza King</name>, <lb/>
+                  <name type="place">Plainfield <choice>
+                        <abbr>N.C.</abbr>
+                        <expan>North Carolina</expan>
+                     </choice>
+                  </name>
+                  <lb/> 1818 <lb/> names mentioned in letter <lb/> Uncle<name type="person"> Henry King</name>
+                  <lb/>
+                  <name type="person"> '' Nathan King</name>
+                  <lb/>Aunt<name type="person"> Harmy King</name>
+                  <lb/> Cousin<name type="person"> Susan King</name>
+                  <lb/> marries <name type="person">Bryant Bass</name>
+               </add>
+               <lb/>
+               <add place="bottom of fold">Important</add>
+            </opener>
+            <opener>
+               <add place="bottom left of center">from mail</add>
+               <add place="top left of center">postmark</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. James M,, King </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Rutherford County</name>
+                  </addrLine>
+                  <addrLine>State of <name type="place">tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Murfreesborough</orig>
+                           <reg>Murfreesboro</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="gc008b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Plainfield</name>
+                  </addrLine>
+               </address>
+               <date>August 25th 1818</date>
+               <salute>Cousin <name type="person">James M,, King</name>
+               </salute>
+            </opener>
+            <p> When I last wrote you I <choice>
+                  <orig>immagined</orig>
+                  <reg>imagined</reg>
+               </choice> it <choice>
+                  <orig>wuld</orig>
+                  <reg>would</reg>
+               </choice> be the last time for I was certain you  have married and would of course neglect your correspondent I learn by your letter that you are still unmarried certainly you would not put me to the trouble to find you a <choice>
+                  <orig>fin</orig>
+                  <reg>fine</reg>
+               </choice> girl that I think would <choice>
+                  <orig>sute</orig>
+                  <reg>suit</reg>
+               </choice> you and not <choice>
+                  <orig>eaven</orig>
+                  <reg>even</reg>
+               </choice> come to take a peep at her I have searched <name type="place">jonson</name>
+               <name type="place">Sampson</name>
+               <name type="place">Duplin</name>
+               <name type="place">Harover</name>
+               <name type="place">Cumberland</name> and quite to <name type="place">Onslow</name> and to my utter mortification could not find one that I think would sute you I have since explored <name type="place">Wayne County</name>  and think I have found her I will give you a description of her and if you like it <del type="overstrike">you</del> must let me <choice>
+                  <orig>no</orig>
+                  <reg>know</reg>
+               </choice> and I will try to intercede for you Of wealth I will say nothing.  for that of course is not an object <choice>
+                  <sic>with with</sic>
+                  <corr>with</corr>
+               </choice> you Now for her person</p>
+            <p>She is <gap agent="damage"/>
+               <unclear>five</unclear> foot high; compact, blue eyes; dark hair; round face; tolerable thin lips, white <choice>
+                  <orig>teath</orig>
+                  <reg>teeth</reg>
+               </choice> , very even; quite a pleasant <choice>
+                  <orig>countinance</orig>
+                  <reg>countenance</reg>
+               </choice> ; small foot and hand; and a very handsome brown skin has a <choice>
+                  <orig>cosidderable</orig>
+                  <reg>considerable</reg>
+               </choice>
+               <choice>
+                  <orig>shean</orig>
+                  <reg>sheen</reg>
+               </choice> of good <choice>
+                  <orig>sence</orig>
+                  <reg>sense</reg>
+               </choice>
+               <pb n="3" facs="gc008c.small.jpg"/> dances admirably and <choice>
+                  <orig>leavs</orig>
+                  <reg>leaves</reg>
+               </choice> acquaintance better than any girl I <choice>
+                  <orig>allmost</orig>
+                  <reg>almost</reg>
+               </choice> even saw She has a great number of admirers and if you do not wish her spoiled with flattery make a hurry.</p>
+            <p>I <choice>
+                  <orig>imagin</orig>
+                  <reg>imagine</reg>
+               </choice> to myself that I see you seated in <choice>
+                  <orig>on</orig>
+                  <reg>one</reg>
+               </choice> corner of <name type="place">Batchelors Hall</name>
+               <choice>
+                  <orig>poring</orig>
+                  <reg>pouring</reg>
+               </choice> over some old moldy Book or sitting with your eye fixed on <choice>
+                  <orig>vacency</orig>
+                  <reg>vacancy</reg>
+               </choice> or with your <choice>
+                  <orig>hed</orig>
+                  <reg>head</reg>
+               </choice> on your hand making marks with your <choice>
+                  <orig>cain</orig>
+                  <reg>cane</reg>
+               </choice> and talking <choice>
+                  <orig>noncence</orig>
+                  <reg>nonsense</reg>
+               </choice> for the want of a wife to talk it for you.  You no enough of the women to no they are never out of idle chat and changes the subject of conversation as often as a nightingale does its notes</p>
+            <p>You do not no how it would grace your <choice>
+                  <orig>Courner</orig>
+                  <reg>corner</reg>
+               </choice> to have a handsome wife in it and not stay there <gap agent="damage"/> yourself like an Old Rat in a <unclear>dory</unclear> as some others of our relatives have.</p>
+            <p>What news I have is not very pleasant and therefore will refer it <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> I see you which I am in hopes will be very soon.  You desired me to let you no something of your friends here your relations the <name type="person">Moore</name>s are all in good health <emph>Uncle Henry</emph> and <emph>Nathan</emph>
+               <emph>Kings family</emph> have had some sickness <pb n="4" facs="gc008d.small.jpg"/>
+               <choice>
+                  <orig>lattenly</orig>
+                  <reg>lately</reg>
+               </choice> but have recovered the rest of your relations are generally well Mother is in a very low state of health and we expect to leave here in a few days for the <name type="place">Bladen Springs</name> Cousin<name type="person"> Ann Maria Rhodes</name> is married to <name>
+                  <choice>
+                     <abbr>Coln</abbr>
+                     <expan>colonel</expan>
+                  </choice> Ward</name> of <name type="place">Onslow</name> I had the honor to be bridesmaid and the pleasure of  <gap agent="damage"/> quite a pleasant trip</p>
+            <p>Cousin <gap agent="damage"/>
+               <emph>King</emph> was marr <gap agent="damage"/>
+               <unclear>ied a</unclear> few weeks ago to <choice>
+                  <abbr>mr</abbr>
+                  <expan>mister</expan>
+               </choice>
+               <emph>Bryand</emph>
+               <gap agent="damage"/>
+            </p>
+            <p>My letter <gap agent="damage"/> insensibly grown long I am actually ashamed of <gap agent="damage"/>  except Dear Cousin <del type="overstrike">my</del>
+               <choice>
+                  <orig>cince</orig>
+                  <reg>sincere</reg>
+               </choice> and ardent <gap agent="damage"/> for your <gap agent="damage"/>
+            </p>
+            <closer>
+               <signed>Ann Eliza K <gap/>
+                  <unclear>ing</unclear>
+               </signed>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> I have with <choice>
+                     <orig>regrete</orig>
+                     <reg>regret</reg>
+                  </choice> to <gap agent="damage"/> you of death of <emph>aunt Hamy</emph>
+                  <add place="supralinear">Hamy <emph>King</emph>
+                  </add>
+                  <gap agent="damage"/> yours <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>and etcetera</expan>
+                  </choice> A,, King</add>
+               <add place="bottom of page">Deaths of aunt Hamy King  she must the wife of Nathan or John</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tm001a">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bill : Appropriating a certain sum of money to defray the
+			 expense of holding a treaty with the Indians claiming lands in the State to
+			 Tennessee, 1798 Jan. 26 : a machine-readable transcription of an image</title>
+            <author>Senate and House of Representatives of the United States of
+			 America</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Amy Mays</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tm001</idno>
+            <idno>OCLC: 48165535</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Museum,
+				Nashville, Tennessee. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>A Bill : Appropriating a certain sum of money to defray the
+				expense of holding a treaty with the Indians claiming lands in the State to
+				Tennessee, 1798 Jan. 26</title>
+               <author>Senate and House of Representatives of the United States of
+				America</author>
+               <date when="1798-01-26">January 26, 1798</date>
+               <extent>1p</extent>
+               <note type="summary">This document is a bill enacted by the Senate
+				and the House of Representatives of the United States of America on January 26,
+				1798. In the bill, Congress allocates no more than 25,880.00 to be used to pay
+				all costs of any treaty or treaties held with the Indians that claim land in
+				the state of Tennessee. The bill also states that the 25,880.00 will be paid
+				out of money in the Treasury of the United States that is not appropriated
+				elsewhere.</note>
+               <note type="Repository"> The Tennessee State Museum, Nashville,
+				TN</note>
+               <note type="Collection"> Tennessee State Museum</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">n/a</note>
+               <note type="Document">tm001a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Indians of North America--Claims</term>
+               <term>Indians of North America--Government relations</term>
+               <term>Indians of North America--Treaties</term>
+               <term>United States. Congress. House. Appropriations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79006865"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">United States. Congress</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tm001a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <date when="1798-01-26">26th January, 1798,</date>
+               </dateline>
+               <hi rend="i">Read the first and second time, and committed to a Committee of
+			 the whole House, immediately.</hi>
+            </opener>
+            <p>
+               <hi rend="b">A Bill</hi>
+               <lb/> Appropriating a certain sum of money
+			 to defray the expense of holding a treaty with the Indians claiming lands in
+			 the state of 
+			 <name type="place">Tennessee</name>.
+               </p>
+            <p>1 <choice>
+                  <abbr>Sec.</abbr>
+                  <expan>Section</expan>
+               </choice> 1. <hi rend="i">Be it enacted by
+			 the Senate and House of Representatives of the <lb/> 2 
+			 <name type="place">United States of America</name>, in Congress
+			 assembled,
+                  </hi> That a sum not ex- <lb/> 3 ceeding twenty-five thousand, eight
+			 hundred and eighty dollars, be appro- <lb/> 4 priated to defray the expense of
+			 any treaty or treaties which the President <lb/> 5 of the 
+			 <name type="place">United States</name> may deem expedient to hold
+			 with the Indians claim- <lb/> 6 ing land in the state of 
+			 <name type="place">Tennessee</name>.
+                        
+                     
+                  
+               </p>
+            <p>1 <choice>
+                  <abbr>Sec.</abbr>
+                  <expan>Section</expan>
+               </choice> 2. <hi rend="i">And be it
+			 further enacted,</hi> That the sum aforesaid shall be paid <lb/> 2 out of any
+			 monies in the Treasury of the 
+			 <name type="place">United States</name> not otherwise ap- <lb/> 3
+			 propriated.
+                  
+               </p>
+         </div>
+      </body>
+   </text>
+</TEI>

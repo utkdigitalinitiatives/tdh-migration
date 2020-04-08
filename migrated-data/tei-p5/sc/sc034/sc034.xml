@@ -1,0 +1,139 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biographical Album of Tennessee Governors [Archibald
+			 Roane--1801-1803] / J. S. Jones : a machine-readable transcription of an
+			 image</title>
+            <author>Jones, J. S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc034</idno>
+            <idno>OCLC: 50395566</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Biographical Album of Tennessee Governors [Archibald
+				Roane--1801-1803] / J. S. Jones</title>
+               <author>Jones, J. S.</author>
+               <date when="1904">1904</date>
+               <extent>2p</extent>
+               <note type="summary">The Biographical Album of Tennessee Governors,
+				dated 1904, contains 31 plates, each featuring a Tennessee Governor's photo on
+				the front and biographical information on the back. This plate features
+				Archibald Roane, Tennessee's second state governor.</note>
+               <note type="Collection">Biographical Album of Tennessee
+				Governors</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">F435.J65</note>
+               <note type="Document">sc034</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Roane, Archibald 1759-1819</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Jones, J. S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc034a.small.jpg"/>
+            <p>
+               <figure>
+                  <head>Archibald Roane.-- 
+				  <date when="1801">1801</date>- 
+				  <date when="1803">1803 </date>[Photo]</head>
+               </figure>
+            </p>
+         </div>
+         <pb n="2" facs="sc034b.small.jpg"/>
+         <div subtype="1">
+            <p>
+               <name type="person">Archibald Roane</name>, second Governor of 
+			 <name type="place">Tennessee</name>, was born in 
+			 <name type="place">Pennsylvania</name>, 
+			 <date when="1760">1760</date>, and came to Tennessee in 
+			 <date when="1788">1788</date>. He was educated for the law and
+			 was a fine scholar.</p>
+            <p>He was admitted to the Tennessee bar at 
+			 <name type="place">Jonesboro</name> and 
+			 <name type="place">Greeneville</name>, 
+			 <date>1778</date>, and the same year he was
+			 appointed Attorney-General for the district of 
+			 <name type="place">Hamilton</name>. Was a member of the
+			 Constitutional Convention 
+			 <date when="1796">1796</date>. When the State was organized
+			 Roane was elected one of the Superior Judges for the State. 
+			 <date when="1801">1801</date>
+               <name type="person">John Sevier</name> retired from the Gonvernorship
+			 and Roane was elected without opposition. He gave offense to Sevier by casting
+			 his vote as Governor against him and for 
+			 <name type="person">Andrew Jackson</name> for Major-General, and at
+			 the next gubernatorial election Sevier defeated him overwhelmingly in spite of
+			 General Jackson's influence. The vote stood, Roane 4,923; Sevier, 6,480. Roane
+			 then retired from political life until 
+			 <date when="1815">1815</date>, when he was appointed one of
+			 the Supreme Judges of the State. This office he held until his death, which
+			 occurred in 
+			 <date when="1818">1818</date>.</p>
+            <p>He is said to have been a highly cultured gentleman, and to have had
+			 an aversion to the turmoils of the political life of his day. While he was
+			 Governor of Tennessee the State was laid off into three Congressional districts
+			 to-wit: 
+			 <name type="place">Washington</name>, Hamilton, and 
+			 <name type="place">Mero</name>. 
+			 <name type="place">Knoxville</name> was the capital of the State.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

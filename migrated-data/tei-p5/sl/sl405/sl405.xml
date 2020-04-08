@@ -1,0 +1,194 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl405">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 Sep. 10, Comargo, Mexico [to] William Fitzgerald, Paris, Tennessee / J.R. Hawkins: a machine readable transcription of an image</title>
+            <author>Hawkins, J.R.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl405</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1846 Sep. 10, Comargo, Mexico [to] William Fitzgerald, Paris, Tennessee / J.R. Hawkins</title>
+               <author>Hawkins, J.R.</author>
+               <date when="1846-09-10">Sept 10, 1846</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter to the Honorable William Fitzgerald from J.R. Hawkins, dated September 10, 1846. Hawkins writes about General Taylor moving his troops to take over Monterey. Hawkins believes that there will be more fighting than expected and that the troops from  Tennessee will be too sick to fight properly. He describes the Rivers Rio Grand and San Juan. Hawkins mentions an embarrassing incident where some of the men from his company deserted leading to an exaggerated an untrue story in a local paper. Hawkins requests that Fitzgerald  get the newspaper to print a retraction.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl405</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mexico</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>Military History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hawkins, J. R.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl405a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <unclear>
+                        <name>Comargo</name>
+                     </unclear>
+                     <date>
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> the 10th 1846</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>
+               <choice>
+                  <abbr>Hon</abbr>
+                  <expan>Honorable</expan>
+               </choice> sir although it is somewhat out of my usual course I cannot fore go the pleasure that it gives me to write you a few lines this morning but I can not promise to give you anything that will be of much interest__ on the 2 ultimo we broke up camp <name>Tennessee</name> opposite <unclear>burita</unclear> , and moved for this place where we arrived on the 6th on our arrival here I learned that <sic>that</sic>
+               <name>
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Taylor</name> with the first and second divisions had advanced upon <name>monterey</name> I understand that he designs halting at a small town about the half way ground &amp; there establish a depot from which he intends moving upon monterey where it is though by most persons there will be a fight; but as on all other questions I claim the right to think as I please &amp; my opinion is just the reverse of the prevailing one. But should there be a  battle fought I predict that the volunteers will have little or no chance to prove whether they would fight or not. The health of the volunteers so far as my information extends is desperate <add>ly</add> bad &amp; to give you some faint idea of it, it will only be necessary for me to inform you that out  of the twelve companies from middle <choice>
+                  <abbr>Ten</abbr>
+                  <expan>Tennessee</expan>
+               </choice> that mustered in to the service about  a thousand and forty men there could on the <unclear>4 or on</unclear>  fifth only be mustered about 489 the balance having either died of disease been discharged upon surgeon's certificate or were then on the sick list &amp; though you may imagine that I am wild when I say so I have no <choice>
+                  <orig>dout</orig>
+                  <reg>doubt</reg>
+               </choice> but at least one forth of the remainder if they should be hard pressed will fall by disease in 20 days the arms of all mexico <choice>
+                  <orig>coud</orig>
+                  <reg>could</reg>
+               </choice> not do us as much injury in a days fight <pb n="2" facs="sl405b.small.jpg"/> as the climate will in twenty The health of our regiment is not so bad as that of the first &amp; I suppose about two thirds  of the sick are from east Ten &amp; I will here remark that the companies from <name>Memphis</name> are in much better health  than any others there has been the rise of one hundred discharged. from it on the sick list &amp; it would be as well if as many more were__ I have no notion that they will die, but put them in motion for an hour and they are ready to faint with fatigue and men <choice>
+                  <orig>two</orig>
+                  <reg>too</reg>
+               </choice> that were at home as stout as any body. The weather for the last few days has been very warm and no rain since the <unclear>30th</unclear> which is remarkable I have seen no timber larger than a well grown peach tree, and none that is common to our country__ from the mouth of the rio grande to within about <add>
+                  <del type="overstrike">
+                     <unclear> I mean by after</unclear>
+                  </del>
+               </add> 50  miles, of this place, I mean by water for it can be that and not more than ten by islands, the country is generally overflowed but occasionally there is a bank 2 or three feet above water &amp; where the land has been cultivated it seems to produce well The water of the <name>Rio grande</name> is much like that of the mississippi &amp; that of the <name>sanjuan</name> upon which we are now encamped is cleaner but the <choice>
+                  <orig>tast</orig>
+                  <reg>taste</reg>
+               </choice> to me is not so good the town is about three miles from the mouth, boats run up with out difficulty, and to endeavor to describe it is out of the question, suffice it to say that it just about what a man would expect who was well acquainted with the mexicans__</p>
+            <p>It is  Known to you that at <name>New <choice>
+                     <orig>oleans</orig>
+                     <reg>orleans</reg>
+                  </choice>
+               </name> ten men from our company deserted__ and it is with mortification that I learn it  has been stated in the <name>Paris</name> Bee that immediately there after our whole company was placed under guard That statement is without foundation not founded in truth utterly and <choice>
+                  <orig>wholy</orig>
+                  <reg>wholly</reg>
+               </choice>
+               <pb n="3" facs="sl405c.small.jpg"/>  false &amp; I am surprised that any man who regarded his character for truth would have been so bold <add>&amp; base</add> as to publish such a falsehood perhaps it may have grown out of this circumstance the day before we <choice>
+                  <orig>lef</orig>
+                  <reg>left</reg>
+               </choice> late in the <choice>
+                  <orig>evning</orig>
+                  <reg>evning</reg>
+               </choice> a tow boat came down to an old house where we were encamped as we thought to take ours <del type="overstrike">and</del> The <name>Jackson'</name> company &amp; a company of Kentuckians who were camped with us on board the <name>Galveston</name> the two <choice>
+                  <orig>ten</orig>
+                  <reg>Tennesseans</reg>
+               </choice> went aboard with all their <choice>
+                  <orig>bagage</orig>
+                  <reg>baggage</reg>
+               </choice> the <unclear>
+                  <choice>
+                     <abbr>Ken</abbr>
+                     <expan>Kentuckians</expan>
+                  </choice>
+               </unclear> did not <choice>
+                  <sic>for for</sic>
+                  <corr>for</corr>
+               </choice> the reason that not more than half of them could be found when we were near the other bank it <add>was</add> discovered that the boat was trying to anchor there to await the Galveston which we were informed would not be along until <unclear>400</unclear> the next <choice>
+                  <orig>evning</orig>
+                  <reg>evening</reg>
+               </choice>_ <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> M Then <choice>
+                  <orig>orderd</orig>
+                  <reg>ordered</reg>
+               </choice> him ashore which he obeyed  instantly and we were landed in quite a pleasant place___ I understand that the <unclear>seal</unclear> has been <choice>
+                  <orig>coppied</orig>
+                  <reg>copied</reg>
+               </choice> into the Jackson rep &amp; in neither <unclear>paper</unclear> is the Jackson company mentioned why is that so why should we be selected out and made the object of such an article why should our friends at home be mortified in that way in our <choice>
+                  <orig>abscence</orig>
+                  <reg>absence</reg>
+               </choice> such a thing is out of the question</p>
+            <p>sir will you do me the kindness to call on the Editor of the Bee in my name to retract as that is the only way that justice can be done</p>
+            <p>A few lines from you would be very interesting here in the rain dust or sand direct your letters to comargo</p>
+            <closer>
+               <salute>I subscribe myself with high regard your most obedient <choice>
+                     <abbr>sevt</abbr>
+                     <expan>servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>
+                     <unclear>JR</unclear> Hawkins</name>
+               </signed>
+               <address>
+                  <addrLine>Hon <name>William Fitzgerald</name>
+                  </addrLine>
+               </address>
+               <pb n="4" facs="sl405d.small.jpg"/>
+               <add>Hon</add>
+               <address>
+                  <addrLine>William Fitzgerald</addrLine>
+                  <addrLine>Paris</addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

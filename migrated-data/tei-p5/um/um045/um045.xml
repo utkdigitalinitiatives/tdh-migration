@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Sept. 22,  Raleigh, [North Carolina] [to] D[octo]r W[illia]m Johnson / [Ethel Henry Porter] : a machine readable transcription of an image</title>
+            <author>Porter, Ethel Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um045</idno>
+            <idno>OCLC: 50286049</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[[Letter] 1836 Sept. 22,  Raleigh, [North Carolina] [to] D[octo]r W[illia]m Johnson / [Ethel Henry Porter]</title>
+               <author>Porter, Ethel Henry</author>
+               <date when="1836-09-22">September 22, 1836</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a letter to Doctor William Johnson from Ethel Henry Porter, dated September 22, 1836. In the letter, Porter informs Johnson of the way in which he will repay a monetary judgement Johnson has against Porter and another man.  Porter explains that the delay in payment is a result of not being able to obtain North Carolina or US currency.</note>
+               <note type="collection" anchored="true">Porter-Rice Family Letters MS 154 (letters 1830-1839)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um045</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Debt service</term>
+               <term>North Carolina</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Porter, Ethel Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um045a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Raleigh</name>
+                     <date when="1836-09-22">22 <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 1836</date>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Dr. Wm</abbr>
+                           <expan>Doctor William</expan>
+                        </choice> Johnson</name>
+                  </addrLine>
+               </address>
+               <salute> Sir</salute>
+            </opener>
+            <p>I have been informed by <name type="person">Mr Bisinger</name> of your having obtained a judgment against <name type="person">Mr Keon</name> &amp; myself and I have been trying to get money to send by <name type="person">Mr Orr</name> to <choice>
+                  <orig>sattisfy</orig>
+                  <reg>satisfy</reg>
+               </choice> that demand but It is impossible to get <name type="place">North Carolina</name> or <name type="place">United States</name> money here at this time, and not knowing what discount was made on <name type="place">Tennessee</name> money with you I have not sent it — My Object is to pay the money <choice>
+                  <orig>with out</orig>
+                  <reg>without</reg>
+               </choice> any more cost — and so soon as I can get in Exchange such money as will pass at par in your county I will send it — or I will deposit the amount in the <name type="place">Memphis</name> bank Subject to your Order and forward the Bank <choice>
+                  <orig>cirtificate</orig>
+                  <reg>certificate</reg>
+               </choice> to you, so that any person moving here could draw the amount at any <choice>
+                  <orig>thime</orig>
+                  <reg>time</reg>
+               </choice> — I wish you to write me immediately on <choice>
+                  <orig>recieving</orig>
+                  <reg>receiving</reg>
+               </choice> this and let me know if a deposit in the Memphis Bank will answer the purpose if not I will send the money in by the first safe conveyance in the mean <choice>
+                  <orig>thime</orig>
+                  <reg>time</reg>
+               </choice> I earnestly request that you will not have Mr Bisinger put to any Expense or Trouble</p>
+         </div>
+      </body>
+   </text>
+</TEI>

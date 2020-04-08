@@ -1,0 +1,121 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0285">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1802 Jul. 31, United States to Ransom Davis / Return J. Meigs  : a machine readable transcription of an image</title>
+            <author>Meigs, Return Jonathan</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0285</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1802 Jul. 31, United States to Ransom Davis / Return J. Meigs</title>
+               <author>Meigs, Return Jonathan</author>
+               <date when="1802-07-31">July 31, 1802</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a receipt for payment of three dollars and fifty cents to Ransom Davis for tobacco. Return J. Meigs, agent for the War Department in Tennessee made the payment on behalf of the United States.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0285</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0285a.small.jpg"/>
+            <p>The <name>United States</name>
+               <lb/> 1802 To <name>Ransom Davis</name>
+               <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Debtor</expan>
+               </choice>
+               <lb/> To four pounds tobacco for <choice>
+                  <orig>indiands</orig>
+                  <reg>indians</reg>
+               </choice> $1-00 <lb/>
+            </p>
+            <p>
+               <date>July 31st 1802</date>
+               <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice> of <choice>
+                  <abbr>Colo</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <name>Return J. Meigs</name> agent of war in <name>Tennessee</name> the sum of one Dollar in full of the above <choice>
+                  <abbr>a/c</abbr>
+                  <expan>account</expan>
+               </choice> against the United States.</p>
+            <closer>
+               <add>
+                  <choice>
+                     <abbr>Sigd</abbr>
+                     <expan>Signed</expan>
+                  </choice> Duplicates</add>
+               <signed>Ransom Davis</signed>
+               <pb n="2" facs="pa0285b.small.jpg"/>
+               <add>Ransom Davis <lb/> Receipts for <lb/> 1 Dollar_  <lb/>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 75</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

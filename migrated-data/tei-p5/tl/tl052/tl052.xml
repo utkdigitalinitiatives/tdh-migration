@@ -1,0 +1,192 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1799 June 24, Knoxville, [Tennessee, to] Cap[tain]
+			 Edm[un]d Butler / [John Sevier] : a machine-readable transcription of an
+			 image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl052</idno>
+            <idno>OCLC: 47832741</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1799 June 24, Knoxville, [Tennessee, to] Cap[tain]
+				Edm[un]d Butler / [John Sevier] : a machine-readable transcription of an
+				image</title>
+               <author>Sevier John</author>
+               <date when="1799-06-24">June 24, 1799</date>
+               <extent>2p</extent>
+               <note type="summary">This is a letter written by Governor John Sevier
+				(1796-1801, 1803-1809) to introduce Reverend Lyman Potter to Captain Edmund
+				Butler. Sevier explains that Mr. Potter has business in the Cherokee Nation to
+				discuss with Captain Butler.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">6</note>
+               <note type="Document">tl052</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Missions</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl052a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1799-06-24">24th June 1799</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>The 
+			 <name type="person">
+                  <choice>
+                     <abbr>Revd.</abbr>
+                     <expan>Reverend</expan>
+                  </choice>
+                  <add place="supralinear">Mr.</add> Lyman Potter,</name>
+               <add place="supralinear">
+                  <del type="overstrike">from</del> of the State of 
+			 <name type="place">Vermont</name>
+               </add>who will have the
+			 <choice>
+                  <orig>Honour</orig>
+                  <reg>Honor</reg>
+               </choice> of delivering you this letter, I
+			 <choice>
+                  <orig>begleave</orig>
+                  <reg>beg leave</reg>
+               </choice> to introduce to your notice and
+			 attention</p>
+            <p>
+               <name type="person">Mr. Potter</name>will communicate to you his
+			 business into the 
+			 <name type="place">Cherokee Nation</name>, and I have no doubt you
+			 will <choice>
+                  <orig>affoard</orig>
+                  <reg>afford</reg>
+               </choice> him every facility the Nature and
+			 importance of his business may require,</p>
+            <closer>
+               <salute>I have the honor to be  
+				<choice>
+                     <abbr>c</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Cap.
+						Edmd.</abbr>
+                           <expan>Captain Edmund</expan>
+                        </choice> Butler</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Cap. Edd.</abbr>
+                           <expan>Captain Edmund</expan>
+                        </choice>
+				  Butler</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1799-06-24">24 June 1799</date>
+                  </addrLine>
+                  <addrLine>By the 
+				<name type="person">
+                        <choice>
+                           <abbr>Revd.</abbr>
+                           <expan>Reverend William</expan>
+                        </choice> Mr.
+				  Potter</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>no.</abbr>
+                     <expan>number</expan>
+                  </choice> 20 <lb/> Copies of letters, requested <lb/> by the
+		  Governor to be <lb/> filed, but not to be <lb/> recorded, as they are <lb/> not
+		  official
+                           
+                        
+                     
+                  
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

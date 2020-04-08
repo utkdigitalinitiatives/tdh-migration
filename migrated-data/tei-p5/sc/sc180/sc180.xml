@@ -1,0 +1,110 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc180">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> : a machine readable transcription of an image</title>
+            <author/>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc180</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1837 Jul. 6, Clarksville, Tennessee [to] John Nitchie / Reverend C. Parish </title>
+               <author>Parish, Reverend C. </author>
+               <date when="1837-07-06">July 6, 1837</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a brief letter notifying John Nitchie of the formation of the Bible Society of Montgomery County, as an auxiliary chapter of the American Bible Society. The letter is signed by Reverend C. Parish, Reverend H. F. Beaumont, and John M. Heage.</note>
+               <note type="collection" anchored="true"/>
+               <note type="box" anchored="true"/>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc180</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Evangelistic Work</term>
+               <term>Letters</term>
+               <term>Tennessee -- History</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc180a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Clarksville July 6 1837</addrLine>
+               </address>
+               <address>
+                  <addrLine>To Mr John Nitchie Esq.</addrLine>
+               </address>
+               <salute>Dear Sir.</salute>
+            </opener>
+            <p>It gives me pleasure to report to you the Formation of Mongomery Bible Society (Ten) in the 17th of June last, under the direction of the <unclear>hon A. Beedslaw</unclear> Agent auxiliary to the Am Bible Soc of whose constitution the 1st 2d and 4th articles read as follows</p>
+            <p>1. This Society shall be called the Bible Society of Montgomery County (Ten) auxiliary to the Am Bible Society.</p>
+            <p>2. The sole object of this institution shall be to encouraGe a wider circulation of the Holy Scripture without note or comment</p>
+            <p>4. The funds of the Society after deducting incidental expences and supplying the wants of the Holy Scriptures within its own limits, shall be paid over at least once a year to the Treasurer of the Am Bible Soc to aid in furnishing the Scripture to the destitute in other places.</p>
+            <closer>
+               <salute>yours very <lb/> Resp</salute>
+               <signed>C Parish</signed>
+               <add>Rev H F Beaumont President <lb/> John M Heage Treas &amp; Deputy <lb/> Rev C Parish <unclear> Cor Rec Secy</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

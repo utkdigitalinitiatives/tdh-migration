@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0304">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Claim]  1816 Jul. 17, The United States to Nar,che,ah : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">pa0304</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Claim]  1816 Jul. 17, The United States to Nar,che,ah </title>
+               <date when="1816-07-17">July 17, 1816</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a spoliation claim from one Nar,che,ah, a Cherokee Indian who lost a hog and a cow to the United States Army in 1814.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Claims</term>
+               <term>Cherokee Indians</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0304a.small.jpg"/>
+            <p>
+               <table>
+                  <head>
+                     <name>Nar.che.ah</name> claims pay for his stock being Killed by <choice>
+                        <orig>waggoners</orig>
+                        <reg>wagoners</reg>
+                     </choice> in the <name>
+                        <choice>
+                           <abbr>U.</abbr>
+                           <expan>United</expan>
+                        </choice> States</name> army near Camp Ross in 1814. <choice>
+                        <abbr>viz.</abbr>
+                        <expan>videlicet</expan>
+                     </choice>
+                  </head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Hog worth</cell>
+                     <cell role="data" rows="1" cols="1">3,,00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <orig>Heiffer</orig>
+                           <reg>Heifer</reg>
+                        </choice> 2 years old worth</cell>
+                     <cell role="data" rows="1" cols="1">7,,00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$10,,00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+            </p>
+            <p>He found the hide of the Heiffer &amp; found the Heads of the Hog near where the waggoners encamped &amp; made their fire. this was on the return of the troops from the expedition the beginning of the year 1814. &amp; had never been entered <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> now___</p>
+            <closer>
+               <signed>
+                  <name>Nar.che.ah</name>
+                  <add>his mark <figure>
+                        <figDesc>x</figDesc>
+                     </figure>
+                  </add>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name>Cherokee</name> Agency</addrLine>
+                  <addrLine>
+                     <date>17th July 1816</date>
+                  </addrLine>
+               </address>
+               <add>
+                  <name>Lewis Ross</name>
+               </add>
+               <pb n="2" facs="pa0304b.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 9 <lb/> Nar, che, ah's <lb/> claim for <choice>
+                     <orig>spoleation</orig>
+                     <reg>spoliation</reg>
+                  </choice>
+                  <lb/> on his property by <lb/> Army waggoners in 1814___  <lb/>  ― <lb/> ― <lb/> $10..00  <lb/> ― <lb/> ― <lb/> entered 17th July <lb/>  __ 1816__ </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

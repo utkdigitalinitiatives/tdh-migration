@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl462">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1795 Mar. 13, Nashville [Territory South of the Ohio River, to David Henley, Knoxville, Territory South of the Ohio River] / J. W. Overton   : a machine readable transcription of an image</title>
+            <author>Overton, J.W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl462</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1795 Mar. 13, Nashville [Territory South of the Ohio River, to David Henley, Knoxville, Territory South of the Ohio River] / J. W. Overton</title>
+               <author>Overton, J.W.</author>
+               <date when="1795-03-13">March 13, 1795</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from John Overton dated March 13, 1795. It is most likely to David Henley who is an agent for the War Department.  Overton who is in charge of revenue, is writing to obtain the amount owed to the infantry and calvary. </note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl462</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Territory of the United States South of the River Ohio</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>Military</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Overton, John, 1766-1833</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl462.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>13th March 1795</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>When I set down to write you the first thought that occurs is that the repeated addresses will excite your surprise, but a confidence in your willingness to afford <choice>
+                  <orig>usefull</orig>
+                  <reg>useful</reg>
+               </choice> information suppresses the Idea in its conception</p>
+            <p>A few weeks ago I wrote you by <name>Mr Jackson</name> who has not started as yet, but I fear he has <unclear>mislaid</unclear> the letter, and the <choice>
+                  <orig>busyness</orig>
+                  <reg>business</reg>
+               </choice> to which it refers being of moment I write repeal</p>
+            <p>We are informed here that some <unclear>situation</unclear> has been <unclear>I</unclear> made by Congress in the pay of the Soldiers, but <choice>
+                  <orig>hav</orig>
+                  <reg>have</reg>
+               </choice> not been able  to learn with certainty the particulars__ I will therefore thank you to forward me by the earliest opportunity of an account of the charge both in the Cavalry and Infantry, which will be satisfactory__ If you hav the law by you, you will oblige me by forwarding it</p>
+            <p>I can not forbear expressing to you the lively sense of gratitude <del type="overstrike">of the paper</del>
+               <choice>
+                  <orig>intertained</orig>
+                  <reg>entertained</reg>
+               </choice> by the proper on account of your exertions in raising the pay of the Infantry, which was obviously tag law</p>
+            <closer>
+               <salute>I am with the <unclear>deep <choice>
+                        <abbr>res</abbr>
+                        <expan>respect</expan>
+                     </choice> your <choice>
+                        <abbr>obts</abbr>
+                        <expan>obedient servant</expan>
+                     </choice>
+                  </unclear>
+               </salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>John</expan>
+                     </choice>W Overton</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

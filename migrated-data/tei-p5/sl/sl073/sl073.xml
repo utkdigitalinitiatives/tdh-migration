@@ -1,0 +1,210 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Sep. 2, Batchelors [Bachelors] Hall Tenn[essee] [to] Mr. James L. Alexander / N. B. Hamilton : a machine readable transcription of an image</title>
+            <author>Hamilton, N. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl073</idno>
+            <idno>OCLC: 50133055</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Sep. 2, Batchelors [Bachelors] Hall Tenn[essee] [to] Mr. James L. Alexander / N. B. Hamilton</title>
+               <author>Hamilton, N. B.</author>
+               <date when="1838-09-02">September 2, 1838</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by N. B. Hamilton to his cousin, James L. Alexander, on September 2, 1838. In the letter, Hamilton tells Alexander about a dinner he went to in Murfreesboro, Tennessee, where James K. Polk was giving a speech. He says that there were many Whigs at the dinner. His overall impression of Polk was lessened when he heard the speech and saw his actions with the Whigs at the dinner. Hamilton states that there are country lawyers that give better speeches than Polk.</note>
+               <note type="collection" anchored="true">Alexander Papers Correspondence</note>
+               <note type="box" anchored="true">VI-G-2</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl073</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Polk, James K.</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Hamilton, N. B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl073a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Batchelors</orig>
+                        <reg>Bachelors</reg>
+                     </choice> Hall <name type="place">
+                        <choice>
+                           <abbr>Tenn</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                     <date when="1838-09-02">
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 2nd 1838</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p>I once more trespass upon the rights of silence. I hope you <choice>
+                  <abbr>dont</abbr>
+                  <expan>do not</expan>
+               </choice> think it amiss to <choice>
+                  <orig>wright</orig>
+                  <reg>write</reg>
+               </choice> me a letter without first receiving one from me. I assure you it would not be <choice>
+                  <orig>atall</orig>
+                  <reg>at all</reg>
+               </choice> wrong or out of the way you would not <del type="overstrike">trep</del> trespass upon my private rights in the  past neither would you throw a burden upon my head and <choice>
+                  <orig>han wich</orig>
+                  <reg>hand which</reg>
+               </choice> I would feel <choice>
+                  <orig>atall</orig>
+                  <reg>at all</reg>
+               </choice> loath to answer. You all certainly must be a sort of say nothing set or I surely would hear from you —</p>
+            <p>
+               <name type="person">Mr <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> James K. <choice>
+                     <orig>Poke</orig>
+                     <reg>Polk</reg>
+                  </choice>
+               </name>
+               <choice>
+                  <abbr>Esqr</abbr>
+                  <expan>Esquire</expan>
+               </choice> — had a large dinner given to him in <name type="place">Murfreesboro</name> on Wednesday last. great many attended, say between one thousand &amp; fifteen hundred — pretty respectable <choice>
+                  <orig>croud</orig>
+                  <reg>crowd</reg>
+               </choice>. but the <choice>
+                  <orig>devel</orig>
+                  <reg>devil</reg>
+               </choice> of it is, about half were Whigs, he made a long and not very able <choice>
+                  <orig>speach</orig>
+                  <reg>speech</reg>
+               </choice>, and after dinner he got up in the open face of <choice>
+                  <orig>arthority</orig>
+                  <reg>authority</reg>
+               </choice> and <choice>
+                  <orig>publically</orig>
+                  <reg>publicly</reg>
+               </choice> — pronounced himself a candidate for <del type="overstrike">goven</del> Governor — <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> James K. <choice>
+                  <orig>Poke</orig>
+                  <reg>Polk</reg>
+               </choice> is not the man I thought him, from the account I have had of him. I expected to see some body more than common and I expected <pb n="2" facs="sl073b.small.jpg"/> to hear something great, but I was deceived in <choice>
+                  <orig>boath</orig>
+                  <reg>both</reg>
+               </choice>, he is just about such a looking man as old <name type="person">Uncle Jerry Stublefield</name>. and <choice>
+                  <orig>amost</orig>
+                  <reg>almost</reg>
+               </choice> any common country lawyer can make as good a <choice>
+                  <orig>speach</orig>
+                  <reg>speech</reg>
+               </choice> — camp meeting commences at little campground next <choice>
+                  <orig>weeak</orig>
+                  <reg>week</reg>
+               </choice>. I expect to attend if my bodily <choice>
+                  <orig>sistom</orig>
+                  <reg>system</reg>
+               </choice>, digestion and — secretion is not <choice>
+                  <orig>two</orig>
+                  <reg>too</reg>
+               </choice> much out of order. I expect to be at a wedding on the fifth of this month as <name type="person">
+                  <choice>
+                     <abbr>Maj.</abbr>
+                     <expan>Major</expan>
+                  </choice> Baurman</name> is to be a waiter. I think my chance tolerable good — Nothing at present my love to the <choice>
+                  <abbr>Dr.</abbr>
+                  <expan>Doctor</expan>
+               </choice> &amp; Cousin <name type="person">Mary</name> — Give my love to Mother — <name type="person">Pat</name> &amp; <name type="person">Jon</name> and accept the best wishes of a friend and relation —</p>
+            <closer>
+               <salute>Your Friend</salute>
+               <signed>
+                  <name type="person">
+                     <emph>N. B. Hamilton</emph>
+                  </name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <emph>To <name type="person">James L. Alexander</name>
+                     </emph>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sl073c.small.jpg"/>
+               <add place="above address">
+                  <figure>
+                     <figDesc>post mark for September 12</figDesc>
+                  </figure>10</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr James L. Alexander</name>
+                  </addrLine>
+                  <addrLine>{<name type="place"> Hartsville</name> —</addrLine>
+                  <addrLine>
+                     <emph>
+                        <name type="place">Tennessee</name>
+                     </emph>
+                  </addrLine>
+               </address>
+               <add place="supralinear">
+                  <emph>Mail</emph>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

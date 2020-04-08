@@ -1,0 +1,273 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um022">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Sept. 29, Jackson, Tennessee [to] Mary Jane Chester, Columbia, Ten[nessee] / Martha B. Chester : a machine readable transcription of an image</title>
+            <author>Chester, Martha B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um022</idno>
+            <idno>OCLC: 50274474</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Sept. 29, Jackson, Tennessee [to] Mary Jane Chester, Columbia, Ten[nessee] / Martha B. Chester</title>
+               <author>Chester, Martha B.</author>
+               <date when="1840-09-29">September 29, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter containing two parts, both written to Mary Jane Chester, on September 29, 1840. The first part of the letter is written by Mary Jane's younger sister Martha, who discusses events going on at home. The second part is written by her father, Robert, and discusses family events and her health. Robert writes that if she is still ill by their next correspondence, he is going to send for her to come home from school.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS 25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um022</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Martha B.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um022a.small.jpg"/>
+            <opener>
+               <add place="above address">18.3 <lb/>
+                  <hi rend="different hand, different ink">
+                     <name type="person">Martha B Chester</name> &amp; <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice> C Answered</hi>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Jane Chester</name>
+                  </addrLine>
+                  <addrLine>Care of <name type="person">S. P. Walker <choice>
+                           <abbr>Esq.</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="below address, upside down">
+                  <date when="1840-09-29">29th <choice>
+                        <abbr>Sep</abbr>
+                        <expan>September</expan>
+                     </choice> 1840</date>
+               </add>
+               <pb n="2" facs="um022b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson Tennessee</name>
+                     <date when="1840-09-29">
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice>
+                        <add place="supralinear">the</add> 29 <add place="below address">
+                           <add place="different hand, ink" rend="infralinear">[1840]</add>
+                        </add>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>my Dear Sister</salute>
+            </opener>
+            <p>It is nearly a <choice>
+                  <orig>mounth</orig>
+                  <reg>month</reg>
+               </choice> since you left home, it appears more like a year than a <choice>
+                  <orig>mounth</orig>
+                  <reg>month</reg>
+               </choice> we are all very busy <choice>
+                  <orig>prepareing</orig>
+                  <reg>preparing</reg>
+               </choice> for <name type="person">Uncle Jackson</name> he is <choice>
+                  <orig>expeted</orig>
+                  <reg>expected</reg>
+               </choice> here next <choice>
+                  <orig>thursday</orig>
+                  <reg>Thursday</reg>
+               </choice> or <choice>
+                  <orig>friday</orig>
+                  <reg>Friday</reg>
+               </choice>, how do you like <name type="place">Columbia</name> how do you come on at school, do you sleep in the first second or third story, mama is very anxious to know, mama thinks that you will be a very bad <choice>
+                  <orig>corrispondent</orig>
+                  <reg>correspondent</reg>
+               </choice>, if you <del type="overstrike">knew</del> knew how very anxious <del type="overstrike">to know</del> we are to <choice>
+                  <orig>here</orig>
+                  <reg>hear</reg>
+               </choice> from you. I am sure you would write to us,. O Sister how we <choice>
+                  <orig>pited</orig>
+                  <reg>pitied</reg>
+               </choice> you when you was sick we all <choice>
+                  <orig>cryed</orig>
+                  <reg>cried</reg>
+               </choice> about you we are mighty glad you are with such good friends <name type="person">uncle Robert</name>
+               <del type="overstrike">has</del> and all the little <name type="person">Patton's</name> and <name type="person">
+                  <choice>
+                     <orig>cusin</orig>
+                     <reg>cousin</reg>
+                  </choice> Jane</name> has gone to <name type="place">
+                  <choice>
+                     <orig>florida</orig>
+                     <reg>Florida</reg>
+                  </choice>
+               </name>. <name type="place">Elizabeth Hail</name> and <name type="person">
+                  <choice>
+                     <orig>Josafine</orig>
+                     <reg>Josephine</reg>
+                  </choice>
+               </name> has gone to <name type="place">
+                  <choice>
+                     <orig>New Oreals</orig>
+                     <reg>New Orleans</reg>
+                  </choice>
+               </name>. O, Sister brother <name type="person">
+                  <choice>
+                     <orig>sam</orig>
+                     <reg>Sam</reg>
+                  </choice>
+               </name> has got a tooth, I have no other news, O, Sister I have forgot to tell you that my <unclear>meachun</unclear> has moved to <name type="person">
+                  <choice>
+                     <orig>mr taylors</orig>
+                     <reg>Mr Taylor's</reg>
+                  </choice>
+               </name> house and my Day is keeping tavern, mama and pa and all of them send their love to you. sister Give my love to that little girl that sent her love to me and to <choice>
+                  <orig>cusin</orig>
+                  <reg>cousin</reg>
+               </choice>
+               <name type="person">Jane</name>
+               <choice>
+                  <orig>cusin</orig>
+                  <reg>cousin</reg>
+               </choice>
+               <name type="person">Elen</name> and little <unclear>Jane</unclear>. sister you forgot to put her name</p>
+            <closer>
+               <salute>Your affectionate sister</salute>
+               <signed>
+                  <name type="person">Martha B Chester</name>
+               </signed>
+            </closer>
+         </div>
+         <pb n="3" facs="um022c.small.jpg"/>
+         <div subtype="1" type="letter">
+            <opener>
+               <salute>My Dear Daughter</salute>
+            </opener>
+            <p>Mr. Walkers letter, has given us great distress about you</p>
+            <p>I hope you will not go back to school <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> you are entirely restored to health &amp; strength — indeed we have concluded that we will send for you &amp; bring you home. If you are not right well, when we hear again from you and let you remain here <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> the <unclear>Comanst</unclear> of the Winter Session. One Month now has passed of the present session and you are not yet able to go on — I write to day to <name type="person">Mr Walker</name> &amp; tell him our <unclear>delineation</unclear>
+            </p>
+            <p>We hope, my dear daughter, that you have had no more chills — but if they <choice>
+                  <orig>shoud</orig>
+                  <reg>should</reg>
+               </choice> continue to afflict you we will bring you home — your Brother John &amp; Aunt Narcissa will come for you —</p>
+            <p>The letter from your little sweet sister — made &amp; written by herself will give you the news — but since her letter was written your <choice>
+                  <orig>cosin</orig>
+                  <reg>cousin</reg>
+               </choice>
+               <name type="person">Martha</name> has presented her loving husband with a fine black headed boy he was born 30 <unclear/> — about one <choice>
+                  <orig>oclock</orig>
+                  <reg>o'clock</reg>
+               </choice> in the day time — We have been over to see him to day &amp; find him a fine fellow</p>
+            <p>Your Mother says she is nearly dead <pb n="4" facs="um022d.small.jpg"/> to see you and if I would let her she would start in the morning to see you</p>
+            <p>I trust in our next letter we will receive the <unclear>charing</unclear> news of your restoration to health —</p>
+            <p>Present us kindly &amp; <choice>
+                  <orig>affectionatly</orig>
+                  <reg>affectionately</reg>
+               </choice> to our kind friends &amp; relatives with whom you are, to <choice>
+                  <orig>evry</orig>
+                  <reg>every</reg>
+               </choice> one individually &amp; <choice>
+                  <orig>collectivly</orig>
+                  <reg>collectively</reg>
+               </choice> we owe them a debt of gratitude which we will ever acknowledge</p>
+            <p>May the great dispenser of all health restore you &amp; preserve you</p>
+            <closer>
+               <salute>your <choice>
+                     <abbr>afft</abbr>
+                     <expan>affectionate</expan>
+                  </choice> Father &amp; <choice>
+                     <abbr>Mo</abbr>
+                     <expan>Mother</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Robt</abbr>
+                        <expan>Robert</expan>
+                     </choice> J and Elizabeth Chester</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Jane Chester</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

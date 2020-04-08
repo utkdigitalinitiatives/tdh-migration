@@ -1,0 +1,143 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc210">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1846 Oct. 29, [near] Sparta, Tenn[essee, to] Margaret Stuart, Wythville, Virginia / Geo[rge] Stuart : a machine readable transcription of an image</title>
+            <author>Stuart, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc210</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1846 Oct. 29, [near] Sparta, Tenn[essee, to] Margaret Stuart, Wythville, Virginia / Geo[rge] Stuart</title>
+               <author> Stuart, George</author>
+               <date when="1846-10-29"> 
+			 October 29, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from George Stuart to his wife, Margaret, dated October 29, 1846. Stuart writes about his location and future travel plans through Tennessee. He mentions that he is in good health.</note>
+               <note type="collection" anchored="true">George Stuart Papers</note>
+               <note type="box" anchored="true">MS 1150</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc210</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Family communication</term>
+               <term>Travel</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Stuart, George</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc210a.small.jpg"/>
+            <opener>
+               <add>
+                  <date>October 29th 1846</date>
+               </add>
+               <salute>My Dear</salute>
+            </opener>
+            <p>This night and I am at <name>Miller</name>s on the mountain, within twenty two miles of <name>Sparta</name> Tomorrow I expect to go some 12 or 16 miles beyond Sparta on the <name>Lebanon</name> road and the next day which is Saturday to be within fifty, or less miles of <name>Nashville</name>__ I came to day from <unclear>
+                  <name>Eskceedges</name>
+               </unclear> 36 miles  met <name>Mr Sims</name> day before yesterday 10 miles this side of <name>Knoxville</name> I requested him to call over and tell you that he saw me_ it was raining at the time_ I must either write a good deal which would only be prospective or stop short as I have nothing definitive to say__ I entertained strong hopes if I could get to see <name>
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Moore</name> that I could make an exchange with him to my satisfaction I did see him, lent to no purpose__ My health good__ as usual ever ready to eat My love to the children__</p>
+            <closer>
+               <salute>  Sincerely yours</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Geo</abbr>
+                        <expan>George</expan>
+                     </choice> Stuart</name>
+               </signed>
+               <pb n="2" facs="sc210b.small.jpg"/>
+               <address>
+                  <addrLine>Rail Road <unclear>Trains</unclear>
+                     <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Oct</abbr>
+                           <expan>October</expan>
+                        </choice> 30th</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>Mrs <name>Margeret Stuart</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Wythville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Virginia</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

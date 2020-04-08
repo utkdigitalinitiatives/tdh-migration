@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl396">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1832 Dec. 20, Washington [D.C.] [to Elizabeth Fitzgerald] / W[illiam] Fitzgerald : a machine readable transcription of an image</title>
+            <author>Fitzgerald, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl396</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1832 Dec. 20, Washington [D.C.] [to Elizabeth Fitzgerald] / W[illiam] Fitzgerald</title>
+               <author>Fitzgerald, William</author>
+               <date when="1832-12-20">December 20, 1832</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from William Fitzgerald to his wife Elizabeth, dated December 20, 1832. William reports on the boarding accommodations for him and his fellow Congressmen. He writes of President Jackson's determination to keep the Union intact.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl396</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Washington (D.C.)</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Fitzgerald, William</term>
+               <term>Communication in the family</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fitzgerald, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl396a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Washington</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Decr</abbr>
+                           <expan>December</expan>
+                        </choice> 20 1832</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear</salute>
+            </opener>
+            <p>Yours of the 3r I have received I expected you would be <unclear>busied</unclear> by the workman it cannot be helped. We must bear these things patiently. I am greatly gratified to hear that your health is so good. my own is excellent. Adeline will receive a Book which <name>Mr. <unclear>Heanry</unclear>
+               </name> has sent her we still board together but not at the place we did last session. We board at a <choice>
+                  <orig>publick</orig>
+                  <reg>public</reg>
+               </choice> boarding house called Congress Hall &amp; we much better fixed than we were last session___</p>
+            <pb n="2" facs="sl396b.small.jpg"/>
+            <p>The affairs of the Country remain as they were at my last no violence yet that I have heard of.  the President is resolved at all <unclear>hugely well</unclear>  to preserve the Union the says he does not wish &amp; will not outlive the Union that he will perish or preserve it. Patriotic old man may he <unclear>ever</unclear> unite upon his efforts &amp; crown them with success- </p>
+            <p>We indeed as you say have abundant cause to be thankful to the Almighty disposer of events that separated us we have been during the prevalence of this Mighty pestilence which has just passed over the land that we  <pb n="3" facs="sl396c.small.jpg"/> all we yet spared. the time is fast passing off. I can almost imagine myself at Home in your arms again two months &amp; a half from this time will bring me back may he ever preserve you <choice>
+                  <orig>a</orig>
+                  <reg>and</reg>
+               </choice> our little ones is the prayer of </p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>yr</abbr>
+                     <expan>your</expan>
+                  </choice> Husband</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>W</abbr>
+                        <expan>William</expan>
+                     </choice> Fitzgerald</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

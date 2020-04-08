@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc202">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Writ] 1794 Oct., The United States to the Sheriff of Davidson County / [witnessed by Andrew Ewing] : a machine readable transcription of an image</title>
+            <author>Ewing, Andrew </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc202</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Writ] 1794 Oct. The United States to the Sheriff of Davidson County / [witnessed by Andrew Ewing]</title>
+               <author>Ewing, Andrew </author>
+               <date when="1794-10">October 1794</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a writ made in 1794 to the Sheriff of Davidson County, Tennessee to order Starling Armstrong to court to pay a judgement made against him by Bennett Searcy for two hundred pounds. </note>
+               <note type="collection" anchored="true">Writ for the Sheriff of Davidson County</note>
+               <note type="box" anchored="true">MS-1208</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc202</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Witness http://id.loc.gov/vocabulary/relators/wit">Ewing, Andrew</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc202a.small.jpg"/>
+            <head>
+               <name>United States </name>of <name>America </name>
+               <lb/> To the Sheriff of <name>Davidson County</name>
+               <lb/> Greeting</head>
+            <p>Whereas <name>Bennett Searcy</name> Esquire in our court of pleas and Quarter Sessions held for the county of Davidson October Sessions 1794 Recovered by Writ of Original Attachment Against <name>Starling Armstrong</name> the Sum of Two hundred pounds with the fees hereon Indorsed As to us Appears of Record And Whereas the said Attachment Was Levied at Instance of the Plaintiff on One thousand acres of Land lying on the North Side of <name>Cumberland River</name> including a large Pond called the Goose Pasture And Also on <choice>
+                  <orig>And Other</orig>
+                  <reg>another</reg>
+               </choice> tract of Land of Six hundred and forty Acres being on the same side of the River Near Heaton old Station. Which lands the court on Motion Decreed Should <add>be sold</add> by the Sheriff and the monies Arising thereby be Applied towards Satisfying of the Plaintiff's Judgment</p>
+            <p>These are therefore to command you the said Sheriff that you Expose to Publick Sale According to Law the before <choice>
+                  <orig>Discribed</orig>
+                  <reg>Described</reg>
+               </choice> Lands So Attached as <choice>
+                  <abbr>Aforesd</abbr>
+                  <expan>Aforesaid</expan>
+               </choice>. And the monies Arising thereby have you before the Justices of our court of pleas and Quarter Sessions to be held for the county of Davidson At the courthouse in the Town of Nashville on the Second Monday in January next Ready to Render to the said Bennett Searcy Esquire for his Recovery aforesd. Together with your Own fees for this your Service. fail not. Witness <name>Andrew Ewing </name>clerk of our said court of Davidson at office the Second monday in October One thousand Seven hundred and Ninety four and in the Nineteenth year of American Independence</p>
+            <closer>
+               <signed>
+                  <name>Andrew Ewing</name>
+               </signed>
+               <pb n="2" facs="sc202b.small.jpg"/>
+               <add>Searcy <lb/> vs <lb/> Armstrong } <choice>
+                     <abbr>Judgt</abbr>
+                     <expan>Judgement</expan>
+                  </choice>. <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice>. Sessions 1794 <lb/>£200</add>
+               <add>
+                  <figure>
+                     <figDesc>Miscellaneous calculations and unclear writing</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

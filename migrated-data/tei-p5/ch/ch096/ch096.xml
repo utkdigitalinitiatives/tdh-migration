@@ -1,0 +1,95 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch096">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Civilization of the Cherokees: [Excerpt] from an address of Honorable Edward Everett, representative in Congress from Massachusetts, delivered in the House of Representatives, 1830 May 19: a machine-readable transcription</title>
+            <author>Everett, Edward, 1794-1865</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch096</idno>
+            <idno>OCLC: 44908960</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Civilization of the Cherokees : [Excerpt] from an address of Honorable Edward Everett, representative in Congress from Massachusetts, delivered in the House of Representatives, 1830 May 19</title>
+               <author>Everett, Edward, 1794-1865</author>
+               <pubPlace>Washington</pubPlace>
+               <publisher>Gales and Seaton</publisher>
+               <date when="1830-05-19">May 19, 1830</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a typed excerpt from a speech delivered by Edward Everett, a Senator from Massachusetts, on the floor of the U.S. House of Representatives on May 19, 1830.  The speech was printed in the Congressional Debates, Vol. VI, pt. 2, and pertains to the proposed removal of the Southeastern Indians to a territory west of the Mississippi River.  The typed excerpt presented here is from a portion of Everett's speech in which he describes the current conditions of the Cherokee people by enumerating statistics relative to population and property.  This excerpt contains several minor variations from Everett's original wording.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">19</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">ch096</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Population</term>
+               <term>Cherokee Indians--Relocation</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n85158370"
+                        role="Contributor http://id.loc.gov/vocabulary/relators/ctb">Everett, Edward, 1794-1865</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch096.small.jpg"/>
+            <head>Civilization of the <name type="person">Cherokees</name>.<lb/>From an address of Honorable <name type="person">Edward Everett</name>, representative in Congress from <name type="place">Massachusetts</name>, delivered in the House of Representatives, <date when="1830-05-19">May 19, 1830</date>.
+               </head>
+            <p>The census of the <name>Cherokee Nation</name>, East, for the year <date when="1824">1824</date>, shows 14,283 <name type="person">Cherokee</name> citizens. They owned at this time 1,277 slaves.</p>
+            <p>There were 18 schools in the Nation, with an attendance of 314 scholars of both sexes.</p>
+            <p>They had 36 grist mills and 13 sawmills.</p>
+            <p>There were 762 looms and 2,486 spinning wheels.</p>
+            <p>They possessed 172 wagons and 2,923 plows.</p>
+            <p>There were in the Nation 7,683 horses, 22,531 cattle, 46,732 swine, 2,566 sheep, 430 goats.</p>
+            <p>There were 62 blacksmith shops, 9 stores, 2 <choice>
+                  <orig>tanyards</orig>
+                  <reg>tan-yards</reg>
+               </choice>, and one powder mill.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

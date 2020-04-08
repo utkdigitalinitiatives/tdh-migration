@@ -1,0 +1,175 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1799 June 24, [to] the warriors  chiefs of the
+			 Cherokee Nation / John Sevier : a machine-readable transcription of an
+			 image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl051</idno>
+            <idno>OCLC: 47832701</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1799 June 24, [to] The warriors  chiefs of the
+				Cherokee Nation / John Sevier : a machine-readable transcription of an
+				image</title>
+               <author>Sevier, John</author>
+               <date when="1799-06-24">June 24,1799</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter written to the
+				Warriors and Chiefs of the Cherokee Nation by Governor John Sevier (1796-1801,
+				1803-1809) on June 24, 1799. In the letter, Sevier tells the Cherokees that
+				Reverend Lyman Potter has offered his services to teach education, religion,
+				and the fine arts to their people. Sevier praises Potter and gives his
+				recommendation to the Cherokee of Potter's qualifications.</note>
+               <note type="Collection">Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">8</note>
+               <note type="Document">tl051</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cherokee Indians--Education</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Cherokee Indians--Missions</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl051a.small.jpg"/>
+            <opener>
+               <salute>Friends  Brothers</salute>
+            </opener>
+            <p> The <choice>
+                  <orig>bearor</orig>
+                  <reg>bearer</reg>
+               </choice> of this letter is the 
+			 <name type="person">Reverend <unclear>Mr.</unclear> Lyman
+				Potter</name>; a person distinguished for his piety, sobriety,  moral
+			 conduct. His business into your Nation is to enquire of you head Men and
+			 Warriors, whether or not, you Would wish to engage a suitable person to
+			 instruct and teach your young people in the useful branches of Education,
+			 Religion, and <add place="supralinear">the</add>
+               <del type="overstrike">Sciences</del>
+               <add place="supralinear">finer Arts</add>; 
+		  <name type="person">Mr. <choice>
+                     <orig>Potters</orig>
+                     <reg>Potter's</reg>
+                  </choice>
+               </name>
+		  designs and intentions Appear to be composed of <del type="overstrike">a</del>
+		  laudable <choice>
+                  <sic>and And</sic>
+                  <corr>and</corr>
+               </choice> Christian like <del type="overstrike">intention, </del> Virtues, and Should you incline to have
+		  your Nation instructed in the <choice>
+                  <orig>usefull</orig>
+                  <reg>useful</reg>
+               </choice> and necessary
+		  branches I have Mentioned to you, I beg you to believe <del type="overstrike">that</del> you will not find a more suitable person than 
+		  <name type="person">Mr. Potter</name>
+               <add place="supralinear">either
+		  to <del type="overstrike">influ</del> give instruction himself, or
+		  <del type="overstrike">send</del> furnish you with proper characters to do
+		  it</add>  I rejoice to See Such an offer made by So <choice>
+                  <orig>emminent</orig>
+                  <reg>eminent</reg>
+               </choice> a character of his Services to your people, and
+		  hope it may be attended with the utmost Success, and blessings <pb n="2" facs="tl051b.small.jpg"/> to
+		  your Country 
+               </p>
+            <closer>
+               <salute>I am your friend  brother</salute>
+               <add place="bottom, left, sideways to text">
+                  <address>
+                     <addrLine>The Warriors  <choice>
+                           <orig>Cheifs</orig>
+                           <reg>Chiefs</reg>
+                        </choice> of
+				  the 
+				  <name type="place">Cherokee Nation</name>
+                     </addrLine>
+                     <addrLine>
+                        <date when="1799-06-24">24 June 1799</date>
+                     </addrLine>
+                     <addrLine>by the 
+				  <name type="person">
+                           <choice>
+                              <abbr>Rev.</abbr>
+                              <expan>Reverend</expan>
+                           </choice>
+                           <unclear>Mr.</unclear> Potter</name>
+                     </addrLine>
+                  </address>
+                  <add place="below">
+                     <choice>
+                        <abbr>no.</abbr>
+                        <expan>number</expan>
+                     </choice> 21 <lb/> Recorded 
+			 <figure>
+                        <figDesc>miscellaneous doodling</figDesc>
+                     </figure>
+                  </add>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

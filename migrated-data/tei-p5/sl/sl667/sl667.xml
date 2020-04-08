@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl667">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Nov. 14, Nashville [Tennessee, to] H.J. Anderson / James K. Polk: a machine readable transcription of an image</title>
+            <author>Polk, James K. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl667</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1839 Nov. 14, Nashville [Tennessee, to] H.J. Anderson / James K. Polk</title>
+               <author> Polk, James K.</author>
+               <date when="1839-11-14"> 
+			 November 14, 1839</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to H. J. Anderson from Governor James K. Polk, dated November 14, 1839. Polk is writing to discuss a prisoner at the penitentiary that Anderson is the keeper of. Anderson wants the prisoner's sentence commuted.</note>
+               <note type="collection" anchored="true">Governor James K. Polk Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true"> sl667</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Polk, James K., 1795-1849</term>
+               <term>Penitentiaries</term>
+               <term>Law and legislation</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80145740"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Polk, James K. (James Knox), 1795-1849</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl667a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <add>(Copy)</add> Executive Department</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                     <date>14th <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> 1839</date>__</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>H. J. Anderson</name> agent  &amp;</addrLine>
+                  <addrLine>Keeper of the Penitentiary</addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your letter  of the 5th Instant stating that <unclear>Lewis D. St Ledger</unclear> a commit in the Penitentiary " has conducted himself with the utmost propriety"___ and recommending that his sentence be commuted, is not in strict conformity with act of 1835 <add>
+                  <choice>
+                     <abbr>ch</abbr>
+                     <expan>chapter</expan>
+                  </choice> 63</add>
+               <choice>
+                  <abbr>sec.</abbr>
+                  <expan>section</expan>
+               </choice> 4. If you are notified (conforming to the language of the law) to certify that the conduct of the prisoner has been exemplary and <unclear>unexceptionable</unclear>", during the whole period of his confinement, and feel it to be proper to make such a certificate I will promptly consider of his case._</p>
+            <closer>
+               <salute>I am Very Respectfully <lb/> Your <choice>
+                     <abbr>obt srt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>James K Polk</name>
+               </signed>
+               <pb n="2" facs="sl667b.small.jpg"/>
+               <add>(Copy)  <lb/> Letter to the Keeper <lb/> of the Penitentiary <lb/>
+                  <unclear>
+                     <name>Lewis D. St. Ledger's</name>
+                  </unclear>
+                  <lb/> case <lb/> Nov 14th 1839.__</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

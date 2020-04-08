@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc212">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Receipt] 1797 Mar. 26, Knoxville [Tennessee, to] Samuel Hodgdon, Military Commissary, Philadelphia [Pennsylvania] / [signed by] Solomon Moor [and] John Kelly : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc212</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Receipt] 1797 Mar. 26, Knoxville [Tennessee, to] Samuel Hodgdon, Military Commissary, Philadelphia [Pennsylvania] / [signed by] Solomon Moor [and] John Kelly</title>
+               <date when="1797-03-26"> 
+			 March 26, 1797</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a receipt signed  by Solomon Moor and John Kelly, dated March 26, 1797. Moor and Kelly have received two hundred dollars from Agent David Henley of the War Department to pay for the shipping from Philadelphia to Knoxville of some gifts to local Natives.</note>
+               <note type="collection" anchored="true">Solomon Moor Papers</note>
+               <note type="box" anchored="true">MS 2036</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc212</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Receipts</term>
+               <term>Indians of North America -- Government relations</term>
+               <term>Henley, David, 1749-1823</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc212a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <choice>
+                        <abbr>th</abbr>
+                        <expan>the</expan>
+                     </choice>
+                     <date>26 March 1797</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>Received of <name>David Henley</name>
+               <choice>
+                  <abbr>Agt</abbr>
+                  <expan>Agent</expan>
+               </choice> War two hundred dollars in advance for to pay the <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> of hauling the <name>Creek</name>s <name>Chickasaw</name>s and <name>Cherokee</name> presents from <name>Philadelphia</name> to Knoxville, for which we are to account to <name>Samuel Hodgdon</name> esquire Commissary military Stores at Philadelphia __ Having signed triplicates hereof___</p>
+            <closer>
+               <signed>
+                  <name>Solomon Moor</name>
+               </signed>
+               <signed>
+                  <name>John Kelly</name>
+               </signed>
+               <pb n="2" facs="sc212b.small.jpg"/>
+               <add>A 25 <lb/>
+                  <gap/> lomon Moor <lb/> &amp; <lb/> John Kelly <lb/>
+                  <unclear>Rec <lb/> Dr</unclear> 200</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

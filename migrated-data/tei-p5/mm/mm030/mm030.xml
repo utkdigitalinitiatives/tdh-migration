@@ -1,0 +1,113 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mm030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Photograph of mid-18th century European manufactured iron hoe,
+			 Chota] / [by David Stansberry] : a machine-readable transcription</title>
+            <author>Stansberry, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Catherine Michelle Love</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Tara Hottenstein</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. 3k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>mm030</idno>
+            <idno>OCLC: 45090855</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Museum, University of
+				Tennessee, Knoxville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Photograph of mid-18th century European manufactured iron
+				hoe, Chota] / [by David Stansberry]</title>
+               <author>Stansberry, David</author>
+               <date/>
+               <extent>1p</extent>
+               <note type="summary">This photograph is of a European manufactured
+				iron hoe head traded to the Cherokees in the mid-18th century. It was recovered
+				by the University of Tennessee during an excavation of the Overhill Cherokee
+				village of Chota. Chota was recognized by Europeans as well as other Indians
+				for its powerful economic influence and was regarded as the capital of the
+				Cherokee nation. The Cherokees kept small vegetable plots near their homes as
+				well as maintained large communal agricultural fields of beans, corn, and
+				squash. Excavations of Chota and other Overhill villages were conducted by the
+				University of Tennessee between 1967 and 1983 as part of the Tellico
+				Archaeological Project in anticipation of the flooding of the Lower Little
+				Tennessee River by the Tellico Dam Reservoir. The excavations were conducted
+				under contract with the National Park Service and the Tennessee Valley
+				Authority (TVA). Principal investigator, Alfred K. Guthe. Field Director, J.
+				Worth Greene.</note>
+               <note type="collection">Frank H. McClung Museum Photographic
+				Collection</note>
+               <note type="document">mm030</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians Antiquities</term>
+               <term>Salvage archaeology</term>
+               <term>Historic site</term>
+               <term>Hoes</term>
+               <term>Chota Site (Tenn.)</term>
+               <term>
+                  <name role="Photographer http://id.loc.gov/vocabulary/relators/pht">Stansberry, David</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mm030.small.jpg"/>
+            <p>
+               <figure>
+                  <figDesc>European manufactured iron hoe, traded to the Cherokee,
+				  mid-18th century, recovered by the University of Tennessee excavations at
+				  Chota, 1967-1974. Photo by David Stansberry. This information was provided by
+				  the Frank H. McClung Museum.</figDesc>
+               </figure>
+               <note>This document consists of one image only.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

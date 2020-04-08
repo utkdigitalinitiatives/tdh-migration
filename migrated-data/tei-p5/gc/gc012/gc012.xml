@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1830 Jul. 21, Alexandria Louisiana [to] Walter Moore, Murfreesboro, Tennessee / Thomas Moore : a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc012</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1830 Jul. 21, Alexandria Louisiana [to] Walter Moore, Murfreesboro, Tennessee / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1830-07-21">July 21, 1830</date>
+               <extent> p4</extent>
+               <note type="summary" anchored="true">Letter written on July 21, 1830 from Thomas Moore to his brother Walter Moore.  The letter addresses issues such as the conditions of crops, sickness and his plans for marriage.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1830</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">gc012</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc012a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <add place="above address"> From<name type="person">
+                           <choice>
+                              <abbr>Gov. Thos. O. Moor.</abbr>
+                              <expan>GovenorThomas O. Moore</expan>
+                           </choice>
+                        </name>
+                     </add>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Walter O Moore</name>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Murfreesboro</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">Mail }</add>
+               <pb n="2" facs="gc012b.small.jpg"/>
+               <name type="place">Alexandria <choice>
+                     <abbr>(La)</abbr>
+                     <expan>Louisiana</expan>
+                  </choice>
+               </name>
+               <date when="1830-07-21">21st july 1830</date>
+            </opener>
+            <salute>Dear Brother</salute>
+            <p>I have deferred writing to you for some time to know to a certainty  whether uncle would return home this summer or not, have just <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice>  a letter from him stating his determination to remain at the  <name type="place">white sulphur springs</name> this season with a view of getting his health reinstated if possible, as it was much benefitted by his previous visit, in consequence of his absence I have not been able to send your money but he says he will make immediate arrangements for me to get it at <name type="place">
+                  <choice>
+                     <abbr>N.</abbr>
+                     <expan>New</expan>
+                  </choice> Orleans</name> which as soon as procured (if you so order it) will remit it by mail immediately as there is no other mode of <choice>
+                  <orig>convey ance</orig>
+                  <reg>conveyance</reg>
+               </choice> from this place that I consider safe, it is a  scarce article here and our people are all more or less distressed by the shortness of their crops last year (write me immediately on the subject) <pb n="3" facs="gc012c.small.jpg"/> I saw <name type="person">Doctor H. <unclear>Heahus</unclear>
+               </name> the other day he is now on a visit to uncle Henry's and on his return I shall go with him to <name type="place">
+                  <choice>
+                     <orig>Natchitochy</orig>
+                     <reg>Natchitoches</reg>
+                  </choice>
+               </name>&amp; probably <name type="place">
+                  <choice>
+                     <orig>Ouachitta</orig>
+                     <reg>Ouachita</reg>
+                  </choice>
+               </name> to where the Judge resides he afforded me great satisfaction by the news brought from the old dominion they are all well and getting on as usual I have had no letter from there for several months.</p>
+            <p>Crops are fine, we have never had better prospects.   though <choice>
+                  <orig>to day</orig>
+                  <reg>today</reg>
+               </choice> is the first rain we have had for six    weeks, we cant boast of a healthy summer as their has been considerable sickness.  Cousin Tom &amp; John have both been a little sick but have recovered I am in good health &amp; spirits and shall be married about the middle of October to <name type="person">Miss Bathia I. Leonard</name> a <choice>
+                  <orig>creolle</orig>
+                  <reg>creole</reg>
+               </choice> of the county she has just returned from <name type="place">Kentucky</name> and I <choice>
+                  <orig>assur</orig>
+                  <reg>assure</reg>
+               </choice> a you a fine girl, quite small fifteen years old, black hair and eyes and quite intelligent, shall endeavor to alter my course of living which has been rather wild than otherwise <pb n="4" facs="gc012d.small.jpg"/> write me the news from <name type="place">Carolina</name> &amp; <name type="place">Alabama</name>   and anything that will be the least interesting if I can possibly leave the county I shall do so next summer for <choice>
+                  <abbr>Tenn.</abbr>
+                  <expan>Tennessee</expan>
+               </choice> and Carolina though shall make no promises <gap agent="damage"/> I have so often failed, <choice>
+                  <orig>requst</orig>
+                  <reg>request</reg>
+               </choice> cousin James to write me, My love to him &amp; family to aunt Butter your wife &amp; self and with the rest of my friends  accept the best wishes of    </p>
+            <closer>
+               <choice>
+                  <abbr>yr. affte.</abbr>
+                  <expan>your affectionate</expan>
+               </choice> Brother <signed>Tho. O. M <gap agent="damage"/>
+                  <unclear>Moore</unclear>
+               </signed>
+               <add place="bottom of page">If I get married and can leave Louisiana it is probable my wife will spend the summer with you as the road is too long for her to travel to Carolina    yr. brother T.O.M</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

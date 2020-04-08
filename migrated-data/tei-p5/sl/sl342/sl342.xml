@@ -1,0 +1,160 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl342">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1839 Mar. 7, Cumberland County, V[irgini]a [to] Mr. A[dam] Fergusson, Carthage, Tennessee /  William Walker : a machine readable transcription of an image</title>
+            <author>Walker, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl342</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1839 Mar. 7, Cumberland County, V[irgini]a [to] Mr. A[dam] Fergusson, Carthage, Tennessee /  William Walker</title>
+               <author>Walker, William</author>
+               <date when="1839-03-07">March 7, 1839</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated March 7, 1839, from William Walker in Cumberland County, Virginia to Adam Fergusson in Carthage, TN.  Walker, a Whig,  writes about political matters, and he apparently was not aware that Fergusson was an active democrat for he expresses his disapproval for democrats such as Van Buren and Polk.  He also includes a short biography about himself, in which he relates some of his experiences in the Revolutionary War, and he  mentions the monetary value of his slaves.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b5</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl342</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Walker, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl342a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Cumberland County <choice>
+                           <abbr>Va</abbr>
+                           <expan>Virginia</expan>
+                        </choice>
+                     </name>
+                     <date>March 7th 1839</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>Your letter of the <date>2nd <choice>
+                     <abbr>Decr.</abbr>
+                     <expan>December</expan>
+                  </choice> 1838</date> was not received until the 2nd <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> This delay was produced by its being sent to the Court House, where I have not been for the last five years, and by its falling into the hands of a <choice>
+                  <orig>Loco foco</orig>
+                  <reg>Locofoco</reg>
+               </choice> Post Master, who, although it was marked "PAID" was unwilling    to give it up until he was paid.  I expect some of <add>my</add> grand-sons will pull this sub-treasurer's nose.  Should you have any further correspondence with me, direct to "Raine's Tavern Cumberland Va" to which place I send every Wednesday and Saturday and get every thing brought for me by the mail PAID or not paid.  You will observe from the dates of the papers that I have lost no time in dispatching the business  since it came into my hands, and <add>I hope</add> I have done it to your <add>satisfaction</add>
+            </p>
+            <p>Here follows a short history of the old man's life.</p>
+            <p>I am one of the old <choice>
+                  <orig>Revolutioners</orig>
+                  <reg>Revolutionaries</reg>
+               </choice> of '76 and in the course of the War_ including skirmishes_ was in ten battles.  I was one of the forlorn hope who took the <name>Hessians</name> at <name>Trenton</name> on the <date>28th December 1776</date>. I am now making my 83rd year and have been a Baptist going on 54 years.  I have my coffin and my <choice>
+                  <orig>shrowding</orig>
+                  <reg>shrouding</reg>
+               </choice> clothes ready and am waiting for death as you would wait for a beloved friend, and can heartily join the apostle Paul in saying, "for me to live is Christ but to die is gain."  If there is any thing to <gap/> in this world <gap/>
+               <pb n="2" facs="sl342b.small.jpg"/> to see the milk that I helped to dra <gap/> of the pail.  Being an old soldier, I feel assured that I should be welcomed to a seat, at your 4th July celebration, were I in <name>Tennessee</name>; but, as I cannot be there I trust that some permanent whig (yourself, if you be such) will gratify me so far as to the present to the company, the two following toasts, from an old Revolutionary soldier of the Virginia line.</p>
+            <p>1st.  "Uncompromising hostility to <name>Van Buren</name>, and all the Expungers."</p>
+            <p>2nd.  I observe you are about to run <name>Polk</name> for Governor.  "I give my vote for him to be camp <unclear>cullyman</unclear> and let his occupation be_ to lead the corporal's dog to s__t."</p>
+            <p>You may also, _if you choose, present the following _ "<name>White</name>, <name>Bell</name>, <name>Bailie</name>
+               <name>Peyton</name> and the whole band of Tennessee Whigs_ They have made a glorious struggle in a trying hour, for which they have my warmest gratitude." </p>
+            <p>Please to present my compliments to my Brother's widow and family, and say to them, that our family <choice>
+                  <orig>connexions</orig>
+                  <reg>connections</reg>
+               </choice> are generally well_ that <name>James Blanton</name> has recently lost his oldest daughter, the wife of my grand-son <name>Anderson Walker</name>. Say also that I have, now living, twenty-five great grand children_ that the negros which I brought from your state, when there in   1820, (a man, his wife and four children) now number 18 and would sell now, in this state, for $15,000.</p>
+            <closer>
+               <salute>I am respectfully <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>et cetera</expan>
+                  </choice> yours</salute>
+               <signed>
+                  <name>William Walker</name>
+               </signed>
+               <pb n="3" facs="sl342c.small.jpg"/>
+               <gap/> clerk sent me word that I should be at no expense, in the transaction of your business, as you had sent him more than enough to pay fees &amp;c which he has still in his hands. <signed>
+                  <choice>
+                     <abbr>W. W.</abbr>
+                     <expan>William Walker</expan>
+                  </choice>
+               </signed>
+               <pb n="4" facs="sl342d.small.jpg"/>
+               <add>(W. W.) Double</add>
+               <address>
+                  <addrLine>Raine's Tavern Va.</addrLine>
+                  <addrLine>11 <choice>
+                        <abbr>Mar.</abbr>
+                        <expan>March</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>Mr <choice>
+                           <abbr>A.</abbr>
+                           <expan>Adam</expan>
+                        </choice> Fergusson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Carthage</name>
+                  </addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+               <add>(mail)</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0223">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[License agreement] 1820 May 1 [between] Rhea County Court and Lewis Ross : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">pa0223</idno>
+            <idno type="OCLC">OCLC: 45870047</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[License agreement] 1820 May 1 [between] Rhea County Court and Lewis Ross</title>
+               <date when="1820-05-01">May 1, 1820</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a legal agreement between Rhea County in Tennessee and Lewis Ross, Thomas Kelly, and Miller Frances to operate a ferry on the Highwassee River dated May 1st 1820.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> pa0223</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians -- Legal status, laws, etc.</term>
+               <term>Ferries</term>
+               <term>License agreements</term>
+               <term>Licenses</term>
+               <term>Rhea County (Tenn.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0223a.small.jpg"/>
+            <p>Know all men by these presents that we <name>Lewis Ross</name> &amp; <name>Thomas Kelly</name>
+               <name>Miller Frances</name> are bound to <name>
+                  <unclear>Graham</unclear> Harvard</name>
+               <unclear>
+                  <choice>
+                     <abbr>esqr</abbr>
+                     <expan>esquire</expan>
+                  </choice>
+               </unclear> Chairman of the Court of plea and quarterly Sessions for <name>Rhea County</name> &amp; to his <unclear>secretary</unclear> in office in the sum of two thousand dollars to be paid if the said Ross shall constantly find and keep good &amp; sufficient Boats or Crafts &amp; hand sufficient to man the  vessels for the transportation of all possessions at his ferry on <name>Highwassee River</name> for which Ferry he has this day by said Court obtained an order for the establishment there of and do and perform all things required as a ferry keeper at the said Ferry while he shall continue to Occupy the same</p>
+            <p>Given under our hands &amp; seals the <date>1st day of May 1820</date>
+            </p>
+            <closer>
+               <signed>Lewis Ross</signed>
+               <add>
+                  <figure>
+                     <figDesc>A handwritten seal appears to the right of the signature</figDesc>
+                  </figure>
+               </add>
+               <signed>
+                  <choice>
+                     <abbr>Thos</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Kelly</signed>
+               <add>
+                  <figure>
+                     <figDesc>A handwritten seal appears to the right of the signature</figDesc>
+                  </figure>
+               </add>
+               <signed>Miller Frances</signed>
+               <add>
+                  <figure>
+                     <figDesc>A handwritten seal appears to the right of the signature</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="pa0223b.small.jpg"/>
+               <add>Ferry Bond <lb/> Lewis Ross <lb/>
+                  <unclear>recd</unclear> 1st May <lb/> 1820</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl402">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1834 Dec. 6, Bayou Goula, L[ouisian]a [to] W[illia]m Fitzgerald, Paris, Tennessee / G.W. Terrell: a machine readable transcription of an image</title>
+            <author>Terrell, G.W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl402</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1834 Dec. 6, Bayou Goula, L[ouisian]a [to] W[illia]m Fitzgerald, Paris, Tennessee / G.W. Terrell</title>
+               <author>Terrell, G.W.</author>
+               <date when="1839-12-06">December 6, 1839</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to William Fitzgerald from G.W. Terrell, dated December 6, 1839. Terrell writes that Fitzgerald has a  girl that belongs to one of his African families, and that he has been trying to get her back. Terrell also informs Fitzgerald that he wishes to give him a pair of carriage horses in lieu of a debt Terrell owes him. Terrell promises that Fitzgerald will receive all the money that he owes him.</note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">IV-K-1, B1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl402</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Fitzgerald, William</term>
+               <term>Debt service</term>
+               <term>Financial, Personal</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2013033292"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Terrell, George Whitfield, 1803-1846</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl402a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Bayou Goula</name>
+                     <name>
+                        <choice>
+                           <abbr>La</abbr>
+                           <expan>Louisiana</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Dcr</abbr>
+                           <expan>December</expan>
+                        </choice> 6th 1939</date>
+                  </addrLine>
+               </address>
+               <salute>Dear <choice>
+                     <abbr>Fitz.</abbr>
+                     <expan>Fitzgerald</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>After I wrote you in the summer and received your answer I requested <unclear>
+                  <name>
+                     <choice>
+                        <abbr>capt</abbr>
+                        <expan>captain</expan>
+                     </choice>
+                     <choice>
+                        <abbr>saml</abbr>
+                        <expan>Samuel</expan>
+                     </choice>
+                  </name>
+               </unclear> to make some exchange with you, if it could be done, to get the girl Polly back, as she belongs to a family of negroes I yet have, but I have heard nothing about the result and know nothing about what has been done about it, or whether any thing.</p>
+            <p>I saw <name>Dewitt</name> a few days since in <name>Vicksburg</name>, he told me that he had sent his family to <name>Paris</name>, and that he had sent along with them a pair of horses belonging  to me. As I can not raise the money  to pay the balance of the notes you endorsed for me, I have concluded to apprise you that the horses are mine, and that you may sell them to pay the debt, as far as they will go. They are a pair of handsome grey horses- (Saml knows them) and as good a pair of carriage horses as are in the state. All I ask is that you will make the most you can out of  them, which I know you will do. I have refused $500 for then repeatedly- but do not expect they will command it in your market. Take whatever measures may be necessary to get them into possession, should there be any difficulty about it. Dewitt has no earthly claim to them-- I only loaned them to him, to carry his family to <name>Texas</name>, but as he is not going there with them, I want you to get the benefit of them, as I cannot raise the money to  <unclear>relieve</unclear> you. <pb n="2" facs="sl402b.small.jpg"/> As soon as the negro and the horses are sold write me what they bring, and as soon as possible, I will raise the balance in some way and remit it to you. I hope before they press you for it. I have yet some means left in <name>
+                  <choice>
+                     <abbr>Miss</abbr>
+                     <expan>Mississippi</expan>
+                  </choice>
+               </name>, with which I will pay all of my own debts as soon as I can make them available__</p>
+            <p>I have enough left yet to pay my own debts, and will do so before a great while, but I can not at present command my means. I have been worse <choice>
+                  <orig>harrassed</orig>
+                  <reg>harassed</reg>
+               </choice> and have suffered more on account of my liabilities for other people, than almost any other man ever did. I think however, that I am getting my business in a train to adjust it, before a great while. I am on my way to Texas, from which I expect to return in February,  when you shall hear from me again.</p>
+            <p>If one thing you may rest satisfied, you shall not lose a single dollar, by your friendship for me.</p>
+            <p>Write me when you receive this, directed to <name>Natchitoches</name>. La as letters can not cross the line, I will send there for it.</p>
+            <closer>
+               <salute>your old friend</salute>
+               <signed>
+                  <name>G.W. Terrell</name>
+               </signed>
+               <pb n="3" facs="sl402c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> Fitzgerald <choice>
+                           <abbr>Esqr</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>{ <name>Paris</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <unclear>Aus</unclear>
+                  <date>11 <choice>
+                        <abbr>Jan</abbr>
+                        <expan>January</expan>
+                     </choice> 1840</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

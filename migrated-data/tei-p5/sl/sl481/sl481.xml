@@ -1,0 +1,111 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl481">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[List] 1795 Nov. 11-27, Persons in Mero District Killed by Indians   : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl481</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[List] 1795 Nov. 11-27, Persons in Mero District Killed by Indians</title>
+               <date when="1795-11-11">November 11-27, 1795</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a list of persons in Mero District Killed by Indians, from November 11-27, 1795</note>
+               <note type="collection" anchored="true">David Henley Collection</note>
+               <note type="box" anchored="true">Correspondence</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl481</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Indians</term>
+               <term>Dead</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl481a.small.jpg"/>
+            <p>Memorandum of persons Killed in <name>Mero</name> District <unclear>Vist</unclear>. Charles Snyder &amp; wife &amp; two children <choice>
+                  <abbr>nov</abbr>
+                  <expan>November</expan>
+               </choice>. 11th <name>John King</name> &amp; wife one child of <choice>
+                  <abbr>Colo</abbr>
+                  <expan>Colonel</expan>
+               </choice>
+               <name>
+                  <unclear>Nalen</unclear>. Seveir</name>
+               <add>Killed</add>
+            </p>
+            <p>27 <choice>
+                  <abbr>Colo</abbr>
+                  <expan>Colonel</expan>
+               </choice>. <name>John Montgomery</name> Killed <name>Julius Saunders</name> Wounded <name>Charles Brantley</name>__ ditto</p>
+            <p>about 1st <choice>
+                  <abbr>Decem</abbr>
+                  <expan>December</expan>
+               </choice>. <name>Michail Hampton</name>
+               <lb/>
+               <name>John Saurenee</name>
+               <lb/> one other but his name not known <add>killed</add> at the same time two men Wounded</p>
+            <closer>
+               <pb n="2" facs="sl481b.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>Memd</abbr>
+                     <expan>Memoranum</expan>
+                  </choice>  of persons killed in Mero district <date>
+                     <choice>
+                        <abbr>Nov</abbr>
+                        <expan>November</expan>
+                     </choice>. 11-27 1795</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

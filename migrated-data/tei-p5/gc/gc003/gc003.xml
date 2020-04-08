@@ -1,0 +1,270 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] ca. 1815, Bachelors Hall The Ladies Choice [to] Uncle /    James Moore King : a machine readable transcription of an image</title>
+            <author>King, James Moore</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc003</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] ca. 1815, Bachelors Hall The Lades Choice Bachelors Hall [to] Uncle /    James Moore King</title>
+               <author>King, James Moore</author>
+               <date when="1815">ca. 1815</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This is a letter from James Moore King to his uncle announcing his return home to Tennessee following a seven month campaign against the British in New Orleans.  It outlines a vivid description of battle and narrow escape.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1813, 1815-1817</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">gc003</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>New Orleans, Battle of, 1815</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, James Moore</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc003a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Bachelors Hall The ladies Choice Bachelors hall, The Ladies Choice</addrLine>
+               </address>
+            </opener>
+            <salute>Dear Uncle </salute>
+            <p>    With pleasure, I inform you of my return home to the <choice>
+                  <orig>joyfull</orig>
+                  <reg>joyful</reg>
+               </choice>
+               <choice>
+                  <orig>seans</orig>
+                  <reg>scenes</reg>
+               </choice> &amp; pleasures of <name>Tennessee</name>, after a  <del type="overstrike">tiresom</del>
+               <add place="supralinear">trying</add> &amp; <choice>
+                  <orig>fatiegueing</orig>
+                  <reg>fatiguing</reg>
+               </choice> campaign of near seven months, I started the <date when="--09-24">24th of <choice>
+                     <abbr>Sept</abbr>
+                     <expan>September</expan>
+                  </choice>
+               </date> last &amp; returned the <date when="--04-13">13th of April</date> last; I wrote to you of our going to <name type="place">
+                  <choice>
+                     <orig>Pennsicola</orig>
+                     <reg>Pensacola</reg>
+                  </choice>
+               </name>, thence to <name type="place">Sandy Creek</name> from whence I wrote, then informed you of the expectation of our <choice>
+                  <orig>meating</orig>
+                  <reg>meeting</reg>
+               </choice> the enemy at <name type="place">New Orleans</name>, which we did on the <date when="--12-23">23rd of Dec</date>    we made the <choice>
+                  <orig>atteact</orig>
+                  <reg>attack</reg>
+               </choice> on them about eight <choice>
+                  <orig>oclock</orig>
+                  <reg>o' clock</reg>
+               </choice> in the <choice>
+                  <orig>knight</orig>
+                  <reg>night</reg>
+               </choice> by moonshine, our big <name>Caroline</name>
+               <add place="supralinear">commenced the action, she</add>
+               <choice>
+                  <orig>droped</orig>
+                  <reg>dropped</reg>
+               </choice> down the <name type="place">Mississippi</name>
+               <del type="overstrike">to them</del> opposite to them; which they hailed at the second times hailing she answered them, with a cannon  <add place="supralinear">thirty two</add>, which killed 4 men, by the <name>British</name> information; then a broad side which throwed them in great confusion.  Their was but 1300 of <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Coffee</name>Brigade, a <choice>
+                  <orig>fiew</orig>
+                  <reg>few</reg>
+               </choice> regulars, the <name type="place">Orleans</name>
+               <choice>
+                  <orig>volinter</orig>
+                  <reg>volunteer</reg>
+               </choice> &amp; <choice>
+                  <orig>malitia</orig>
+                  <reg>malitia</reg>
+               </choice>, the whole was supposed to be 1800 hundred or 2000, we fought 4000, 5 hours their was nothing to<choice>
+                  <orig> brag</orig>
+                  <reg>bragg</reg>
+               </choice> off on neither side we look and killed <pb n="2" facs="gc003b.small.jpg"/> as many as they did, It is said by some <choice>
+                  <orig>prisners</orig>
+                  <reg>prisoners</reg>
+               </choice> we took, their was 2000 that had liked to <del type="overstrike"> give up</del> and have <choice>
+                  <orig>surrrendered</orig>
+                  <reg>surrendered</reg>
+               </choice> &amp; would had the firing not <choice>
+                  <orig>discontinured</orig>
+                  <reg>discontinued</reg>
+               </choice> as soon as it did, the <choice>
+                  <orig>ridgment</orig>
+                  <reg>regiment</reg>
+               </choice> that I <choice>
+                  <orig>ware</orig>
+                  <reg>was</reg>
+               </choice> in attacked them in the rear at the firing of the cannon the <name>British</name> all formed on the Bank of the <name type="place">Mississippi</name> by the levey we marched through the encampment, where we found that we had <choice>
+                  <orig>opprived</orig>
+                  <reg>deprived</reg>
+               </choice> them of their fine supper — their was turkeys <choice>
+                  <orig>chickings</orig>
+                  <reg>chickens</reg>
+               </choice> Ducks quarters of mutton they had so nicely roasted, Our soldiers gathered &amp; eat  <add place="supralinear">it while fighting</add> &amp; fought, I will give you a small account of mine &amp; others narrow escape.  In marching up to the enemy we came to a fence that run angling from <choice>
+                  <orig>thee</orig>
+                  <reg>the</reg>
+               </choice>
+               <choice>
+                  <orig>corse</orig>
+                  <reg>course</reg>
+               </choice> we <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> going, which cut of three <choice>
+                  <orig>Companees</orig>
+                  <reg>companies</reg>
+               </choice> of us, &amp; throw us <choice>
+                  <orig>concederably</orig>
+                  <reg>considerably</reg>
+               </choice> in the open old field, where we found several scampering about which we shot and killed then advanced <add place="supralinear">in</add> a hundred yards of the main body when we <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice>
+               <choice>
+                  <orig>furid </orig>
+                  <reg>fired</reg>
+               </choice> upon in our rear, their<pb n="3" facs="gc003c.small.jpg"/> was a halt called in a very great <choice>
+                  <orig>supprise</orig>
+                  <reg>suprise</reg>
+               </choice> it was <choice>
+                  <orig>immedeately</orig>
+                  <reg>immediately</reg>
+               </choice> concluded that it was part of our own men, the second <choice>
+                  <orig>batalion</orig>
+                  <reg>battalion</reg>
+               </choice> some of the men as well as officers began to <choice>
+                  <orig>hollour</orig>
+                  <reg>holler</reg>
+               </choice> out to them &amp; tell them they ware <choice>
+                  <orig>fireing</orig>
+                  <reg>firing</reg>
+               </choice> at their own men, telling of them, they <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> Coffees  <add place="supralinear">the names of</add> their <choice>
+                  <orig>ridgment</orig>
+                  <reg>regiment</reg>
+               </choice> &amp; they continued firing till they came in thirty or forty <choice>
+                  <orig>yeardes</orig>
+                  <reg>yards</reg>
+               </choice> the <choice>
+                  <orig>bullits</orig>
+                  <reg>bullets</reg>
+               </choice>
+               <del type="overstrike">came</del> whisked high and low but hurt none them; we did not pretend <del type="overstrike">ed</del> to fire a gun in the whole of that time, but continued to tell them they ware <choice>
+                  <orig>fireing</orig>
+                  <reg>firing</reg>
+               </choice> at their own men, which they replied they ware not <choice>
+                  <orig>surtain</orig>
+                  <reg>certain</reg>
+               </choice> &amp; wavering their sword and I ordered us to ground our <choice>
+                  <orig>armes</orig>
+                  <reg>arms</reg>
+               </choice> made <choice>
+                  <orig>shore</orig>
+                  <reg>sure</reg>
+               </choice> we had surrendered, tho by this time they had came quite up to us.  when we began to find them out <del type="overstrike">nay</del>
+               <name type="person">Captain Jones J. Lurt Walker</name> the officers I was under <choice>
+                  <orig>engaes</orig>
+                  <reg>engages</reg>
+               </choice> with two of the <name>british</name> officers, which at that time their was loud roaring and clashing of swords, the <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice>
+               <add place="supralinear">lost</add> his <add place="supralinear">sword</add>
+               <del type="overstrike">but without a wound,</del>
+               <add place="supralinear">but saved himself</add> The <choice>
+                  <abbr>Luet</abbr>
+                  <expan>lieutenant</expan>
+               </choice> got his cut away much so received a ball through his <choice>
+                  <orig>wrighte</orig>
+                  <reg>right</reg>
+               </choice>
+               <choice>
+                  <orig>sholder</orig>
+                  <reg>shoulder</reg>
+               </choice> another <choice>
+                  <orig>grazned</orig>
+                  <reg>grazened</reg>
+               </choice> him on the <pb n="4" facs="gc003d.small.jpg"/> small of the back another hit his hat their <add place="supralinear">in our company</add> was one killed  four wounded and three taken prisoner <add place="infralinear">Travel</add>which our was our cornet he was taken there times before he would stay taken the <choice>
+                  <orig>forth</orig>
+                  <reg>fourth</reg>
+               </choice> time taken he was sent off under guard with one man, he had a <choice>
+                  <orig>pistole</orig>
+                  <reg>pistol</reg>
+               </choice>
+               <add place="supralinear">concealed</add> under his coat when they did not observe, <del type="overstrike">took him</del> in going along he turned around and observed see how the <name>british</name> is <choice>
+                  <orig>runing</orig>
+                  <reg>running</reg>
+               </choice>, the fellow turned to look, the <choice>
+                  <orig>Cornel</orig>
+                  <reg>Colonel</reg>
+               </choice> drew his pistole and shot him down, he then jerked of the fellows dredge and took his gun, then tried to make his escape but ran right up to a <name>British</name> force, when taken again, he was the second time taken under guards, in carrying, <unclear>him</unclear> off their was a firing broke out not far from him, which they turned rouning to look at, a thought struck him he could knock the fellow down and clear himself, <del type="overstrike">whe</del> then cleared himself, when master his escape came cross <choice>
+                  <abbr>Cap</abbr>
+                  <expan>Captain</expan>
+               </choice> McMahan who was mortally wounded in their head, the <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> requested him to stay with him which he done, tho it was not long before they ware taken again, then he stayed taken</p>
+         </div>
+      </body>
+   </text>
+</TEI>

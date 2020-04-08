@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl703">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1806 Mar. 4, Knoxville, Tennessee [to] James White, et al / William Maclin : a machine readable transcription of an image</title>
+            <author>Maclin, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl703</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1806 Mar. 4, Knoxville, Tennessee [to] James White, et al / William Maclin</title>
+               <author> Maclin, William</author>
+               <date when="1806-03-04"> 
+			 March 4, 1806</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated march 4, 1806 from William Maclin on behalf of the governor of the state of Tennessee, John Sevier.  The letter is addressed to James White, and others, with direction from the governor to report on the status and condition of a road cut through the Cherokee nation, leading into the state of Georgia.  The governor is interested in knowing if the road is suitable and sufficient for wagon passage; the letter contains specific inquiries regarding the road.</note>
+               <note type="collection" anchored="true">Governor John Sevier Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true"> sl703</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>Tennessee -- History</term>
+               <term>Sevier, John, 1745-1815</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Maclin, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl703a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+            </opener>
+            <opener>
+               <date>March 4th 1806</date>
+               <salute>Sir <lb/> Gentlemen</salute>
+            </opener>
+            <p>I have been directed by his Excellency Governor Sevier to inform you, that your report of the 8th of February, on the Subject of the road leading through the <name>Cherokee nation</name> into the State of <name>Georgia</name>, which has lately been cut and opened by <name>Adam Peck</name>, had come to hand, and that the report is of such a nature that he cannot act upon it.__</p>
+            <p>The Executive wishes you as soon as may be convenient, to report specially and particularly the State and condition the road was in when you viewed it First__ whether the road is cut and opened on the ground marked out, by <name>Joseph McMinn</name>, <name>Samuel Wear</name> and <name>John Cowan</name> Esquires Commissioners appointed for that purpose, or not, <pb n="2" facs="sl703b.small.jpg"/> and if Mr. Pack has varied from the ground marked out, whether you Suppose he has much augmented the distance of the road, or not, and further whether you Suppose, that the variation Mr. Pack has made in cutting the road from the ground marked out as aforesaid, will have a tendency to <del type="overstrike">permit</del>
+               <add>admit of</add>   loaded <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice>
+               <add>running</add>    with <del type="overstrike">as much</del>
+               <add>more</add> ease and safety, <add>than</add> what they could <add>have done</add>   on a road cut and opened on the ground marked out for that purpose.</p>
+            <p>Secondly__ whether the road is cut and opened fifteen feet wide, or not, and if any part of it is under that width, what <add>distance</add>
+               <del type="overstrike">proportion of it so</del> you Suppose is in that Situation__</p>
+            <p>Thirdly__whether the road is cut, <add>and</add> opened, <del type="overstrike">in and</del>  causwayed <add>and bridged</add>   , and the banks of rivers, creeks branches be dug down in  such a manner, that <add>in your opinions</add>  it ought to be <add>called</add>  a good and sufficient waggon road__ one <pb n="3" facs="sl703c.small.jpg"/>
+               <del type="overstrike">manner</del> that loaded waggons can travel with ease and convenience; or not, and if they cannot, what are the impediments.</p>
+            <p>The Executive also wishes you to report on every other thing that relates to the road, which you may deem necessary and proper.__</p>
+            <closer>
+               <add>I have the honor to be Very respectfully your <choice>
+                     <abbr>Mo</abbr>
+                     <expan>Most</expan>
+                  </choice>
+                  <choice>
+                     <abbr>Obedt</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant <lb/> (signed)</add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Maclin</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>. <name>James White</name> major <name>John Singleton</name>, and major <name>Hugh Kelso</name>
+                  <lb/>
+                  <choice>
+                     <abbr>P.S</abbr>
+                     <expan>Post Script</expan>
+                  </choice>. a copy of this letter is sent to each Commissioner.</add>
+               <pb n="4" facs="sl703d.small.jpg"/>
+               <add>(copy) Letter to <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> White Major Singleton &amp; Major Kelso__ <date>4 March 1806</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

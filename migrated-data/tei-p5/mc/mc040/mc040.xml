@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Dec. 16, Knoxville [to] Mr. V A McBee, East Tennessee College / David Campbell : a machine readable transcription of an image</title>
+            <author>Campbell, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc040</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Dec. 16, Knoxville [to] Mr. V A McBee, East Tennessee College / David Campbell </title>
+               <author>Campbell, David</author>
+               <date when="1836-12-16">December 16, 1836</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated December 16, 1836, written by David Campbell to Mr. V. A. McBee, corresponding secretary of East Tennessee College (currently the University of Tennessee).  Campbell writes to accept his nomination as honorary member of the Chi Delta Literary Society.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">1836</note>
+               <note type="document" anchored="true">mc040</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>East Tennessee College</term>
+               <term>Associations, institutions, etc.</term>
+               <term>Campbell, David, 1779-1859</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2011132538"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Campbell, David, 1750-1812</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc040a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>16th <choice>
+                           <abbr>Dec.</abbr>
+                           <expan>December</expan>
+                        </choice> 1836</date>
+                  </addrLine>
+                  <addrLine>
+                     <name>Mr. V A McBee</name>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>I received your favor of the 8th Instant a few days Since.</p>
+            <p>I accept with very sincere pleasure the appointment of "honorary member" of the Chi Delta Society and request you to tender to the Society  my acknowledgments for the very flattering manner in which it has been conferred.</p>
+            <p>You will please accept my kindest thanks for the manner in which you have made the communication-</p>
+            <closer>
+               <salute>Most respectfully I am your <choice>
+                     <abbr>Obt. Servt.</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>David Campbell</name>
+               </signed>
+               <pb n="2" facs="mc040b.small.jpg"/>
+               <address>
+                  <addrLine>Mr. V A McBee</addrLine>
+                  <addrLine>Corresponding Secretary <choice>
+                        <abbr>&amp;c</abbr>
+                        <expan>et cetera</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name>East Tennessee College</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

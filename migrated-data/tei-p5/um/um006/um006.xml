@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Feb. 18 [to] Mr. John D. Coffee, Nashville, Ten[nessee] / A[ndrew] J[ackson] Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um006</idno>
+            <idno>OCLC: 50193575</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Feb. 18 [to] Mr. John D. Coffee, Nashville, Ten[nessee] / A[ndrew] J[ackson] Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1838-02-18">February 18, 1838</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Andrew Jackson Coffee to his brother, John D. Coffee on February 18, 1838. In the letter, Andrew Coffee tells his brother about his school subjects and of events taking place that he is not present to witness.</note>
+               <note type="collection" anchored="true">Andrew Jackson 1804-1844 MS 28</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">um006</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um006a.small.jpg"/>
+            <opener>
+               <add place=", left">
+                  <figure>
+                     <figDesc>postmark seal</figDesc>
+                  </figure>
+               </add>
+               <add place="above address, right">12 ½</add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. John D. Coffee</name>
+                  </addrLine>
+                  <addrLine> {<name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="um006b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <date when="1838-02-16">
+                        <choice>
+                           <abbr>Feb</abbr>
+                           <expan>February</expan>
+                        </choice> the 16th 1838</date>
+                  </addrLine>
+               </address>
+               <salute>My brother</salute>
+            </opener>
+            <p> I sit down this evening to <choice>
+                  <orig>fullfill</orig>
+                  <reg>fulfill</reg>
+               </choice> the promise of <choice>
+                  <orig>writeing</orig>
+                  <reg>writing</reg>
+               </choice> to you. I am <choice>
+                  <orig>studing</orig>
+                  <reg>studying</reg>
+               </choice>
+               <choice>
+                  <orig>latin</orig>
+                  <reg>Latin</reg>
+               </choice> look <unclear>vire romae</unclear>, Greek <choice>
+                  <orig>gramar</orig>
+                  <reg>grammar</reg>
+               </choice>
+               <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>
+               <name type="person">Alese</name> is <choice>
+                  <orig>studing</orig>
+                  <reg>studying</reg>
+               </choice> the <choice>
+                  <orig>latin gramar</orig>
+                  <reg>Latin grammar</reg>
+               </choice>, geography <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>, <choice>
+                  <orig>co ⁁  sin</orig>
+                  <reg>cousin</reg>
+               </choice>
+               <name type="person">Calista</name> was <choice>
+                  <orig>maried</orig>
+                  <reg>married</reg>
+               </choice> on Thursday to <name type="person">Judge Posey</name> . <choice>
+                  <orig/>
+                  <reg>Cornelia</reg>
+               </choice>, <name type="person">Redford</name>, <name type="person">Caroline</name>, <name type="person">Hester</name>, <name type="person">Elizabeth</name>, <name type="person">Coffee</name> were the waiters, <name type="person">Mr. Clarke</name>, <name type="person">Houston</name>, <name type="person">Savage</name> were ⁁ <add place="supralinear">the</add> waiters, all the young <choice>
+                  <orig>laidies</orig>
+                  <reg>ladies</reg>
+               </choice> and gentlemen of the <choice>
+                  <orig>toun</orig>
+                  <reg>town</reg>
+               </choice> and country were there would have no doubt had a very merry time of it but for the badness of the weather and the intoxication of few of the <choice>
+                  <orig>yong</orig>
+                  <reg>young</reg>
+               </choice> gentlemen, among others. <name type="person">J. Galaspia</name>, <name type="person">Catherine</name> is going to the infant school and is learning very fast, <name type="person">William</name> and <name type="person">Joshua</name> is well and is growing very fast, <name type="person">Big Phill</name> was working in the island and a limb fell from a tree and come very near killing him but he is getting better, mama got a letter from papa dated the <date when="--01-27">27th of Jan</date>, he had not got any of his <choice>
+                  <orig>buisness</orig>
+                  <reg>business</reg>
+               </choice> done and did not know when he would be at home. <name type="person">Mr Lorance</name> is going to commence a <choice>
+                  <orig>manul laberers</orig>
+                  <reg>manual laborers</reg>
+               </choice> school, give my love to all.</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>A. J.</abbr>
+                        <expan>Andrew Jackson</expan>
+                     </choice> Coffee</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

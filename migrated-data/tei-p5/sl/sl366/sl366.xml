@@ -1,0 +1,134 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl366">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1832 Jan. 17 [to] Andrew [Jackson Donelson] / [Stockly Donelson] : a machine readable transcription of an image</title>
+            <author>Donelson, Stockly</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl366</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1832 Jan. 17 [to] Andrew [Jackson Donelson] / [Stockly Donelson]</title>
+               <author>Donelson, Stockly</author>
+               <date when="1832-01-17">January 17, 1832</date>
+               <extent>6p</extent>
+               <note type="summary" anchored="true">This document is a letter dated January 17, 1832 from Stockly Donelson to Andrew Jackson Donelson.  Stockly informs Andrew that the trainer he had recently hired will not be allowed to stay in the state longer than twenty days due to an act of legislature limiting the residency of free black people.  Stockly also discusses the status of his investment in Craighead farm as well as the condition of Andrew's cotton crop.  He also mentions an episode in which their uncle Andrew Jackson, then US president, was falsely accused of owing a debt.   </note>
+               <note type="collection" anchored="true">Bettie M. Donelson Papers</note>
+               <note type="box" anchored="true"> III-E-2-3 b1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl366</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee, Middle</term>
+               <term>Cotton ginning</term>
+               <term>General Andrew Jackson</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr91014733"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Donelson, Stockley, -approximately 1804</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl366a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Jan</abbr>
+                           <expan>January</expan>
+                        </choice> 17th 1832</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Andrew</salute>
+            </opener>
+            <p>I am in debt to you one or two letters and would have written several days since but having nothing of importance to communicate I have deferred writing until now.  In fact there is a complete dearth of news here and of course there is nothing to make a letter interesting- I ought to have mentioned to you that the Trainer which you have employed being a free man of <choice>
+                  <orig>colour</orig>
+                  <reg>color</reg>
+               </choice> , will not be allowed to remain in the state longer than twenty days.  In <choice>
+                  <orig>obediance</orig>
+                  <reg>obedience</reg>
+               </choice> to an act of the last legislature, <add>**see bottom</add> which act you no doubt have seen.  I mentioned to you in my last letter something about the loan of money <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice> I have lately made such arrangements as I shall not need the loan if one should offer which I expect is very doubtful-  I have sold out one half of my <add>** in relation to free negroes</add>
+               <add>Bettie M Donelson papers.</add>
+               <pb n="2" facs="sl366b.small.jpg"/>
+               <add>2</add> interest in the <name>Craighead</name> farm to <name type="person">Mr McLemore</name> and he has already sent up a large force and we will crop it in partnership this year and next year we are going to establish a bagging factory on a large scale, as we are convinced that more money can be made at that business than any other that can be followed.  Mr McLemore is yet considerably in debt But is working through <choice>
+                  <orig>gradualy</orig>
+                  <reg>gradually</reg>
+               </choice> under heavy fire from all quarters.  His resources are large and I have not seen him in better spirits.  My means are more than sufficient under late arrangements to liquidate <sic>all all</sic> my debts- <del type="overstrike">But</del> I cannot calculate upon much help <add>in the money way</add> immediately from McLemore- But our joint forces will be large and I shall put in 200 and odd acres in cotton this year.  I am now satisfied that my own crop of cotton will <choice>
+                  <orig>neat</orig>
+                  <reg>net</reg>
+               </choice> me from 25 to 30,000 <del type="overstrike">lbs</del> picked cotton <pb n="3" facs="sl366c.small.jpg"/> While on the subject of cotton I will say something to you about yours- You will make between 40 and 50,000 seed cotton certain there is <add>a good</add> deal yet to pick out- I understand that <name>Mr  <choice>
+                     <orig>Steel</orig>
+                     <reg>Steele</reg>
+                  </choice>
+               </name> has refused to gin it for you- I have said to your overseer that I will gin it free of expense if he will wait until I get mine out of the way or he can carry it to my gin at the Craighead place and gin it immediately as will best suit his convenience.  <name>Holtzclaw</name> is gradualy making a complete change in every thing and I have no hesitation in saying that he will do well- His system of management is complete- His attention is given to every thing- You have to buy meat and he is afraid that forage will be scarce <unclear>with</unclear> him- But I believe you have made error enough- These little expenses of buying meat &amp;c is <add>a</add> considerable draw <add>back</add> from the profits of the farm &amp;c I hear of no complaints from your negroes and I have <pb n="4" facs="sl366d.small.jpg"/>
+               <add>4</add> no doubt but they will be well satisfied with him-</p>
+            <p>I have received your letter returning me the unlucky order from Steel on Uncle.  I do not know when I have been more mortified than I have been about this same order- I must request you sir as a favor to show this part of my letter to <name type="person">Uncle Jackson</name>, As I want him to know the truth about this whole affair.  <name>Mr Steele</name> was anxious to purchase a horse of mine for which he offered me $115 in cash I refused, my price being $125= But when I found out that I had to send on money to cottons heirs I told Steele that I would accept his offer of $115 cash which he agreed to do- He then told me that Uncle was owing him more than that amount for his years wages previously to the time we traded and that   if I would accept an order on him it would answer one the same pur-<pb n="5" facs="sl366e.small.jpg"/>
+               <add>5</add> pose as money and that he would write to uncle and explain to him how their accounts stood and request him to pay it- under these circumstances I did not hesitate presuming that Steele was both a man of too much sense and honesty to Draw upon any one who did not owe <add>him</add> and I believed if uncle did owe him it would be paid.   You know the situation of the order when it came to me returned- so far all was right- I was satisfied that Steel had deceived me in Uncle owing him anything- I presented the order to <name>Mr Josiah Nichol</name> president of the United States Bank- and instead of paying <add>it</add> like a man and an old friend of <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> Jackson- what do you think he did- he refused to pay it upon the ground that Gen Jackson was in his debt- that he would have nothing to do with it- that he did not know why Gen Jackson would draw upon him when there was no money in his hands to pay it with and cast out a good <add>Bettie M Donelson Papers</add>
+               <pb n="6" facs="sl366f.small.jpg"/>
+               <add>6</add> many reflections- spoke of an ill natured letter he had <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> from Gen Jackson- This is poor satisfaction to me to give this information- I would freely have given up the order If I had only had the presence of mind to have called for Gen Jacksons accounts and have paid off all that he owed <del type="overstrike">from it</del> him.  I told Mr Nichol I did not want the money then that when the cotton <add>**</add> was sold that he could take off so much of Steels wages- and he   refused to have any thing to do with it I parted from him with this remark "That it was very strange to me that Gen Jackson would be giving orders on people that would not be them" I then stepped around to the ware house to enquire if steels wages had been <add>paid</add> and met with <name>H. Hill</name>  and ascertained that they had not- I then communicated to Hill the situation of the order and he made this remark that he <add>[<name>Stokly Donelson</name>]</add>
+               <add>** which had already been shipped on the <choice>
+                     <abbr>St</abbr>
+                     <expan>Steam</expan>
+                  </choice> Boat <name>Nashville</name>
+               </add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Mar. 16, Columbus [Ohio], [to] Doct[or] A. King &amp; Co [mpany] / J Pike &amp; Co [mpany] :a machine readable transcription of an image</title>
+            <author>Ferris, D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>mc013</idno>
+            <idno>OCLC: 50449109</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Mar. 16, Columbus [Ohio], [to] Doct[or] A. King &amp; Co[mpany] / J Pike &amp; Co [mpany]</title>
+               <author>Ferris, D.</author>
+               <date when="1836-03-16">March 16, 1836</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter written from J. Pike &amp; Company to Doctor A. King &amp; Company dated March 16, 1836. The letter shows a listing of medicines ordered by Doctor A. King &amp; Company from J. Pike &amp; Company. The medicines are arriving late because of delays due to a canal being closed. Some of the medicines listed are herbs and seasonings used to create medicines. The letter is concluded by giving a recipe for wine bitter using some of the medicines named in the letter.</note>
+               <note type="collection" anchored="true">James King Papers</note>
+               <note type="box" anchored="true">MS-14, b1</note>
+               <note type="folder" anchored="true">1830-1839</note>
+               <note type="document" anchored="true">mc013</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medicine</term>
+               <term>Recipes</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ferris, D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc013a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbus <choice>
+                           <abbr>O.</abbr>
+                           <expan>Ohio</expan>
+                        </choice>
+                     </name>
+                     <date when="1836-03-16">March 16, 1836</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Doct</abbr>
+                           <expan>Doctor</expan>
+                        </choice> A King</name> &amp; <choice>
+                        <abbr>Co</abbr>
+                        <expan>Company</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Gent.</abbr>
+                     <expan>Gentlemen</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>Yours of <date when="---07">7</date>
+               <choice>
+                  <abbr>inst.</abbr>
+                  <expan>instant</expan>
+               </choice> is <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> Also one in <choice>
+                  <abbr/>
+                  <expan>January</expan>
+               </choice> ordering a bill of medicine on the rest of which we immediately put up the medicine with the expectation of being able to Send it in a few days but in Consequence of the Canal being closed we have not as yet been able to do so, the Boats are expected to Commence running in a few days when we will immediately Send it </p>
+            <p>The following is the bill as put up.</p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">50 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Cayenne</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">$ 1.00</cell>
+                     <cell role="data" rows="1" cols="1">$ 50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">47 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Bayberry (fine)</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.50</cell>
+                     <cell role="data" rows="1" cols="1">23.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">20 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Composition</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.62 ½</cell>
+                     <cell role="data" rows="1" cols="1">12.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">31 ¼ lbs</cell>
+                     <cell role="data" rows="1" cols="1">Spice Bitters</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.75</cell>
+                     <cell role="data" rows="1" cols="1">23.43</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">20 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Poplar Bark</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.25</cell>
+                     <cell role="data" rows="1" cols="1">5.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">20 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Hemlock</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.25</cell>
+                     <cell role="data" rows="1" cols="1">5.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">10 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Gum Myrrh</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.75</cell>
+                     <cell role="data" rows="1" cols="1">7.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 lbs</cell>
+                     <cell role="data" rows="1" cols="1">Bitter Sweet</cell>
+                     <cell role="data" rows="1" cols="1">@</cell>
+                     <cell role="data" rows="1" cols="1">.75</cell>
+                     <cell role="data" rows="1" cols="1">3.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <unclear>Bbl</unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1 half <unclear>Do &amp; Drayage</unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">
+                        <hi>1.00</hi>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">
+                        <hi>$130.93</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The articles not included in the above bill we have not got when we ship the <choice>
+                  <abbr>med.</abbr>
+                  <expan>medicine</expan>
+               </choice> we will again write you</p>
+            <closer>
+               <salute>Respectfully Yours</salute>
+               <signed>
+                  <name type="person">J Pike &amp; <choice>
+                        <abbr>Co</abbr>
+                        <expan>Company</expan>
+                     </choice>
+                  </name>
+                  <lb/>
+                  <hi>
+                     <name type="person">Dr. D. Ferris</name>
+                  </hi>
+               </signed>
+               <add place="bottom of page">
+                  <note>
+                     <p>For 25 <unclear>Gob</unclear> Wine Bitters take 2 ½ lbs Spice Bitters, 1 ½ lbs Golden Seal, 1 lb Bayberry, ¾ lb Nervine, ½ lb Cloves (fine), ¼ Annis Seed, ¼ Poplar bark, 3 <choice>
+                           <abbr>oz.</abbr>
+                           <expan>ounces</expan>
+                        </choice> Cayenne, 2 ½ <choice>
+                           <abbr>oz.</abbr>
+                           <expan>ounces</expan>
+                        </choice> Bitter Root,</p>
+                     <p>Steep in 3 Gallons water mix with the Wine add ½ <choice>
+                           <abbr>oz.</abbr>
+                           <expan>ounces</expan>
+                        </choice> oil wintergreen. Cut in alcohol, to be Stirred once a day for a week —</p>
+                  </note>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="mc013b.small.jpg"/>
+            <p>
+               <add place="top right of page">25</add>
+               <figure>
+                  <figDesc>Post marked Columbus</figDesc>
+               </figure>
+               <address>
+                  <addrLine>
+                     <unclear>Messrs.</unclear>
+                     <name type="person">A. King &amp; Co.</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Clarksville</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

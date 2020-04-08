@@ -1,0 +1,169 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl569">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Apr. 13, Nashville, Tennessee [to] James Winchester, Cragfont, Tennessee / Andrew Jackson   : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl569</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1819 Apr. 13, Nashville, Tennessee [to] James Winchester, Cragfont, Tennessee / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1819-04-13">April 13, 1819</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from General Andrew Jackson to General James Winchester, date April 13, 1819. Jackson is writing to discuss his ideas on running a line between Tennessee and the Chickasaw Nation. Jackson wantsWinchester to assist in getting the Chickasaw chiefs to the meeting location.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl569</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Chickasaw Indians</term>
+               <term>Surveying</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl569a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Hermitage near <name>Nashville</name>
+                  </addrLine>
+                  <addrLine>april 13th 1819</addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>I <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> by <name>Mr Wynn</name> last evening yours of the 11th Instant, apprising me of your having <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> Instructions &amp; authority from the president of the <choice>
+                  <abbr>U</abbr>
+                  <expan>United</expan>
+               </choice> states to run the line between the <choice>
+                  <orig>Hole</orig>
+                  <reg>Whole</reg>
+               </choice> of <name>Tennessee</name> &amp; the <name>chickasaw Nation</name>  and asking me the best mode of satisfying Indians agreeably to said Treaty, of the time &amp; place to meet you for this purpose</p>
+            <p>I would recommend you to write to <name>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Sherburne</name>
+               <add>their agent</add> requesting him to have the chiefs notified of the time &amp; place on the Tennessee that you will attend prepared to commence the running of the line with a request that they meet you by two of <unclear>three</unclear> chiefs for that purpose I would also recommend that you write to <name>major James Colbert</name>  Interpreter for the nation, requesting <unclear>him</unclear> also to notify the chiefs of the time &amp; place &amp; requesting him to have <unclear>a delegation</unclear>
+               <gap/> chiefs, to meet you for the purp <gap/> of  running the line</p>
+            <p>
+               <name>Colberts Ferry</name> will be a <gap/> point for you to assemble &amp; meet the <gap/> ifs, if you cannot get transportat <gap/> all may <pb n="2" facs="sl569b.small.jpg"/> obtain a canoe for some of your party to pass down the river to the line the <unclear>bottom</unclear>  can pass down on the west side of the river, as it may be <choice>
+                  <orig>dificult</orig>
+                  <reg>difficult</reg>
+               </choice> without a Boat to cross the Tennessee at the line__ The distance by land I suppose from Colberts Ferry to the line is about thirty five miles_ and the length of the line you have to run one hundred &amp; eight miles__ and mostly through a barren or poor country , which skirts a valuable one</p>
+            <p>I thank you for the expression of your good wishes, &amp; permit me to reciprocate</p>
+            <closer>
+               <salute>I am Dr Sir respectfully <lb/>
+                  <choice>
+                     <abbr>yr mo, ob, serv,</abbr>
+                     <expan>your most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>Andrew Jackson</signed>
+               <address>
+                  <addrLine>Genl <name>James Winchester</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice>  It will be necessary that you have a <unclear>local</unclear> where you start the line, to enable the <unclear>quests</unclear>
+                  <gap/> cross after taking his observation from <gap/> point where the Territorial line as <gap/> akes the East bank of the Tennessee-  <gap/> be necessary that you know the <unclear>voniation</unclear>
+                  <gap/> which that lane has been run. <choice>
+                     <abbr>A.J.</abbr>
+                     <expan>Andrew Jackson</expan>
+                  </choice>
+               </add>
+               <pb n="3" facs="sl569c.small.jpg"/>
+               <add>Genl Jackson <lb/>
+                  <unclear>13 April 1819</unclear>
+               </add>
+               <address>
+                  <addrLine>Genl James Winchester</addrLine>
+                  <addrLine>
+                     <name>Craggfont</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Sumner <choice>
+                           <abbr>Cyt</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+               <add>Mr Wynn }</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

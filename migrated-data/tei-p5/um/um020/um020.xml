@@ -1,0 +1,208 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um020">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Sept. 17 [to] Mary Jane Chester, Columbia, Ten[nessee]  / Elizabeth Chester : a machine readable transcription of an image</title>
+            <author>Chester, Elizabeth</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um020</idno>
+            <idno>OCLC: 50265322</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Sept. 17 [to] Mary Jane Chester, Columbia, Ten[nessee] / Elizabeth Chester</title>
+               <author>Chester, Elizabeth</author>
+               <date when="1840-09-17">September 17, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Elizabeth Chester to her daughter, Mary Jane Chester, on September 17, 1840. In the letter, Elizabeth wishes good health to her daughter, and expresses her and her family's desire to see Mary Jane soon. Elizabith writes of missing her daughter, the sickness of a dear relative, and information concerning the relocation of some of Mary Jane's friends.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS 25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um020</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Elizabeth</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um020a.small.jpg"/>
+            <opener>
+               <add place="above address">
+                  <name type="place">Jackson <choice>
+                        <abbr>Ten</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </name>
+                  <lb/>
+                  <date when="1840-09-18">18 <choice>
+                        <abbr>Sept 40</abbr>
+                        <expan>September 1840</expan>
+                     </choice>
+                  </date>  } <emph>Paid 18 ¾</emph>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Mary Jane Chester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <add place="below address, upside down">
+                  <address>
+                     <addrLine>My Dear Mother</addrLine>
+                     <addrLine>
+                        <date when="1840-09-18">18 <choice>
+                              <abbr>Sep</abbr>
+                              <expan>September</expan>
+                           </choice> 1840</date>
+                     </addrLine>
+                  </address>
+               </add>
+               <pb n="2" facs="um020b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                     <date when="1840-09-17">
+                        <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice> 17th 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My Beloved Daughter</salute>
+            </opener>
+            <p>By <name type="person">Mr Brinkley</name>, we received your very welcome letter. it has in past relieved us from great anxiety about you, I hope my dear Child, you have entirely recovered and you must not think of commencing school <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> you have regained your <choice>
+                  <orig>streng   h</orig>
+                  <reg>strength</reg>
+               </choice> you must get <choice>
+                  <orig>Flannile</orig>
+                  <reg>Flannel</reg>
+               </choice> and have a couple of skirts made immediately it was very thoughtless in me not to have made <choice>
+                  <orig>thim</orig>
+                  <reg>them</reg>
+               </choice> before you left home, there is a Thousand things I have thought off since you left that you ought to have, I have made you some <emph>Canton</emph>
+               <choice>
+                  <orig>Flannile</orig>
+                  <reg>Flannel</reg>
+               </choice> draw's intending to have sent them by <name type="person">Mr <choice>
+                     <orig>Brinkly</orig>
+                     <reg>Brinkley</reg>
+                  </choice>
+               </name> he went before I knew it, — You regret my dear, that your <name type="person">Aunt Narcissa</name> did not go up with you, but <add place="supralinear">it</add> us a providential thing that she did not, she too has had a <choice>
+                  <orig>sivere</orig>
+                  <reg>severe</reg>
+               </choice> attack of Fever, She was taken on Saturday last with a Chill and had a high fever, She missed her chill yesterday and today is sitting up She talks a great deal about you, indeed we all think of <choice>
+                  <orig>sparsly</orig>
+                  <reg>sparsely</reg>
+               </choice> anything else — The <add place="left side of page, sideways">I have only <sic>only</sic> a moment to Say, her anxiety we have been <unclear>strech you</unclear> I to add my prayers to <unclear>have give</unclear>
+               </add> . Will soon <choice>
+                  <abbr>Yr afft</abbr>
+                  <expan>Your affectionate</expan>
+               </choice> Father <name type="person">
+                  <choice>
+                     <abbr>Robt</abbr>
+                     <expan>Robert</expan>
+                  </choice> J. Chester</name>
+               <pb n="3" facs="um020c.small.jpg"/> I hope by this time you are reconciled to your situation I have no doubt when you become acquainted with the <choice>
+                  <orig>girles</orig>
+                  <reg>girls</reg>
+               </choice> at the Institute you will be much pleased, I regret that you cannot sleep in the second story I shall suffer so much on account of Fire I have some news to write that will interest your Friend <name type="person">Betty Hale</name> was here this morning said that her Father has determined to take her and <name type="person">Josaphene</name> to <name type="place">New Orleans</name> in October <name type="person">Mrs Hale</name> is a going to move down at the same time; Bet will write to you next week all, Our relations are well except Aunt Narcissa —</p>
+            <p>To <name type="person">
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Hays</name> and all the <name type="person">Walker</name> Family tender our sincere thanks and gratitude for there kindness and attention to you, I knew they would be kind to you, Mary Jane my heart overflows with love and gratitude to <emph>
+                  <choice>
+                     <orig>god</orig>
+                     <reg>God</reg>
+                  </choice>
+               </emph> that you are spared to us, I hope my daughter you will "(remember thy Creator in the days of thy youth that thy days may be long") Papa got home on Saturday last  told me how much you were pleased with the rocks  and creeks I think when we return <pb n="4" facs="um020d.small.jpg"/>
+            </p>
+            <p>You and I will take a good comfortable <choice>
+                  <orig>waiding</orig>
+                  <reg>wading</reg>
+               </choice> in some of those beautiful creeks, in you next letter you must give me an account of your situation what class you are in and every thing write my dear Daughter to your Mother and Father as if you were talking to us let us know all your thoughts feelings wishes your Father will be to see you in October about six weeks from this time be has business in <name type="place">Nashville</name> I will Send you up some Articles by him if there is any thing in <choice>
+                  <orig>perticular</orig>
+                  <reg>particular</reg>
+               </choice> that you want write me word — your <name type="person">Uncle Robert</name> and <name type="person">Cousin Jane</name> leaves on Monday next for <name type="place">Florida</name> all the children unite with Papa and myself with love and Blessings to you may the Great and good <choice>
+                  <orig/>
+                  <reg>God</reg>
+               </choice> watch over and guide you is the Prayer of your —</p>
+            <closer>
+               <salute>Affectionate Mother</salute>
+               <signed>
+                  <name type="person">Elizabeth Chester</name>
+               </signed>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice> the <choice>
+                     <orig>servents</orig>
+                     <reg>servants</reg>
+                  </choice> all send there love to you <name type="person">Aunt Nancy</name> says She wishes she had been with you to nurse you when you were sick</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

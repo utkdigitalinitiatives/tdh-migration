@@ -1,0 +1,167 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl292">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1845 Aug. 8, Sominole [i.e., Seminole] Agency [to] Adam Fergusson, Carthage, Smith County, Tennessee / [unknown]: a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl292</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1845 Aug. 8, Sominole [i.e., Seminole] Agency [to] Adam Fergusson, Carthage, Smith County, Tennessee / [unknown]</title>
+               <date when="1845-08-08">August 8, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is  a letter written to Adam Fergusson in Carthage, Tennessee on August 8, 1945.  The document is torn concealing its author, but he identifies himself as an "old friend" of Fergusson's who was at the time living amongst the Seminole Indians where he was conducting business.  The author also discusses political affairs, particularly the condition of the Democratic party, and the recent death of Andrew Jackson.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-12</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl292</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl292a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Sominole</orig>
+                           <reg>Seminole</reg>
+                        </choice> Agency</name>
+                     <date when="1845-08-08">
+                        <choice>
+                           <abbr>Augst.</abbr>
+                           <expan>August</expan>
+                        </choice> 8th 1845</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>A.</abbr>
+                           <expan>Adam</expan>
+                        </choice> Fergusson</name>, <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I doubt not but that you would like to hear from an old friend therefore I concluded to write you that you might know I had not <choice>
+                  <orig>forgotton</orig>
+                  <reg>forgotten</reg>
+               </choice> my old associates you have just <choice>
+                  <orig>past</orig>
+                  <reg>passed</reg>
+               </choice> through a great battle in <name type="place">Tennessee</name> the result of which I can know nothing but I hope and trust in God that all went right with us Still I have great fears we ⁁ <add place="supralinear">
+                  <choice>
+                     <orig>hav</orig>
+                     <reg>have</reg>
+                  </choice>
+               </add> lost the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> assembly.  I wish you to write me how the Election went off ⁁ <add place="supralinear">in</add>
+               <name type="place">Smith County</name> there is no people that I am more attached to than my democratic friends in Smith County  I deeply lament &amp; pity their political Condition I <unclear>regaile</unclear> that they are honest democrats but regret that they are in the Minority I have a faint hope it may be otherwise from the fact that our Cause is Just &amp; must prevail I <choice>
+                  <orig>simpathise</orig>
+                  <reg>sympathize</reg>
+               </choice> with you from the bottom of my heart — but <choice>
+                  <orig>a lass</orig>
+                  <reg>alas</reg>
+               </choice> it will do no good</p>
+            <p>I am <choice>
+                  <orig>hear</orig>
+                  <reg>here</reg>
+               </choice> doing the best I can for myself trying to make <choice>
+                  <orig>monny</orig>
+                  <reg>money</reg>
+               </choice> to pay my debt I am <choice>
+                  <orig>liveing</orig>
+                  <reg>living</reg>
+               </choice> among the Seminole Indians my business for the present is with them I am in good health <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice>—</p>
+            <p>I have no news to write you but Send you a piece of poetry on the last hour <gap agent="damage"/> have <unclear>venerated deceased</unclear>  friend A Jack <gap agent="damage"/> likewise a Song <choice>
+                  <orig>caled</orig>
+                  <reg>called</reg>
+               </choice> Lucy Lu w<gap agent="damage"/> Sung to the air of Lucy Neal this I <gap agent="damage"/> Pass She must <unclear>have</unclear> to play it o<gap agent="damage"/> it is a very <choice>
+                  <orig>poular</orig>
+                  <reg>popular</reg>
+               </choice> piece of music <gap agent="damage"/> is very fine when well p<gap agent="damage"/>
+               <add place="up left margin">Give my respects to your good Lady &amp; our friends</add>
+            </p>
+            <pb n="2" facs="sl292b.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="place">Choctaw Agency</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1845-08-18">August 18th, 1845</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>Adam <choice>
+                        <orig>Ferguson</orig>
+                        <reg>Fergusson</reg>
+                     </choice> Esq</addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name> Smith County</addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

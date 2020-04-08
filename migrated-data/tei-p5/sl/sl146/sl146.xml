@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl146">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1819 Oct. 27, Claiborne C[oun]ty, Ten[n]essee [to an unknown] Crockett / [Andrew Crockett?] : a machine readable transcription of an image</title>
+            <author>Crockett, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl146</idno>
+            <idno>OCLC: 50556255</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>      [Letter] 1819 Oct. 27, Claiborne C[oun]ty, Ten[n]essee [to an unknown] Crockett / [Andrew Crockett?]</title>
+               <author> Crockett, Andrew</author>
+               <date when="1819-10-27">October 27, 1819</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter, dated October 27, 1819, presumed to be from Andrew Crockett in Claiborne County, TN,  to one of his brothers.  In the letter, Andrew talks of ironworks and discourages his brother from getting involved in the business.  The page is torn off at the bottom, making it unclear to whom the letter is written.</note>
+               <note type="collection" anchored="true">Andrew Crockett Papers II-J-5</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl146</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Iron -- works</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Crockett, Andrew</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl146a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Claiborne <choice>
+                           <abbr>Cty</abbr>
+                           <expan>County</expan>
+                        </choice>
+                        <choice>
+                           <orig>Tenessee</orig>
+                           <reg>Tennessee</reg>
+                        </choice>
+                     </name>
+                     <date when="1819-10-27">the 27th october 1819</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Brother</salute>
+            </opener>
+            <p>I embrace the opportunity of writing to you informing you that we are all in Reasonable health at present I have been in <name type="place">Wythe County</name> and <choice>
+                  <orig>Returnd</orig>
+                  <reg>Returned</reg>
+               </choice> home a few Days ago and bought 2 forge <choice>
+                  <orig>hamers</orig>
+                  <reg>hammers</reg>
+               </choice> at <name type="place">poplarcamp</name> furnace the Drouth has been so <choice>
+                  <orig>grat</orig>
+                  <reg>great</reg>
+               </choice> in that <choice>
+                  <orig>Cuntry</orig>
+                  <reg>Country</reg>
+               </choice> that Near all the Iron works are <choice>
+                  <orig>stopt</orig>
+                  <reg>stopped</reg>
+               </choice> I <choice>
+                  <abbr>Recd</abbr>
+                  <expan>Received</expan>
+               </choice> a letter from you a few Days before I left home in september brother <name type="person">Robert</name> promised to <choice>
+                  <orig>wright</orig>
+                  <reg>write</reg>
+               </choice> you an answer he <choice>
+                  <orig>faild</orig>
+                  <reg>failed</reg>
+               </choice> to do so in Respect of you <choice>
+                  <orig>Cuming</orig>
+                  <reg>Coming</reg>
+               </choice> to make Iron I do Not think it would be profitable for two Reasons <choice>
+                  <abbr>vz</abbr>
+                  <expan>viz.</expan>
+               </choice> — the Coaling ought to be <choice>
+                  <orig>Don</orig>
+                  <reg>Done</reg>
+               </choice> before Cold weather Chiefly <gap agent="damage"/> in this <choice>
+                  <orig>Cuntry</orig>
+                  <reg>Country</reg>
+               </choice>   than <gap agent="damage"/>
+            </p>
+            <pb n="2" facs="sl146b.small.jpg"/>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <gap agent="damage"/>es Crockett</name>
+                  </addrLine>
+                  <addrLine>
+                     <gap agent="damage"/> County</addrLine>
+                  <addrLine>
+                     <gap agent="damage"/> Ten <add place="supralinear">n</add> essee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

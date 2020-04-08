@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc154">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal] 1812 Aug. 11, State of Tennessee [to] Sheriff of Knox County / [witnessed by Francis A. Ramsey] : a machine readable transcription of an image</title>
+            <author> [witnessed by Francis A. Ramsey]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc154</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal] 1812 Aug. 11, State of Tennessee [to] Sheriff of Knox County / [witnessed by Francis A. Ramsey]</title>
+               <author> [witnessed by Francis A. Ramsey]</author>
+               <date when="1812-08-11"> 
+			 August 11, 1812</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a court order  to the sheriff of Knox County  dated August 11, 1812. The sheriff is ordered to bring James Park to the county court house to testify. It is witnessed by Francis A. Ramsey.</note>
+               <note type="collection" anchored="true">Francis A. Ramsey Papers</note>
+               <note type="box" anchored="true">MS 764</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc154</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Legal document</term>
+               <term>Court administration</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007053135"
+                        role="Witness http://id.loc.gov/vocabulary/relators/wit">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc154a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>The State of <name>Tennessee</name> to the Sheriff of <name>Knox County</name>;</addrLine>
+               </address>
+               <salute>Greeting.</salute>
+            </opener>
+            <p>We command you to summon <name>James Park</name> instantly to appear before the Judge of our Circuit Court now sitting in <name>Knox County</name> at the Court House in <name>Knoxville</name> to testify and the truth to say in a cause depending in said Court between <name>Campbells</name>
+               <unclear>See</unclear>
+               <del type="overstrike">&amp; Dunlap &amp; york</del> Plaintiff and <name>Dunlop</name> &amp; <name>york</name> Defendant on behalf of the Plaintiff and this he shall not omit under the lawful penalty Witness <name>Francis A. Ramsey</name> Clerk of said court the Second Monday of <date>August 1812</date>
+            </p>
+            <closer>
+               <signed>FA Ramsey</signed>
+               <pb n="2" facs="sc154b.small.jpg"/>
+               <add>Subpoena <lb/> Campbells See <lb/>
+                  <choice>
+                     <abbr>vs</abbr>
+                     <expan>versus</expan>
+                  </choice> york &amp; Dunlop <lb/> Summon <lb/> James Park for <unclear>p</unclear>
+                  <lb/>
+                  <unclear>decreed</unclear>
+                  <date>11th <choice>
+                        <abbr>Augt</abbr>
+                        <expan>August</expan>
+                     </choice>
+                  </date>
+                  <lb/> Executed <lb/> J Collaway <lb/>
+                  <unclear>HL</unclear>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

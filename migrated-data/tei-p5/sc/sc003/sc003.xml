@@ -1,0 +1,234 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Feb. 15, E[ast] T[ennessee] University [to] Mr.
+			 John D. McAdoo, Clinton, Anderson Co[unty], Tenn[essee] / R. M. Moore: a
+			 machine-readable transcription of an image</title>
+            <author>Moore, R. M</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc003</idno>
+            <idno>OCLC: 49916198</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Feb. 15, E[ast] T[ennessee] University [to] Mr.
+				John D. McAdoo, Clinton, Anderson Co[unty], Tenn[essee] / R. M. Moore</title>
+               <author>Moore, R. M.</author>
+               <date when="1847-02-15">February 15, 1847</date>
+               <extent>3p</extent>
+               <note type="summary">This document is a letter, dated February 15,
+				1847, written from R. M. Moore at East Tennessee University (former name of the
+				University of Tennessee) to John D. McAdoo in Anderson County. In the letter,
+				Moore related the ill state of his health at the time. He also wrote briefly of
+				recent university news. A new student had enrolled, and Moore had befriended
+				the student in hopes that he would soon join his society. Also, a student by
+				the name of Parshall had left the school and returned home. Moore further
+				expressed disdain for the poor performance of his hall's debate team. </note>
+               <note type="Collection">R.M. Moore</note>
+               <note type="Box">n/a</note>
+               <note type="Folder"> MS-35</note>
+               <note type="Document">sc003</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee, East</term>
+               <term>Tennessee History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, R. M</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc003a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <abbr>E. T.</abbr>
+                        <expan>East Tennessee</expan>
+                     </choice>
+				  University,</addrLine>
+                  <addrLine>
+                     <date when="1847-02-15">February 15, 1847.</date>
+                  </addrLine>
+               </address>
+               <salute>Dear John.</salute>
+            </opener>
+            <p>With pain and difficulty do I make the effort of offering a
+			 friendly, but limited communication. I am sorely afflicted with a severe pain
+			 in my head and an aching of my back and limbs, which make me nervous and
+			 unsteady, and therefore I am in a bad situation to write. My shoulder aches and
+			 my hand is so unsteady, that it appears that I <choice>
+                  <orig>can
+			 not</orig>
+                  <reg>cannot</reg>
+               </choice> write without blotting, and I regret to send a letter to a friend,
+			 which looks, as though a blacksmith had written it with a hand spike.</p>
+            <p>But you must make allowances for this one, owing to the state of my
+			 health. I am unable to study any of consequence, for the anguish of my head is
+			 so severe, that it seems that I <choice>
+                  <orig>can not</orig>
+                  <reg>cannot</reg>
+               </choice> bear to
+			 steady at <choice>
+                  <orig>any thing</orig>
+                  <reg>anything</reg>
+               </choice>, much less to retain. I have
+			 not been in a <choice>
+                  <orig>recitition</orig>
+                  <reg>recitation</reg>
+               </choice>
+               <add place="supralinear">room</add>
+               <choice>
+                  <orig>to-day</orig>
+                  <reg>today</reg>
+               </choice>, and if I do not
+			 get better I think that I shall not recite anymore, but endeavor to get home.
+			 My mind is so confused that I am troubled to grasp <choice>
+                  <orig>any
+			 thing</orig>
+                  <reg>anything</reg>
+               </choice> to reveal to you which may interest you, at all, and I am hard
+			 enough pressed in my best moments to produce subjects of importance and
+			 interest.</p>
+            <p>I consider that we have, but little if <choice>
+                  <orig>any
+			 thing</orig>
+                  <reg>anything</reg>
+               </choice> here to communicate, which deserves a high appreciation. We have a
+			 new student, who arrived here recently from 
+			 <name type="place">Mississippi</name> and we have got him into our
+			 building, though he has not joined our society; yet I think that he will for I
+			 think that we have obtained the right side of him. I have taken considerable
+			 pains with him by treating him friendly and familiarly, and he seems to be very
+			 much pleased with me so far, and also he seems to pleased
+			 <add place="supralinear">with</add> some of the other members. I am not like
+			 the 
+			 <abbr>Ph.'s</abbr> when I wish to get a student in our society, for I
+			 <choice>
+                  <orig>beleve</orig>
+                  <reg>believe</reg>
+               </choice> that they begin about the first thing to talk
+			 about their society; but I wish to gain a student's good will first.</p>
+            <pb n="2" facs="sc003b.small.jpg"/>
+            <p>The members of our hall conduct themselves very badly in debate. On
+			 Saturday night last they were very disorderly, and <add place="supralinear">after</add> the close of debate, the resolution, which was
+			 <choice>
+                  <orig>past</orig>
+                  <reg>passed</reg>
+               </choice> on Saturday <add place="supralinear">night</add>
+			 previous to invite the Faculty into our hall, was brought up and voted down by
+			 a large majority. </p>
+            <p>
+               <name type="person">Parshall</name> has quit college and gone home,
+			 though I imagine that his departure will <add place="supralinear">not</add>
+			 produce much sorrow with the students.  
+			 <name type="person">Charles</name> and long 
+			 <name type="person">Kirk</name> I believe are well, and the health of
+			 the students generally is good; also their demeanor is considerably better than
+			 was it some time since. I had just got so that I could study to some advantage
+			 and was advancing much better in my studies; than I have done I believe all of
+			 the first part of the session; but I fear that this misery in my head will
+			 nearly, if not entirely break up my studying during this term.</p>
+            <p>I am informed that 
+			 <name type="person">Miss. Haverly</name> is to be married to 
+			 <name type="person">McKee</name>, one of the editors of the
+			 Tribune.</p>
+            <p>I have nothing more at present to offer to you; but to ask you to
+			 excuse my badly composed and badly written epistle.</p>
+            <closer>
+               <salute>I am your true friend,</salute>
+               <signed>
+                  <name type="person">R. M. Moore</name>
+               </signed>
+               <address>
+                  <addrLine>To.</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice> D. McAdoo</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="letter">
+            <pb n="3" facs="sc003c.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr. John D. McAdoo</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Clinton</name>
+                  </addrLine>
+                  <addrLine>Anderson 
+				<choice>
+                        <abbr>Co.</abbr>
+                        <expan>County</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl205">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1844 Nov. 28 [to] Mrs. [Sally Bedinger] Hamilton / Jno [i.e., John] P Freeman: a machine readable transcription of an image</title>
+            <author>Freeman, John P.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl205</idno>
+            <idno>OCLC: 51206178</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1844 Nov. 28 [to] Mrs. [Sally Bedinger] Hamilton / Jno [i.e., John] P Freeman</title>
+               <author>Freeman, John P. </author>
+               <date when="1844-11-28">November 28, 1844</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter from John P. Freeman to Sally Bedinger Hamilton dated November 28, 1844. Freeman writes how upset everyone is  because Henry Clay lost  his  campaign for the presidency  to Polk, but he is at least relieved that Logan County, KY voted for Clay. He also inquires about a possible land purchase from Hamilton.</note>
+               <note type="collection" anchored="true">Orr Collection IV-J-2</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl205</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Clay, Henry, 1777-1852</term>
+               <term>Kentucky -- Politics and government</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Freeman, John P.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl205.small.jpg"/>
+            <opener>
+               <salute>Dear <name type="person">Mrs. Hamilton</name>
+               </salute>
+               <date when="1844-11-28">28th Nov 1844</date>
+            </opener>
+            <p>we are all well as it regards our common health but many of us are politically Sick indeed Since we have heard of <name type="person">Mr Clay</name>s defeat it has been one of the most unexpected events to us <choice>
+                  <orig>perticularly</orig>
+                  <reg>particularly</reg>
+               </choice> in this Section that ever <choice>
+                  <orig>happined</orig>
+                  <reg>happened</reg>
+               </choice> though we try to bear it with as much fortitude as we can we have one thing that comforts us that is  that <name type="place">kentucky</name> done her duty and perticularly <name type="place">Logan County</name> She gave a majority for Clay of about one thousand &amp; thirty odd we are clear of the political Sin if a Sin it be</p>
+            <p>
+               <name type="person">Mr Lockheart Kenneda</name> has Sold out his land in <name type="place">missouri</name> and come back to this country he wants to <choice>
+                  <orig>purchace</orig>
+                  <reg>purchase</reg>
+               </choice> a small place in this Section he requested me to know of you what would be the least you would take for your place one third paid down the balance in two <choice>
+                  <orig>anual</orig>
+                  <reg>annual</reg>
+               </choice> payments</p>
+            <p>the <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> are all well</p>
+            <p>give our best respects to <name type="person">mr House</name> and mary and the balance of your children tell mr House I think it be <unclear>give</unclear> to be time for him to write to me and for him to do So, we should be very glad to See you indeed Come over Soon</p>
+            <p>write to me <choice>
+                  <orig>Imedeately</orig>
+                  <reg>Immediately</reg>
+               </choice> mine &amp; Deborahs best respects to you</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jno</abbr>
+                        <expan>John</expan>
+                     </choice> P Freeman</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

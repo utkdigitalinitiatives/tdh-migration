@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl560">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1814 Dec. 5, Pensecola [Florida, to] Commanding Officer[s] near Mobile [Alabama]  / Jas. L. Armstrong   : a machine readable transcription of an image</title>
+            <author>Armstrong, Jas. L.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl560</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1814 Dec. 5, Pensecola [Florida, to] Commanding Officer[s] near Mobile [Alabama]  / Jas. L. Armstrong</title>
+               <author>Armstrong, Jas. L.</author>
+               <date when="1814-12-05">December 5, 1814</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">These are two letters dated December 5, 1814. The first is from Doctor Jas. L. Armstrong. He is describing British Naval movements. He believes the British are headed either for Mobile, Alabama, or New Orleans. The second letter is a statement by William Smith Richards verifying Armstrong's letter.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl560</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>War of 1812</term>
+               <term>Gulf of Mexico</term>
+               <term>War, Maritime</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Armstrong, Jas. L.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl560a.small.jpg"/>
+            <opener>
+               <add>(copy)</add>
+               <address>
+                  <addrLine>
+                     <name>Pensacola</name>
+                     <date>
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 5th 1814</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I have obtained accurate and correct information that a large British force is now concentrating off this bar__ Destination most certainly <name>orleans</name> (&amp; perhaps <name>Mobile</name> point as they pass, but of this I have not positive information) 70 or 80 Sail have already collected and as many are daily &amp; hourly expected from <name>
+                  <choice>
+                     <orig>Jamaca</orig>
+                     <reg>Jamaica</reg>
+                  </choice>
+               </name> and else where __ I have Just conversed with an american prisoner who has been on board 5 months and was taken as a spy and examined <name>
+                  <choice>
+                     <abbr>Adml</abbr>
+                     <expan>Admiral</expan>
+                  </choice> Cochrane</name>, Discharged &amp; sent a shore last night from the fleet <unclear>has confirmed</unclear> the above most positively__ and says that the officers boast that they will eat their Christmas dinner in Orleans</p>
+            <p>Sir Alex Cochrane commands the fleet and is now off this port__ Be in the alert for By the Gods I think you will have warm work from a view of the force collecting here</p>
+            <p>I Suppose this information will not be new,__ but if it is considered of much importance__ You may be assured that it is true_ the writer is known to <name>
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Jackson</name>
+               <name>Gen Coffee</name> &amp; most of the officers from <name>Tennessee</name>
+            </p>
+            <closer>
+               <signed>
+                  <name>Jas L Armstrong</name> Surgeon <lb/> &amp; on Detachment</signed>
+               <pb n="2" facs="sl560b.small.jpg"/>
+            </closer>
+         </div>
+         <div subtype="1" type="letter">
+            <opener>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>pensucola</orig>
+                        <reg>pensacola</reg>
+                     </choice> 5th Dec 1814</addrLine>
+               </address>
+            </opener>
+            <p>I have perused the foregoing &amp; cordially add my full conviction of the correctness</p>
+            <closer>
+               <signed>
+                  <name>Wm Smith Richards</name>
+               </signed>
+               <add> A. Copy from the <choice>
+                     <orig>Orriginal</orig>
+                     <reg>Original</reg>
+                  </choice>
+               </add>
+               <address>
+                  <addrLine>To any <name>United States</name> Officer Commanding near mobile or elsewhere_</addrLine>
+               </address>
+               <add>A Copy from the Orriginal</add>
+               <add>copy of a letter <lb/> from Dr Jas L Armstrong <lb/> Surgeon on <choice>
+                     <abbr>Detachm</abbr>
+                     <expan>Detatchment</expan>
+                  </choice>
+                  <lb/> Pensucola 5th <abbr>Decr</abbr> 1814</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

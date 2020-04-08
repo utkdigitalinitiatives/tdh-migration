@@ -1,0 +1,201 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 Dec. 18 [to] Alex[ander] D. Coffee, Florence, Alabama / Andrew
+                    J[ackson] Coffee : a machine readable transcription of an image</title>
+            <author>Coffee, Andrew Jackson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um018</idno>
+            <idno>OCLC: 50200069</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special
+                        Collections Department, Ned R. McWherter Library, Memphis, TN. It may be
+                        used freely by individuals for research, teaching, and personal use as long
+                        as this statement of availability is included in the text. For all other use
+                        contact the University of Memphis Libraries, 126 Ned R. McWherter Library,
+                        The University of Memphis, Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 Dec. 18 [to] Alex[ander] D. Coffee, Florence, Alabama /
+                        Andrew J[ackson] Coffee</title>
+               <author>Coffee, Andrew Jackson</author>
+               <date when="1850-12-18">December 18, 1850</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written from Andrew Jackson Coffee
+                        to his brother Alexander D. Coffee, dated December 18, 1850. In the letter,
+                        Andrew discusses monies owed him by Robert and William Warren, and about the
+                        explosion of the Steamboat Knoxville.</note>
+               <note type="collection" anchored="true">Andrew
+                        Jackson Coffee Family Papers 1833-1903 MS 27</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">24</note>
+               <note type="document" anchored="true">um018</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1
+                    spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward
+                    which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Coffee, Andrew Jackson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um018a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Alex</abbr>
+                           <expan>Alexander</expan>
+                        </choice> D. Coffee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Florence</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Lauderdale <choice>
+                           <abbr>Co</abbr>
+                           <expan>County</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Alabama</name>
+                  </addrLine>
+               </address>
+               <add place="in the address">
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="um018b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">New Orleans</name>
+                     <date when="1850-12-18">
+                        <choice>
+                           <abbr>Dec</abbr>
+                           <expan>December</expan>
+                        </choice> 18th 1850</date>
+                  </addrLine>
+               </address>
+               <salute>My
+                        dear Alex</salute>
+            </opener>
+            <p>I received your letter of the 2nd <choice>
+                  <abbr>inst</abbr>
+                  <expan>instant</expan>
+               </choice> a few minutes
+                    ago and hasten to answer you I am very much obliged to you for the trouble you
+                    have been at in attending to my affairs with <name>
+                  <choice>
+                     <abbr>Robt</abbr>
+                     <expan>Robert</expan>
+                  </choice> Warren</name>. I left the notes with <choice>
+                  <abbr>Messrs</abbr>
+                  <expan>Messieurs</expan>
+               </choice>
+               <name type="person">Simpson, McAlister &amp; <choice>
+                     <abbr>Co</abbr>
+                     <expan>Company</expan>
+                  </choice>
+               </name> for collection in <date>April or May
+                        1849</date>. One of the notes fell due on the <date when="1849-07-01">1st
+                        of July</date> of that year and the other on the <date when="1850-01-01">1st of January 1850</date>. With verbal instructions to make the money when
+                    it fell due and although I have written repeatedly to the house of <choice>
+                  <abbr>S. McA. &amp; Co</abbr>
+                  <expan>Simpson McAlister &amp; Company</expan>
+               </choice> I have never
+                    been able to hear from them but once and then they informed me that the notes
+                    had been put into the hands of <name type="person">Mr Irvine</name> for
+                    collection. I greatly fear that the gentleman have so far neglected my interest
+                    any instructions as to cause me to lose a good deal of my claim if so and I have
+                    any hold on them at law I will make them smart for it, however that is "inter
+                    nos", Continue to do the <emph>best</emph> you can. <name type="person">William
+                        Warren</name> is not now in the city but I believe he is here very
+                    frequently and I will see him and get the best terms I can out of him. <pb n="3" facs="um018c.small.jpg"/>
+            </p>
+            <p>I wrote to you on yesterday and I then <unclear>introspected</unclear> that it
+                    was likely that I would start next week to Florence. I will certainly do so now
+                    and will most likely go by Saturday.</p>
+            <p>I have the <choice>
+                  <orig>painfull</orig>
+                  <reg>painful</reg>
+               </choice>
+               <choice>
+                  <orig>inteligence</orig>
+                  <reg>intelligence</reg>
+               </choice> to state that the Steamboat <name type="place">Knoxville</name> just leaving this port for the <name type="place">Tennessee</name> river with a valuable freight was blown up and
+                    the boat is now a perfect wreck, not many persons were killed right <choice>
+                  <orig>of</orig>
+                  <reg>off</reg>
+               </choice> but it is more than likely several of the wounded &amp;
+                    scalded will die. I refer you to the papers for a more perfect account than I
+                    can give.</p>
+            <p>With our best regards to <name type="person">Ann</name>, and to all the
+                    family.</p>
+            <closer>
+               <salute>I remain yours truly &amp; in haste</salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jackson</expan>
+                        </choice>
+                            Coffee</name>
+                  </emph>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

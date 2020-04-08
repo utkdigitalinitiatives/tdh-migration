@@ -1,0 +1,166 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl323">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Apr. 12, Hartsville, Ten[nessee] [to] Adam Fergusson, Carthage, Ten[nessee]  /     Francis Duffy : a machine readable transcription of an image</title>
+            <author>Duffy, Francis</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl323</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1845 Apr. 12, Hartsville, Ten[nessee] [to] Adam Fergusson, Carthage, Ten[nessee]  /     Francis Duffy</title>
+               <author>Duffy, Francis</author>
+               <date when="1845-04-12">April 12, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter from Francis Duffy to Adam Fergusson in Carthage, TN, dated April 12, 1845.  Duffy writes in response to a request by Fergusson to remove the current Post Master of Fergusson's area.  Duffy concurs that such a removal is desirable.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b3</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl323</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Duffy, Francis</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl323a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Hartsville</name>
+                     <date when="1845-04-12">April 12th 1845</date>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>A</abbr>
+                        <expan>Adam</expan>
+                     </choice>
+                     <choice>
+                        <orig>Ferguson</orig>
+                        <reg>Fergusson</reg>
+                     </choice>
+                     <choice>
+                        <abbr>Esqr.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>your <choice>
+                  <orig>favour</orig>
+                  <reg>favor</reg>
+               </choice> of the 3rd <choice>
+                  <abbr>Inst.</abbr>
+                  <expan>Instant</expan>
+               </choice> was <choice>
+                  <abbr>recd.</abbr>
+                  <expan>received</expan>
+               </choice> on the subject of Post Master at your place I am for the removal of the present incumbent at your Town  The Democracy is at present <choice>
+                  <orig>responsable</orig>
+                  <reg>responsible</reg>
+               </choice> for the Just fair and Equitable administration of their <choice>
+                  <orig>Goverment</orig>
+                  <reg>Government</reg>
+               </choice> this Cannot be Carried out without the aid and hearty Cooperation of true Democrats in Every department I doubt the policy of <choice>
+                  <orig>removeals</orig>
+                  <reg>removals</reg>
+               </choice> to any great Extent <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> after August Then no harm Can Result  But so far as you are Concerned at Carthage I shall aid you at any time I shall be pleased to hear from you on the subject at any time</p>
+            <closer>
+               <salute> I am Very Respectfully your <choice>
+                     <abbr>Obt Sevt. &amp;C</abbr>
+                     <expan>Obedient Servant et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Francis Duffy</name>
+               </signed>
+               <pb n="2" facs="sl323b.small.jpg"/>
+               <address>
+                  <addrLine>Hartsville <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>}</addrLine>
+                  <addrLine>
+                     <date when="1845-04-14">April 14th</date> }</addrLine>
+                  <addrLine>Free</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>F.</abbr>
+                        <expan>Francis</expan>
+                     </choice> Duffy <choice>
+                        <abbr>P.M</abbr>
+                        <expan>Post Master</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Adam Ferguson</name> Esqr</addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                  </addrLine>
+                  <addrLine>Ten</addrLine>
+               </address>
+               <add place="left of address">mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

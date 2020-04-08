@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc200">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Oct. 16, Washington College [to] George Alexander / Archibald Alexander Doak : a machine readable transcription of an image</title>
+            <author> Doak, Archibald Alexander</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc200</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Oct. 16, Washington College [to] George Alexander / Archibald Alexander Doak</title>
+               <author>Doak, Archibald Alexander</author>
+               <date when="1848-10-16">October 16, 1848</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter to George Alexander from Archibald Alexander Doak of Washington College regarding Mr. Alexander's son William, who has chosen to leave the college.</note>
+               <note type="collection" anchored="true">Archibald Alexander Doak Letter</note>
+               <note type="box" anchored="true">MS-1509</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc200</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding schools</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Doak, Archibald Alexander</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc200a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Washington College</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice>. 16, 1848</date>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>After remaining here nearly a week your son William left and is  I presume doubtless at home before this: I employed all the arguments I could command to induce him to remain and regret much that he has left us. My own impression is that under the circumstances he will not attend to his studies any more and I would suggest that some active occupation would be more likely to engage his attention than study. I paid his tuition to the Treasurer of the Board before I knew of his intention to leave whether they will refund or not I do not know as it is against their rules. As the Board pay me a stated salary I can have no control in this matter.</p>
+            <p>The servant I had engaged proved to be utterly worthless and <sic>and</sic> as Francis is well pleased at <unclear>Mr</unclear> Stuart's I think of letting him remain here at least for the present. If the servant you made mention of as being for sale could be hired I would like to hire but I am not able to buy.</p>
+            <p>Francis is desirous of private instruction in addition to the regular College course. I am willing to give him private instruction but it would cost him much more as it would require the same amount of labour as to teach a class of ten_ The ordinary price of private in instruction is fifty dollars per session_ I could not charge less than thirty If you prefer his taking the common course you will please inform <pb n="2" facs="sc200b.small.jpg"/> me. The course he wishes to pursue would I have no doubt be far more improving to him. I hope William will change his mind and come back in a few weeks.</p>
+            <p> Our school is still growing and I think will be a good one in the course of the session</p>
+            <p>Please present my highest regards to Mrs. Alexander.</p>
+            <closer>
+               <salute>Yours truly</salute>
+               <signed>
+                  <name>A. Alexander Doak</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <pb n="3" facs="sc200c.small.jpg"/>
+      <back>
+         <div subtype="1">
+            <p>Exhibit F. to Deposition of <name>H.G. Kyle</name>
+               <lb/>
+               <name>
+                  <choice>
+                     <abbr>Geo</abbr>
+                     <expan>George</expan>
+                  </choice>. A. Alexander</name> et al <lb/> vs <lb/>
+               <name>Elizabeth Tucker</name> et al</p>
+         </div>
+      </back>
+   </text>
+</TEI>

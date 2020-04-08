@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc088">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] ca. 1804 [to] Gen [era] l Andrew Jackson / G. W. Campbell :a machine readable transcription of an image</title>
+            <author>Campbell, G. W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc088</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] ca. 1804 [to] Gen [era] l Andrew Jackson / G. W. Campbell</title>
+               <author>Campbell, G. W.</author>
+               <date when="1804">ca. 1804</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter to General Andrew Jackson from G. W. Campbell dated circa 1804. In the letter, Campbell lists the names of the people that are the managers of the impeachment of governor Claiborne.</note>
+               <note type="collection" anchored="true">George Washington Campbell</note>
+               <note type="box" anchored="true">MS-1457</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc088</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Impeachments -- History</term>
+               <term>Southern States</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Campbell, G. W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc088a.small.jpg"/>
+            <p>compliments very respectfully to your <gap agent="damage"/> to any acquaintances, &amp; believe me with unfeigned &amp; very high esteem</p>
+            <closer>
+               <salute>Your most <choice>
+                     <abbr>Obedt.</abbr>
+                     <expan>Obedient</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">G. W. Campbell</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Genl.</abbr>
+                           <expan>General</expan>
+                        </choice> Andrew Jackson</name>
+                  </addrLine>
+               </address>
+               <add place="bottom of page">The appointment <gap agent="damage"/>
+                  <name type="person">Claiborne</name>
+                  <choice>
+                     <abbr>Govr</abbr>
+                     <expan>Governor</expan>
+                  </choice> of <name type="place">Orleans</name> has not yet <unclear>been infirmed</unclear> in Senate — I shall be happy &amp; expect to hear from you on <choice>
+                     <abbr>recd</abbr>
+                     <expan>receipt</expan>
+                  </choice> of this — give me the news of that quarter or <unclear>advise</unclear> at near one <choice>
+                     <orig>oclock</orig>
+                     <reg>o'clock</reg>
+                  </choice> The managers of the impeachment are — <name type="person">Nicholson</name> — <name type="person">J. Randolph</name> — <name type="person">Radney</name> — <name type="person">Early</name> — <name type="person">Boyle</name> — <name type="person">Nelson</name> — <name type="person">
+                     <choice>
+                        <abbr>GWC</abbr>
+                        <expan>G.W. Campbell</expan>
+                     </choice>
+                  </name>
+               </add>
+               <pb n="2" facs="sc088b.small.jpg"/>
+               <signed>
+                  <name>G W. Campbell</name>
+               </signed>
+               <add place="below signature, sideways">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

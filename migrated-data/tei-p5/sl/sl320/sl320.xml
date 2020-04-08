@@ -1,0 +1,147 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl320">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1841 April 24, Columbia [to] Adam Fergusson, Carthage, Tennessee / J. H. Dew   : a machine readable transcription of an image</title>
+            <author>Dew, J. H.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl320</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1841 April 24, Columbia [to] Adam Fergusson, Carthage, Tennessee / J. H. Dew</title>
+               <author>Dew, J. H.</author>
+               <date when="1841-04-24">April 24, 1841</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to Adam Fergusson from J. H. Dew, dated April 24, 1841. Dew gives the location of Mr. Fitspatrick, but that he does not know where Mrs. Davis lives. Dew also writes about the upcoming Congressional election. He names many candidates for the Whigs and the Democratic Republicans.</note>
+               <note type="collection" anchored="true">Fergusson Papers </note>
+               <note type="box" anchored="true">IV-G-1 b3</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl320</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War pensions</term>
+               <term>Whig Party (Tenn.)</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Dew, J. H.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl320a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                     <date when="1841-04-24">April 24 1841</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">A. Fergusson</name>
+                     <choice>
+                        <abbr>Esq.</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir.</salute>
+            </opener>
+            <p>
+               <name type="person">Samuel Fitspatrick</name>Senior resides on <name type="place">
+                  <choice>
+                     <orig>Fountan</orig>
+                     <reg>Fountain</reg>
+                  </choice> &amp; Globe Creeks</name> about 12 or 14 miles South East of Columbia is a very old man and I learn was a soldier in the war of the Revolution <name type="person">Mrs Davis</name> I have not been able to learn where she resides, but <name type="person">Mr Fitspatrick</name> of course can tell you where she lives when you come to take his deposition</p>
+            <closer>
+               <salute>Yours Very respectfully <abbr>&amp;c</abbr>
+               </salute>
+               <signed>Jno H. <unclear>Dew</unclear>
+               </signed>
+               <add place="bottom of page">
+                  <choice>
+                     <abbr>P. S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> The Canvass for Congress in this district is waxing pretty warm, <name type="person">
+                     <choice>
+                        <abbr>Maj</abbr>
+                        <expan>Major</expan>
+                     </choice> Watterson</name> the democratic candida<gap agent="damage"/> is traversing the district making <choice>
+                     <orig>speechs</orig>
+                     <reg>speeches</reg>
+                  </choice> , <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Caha<gap agent="damage"/> the Whig Candidate is sick &amp; unable to go out, b<gap agent="damage"/> has published a long Circular full of the ran<gap agent="damage"/> federal doctrines_ <unclear>gov</unclear> for <name type="person">Clay</name>s distribution <gap agent="damage"/> &amp; several others equally at war with the best inte<gap agent="damage"/> of the American people. Watterson will <unclear>beat</unclear>
+                  <gap agent="damage"/> badly_ <name type="person">Barkly Martin</name> Esq for the State sena<gap agent="damage"/> Maj <name type="person">Wm H Polk</name> &amp; one John H. <unclear>Dew</unclear> for the <choice>
+                     <abbr>H. R.</abbr>
+                     <expan>House of Representatives</expan>
+                  </choice> are</add>
+               <pb n="2" facs="sl320b.small.jpg"/> the democratic republican candidates for this county Maj <name type="person">G W Gordon</name> has announced him self the Whig candidate for the Senate on the Whig ticket made <choice>
+                  <orig>too</orig>
+                  <reg>two</reg>
+               </choice> speech &amp; returned &amp; we have not heard from him in the last week or so although his opponent has been speaking every day <name type="person">Coleman</name> &amp; <name type="person">Houston</name> who were nominated for the H. R. on the Whig ticket decline the honor of being <unclear>beaten thus far</unclear>  we have no opposition but I presume will have if Cahal can make a pretty fair show against Watterson My respects to Mr Fergusson &amp; accept <choice>
+                  <orig>assurences</orig>
+                  <reg>assurances</reg>
+               </choice> for your self of my regard &amp; esteem <salute>Yours &amp;c</salute>
+               <signed>JHD</signed>
+               <pb n="3" facs="sl320c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Adam Fergusson</name> Esqr</addrLine>
+                  <addrLine>
+                     <name type="place">Carthage</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl678">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Jan. 20, Nashville, Tennessee [to] Legislature / Neill Brown  : a machine readable transcription of an image</title>
+            <author> Brown, Neill</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl678</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1848 Jan. 20, Nashville, Tennessee [to] Legislature / Neill Brown </title>
+               <author> Brown, Neill </author>
+               <date when="1848-01-20"> 
+			 January 20, 1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a brief message dated January 20, 1848 from the governor of Tennessee, Neill S. Brown to members of the legislature.  The message conveys a letter to the members from Major General Zachary Taylor.</note>
+               <note type="collection" anchored="true">Governor Neill S. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl678</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Tennessee. Governor.</term>
+               <term>Taylor, Zachary</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2007029263"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brown, Neill Smith, 1810-1886</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl678a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Executive Department Nashville</addrLine>
+               </address>
+               <date>January 20th 1848</date>
+               <salute>Gentlemen of the Senate &amp; House of Representatives</salute>
+            </opener>
+            <p>I herewith transmit to you a letter from Major General <name>Zachary Taylor</name> in response to the invitation given him by your Honorable body, to visit the City of <name>Nashville</name>
+            </p>
+            <closer>
+               <add>Yours respectfully</add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>N</abbr>
+                        <expan>Neill</expan>
+                     </choice>. Brown</name>
+               </signed>
+               <pb n="2" facs="sl678b.small.jpg"/>
+               <add>Message from His Excellency the Governor <lb/> Senate <date>20th <choice>
+                        <abbr>Jany</abbr>
+                        <expan>January</expan>
+                     </choice>. 1848</date> Read &amp; ordered to be transmitted to the 140 of <choice>
+                     <abbr>Reps</abbr>
+                     <expan>Representatives</expan>
+                  </choice>. <lb/>
+                  <choice>
+                     <abbr>Ho</abbr>
+                     <expan>House</expan>
+                  </choice>. of Reps 20 Jany 1848 Read &amp; laid on the table <name>S.D. Mitchell</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc223">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1845 Aug. 19 Maryville, Tennessee [to] Colonel Gant / John S. McNutt : a machine readable transcription of an image</title>
+            <author> McNutt, John S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc223</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1845 Aug. 19 Maryville, Tennessee [to] Colonel Gant / John S. McNutt</title>
+               <author>McNutt, John S.</author>
+               <date when="1845-08-19">August 19, 1845</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 19, 1845 from John S. McNutt to Colonel Gant of Maryville, Tennessee. McNutt writes that he has decided to run for Attorney General, and   asks for Colonel Gant's support.</note>
+               <note type="collection" anchored="true">John S. McNutt Letter</note>
+               <note type="box" anchored="true">New Accessions</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc223</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McNutt, John S.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc223a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Maryville</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Aug</abbr>
+                     <expan>August</expan>
+                  </choice>. 19th 1845</date>
+               <salute>
+                  <name>
+                     <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                     </choice>. Gant</name> Dear Sir</salute>
+            </opener>
+            <p>You will perhaps recollect that I informed you some time ago that I expected to be a candidate before our next legislature, for Attorney General in this district_ I have determined to run for the office; and must again ask the favor of you, to exert your influence with your County member, and members in the adjoining Counties, in my behalf_ I can assure you <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice>, I will feel very grateful to you for any influence you may be pleased to exert in my favor_ Can you not attend to <name>Landerdale</name>, <name>Rankin</name> of <name>Hamilton</name> &amp; <name>Marion</name>, <name>Frazier</name> of <name>Rhea</name> &amp; <name>Meigs</name> and <name>Holt </name>of <name>Monroe,</name>
+               <name>McMinn </name>and <name>Polk</name>_ <name>Bicknell</name> and <name>Reynolds</name> the present incumbent, I am told will be candidates for the office and perhaps <name>Jo. Heiskell</name> of <name>Monroe</name>_ I think my prospects for success are tolerable good, I can get the support of <pb n="2" facs="sc223b.small.jpg"/> our county members, <name>Tedford</name> and <name>Henry</name> of the Senate. I think, against my opposition, either whig or <choice>
+                  <orig>Demacratic</orig>
+                  <reg>Democratic</reg>
+               </choice>, notwithstanding we differ in politics; I think I can also get the vote of <name>Duggan</name> of <name>Sevier </name>&amp; <name>Cocke</name> who is also a whig_</p>
+            <p>Wherever you have a friend or an acquaintance in any part of the state, will you mention the subject to them, for me? I should dislike very much to be beaten_</p>
+            <closer>
+               <salute>very Respectfully <lb/> your friend</salute>
+               <signed>
+                  <name>John S. McNutt</name>
+               </signed>
+               <add>
+                  <name>Col J. C. Gant }</name>
+               </add>
+               <add>
+                  <choice>
+                     <abbr>PS</abbr>
+                     <expan>Post Script</expan>
+                  </choice>. I should like to hear from you when you have leisure to write_</add>
+               <signed>J. S. McNutt</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal license] 1841 Mar. 27 [to] Jacob Chriesman /   Lemuel Bell McConnico : a machine readable transcription of an image</title>
+            <author>McConnico, Lemuel Bell</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc075</idno>
+            <idno>OCLC: 51337440</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal license] 1841 Mar. 27 [to] Jacob Chriesman /   Lemuel Bell McConnico</title>
+               <author>McConnico, Lemuel Bell</author>
+               <date when="1841-03-27">March 27, 1841</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a legal license issued to Jacob Chriesman by county court clerk Lemuel Bell McConnico on March 27, 1841. The legal license shows that Chriesman is allowed to keep a Stallion in the county and has paid the property taxes for the stallion.</note>
+               <note type="collection" anchored="true">Jacob Chriesman</note>
+               <note type="box" anchored="true">MS-1528</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc075</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Tennessee</term>
+               <term>Stallions</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">McConnico, Lemuel Bell</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc075a.small.jpg"/>
+            <head>THE STATE OF <name type="place">TENNESSEE</name>, SS.</head>
+            <p>WHEREAS, <hi rend="written text">
+                  <name type="person">Jacob Chriesman</name>
+               </hi> ha<hi rend="written text">s</hi> this day applied to <name type="person">Lemuel B. McConnico</name>, clerk of the county court of <name type="place">Williamson county</name>, in the State of Tennessee, aforesaid,, for a license to keep a <hi rend="written text">Stallion</hi> named <hi rend="written text">Young Sir <unclear>Reliace</unclear>
+               </hi> in the county of Williamson aforesaid, having paid the tax of <hi rend="written text">Four</hi> dollars, the season price of a mare, to said <hi rend="written">Stallion</hi> as required by an act entitled "an act setting forth the property, real and personal, and the privileges and occupations liable to taxation in this State," passed the <date when="1836-02-05">5th day of February 1836</date>. These presents are therefore to license and authorize you, the said <hi rend="written text">Jacob Chriesman</hi> to keep said <hi rend="written text">Stallion</hi> for mares in the county of Williamson aforesaid, for and during the season of 184 <gap agent="damage"/>and no longer under this license.</p>
+            <p>Witness my hand at office, this <date when="1841-03-27">
+                  <hi rend="written text">27</hi> day of March 184<hi rend="written text">1</hi>
+               </date>
+            </p>
+            <closer>
+               <signed>Lemuel Bell McConnico</signed>
+               <add place="left of signature">
+                  <name type="person">Mark L. Andrews</name>
+                  <lb/> By <unclear>I Aeh C. Stewart</unclear>
+               </add>
+               <pb n="2" facs="sc075b.small.jpg"/>
+               <address>
+                  <addrLine>Jacob Chriesman</addrLine>
+               </address>
+               <add place="below address">Stallion License <lb/> State tax $4.00 <lb/> Clerks fee .50</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

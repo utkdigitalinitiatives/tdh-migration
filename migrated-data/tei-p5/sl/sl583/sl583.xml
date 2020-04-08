@@ -1,0 +1,136 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl583">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1805 May 25, Knox County [Tennessee, to] James Winchester, Cragfont [Tennessee] / Archibald Roane   : a machine readable transcription of an image</title>
+            <author>Roane, Archibald</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl583</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1805 May 25, Knox County [Tennessee, to] James Winchester, Cragfont [Tennessee] / Archibald Roane</title>
+               <author>Roane, Archibald</author>
+               <date when="1805-05-25">May 25, 1805</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from former Governor Archibald Roane to General James Winchester, dated May 25, 1805. Roane is considering running for Chief Magistrate. He believes that many people are against his winning. He requests that Winchester find out what the people of his area think about Roane's candidacy.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl583</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Roane, Archibald, 1759-1819</term>
+               <term>Politics</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n96010062"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Roane, Archibald, 1759-1819</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl583a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knox County</name>
+                     <name>25th May 1805</name>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>I suppose you have heard that my friends have brought forward my name as a Candidate for the office of chief magistrate</p>
+            <p>The event will depend on the Voice of the People and I know every effort will be used to prejudice their minds against me I think however I am not too sanguine when I say, that the prospect on this side the mountain is at present more <choice>
+                  <orig>favourable</orig>
+                  <reg>favorable</reg>
+               </choice> than it was two years ago will you favour me with a line stating <pb n="2" facs="sl583b.small.jpg"/>
+               <del type="overstrike">of</del> will be the probable result in your County and District. Some pains are taken here to inculcate the Idea that a great number of my Cumberland friends have changed their minds and will now use their influence against me as the object of those who circulate the report is known, I believe it will not have much effect.</p>
+            <closer>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir <lb/> with real Esteem <lb/> your <choice>
+                     <abbr>Obd</abbr>
+                     <expan>Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name>Archibald Roane</name>
+               </signed>
+               <pb n="3" facs="sl583c.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>Arch</abbr>
+                     <expan>Archibald</expan>
+                  </choice> Roane <choice>
+                     <abbr>Esqr</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <lb/> 25 May 1805</add>
+               <address>
+                  <addrLine>
+                     <unclear>caumpbulls Uauth</unclear>
+                  </addrLine>
+                  <addrLine>25th May 1805</addrLine>
+               </address>
+               <add>Free</add>
+               <address>
+                  <addrLine>General <name>James Winchester</name>
+                  </addrLine>
+                  <addrLine>Post Master</addrLine>
+                  <addrLine>
+                     <name>Crag-font</name>
+                  </addrLine>
+               </address>
+               <add>mail</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

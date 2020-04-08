@@ -1,0 +1,155 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt for] books [bought from] Geo[rge] Hill, 1806 Jan. 16, Knoxville, [Tennessee] / [received by] Return J. Meigs: a machine-readable transcription</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>pa0015</idno>
+            <idno>OCLC: 44922912</idno>
+            <availability status="restricted">
+               <p>This work is the property of The University of Tennessee Special Collections Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt for] books [bought from] Geo[rge] Hill, 1806 Jan. 16, Knoxville, [Tennessee] / [received by] Return J. Meigs</title>
+               <date when="1806-01-16">January 16, 1806</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a receipt, dated January 16, 1806, for four books bought by Return J. Meigs, U.S. Agent to the Cherokee Nation, from George Hill.</note>
+               <note type="repository">Special Collections Library, The University of Tennessee Knoxville</note>
+               <note type="collection">Penelope Johnson Allen</note>
+               <note type="box">1</note>
+               <note type="folder">18</note>
+               <note type="document">pa0015</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Books</term>
+               <term>Cherokee Nation</term>
+               <term>Indian agents</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0015a.small.jpg"/>
+            <p>
+               <add place="top">
+                  <unclear/>
+                  <name type="person">R. J Meigs</name> account of <name type="place">Knoxville</name>
+               </add>
+               <name type="person"> 
+                  <reg>George</reg> Hill</name>s Bill of Books<lb/>
+               <hi>$40..25</hi>
+            </p>
+            <p>
+               <name type="person"> 
+                  <reg>George</reg> Hill</name>. Books<lb/>
+               <hi>$40..25</hi>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="pa0015b.small.jpg"/>
+            <p>
+               <date when="1806">1806</date>
+               <choice>
+                  <abbr>Bot.</abbr>
+                  <expan>Bought</expan>
+               </choice> of <name type="person">George Hill</name>
+               <table>
+                  <row>
+                     <cell>
+                        <date when="1806-01-16">January 16th.</date>
+                     </cell>
+                     <cell>
+                        <bibl>
+                           <title>Savators <choice>
+                                 <orig>Phisiognomy</orig>
+                                 <reg>Physiognomy</reg>
+                              </choice>
+                           </title>
+                        </bibl> 3 vol</cell>
+                     <cell rend="right"> 25.00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <bibl>
+                           <title>Aiscough's Shakespear</title>
+                        </bibl> 3 <choice>
+                           <abbr>do.</abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell rend="right">10.00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <bibl>
+                           <title>Buffon Abridged</title>
+                        </bibl>
+                     </cell>
+                     <cell rend="right">3.00</cell>
+                  </row>
+                  <row>
+                     <cell>3 <bibl>
+                           <title>Gentlemans Remembrancer</title>
+                        </bibl>
+                     </cell>
+                     <cell rend="right"> 2.25</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell rend="right">Dollars 40.25</cell>
+                  </row>
+               </table> Received payment</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Geo</abbr>
+                        <expan>George</expan>
+                     </choice> Hill</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,344 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl131">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal Inventory of Estate] 1840, June 5 and 1841, Jan. 29, Dickson County, Tennessee   [of] Walter Bell / [signed by] A. Caldwell, Gilford Mills, and W.T. Reynolds : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl131</idno>
+            <idno>OCLC: 50541556</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Legal Inventory of Estate] 1840, June 5 and 1841, Jan. 29, Dickson County, Tennessee   [of] Walter Bell / [signed by] A. Caldwell, Gilford Mills, and W.T. Reynolds</title>
+               <date when="1840-06-05">June 5, 1840</date>
+               <date when="1841-01-29">January 29, 1841</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">These are two documents. One is a list of the perishable items of Walter Bell's estate, dated June 5, 1840. The other is a statement giving the value of his real estate, dated Jan. 29, 1841.  The total value of the Bell estate, including perishable items, is set at $3,063.55.</note>
+               <note type="collection" anchored="true">Bell Collection IV-H-1</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">6</note>
+               <note type="document" anchored="true">sl131</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Real property</term>
+               <term>Estate planning</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl131a.small.jpg"/>
+            <opener>
+               <add rend="different hand, ink" place="top of page">Perishable Property BB6-2 Inventory of Walter Bell's Estate</add>
+               <name type="place">Dickson County</name>
+               <name type="place">State of Tennessee</name>
+               <date when="1840-06-05">June 5th 1840</date>
+            </opener>
+            <p>We the undersigned by request of <name type="person">William B Bell</name> Administrator of <name type="person">Walter Bell</name>
+               <choice>
+                  <abbr>Dec'd</abbr>
+                  <expan>Deceased</expan>
+               </choice> have proceeded to value the perishable property of the said <name type="person">Walter Bell</name>
+               <choice>
+                  <abbr>Dec'd</abbr>
+                  <expan>Deceased</expan>
+               </choice> and to assess the value to be Thirteen Hundred Sixty three Dollars  55 cents as the following list will Show. <table>
+                  <head>Valuation of the perishable property of <name type="person">Walter Bell</name>
+                     <choice>
+                        <abbr>Dec'd</abbr>
+                        <expan>Deceased</expan>
+                     </choice>
+                  </head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Viz.</abbr>
+                           <expan>Videlicet</expan>
+                        </choice> 42 head of sheep at 125 cents each</cell>
+                     <cell role="data" rows="1" cols="1">52.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">5 cows &amp; calves</cell>
+                     <cell role="data" rows="1" cols="1">50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Steers &amp; 1 dry cow</cell>
+                     <cell role="data" rows="1" cols="1">30.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Steers &amp; 2 <choice>
+                           <orig>heiffers</orig>
+                           <reg>heifers</reg>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">25.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">5 yearlings</cell>
+                     <cell role="data" rows="1" cols="1">17.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">115 head of hogs at 150 <del type="overstrike">at 150</del> each</cell>
+                     <cell role="data" rows="1" cols="1">172.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">30 Shoots at 50 cents each</cell>
+                     <cell role="data" rows="1" cols="1">15.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2000 <choice>
+                           <abbr>lbs</abbr>
+                           <expan>pounds</expan>
+                        </choice> of bacon at 7 <choice>
+                           <abbr>cts</abbr>
+                           <expan>cents</expan>
+                        </choice>  per <choice>
+                           <abbr>  lb</abbr>
+                           <expan>pound</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">140.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">32 <choice>
+                           <abbr>bu</abbr>
+                           <expan>bushels</expan>
+                        </choice> of wheat at 4 <choice>
+                           <abbr>cts</abbr>
+                           <expan>cents</expan>
+                        </choice> per <choice>
+                           <abbr>bu</abbr>
+                           <expan>bushel</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">12.80</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">15 barrels of corn at 125 cents per <choice>
+                           <abbr>br</abbr>
+                           <expan>barrel</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">18.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 Set of gear complete</cell>
+                     <cell role="data" rows="1" cols="1">9.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4 ploughs</cell>
+                     <cell role="data" rows="1" cols="1">8.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 harrow with iron teeth</cell>
+                     <cell role="data" rows="1" cols="1">2.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <orig>waggon</orig>
+                           <reg>wagon</reg>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 gray horse</cell>
+                     <cell role="data" rows="1" cols="1">60.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 gray <choice>
+                           <abbr>do</abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 bay mare &amp; colt</cell>
+                     <cell role="data" rows="1" cols="1">75.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 bay mare</cell>
+                     <cell role="data" rows="1" cols="1">75.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 gray filly 2 years old</cell>
+                     <cell role="data" rows="1" cols="1">50.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 bay horse <choice>
+                           <abbr>do</abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">45.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">958.05</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="sl131b.small.jpg"/>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">The amount brought over</cell>
+                     <cell role="data" rows="1" cols="1">958.05</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 bay yearling horse colt</cell>
+                     <cell role="data" rows="1" cols="1">15.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">12 geese</cell>
+                     <cell role="data" rows="1" cols="1">4.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8 turkeys</cell>
+                     <cell role="data" rows="1" cols="1">3.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8 feather beds &amp; furniture</cell>
+                     <cell role="data" rows="1" cols="1">200.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 common bedsteads</cell>
+                     <cell role="data" rows="1" cols="1">10.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 press &amp; furniture</cell>
+                     <cell role="data" rows="1" cols="1">45.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 folding table injured</cell>
+                     <cell role="data" rows="1" cols="1">2.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 common poplar tables</cell>
+                     <cell role="data" rows="1" cols="1">    .75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 long table</cell>
+                     <cell role="data" rows="1" cols="1">4.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">12 win⁁<add place="supralinear">d</add>sor chairs</cell>
+                     <cell role="data" rows="1" cols="1">12.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">5 common <choice>
+                           <abbr>do</abbr>
+                           <expan>ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1.25</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">lot weeding hoes &amp; 2 falling axes</cell>
+                     <cell role="data" rows="1" cols="1">4.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">kitchen furniture</cell>
+                     <cell role="data" rows="1" cols="1">27.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 flax wheel &amp; check reel</cell>
+                     <cell role="data" rows="1" cols="1">3.75</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 lot of books</cell>
+                     <cell role="data" rows="1" cols="1">72.00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">1363.55</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div subtype="1" type="letter">
+            <opener>
+               <dateline>
+                  <date when="1841-01-29">January 29th 1841</date>
+               </dateline>
+            </opener>
+            <p>This day we the undersigners have proceeded to value the real estate of Walter Bell  <choice>
+                  <abbr>Dec'd</abbr>
+                  <expan>Deceased</expan>
+               </choice> and do assess the value thereof to Seventeen Hundred Dollars together with the former valuation done by us on the <date when="1840-06-05">5th of June 1840</date> of the perishable property <del type="overstrike">
+                  <unclear/>
+               </del> Walter Bell <choice>
+                  <abbr>Dec'd</abbr>
+                  <expan>Deceased</expan>
+               </choice> of  Thirteen Hundred and Sixty three Dollars 55 cents making in the whole three Thousand Sixty three 55 cents to the which valuation to the best of our knowledge <lb/> we sign our names and affix our seals <lb/> day and date above written</p>
+            <signed>
+               <name type="person">A Caldwell</name>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>seal</figDesc>
+                  </figure>
+               </add>
+            </signed>
+            <signed>
+               <name type="person">Gilford Mills</name>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>seal</figDesc>
+                  </figure>
+               </add>
+            </signed>
+            <signed>
+               <name type="person">W. T. Reynolds</name>
+               <add place="right of signature">
+                  <figure>
+                     <figDesc>seal</figDesc>
+                  </figure>
+               </add>
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

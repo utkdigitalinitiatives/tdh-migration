@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc192">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Commission] 1830 Mar. 29, [to] James M. Dowry / William Carroll : a machine readable transcription of an image</title>
+            <author> Carroll, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc192</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Commission] 1830 Mar. 29, [to] James M. Dowry / William Carroll</title>
+               <author>  Carroll, William</author>
+               <date when="1830-03-29">March 29, 1830 
+			 </date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a formal commission order dated March 29, 1830, issued by Tennessee governor William Carroll to James M. Dowry as Colonel Commandant.</note>
+               <note type="collection" anchored="true">Tennessee Militia</note>
+               <note type="box" anchored="true">MS-1830</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc192</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>United States. Dept. of Defense. Military commission order</term>
+               <term>Carroll, William, 1788-1844</term>
+               <term>
+                  <name role="Associated name http://id.loc.gov/vocabulary/relators/asn">Carroll, William, 1788-1844</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc192a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>STATE OF TENNESSEE.</addrLine>
+               </address>
+            </opener>
+            <p>TO ALL WHO SHALL SEE THESE PRESENTS-- GREETING: KNOW YE, That reposing special trust and confidence in the patriotism, valor, conduct and identity of <name>James M. <unclear>Dowry</unclear>
+               </name> _ of the county of <name>
+                  <unclear>Davidson</unclear>
+               </name> We do commission him Colonel Commandant of the <unclear>78</unclear> Regiment of the Militia of this State: and do authorize and empower him to execute and fulfil the duties of Colonel Commandant__ the said Regiment, agreeably to law, and the Rules and directions of Military Discipline; To have and to hold the rank and command of Colonel Commandant__ the said Regiment, during good behaviour, with all the powers, privileges and emoluments thereto of right appertaining.  And the said James M Howry__ is hereby required to obey his superior officers' lawful orders and commands, and all officers and privates under his command, are to be obedient to him as aforesaid.  IN TESTIMONY WHEREOF, We have caused the Great Seal of the State to be hereunto affixed.</p>
+            <closer>Witness, WILLIAM CARROLL, Esquire, our Governor and Commander in Chief, at <name>Nashville</name>, the <date>30 day of May the 54 year of our Independence, and in the year 1830</date>. <signed>
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Carroll</signed>
+               <add>BY THE GOVERNOR: <name>Daniel Graham</name>, SECRETARY OF STATE.</add>
+               <pb n="2" facs="sc192b.small.jpg"/>
+               <add>I do solemnly swear, that I will support the Constitution of the <name>United States</name> and the state of <name>Tennessee</name>, and that I will faithfully discharge the duties of the Militia of <name>Tennessee</name>, as prescribed by law, to the best of my abilities. Sworn to, and subscribed before me, this <date>29th day of march 1830</date>
+                  <unclear>Jm</unclear>
+                  <name>James M. Dowry</name> I, do solemnly swear that I will not give or accept a challenge, either written or verbal, to fight a duel__ nor will I be the bearer of a challenge for such purpose__ nor will I fight a duel, nor be second to fight a duel, during my continuance in office__ So HELP ME GOD.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

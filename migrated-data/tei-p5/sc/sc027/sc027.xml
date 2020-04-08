@@ -1,0 +1,210 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1794 Dec. 24, Nashville [to] Col[onel] David Henley,
+			 Knoxville / Sampson Williams : a machine-readable transcription of an
+			 image</title>
+            <author>Williams, Sampson</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc027</idno>
+            <idno>OCLC: 50037306</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1794 Dec. 24, Nashville [to] Col[onel] David Henley,
+				Knoxville / Sampson Williams</title>
+               <author>Williams, Sampson</author>
+               <date when="1794-12-04">December 24, 1794</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter from Sampson Williams
+				to Colonel David Henley in Knoxville, dated December 24, 1794. Enclosed with
+				the letter was the certificate of a man by the name of Morris Shane (or
+				Shannon). Williams also wrote of the murder of three men at the hands of
+				Indians, and he discussed the necessity of deploying more troops for the
+				protection of Tennessee citizens.</note>
+               <note type="Collection"> Sampson Williams</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-1958</note>
+               <note type="Document">sc027</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Militia</term>
+               <term>Tennessee History</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, Sampson</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc027a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville </name>
+                     <date when="1794-12-24">December the 24th 1794</date>
+                  </addrLine>
+               </address>
+               <salute>Sir </salute>
+            </opener>
+            <p>Inclosed is 
+			 <name type="person">Morris Shanes</name> Certificate  power with
+			 the Certificate of the Muster Master and his captain on the back of the Old
+			 Certificate this will enable you to report to the war office in favor of the
+			 poor man who stands Security for the money. <del type="overstrike">and is
+		  bef</del> Before I got home I was met with the News of the Murder of 
+		  <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Montgomery
+			 </name>and two others the latter of <choice>
+                  <orig>whome</orig>
+                  <reg>whom</reg>
+               </choice> have till
+		  lately lived in a <choice>
+                  <orig>peaceble</orig>
+                  <reg>peaceable</reg>
+               </choice> part of the Country
+		  Since that three of my <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> all
+		  <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> respectable citizens have been killed but a small
+		  distance from the Settlement, this shows how little <choice>
+                  <orig>dependance</orig>
+                  <reg>dependence</reg>
+               </choice> is to be put in Treaties and also proves how
+		  much we are neglected for want of protection for all the Troops allowed to this
+		  district is not sufficient to guard one County as it ought to be done for when
+		  mischief is done in one part of the district the troops are so scattered the
+		  enemy will be entirely out of reach before they can possibly collect and if
+		  there was none at all in service it would be better than so few as every one
+		  would then have an equal right to turn out I hope you will not forget the red
+		  Ink powder as poke <choice>
+                  <orig>berrys</orig>
+                  <reg>berries</reg>
+               </choice> are all dead, and believe
+		  me</p>
+            <closer>
+               <salute> I am Sir with Esteem your 
+				<choice>
+                     <abbr>mos obdt servt</abbr>
+                     <expan>most obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <choice>
+                     <abbr>S</abbr>
+                     <expan>Sampson</expan>
+                  </choice> Williams</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="sc027b.small.jpg"/>
+            <p>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1795-12-04">4 
+				  <choice>
+                           <abbr>Decemr</abbr>
+                           <expan>December</expan>
+                        </choice> 1795</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Sampson Williams</name>
+                  </addrLine>
+               </address> A letter <lb/> respecting Morris Shannon <lb/> certificate
+		  <lb/> that 
+		  <name type="person">Allen Parker </name>
+               <lb/> served a tour duty
+		  <add place="right">
+                  <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Colo</abbr>
+                           <expan>Colonel</expan>
+                        </choice>
+                     </addrLine>
+                     <addrLine>
+                        <name type="person">David Henley</name>
+                     </addrLine>
+                     <addrLine>
+                        <name type="place"> Knoxville</name>
+                     </addrLine>
+                  </address>
+                  <add place="below, left">
+                     <choice>
+                        <abbr>Hond
+			 W Colo</abbr>
+                        <expan>Honored W Colonel</expan>
+                     </choice>
+                     <lb/>
+                     <name type="person"> Robert Hays</name>
+                  </add>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

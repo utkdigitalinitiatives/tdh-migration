@@ -1,0 +1,173 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1802 Nov. 12, Nashville [to] Colo[nel] Return J Meggs
+			 [i.e., Meigs] / James Robertson: a machine-readable transcription of an
+			 image</title>
+            <author>Robertson, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc048</idno>
+            <idno>OCLC: 50448681</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1802 Nov. 12, Nashville [to] Colo[nel] R J Meggs
+				[i.e., Meigs] / James Robertson </title>
+               <author>Robertson, James</author>
+               <date when="1802-11-12">November 12, 1802</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter dated November 12,
+				1802, written by James Robertson to Cherokee agent Return J. Meigs. Robertson
+				describes a claim in which a Cherokee named Culsetche had his horse stolen from
+				a White person. Both Robertson and James Jones attest to the credibility of the
+				claim.</note>
+               <note type="Collection"> James Robertson</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-367</note>
+               <note type="Document">sc048</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Meigs, Return Jonathan, 1740-1823</term>
+               <term>Cherokee Indians</term>
+               <term>Horse stealing</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80165335"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Robertson, James, 1742-1814</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc048a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1802-11-12">November 12th 1802</date>
+                  </addrLine>
+               </address>
+               <salute>Sir</salute>
+            </opener>
+            <p>I understand that 
+			 <name type="person">Culsetche</name> a 
+			 <name type="person">Cherokee Indian</name> has <choice>
+                  <orig>applyed</orig>
+                  <reg>applied</reg>
+               </choice> to you for pay for a horse Stolen from him by some
+			 white person some time <del type="overstrike">in the</del> ago near my Iron
+		  works, and suggests that I can establish his Claim, but I cannot further than
+		  from reports, but am Confident he lost a horse and that he was taken by some
+		  white person, as such a horse was taken <choice>
+                  <orig>a Cross</orig>
+                  <reg>across</reg>
+               </choice>
+               <name type="place">cumberland</name> at 
+		  <name type="place">Davis Ferry</name> the morning after Culsetche lost
+		  his, and the Indians Said they tracked him from the place he was stolen to
+		  Davis Ferry  This circumstance happened some time in the winter 
+		  <date when="1797">1797</date> or 
+		  <date>1798</date> and I think the horse was
+		  worth sixty dollars </p>
+            <closer>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Colo</abbr>
+                           <expan>Colonel</expan>
+                        </choice> Return 
+					 <choice>
+                           <abbr>J.</abbr>
+                           <expan>Jonathan</expan>
+                        </choice>
+                        <choice>
+                           <orig>Meggs</orig>
+                           <reg>Meigs</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J</abbr>
+                        <expan>James</expan>
+                     </choice> L.
+				  Robertson</name>
+               </signed>
+               <add place="bottom"> I Certify that I lived at General
+			 Robertsons Iron works at the time the Indians horse was stolen and that the
+			 above state is true <lb/>
+                  <name type="person">John Jones</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p>Letter <lb/> James Robertson <lb/> To <lb/>
+               <choice>
+                  <abbr>Colo R J</abbr>
+                  <expan>Colonel Return Jonathan</expan>
+               </choice>
+               <choice>
+                  <orig>Meggs</orig>
+                  <reg>Meigs</reg>
+               </choice>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

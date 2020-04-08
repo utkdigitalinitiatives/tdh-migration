@@ -1,0 +1,110 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch078">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Address] 1837 Mar. 22, Headquarters, New Echota, G[eorgi]a / Br[i]g[adier] Gen[era]l John E. Wool: a machine-readable transcription</title>
+            <author>Wool, John Ellis, 1784-1869</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Jean Roney</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch078</idno>
+            <availability status="restricted">
+               <p>This work is the property of The  Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Address] 1837 Mar. 22, Headquarters, New Echota, G[eorgi]a / Br[i]g[adier] Gen[era]l John E. Wool</title>
+               <author>Wool, John Ellis, 1784-1869</author>
+               <date when="1837-03-22">March 22, 1837</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is an address from Brigadier General John E. Wool, at army headquarters in New Echota, to the Cherokees, dated March 22, 1837.  Wool informs the Cherokees that they have until May 25, 1838 to remove to a territory west of the Mississippi according to the provisions of the New Echota Treaty (signed in 1835) or else be forced to remove by U.S. soldiers.  Wool threatens them with despicable treatment and tells them their fate will be even worse than the Creeks if they do not cooperate and remove voluntarily.</note>
+               <note type="repository" anchored="true">The  Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true"> State Library Cherokee Collection</note>
+               <note type="box" anchored="true">Box 3</note>
+               <note type="folder" anchored="true">Folder 9</note>
+               <note type="document" anchored="true">ch078</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Trail of Tears, 1838</term>
+               <term>Cherokee Indians--Relocation</term>
+               <term>Creek Indians--Violence against</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n86141979"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Wool, John Ellis, 1784-1869.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch078a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <addrLine>HEAD QUARTERS, ARMY<lb/>
+                        <name>CHEROKEE NATION</name>, <name type="place">NEW ECHOTA</name>, <name type="place">Ga.</name>
+                     </addrLine>
+                  </address>
+                  <date when="1837-03-22"> March 22nd, 1837.</date>
+               </dateline>
+               <salute>
+                  <name type="person">CHEROKEES</name>:</salute>
+            </opener>
+            <p>It is nearly a year since I first arrived in this country.  I then informed you of the objects of my coming among you.  I told you that a treaty had been made with your people, and that your country was to be given up to the <name type="place">United States</name> by the <date when="1838-05-25">25th May, 1838</date>, a (little more than a year from this time,) when you would all be compelled to remove to the West.  I also told you, if you would submit to the terms of the treaty I would protect you in your persons and property, at the same time I would furnish provisions and clothing to the poor and destitute of the Nation.  You would not listen, but turned a deaf ear to my advice.  You <choice>
+                  <orig>prefered</orig>
+                  <reg>preferred</reg>
+               </choice> the counsel of those who were opposed to the treaty.  They told you, what was not true, that your people had made no treaty with the <name type="place">United States</name>, and that you would be able to retain you lands, and would not be obliged to remove to the West, the place designated for your new homes.  Be no longer deceived by such advice!  It is not only untrue, but if listened to, may lead to your utter ruin.  The President, as well as Congress, have decreed that you should remove from this country.  The people of <name type="place">Georgia</name>, of <name type="place">North Carolina</name>, of <name type="place">Tennessee</name> and of <name type="place">Alabama</name>, have decreed it.  Your fate is decided; and if you do not voluntarily get ready and go by the time fixed in the treaty, you will then be forced from this country by the soldiers of the <name type="place">United States</name>.</p>
+            <p>Under such circumstances what will be your condition?  Deplorable in the extreme!  Instead of the benefits now presented to you by the treaty, of receiving pay for the improvements of your lands, your houses, your cornfields and your ferries, and for all the property unjustly taken from you by the white people, and at the same time, blankets, clothing and provisions for the poor, you will be driven from the country, and without a cent to support you on your arrival at your new homes.  You will in vain flee to your mountains for protection.  Like the <name type="person">Creeks</name>, you will be hunted up and dragged from your lurking places and hurried to the West.  I would ask, are you prepared for such scenes?  I trust not.  Yet such will be your fate if you persist in your present determination.</p>
+            <p>
+               <name type="person">Cherokees</name>: I have not come among you to oppress you, but to protect you and to see that justice is done you, as guarantied by the treaty.  Be advised, and turn a deaf ear to those who would induce you to believe that no treaty has been made with you, and that you will not be obliged to leave your country. They cannot be friends, but the worst of enemies.  Their advice, if followed, will lead to your certain destruction.  The President has said that a treaty has been made with you, and must be executed agreeably to its terms.  The President never changes.</p>
+            <p>Therefore, take my advice:  It is the advice of a friend, who would tell you the truth, and who feels deeply interested in your welfare, and who will do every thing in his power to relieve, protect and secure to you the benefits of the treaty.  And why not abandon a country no longer yours?  Do you not see the white people daily coming into it, driving you from your homes and possessing your houses, your cornfields and your ferries?  Hitherto I have been able to some degree, to protect you from their intrusions; in a short time it will no longer be in my power.  If, however, I could protect you, you could not live with them.  Your habits, your manners and your customs are unlike, and unsuited to theirs.  They have no feelings, no sympathies in common with yourselves.  Leave then this country, which after the <date when="1838-05-25">25th May 1838</date>, can afford you no protection! and remove to the country designated for your new homes, which is secured to you and your children forever; and where you may live under your own laws, and the customs of your fathers, without intrusion or molestation from the white man.  It is a country much better than the one you now occupy; where you can grow more corn, and where game is more abundant.  Think seriously of what I say to you!  Remember that you have but one summer more to plant corn in this country.  Make the best use of this time, and dispose of your property to the best advantage.  Go and settle with the Commissioners, and with the emigrating Agent, <name type="person">Gen. Smith</name>, receive the money due for your improvements, your houses your cornfields and ferries, and for the property which has been unjustly taken from you by the <choice>
+                  <orig>whitemen</orig>
+                  <reg>white men</reg>
+               </choice>, and at the appointed time be prepared to remove.  In the mean time, if you will apply to me or my Agents, I will cause rations, blankets and clothing to be furnished to the poor and destitute of your people.</p>
+            <signed>
+               <name type="person">John E. Wool</name>
+               <choice>
+                  <abbr>Brg. Genl. Comdg.</abbr>
+                  <expan>Brigadier General Commanding</expan>
+               </choice>
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

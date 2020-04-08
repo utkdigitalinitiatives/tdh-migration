@@ -1,0 +1,144 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl551">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Dec. 10, Bellview [to] James Winchester, Cairo, Tennessee / William Martin   : a machine readable transcription of an image</title>
+            <author>Martin, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl551</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Dec. 10, Bellview [to] James Winchester, Cairo, Tennessee / William Martin</title>
+               <author>Martin, William</author>
+               <date when="1815-12-10">December 10, 1815</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter dated December 10, 1815 from William Martin to General James Winchester.  In the letter, Martin mentions the lands recently taken from the Creek Indians, as well as its settlement and occupation.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl551</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Creek Indians</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2009202801"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Martin, William, 1765-1846</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl551a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Bellview</addrLine>
+               </address>
+               <date> 10th <choice>
+                     <abbr>Decbr</abbr>
+                     <expan>December</expan>
+                  </choice> 1815</date>
+               <salute>Dear <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>
+               </salute>
+            </opener>
+            <p>There is nothing more within my recollection than that I did transfer to you <add>on the plot &amp; certificate</add> my interest to our hundred fifty acres of Land lying on <unclear>Ferrises</unclear> Creek of <name>Elk river</name> If the grant has come out in my name as <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Anderson says there has been some mistake or omission to draw as you get the grant if in my name I will make the conveyance <unclear>viz, a quit title one</unclear> and in case of death on or other casualties which might prevent before the grant is got this may be considered my obligation for that purpose</p>
+            <p>Is it not probable that if the <name>European</name> allies continue at <unclear>pease armory</unclear> themselves that in large   a <choice>
+                  <orig>formadible</orig>
+                  <reg>formidable</reg>
+               </choice> coalition will be formed <choice>
+                  <abbr>agst</abbr>
+                  <expan>against</expan>
+               </choice> us. It is the Interest of legitimate Sovereigns to put down liberty wherever  found.  and as its root seems to be here they will try to pluck it up. Should this effort be made the conflict will be disparate.  Congress ought to loose no time in <choice>
+                  <orig>puting</orig>
+                  <reg>putting</reg>
+               </choice> the country in the best possible state of defense.  above all things arms should be provided for every effective man in the nation.  you know  the increase of confidence a soldier receives from being well armed &amp; <choice>
+                  <orig>equipted</orig>
+                  <reg>equipped</reg>
+               </choice>. We hear that the Floridas are <choice>
+                  <orig>ceeded</orig>
+                  <reg>ceded</reg>
+               </choice> to G.B.  If true the object is easy understood I would be for forming a strong <unclear>business</unclear> on that frontier to this end.  I would <pb n="2" facs="sl551b.small.jpg"/> let out the land got from the <name>Creeks</name> on terms which would warrant an immediate occupation of the country.  Say, 160 acres to every family which made an actual settlement out 50 cents <choice>
+                  <abbr>pr</abbr>
+                  <expan>per</expan>
+               </choice> acre.  this would be worth mor to cash in case of a rupture with GB. than if the land would sell at $5 in the ordinary &amp; slow way <gap agent="damage"/> back with me on this subject <unclear>soon</unclear> as to our  great men at the city. </p>
+            <p>Our family are in health <unclear>I hope</unclear> you and your household are enjoying the like favor.</p>
+            <closer>Respectfully I am your friend &amp; fellow citizen <signed>Wm Martin</signed>
+               <pb n="3" facs="sl551c.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Martin</name>
+                  <date>10th <choice>
+                        <abbr>Dec</abbr>
+                        <expan>December</expan>
+                     </choice>. 1815</date> 12 <address>
+                     <addrLine>
+                        <choice>
+                           <abbr>Gnl</abbr>
+                           <expan>General</expan>
+                        </choice> James Winchester Cairo Tennessee</addrLine>
+                  </address>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

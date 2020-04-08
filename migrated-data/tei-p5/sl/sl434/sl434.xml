@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl434">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Bill of Sale] 1830 Aug. 31, [to] James Goodner / Jacob Fite : a machine readable transcription of an image</title>
+            <author>Fite, Jacob</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl434</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Bill of Sale] 1830 Aug. 31,  [to] James Goodner / Jacob Fite</title>
+               <author>Fite, Jacob</author>
+               <date when="1830-08-31">August 31, 1830</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a receipt dated August 31, 1830 by Jacob Fite. He is the executor of Abner Avant's will.  The receipt is for a slave and her child  belonging to Avant  that Fite has sold to James Goodner.</note>
+               <note type="collection" anchored="true">Slavery - Bills of Sale</note>
+               <note type="box" anchored="true">XI-M-1</note>
+               <note type="folder" anchored="true">14</note>
+               <note type="document" anchored="true"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Slavery</term>
+               <term>Receipts</term>
+               <term>
+                  <name role="Creator http://id.loc.gov/vocabulary/relators/cre">Fite, Jacob</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl434a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <date>August 31st 1830</date>
+               </dateline>
+            </opener>
+            <p>Whereas by the last will of <name>abner avant</name> Deceased he having Left me as Executor of said will and Being <choice>
+                  <orig>Possest</orig>
+                  <reg>Possessed</reg>
+               </choice> of  a Negro Woman Named Dice who after the Death of Said avant Bore five children up to the time Stipulated in Said will for the Sale of Said Negroes Where upon I as Executor aforesaid <choice>
+                  <orig>haith</orig>
+                  <reg>hath</reg>
+               </choice> this Day By <choice>
+                  <orig>publick</orig>
+                  <reg>public</reg>
+               </choice> Sale Sold Said Negro Dice aged about 25 years old her female child Aggy 9 Months old to <name>James goodner</name> for the Sum of <choice>
+                  <orig>fore</orig>
+                  <reg>four</reg>
+               </choice> hundred and three Dollars the <choice>
+                  <abbr>Recpt</abbr>
+                  <expan>Receipt</expan>
+               </choice> Whereof I Do hereby <choice>
+                  <orig>acnowledge</orig>
+                  <reg>acknowlege</reg>
+               </choice> as witness my hand and Seal Date Above</p>
+            <closer>
+               <signed>
+                  <name>Jacob Fite</name>
+               </signed>
+               <add>Executor of said Estate<add>
+                     <choice>
+                        <abbr>ast</abbr>
+                        <expan>assistant</expan>
+                     </choice>
+                     <lb/>
+                     <name>J. C. Doss</name>
+                  </add>
+               </add>
+               <pb n="2" facs="sl434b.small.jpg"/>
+               <choice>
+                  <abbr>J</abbr>
+                  <expan>Jacob</expan>
+               </choice> Fite Executor <lb/> Bill of Sale for <lb/> two negros to <lb/>
+               <choice>
+                  <abbr>Jas</abbr>
+                  <expan>James</expan>
+               </choice> Goodner</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Dec. 4 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, Louisiana: a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc025</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Dec. 4 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, Louisiana</title>
+               <author>Moore, Thomas O.</author>
+               <date when="1833-12-04">December 4, 1833</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">A letter written on December 4, 1833 from Thomas O. Moore to his cousin James Moore King.  He writes of the great panic in Louisiana caused by the Cholera, as well as fear that half of the country will die from the disease.  Moore also writes of  difficulties in finding workers, and hope that the disease has left their region.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1833</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">gc025</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cholera</term>
+               <term>Death, fear of</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc025a.small.jpg"/>
+            <opener>
+               <name type="person">John O. Moore</name> died —1833 From <name type="person">
+                  <choice>
+                     <abbr>T.O.</abbr>
+                     <expan>Thomas O.</expan>
+                  </choice> Moore</name>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M. King</name>
+                     <name type="place">Murfreesboro </name>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="bottom left of envelope">Mail</add>
+               <add place="top left of envelope">
+                  <name type="place">
+                     <choice>
+                        <abbr>alex.a La</abbr>
+                        <expan>Alexandria, Louisiana</expan>
+                     </choice>
+                  </name> Dec 10.</add>
+               <add place="top center of envelope">cholera</add>
+               <add place="top right of envelope">25</add>
+               <add place="right flap of envelope">Miscellaneous calculations</add>
+               <pb n="2" facs="gc025b.small.jpg"/>
+               <name type="place">Alexandria (<choice>
+                     <abbr>La</abbr>
+                     <expan>Louisiana</expan>
+                  </choice>) </name>
+               <date when="1833-12-04">4th December 1833</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> It was my intention when I left to have written you on this, but on my arrival at home found every thing very much out of order.  my overseer was a young man just from Virginia knew nothing of the <choice>
+                  <orig>managment</orig>
+                  <reg>management</reg>
+               </choice> of cotton consequently my negroes had picked but little, my crop after the decease of ⁁<add place="supralinear">my</add> beloved brother was badly cultivated.  <add place="supralinear">John had been his over seer—</add>  The cholera producing so great a panic that a man could not be employed at any price.  though taking the difficulties of the season into consideration my crop is equally as good as I had a might to expect.  my crop of corn is fine and shall make about two <choice>
+                  <orig>hundrd</orig>
+                  <reg>hundred</reg>
+               </choice> bales <choice>
+                  <orig>avaraging</orig>
+                  <reg>averaging</reg>
+               </choice> 400 <choice>
+                  <abbr>lbs</abbr>
+                  <expan>pounds</expan>
+               </choice> shall finish picking tomorrow and will be ginning about two days I had written to my merchant to sell none of my crop under eighteen ⁁ <add place="supralinear">
+                  <choice>
+                     <abbr>cts</abbr>
+                     <expan>cents</expan>
+                  </choice>
+               </add> but previous to <choice>
+                  <orig>reciving</orig>
+                  <reg>receiving</reg>
+               </choice> my order he had sold forty eight bales which brought me $34.00 and have  ordered the balance to be kept on hand <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> May when it is the impression of the knowing ones  here that cotton must rise.  I have not heard from home but once since I saw you the family was thus better, though father had lost another fine <choice>
+                  <orig>negro</orig>
+                  <reg>Negro</reg>
+               </choice> Cherry.  sister Sarah has not written me at all, I am at a loss to know what to do <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> Hynson tells me <choice>
+                  <abbr>Gmother</abbr>
+                  <expan>Grandmother</expan>
+               </choice> is coming down.  should <pb n="3" facs="gc025c.small.jpg"/> that be the case, I shall expect him to come with her you will please see her fitted out in every thing that is necessary if she has not funds enough furnish her and the aunt shall be remitted by the first mail. our county is at this time perfectly healthy and we trust the <choice>
+                  <orig>cholerea</orig>
+                  <reg>cholera</reg>
+               </choice> has left us forever and will be long remembered. negroes are selling at <name type="place">Natchez</name> at $1400 and $1450 the pair run at 800 &amp; 825 women at 600 &amp; 625.  it is hard to prostrate the enterprise of our beloved country if the cholerea does kill one half, my best love to cousin martha sisters Laura &amp; Sarah aunt, Walter &amp; the rest of my <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice>, and tell <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Baily I hope that the seed of the tree ⁁<add place="supralinear">to make plank</add> to box me up is not yet sprouted and that I wish him as I do every honest man to live in this world untill he is ready to say Go.  God bless you all Write me</p>
+            <closer>
+               <choice>
+                  <abbr>Yrs</abbr>
+                  <expan>Yours</expan>
+               </choice> affectionately <signed>
+                  <choice>
+                     <abbr>Tho.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> O. Moore</signed>
+               <add place="bottom of page"> Cotton has fallen still we anticipate a rise late in the winter or spring</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

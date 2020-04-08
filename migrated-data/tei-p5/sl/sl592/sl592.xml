@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl592">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letters] 1845 Nov. 30, Haywood County, Tennessee [to] Aaron Brown, Nashville, Tennessee / William Shapard   : a machine readable transcription of an image</title>
+            <author>Shapard, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl592</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letters] 1845 Nov. 30, Haywood County, Tennessee [to] Aaron Brown, Nashville, Tennessee / William Shapard</title>
+               <author>Shapard, William</author>
+               <date when="1845-11-30">November 30, 1845</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a brief letter dated November 30, 1845 from William Shapard to Tennessee Governor Aaron Venable Brown in Nashville.  In the letter he informs Governor Brown of the detention  of John Smith   in the county jail at Brownsville, Tennessee.</note>
+               <note type="collection" anchored="true">Governor Aaron V. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl592</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Brown, Aaron V. (Aaron Venable), 1795-1859</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Shapard, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl592a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <unclear>Davidson</unclear> Haywood <choice>
+                        <abbr>Co. Tenn</abbr>
+                        <expan>County Tennessee</expan>
+                     </choice>.</addrLine>
+               </address>
+               <date>November 30th 1845</date>
+               <salute>To his excellency the Governor of <name>Tennessee</name>Dear Sir,</salute>
+            </opener>
+            <p>I have this <add>day</add> delivered <name>John Smith</name> in the county jail at <name>Brownsville</name>__ I am informed that a reward of $250 was offered for him by the governor__</p>
+            <p>Owing to the coldness of the weather, and the bad road, and distance I have taken no further steps than to confine him in jail safely__</p>
+            <p>At a suitable time I will apply for the reward__</p>
+            <closer>most respectfully <signed>William Shapard</signed>
+               <pb n="2" facs="sl592b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc>
+                        <choice>
+                           <sic>the number 4 in ink and other miscellaneous information penciled in</sic>
+                           <orig>the number 4 in ink and other miscellaneous information penciled in</orig>
+                        </choice>
+                     </figDesc>
+                  </figure>
+               </add>
+               <address>
+                  <addrLine>To his Excellency The Governor of Tennessee at Nashville <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

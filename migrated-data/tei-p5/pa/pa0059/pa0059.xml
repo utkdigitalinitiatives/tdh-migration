@@ -1,0 +1,280 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Claim]  1838 Sept. 29, United States to John Vann : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">pa0059</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Claim]  1838 Sept. 29, United States to John Vann</title>
+               <date when="1838-09-29"> 
+			 September 29, 1838</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document dated September 29th 1838 is a spoliation claim for John Vann of the Cherokee Nation East. Vann is requesting that the United States government reimburse him for horses, and other personal items he claims were stolen from him by white men.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> n/a</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Cherokee Indians -- Claims</term>
+               <term>Theft</term>
+               <term>Southern States</term>
+               <term>United States</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0059a.small.jpg"/>
+            <opener>The <name>United States</name> for Spoliation <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Debtor</expan>
+               </choice>
+               <lb/> To <name>John Vann</name>
+               <name>Coosawatee <choice>
+                     <abbr>Dist</abbr>
+                     <expan>District</expan>
+                  </choice>
+               </name>
+            </opener>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">One Bay Stud Horse 3 years old</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">One Black Horse 7 " "</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">One Bay Horse 8 " "</cell>
+                     <cell role="data" rows="1" cols="1">80</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">One <choice>
+                           <orig>Sorrell</orig>
+                           <reg>Sorrel</reg>
+                        </choice> Horse 4 " "</cell>
+                     <cell role="data" rows="1" cols="1">100</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">14 Cows &amp; calves_$25 each</cell>
+                     <cell role="data" rows="1" cols="1">350</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Heifers 2 years old</cell>
+                     <cell role="data" rows="1" cols="1">20</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3 Bulls 2 " "</cell>
+                     <cell role="data" rows="1" cols="1">24</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">6 Barrow Hogs 2 " "</cell>
+                     <cell role="data" rows="1" cols="1">48</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">7 sows_ 2 " "</cell>
+                     <cell role="data" rows="1" cols="1">49</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">7 shoats_ 1½ " "</cell>
+                     <cell role="data" rows="1" cols="1">28</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 cow &amp; calf </cell>
+                     <cell role="data" rows="1" cols="1">25</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2 Heifers 2 " "</cell>
+                     <cell role="data" rows="1" cols="1">20</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Brown <choice>
+                           <orig>Heorse</orig>
+                           <reg>Horse</reg>
+                        </choice> 5 " "</cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Big Coat_ _</cell>
+                     <cell role="data" rows="1" cols="1">25</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 mans saddle_</cell>
+                     <cell role="data" rows="1" cols="1">12</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 <choice>
+                           <abbr>pr</abbr>
+                           <expan>pair</expan>
+                        </choice> saddle bags_</cell>
+                     <cell role="data" rows="1" cols="1"> 5</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1 Large plated belt bundle</cell>
+                     <cell role="data" rows="1" cols="1"> 8</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$894</cell>
+                     <cell role="data" rows="1" cols="1">00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This claimant states that the Bay stud and Black <choice>
+                  <orig>Heorse</orig>
+                  <reg>Horse</reg>
+               </choice> described in the forgoing accord was stolen from him in the year 1828 or 1829 by two white men citizens of the United States only one of whose names was known his name was <name>Thompson</name> said Heorse was a short time after being stolen <add>was</add> seen in the possession of said white men going in the direction of the white settlement in <name>Georgia</name>. And that the Bay Heorse &amp; Sorrel Heorse was stolen sometime in the year 1830 by two white men citizens of the United states who called themselves <name>Thomas</name> and <name>William</name> a few days after said Heorses was <pb n="2" facs="pa0059b.small.jpg"/> stolen said white men was seen at <name>Pine Log</name> at a horse race offering to make a Bet on the sorrel Horse they remained there but a short and left Claimant has never heard of them since. Claimant states that some time in the year 1831 all the cows calves Bull &amp; Heifers described in the forgoing account was taken &amp; carried away from his possession in open day by a portion of what was then known as the <name>Georgia Guard</name> that he has never seen them since &amp; got pay therefor and he states that they was taken violently &amp; without claimants consent. That all the Hogs described in the forgoing account was <del type="overstrike">taken or</del> stolen by a white man citizen of the United States who lived near <name>New Town</name> and in the Vicinity of <choice>
+                  <orig>clamants</orig>
+                  <reg>claimants</reg>
+               </choice> residence by the name of <name>Bobo</name> in the year 1834 that said Bobo killed a part of said Hogs in the woods the remainder he put &amp; kept in his pen_ so that claimant never got them or pay therefor_ claimant states that the horse saddle saddle bags bridle &amp; over coat charged for was taken from him in the year 1829 by a white man citizen of the United States resident of Tennessee by the name of John Franklin claimant &amp; said white man in Traveling accidently fell in company the white man expressed great friendship for claimant &amp; expressed a desire to ride claimants horse as said white man was riding a small pony Claimant consented &amp; when claimant desired his own horse the said white man refused to give him up and insisted that they had swapped &amp; utterly &amp; finally refused to give claimant his horse claimant applied to the Indian Agent and <pb n="3" facs="pa0059c.small.jpg"/> by his means got said horse but said white man having disposed of the other articles charged for and being utterly worthless &amp; unable to account to claimant for them claimant was forced to <choice>
+                  <orig>loose</orig>
+                  <reg>lose</reg>
+               </choice> them_ Claimant states that the forgoing is a true statement of the manner of loosing &amp; the circumstances in relation to the property charged for in the within account and that said property was worth the prices charged them for <lb/> sworn to before me this <lb/> 29 Sept 1838 <name>John Vann</name>
+               <lb/>
+               <name>C McDonald</name>
+               <lb/> Agent C.C. East</p>
+            <p>Personally came <name>Tou wat tee hee</name> and <name>Old</name> who after being duly sworn saith that claimant owned the above described Horses and that they was stolen as stated and that these deponent saw said Horses in the possession of the white men above named in claimants statement and that said Horses was worth the prices charged them for <lb/> Sworn to before me <lb/> 29th Sept 1838 <lb/>
+               <name>C McDonald</name>
+               <lb/> Agent C.C. East<name>Tou wat tee hee</name>
+               <add>his x mark</add>
+               <name>Old</name>
+               <add>his mark</add>
+            </p>
+            <p>Personally came Standing Buffaloe &amp; Deputy and <choice>
+                  <orig>solemly</orig>
+                  <reg>solemnly</reg>
+               </choice> affirms that claimant owned the above described cattle and that they was forcibly taken from his possession by white men citizens of the United States under the circumstances as set for in the forgoing statement and that said cattle was worth the prices charged in the within account sworn to before me <lb/> 29 Sept 1838 <lb/>
+               <name>C McDonald</name> A.C.C. East{ <name>Standing Buffaloe</name>
+               <add>his x mark</add>
+               <name>Deputy</name>
+               <add>his x mark</add>
+               <pb n="4" facs="pa0059d.small.jpg"/>
+               <name>Coosawattee <choice>
+                     <abbr>Dis</abbr>
+                     <expan>District</expan>
+                  </choice>
+               </name>
+               <lb/> Spoliation <lb/> Claim <lb/> of  <lb/>
+               <name> John Vann </name>
+               <lb/>
+               <choice>
+                  <abbr>Referd</abbr>
+                  <expan>Referred</expan>
+               </choice> through <choice>
+                  <abbr>Jno</abbr>
+                  <expan>John</expan>
+               </choice> Ross <lb/>
+               <choice>
+                  <abbr>Pr</abbr>
+                  <expan>Principal</expan>
+               </choice> Chief to <name>
+                  <choice>
+                     <abbr>Maj Genl</abbr>
+                     <expan>Major General</expan>
+                  </choice>
+                  <lb/> Scott</name> Commanding US <lb/> Army for settlement, <lb/>
+               <name>Richd Taylor</name>
+               <choice>
+                  <abbr>pres</abbr>
+                  <expan>president</expan>
+               </choice>
+               <lb/> N. Committee <lb/>
+               <name>J. Jones</name>
+               <choice>
+                  <abbr>clk</abbr>
+                  <expan>clerk</expan>
+               </choice> protem <lb/> N. Committee</p>
+         </div>
+      </body>
+   </text>
+</TEI>

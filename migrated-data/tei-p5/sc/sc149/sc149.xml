@@ -1,0 +1,154 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc149">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 May 30, Abingdon [Virginia, to] T.S. Heiskell, Knoxville, Tennessee / W[illiam] G. Brownlow : a machine readable transcription of an image</title>
+            <author> Brownlow, W.G.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc149</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 May 30, Abingdon [Virginia, to] T.S. Heiskell, Knoxville, Tennessee / W[illiam] G. Brownlow</title>
+               <author> Brownlow, W.G.</author>
+               <date when="1836-05-30"> 
+			 May 30, 1836</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter to T.S. Heiskell from William G. Brownlow dated May 30, 1836. Brownlow writes that he is unable to fulfill a work contract on time for Heiskell. Brownlow also writes that he does not have the money he owes to Heiskell. He informs Heiskell of the actions he has taken to remedy the situation, and sends his regrets.</note>
+               <note type="collection" anchored="true">William G. Brownlow Letters</note>
+               <note type="box" anchored="true">MS 936</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc149</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Southern States</term>
+               <term>Brownlow, William Gannaway, 1805-1877</term>
+               <term>Financial, personal</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n50051650"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brownlow, William Gannaway, 1805-1877</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc149a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Abingdon</name>, <date>May 30th 1836</date>.</addrLine>
+               </address>
+               <salute>Dear Sir___</salute>
+            </opener>
+            <p>Having failed in our calculations and expectations, we have not been able to comply with our contract, and to pay you according to promise. I need not tell you that I regret this failure deeply regret it. And more, I find that we shall not be able to make the money out of the books to pay you on time. But, we reflect upon no man. You, especially, have treated <del type="overstrike">yo</del> us as well, and better than we deserve. for which, I for one, feel <choice>
+                  <orig>greatful</orig>
+                  <reg>grateful</reg>
+               </choice> .</p>
+            <p>But, the object of this note is to inform you, that <name>Powell</name> &amp; myself have made an arrangement or bargain, by which I am to be <choice>
+                  <orig>releaved</orig>
+                  <reg>relieved</reg>
+               </choice> , and he is to become responsible to you for the debt. By this <choice>
+                  <orig>arraingment</orig>
+                  <reg>arrangement</reg>
+               </choice> you will get your money sooner. Powell is very good for it, and is an honest man, and will pay you Beside, I <unclear>and</unclear> with the securities, still bound to you for the <gap/>
+               <unclear>money</unclear> should Powell <choice>
+                  <orig>no</orig>
+                  <reg>not</reg>
+               </choice> do so.</p>
+            <closer>
+               <salute>With sentiments really respectful <lb/> I still remain, <choice>
+                     <abbr>&amp;c</abbr>
+                     <expan>etcetera</expan>
+                  </choice> , &amp;c</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>W. G.</abbr>
+                        <expan>William Gannaway</expan>
+                     </choice> Brownlow</name>
+               </signed>
+               <add>
+                  <name>T.S. Heiskell</name>
+                  <choice>
+                     <abbr>Esq.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="sc149b.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice>
+                  <name>William Oury</name>, the son of the Post Master of this place is now on trial, at his call - court, before <name>John Hume</name> Esq__ for having robbed the mail of an immense amount. They found in his waist_ coat pocket, a Draft from <name>Nashville</name>, on the Gerard Bank at <name>Philadelphia</name>, calling for eight hundred and ninety dollars. I witnessed a part of the investigation, and I have no doubt of his guilt. <lb/> Word has just reached my room. that he is sent on to the Federal Court for further trial. <lb/> Yours, &amp;c, W. G. <choice>
+                     <abbr>B.</abbr>
+                     <expan>Brownlow</expan>
+                  </choice>
+               </add>
+               <pb n="3" facs="sc149c.small.jpg"/>
+               <address>
+                  <addrLine>Mr. T. S. Heiskell</addrLine>
+                  <addrLine>Knoxville</addrLine>
+                  <addrLine>Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

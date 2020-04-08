@@ -1,0 +1,170 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Jan. 20, Murfreesboro [to] Honorable Thomas Emmerson, Jonesboro, E[ast] Tenn[essee] / Joseph McMinn : a machine readable transcription of an image</title>
+            <author>McMinn, Joseph</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl021</idno>
+            <idno>OCLC: 50014299</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Jan. 20, Murfreesboro [to] Honorable Thomas Emmerson, Jonesboro, E[ast] Tenn[essee] / Joseph McMinn</title>
+               <author>McMinn, Joseph</author>
+               <date when="1819-01-20">January 20, 1819</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter to the Honorable Thomas Emmerson from Joseph McMinn, dated January 20, 1819. In the letter, McMinn states that Governor Roane has died and that he must appoint his successor. McMinn asks Emmerson to accept this appointment and to respond before the next month's session.</note>
+               <note type="collection" anchored="true">Joseph McMinn Letter</note>
+               <note type="box" anchored="true">Correspondence by author, b1</note>
+               <note type="folder" anchored="true">J</note>
+               <note type="document" anchored="true">sl021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Roane, Archibald, 1760-1819</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl021a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Murfreesboro</name>
+                     <date when="1819-01-20">20th <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 1819</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Judge</salute>
+            </opener>
+            <p>The Death of <name type="person">Governor Roane</name> of which you will have heard in this reaches you, has made it my duty to appoint his Successor. ⁁ <add place="supralinear">Tis</add> without comment or apology <add place="left margin">that</add> I tender the appointment to you, confidently expecting from your Patriotism on a former <choice>
+                  <orig>occation</orig>
+                  <reg>occasion</reg>
+               </choice>, that it will Suit you convenience to accept. On this <choice>
+                  <orig>occation</orig>
+                  <reg>occasion</reg>
+               </choice> I feel much <choice>
+                  <orig>embarassed</orig>
+                  <reg>embarrassed</reg>
+               </choice>, when I come to Reflect upon the <choice>
+                  <orig>difficuty</orig>
+                  <reg>difficulty</reg>
+               </choice> I had to encounter previous to your acceptance of the former pro tem appointment</p>
+            <p>But Sir I must Solicit your friendship in the <choice>
+                  <orig>sitution</orig>
+                  <reg>situation</reg>
+               </choice> and will not tender the appointment <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> I hear from you, who must be a much better Judge of the requisite qualification and willingness to accept <del type="overstrike">such an</del>
+               <add place="supralinear">the</add> appointment, than I <del type="overstrike">am</del> can possibly be</p>
+            <p>Should you be engaged in your Circuit when this reaches you (which I earnestly hope will not be the case) you <del type="overstrike">must</del>
+               <add place="supralinear">will</add> make such disposition of your time as you may think proper, for my Self I Should always esteem it as an act of Justice <pb n="2" facs="sl021b.small.jpg"/> done to your own character and the interest of the State, to leave the business of the courts in your district in ⁁ <add place="supralinear">Such</add> Condition as to <del type="overstrike">leave</del> the parties litigant that the way to Justice and dispatch will ⁁ <add place="supralinear">be</add> as little <choice>
+                  <orig>empeded</orig>
+                  <reg>impeded</reg>
+               </choice> as possible. We are now endeavoring to close a <unclear>breach</unclear> made by the omnipotent hand, and <del type="overstrike">ar</del> ought to invoke his blessing upon our exertions, <del type="overstrike">in endeavoring</del> to promote the good of our fellow Citizens.</p>
+            <p>Court will be <unclear>hold in</unclear> at <name type="place">Charlotte</name> on the 8 day of march next, I pray you let nothing come in contact with your acceptance which you can possibly keep out of <del type="overstrike">the way</del>
+               <add place="supralinear">view</add> .</p>
+            <p>Please render my <unclear>M'</unclear> &amp; my <unclear>aum</unclear> respects to your Lady &amp; accept for your Self assurances of the friendship of </p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jos.</abbr>
+                        <expan>Joseph</expan>
+                     </choice> McMinn</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Honl</abbr>
+                           <expan>Honorable</expan>
+                        </choice> Thomas Emmerson</name>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sl021c.small.jpg"/>
+               <add place="above address">Public Service <lb/>
+                  <choice>
+                     <abbr>Jos.</abbr>
+                     <expan>Joseph</expan>
+                  </choice> McMinn</add>
+               <address>
+                  <addrLine>Honorable</addrLine>
+                  <addrLine>Thomas Emmerson</addrLine>
+                  <addrLine>
+                     <name type="place">Jonesboro</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>E.</abbr>
+                           <expan>East</expan>
+                        </choice> Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left of address, sideways">
+                  <choice>
+                     <abbr>P.S.</abbr>
+                     <expan>Post Script</expan>
+                  </choice> as the mail is so very near closing must ask you to forward a copy of this letter with your answers <choice>
+                     <abbr>J.M.</abbr>
+                     <expan>Joseph McMinn</expan>
+                  </choice>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1815 Mar. 16, Camp Coffee [to] Mother,  Davidson County /  J[ames] M[oore] King  : a machine readable transcription of an image</title>
+            <author>King, James Moore</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc002</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1815 Mar. 16, Camp Coffee [to] Mother,  Davidson County /  J[ames] M[oore] King</title>
+               <author>King, James Moore</author>
+               <date when="1815-03-16">March 16, 1815</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">A letter written by James Moore King from Camp Coffee, New Orleans on March 16, 1815 to his mother.  He writes that he, as many in the camp, suffers from a cold.  He anticipates arriving at home in April. </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1813, 1815-1817</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">gc002</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">King, James Moore</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc002a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">J.M. King</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">New Orleans</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice> Issac Butler</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Davidson County</name>
+                  </addrLine>
+               </address>
+               <add place="left of address">per <name type="person">Mr. Saunders</name>
+               </add>
+            </opener>
+            <pb n="2" facs="gc002b.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Camp Coffee</name>
+                  </addrLine>
+               </address>
+               <date when="1815-03-16">1815 Mar. 16 </date>
+               <salute>Dear Mother</salute>
+            </opener>
+            <p>This <choice>
+                  <orig>favourably</orig>
+                  <reg>favourable</reg>
+               </choice> opportunity of writing by <name type="person">Mr. ⁁<add place="supralinear">Jack</add> Saunders</name>  (who starts tomorrow) gives me much pleasure of informing you that I am in  <choice>
+                  <orig>tollerably</orig>
+                  <reg>tolerable</reg>
+               </choice> health — this sum <choice>
+                  <orig>pleagued</orig>
+                  <reg>plagued</reg>
+               </choice> with a cold which is quite a common thing in <choice>
+                  <orig>campes</orig>
+                  <reg>camps</reg>
+               </choice>; all from out of the bend is well and harty—<name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice>. Coffee's</name> Brigade starts tomorrow, we are all <choice>
+                  <orig>highley</orig>
+                  <reg>highly</reg>
+               </choice>
+               <del type="overstrike">a</del> pleased at the thoughts of starting and making all preporations to return to <del type="overstrike">hear</del>
+               <add place="supralinear">our</add> friend, who has <del>
+                  <unclear><?xm-replace_text {unclear}?></unclear>
+               </del> been waiting so long to receive them with <choice>
+                  <orig>jois</orig>
+                  <reg>joys</reg>
+               </choice> of pleasure, when I wrote to you last.  I expected to have started long before this, <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> much disapointed we shall reach home about the <date when="--04-15">15th of April </date>next</p>
+            <p>I received a letter from Uncle Hays the 12th of this month he wrote that you were all well &amp; all my friends</p>
+            <p>My love to you all &amp; respects to all my friend, tell them a few days more and I am a free man a gain —</p>
+            <closer>I am ever more your remaining son <signed>J.M. King</signed>
+               <pb n="3" facs="gc002c.small.jpg"/> Give my respects to Uncle Hays &amp; family tell him his discharge shall be had in his name if <del type="overstrike">their</del> possibly; as he wrote to me in his letter — I have not time to write to him now — But my respects to all my friends — I remain your son J.M. King  <add place="bottom of page">Miscelaneous math problems.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

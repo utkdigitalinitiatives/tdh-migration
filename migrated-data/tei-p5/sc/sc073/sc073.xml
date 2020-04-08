@@ -1,0 +1,150 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipt] 1797 Jan. 24 [to] Opoiamingo / D [avid] Henley :a machine readable transcription of an image</title>
+            <author>Henley, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sc073</idno>
+            <idno>OCLC: 51337271</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipt] 1797 Jan. 24 [to] Opoiamingo / D [avid] Henley</title>
+               <author>Henley, David</author>
+               <date when="1797-01-24">January 24, 1797</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document contains two receipts written by Agent of War David Henley, dated January 24, 1797 and January 26, 1797. The receipts are an order for beef and meal to be given to the family of Opoiamingo, a member of the Chickasaw Nation.</note>
+               <note type="collection" anchored="true">David Henley</note>
+               <note type="box" anchored="true">MS-1044</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc073</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgements)</term>
+               <term>Chickasaw Indians -- Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n85198931"
+                        role="Associated name http://id.loc.gov/vocabulary/relators/asn">Henley, David, 1749-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc073a.small.jpg"/>
+            <p>Deliver <name type="person">Opoiamingos</name> family twenty pounds Beef, twenty pounds Meal</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>D</abbr>
+                        <expan>David</expan>
+                     </choice> Henley</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Knox</abbr>
+                           <expan>Knoxville</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>the <date when="1797-01-24">24 <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 1797</date>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>Serg Throp</unclear>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+         <pb n="2" facs="sc073b.small.jpg"/>
+         <div subtype="1" type="letter">
+            <p>Deliver for six of <name type="person">Opoiamingos</name> party twelve pounds of Beef — twenty pounds Meal</p>
+            <closer>
+               <salute>Your <choice>
+                     <abbr>Hum Servt.</abbr>
+                     <expan>Humble Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>D</abbr>
+                        <expan>David</expan>
+                     </choice> Henley </name>
+                  <lb/>
+                  <choice>
+                     <abbr>Agt</abbr>
+                     <expan>Agent</expan>
+                  </choice> War</signed>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Knox</abbr>
+                           <expan>Knoxville</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>the <date when="1797-01-26">26 <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 1797</date>
+                  </addrLine>
+                  <addrLine>
+                     <unclear>Sergt. Throp</unclear>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

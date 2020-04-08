@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl755">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Apr. 5, Murfreesboro, Tennessee [to] John Overton / Joseph McMinn : a machine readable transcription of an image</title>
+            <author>McMinn, Joseph</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl755</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1819 Apr. 5, Murfreesboro, Tennessee [to] John Overton / Joseph McMinn</title>
+               <author>McMinn, Joseph </author>
+               <date when="1819-04-05">April 5, 1819</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated April 5, 1819 from governor Joseph McMinn of Tennessee to John Overton.  The subject of the letters is a treaty regarding a salt spring with the Chickasaw Nation of Indians.</note>
+               <note type="collection" anchored="true">Governor Joseph McMinn Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sl755</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>Chickasaw Indians</term>
+               <term>McMinn, Joseph, 1758-1824</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr94022129"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McMinn, Joseph, 1758-1824</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl755a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Murfreesboro</addrLine>
+               </address>
+               <date>5th April 1819</date>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I was duly honored with the receipt of your letter, touching your appointment from the president of the <name>United States</name> authorizing you with <choice>
+                  <abbr>Col</abbr>
+                  <expan>Colonel</expan>
+               </choice> Cannon to hold a treaty with the <name>Chickasaw</name> Nation of Indians, for the purpose of obtaining a <unclear>assign</unclear>       of their claim to a salt spring referred to in the 4th article of the late treaty held by Jackson &amp; Shelby with said tribe of Indians.</p>
+            <p>I acknowledge  that the Legislature of the United States have acted very generously in transferring their right in this spring, to the State of <name>Tennessee</name>, and I also admit the justice of charging this State with the necessary expenditures: But I have to regret being compelled to assure you that there are no funds at my disposal by which to enable you to affect this very desirable object.</p>
+            <p>It is therefore obvious that no public resources can be placed at your command until the  <pb n="2" facs="sl755b.small.jpg"/>  sitting of the next Legislature, when, I flatter myself, no difficultly will arise in obtaining an appropriation commensurate with all the necessary demands.__</p>
+            <closer>
+               <add>I have the honor to be Your <choice>
+                     <abbr>Obt. Servt</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>.</add>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Jos</abbr>
+                        <expan>Joseph</expan>
+                     </choice>. McMinn</name>
+               </signed>
+               <add>John Overton <lb/> Robert Weakley  <lb/>  Esquire</add>
+               <pb n="3" facs="sl755c.small.jpg"/>
+               <add>
+                  <choice>
+                     <abbr>Gov</abbr>
+                     <expan>Governor</expan>
+                  </choice> McMinn <lb/> John Overton  <lb/>
+                  <choice>
+                     <abbr>Rob</abbr>
+                     <expan>Robert</expan>
+                  </choice> Weakley</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

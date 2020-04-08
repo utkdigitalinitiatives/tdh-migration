@@ -1,0 +1,229 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl181">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1830 Jan. 13,  Randolph T[X] [to] Rev. Joseph Brown, Near Columbia, Ten[nessee] / Joseph Porter Brown   : a machine readable transcription of an image</title>
+            <author>Brown, Joseph Porter</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl181</idno>
+            <idno>OCLC: 51173417</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1830 Jan. 13,  Randolph T[X] [to] Rev. Joseph Brown, Near Columbia, Ten[nessee] / Joseph Porter Brown   </title>
+               <author>Brown, Joseph Porter </author>
+               <date when="1830-01-13">January 13, 1830</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated Jan. 13, 1830 from Joseph Porter Brown to his father Joseph Brown. Joseph P. is explaining why he feels it necessary to leave Randolph. He is taking a trip down the Mississippi to find a situation in which he can make some money. He feels that he is ready to embark on a business career now that he is almost 22 years old. He also says that he is poor, and cannot make a living in Randolph.</note>
+               <note type="collection" anchored="true">Joseph Brown Papers</note>
+               <note type="box" anchored="true">THS-JB</note>
+               <note type="folder" anchored="true">202-205</note>
+               <note type="document" anchored="true">sl181</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>Communication in the family</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Brown, Joseph Porter</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl181a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Randolph</name>
+                     <date when="1830-01-13">
+                        <choice>
+                           <abbr>Jany</abbr>
+                           <expan>January</expan>
+                        </choice> 13th 1830</date>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Js</abbr>
+                           <expan>Joseph</expan>
+                        </choice> Brown</name>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> father</salute>
+            </opener>
+            <p>It would perhaps be well enough to consult Your <choice>
+                  <orig>oppinion</orig>
+                  <reg>opinion</reg>
+               </choice> about a matter that I am at <choice>
+                  <orig>presant</orig>
+                  <reg>present</reg>
+               </choice> about to embark in that is this — I shall in two or three days from this start to <name type="place">New Orleans</name> and will return as <choice>
+                  <orig>fare</orig>
+                  <reg>far</reg>
+               </choice> as <unclear/> on the <name type="place">mississippi</name> about fifty or sixty miles below <name type="place">memphis</name>, where I shall get off the boat, and t⁁<add place="supralinear">r</add>averse <name type="place">
+                  <choice>
+                     <orig>arkensaw</orig>
+                     <reg>arkansas</reg>
+                  </choice>
+               </name> through on the lookout for a situation, As You have been informed <choice>
+                  <orig>know</orig>
+                  <reg>no</reg>
+               </choice> doubt of my being very rationale. but ⁁ <add place="supralinear">I wish to inform,</add> my situation in life makes me  so when I Came down here I expected to settle at Randolph. but brother John, states that <pb n="2" facs="sl181b.small.jpg"/> he has already <choice>
+                  <orig>buisness</orig>
+                  <reg>business</reg>
+               </choice> enough to keep him <choice>
+                  <orig>buisey</orig>
+                  <reg>busy</reg>
+               </choice>, without entering into the commission buisness now if You can tell me how the buisness Could be <choice>
+                  <orig>cared</orig>
+                  <reg>caried</reg>
+               </choice> on without capital I would like for You to <choice>
+                  <orig>doo</orig>
+                  <reg>do</reg>
+               </choice> it, — know I will not stay here <choice>
+                  <orig>dooing</orig>
+                  <reg>doing</reg>
+               </choice> nothing for I am <choice>
+                  <orig>poore</orig>
+                  <reg>poor</reg>
+               </choice> I must Confess and without I make use of some means to get into <choice>
+                  <orig>possesion</orig>
+                  <reg>possession</reg>
+               </choice> those openings that offer I can not expect to prosper, and must live and die like a <choice>
+                  <orig>hogg</orig>
+                  <reg>hog</reg>
+               </choice> nobody know who I am nor I who they are , there is an opening here for one to  make a fortune, &amp; I have not the means to get into <choice>
+                  <orig>posesion</orig>
+                  <reg>possession</reg>
+               </choice> of It. —  I shall <choice>
+                  <orig>there foore</orig>
+                  <reg>therefore</reg>
+               </choice> go to <choice>
+                  <orig>arkensas</orig>
+                  <reg>arkansas</reg>
+               </choice> — and <choice>
+                  <orig>examin</orig>
+                  <reg>examine</reg>
+               </choice> for a situation up the river with a little trading boat and if the chance is good I shall put <unclear>off up</unclear> some of them, with Ten or twelve hundred <pb n="3" facs="sl181c.small.jpg"/> Dollars worth of goods and may go up as far as the Indian line, this is only an examination of the country, I shall be back in about <unclear>Six</unclear> months It is time for me to begin to make something I am <choice>
+                  <orig>know</orig>
+                  <reg>now</reg>
+               </choice> going On twenty two Years of age and <choice>
+                  <orig>feell</orig>
+                  <reg>feel</reg>
+               </choice> my self <choice>
+                  <orig>capible</orig>
+                  <reg>capable</reg>
+               </choice> of  taking care of property or calculated to attend to almost any kind of buisness John is dooing well himself and if he would spare some of his capital to give me a start I would make <choice>
+                  <orig>mony</orig>
+                  <reg>money</reg>
+               </choice> for himself and me too I <unclear>have</unclear>
+               <gap agent="damage"/>
+               <choice>
+                  <orig>care</orig>
+                  <reg>carry</reg>
+               </choice> enough cotton to get my <choice>
+                  <orig>pasage</orig>
+                  <reg>passage</reg>
+               </choice> gratis to <choice>
+                  <abbr>n</abbr>
+                  <expan>new</expan>
+               </choice> orleans. excuse bad hand writing</p>
+            <closer>
+               <salute>I remain in <choice>
+                     <orig>hast</orig>
+                     <reg>haste</reg>
+                  </choice> Your son</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jo.</abbr>
+                        <expan>Joseph</expan>
+                     </choice> Porter Brown</name>
+               </signed>
+               <pb n="4" facs="sl181d.small.jpg"/>
+               <address>
+                  <addrLine>Randolph <name type="place">
+                        <choice>
+                           <abbr>T.</abbr>
+                           <expan>Texas</expan>
+                        </choice>
+                     </name>
+                     <add place="upper right corner">18 3/4</add>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1830-01-19">Jany 19</date>
+                  </addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr>Revd</abbr>
+                        <expan>Reverend</expan>
+                     </choice> Joseph Brown</addrLine>
+                  <addrLine>} Near <name type="place">Columbia</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="up left side of paper">
+                  <choice>
+                     <abbr>JS,, P,,</abbr>
+                     <expan>Joseph Porter</expan>
+                  </choice> Brown</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

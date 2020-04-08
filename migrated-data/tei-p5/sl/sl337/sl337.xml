@@ -1,0 +1,127 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl337">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Jul. 14, Nashville [Tennessee]  [to] A. Fergusson, Carthage, Tenn[essee] / Robertson, Felix [et.al.]   : a machine readable transcription of an image</title>
+            <author>Robertson, Felix</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl337</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Jul. 14, Nashville [Tennessee]  [to] A. Fergusson, Carthage, Tenn[essee] / Robertson, Felix [et.al.]</title>
+               <author>Robertson, Felix</author>
+               <date when="1847-07-14">July 14, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Adam Fergusson dated July 14, 1847. The letter is signed by Felix Robertson, A. O. P. Nicholson, E. L. Eastman, and G. C. Lorbett. The letter is describing the political situation in Tennessee. The authors are concerned about the apathy in the Democratic party. They are worried that the Whigs will be able to take advantage of it during the next election. Fergusson is instructed to work hard at drumming up support.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b5</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl337</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr95002426"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Robertson, Felix, 1781-1865</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl337a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Nashville</name>, <date>July 14, 1847</date>.</addrLine>
+               </address>
+               <salute>Dear Sir:</salute>
+            </opener>
+            <p>We have received  information from different quarters within the last few days, that the Whigs are making large calculations upon the apathy prevailing in our ranks; and that they are privately organizing in all the counties to secure a full attendance of their forces at the polls. We have no doubt that our information is reliable, and it has induced us to take the liberty of suggesting to our friends the danger of being too confident of success, and the importance of taking prompt and effective steps to counteract the scheme of our opponents. We have no doubt of our strength, and if our friends are at the polls, we shall certainly gain victory; but unless our friends are at the polls, we may have to lament the result. Let us then most earnestly impress upon you the necessity of going promptly to work to see that we are not caught sleeping on our posts, when the day of trial comes. We will not suggest any plan of organization, but hope that you will, at once, consult with our friends, and devise such means as you shall deem most effective in insuring a full vote. This is the great point now to be attained, and it is rendered doubly important from the fact, that our opponents are understood to be making arrangements to profit by our supposed apathy. We believe that it is only necessary to make these suggestions to secure your cordial and prompt action in the matter.</p>
+            <closer>
+               <signed>
+                  <name>Felix Robertson</name>
+                  <name>A O P Nicholson</name>
+                  <name>E. L. Eastman</name>
+                  <name>G C Lorbett</name>
+               </signed>
+               <pb n="2" facs="sl337b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Col.</abbr>
+                           <expan>Colonel</expan>
+                        </choice>
+                        <choice>
+                           <abbr>A.</abbr>
+                           <expan>Adam</expan>
+                        </choice>
+                        <choice>
+                           <orig>Ferguson</orig>
+                           <reg>Fergusson</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Carthage</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1836 Nov. 14, Kingston, Ten[nessee] [to] Charles F. Welcker, Talladega, Alabama / H[enry] Welcker  : a machine readable transcription of an image</title>
+            <author>Welcker, Henry</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc039</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1836 Nov. 14, Kingston, Ten[nessee] [to] Charles F. Welcker, Talladega, Alabama / H[enry] Welcker</title>
+               <author>Welcker, Henry</author>
+               <date when="1836-11-14">November 14, 1836</date>
+               <extent>4 p</extent>
+               <note type="summary" anchored="true">This document is a letter dated November 14, 1836, written by Henry Welcker of Roane County, TN, to his son Charles F. Welcker in Talladega, AL.  Henry writes that he heard of some land Charles has, and he offers to send some "hiring hands" (slaves) to help work the land.  He also talks of some former Cherokee land that is being surveyed and sold.  He further discusses some local news and events.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b2</note>
+               <note type="folder" anchored="true">1836</note>
+               <note type="document" anchored="true">mc039</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Welcker, Henry</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc039a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Mouth of <name>Poplar Creek</name>
+                  </addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Nov</abbr>
+                           <expan>November</expan>
+                        </choice> the 14th, 1836</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Charles,</salute>
+            </opener>
+            <p>After a long and <choice>
+                  <orig>tiresom</orig>
+                  <reg>tiresome</reg>
+               </choice> journey I have at length arrived at home without meeting with any accident, where I found the family in good health <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>et cetera</expan>
+               </choice>- on my arrival I learned that the whole family of Nails Negroes were to be sold on the 26 of this month, I do not expect to buy any of them as I do not wish to speculate on them and there will be Traders who will give more than I am willing to give.</p>
+            <p>When I came home there was a letter <choice>
+                  <orig>hear</orig>
+                  <reg>here</reg>
+               </choice> for me from <name>judge Mitchell</name> which was post marked from <name>Tuscaloosa <choice>
+                     <abbr>Al</abbr>
+                     <expan>Alabama</expan>
+                  </choice>
+               </name>  from which I learned that you owned a tract of land which if partly cleared would sell for a great deal more than in its present state, and as you spoke of <choice>
+                  <orig>hireing</orig>
+                  <reg>hiring</reg>
+               </choice> hands while I was with you I will let you have four hands <add>one year</add> for four hundred dollars payable in advance provided  you come for <choice>
+                  <orig>theme</orig>
+                  <reg>them</reg>
+               </choice> about Christmas and bear their <choice>
+                  <orig>expences</orig>
+                  <reg>expenses</reg>
+               </choice> to your house and deliver them to me again at the end of the year if you should not wish to keep them any longer but if you  do wish to keep them longer you can do so by paying one $100 for each in advance for every year that you keep them, the hands which I intend to hire are Alex, Archibald, patsy, and pegy, both the girls are as good hands as I have in the crop they plowed last summer as much as any of the men and did it as well <pb n="2" facs="mc039b.small.jpg"/> these are my terms and if you think you can better yourself by taking them do so I wish you to write to me on the <choice>
+                  <orig>recet</orig>
+                  <reg>receipt</reg>
+               </choice> of this and let me know whether or not you will take them so that I can make arrangements accordingly</p>
+            <p>It is probable that you have <choice>
+                  <orig>sean</orig>
+                  <reg>seen</reg>
+               </choice> in the papers that the <choice>
+                  <orig>survayors</orig>
+                  <reg>surveyors</reg>
+               </choice> are already appointed to <choice>
+                  <orig>survay</orig>
+                  <reg>survey</reg>
+               </choice> the <name>Cherokee</name> land if you wish to <choice>
+                  <orig>purchace</orig>
+                  <reg>purchase</reg>
+               </choice> I would advise you to make your own selection as soon as possible as Frederick and Monroe are going to College they can be of no assistance to you in that particular _ I have not received an answer to the letter which you wrote while I was in Alabama but received one from <name>Mr Wilson</name>  of <name>Denmark</name> a few days since informing me that my land could now be sold for ten dollars per <choice>
+                  <orig>acer</orig>
+                  <reg>acre</reg>
+               </choice>, I expect to sell in a short time; whoever buys my land will have to come in order to get a title as I do not expect ever to go so far from home again.</p>
+            <p>
+               <name>Mr Huett</name> and myself have made an exchange of horses and I believe both were glad of the swap</p>
+            <p>
+               <name>Mr Henry Monger</name> the widower was Married a few days since to the widow <name>Mckiney</name>  also <name>Mr Dearmond</name>   a Widower from <name>Mississippi</name> to <name>Miss Elizabeth Dearmond</name> of <name>Roane <choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice>
+               </name> he is the Father of the young Gentleman who Married <name>
+                  <unclear>Grizzy</unclear> Dearmond</name> last fall. <pb n="3" facs="mc039c.small.jpg"/> I wish you to make particular enquiry how much Ham could be hired for to a safe employer without <add>any</add> expences to me.</p>
+            <p>we have not heard from Lewis since I saw you. ___ Property in <name>
+                  <choice>
+                     <abbr>E Ten</abbr>
+                     <expan>East Tennessee</expan>
+                  </choice>
+               </name> has taken a considerable rise lands are at least 50 per cent higher than they were last year one of the <name>Ha<add>r</add>leys </name> has some ideas of buying the mill place.</p>
+            <p>I planted about 3 hundred bushels of potatoes and gathered about 2 <choice>
+                  <abbr>hund</abbr>
+                  <expan>hundred</expan>
+               </choice> if you come up to take the hands about Christmas you can get a chance of going in a boat as <name>Smith</name> and <name>Burnes</name> will go down about that time you can have the hands at any time without being detained a single day but if you do not take them write to me immediately so that I can dispose of them some other way the family are all well and join me in sending their love to you and family please remember me to <name>Mr Cambell</name>
+            </p>
+            <closer>
+               <salute>Your affectionate Father</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>H.</abbr>
+                        <expan>Henry</expan>
+                     </choice> Welcker</name>
+               </signed>
+               <pb n="4" facs="mc039d.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name>Kingston <choice>
+                           <abbr>Ten</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date>Nov 16th 1836</date>
+                  </addrLine>
+               </address>
+               <add>18 ¾</add>
+               <address>
+                  <addrLine>
+                     <name>Mr Charles F. Welcker</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Talladega</name>
+                  </addrLine>
+                  <addrLine>Alabama</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

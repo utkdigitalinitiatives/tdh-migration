@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1816 July 4 [to] William H. Crawford, Washington City / Andrew Jackson : a machine readable transcription of an image</title>
+            <author>Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl018</idno>
+            <idno>OCLC: 50013984</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1816 July 4 [to] William H. Crawford, Washington City / Andrew Jackson </title>
+               <author>Jackson, Andrew</author>
+               <date when="1816-07-04">July 4, 1816</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This document is a letter dated July 4, 1816 from Major General Andrew Jackson to William H. Crawford.  Jackson reports on several events, including the removal of suspected intruders on Chickasaw land, and a murder supposedly committed by Cherokee Indians.</note>
+               <note type="collection" anchored="true">Andrew Jackson Letters</note>
+               <note type="box" anchored="true">Correspondence by author, b1</note>
+               <note type="folder" anchored="true">J</note>
+               <note type="document" anchored="true">sl018</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chickasaw Indians -- Land tenure</term>
+               <term>Cherokee Indians -- Claims against</term>
+               <term>Creek Indians -- Treaties</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl018a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Head Quarters Division of the South</addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+               </address>
+               <date when="1816-07-04">4th July 1816</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your letter of the 1st Instant is duly received and so soon as the Instructions <choice>
+                  <orig>reffered</orig>
+                  <reg>referred</reg>
+               </choice> to reach me, Shall be fully answered—</p>
+            <p>
+               <name type="person">Captain Alton</name> is progressing in <choice>
+                  <orig>removeing</orig>
+                  <reg>removing</reg>
+               </choice>, and burning the Houses, and Fences of the intruders, on the North side of the <name type="place">Tennessee River</name>. There has been an application for indulgence by several inhabitants who state, that they are not intruders but that they settled on the lands of the Chickasaws, and built a mill, at the special request of the Indians themselves as well as the Agent of that tribe, and that they now remain for its protection. This application is accompanied with the Permits of the several Officers, who have since been in command at <name type="place">Fort Hampton</name> But as I have no discretionary power on this subject, (the Agent having required the removal of all) I can only order the destruction of the property to be suspended, until I am informed by the Agent whether those families hold his permission for living on the lands in question I have written (of this date) to <name type="person">
+                  <choice>
+                     <abbr>Colnl</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Cocke</name>  on this subject, And enclose for your consideration a letter from<name type="person"> Mr Louis Winston</name> (a gentleman of <name type="place">Huntsville</name>) <pb n="2" facs="sl018b.small.jpg"/> together with the permits above alluded to <choice>
+                  <abbr>Nos</abbr>
+                  <expan>Numbers</expan>
+               </choice> 1&amp; 3 inclusive. also, an instrument marked <choice>
+                  <abbr>No</abbr>
+                  <expan>Number</expan>
+               </choice> 4 in which these families stipulate for the performance of <choice>
+                  <orig>cirtain</orig>
+                  <reg>certain</reg>
+               </choice> services in consideration of the privileges allowed them—</p>
+            <p>
+               <name type="person">Mr Thomas Austin</name> has this day made application for an order, directing the payment of his account for supplying the Commissioners while running the line, under the Creek Treaty. Not having the authority to order such payments, I have to request your instructions—</p>
+            <p>I enclose you a letter from <name type="person">Mr James Cage</name>, giving an account of a late murder <choice>
+                  <orig>commited</orig>
+                  <reg>committed</reg>
+               </choice> by the <name type="person">Cherokees</name>, in that Nation, on the main road leading to the State of <name type="place">Georgia</name>. I am in informed that two of the Indians concerned have been arrested and delivered over to the civil <orig>autharty</orig> for trial.</p>
+            <p>Learning on yesterday that 400 men were assembled for the purpose of entering that nation ⁁<add place="supralinear">and demanding the murderers</add> Immediately sent a messenger to direct them to <choice>
+                  <orig>disist</orig>
+                  <reg>desist</reg>
+               </choice> I have a hope that when they learn that part of the number implicated are surrendered, they will disperse without attempting to enter the Cherokee country</p>
+            <closer>
+               <salute>I am with much respect your most <choice>
+                     <abbr>obt servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <emph>
+                     <name type="person">Andrew Jackson</name>
+                  </emph>Major <choice>
+                     <abbr>Genl Commdg D. of the S</abbr>
+                     <expan>General Commanding Division of the South</expan>
+                  </choice>.</signed>
+               <address>
+                  <addrLine>
+                     <name type="person">William H. Crawford</name>}</addrLine>
+                  <addrLine>
+                     <name type="place">Washington City</name>}</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

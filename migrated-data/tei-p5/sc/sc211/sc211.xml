@@ -1,0 +1,139 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc211">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1849 Dec. 19, [near] Knoxville [Tennessee, to] Margaret Stuart, Wytheville, Virginia / Geo[rge] Stuart : a machine readable transcription of an image</title>
+            <author> Stuart, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc211</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1849 Dec. 19, [near] Knoxville [Tennessee, to] Margaret Stuart, Wytheville, Virginia / Geo[rge] Stuart</title>
+               <author> Stuart, George</author>
+               <date when="1849-12-19">December 19, 1849</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from George Stuart to his wife, Margaret, dated December 19, 1849. He writes that all is well, and actually going better than expected. He writes that he is travelling about 33 miles a day.</note>
+               <note type="collection" anchored="true">George Stuart Papers</note>
+               <note type="box" anchored="true">MS 1150</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc211</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Family communication</term>
+               <term>Travel</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Stuart, George</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc211a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <unclear>Mnt Con,s</unclear> 10 miles west of</addrLine>
+                  <addrLine>
+                     <name>Knoxville</name> Wednesday evening</addrLine>
+                  <addrLine>
+                     <date>
+                        <choice>
+                           <abbr>Decr</abbr>
+                           <expan>December</expan>
+                        </choice> 19th 1849</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear</salute>
+            </opener>
+            <p>You will see by this that we are still making our 33 miles <choice>
+                  <abbr>pr</abbr>
+                  <expan>per</expan>
+               </choice> day, should we continue through the remainder of the week to do so, we will be in the <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> of <name>Sparta</name> saturday evening___</p>
+            <p>Resting on Sunday, we would be in <name>Nashville</name> this day week, We have had less difficulty to encounter than I anticipated</p>
+            <closer>
+               <salute>all well <lb/> Sincerely yours</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Geo.</abbr>
+                        <expan>George</expan>
+                     </choice> Stuart</name>
+               </signed>
+               <pb n="2" facs="sc211b.small.jpg"/>
+               <address>
+                  <addrLine>Mrs <name>Margaret Stuart</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Wytheville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>Virginia</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

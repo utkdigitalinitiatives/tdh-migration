@@ -1,0 +1,165 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl680">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] [1847, to] Neil S. Brown / S. McClung : a machine readable transcription of an image</title>
+            <author> McClung, S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl680</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] [1847, to] Neil S. Brown / S. McClung</title>
+               <author> McClung, S.</author>
+               <date when="1847">ca. 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter to Governor Neil S. Brown from S. McClung. The date may be in 1847. McClung is writing to inform Brown of the amount of arms his company has. He mentions receiving supplies from various other officers in the army.</note>
+               <note type="collection" anchored="true">Governor Neil S. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl680</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Military supplies</term>
+               <term>Military history</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McClung, S. M.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl680a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>To His Excellency <name>Neil S. Brown</name>,</addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>D</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir,</salute>
+            </opener>
+            <p>Yours of 3d <choice>
+                  <abbr>Ult</abbr>
+                  <expan>Ultimo</expan>
+               </choice> to <name>
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Caswell</name>, in reference to the arms in my charge at this place was handed me a few days since and I hasten to reply at my earliest moment of leisure. It would require more time than <gap/> can possibly spare, just now, from the duties of my office (being <gap/> a short time before the sitting of the Chancery Court) to make my answer as explicit and satisfactory as I could wish. From such investigation as I have been able to make I should say that the number of guns on hand was something over thirteen hundred__ perhaps thirteen hundred and twenty five_ most of which are in good order with <choice>
+                  <orig>bayonettes</orig>
+                  <reg>bayonets</reg>
+               </choice>
+               <choice>
+                  <abbr>attach,d</abbr>
+                  <expan>attached</expan>
+               </choice>. There are only thirty one swords and nine pistols. The cartridge boxes, belts, vices, screw-drivers <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> are  in boxes and are perhaps as numerous as the guns, swords &amp;c.</p>
+            <p>These guns were taken out of the possession of my predecessor <name>
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Crozier</name>, I think, by order of <choice>
+                  <abbr>Gov</abbr>
+                  <expan>Governor</expan>
+               </choice>
+               <name>
+                  <choice>
+                     <abbr>A.</abbr>
+                     <expan>Aaron</expan>
+                  </choice> V. Brown</name>and  delivered to <name>
+                  <unclear>Gen. H.</unclear> Harris</name> and <name>A. R. Crozier</name> with whom a contract was made under an act of the Legislature, for cleaning them &amp; putting them in order. I have never been called on to receipt for them</p>
+            <p>Genl Caswell informs me that 100 Guns &amp;c were <choice>
+                  <abbr>deliver,d</abbr>
+                  <expan>delivered</expan>
+               </choice> to <del type="overstrike">the order</del>
+               <name>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Wales</name>
+               <unclear>three</unclear> of <name>Rogersville</name> and some 500 were sent to <name>Memphis</name> about the time that the first of our volunteers left for <name>Mexico</name>. During the rendezvous of the Regiment of Volunteers at this place, and before my appointment, a number of guns were deliver,d by order of <name>Genl Gillespie</name> to the citizens who <choice>
+                  <abbr>form,d</abbr>
+                  <expan>formed</expan>
+               </choice> a guard for the protection of the town There has been but one of the <pb n="2" facs="sl680b.small.jpg"/>
+               <gap/> Hoping  that the above information may sufficient for your present purpose</p>
+            <closer>
+               <salute>I am most respectfully <lb/> Your <choice>
+                     <abbr>obdt Servt</abbr>
+                     <expan>obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>  S M McClung,</name>
+                  <add>
+                     <choice>
+                        <abbr>Ass Qr M Genl</abbr>
+                        <expan>Assistant Quarter Master General</expan>
+                     </choice>
+                  </add>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

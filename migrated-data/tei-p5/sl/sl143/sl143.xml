@@ -1,0 +1,136 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl143">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   Dueling Rules, 1808 Apr. 13, Knoxville  : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl143</idno>
+            <idno>OCLC: 50555732</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Dueling Rules, 1808 Apr. 13, Knoxville</title>
+               <date when="1808-04-13">April 13, 1808</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">The following document is a list of dueling rules signed by John F. Jack, John McCampbell, and J. Coffee in Knoxville on April 13, 1808.  The list describes the details of the way a particular duel is to be conducted and sets the duel on an early Tuesday morning in Virginia's Cumberland Gap.</note>
+               <note type="collection" anchored="true">John Cocke Papers V-J-3</note>
+               <note type="box" anchored="true">n/a</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">sl143</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dueling</term>
+               <term>Manners and customs</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl143a.small.jpg"/>
+            <list type="simple">
+               <head>Dueling Rules <lb/>
+                  <date when="1808-04-13">April 13, 1808</date>
+               </head>
+               <item>1st. The Parties to fight with Smooth bored pistols and not with rifled Pistols.</item>
+               <item>2nd. The Pistols to be loaded by the Seconds in the presence of each other</item>
+               <item>3rd. Each Party to furnish his own arms &amp; <choice>
+                     <orig>amunition</orig>
+                     <reg>ammunition</reg>
+                  </choice>.</item>
+               <item>4th. The Words of Caution shall be Gentlemen are you ready.</item>
+               <item>5th. The Word of Command shall be Fire.</item>
+               <item>6th. When the word fire is <gap agent="damage"/> &amp; fire as soon as they please</item>
+               <item>7th. The parties in the fight to stand ten yards apart.</item>
+               <item>8th. At the Words of Caution each party shall have his pistol in his right hand Cocked with the Muzzle directly to the ground</item>
+               <item>9th. A Snap or flash equivalent to a fire</item>
+               <item>10th. If either of the parties snap or flash his Pistol after the word of command is given without discharging it and is wounded by his adversary the party wounded shall have a right to demand a second fire under the Rules &amp; regulations of the first.</item>
+               <item>11th. Each Second shall stand on the right hand of his Friend and at an equal distance from both.</item>
+               <item>12th. Each Second is to place his friend at one and the Same time at the distance they are to stand.</item>
+               <item>13th.  The Seconds are to give the word one to the other is he ready to return to his stand, if he says he is they retire.</item>
+               <item>14th. If the parties discharge their pistols, and either is wounded so that he cannot stand <choice>
+                     <orig>errect</orig>
+                     <reg>erect</reg>
+                  </choice>  the fight shall be at an end <add place="left margin"> that the wounded party may demand another fire</add>
+               </item>
+               <item>15th. They are to fight <del type="overstrike">at</del>
+                  <add place="supralinear">near</add>
+                  <name type="place">Cumberland Gap</name> in the State of <name type="place">Virginia</name> between the hours of five and six in the Morning of the first Tuesday after Jefferson Court next.</item>
+               <item>16th The Pistols with which they fight <del type="overstrike">shall</del> not ⁁ <add place="supralinear">to</add> exceed Eleven Inches in the <choice>
+                     <orig>Barrill</orig>
+                     <reg>Barrel</reg>
+                  </choice>.</item>
+               <pb n="2" facs="sl143b.small.jpg"/>
+               <item>17th. If either of the parties fire before the word of Command is given there shall be a publication in the news paper of the State of these Rules &amp; his Conduct signed by both the Seconds.</item>
+            </list>
+         </div>
+         <div subtype="1" type="letter">
+            <p>Knoxville <lb/>
+               <date when="1808-04-13">April 13th 1808</date>
+            </p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <emph>John F. Jack</emph>
+                  </name>
+               </signed>
+               <signed>
+                  <name type="person">
+                     <emph>John McCampbell</emph>
+                  </name>
+               </signed>
+               <signed>
+                  <name type="person">
+                     <unclear>J Coffee</unclear>
+                  </name>
+               </signed>
+               <signed>
+                  <unclear>Th  Dordes</unclear>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

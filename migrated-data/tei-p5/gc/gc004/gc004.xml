@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1816 Aug. 15, Oak Grove  [to] James King, Rutherford County, [TN] / Ezekiel Moore, : a machine readable transcription of an image</title>
+            <author>Moore, Ezekiel</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc004</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1816 Aug. 15, Oak Grove  [to] James King, Rutherford County, [TN] / Ezekiel Moore</title>
+               <author>    Moore, Ezekiel</author>
+               <date when="1816-08-15"> August 15, 1816</date>
+               <extent>3</extent>
+               <note type="summary" anchored="true">A letter written on August 15, 1816 from Ezekiel Moore in Oak Grove to his nephew James Moore King in Rutherford County, Tennessee.  Moore writes of illness in his neighborhood and inquires about a horse.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1813, 1815-1817</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">gc004</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Communication in the family</term>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Ezekiel</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc004a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="person">Ezkl. Moore —</name>
+                     <date>1816</date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Mr James King</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="place">Rutherford County Tennessee</name>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">For[ward] by Mr. C. Hay</name>
+                  </addrLine>
+               </address>
+               <add place="Bottom of folded envelope">Rutherford County Tennessee</add>
+            </opener>
+            <pb n="2" facs="gc004b.small.jpg"/>
+            <opener>
+               <name type="place">Oak Grove</name>
+               <date when="1816-08-15">Aug—15th 1816</date>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice>
+                  <name type="person">Nephew</name>
+               </salute>
+            </opener>
+            <p>These lines leaves me in tolerable health my family is well, But      the <choice>
+                  <orig>neighbourhood</orig>
+                  <reg>neighborhood</reg>
+               </choice> is sickly at this time But hope these lines will find you well I have been making some inquiries about your horse  Think he will do very well if ⁁ <add place="supralinear">he</add> fulfills the Description of my information of him, there is several people seems anxious of hunting more this <choice>
+                  <orig>fawl</orig>
+                  <reg>fall</reg>
+               </choice> and if you intend him to stand here next spring I think you had best bring him over as soon as <choice>
+                  <orig>posibly</orig>
+                  <reg>possibly</reg>
+               </choice> you can and let him be seen by the people <pb n="3" facs="gc004c.small.jpg"/> I also would be glad to see ⁁ <add place="supralinear">you</add> before you go to <name type="place">Carolina</name>  I have some thought of going myself — if I can posibly  of in my business so as I can leave it, or get <name type="person">John</name> or <name type="person">Joe</name> to go in with you, as I — <add place="supralinear">have</add> some Interesting business that calls me to go or see to it as early as posible </p>
+            <p> My Respects to your mother <name>
+                  <choice>
+                     <abbr>Captn</abbr>
+                     <expan>Captain</expan>
+                  </choice> Butler</name>  &amp; family &amp; <choice>
+                  <orig>Enquirers</orig>
+                  <reg>inquirers</reg>
+               </choice>
+            </p>
+            <closer>
+               <salute>I am with due Respects <choice>
+                     <abbr>Yrs &amp;c</abbr>
+                     <expan>Yours and et cetera</expan>
+                  </choice>
+               </salute>
+               <signed>Ezekiel Moore</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

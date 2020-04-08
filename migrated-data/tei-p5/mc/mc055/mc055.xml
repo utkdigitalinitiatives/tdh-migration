@@ -1,0 +1,121 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mc055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Contract] 1839 Mar. 2 [with Charles F. Welcker for slave hire] / A[lbert] S. Lenoir : a machine readable transcription of an image</title>
+            <author>Lenoir, Albert S.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">mc055</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the McClung Historical Collection, Knox County Public Library, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Manager of the McClung Historical Collection, 500 West Church Avenue, Knoxville, TN, 37902-2505.  (865) 215-8801. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Contract] 1839 Mar. 2 [with Charles F. Welcker for slave hire] / A[lbert] S. Lenoir</title>
+               <author>Lenoir, Albert S.</author>
+               <date when="1839-03-02">March 2, 1839</date>
+               <extent>2 p</extent>
+               <note type="summary" anchored="true">This document is a contract dated March 2, 1839, written by Albert S. Lenoir.  It involves the hire of two slaves from the property of his deceased father-in-law Henry Welcker and is arranged with Charles F. Welcker, son and agent to the deceased Welcker.  Lenoir agrees to pay 100 dollars for each of the slaves for a term of one year.</note>
+               <note type="collection" anchored="true">Welcker Papers</note>
+               <note type="box" anchored="true">MS-12, b3</note>
+               <note type="folder" anchored="true">1839</note>
+               <note type="document" anchored="true">mc055</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Contracts</term>
+               <term>Slaves</term>
+               <term>Southern States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n2008162663"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Lenoir, Albert S., 1803-1861</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="mc055a.small.jpg"/>
+            <opener>
+               <dateline>
+                  <date when="1839-03-02">March 2nd 1839</date>
+               </dateline>
+            </opener>
+            <p>I have this day hired of <name>Charles <choice>
+                     <abbr>F.</abbr>
+                     <expan>Frederick</expan>
+                  </choice> Welcker</name> Agent of the heirs of <name>Henry Welcker</name>
+               <choice>
+                  <abbr>Decd.</abbr>
+                  <expan>Deceased</expan>
+               </choice> two Negro boys one Named Elleck &amp; the other George the term of hire is to end twelve months from this date at which time I am to deliver back to said Welcker said negroes It is agreed that I am to clothe them &amp; run all risk as to loss of time in case of sickness <choice>
+                  <orig>hollidays</orig>
+                  <reg>holidays</reg>
+               </choice>
+               <choice>
+                  <abbr>&amp;C</abbr>
+                  <expan>et cetera</expan>
+               </choice> unless said Negroes should have something like a week or more sickness in which case said Welcker is to <choice>
+                  <orig>loose</orig>
+                  <reg>lose</reg>
+               </choice> time &amp; pay <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> bills</p>
+            <p>In consideration of which hire I promise to pay said Welcker one hundred dollars each for said hands the hire of one to be paid at the expiration of the time and the other to be paid in accordance with a written agreement <choice>
+                  <orig>intired</orig>
+                  <reg>entered</reg>
+               </choice> into by &amp; between the heirs of Henry Welcker Decd. Whose agent said Charles F. Welcker is.</p>
+            <closer>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>A.</abbr>
+                        <expan>Albert</expan>
+                     </choice> S. Lenoir</name>
+               </signed>
+               <pb n="2" facs="mc055b.small.jpg"/> Articles <lb/> A. S. Lenoir &amp; <lb/> C F Welcker</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc191">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1799 Feb. 12, Knoxville, Tennessee [to] Richard Harrison,  Philadelphia, Penn. / David Henley : a machine readable transcription of an image</title>
+            <author> Henley, David</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc191</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1799 Feb. 12, Knoxville, Tennessee [to] Richard Harrison,  Philadelphia, Penn. / David Henley</title>
+               <author>  Henley, David</author>
+               <date when="1799-02-12"> 
+			 February 12, 1799</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is  a brief letter dated February 12, 1799 from David Henley to Richard Harrison.  The subject of the letter is furnishings for the Indian and Quarter Masters Departments.</note>
+               <note type="collection" anchored="true">David Henley Letter</note>
+               <note type="box" anchored="true">MS-1871</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc191</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>United States History</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n85198931"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Henley, David, 1749-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc191a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                  </addrLine>
+               </address>
+               <date>12 February 1799</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have forwarded the accounts of <name>King &amp; Crozier</name> for sundry articles of merchandise furnished for the Indian and Quarter masters Departments, and for the use of my office from april to December 1798, and amounting to four hundred fifty one dollars and ninety nine cents, which sum they request may be paid to their attorney <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice>. <name>Samuel Meeker</name>__</p>
+            <closer>I am respectfully Your <choice>
+                  <abbr>Humbl</abbr>
+                  <expan>Humble</expan>
+               </choice>. Servant <signed>
+                  <name>David Henley</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>agt</abbr>
+                     <expan>agent</expan>
+                  </choice> war <lb/>
+                  <name>Richard Harrison</name> esquire__</add>
+               <pb n="2" facs="sc191b.small.jpg"/>
+               <address>
+                  <addrLine>Knoxville</addrLine>
+               </address>
+               <date>
+                  <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice> 12 1799</date>
+               <add>
+                  <name>David Henley</name> with <choice>
+                     <abbr>Accots</abbr>
+                     <expan>Accounts</expan>
+                  </choice> of King &amp; Crozier</add>
+               <address>
+                  <addrLine>
+                     <name>Richard Harrison</name> esquire <name>United States</name> Auditor <name>Philadelphia</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

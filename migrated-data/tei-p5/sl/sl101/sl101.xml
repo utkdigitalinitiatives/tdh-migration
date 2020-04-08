@@ -1,0 +1,189 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl101">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 May 4, Springfield, Te[nnessee]  [to] Miss Lucy L. C. Bailey, Clarksville, Tenn[essee] / Ann Maria [Bryon] : a machine readable transcription of an image</title>
+            <author>Bryon, Ann Maria</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl101</idno>
+            <idno>OCLC: 50488739</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 May 4, Springfield, Te[nnessee]  [to] Miss Lucy L. C. Bailey, Clarksville, Tenn[essee] / Ann Maria [Bryon]</title>
+               <author>Bryon, Ann Maria</author>
+               <date when="1838-05-04">May 4, 1838</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Ann Maria Bryon to her cousin, Lucy Bailey, on May 4, 1838. In the letter, Ann shows excitement about taking care of her Cousin Kitty's house and overseeing all household activities while Kitty is sick. She is also excited about a trip that she plans to take across Tennessee and Virginia.</note>
+               <note type="collection" anchored="true">Lucy Bailey Papers</note>
+               <note type="box" anchored="true">II-G-6</note>
+               <note type="folder" anchored="true">Correspondence A M Whitfield</note>
+               <note type="document" anchored="true">sl101</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bryon, Ann Maria</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl101a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <date when="1838-05-04">May 4th 1838</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Cousin</salute>
+            </opener>
+            <p>Yes I am still in <name type="place">Springfield</name>, and as busy as a bee; I should not have failed to have answered your kind letter by the returning mail had I not been so very busy, <del type="overstrike">but</del> my family requires great attention at present, my little Brother is very much in need of <choice>
+                  <orig>cloths</orig>
+                  <reg>clothes</reg>
+               </choice> as well as myself and I have been hurrying to get ready by the time <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Williams</name> gets his <choice>
+                  <orig>baronch</orig>
+                  <reg>brunch</reg>
+               </choice>, so that I can go with him &amp; <name type="person">Cousin Kitty</name> every where this summer Cousin Kitty's health is very bad and the <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> is anxious she should travel, he is now in <name type="place">Nashville</name>, went there <choice>
+                  <orig>yestaday</orig>
+                  <reg>yesterday</reg>
+               </choice> on purpose to get a carriage, we have a number of places in contemplation, to visit, and about the first is <name type="place">Clarksville</name> then to <name type="place">Shaker Town</name>, Nashville, and some springs either in <name type="place">east <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name> on the western part of <name type="place">Virginia</name>, <choice>
+                  <abbr>&amp;c &amp;c</abbr>
+                  <expan>and et cetera and et cetera</expan>
+               </choice> Oh! the <choice>
+                  <orig>funn</orig>
+                  <reg>fun</reg>
+               </choice> we will have. I had all sorts of <choice>
+                  <orig>funn</orig>
+                  <reg>fun</reg>
+               </choice> the other evening at an <unclear>infair</unclear> given to the new married couple, <name type="person">Mr &amp; Mrs Kimble</name>
+               <name type="person">Ed</name> &amp; <name type="person">Billy</name> were both there, as was also <name type="person">Mr John Hart</name>
+               <name type="person">Mr Green</name> and a good many more Misters, the party was not very large though sufficient to make it very pleasant, the next morning Cousin and myself called to see the bride "She looked a pleasing as a basket of chips" I tell you what <name type="place">Springfield</name> is not what it was when you were here, it has very rapidly improve since you were here, since I have been here there has been several parties <unclear>quilings</unclear> and weddings, and I have become acquainted with all the ladies in town and visit a great deal and when <name type="person">cousin Will</name> was here I enjoyed myself <choice>
+                  <orig>mightly</orig>
+                  <reg>mightily</reg>
+               </choice> playing <choice>
+                  <orig>eucre</orig>
+                  <reg>euchre</reg>
+               </choice> old maids <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>and et cetera</expan>
+               </choice> but now he is gone the days would seem much longer than they really are were I not so very busy, I am house keeper now, Cousin Kitty's health is so bad that she <del type="overstrike">willingly</del> willingly lets me sit at the head of the table, and you know nothing would please me more. I have made quite a rise since I saw you, to have a house at my command <choice>
+                  <abbr>dont</abbr>
+                  <expan>do not</expan>
+               </choice> you think so? and <name type="person">Margo</name> is given it to me also she sleeps with me and I dress her and make her drapes and all sorts of good things <pb n="2" facs="sl101b.small.jpg"/> you ought to be here to see how well I do the <choice>
+                  <orig>honours</orig>
+                  <reg>honors</reg>
+               </choice> of the table <name type="person">Cousin James</name> was here the other day and said that I was just where I ought to be. he stayed all last week in town, came in Monday the very day I got your sweet letter, <name type="person">Cousin David</name> &amp; <name type="person">Jack</name> came with him but they returned that evening <name type="person">Cousin Sally</name> is at Cousin James and I am very anxious to see her but cant go. I received by Cousin Jack a very sweet (though short) note from Cousin Lucy she told me how well she enjoyed her trip to Clarksville.</p>
+            <p>I received a letter from Papa a few days ago, he said that he would send for me as soon as he could, as he could not come up himself and did not go to <name type="place">Texas</name>, he is now in business and cant leave though in every letter his mind is changed and as likely as not in his next he will be ready to leave, I wrote to him that I would rather wait and go down with <name type="person">
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Williams</name> and family in the fall, Cousin Kitty got a letter from <name type="person">Cousin Hardy</name> and he is trying to get the <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> in the notion of moving down to <choice>
+                  <abbr/>
+                  <expan>Mississippi</expan>
+               </choice> and I dont know when the <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> visits the country and sees what a great place it is but think very strongly that he will be to much pleased that he will move there.</p>
+            <p>You may expect to see me shortly we are now looking for the <choice>
+                  <abbr>Dr</abbr>
+                  <expan>Doctor</expan>
+               </choice> and I know he will have a carriage and he says if he got one he would be sure to go to Clarksville <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> then good bye give my love to all the folks, I am very much obliged to you for writing, to me for I am sure if I was the judge I would say that you never made a more impartial choice in your life than when you gave up that very interesting novel for the entertainment of your truly dear Cousin</p>
+            <closer>
+               <signed>
+                  <name type="person">Ann Maria</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Lucy L. C. Bailey</name>
+                  </addrLine>
+               </address>
+               <pb n="3" facs="sl101c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Springfield <choice>
+                           <abbr>Te</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1838-05-17">May 17</date> }</addrLine>
+               </address>
+               <add place="above address">10</add>
+               <address>
+                  <addrLine>Miss Lucy L C Bailey</addrLine>
+                  <addrLine>Clarksville</addrLine>
+                  <addrLine>
+                     <choice>
+                        <abbr/>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

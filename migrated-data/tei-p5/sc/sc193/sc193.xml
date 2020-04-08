@@ -1,0 +1,122 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Deposition]  1795 Jun. 2, Knox County Court / [witnessed by] G. Roulstone : a machine readable transcription of an image</title>
+            <author>Roulstone, G. </author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc193</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Deposition]  1795 Jun. 2, Knox County Court / [witnessed by] G. Roulstone </title>
+               <author> Roulstone, G. </author>
+               <date when="1795-06-02">June 2, 1795</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This document is a deposition in a case where John Allen Smith Carrington assaulted George Martins after a verbal dispute.</note>
+               <note type="collection" anchored="true">Carrington Deposition</note>
+               <note type="box" anchored="true">MS-1826</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc193</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Assault and battery</term>
+               <term>Depositions</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n88077537"
+                        role="Witness http://id.loc.gov/vocabulary/relators/wit">Roulstone, George, 1767-1804</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc193a.small.jpg"/>
+            <p>The Deponant <name>
+                  <choice>
+                     <abbr>J.A.S</abbr>
+                     <expan>John Allen Smith</expan>
+                  </choice>. Carrington</name> Happening to Beat <name>George Martins</name> on the Evening of the <date>Seventh of may 95</date> Where, <add place="supralinear">there</add> was <name>Samuel Hammons</name>, and Samuel and William McEvine Dworting Themselves for some time, in the water, then Coming in to the house and Beginning with Some Rough Language, Which Consisted of Profaine <choice>
+                  <orig>Swairing</orig>
+                  <reg>swearing</reg>
+               </choice> for which Said Martin <choice>
+                  <abbr>Reprid</abbr>
+                  <expan>Reprimanded</expan>
+               </choice> them for, which <choice>
+                  <orig>inraged</orig>
+                  <reg>enraged</reg>
+               </choice>, <name>William McEvine</name> that he flung out of the House. then Calling Said Martin a <choice>
+                  <orig>Damnd</orig>
+                  <reg>damned</reg>
+               </choice> Weavel Eater of Haskel. and if he had him out of the House he Would Drown him in the River. then <choice>
+                  <abbr>Mrs</abbr>
+                  <expan>Misses</expan>
+               </choice> martin Coming to the Door Said too William McEvine it would be as good for him to give another Button too a <choice>
+                  <orig>Neagro</orig>
+                  <reg>Negro</reg>
+               </choice> than Come there to quarrel with the old Man.  Which was all that Passed </p>
+            <closer>
+               <signed>J.A. Harrington</signed>
+               <add>This day personally appeared before me <name>John Allen Smith Carrington</name>, who being duly sworn deposed that the testimony above received is just &amp; true subscribed before me, <name>G Roulstone</name>, Commissioner of affidavits__</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

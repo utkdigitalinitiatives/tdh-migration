@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl600">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1846 May 20, Nashville, Tennessee [to] Robert B. Turner / T.J. Whitfield : a machine readable transcription of an image</title>
+            <author> Whitfield, T.J.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl600</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1846 May 20, Nashville, Tennessee [to] Robert B. Turner / T.J. Whitfield</title>
+               <author>  Whitfield, T.J.</author>
+               <date when="1846-05-20"> 
+			 May 20, 1846</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated May 20, 1846 from T.J. Whitfield, commander of a company of volunteer soldiers in Tennessee to Adjutant General, Robert B. Turner in Nashville.  Whitfield informs Turner that his company of 80 rank and file soldiers are ready to take part in the war with Mexico at a moments notice.  </note>
+               <note type="collection" anchored="true">Governor Aaron V. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true"> sl600</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mexican War, 1846-1848</term>
+               <term>Tennessee -- History</term>
+               <term>Brown, Aaron V. (Aaron Venable), 1795-1859</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Whitfield, T. J.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl600a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Nashville <choice>
+                        <abbr>Tenn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date>May 20th 1846</date>
+               <salute>Robert B. Turner <choice>
+                     <abbr>Adjt</abbr>
+                     <expan>Adjutant</expan>
+                  </choice>. General <lb/> Sir</salute>
+            </opener>
+            <p> I herewith report to you that I have a  company of volunteers consisting of 80 rank and file, known by the name of the <lb/> which are ready at a moments warning for marching to the seat of war in  our South West frontier, to <choice>
+                  <orig>repell</orig>
+                  <reg>repel</reg>
+               </choice> invasion and vindicate American rights and honor and <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> you, to the <choice>
+                  <abbr>gov</abbr>
+                  <expan>Governor</expan>
+               </choice> of Tennessee can tender them for the aforesaid service. </p>
+            <closer>
+               <add>T.J. Whitfield <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice>
+                  <choice>
+                     <abbr> Comding</abbr>
+                     <expan>Commanding</expan>
+                  </choice>
+               </add>
+               <pb n="2" facs="sl600b.small.jpg"/>
+               <address>
+                  <addrLine>General R.B. Turner <lb/> Nashville</addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice>  Whitfield <lb/> Report of <choice>
+                     <abbr>Comp</abbr>
+                     <expan>Company</expan>
+                  </choice>
+                  <lb/>
+                  <name>Hickman   County</name> Filed <date>23d May 1846</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

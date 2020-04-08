@@ -1,0 +1,190 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Jul. 23, Memphis [to Mary Porter] / [Ben  Sawtell] : a machine readable transcription of an image</title>
+            <author>Sawtell, Ben</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um048</idno>
+            <idno>OCLC: 50286628</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Jul. 23, Memphis [to Mary Porter] / [Ben  Sawtell] </title>
+               <author>Sawtell, Ben</author>
+               <date when="1847-07-23">July 23, 1847</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">The following document is a letter, dated July 23, 1847, from Benjamin Sawtell in Memphis to his niece Mary Porter in Connecticut.  Sawtell describes a recent temperance celebration and discusses the latest news of Memphis temperance societies. </note>
+               <note type="collection" anchored="true">Porter-Rice Family Letters MS-154 (letters 1846-1849)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um048</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Temperance</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sawtell, Benjamin N.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um048a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                     <date when="1847-07-23">July 23rd 1847</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Niece.</salute>
+            </opener>
+            <p>When I was <choice>
+                  <orig>writting</orig>
+                  <reg>writing</reg>
+               </choice> to your Father the thought struck me why <choice>
+                  <abbr>cant</abbr>
+                  <expan>can not</expan>
+               </choice> I write a letter to <name type="person">Mary</name>, for I suppose she would like to hear from her <emph>
+                  <name type="person">Uncle Ben</name>
+               </emph>   and how her Old Friends in Memphis were getting along.  I will now put my thoughts in words and try to write her a letter.  I suppose you are enjoying yourself among the <emph>beautiful Hills</emph> of <emph>
+                  <name type="place">
+                     <choice>
+                        <abbr>Ct.</abbr>
+                        <expan>Connecticut</expan>
+                     </choice>
+                  </name>
+               </emph>  where you can see (I <emph>imagine</emph>) the streams winding <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> way among the undulating banks and as they glitter in the sunbeams you can behold the ripening fields of Wheat waving <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> golden grain to the breeze and the deep green fields of Indian corn fluttering <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> green blades to the light wind.  And above the rosy clouds as they float in   <choice>
+                  <orig>thier smilling</orig>
+                  <reg>their smiling</reg>
+               </choice> beauty, tinged with the golden hues of the  Evening, reflect upon the summits of the <emph>Hills</emph> around <emph>you</emph>
+               <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> glittering colors.  <emph>rather imaginary</emph> While I am revelling not exactly in the Halls of <name type="place">
+                  <choice>
+                     <orig>Montazeuma</orig>
+                     <reg>Montezuma</reg>
+                  </choice>
+               </name>, but in the <emph>Hall</emph>  of Ploughs &amp; Points where I cannot behold such beautiful scenery, but that long Row of Buildings commonly called Front Row presents itself to my eye.  I reckon you would like to see <emph>that</emph> scenery but I wont try to make you homesick.  We all get along very well but me, I have been sick most all  <pb n="2" facs="um048b.small.jpg"/> the time <choice>
+                  <orig>scince</orig>
+                  <reg>since</reg>
+               </choice> you went away.  I am just able to get about now I am <choice>
+                  <orig>takeing</orig>
+                  <reg>taking</reg>
+               </choice> Medicine now and all I take leaves me just about as it finds me.  I am at the Office now Called the Plough Hall as our <choice>
+                  <abbr>Ex.</abbr>
+                  <expan>Executive</expan>
+               </choice> Committee meets here <del type="overstrike">once</del> sometimes, and "<emph>by the by</emph>" I must tell you about our grand Temperance Celebration on the <date when="--07-05">5th of July</date>. We met at our Church at ½ past 8 o clock where all <choice>
+                  <orig>recieved thier</orig>
+                  <reg>received their</reg>
+               </choice>    badges which were of Blue Satin Ribbon with "Cold Water Army" on them Each Officer had the Office he held with a star like yours on his badge.  We also had a new banner which I will try to describe to you.  It was made of Bleached Domestic put on quite a large frame.  Our Motto was "<emph>Liberty</emph> and <emph>Temperance</emph>" p<add place="supralinear">r</add>inted in a Semi Circle, then a jug bottom up, under which were the Flags of <emph>Liberty and Temperance</emph> crossed &amp; then "Cold Water Army".  The staff was about 1 foot &amp; ½ above the Banner Where floated a small silk Flag the "Stars and Stripes long may they wave O<del type="overstrike">v</del>'er the Land of the Free &amp; home of the brave." <figure>
+                  <figDesc>drawing of flag and banner described above</figDesc>
+               </figure> We then formed into a procession &amp; marched to Court Square from there to Madison <choice>
+                  <abbr>St</abbr>
+                  <expan>Street</expan>
+               </choice>, down Front Row  to the Church again, where as soon as all were seated Iced Lemonade was handed around to all in the house.  The Exercises were then opened by a prayer from <name type="person">
+                  <choice>
+                     <abbr>Rev.</abbr>
+                     <expan>Reverend</expan>
+                  </choice> Mr Dennis</name> .  <name type="person">
+                  <choice>
+                     <abbr>Benj'n</abbr>
+                     <expan>Benjamin</expan>
+                  </choice> N Sawtell</name> was then introduced to the Assembly who read the <pb n="3" facs="um048c.small.jpg"/> Declaration of Independence.  <name type="person">Mr G. Stainback</name> then addressed the Assembly in a fine speech.  <name type="person">Mr Alonzo Harper</name>  (<name type="person">Ed</name> knows him) also delivered an excellent speech Then came our <choice>
+                  <orig>Dialouge</orig>
+                  <reg>Dialogue</reg>
+               </choice> continued &amp; 2 characters introduced <name type="person">Farmer Jenkins</name> an Old Toper <add>by</add>
+               <emph>
+                  <name type="person">Bungan Miller</name>
+               </emph>
+               <name type="person">Lawyer Doolittle</name> thinking some about joining the pledge by <emph>
+                  <name type="person">William Cotter</name>
+               </emph> .  I made a speech &amp; converted them both Every one knew his part first rate.  We then stepped to the Front of the Stage, all took off our Hats &amp; <name type="person">President Phoebus</name> made a few remarks inviting the Audience to join us.  The Pledge was circulated and 100 persons enlisted in the "Cold Water Army".  The Audience were there <choice>
+                  <orig>dissmissed</orig>
+                  <reg>dismissed</reg>
+               </choice>, but the members went into the Lecture Room, where the badges were collected, and then we drank Lemonade with a vengeance You ought to have seen <emph>Tom, Bob, Bungan, Billy</emph>, myself &amp; others drinking Toasts with the <emph>Young <choice>
+                     <orig>Laides</orig>
+                     <reg>Ladies</reg>
+                  </choice>
+               </emph>, "Oh I wish you &amp; Ed had been here".  I was congratulated by a great many on making 2 new converts.  The Lemonade was made by <name type="person">Mrs Doctor Means</name>, <name type="person">Miss Harriet Miller</name> &amp; others.  Tell your Father We did not have any <emph>Wheel Horses</emph> nor did we need any, for the Old Folks say they could not have done it any better themselves</p>
+            <p>
+               <name type="person">Mr Henderson</name> praised us a heap &amp;, said he was proud of us "Oh we are <emph>some</emph>".  The Society paid all the expenses of the day banners, badges, &amp; all, The Officer's gave about $12.00.  There is money in the Treasury now <pb n="4" facs="um048d.small.jpg"/>  We have an Election the <date when="--07-31">31st of July</date>.  The <emph>Girls</emph> want to make me President but the <emph>Boys</emph> say I must be Secretary <choice>
+                  <orig>agin</orig>
+                  <reg>again</reg>
+               </choice> as there is no one that understands it but me.  But let me what I may I am for the good of the <emph>Cause</emph> I must say a little something about the other Society, <name type="person">
+                  <choice>
+                     <abbr>Saml</abbr>
+                     <expan>Samuel</expan>
+                  </choice> Brown    </name> is President It is (I am sorry to say) in not a very flourishing condition.  they have an Election before long when <choice>
+                  <orig>thier</orig>
+                  <reg>their</reg>
+               </choice> 6 months is out.  We are going to have <name type="person">Lycurgus Gabbert</name>
+               <choice>
+                  <abbr>Pres't</abbr>
+                  <expan>President</expan>
+               </choice> &amp; he is going to make it a life time Society &amp; soon we will all be together.  We are going to have a Branch of the "Cold Water Army" organized in <name type="place">South Memphis</name>.  But I reckon I have said enough about Temperance <choice>
+                  <orig>Society's</orig>
+                  <reg>Societies</reg>
+               </choice> but when I get   a going it is hard to stop.  I will tell you something about our Branch Sunday School in <name type="place">North Memphis</name> (Pinch) organized soon after you left.  <name type="person">Mr Johnson</name> is superintendent,  <name type="person">Yon Phoebus</name> is Librarian, I am a Teacher I have 5 scholars  We have about 60 in all.  <name type="person">Sally</name>  sends <emph>all</emph> her love to you &amp; Ed, she wants to see you so bad She has not been very well long back but is getting  better now.  <name type="person">Polly</name> is with us yet she gets along pretty good she sends her love to you.  <name type="person">Dona</name> is well she is going to school to <name type="person">Margaret Rudisill</name> she also sends her love to you.  I have not seen <name type="person">Matilda</name>, <name type="person">Mary</name>, or <name type="person">Moyra</name> in quite a spell but they <add place="bottom">— Loose <figure>
+                     <figDesc>unknown drawing</figDesc>
+                  </figure> — continued —</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

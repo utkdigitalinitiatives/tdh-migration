@@ -1,0 +1,151 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl145">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Letter] 1813 Aug. 29, Claiborne County, Tenissee [i.e., Tennessee] [to] Mr. Andrew Crockett, Williamson County, Tenissee [i.e., Tennessee] / Andrew &amp; Robert Crockett  : a machine readable transcription of an image</title>
+            <author>Crockett, Andrew</author>
+            <author>Crockett, Robert</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl145</idno>
+            <idno>OCLC: 50556190</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>   [Letter] 1813 Aug. 29, Claiborne County, Tenissee [i.e., Tennessee] [to] Mr. Andrew Crockett, Williamson County, Tenissee [i.e., Tennessee] / Andrew &amp; Robert Crockett</title>
+               <author>Crockett, Andrew </author>
+               <author>Crockett, Robert</author>
+               <date when="1813-08-29">August 29, 1813</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated August 29, 1813, from Andrew and Robert Crockett to their parents Mr. and Mrs. Andrew Crockett in Williamson County, Tennessee.  The brothers write this brief letter in order to update their parents on their current situation, and they mention the slow sale of cotton.</note>
+               <note type="collection" anchored="true">Andrew Crockett Papers</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true">sl145</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cotton trade</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Crockett, Robert</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl145a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Claiborne County <choice>
+                           <orig>Tenissee</orig>
+                           <reg>Tennessee</reg>
+                        </choice>
+                     </name>
+                     <date when="1819-08-29">29th august 1813</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <orig>Dier</orig>
+                     <reg>Dear</reg>
+                  </choice> Father &amp; mother</salute>
+            </opener>
+            <p>we take this opportun<gap agent="damage"/>
+               <unclear>ity</unclear> to inform you that we are well at present hoping <choice>
+                  <abbr>thes</abbr>
+                  <expan>these</expan>
+               </choice> lines ⁁ <add place="supralinear">may</add>  find you <choice>
+                  <orig>injoying</orig>
+                  <reg>enjoying</reg>
+               </choice> the same blessing after I left you all I oft times had a great Notion of turning back on account of my sickness about the third Day I begun to <unclear>med</unclear> and soon I got <choice>
+                  <orig>purfectly</orig>
+                  <reg>perfectly</reg>
+               </choice> well I had no bad luck on my way home but got <choice>
+                  <orig>allong</orig>
+                  <reg>along</reg>
+               </choice> very well I made but little <choice>
+                  <orig>proffit</orig>
+                  <reg>profit</reg>
+               </choice> on the bale of Cotton I took to <name type="place">kentucky</name>  I have <gap/>
+               <unclear>not</unclear>hing  particular <choice>
+                  <sic>to to</sic>
+                  <corr>to</corr>
+               </choice> inform you we wish to be <choice>
+                  <orig>Remmembered</orig>
+                  <reg>Remembered</reg>
+               </choice> to all our Brothers and Sisters and to Cousin <name type="person">James Crockett</name> also Cousin <name type="person">Nancy Oats</name> we are with Respect you most affectionate Sons <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> Death</p>
+            <closer>
+               <signed>
+                  <name type="person">Andrew &amp; Robert Crockett</name>
+               </signed>
+               <pb n="2" facs="sl145b.small.jpg"/>
+               <add place="top, right" rend="different hand, ink">17</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <unclear>Mr.</unclear> Andrew Crockett</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">williamson County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Tenissee</orig>
+                           <reg>Tennessee</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa0286">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Receipts]  1803 Jul. 1,  [to] Sam[ue]l Hanson [and] Tho[ma]s Hayword / [Henry Dearborn] : a machine readable transcription of an image</title>
+            <author>[Dearborn, Henry]</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">pa0286</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Receipts]  1803 Jul. 1, [to] Sam[ue]l Hanson [and] Tho[ma]s Hayword / [Henry Dearborn]</title>
+               <author>[Dearborn, Henry]</author>
+               <date when="1803-07-01">July 1, 1803</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a receipt for the salaries of Samuel Hanson and Thomas Hayword paid by the Secretary of War, Henry Dearborn. Hanson and Hayword worked to settle the accounts of an Indian Factory the months of May and June 1803.</note>
+               <note type="collection" anchored="true">Penelope Johnson Allen Collection</note>
+               <note type="box" anchored="true">MS-2033</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">pa0286</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Receipts (Acknowledgments)</term>
+               <term>Indians of North America</term>
+               <term>United States</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79055568"
+                        role="Attributed name http://id.loc.gov/vocabulary/relators/att">Dearborn, Henry, 1751-1829</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="pa0286a.small.jpg"/>
+            <p>Received <date>July 1st 1803</date> of the Secretary of War, warrant <choice>
+                  <abbr>No.</abbr>
+                  <expan>Number</expan>
+               </choice> 131 for one hundred sixty six dollars and sixty six cents, drawn on <name>George Simpson</name>, cashier of the Bank of the <name>United States</name> &amp; payable out of the Indian Factory fund, being for my compensation while settling the amounts of the Indian Factories in the months of May and June 1803</p>
+            <signed>
+               <name>
+                  <choice>
+                     <abbr>S</abbr>
+                     <expan>Samuel</expan>
+                  </choice> Hanson of <choice>
+                     <abbr>Saml</abbr>
+                     <expan>Samuel</expan>
+                  </choice>
+               </name>
+               <add>
+                  <note>
+                     <p>Received July 1st 1803 of the Secretary of War warrant No. 132 for one hundred thirty three dollars and thirty three cents, drawn on George Simpson, Cashier of the Bank of the United States and payable out of the Indian Factory fund, being for my compensation while settling the accounts of the Indian Factories in the months of May and June 1803</p>
+                  </note>
+               </add>
+               <name>
+                  <choice>
+                     <abbr>Thos.</abbr>
+                     <expan>Thomas</expan>
+                  </choice> Hayword</name>
+            </signed>
+            <pb n="2" facs="pa0286b.small.jpg"/>
+            <closer>Saml Hanson's &amp; <choice>
+                  <abbr>Th'</abbr>
+                  <expan>Thomas</expan>
+               </choice> Haywood's <lb/>____Receipts for salaries</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

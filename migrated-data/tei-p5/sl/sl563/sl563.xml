@@ -1,0 +1,145 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl563">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1811 Dec. 7 [to] James Winchester, Sumner County [Tennessee] / John Donelson   : a machine readable transcription of an image</title>
+            <author>Donelson, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl563</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1811 Dec. 7 [to] James Winchester, Sumner County [Tennessee] / John Donelson</title>
+               <author>Donelson, John</author>
+               <date when="1811-12-07">December 7, 1811</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from John Donelson to General James Winchester, dated December 7, 1811. Donelson is writing in regards to General Andrew Jackson. Jackson sold Winchester some land. Donelson says that Jackson intends to visit him soon, but did not receive the last letter that Winchester sent him.</note>
+               <note type="collection" anchored="true">James Winchester Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">5</note>
+               <note type="document" anchored="true">sl563</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Real property</term>
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2005059067"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Donelson, John, 1755-1830</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl563a.small.jpg"/>
+            <opener>
+               <salute>
+                  <name>
+                     <choice>
+                        <abbr>Genl</abbr>
+                        <expan>General</expan>
+                     </choice> Winchester</name> Sir/</salute>
+            </opener>
+            <p>my Brother <name>Alexander Donelson</name>
+               <choice>
+                  <orig>Shew</orig>
+                  <reg>Show</reg>
+               </choice> me a letter which you__ wrote to <name>Genl Jackson</name> on the subject of the land he sold yourself and <name>John Morgain</name> I meeting with <name>Mr Wheary</name> I have thought proper to write you these lines as I had not opportunity of seeing him <choice>
+                  <orig>tho</orig>
+                  <reg>although</reg>
+               </choice> he says <add>he</add> will go up and See you shortly as you perhaps may be uneasy I wish to Say to you what he tell, me he Say, the Grant is Recorded. in <name>
+                  <choice>
+                     <abbr>Majr</abbr>
+                     <expan>Major</expan>
+                  </choice> Wilson</name>s office and his Deed also the Grant was issued in the name of <name>Even Eveings</name> and from him he had his Deed. he says at the time he had the arbitration with <name>David Shelby</name> he had them both thus nor nether does he <choice>
+                  <orig>no</orig>
+                  <reg>know</reg>
+               </choice> in whose hands they were left  more <del type="overstrike">posst</del> probable in the hands of Brother <name>Sam Donelson</name> but may be in hands of <name>Mayr Bradford</name>. <pb n="2" facs="sl563b.small.jpg"/> Genl Jackson; also <name>John Overton</name>
+               <choice>
+                  <abbr>Esqr</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <name>Judge Stewart</name> as they were all <choice>
+                  <orig>their</orig>
+                  <reg>there</reg>
+               </choice> about the arbitration he did not <choice>
+                  <orig>git</orig>
+                  <reg>get</reg>
+               </choice> your letter near ten days after it came to <orig>nashville</orig> and Genl Jackson is gone to the <name>natchez</name> and if he has it as it is more probable he can not git it <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> his return</p>
+            <closer>
+               <salute>I am your most <choice>
+                     <abbr>Ob Servt</abbr>
+                     <expan>Obedient Servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name>John Donelson</name>
+                  <lb/>
+                  <date>7 December 1811</date>
+               </signed>
+               <pb n="3" facs="sl563c.small.jpg"/>
+               <add>John Donelson <lb/> 7th <choice>
+                     <abbr>Decr</abbr>
+                     <expan>December</expan>
+                  </choice> 1811</add>
+               <address>
+                  <addrLine>Genl James Winchester</addrLine>
+                  <addrLine>
+                     <name>Sumner County</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <name>Mr Wheary</name>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

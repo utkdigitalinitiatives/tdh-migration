@@ -1,0 +1,125 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc110">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1837 Oct. 2, Leadvale, TN [to] Col[one]l John Roper, Dandridge, Tennessee / L[awson] D. Franklin: a machine readable transcription of an image</title>
+            <author>Franklin, Lawson D.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harden</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc110</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[[Letter] 1837 Oct. 2, Leadvale, TN  [to] Col[one]l John Roper, Dandridge, Tennessee / L[awson] D. Franklin</title>
+               <author>Franklin, Lawson D.</author>
+               <date when="1837-10-02">October 2, 1837</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a short letter dated October 2, 1837 from Lawson D. Franklin to Colonel John Roper in Dandridge, Tennessee.  Franklin is negotiating the  price for the sale of two Negroes.</note>
+               <note type="collection" anchored="true">Lawson D. Franklin Papers</note>
+               <note type="box" anchored="true">MS-780 b1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sc110</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>Slave trade United States History 19th century</term>
+               <term>Deals</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Franklin, Lawson D.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc110a.small.jpg"/>
+            <opener>
+               <add>
+                  <date>Oct. 2, 1837</date> #33</add>
+               <address>
+                  <addrLine>
+                     <choice>
+                        <orig>Lead vale</orig>
+                        <reg>Leadvale</reg>
+                     </choice>, <choice>
+                        <abbr>Tn</abbr>
+                        <expan>Tennessee</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date when="1837-10-02">
+                  <choice>
+                     <abbr>Oct</abbr>
+                     <expan>October</expan>
+                  </choice> 2/37</date>
+               <salute>Dear Sir</salute>
+            </opener>
+            <p>
+               <name>Mr. Allen</name> informed me that you wished to sell two negroes sandy &amp; a girl.  I suppose she is a likely girl.  Sandy I know for $1500 It is more than I can give I will give you $1400 for them write me by Alford on the subject  I would have been pleased to have seen you before I started but it is necessary for me to go by <name>New Market</name> tell Aunt Peggy good bye for me.</p>
+            <closer>
+               <salute>Respectfully</salute>
+               <signed>
+                  <choice>
+                     <abbr>L.</abbr>
+                     <expan>Lawson</expan>
+                  </choice> D. Franklin</signed>
+               <pb n="2" facs="sc110b.small.jpg"/>
+               <name>
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> John Roper</name>
+               <name>Dandridge</name>
+               <choice>
+                  <abbr/>
+                  <expan>Tennessee</expan>
+               </choice>
+               <add>by Alford</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

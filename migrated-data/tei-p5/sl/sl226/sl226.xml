@@ -1,0 +1,100 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl226">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1850 June 5, Columbia [to] Mary House / George House   : a machine readable transcription of an image</title>
+            <author>House, George W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl226</idno>
+            <idno>OCLC: 51217664</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1850 June 5, Columbia [to] Mary House / George House</title>
+               <author>House, George W. </author>
+               <date when="1850-06-05">June 5, 1850</date>
+               <extent>1p</extent>
+               <note type="summary" anchored="true">This is a letter dated June 5, 1850 from George House to his wife Mary regarding his travels to several cities in Tennessee.</note>
+               <note type="collection" anchored="true">Orr Collection-IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl226</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>Tennessee -- Travel and description</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, George W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl226.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                     <date when="1850-06-05">June 5/50</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Mary</salute>
+            </opener>
+            <p>We are here, Toby, Tom and I— I last but not least shall leave here for <name type="place">"Mount Pleasant"</name> by 11 oclock AM— Have done but little at collecting— <choice>
+                  <orig>limitted</orig>
+                  <reg>limited</reg>
+               </choice> to <unclear>Mc?</unclear> 35¢ this morning—</p>
+            <p>Everything looks dull here and in fact it is so where I have been— We made 35 miles yesterday pretty good— as I was detained 3 or 4 hours in <name type="place">Franklin</name>— I hope you are all well and that you will continue so—I think of you every hour in the day but the fleas used me so badly last night, I forgot almost everything else— I have no time to write from here — but will write to you from <name type="place">Pulaski</name> and also from <name type="place">Athens</name>— Give my love to all— Kiss Sallie &amp; Lou for me— with a bushel of love—</p>
+            <closer>
+               <salute>I am Your own</salute>
+               <signed>George</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

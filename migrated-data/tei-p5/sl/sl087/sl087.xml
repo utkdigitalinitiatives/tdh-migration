@@ -1,0 +1,174 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl087">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1819 Mar. 28, Franklin, [TN] [to] Robert C. Foster, Nashville, TN/ Rob[er]t C. Foster, Jr. : a machine readable transcription of an image</title>
+            <author>Foster, Robert C., Jr.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl087</idno>
+            <idno>OCLC: 50178179</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1819 Mar. 28, Franklin, [TN] [to] Robert C. Foster, Nashville, TN/ Rob[er]t C. Foster, Jr.</title>
+               <author>Foster, Robert C., Jr.</author>
+               <date when="1819-03-28">March 28, 1819</date>
+               <extent> 3p</extent>
+               <note type="summary" anchored="true">This is a letter from Robert C. Foster, Jr. to his father Robert C. Foster, Sr. dated March 28, 1819.  The younger Foster talks extensively about how people are more interested in material things than their family and friends. He is upset that his father has not written to him.</note>
+               <note type="collection" anchored="true">Foster Family</note>
+               <note type="box" anchored="true">Correspondence R. C. Foster</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sl087</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Foster, Robert C., Jr.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl087a.small.jpg"/>
+            <opener>
+               <add place="top of page" rend="different hand, ink">[Gift of <name type="person">Miss Emmaline Cockrill</name>]</add>
+               <address>
+                  <addrLine>
+                     <name type="place">Franklin</name>
+                     <date when="1819-03-28">28<add place="supralinear">th</add> of March 1819</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Father</salute>
+            </opener>
+            <p>Since my letter from <name type="place">
+                  <choice>
+                     <orig>Murfreeborough</orig>
+                     <reg>Murfreesboro</reg>
+                  </choice>
+               </name> I have impatiently waited for  an exercise of that aspect demonstrated in answering the letter of a friend    much less of a Son; to which in equity and good conscience I think myself <choice>
+                  <orig>intitled</orig>
+                  <reg>entitled</reg>
+               </choice>
+               <del type="overstrike">to</del> but as unwillingness on your part is thus manifested to return a favor <choice>
+                  <orig>soliscited</orig>
+                  <reg>solicited</reg>
+               </choice> in sincerity, my pen again obtrudes its <del type="overstrike">
+                  <unclear/>
+               </del>
+               <emph>illegible</emph> face upon your <choice>
+                  <orig>patients</orig>
+                  <reg>patience</reg>
+               </choice>. Unfortunately for the human mind, it is that by the increase of business and a <choice>
+                  <orig>desere</orig>
+                  <reg>desire</reg>
+               </choice> to accumulate the consuming articles of wealth and plenty, the more noble and philanthropic virtues of friendship, affection, and even the remembrances of our most intimate acquaintances are <choice>
+                  <orig>intirely</orig>
+                  <reg>entirely</reg>
+               </choice> eradicated from the bosom and that which once <add place="supralinear">was</add> the center of all those <unclear>wise</unclear> and      endearing feelings which consecrate the existence of generous friendship as the pure <unclear>scource</unclear> of the greatest enjoyment is <choice>
+                  <orig>desecrated</orig>
+                  <reg>desecrated</reg>
+               </choice> by the love of <unclear>lure</unclear> and gain to such an extent as to be the <choice>
+                  <orig>recepticle</orig>
+                  <reg>receptacle</reg>
+               </choice> of those feelings and principles that <choice>
+                  <orig>disharmonise</orig>
+                  <reg>disharmonize</reg>
+               </choice> the social intercourse of life. I would not that you should <choice>
+                  <orig>concieve</orig>
+                  <reg>conceive</reg>
+               </choice> of this remark as applied or <choice>
+                  <orig>entended</orig>
+                  <reg>intended</reg>
+               </choice> for you <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> I must confess I am constrained to believe from some cause there is at least a neglect of <unclear/> the continuance of that respect to me in not writing. For two weeks I was confined in the bar of the Seat of Government when I was released for home <unclear>to where</unclear> I parted with hoisted colors and gladsome heart, after having done a good business, and where I shall remain <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> I start for the <choice>
+                  <orig>meredian</orig>
+                  <reg>meridian</reg>
+               </choice> of <name type="place">Nashville</name> the ensuing Week.  Inform Mother that from the resemblance I bare to her in feature on my Circuit, to one of her acquaintances I was  known from whom I received a good fee; so much for being like my Mama, the best of Mothers to whom give my love with the rest of the family  </p>
+            <closer>
+               <salute>affectionately your Son </salute>
+               <signed>
+                  <name type="place">
+                     <choice>
+                        <abbr>Robt.</abbr>
+                        <expan>Robert</expan>
+                     </choice> C. Foster Jr</name>
+               </signed>
+               <pb n="2" facs="sl087b.small.jpg"/>
+               <name type="person">
+                  <emph>Robert C Foster jr</emph>
+               </name>
+               <pb n="3" facs="sl087c.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="person">Robert C. Foster <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="below address">
+                  <figure>
+                     <figDesc>misc. calculations</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

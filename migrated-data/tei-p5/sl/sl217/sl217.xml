@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl217">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1843 Jan. 17, Nashville, [to] Mary House / George House   : a machine readable transcription of an image</title>
+            <author>House, George</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl217</idno>
+            <idno>OCLC: 51216959</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1843 Jan. 17, Nashville, [to] Mary House / George House</title>
+               <author>House, George </author>
+               <date when="1843-01-17">January 17, 1843</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter dated January 17, 1843 from George House to his wife Mary House. He writes of his progress in becoming a doctor and that he found a cure for a diseased slave that had other doctors baffled for two years. He also discusses other family and friends and tells Mary he hopes she can join him soon.</note>
+               <note type="collection" anchored="true">Orr Collection-IV-J-2</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">sl217</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Medical care</term>
+               <term>Communication in the family</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">House, George W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl217a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Nashville</name>
+                     <date when="1843-01-17">Tuesday <choice>
+                           <abbr> 17/43</abbr>
+                           <expan>January 17, 1843</expan>
+                        </choice>
+                     </date>
+                  </addrLine>
+               </address>
+               <salute>My dear Mary</salute>
+            </opener>
+            <p>I had this pleasure yesterday by mail, and this morning an opportunity offers to send over Henry and the Brussells Carpet — I am somewhat at a loss to say when I shall invite⁁ <add place="supralinear">for</add> you ⁁ <add place="supralinear">to come</add> over, but at present think you had better remain where you are until the beginning of spring — When I hope we shall meet, not soon to be parted again — I am about paying my expenses ⁁ <add place="supralinear">at present</add> but so soon as the weather becomes more favorable I shall no doubt have as much as I can do and during my leisure moments I am reading medicine in a regular way. <name type="person">Doctor Ford</name> is here, and has offered me his <choice>
+                  <abbr>Libra</abbr>
+                  <expan>Library</expan>
+               </choice> and any assistance in his power— or that I may want in taking a regular course of reading. You know me well enough, my dear Mary — to convince you that I dislike to know less than any one else in any profession I may embrace in fact my ambition leads me to climb to the top— Old <name type="person">Mr McNairy</name> "says he will bet" Two hundred thousand dollars— that I will be a better Physician <unclear>(Nuntically)</unclear> in two years, than any in our city — save <choice>
+                  <abbr>Doct</abbr>
+                  <expan>Doctor</expan>
+               </choice>
+               <unclear>Jenning?</unclear>
+               <pb n="2" facs="sl217b.small.jpg"/>
+            </p>
+            <p>The means I already possess in that way will be sufficient to keep yourself and boy above the <unclear>frowns</unclear> of the world — so much for so much about self —</p>
+            <p>I hope Mother will be able to get along with Henry, as he is now sufficiently large to do anything that she may want done situated as she is— We send the carpet, thinking Mother will take better care of it, than can be done here— Mr Bowman (my patient) that I informed you ⁁ <add place="supralinear">of</add> as being so much afflicted is getting well— I cured a case in ten days, that has baffled the physicians here for two years. It was a negro boy. He is larger and sturdier than Henry every way, and on account of his disease sold on the Block about two weeks since for  151$ one hundred and fifty one dollars — his master<name type="person"> R. N. Greene</name> would not take four hundred for him— <name type="person">Mrs Duncan</name> and Ellen left for <name type="place">Mississippi</name>
+               <name type="place">Madison County</name>— on the Kirkman on Friday last — <name type="person">William Stodhart </name>will leave in a few days by land with the Negroes and other property  I have nothing new— <name type="person">Ellen Ervin</name> is anxiously expecting a letter from you. If you will send her letter over to me — I will answer <pb n="3" facs="sl217c.small.jpg"/> it if you have concluded not to do so—</p>
+            <p>Tell James his Papa says he must be a good boy, love and mind Ma and Grand ma and talk and think a good deal about his Papa. I heard from <name type="place">Alabama</name> last week — all well — All well at the Ridge <unclear>afore? <gap agent="damage"/>
+               </unclear> days since— and we are all well here — By the spring (with good luck) I hope I shall be as bright as a new dollar.</p>
+            <p>Make my best love to Mother and <gap agent="damage"/> our relations around you, My respects to the <name type="person">Dawsons</name>, <name type="persons">Trumans</name>, and <name type="persons">Russells </name>
+               <gap agent="damage"/> friends. Kiss James for me. </p>
+            <p>May heaven protect, guide and direct us through life; in such and that "Our light afflictions here" May work out for us a far more exceeding weight of glory in the world to come.</p>
+            <closer>
+               <salute>Yours in the bonds of love</salute>
+               <signed>George</signed>
+               <add place="bottom of page">
+                  <note>
+                     <p>
+                        <choice>
+                           <abbr>PS.</abbr>
+                           <expan>Post Script</expan>
+                        </choice>
+                        <name type="person">Mr Scivels</name> Brotherinlaw and <unclear>our</unclear> sisters are boarding at <name type="person">Mr Grunfields</name>. Mr Scivel at the Washington Hall most has only Granville and Joseph with him — —<choice>
+                           <abbr> H </abbr>
+                           <expan>House</expan>
+                        </choice>— <add place="sideways on left margin">
+                           <name type="person">Mr. George <unclear> ? </unclear>
+                              <choice>
+                                 <abbr>W</abbr>
+                                 <expan>Washington</expan>
+                              </choice> House</name>
+                        </add>
+                     </p>
+                  </note>
+               </add>
+               <pb n="4" facs="sl217d.small.jpg"/>
+               <add place="address page">
+                  <note>
+                     <p>Tell Jim— his little cousin Mary talks a great deal about him and that <unclear>write?</unclear> sister is beginning to walk. She is indeed a fine child— — <choice>
+                           <abbr>G</abbr>
+                           <expan>George</expan>
+                        </choice> —</p>
+                  </note>
+               </add>
+               <address>
+                  <addrLine>
+                     <name>Mr George W House</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Mrs Mary House</name>
+                  </addrLine>
+                  <addrLine>Care of <name type="person">Mr J B Hamilton</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Sugan County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>  Ky</abbr>
+                           <expan>Kentucky</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="left of address">For by<name type="place">Mr Adkinson</name> }</add>
+               <address>
+                  <addrLine>Mr George W House</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

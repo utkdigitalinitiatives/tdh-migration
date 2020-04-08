@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1840 Sept. 29, Columbia [to] Elizabeth Chester, Jackson, Tennessee / Mary Jane Chester : a machine readable transcription of an image</title>
+            <author>Chester, Mary Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um021</idno>
+            <idno>OCLC: 50274365</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1840 Sept. 29, Columbia [to] Elizabeth Chester, Jackson, Tennessee / Mary Jane Chester</title>
+               <author>Chester, Mary Jane</author>
+               <date when="1840-09-29">September 29, 1840</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by Mary Jane Chester to her mother, Elizabeth Chester, on September 29, 1840. In the letter, Mary Jane discusses her recent illness, her desire to return home, and her schooling at the Institute. She says that the Institute is very strict against girls  and that there are 112 scholars enrolled in school there.</note>
+               <note type="collection" anchored="true">Chester Family Papers MS 25</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">um021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Boarding school students</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Chester, Mary Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um021a.small.jpg"/>
+            <opener>
+               <add place="above address">
+                  <date when="1840-09-29">29th <choice>
+                        <abbr>Sept</abbr>
+                        <expan>September</expan>
+                     </choice> 1840</date>
+                  <add rend="different ink">18</add>
+                  <figure>
+                     <figDesc>post mark seal</figDesc>
+                  </figure>
+               </add>
+               <address>
+                  <addrLine>
+                     <name type="person">Mrs. Elizabeth Chester</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Jackson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <pb n="2" facs="um021b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Columbia</name>
+                     <date when="1840-09-29">
+                        <choice>
+                           <abbr>Sept.</abbr>
+                           <expan>September</expan>
+                        </choice> 29th 1840</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear Mother</salute>
+            </opener>
+            <p>I received your kind &amp; affectionate on last Monday. I was shaking very hard with a Chill when I got it — I went up to the Institute on Monday &amp; had a Chill that day about 12 <choice>
+                  <orig>oclock</orig>
+                  <reg>o'clock</reg>
+               </choice>; <name type="person">Cousin Elen</name> came over in the evening for me to go home with her but <name type="person">Mr Smith</name> said that I had better not go <del type="overstrike">untill</del>
+               <add place="supralinear">
+                  <choice>
+                     <orig>untill</orig>
+                     <reg>until</reg>
+                  </choice>
+               </add> next morning. I had another Chill on Wednesday but have had none <choice>
+                  <orig>scince</orig>
+                  <reg>since</reg>
+               </choice>. They gave me a great deal of Quinine &amp; Toddy. I took Pills that night and Oil the next morning &amp; <name type="person">
+                  <choice>
+                     <abbr>Doct</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Hays</name> Bled me. I think now that I am entirely well. I will start to School tomorrow if the weather <choice>
+                  <orig>Premits</orig>
+                  <reg>Permits</reg>
+               </choice>
+               <name type="person">Cousin Sam</name> says that I must stay at his house for the first two or three nights. I am <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> sorry indeed to hear that <name type="person">Aunt Narcissa</name> has been sick but I hope that she is well now. tell her that she must not get out of the notion of coming up Christmas. we will have only one week's vacation. <name type="person">Cousin Jane</name> &amp; <name type="person">Mary Eliza</name> started to <name type="place">Nashville</name>
+               <choice>
+                  <orig>to day</orig>
+                  <reg>today</reg>
+               </choice> on a trip of pleasure. I expect I shall be put in the second senior class but do not know exactly yet where I shall. I think Mr Smith is a very fine man. he is <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> polite Bows a great deal but he is at the same time very positive. I like <name type="person">Mrs Smith</name>
+               <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> much indeed. She came up in the Sick <pb n="3" facs="um021c.small.jpg"/> room two or three times to see me. I think one side of her face is very much like <name type="person">Aunt Frances</name>.</p>
+            <p>We have to write either a letter or a composition every week. Mr Smith makes the Girls let him read their letters: but they may put as long a Post Script as you like afterwards. Tell <name type="person">Bet</name> I would have written to her sooner but I have been sick. I intend writing to her this week or next week if I have time. Mama tell Brother <name type="person">John</name> that he must write to me. &amp; Sister too. Oh Mother you have no idea how much I want to see home &amp; every person there. It seems to me if I could see you all I would give every thing that I have got in this world. Oh you have no idea how <choice>
+                  <orig>verry</orig>
+                  <reg>very</reg>
+               </choice> strict they are at the Institute the will not allow the girls to speak one word in school. They have a very large bell that they ring every half hour and <choice>
+                  <orig>evry</orig>
+                  <reg>every</reg>
+               </choice> one of the girls does not run down stairs &amp; back they are censured they have luncheon at 12 <choice>
+                  <orig>oclock</orig>
+                  <reg>o'clock</reg>
+               </choice> &amp; dinner at three. I <choice>
+                  <abbr>dont</abbr>
+                  <expan>do not</expan>
+               </choice> know all of the rules but the girls says that they are very strict. There are 112 scholars at the Institute. I became <choice>
+                  <orig>acquainte</orig>
+                  <reg>acquaint</reg>
+               </choice> with a great many of them. <name type="person">Ophelia Bills</name> &amp; <name type="person">Mary Prior</name> came in &amp; set up with me nearly all that night that I <choice>
+                  <orig>staid</orig>
+                  <reg>stayed</reg>
+               </choice> there. I think they are both very fine girls. Dear Mother give my love Aunt N Aunt P &amp; all of the relations. tell them all to write to me. Cousin Elen &amp; Cousin Sam sends their love to you Aunt Narcissa A P and all of the relations kiss all of the  children for me <pb n="4" facs="um021d.small.jpg"/> tell Papa the he must be sure to come up in October.</p>
+            <closer>
+               <salute>I remain your affectionate Daughter</salute>
+               <signed>
+                  <name type="person">Mary Jane Chester</name>
+               </signed>
+               <address>
+                  <addrLine>Mrs Elizabeth Chester</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl684">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1848 Jan. 9, New Orleans, Louisiana   [to] Neill Brown, Nashville, Tennessee / Z. Taylor : a machine readable transcription of an image</title>
+            <author> Taylor, Z.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl684</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1848 Jan. 9, New Orleans, Louisiana   [to] Neill Brown, Nashville, Tennessee / Z. Taylor</title>
+               <author> Taylor, Z.</author>
+               <date when="1848-01-09"> 
+			 January 9, 1848</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated January 9, 1848, from  Z. Taylor of Louisiana, expressing gratitude to the governor of Tennessee, Neill S. Brown.  In the letter, Taylor asks Brown to convey his esteem to the state legislature  for the invitation to visit them during their current session.</note>
+               <note type="collection" anchored="true">Governor Neill S. Brown Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">4</note>
+               <note type="document" anchored="true"> sl684</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n50008436"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Taylor, Zachary, 1784-1850</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl684a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>New Orleans, Louisiana</addrLine>
+               </address>
+               <date>January 9 1848</date>
+               <salute>Sir</salute>
+            </opener>
+            <p>Your complimentary communication of the 31st ultimo and the accompanying copy of the resolutions recently passed by the legislature of <name>Tennessee</name>, kindly inviting me to visit that body during its present session, did not reach my hands until yesterday</p>
+            <p>I beg to assure you that this flat lining expressions of the request of my fellow__ Citizens of Tennessee,  Conveyed as it has been through the high and imposing authority of their assembled representatives, has been  received by me with feelings of the liveliest gratitude, and I need hardly add that could I do it with propriety, I should at once yield to my inclinations, and hasten to acknowledge to them in person my grateful obligations.</p>
+            <p>But the short respite from <pb n="2" facs="sl684b.small.jpg"/> duty which I am now enjoying, was obtained for the <add>specific</add> purpose of attending to private business, this fact in addition to the considerations that my professional services are at any moment at the disposal of the government, seems to me to to render it a matter of manifest propriety that I should remain in Baton Rouge and its vicinity until the <choice>
+                  <orig>experation</orig>
+                  <reg>expiration</reg>
+               </choice> of my leave.</p>
+            <p>Be pleased sir, therefore to communicate this information to the legislature, and to assume them on my behalf that shall always retain with the deepest gratitude a recollection of the honor which they have done me in their writing me to visit them </p>
+            <p>for the kind language in which you had been pleased to convey these resolutions, be pleased to accept my sincere thanks</p>
+            <closer>
+               <add>with great esteem, I am Sir Your <choice>
+                     <abbr>obt. Servt</abbr>
+                     <expan>obedient servant</expan>
+                  </choice>.</add>
+               <signed>
+                  <name>Z. Taylor</name>
+               </signed>
+               <add>His Excellency <choice>
+                     <abbr>N</abbr>
+                     <expan>Neill</expan>
+                  </choice>.S. Brown <choice>
+                     <abbr>Govr</abbr>
+                     <expan>Governor</expan>
+                  </choice> of <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice> nashville</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

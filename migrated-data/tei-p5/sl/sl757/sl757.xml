@@ -1,0 +1,131 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl757">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1816 Mar. 10, Williamson County, Tennessee [to] Joseph McMinn, Nashville, Tennessee / Thomas Ridley : a machine readable transcription of an image</title>
+            <author>Ridley, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections
+			 </addrLine>
+               <addrLine>University of Tennessee
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996
+			 </addrLine>
+            </address>
+            <date>2003
+		  </date>
+            <idno type="SPCID">sl757</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, TN. It may be used freely by individuals for research,
+				teaching, and personal use as long as this statement of availability is
+				included in the text. For all other use contact the Tennessee State Library and
+				Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312. (615)
+				741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1816 Mar. 10, Williamson County, Tennessee [to] Joseph McMinn, Nashville, Tennessee / Thomas Ridley </title>
+               <author>Ridley, Thomas </author>
+               <date when="1816-03-10">March 10, 1816</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This document is a letter dated March 10, 1816 from Thomas Ridley, the Sheriff of Williamson County, Tennessee to the governor of the state, Joseph McMinn.  The subject of the letter is Aaron Gladden,  a convicted horse thief  who escaped from jail after it burned.  Gladden is described by the Sheriff as a man of exceedingly bad character, and asks the governor whether or not a reward for his arrest  is warranted. </note>
+               <note type="collection" anchored="true">Governor Joseph McMinn Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true"> sl757</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Tennessee. Governor, Office of the</term>
+               <term>Horse trials</term>
+               <term>McMinn, Joseph, 1758-1824</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Ridley, Thomas</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl757a.small.jpg"/>
+            <opener>
+               <date>March 10th 1816</date>
+               <add>His Excellency <lb/>
+                  <name>Joseph McMinn</name>
+               </add>
+               <salute>Sir</salute>
+            </opener>
+            <p>I send you the best description I can get of <name>Aaron Gladden</name> who was committed to the Jail of <name>Williamson</name> county for horse stealing, and on the night of the 26th of <choice>
+                  <abbr>Feby</abbr>
+                  <expan>February</expan>
+               </choice>. last, the Jail was burnt and the villain gone.  It is submitted to the consideration of the executive, whether or not, it would be better to offer a reward for him, he is a man of exceeding bad character, and it has been said this is not the first charge It would be highly gratifying to the community, and particularly to me, for the villain to be taken.  He is about forty years of age, dark hair, intermixed with grey, swarthy complexion, about six feet high, blue eyes, his teeth, before is worn very short and smooth; large frame, thin visage, large eye brows, and his eyes considerably sunk for a man of his age, he has a down cast villainous look and rather slow spoken.</p>
+            <closer>
+               <add>I am <choice>
+                     <abbr>yrs</abbr>
+                     <expan>yours</expan>
+                  </choice>. respectfully</add>
+               <signed>
+                  <name>Thomas Ridley</name>
+                  <add>
+                     <choice>
+                        <abbr>Shff</abbr>
+                        <expan>Sheriff</expan>
+                     </choice> of Williamson county</add>
+                  <add>Ridley</add>
+               </signed>
+               <pb n="2" facs="sl757b.small.jpg"/>
+               <add>Fugitive from justice Williamson <choice>
+                     <abbr>Co</abbr>
+                     <expan>County</expan>
+                  </choice> March 1800 must find</add>
+               <address>
+                  <addrLine>His Excellency Joseph McMinn Nashville</addrLine>
+               </address>
+               <add>fugitive from Justice Williamson <lb/> proclamation fund offering $ reward <date>23 April 1816</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

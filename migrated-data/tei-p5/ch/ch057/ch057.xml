@@ -1,0 +1,153 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address to the Cherokees who are arming to co-operate [sic] with the American troops against the hostile Creeks, 1813 Oct. 29, Highwassee [i.e., Hiwassee] Garrison / Return J. Meigs: a machine-readable transcription</title>
+            <author>Meigs, Return Jonathan, 1740-1823</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2000</date>
+            <idno>ch057</idno>
+            <idno>oclc: 44846823</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>An address to the Cherokees who are arming to co-operate [sic] with the American troops against the hostile Creeks, 1813 Oct. 29, Highwassee [i.e., Hiwassee] Garrison / Return J. Meigs</title>
+               <author>Meigs, Return Jonathan, 1740-1823</author>
+               <date when="1813-10-29"> October 29, 1813</date>
+               <extent>5p</extent>
+               <note type="summary" anchored="true">On October 29, 1813 Return J. Meigs, United States Agent to the Cherokee Nation, addresses the Cherokee troops organized to fight against the Red Stick Creeks. Meigs begins by charging the Red Stick Creeks with barbarity and ingratitude. He then explains to the Cherokees the part that they will have in the war, including their duty as soldiers and the expectations others will have of them. He specifically discusses supplies and provisions, the muster roll, conduct, and rank.</note>
+               <note type="repository" anchored="true">The Tennessee State Library and Archives, Nashville, TN</note>
+               <note type="collection" anchored="true">State Library Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">ch057</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with Microsoft Word spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed. </p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cherokee Indians--Warfare</term>
+               <term>Creek Indians--Warfare</term>
+               <term>Georgia</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n92008354"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Meigs, Return Jonathan, 1740-1823</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch057a.small.jpg"/>
+            <p>An address to the <name type="person">Cherokees</name> who are Arming to <choice>
+                  <orig>co-operate</orig>
+                  <reg>cooperate</reg>
+               </choice> with the <name type="person">American</name> troops against the hostile <name type="person">Creeks</name>
+               <date when="1813-10"> October 1813</date>.<lb/>
+               <name type="place">Highwassee</name> Garrison
+               </p>
+         </div>
+      </front>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="2" facs="ch057b.small.jpg"/>
+            <opener>
+               <salute>To the <name type="person">Cherokees</name> who are Arming themselves to <choice>
+                     <orig>co-operate</orig>
+                     <reg>cooperate</reg>
+                  </choice> with the Troops of the <name type="place">United States</name> against the hostile <name type="person">Creeks</name>.<lb/>Friends  Brothers.
+                  </salute>
+            </opener>
+            <p>The perfidious <name type="person">Creeks</name> having refused the benevolent measures of the <name type="place">United States</name> calculated to lead their minds to sentiments of civilization have at length spurned the hand that held out to them the greatest favors.  They have opened their ears to the talks of our enemies.  They have murdered our <choice>
+                  <orig>peacable</orig>
+                  <reg>peaceable</reg>
+               </choice> citizens, destroying <choice>
+                  <abbr>witho'</abbr>
+                  <expan>without</expan>
+               </choice> distinction fathers, mothers, and helpless infants, they have perpetrated these acts of barbarity with circumstances <add place="supralinear">of </add> brutality,  cruelty, too base to be described.  By these unprovoked acts of barbarity the <name type="place">United States</name> are compelled to send their young warriors from <name type="place">Georgia</name>
+               <name type="place">Tennessee</name> to chastise these enemies of the human race, and to defend the friendly <name type="person">Creeks</name> and their good friends the <name type="person">Cherokees</name> who have refused to lend an ear to the corrupting overtures of our enemies.</p>
+            <p> The <name type="person">Cherokees</name> have taken the talks of their father the President  he <add place="supralinear">still</add> holds them by the hand as Children  <choice>
+                  <orig>faithfull</orig>
+                  <reg>faithful</reg>
+               </choice> friends.. Brothers.  I flatter myself that in the just  necessary war now commencing against the hostile <name type="person">Creeks</name>, your Battalions will be considered as a respectable part of the army according to their numbers.  The Generals <name type="person"> 
+                  <reg>General Andrew</reg> Jackson</name>, <name type="person"> 
+                  <reg>General</reg> Cocke</name>,  <name type="person"> 
+                  <reg>General</reg> White</name> will consider you as <choice>
+                  <orig>intitled</orig>
+                  <reg>entitled</reg>
+               </choice> to their care  friendly attention as part of their effective force  that you have provisions, ammunition  medical aid when necessary:  in all these you will have equal advantages<pb n="3" facs="ch057c.small.jpg"/>with the other troops - and of course it will be expected that you will be obedient to every order  regulation that may be made for the government of the whole.  being united with your white Brothers by the ties of discipline  affection you will in deed <add place="supralinear">with them</add> be a band of Brothers whose minds will rise above every hardship  difficulty.  Such men may be killed: but cannot be conquered.
+               </p>
+            <p>The staff duties in your Corps will be performed by such Gentlemen as the Commanding General shall attach to your part of the Army they will see that you are provided with what is proper from the Stores  magazines, they <add place="supralinear">will</add> keep muster rolls with every mans name on which all casualties will be <choice>
+                  <orig>rimarked</orig>
+                  <reg>remarked</reg>
+               </choice>, so that every individual will be accounted for.  Brothers, you may be assured that I feel  very much interested in the parts you will act in <choice>
+                  <orig>co-operation</orig>
+                  <reg>cooperation</reg>
+               </choice> with our white Brothers against the common enemy - and I anticipate the satisfaction (at the end of the Campaign) of seeing on the muster rolls that you shall have done honor to your nation,  to yourselves.  You will find the Army to be a school of instruction that will elevate  raise up your minds to sentiments unknown to barbarous nations.  here it is proper to observe that even in war we never lose sight of humanity.  The <name type="place">United States</name> do not make war on women  children  the aged  helpless,  they always spare the unresisting prisoner.   and I have been much pleased to hear lately similar sentiments from several of <add place="supralinear">the</add>
+               <name type="person">Cherokee</name> Officers <add place="supralinear"> who are</add> now arming.</p>
+            <pb n="4" facs="ch057d.small.jpg"/>
+            <p>Brothers,  I am now to address you on a subject interesting  dear to military men, <emph>Grades of Rank</emph>.  Just military pride may be of great advantage to the community; its excess only may be disadvantageous. - I make these observations to men of understanding.  Brothers. You are sensible that in military bodies there must be Officers of different degrees of rank.  I have no doubt that in your nation there are more men worthy of high rank than can <hi>at present</hi> be appointed; having reference to the number of armed <name type="person">Cherokees</name>, this being the case, I persuade myself that you will not let there be any contention  about rank; considering that harmony  union will make you strong  make you happy; and we must look forward. The war in our part of the <name type="place">United States</name> is but just commencing.  There may be yet time enough for every man of ability  real merit to have such rank as he may wish.  WE must consider that we are a band of Brothers in this war acting in a common cause where all will vie with each other in doing the most good without contending for an Epaulette, a Cockade, or a Feather, considering  keeping in mind that these may be ours at some time if we do our duty  that in a short time they may fall to your lot without any thing lying in the way.  You may rely on it that those who shall distinguish themselves will not be neglected. Their names will be known to their father the President,  <choice>
+                  <orig>exhibitted</orig>
+                  <reg>exhibited</reg>
+               </choice> also to the view of the public.</p>
+            <p>My Brothers you are now acting a part in <choice>
+                  <orig>co-operation</orig>
+                  <reg>cooperation</reg>
+               </choice> with your white Brothers under the orders  in sight of the Generals of the Army.  The eyes of the whole Army<pb n="5" facs="ch057e.small.jpg"/>are turned towards you.  The citizens of the <name type="place">United States</name> and the whole of your nation are spectators of your conduct in Arms, and all feel an interest that you should do your duty.
+                  </p>
+            <p>The Gentlemen selected by the General to perform the duties of the Staff Department in your Corps will do every thing in their line to aid  give activity to the movements that may be required of your troops;  on all occasions will contribute their friendly advice  help to make you as comfortable as can comport with the hardihood of american soldiers.</p>
+            <closer>
+               <salute>You all know my wishes, I will only add God Bless you</salute>
+               <signed>
+                  <name type="person">Return J. Meigs</name>
+               </signed>
+               <lb/>
+               <dateline>
+                  <address>
+                     <addrLine>
+                        <name type="place">Highwassee</name> Garrison</addrLine>
+                  </address>
+                  <date when="1813-10-29">29th. October 1813</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

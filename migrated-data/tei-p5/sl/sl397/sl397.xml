@@ -1,0 +1,129 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl397">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1833 Feb. 4, Washington, District of Columbia [to] Adeline Fitzgerald, Dresden, Tennessee / William Fitzgerald    : a machine readable transcription of an image</title>
+            <author>Fitzgerald, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl397</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1833 Feb. 4, Washington, District of Columbia [to] Adeline Fitzgerald, Dresden, Tennessee / William Fitzgerald</title>
+               <author>Fitzgerald, William</author>
+               <date when="1833-02-04">February 4, 1833</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter dated February 4, 1833 from William Fitzgerald in Washington, D.C. to his daughter Adeline Fitzgerald in Dresden, Tennessee.  He advises her of his improving health, plans of his return home, and admonishes his daughter concerning her endeavors.  </note>
+               <note type="collection" anchored="true">Fitzgerald - Williams - Greer Papers</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">7</note>
+               <note type="document" anchored="true">sl397</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- History</term>
+               <term>Letters</term>
+               <term>Communication in the family</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Fitzgerald, William</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl397a.small.jpg"/>
+            <opener>
+               <unclear>
+                  <choice>
+                     <abbr>Ho</abbr>
+                     <expan>House</expan>
+                  </choice> of <choice>
+                     <abbr>Repr</abbr>
+                     <expan>Representatives</expan>
+                  </choice>
+               </unclear>
+               <date>
+                  <choice>
+                     <abbr>Feb</abbr>
+                     <expan>February</expan>
+                  </choice>. 4. 1833.</date>
+               <salute>My Dear little Daughter</salute>
+            </opener>
+            <p>Yours of the 6th <choice>
+                  <abbr>ult</abbr>
+                  <expan>ultimo</expan>
+               </choice>. I have <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice>. I am glad to hear my child that you are learning so fast and I see you are improving much in Writing you must persevere and try to excell every girl at school in learning &amp; goodness you must be careful and neat in your attire affectionate to your sister &amp; obedient to your Mother. &amp; preceptor I shall leave here this day four weeks. for Home. I have not had very good health this Winter but am now nearly well.</p>
+            <closer>
+               <choice>
+                  <abbr>Yr</abbr>
+                  <expan>Your</expan>
+               </choice>. Father <signed>W Fitzgerald</signed>
+               <add>Miss<name>Adeline Fitzgerald</name>
+                  <name>Dresden</name>
+                  <name>Tennessee</name>
+               </add>
+               <pb n="2" facs="sl397b.small.jpg"/>
+               <add>Free <choice>
+                     <abbr>W</abbr>
+                     <expan>William</expan>
+                  </choice> Fitzgerald  <address>
+                     <addrLine>Miss Adeline Fitzgerald Dresden Tennessee</addrLine>
+                  </address>
+                  <figure>
+                     <figDesc>City of Washington <choice>
+                           <abbr>FEB</abbr>
+                           <expan>February</expan>
+                        </choice> 4</figDesc>
+                  </figure>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

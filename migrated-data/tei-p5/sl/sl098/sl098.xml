@@ -1,0 +1,350 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl098">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1838 Sep. 4, Oke [i.e., Oak] Grove [to] James Paine / J[ohn] W. Williams : a machine readable transcription of an image</title>
+            <author>Williams, J. W.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl098</idno>
+            <idno>OCLC: 50488339</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1838 Sep. 4, Oke [i.e., Oak] Grove [to] James Paine / J[ohn] W. Williams</title>
+               <author>Williams, J. W.</author>
+               <date when="1838-09-04">September 4, 1838</date>
+               <extent> 4p</extent>
+               <note type="summary" anchored="true">This document is a letter written by J. W. Williams to James Paine on September 4, 1838. In the letter, Williams tells Paine that he has won a Senate seat and that there is a small Whig majority in the Senate for the first time. He also mentions a drought that has destroyed most of the corn crop he farms, as well as the tobacco plants. He concludes the letter by asking Paine to either manage or sell some of the land he owns to make up for the money he will lose from the destruction of his crops.</note>
+               <note type="collection" anchored="true">Abernathy Papers</note>
+               <note type="box" anchored="true">II-H-3</note>
+               <note type="folder" anchored="true">14</note>
+               <note type="document" anchored="true">sl098</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>Crops, Effect of drought on</term>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Williams, John W.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl098a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Oke</orig>
+                           <reg>Oak</reg>
+                        </choice> Grove</name>
+                     <date when="1838-09-04">September 4 1838</date>
+                  </addrLine>
+               </address>
+               <salute>My Dear friend</salute>
+            </opener>
+            <p>It has been Some time Since I have had <choice>
+                  <orig>thay plashure</orig>
+                  <reg>the pleasure</reg>
+               </choice> of hearing from you and your <choice>
+                  <orig>famealy</orig>
+                  <reg>family</reg>
+               </choice> I hope you are all doing Well and Enjoying good health</p>
+            <p>I have <choice>
+                  <orig>Jest</orig>
+                  <reg>Just</reg>
+               </choice> got through with a long and Warm <choice>
+                  <orig>Campain</orig>
+                  <reg>Campaign</reg>
+               </choice> With my friend <name type="person">John Barnett</name> for a Seat in the next <choice>
+                  <orig>Leagislator</orig>
+                  <reg>Legislature</reg>
+               </choice> in the house of Senate I was <choice>
+                  <orig>Onlay</orig>
+                  <reg>Only</reg>
+               </choice> Able to beat him 13 Votes <choice>
+                  <orig>hea</orig>
+                  <reg>he</reg>
+               </choice> has been <choice>
+                  <orig>Shearif</orig>
+                  <reg>Sheriff</reg>
+               </choice> 14 Years and <unclear>belionearing</unclear>
+               <choice>
+                  <orig>thay hold</orig>
+                  <reg>the whole</reg>
+               </choice>  time <choice>
+                  <orig>fer per motion Thay Whigh</orig>
+                  <reg>for promotion The Whig</reg>
+               </choice> has a Small <choice>
+                  <orig>Majorty</orig>
+                  <reg>Majority</reg>
+               </choice> in the next le <choice>
+                  <orig>leagislator</orig>
+                  <reg>legislature</reg>
+               </choice> for the first time. <choice>
+                  <orig>Wea</orig>
+                  <reg>We</reg>
+               </choice> are all <choice>
+                  <orig>mutch allarmed</orig>
+                  <reg>much alarmed</reg>
+               </choice> in this <choice>
+                  <orig>Cuntreay</orig>
+                  <reg>country</reg>
+               </choice> With <choice>
+                  <orig>hour Cropts thay drouth</orig>
+                  <reg>our Crops the drought</reg>
+               </choice> has continued So long that <choice>
+                  <orig>Wea</orig>
+                  <reg>We</reg>
+               </choice> think <choice>
+                  <orig>Wea</orig>
+                  <reg>We</reg>
+               </choice> can not make Bread Among us <choice>
+                  <orig>Mutch Moore</orig>
+                  <reg>Much More</reg>
+               </choice> to fatten <choice>
+                  <orig>hour</orig>
+                  <reg>our</reg>
+               </choice> meat <choice>
+                  <orig>thay</orig>
+                  <reg>the</reg>
+               </choice> fodder is burnt up to the <choice>
+                  <orig>Tasel</orig>
+                  <reg>Tassel</reg>
+               </choice> Among one half of our Corn and We have Just Commenced <choice>
+                  <orig>puling hour</orig>
+                  <reg>pulling hour</reg>
+               </choice>
+               <unclear>fods</unclear> that is left We have had no rain to do <choice>
+                  <orig>Anny</orig>
+                  <reg>Any</reg>
+               </choice> good Since I <choice>
+                  <orig>lad</orig>
+                  <reg>laid</reg>
+               </choice> my Corn by and that is a <choice>
+                  <orig>Geannearal</orig>
+                  <reg>General</reg>
+               </choice> thing So far as I am Able to hear from <choice>
+                  <orig>thay</orig>
+                  <reg>the</reg>
+               </choice> is Some <unclear>batte</unclear> old Corn to Sell at <choice>
+                  <orig>ome doller p~</orig>
+                  <reg>one dollar per</reg>
+               </choice> Bushel and <choice>
+                  <orig>thay</orig>
+                  <reg>they</reg>
+               </choice> Wont Sell but a Turn to no one <choice>
+                  <orig>peason</orig>
+                  <reg>person</reg>
+               </choice> at a time and <choice>
+                  <orig>Wea</orig>
+                  <reg>We</reg>
+               </choice> Shall Make No <choice>
+                  <orig>Tobaco</orig>
+                  <reg>Tobacco</reg>
+               </choice> for it is Yet Standing in the patch doing Nothing <pb n="2" facs="sl098b.small.jpg"/> So I cant <choice>
+                  <orig>Sea</orig>
+                  <reg>See</reg>
+               </choice> How <choice>
+                  <orig>wea</orig>
+                  <reg>we</reg>
+               </choice> are to get a long <choice>
+                  <orig>theay</orig>
+                  <reg>the</reg>
+               </choice> next year I have been trying and all in Vain to get a power of <choice>
+                  <orig>atturneay</orig>
+                  <reg>attorney</reg>
+               </choice> for you to Sell or manage <choice>
+                  <orig>theay</orig>
+                  <reg>the</reg>
+               </choice> lands in your <orig>Stat</orig> in Some Way I have now Come to the <choice>
+                  <orig>Conclution</orig>
+                  <reg>Conclusion</reg>
+               </choice> that to make a Wind of it would <choice>
+                  <orig>bea</orig>
+                  <reg>be</reg>
+               </choice> best to get and order of Court and Sell <choice>
+                  <orig>theay</orig>
+                  <reg>the</reg>
+               </choice> lands to to <choice>
+                  <orig>theay</orig>
+                  <reg>the</reg>
+               </choice> highest bidder and I want your advice on that Subject and inform me what way you think would be best to manage them you and my Self Could <choice>
+                  <orig>by thay</orig>
+                  <reg>buy the</reg>
+               </choice> land rather than let them go <choice>
+                  <orig>two</orig>
+                  <reg>too</reg>
+               </choice> low <choice>
+                  <orig>Wea</orig>
+                  <reg>We</reg>
+               </choice> then Would be Able to manage them as <choice>
+                  <orig>Wea</orig>
+                  <reg>We</reg>
+               </choice> might think best you will <choice>
+                  <orig>plase</orig>
+                  <reg>please</reg>
+               </choice> let me <choice>
+                  <orig>no</orig>
+                  <reg>know</reg>
+               </choice> how <choice>
+                  <orig>theay</orig>
+                  <reg>they</reg>
+               </choice> now stand and what is best to do with them I could Send you a <choice>
+                  <orig>tennant</orig>
+                  <reg>tenant</reg>
+               </choice> and have them settled if <choice>
+                  <orig>theay</orig>
+                  <reg>they</reg>
+               </choice> are not, <name type="person">William Jeffrey</name> and his <choice>
+                  <orig>famy</orig>
+                  <reg>family</reg>
+               </choice> is all in good health but <choice>
+                  <orig>poore</orig>
+                  <reg>poor</reg>
+               </choice>
+               <name type="person">Mrs Jeffrey</name> is all Way Talking about and <choice>
+                  <orig>famealy Shea</orig>
+                  <reg>family She</reg>
+               </choice> wish is to move to Your Section of <choice>
+                  <orig>Cuntreay</orig>
+                  <reg>Country</reg>
+               </choice> but Mr Jeffry Will not hear of it <choice>
+                  <orig>theay</orig>
+                  <reg>they</reg>
+               </choice> both look old <name type="person">
+                  <choice>
+                     <abbr>Doc</abbr>
+                     <expan>Doctor</expan>
+                  </choice> Williamson</name> and <name type="person">Minerva</name> when I last heard from them Was Well <choice>
+                  <orig>theay</orig>
+                  <reg>they</reg>
+               </choice> have only 2 <choice>
+                  <orig>Childron</orig>
+                  <reg>Children</reg>
+               </choice> A boy and A <choice>
+                  <orig>liatle</orig>
+                  <reg>little</reg>
+               </choice> Girl last Two</p>
+            <p>I have no <orig n="right">wright</orig> to Complain of health I am <choice>
+                  <orig>yeat a lone</orig>
+                  <reg>yet alone</reg>
+               </choice> and I think it <choice>
+                  <orig>doutful</orig>
+                  <reg>doubtful</reg>
+               </choice> if I Should <choice>
+                  <orig>bea</orig>
+                  <reg>be</reg>
+               </choice> Able to Change it I have met with a great <pb n="3" facs="sl098c.small.jpg"/> Negro <choice>
+                  <orig>famealy</orig>
+                  <reg>family</reg>
+               </choice> this Spring I have often <choice>
+                  <orig>theought</orig>
+                  <reg>thought</reg>
+               </choice> my lot was a bad one but I do <choice>
+                  <orig>no</orig>
+                  <reg>know</reg>
+               </choice> It Could be worse one and I am Content Give my respects to all the <choice>
+                  <orig>famealy</orig>
+                  <reg>family</reg>
+               </choice> and all inquiring friends and accept of them your self</p>
+            <closer>
+               <salute>I am Y.C.</salute>
+               <signed>
+                  <name type="person">J. W. Williams</name>
+               </signed>
+               <pb n="4" facs="sl098d.small.jpg"/>
+               <address>
+                  <addrLine>Brown's Store <name type="place">
+                        <choice>
+                           <abbr>N. C.</abbr>
+                           <expan>North Carolina</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>
+                     <date when="1838-09-07">7th <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice>
+                     </date> }</addrLine>
+               </address>
+               <add place="above address">25</add>
+               <address>
+                  <addrLine>
+                     <name type="person">James Paine</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Giles County</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <orig>Pulaskie</orig>
+                           <reg>Pulaski</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+               <add place="below address">from <choice>
+                     <abbr>Jno.</abbr>
+                     <expan>John</expan>
+                  </choice> W. Williams <lb/> about Selling land</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

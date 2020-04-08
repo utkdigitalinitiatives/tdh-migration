@@ -1,0 +1,180 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Affidavit of James Robertson] 1784 Apr. 16 : a machine-readable
+			 transcription of an image</title>
+            <author>Robertson, James</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Mays</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>sc046</idno>
+            <idno>OCLC: 50448481</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Affidavit of James Robertson] 1784 Apr. 16 </title>
+               <author>Robertson, James</author>
+               <date when="1784-04-16">April 16, 1784</date>
+               <extent>1p</extent>
+               <note type="summary">This document is an affidavit given by James
+				Robertson on April 16, 1784 regarding one Major John Reid's journey to treat
+				with the Chickasaw Indians.</note>
+               <note type="Collection"> James Robertson</note>
+               <note type="Box">n/a</note>
+               <note type="Folder">MS-367</note>
+               <note type="Document">sc046</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Robertson, James</term>
+               <term>Legal documents</term>
+               <term>North Carolina</term>
+               <term>Chickasaw Indians, Treaties</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n80165335"
+                        role="Creator http://id.loc.gov/vocabulary/relators/cre">Robertson, James, 1742-1814</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc046a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Hilsborough </name>
+                     <date when="1784-04-16">April the 16th 1784</date>
+                  </addrLine>
+               </address>
+            </opener>
+            <p>I do hereby<choice>
+                  <orig> Scertify</orig>
+                  <reg>certify</reg>
+               </choice> that in the month of
+			 
+			 <date when="1783-05">May 1783</date>
+               <name type="person">
+                  <choice>
+                     <abbr>Majr</abbr>
+                     <expan>Major</expan>
+                  </choice> John Reid</name>
+			 came to the Settlement on Cumberland River, in the State of 
+			 <name type="place">North Carolina</name> with Talks from the Governor
+			 of 
+			 <name type="place">Virginia</name>, to the chiefs of the<choice>
+                  <orig>Chicasaws,</orig>
+                  <reg>Chickasaws</reg>
+               </choice> at which Time he the said 
+			 <choice>
+                  <abbr>Majr</abbr>
+                  <expan>Major</expan>
+               </choice> Reid delivered me a letter from 
+			 <name type="person">
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> John
+				Donaldson</name>, a commissioner to Treat with the <choice>
+                  <orig>Chicasaws,</orig>
+                  <reg>Chickasaws</reg>
+               </choice> Requesting me to furnish 
+			 <choice>
+                  <abbr>Majr</abbr>
+                  <expan>Major</expan>
+               </choice> Reid with such <choice>
+                  <orig>guids</orig>
+                  <reg>guides</reg>
+               </choice> as should be required to go with him to the
+			 <choice>
+                  <orig>Chicasaws</orig>
+                  <reg>Chickasaws</reg>
+               </choice> Nation, upon which 
+			 <choice>
+                  <abbr>Majr</abbr>
+                  <expan>Major</expan>
+               </choice> Reid applied to me to know the number
+			 that would be necessary for the above journey upon which I <choice>
+                  <orig>tould</orig>
+                  <reg>told</reg>
+               </choice> him, I thought two was as small a number as he
+			 <choice>
+                  <orig>possably</orig>
+                  <reg>possibly</reg>
+               </choice> could think to go with which number he
+			 <choice>
+                  <orig>ingaged</orig>
+                  <reg>engaged</reg>
+               </choice> and no more</p>
+            <closer>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Jas.</abbr>
+                        <expan>James</expan>
+                     </choice>
+				  Robertson</name>
+               </signed>
+               <add>
+                  <choice>
+                     <abbr>Test</abbr>
+                     <expan>Testified</expan>
+                  </choice>
+               </add>
+            </closer>
+            <closer>
+               <signed>
+                  <name type="person">John Nichols</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

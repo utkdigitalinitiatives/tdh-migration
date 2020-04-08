@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc203">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Legal document]  1836 Mar. 1, Isaac W. Rogers to Lawson D. Franklin : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc203</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Legal document]  1836 Mar. 1, Isaac W. Rogers to Lawson D. Franklin</title>
+               <date when="1836-03-01"> 
+			 March 1, 1836</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This document is a promissory note dated March 1st 1836, for one Isaac W. Rodgers to pay Lawson D. Franklin the sum of twenty one hundred dollars by September 1836.</note>
+               <note type="collection" anchored="true">Lawson D. Franklin Document</note>
+               <note type="box" anchored="true">MS-780</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc203</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal documents</term>
+               <term>Business enterprises</term>
+               <term>Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc203a.small.jpg"/>
+            <p>$2100</p>
+            <p>Six months after date for value received, I promise to pay <name>Lawson D. Franklin</name> on order two thousand one hundred Dollars, negotiable and payable at the office of Discount and deposith of the Union Bank of the State of <name>Tennessee</name> at <name>Knoxville</name>, witness my hand this 1st day of March 1836</p>
+            <closer>
+               <signed>
+                  <name>Isaac W. Rodgers</name>
+               </signed>
+               <pb n="2" facs="sc203b.small.jpg"/>
+               <add>
+                  <address>
+                     <addrLine>
+                        <name>L. D. Franklin</name>
+                     </addrLine>
+                     <addrLine>
+                        <name>Dandridge</name>
+                     </addrLine>
+                     <addrLine>
+                        <name>Alex E. Smith</name>
+                     </addrLine>
+                     <addrLine>
+                        <name>Newport</name>
+                     </addrLine>
+                  </address>No. 1 <lb/>
+                  <name>Isaac W. Rodgers</name>
+                  <lb/> $2,100 <lb/> Due Sept. 1/4 1836</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

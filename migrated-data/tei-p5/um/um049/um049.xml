@@ -1,0 +1,133 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="um049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1847 Aug. 12, Memphis [to] Miss Mary C Porter / B[en] N. Sawtell, Esq[uire] : a machine readable transcription of an image</title>
+            <author>Sawtell, B. N.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name>Jim Cole</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>um049</idno>
+            <idno>OCLC: 50286689</idno>
+            <availability status="restricted">
+               <p>This work is the property of the University of Memphis Libraries, Special Collections Department, Ned R. McWherter Library, Memphis, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the University of Memphis Libraries, 126 Ned R. McWherter Library, The University of Memphis,  Memphis, TN 38152-6500.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1847 Aug. 12, Memphis [to] Miss Mary C Porter / B[en] N. Sawtell, Esq[uire]</title>
+               <author>Sawtell, B. N.</author>
+               <date when="1847-08-12">August 12, 1847</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">The following document is a letter written by Ben Sawtell in Memphis to his niece Mary C. Porter, dated August 12, 1847.  The letter is a brief note in which Sawtell extends his love to his niece and to her brother Edward.</note>
+               <note type="collection" anchored="true">Porter-Rice Family Letters MS-154 (letters 1846-1849)</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">um049</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sawtell, Benjamin N.</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="um049a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Memphis</name>
+                     <date when="1847-08-12">Aug 12th 1847</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Niece.</salute>
+            </opener>
+            <p>I wrote you a letter sometime ago also one to <name type="person">
+                  <choice>
+                     <abbr>Ed.</abbr>
+                     <expan>Edward</expan>
+                  </choice>
+               </name> which I hope you  have <choice>
+                  <orig>recieved</orig>
+                  <reg>received</reg>
+               </choice> by this time I hope you will <emph>soon</emph> answer it.  I am not very well now  Give my love to <choice>
+                  <abbr>Ed.</abbr>
+                  <expan>Edward</expan>
+               </choice> also to your 2 cousins <emph>those girls particular</emph>. <emph>Girls here</emph> are <emph>all</emph> very well.  I <emph>reckon</emph> you have found some <emph>young man</emph> there which takes the <emph>shine</emph> off of the <emph>Boys</emph> of the <emph>Sunny South or Far</emph>
+               <pb n="2" facs="um049b.small.jpg"/>
+               <emph>West but we are all some pumpkins here</emph> I tell you.   I wrote to your Father yesterday.  Best to <add place="supralinear">respect</add> him and your Mother.  <add place="supralinear">Latin</add>
+               <foreign rend="lat">Meus amor</foreign>
+               <add place="infralinear">my love</add> to <choice>
+                  <abbr>Ed.</abbr>
+                  <expan>Edward</expan>
+               </choice> also <foreign rend="lat">totus meus amor robis meus</foreign>
+               <add place="infralinear">all my love to you my</add> Niece Mary. Mother is not well.  Answer that letter <emph>just</emph> as soon as you get it.  Tell <choice>
+                  <abbr>Ed.</abbr>
+                  <expan>Edward</expan>
+               </choice> to write I have not received any letters from him.</p>
+            <closer>
+               <salute>Believe me ever your sincere Friend and Uncle</salute>
+               <signed>Ben</signed>
+               <address>
+                  <addrLine>To <name type="person">Miss Mary C Porter</name> from Uncle Ben</addrLine>
+                  <addrLine>Kindness of <name type="person">Miss Sally Hicks</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>B.</abbr>
+                           <expan>Ben</expan>
+                        </choice> N. Sawtell <choice>
+                           <abbr>Esq</abbr>
+                           <expan>Esquire</expan>
+                        </choice>
+                     </name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

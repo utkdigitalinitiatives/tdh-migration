@@ -1,0 +1,171 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1832 Dec. 22 [to] J.M. King / Thomas O. Moore : a machine readable transcription of an image</title>
+            <author>Moore, Thomas O.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc018</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1832 Dec. 22 [to] J.M. King / Thomas O. Moore</title>
+               <author>Moore, Thomas O.</author>
+               <date when="1832-12-22">December 22, 1832</date>
+               <extent>3</extent>
+               <note type="summary" anchored="true">Letter dated December 22, 1832 from Thomas O. Moore to his cousin J.M. King.  Moore acknowledges the letter is long overdue, but writes that he and his family are well, except fear of being inflicted with cholera that has plagued many in New Orleans.  He says the victims of the disease are greater than the number of available coffins, and that many bodies were thrown into the Mississippi river.</note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence 1832</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">9</note>
+               <note type="document" anchored="true">gc018</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Cholera</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc018a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <add>From <name type="person">
+                           <choice>
+                              <abbr>T.O</abbr>
+                              <expan>Thomas O.</expan>
+                           </choice>. Moore</name> 1833<add place="top right">12=1832</add>
+                        <add place="top right">cholera</add>
+                     </add>
+                  </addrLine>
+               </address> Dec 26th Answered<date when="1833-02-08"> 8 <choice>
+                     <abbr>Feby</abbr>
+                     <expan>February</expan>
+                  </choice> 1833</date>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Murfreesboro</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Tennessee</name>
+                  </addrLine>
+               </address>
+               <add place="left column">Mail</add>
+               <pb n="2" facs="gc018b.small.jpg"/>
+               <address>
+                  <addrLine>
+                     <name type="place">Alexandria</name>
+                     <choice>
+                        <abbr>(LA)</abbr>
+                        <expan>Louisiana</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <date when="1832-12-22">22nd <choice>
+                     <abbr>Dec.r</abbr>
+                     <expan>December</expan>
+                  </choice>
+                  <add place="after date">1832</add>
+               </date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> I have been in <choice>
+                  <orig>possion</orig>
+                  <reg>posession</reg>
+               </choice> of your letter so long that I am at this late period almost ashamed to acknowledge it though you must pardon me as you frequently have to make a similar request, my wife, John and myself are in fine health, John is highly pleased with our fine county and nothing but death can take him from it he is busily engaged in attending to gathering my crop and very industrious had an attack of hives last summer but slightly, we have been expecting the cholera to break out among  us for some time but had so far escaped it though it has been brought by boats to our town several times, we have fortified counties against it with great confidence and believe that we can battle with it successfully.  in part of the world to the population has it produced the distress in a short time as it did in <name type="place">
+                  <choice>
+                     <orig>Nue</orig>
+                     <reg>New</reg>
+                  </choice> Orleans</name>, the hospital was so <choice>
+                  <orig>crouded</orig>
+                  <reg>crowded</reg>
+               </choice> with dead bodies that no price could <unclear>procure</unclear> any person to go in to take them out, they had eventually to fix hooks and drag them out and throw them in <unclear>dress</unclear> and tumble them in ditches prepared for their reception without their shroud or coffin, hundreds of bodies were buried so shallow that the first rain exposed them, <unclear>upwards of seven</unclear> thousand fell victims of which twelve hundred were <unclear>dragmen</unclear> a great many were thrown in the <name type="place">Mississippi</name>, on the plantations above and below the city a great <choice>
+                  <orig>negrous</orig>
+                  <reg>negroes</reg>
+               </choice> were lost.  We trust in god and our own exertions.</p>
+            <p>The old Hero is elected by too great a majority I trust <unclear>never</unclear> to see another president so popular as it would render our government unsafe in the hands of some <pb n="3" facs="gc018c.small.jpg"/>  Our crops in this country are fine both of cotton and corn I have out at this time two hundred <unclear>bales</unclear> averaging between 460 &amp; 475 <choice>
+                  <abbr>lbs</abbr>
+                  <expan>pounds</expan>
+               </choice> and will get between forty &amp; fifty more, my crop will net me I think nine thousand dollars and I only pick twenty two hands <unclear>judge</unclear> from that <choice>
+                  <orig>whithin</orig>
+                  <reg>within</reg>
+               </choice> our county is fine or not ( <choice>
+                  <abbr>O</abbr>
+                  <expan>oh</expan>
+               </choice> sweet <name type="place">Louisiana</name> the only land of bread &amp; honey) <name type="person">Henry Overton</name> has not yet arrived we heard that <name type="person">Luis Moore</name> was with him but can scarcely believe it though should be glad to find it so.  I think it more than probable that I shall go on to <name type="place">Maryland</name> or <name type="place">Virginia</name> next spring and summer with a view to purchase negroes and shall visit poor old <unclear>cowpra</unclear> ,  negroes I presume can be <choice>
+                  <orig>purchaud</orig>
+                  <reg>purchased</reg>
+               </choice> in either of the former states cheaper than in <name type="place">Carolina</name> if I go I shall take with me between eight &amp; ten thousand dollars.  John is attending to my business at four hundred dollars if I <unclear>increase</unclear> my force  I shall raise his wages as high as I can afford cotton is selling from ten to twelve &amp; a half.  Give my best love to cousin Martha &amp; children Aunt &amp; family Capt Barty &amp; family and remember me <choice>
+                  <orig>affectionally</orig>
+                  <reg>affectionally</reg>
+               </choice> to all my acquiring friends write me the news you have from <name type="place">Carolina</name> &amp; <name type="place">Alabama</name> John complains of your not writing to him</p>
+            <closer>Your relative &amp; friend<signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>Tho. </abbr>
+                        <expan>Thomas</expan>
+                     </choice>O. Moore</name>
+               </signed>
+               <add place="bottom left of page">write me soon</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

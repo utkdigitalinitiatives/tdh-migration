@@ -1,0 +1,163 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl435">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1821 Jul. 25, Jonesbor[o, Tennessee] [to] John Overton, Nashville [Tennessee] / John McAlister : a machine readable transcription of an image</title>
+            <author>McAlister, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sl435</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1821 Jul. 25, Jonesbor[o, Tennessee] [to] John Overton, Nashville [Tennessee] / John McAlister</title>
+               <author>McAlister, John</author>
+               <date when="1821-07-25">July 25 1821</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from John McAlister to John Overton, dated July 25, 1821. McAlister is describing the election campaigns for governor. He writes about candidates Colonel Ward and Mr. Carroll. </note>
+               <note type="collection" anchored="true">Overton Papers</note>
+               <note type="box" anchored="true">Correspondence</note>
+               <note type="folder" anchored="true">3</note>
+               <note type="document" anchored="true">sl435</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Elections - Governors  -- Election </term>
+               <term>Political campaigns</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">McAlister, John</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl435a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Jonesbor</abbr>
+                           <expan>Jonesboro</expan>
+                        </choice>
+                     </name>
+                     <date>25th July 1821</date>
+                  </addrLine>
+               </address>
+               <salute>
+                  <choice>
+                     <abbr>Dr</abbr>
+                     <expan>Dear</expan>
+                  </choice> Sir</salute>
+            </opener>
+            <p>I duly received yours of the 14th instant and am sorry to say it is out of my power to satisfy you as I could wish as to the ultimate issue of the election for governor__ the Substantial reflecting part of the community and woman advocates for <name>
+                  <choice>
+                     <abbr>Colo</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Ward</name>s__ but the military <unclear>enthusiasm</unclear> , which pervades the map of all countries, will bow to military talents  particularly if the commander has been successful___ but then I need not tell you_____ <name>
+                  <choice>
+                     <orig>Carrol</orig>
+                     <reg>Carroll</reg>
+                  </choice>
+               </name> has been here and "Spoke a Speech" well calculated to procure him votes_ his Statement to the people was widely different either from the circular, or the expectations both his friends &amp; enemies had formed he got his <choice>
+                  <orig>que</orig>
+                  <reg>cue</reg>
+               </choice>  from Some folly here__ amongst other things he told him that a thing might be morally wrong yet at the Same time politically right ___ perhaps the philosophy is right but I am not So certain it is___ He prides himself much on starting a march to <choice>
+                  <abbr>E T</abbr>
+                  <expan>East Tennessee</expan>
+               </choice> without the Knowledge of Col. Ward a fort of military maneuver not much to his credit__ I am astonished at <name>Kennedy</name>___ he is among the foremost to <unclear>propale</unclear> his success__ and when he had done Speaking the only man in the crowd who waved his hat, "with huna for Carrol"</p>
+            <p>I wish to Heaven I could write you that ward would get a majority here and hope as Sincerely as any man that the <choice>
+                  <abbr>blessd</abbr>
+                  <expan>blessed</expan>
+               </choice> account of his having a majority in this county may reach me, so as to give you the earliest information_ but all this I much fear, will not be according to either of our desires__ but be it as it may You Shall hear if I live__ my respects to Judge <unclear>Emerson</unclear>
+            </p>
+            <closer>
+               <salute>yours sincerely</salute>
+               <signed>
+                  <name>John McAlister</name>
+               </signed>
+               <pb n="2" facs="sl435b.small.jpg"/>
+               <add>
+                  <figure>
+                     <figDesc> post mark- Jonesborough <name>
+                           <choice>
+                              <abbr>T</abbr>
+                              <expan>Tennessee</expan>
+                           </choice>
+                        </name>
+                        <date>July 24 1821</date>
+                     </figDesc>
+                  </figure>
+               </add>
+               <add>free</add>
+               <add>PM</add>
+               <address>
+                  <addrLine>John Mc Alister</addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name>John Overton</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Near</addrLine>
+                  <addrLine>
+                     <name>Nashville</name>
+                  </addrLine>
+               </address>
+               <add>
+                  <choice>
+                     <abbr>Jn</abbr>
+                     <expan>John</expan>
+                  </choice> Mc Alister <lb/> Jonesbo <date>25th July 1821</date>
+               </add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

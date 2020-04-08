@@ -1,0 +1,208 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1797 June 8, Knoxville, [Tennessee, to] warriors 
+			 cheifs [sic] of the Cherokee Nation / J[ohn] Sevier: a machine-readable
+			 transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl043</idno>
+            <idno>OCLC: 47832213</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1797 June 8, Knoxville, [Tennessee, to] warriors
+				 cheifs [sic] of the Cherokee Nation / J[ohn] Sevier</title>
+               <author>Sevier, John</author>
+               <date when="1797-06-08">June 8, 1797</date>
+               <extent>4p</extent>
+               <note type="summary">This document is a letter written on June 8,
+				1797, to the warriors and chiefs of the Cherokee Nation by John Sevier,
+				governor of Tennessee from 1796-1801 and 1803-1809. In the letter, Sevier
+				explains that there has been talk of a war between the United States and
+				England. He says that England will try to get the Cherokee warriors to fight
+				against the Americans, and warns the chiefs not to let their young men and
+				warriors listen to this talk and remain loyal to the United States.</note>
+               <note type="Collection"> Governor John Sevier Papers</note>
+               <note type="Box">1</note>
+               <note type="Folder">3</note>
+               <note type="Document">tl043</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>United States--Politics and government--1783-1809</term>
+               <term>United States--Foreign relations--Great Britain</term>
+               <term>Great Britain--Foreign relations--United States</term>
+               <term>Cherokee Indians--Government relations</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl043a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>Knoxville 
+				  <date when="1797-06-08">8th day of June 1797</date>
+                  </addrLine>
+               </address>
+               <salute>Brothers</salute>
+            </opener>
+            <p>I have no doubt <del type="overstrike">but</del> you have heard that
+		  some disputes is likely to take place, <choice>
+                  <orig>tho</orig>
+                  <reg>though</reg>
+               </choice> I hope it
+		  will not be the case, between 
+		  <name type="place">America</name>
+               <del type="overstrike">Us</del> and
+		  some of the Nations over and beyond the Great Waters. Should Such a war take
+		  place, I have reason to believe they will endeavor to cause the young Warriors
+		  of your Nation <unclear>unk</unclear> more to lift the hatchet against your
+		  brothers the 
+		  <name type="person">
+                  <choice>
+                     <orig>americans</orig>
+                     <reg>Americans</reg>
+                  </choice>
+               </name>. I
+		  take this opportunity my brothers to Warn you in time, that you may Watch over
+		  your Young men, who is too apt to listen <pb n="2" facs="tl043b.small.jpg"/> to talks of War, (I
+		  <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> mean the young men of your Nation in particular)
+		  but <del type="overstrike">of</del> all other young men, as well as
+		  <del type="overstrike">those of</del> yours <del type="overstrike">Nation</del>, is too ready to listen to talks of this kind,
+		  without considering the great injury it May do to the good people of their
+		  nation, And the many poor women  children that Always Suffers in
+		  consequence of such events. 
+               </p>
+            <p>None my friends Should any people whatever come or Send
+			 <del type="overstrike">in to</del>
+               <add place="supralinear">into</add> your
+		  Nation requesting or encouraging your people to make war, against any of your 
+		  <name type="person">American</name> brothers, <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> you listen to <del type="overstrike">them</del> their
+		  talks, but on the contrary hold your brothers fast by the hand, who is the only
+		  people that can be your good friends, or <add place="supralinear">your</add>
+		  great enemies; we live Very <del type="overstrike">Close</del> near to each
+		  other and on the same land, And it is the wish of <add place="supralinear">all</add> the <add place="supralinear">good</add>
+               <name type="person">Americans</name>, to live in peace and friendship
+		  with <del type="overstrike">all</del>
+               <add place="supralinear">you 
+		  all</add> their red brothers</p>
+            <p rend="words missing from tex">The people over the big water
+			 <choice>
+                  <orig>dont</orig>
+                  <reg>don't</reg>
+               </choice> care much <pb n="3" facs="tl043c.small.jpg"/> about us people of 
+			 <name type="place">America</name>, and was we to go to war
+			 <del type="overstrike">Against each other</del> and kill and destroy each other
+			 over so much, they would only laugh at us for it, and call us fools  I
+			 hope you will listen well to my talks and think good of them in your hearts
+			  remember that I have always advised you to live in peace, with Your 
+			 <name type="person">American</name>brothers, and also all other
+			 people, and your own good Sense will none tell you, it would have been best for
+			 you to have lived in peace  You remember last war you was told by people
+			 over the 
+			 <name type="place">Great Water</name>, that the 
+			 <name type="person">Americans</name> was like nothing that they would
+			 all be killed  drive away, but you have long seen <del type="overstrike">such</del>
+               <add place="supralinear">those</add> stories was
+			 all false, you see the 
+			 <name type="person">Americans</name> is still here <lb/> and as firm
+			 as the mountains therefore I hope you will listen to <add place="supralinear">no</add>, more talks of such a kind
+                  
+               </p>
+            <closer>
+               <salute>Your friend  brother</salute>
+               <signed>
+                  <name type="person">
+                     <choice>
+                        <abbr>J.</abbr>
+                        <expan>John</expan>
+                     </choice>
+				  Sevier</name>
+               </signed>
+               <address>
+                  <addrLine>Warriors  Chiefs <lb/> of the 
+				  <name type="place">Cherokee Nation</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1" type="letter">
+            <p> Cherokees <lb/>
+               <date>8th June 179<gap agent="damage"/>
+               </date>
+               <lb/>
+               <choice>
+                  <abbr>No.</abbr>
+                  <expan>Number</expan>
+               </choice> 5 <lb/>
+               <hi rend="underlined">Recorded</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

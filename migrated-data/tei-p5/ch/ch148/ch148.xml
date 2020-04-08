@@ -1,0 +1,204 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch148">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>   [Entries from the Cherokee Supreme Court Docket, 1823-1834, New Echota]      1827 Oct. 23 : a machine readable transcription of an image</title>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">ch148</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Entries from the Cherokee Supreme Court Docket, 1823-1834, New Echota]   1827 Oct. 23</title>
+               <date when="1827-10-23">October 23, 1827</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is an excerpt from the Cherokee Supreme Court docket for the years 1823 to 1834.  The Cherokee Supreme Court convened annually in New Echota beginning on the second Monday in October and lasting three weeks. This excerpt is from the Tuesday October 23, 1827 session of court, during which both criminal and civil cases were heard.  A breakdown of court costs are included for two of the cases. Entries from this Supreme Court docket cover items ch100-ch163.</note>
+               <note type="collection" anchored="true">Cherokee Collection</note>
+               <note type="box" anchored="true">3</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">ch148</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Legal Document</term>
+               <term>Cherokee Nation</term>
+               <term>Cherokee Indians--Legal status, laws, etc.</term>
+               <term>Georgia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="ch148a.small.jpg"/>
+            <head>Tuesday 23rd.</head>
+            <p>Court convened agreeable to adjournment Present</p>
+            <p>
+               <name>Cherokee Nation</name>
+               <lb/>  vs <lb/>
+               <name>John Fields</name>
+            </p>
+            <p>Fellony</p>
+            <p>The Court decide that the defendant pay to the Nation three dollars, considered to be the per Cent due, &amp; two dollars to the plaintiff for damages <date>23rd of October 1827</date>
+            </p>
+            <p>
+               <name>Walter Adair</name>
+               <lb/>  vs  <lb/>
+               <name>George Hicks</name>
+            </p>
+            <p>Damages</p>
+            <p>Mistrial</p>
+            <p> 23rd October 1827</p>
+            <p>
+               <name>Cherokee Nation</name>
+               <lb/>  vs <lb/>
+               <name>Bledsoe Gore</name>
+            </p>
+            <p>
+               <choice>
+                  <orig>Fellony</orig>
+                  <reg>Felony</reg>
+               </choice>, Charged for stealing a Saddle <del type="overstrike">The Court adjourned untill 10 Oclock tomorrow</del>
+            </p>
+            <p>The Court acquit the defendant of the charge</p>
+            <p>
+               <name>Betsey Walker</name>
+               <lb/>  vs <lb/>
+               <name>William Blythe</name>
+            </p>
+            <p>debt on Contract</p>
+            <p>The Court find for the Plaintiff $32.00 23rd October 1827</p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">per Cent on appeal.</cell>
+                     <cell role="data" rows="1" cols="1">$1-92</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Witnesses <name>Jessee Scott</name> attended 24 days at 75</cell>
+                     <cell role="data" rows="1" cols="1">18.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>George Fields</name>
+                        <choice>
+                           <abbr>do.</abbr>
+                           <expan>ditto</expan>
+                        </choice> 14 do. 75</cell>
+                     <cell role="data" rows="1" cols="1">10-50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">―</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">$39.42</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="2" facs="ch148b.small.jpg"/>
+            <p>
+               <add>Tuesday 23rd October 1827</add>
+               <name>Thomas Woodland</name>
+               <lb/>  vs <lb/>
+               <name>John Walker Marshal</name>
+            </p>
+            <p>Case for noncompliance of duty.</p>
+            <p>The Court find for the plaintiff twenty six dollars </p>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Per Cent on appeal</cell>
+                     <cell role="data" rows="1" cols="1">$1_56</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Witness <name>Ezekiel Fields</name> attended 28 days at 74 per.</cell>
+                     <cell role="data" rows="1" cols="1">$21_00</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <unclear>Hellen Ratley</unclear>
+                        </name> do. 10. d0.</cell>
+                     <cell role="data" rows="1" cols="1">7_50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>Jessee Scott</name> do. 10 do.</cell>
+                     <cell role="data" rows="1" cols="1">7_50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name>
+                           <choice>
+                              <abbr>Saml.</abbr>
+                              <expan>Samuel</expan>
+                           </choice> McDaniel</name>  do. 26 do.</cell>
+                     <cell role="data" rows="1" cols="1">19.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1">73.06</cell>
+                  </row>
+               </table>
+               <add>
+                  <unclear>Staid Herdsmonths?</unclear>
+                  <lb/>
+                  <choice>
+                     <abbr>Test</abbr>
+                     <expan>Testimony</expan>
+                  </choice> J Martin <choice>
+                     <abbr>C.S.C</abbr>
+                     <expan>Cherokee Supreme Court</expan>
+                  </choice>
+               </add>
+            </p>
+            <p>Court is adjourned <choice>
+                  <orig>untill</orig>
+                  <reg>until</reg>
+               </choice> tomorrow 10 Oclock</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl105">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1839 Sept. 9, Cornplanter, [Pennsylvania] [to] Miss. Sarah B. Bell, Near Charlotte, Tenn[essee] /      Jane [Bell] : a machine readable transcription of an image</title>
+            <author>Bell, Jane</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl105</idno>
+            <idno>OCLC: 50489362</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1839 Sept. 9, Cornplanter, [Pennsylvania] [to] Miss. Sarah B. Bell, Near Charlotte, Tenn[essee] /      Jane [Bell]</title>
+               <author>Bell, Jane</author>
+               <date when="1839-09-09">September 9, 1839</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">The following document is a letter written from Jane Bell in Cornplanter, PA, to her sister Sarah Bell, dated September 9, 1839.  Jane writes about the death of their cousin Eliza's husband and the the great tribulations Eliza now faces as a widow raising children and caring for her elderly mother.  Jane explains how she wishes to raise one of Eliza's daughters as a service to her cousin.</note>
+               <note type="collection" anchored="true">Bell Collection IV-H-1</note>
+               <note type="box" anchored="true">1</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true">sl105</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Life change events</term>
+               <term>Pennsylvania</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Bell, Jane</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl105a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Cornplanter</name>
+                     <date when="1839-09">
+                        <choice>
+                           <abbr>Sept.</abbr>
+                           <expan>September</expan>
+                        </choice> 1839</date>
+                  </addrLine>
+               </address>
+               <salute>My dear Sister,</salute>
+            </opener>
+            <p>Will you forgive me for not answering your last letter before this time I know you would, if you could have seen how very busy I have been for some weeks past.  We have had 3 of <name type="person">Mr. <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Bells</name> sons of <name type="place">
+                  <choice>
+                     <orig>Pittsburg</orig>
+                     <reg>Pittsburgh</reg>
+                  </choice>
+               </name>  staying here for a month and only left two days ago. The oldest is 17 — and is a very promising youth, indeed they are all very interesting, and I am indebted to them for more of a home feeling than I have experienced since I have been here.  Could I see more of our  relations, particularly my own family or rather some of my father's I should be better reconciled to the <choice>
+                  <orig>seperation</orig>
+                  <reg>separation</reg>
+               </choice> from the others.  At present I feel quite low spirited, and am in constant <choice>
+                  <orig>dred</orig>
+                  <reg>dread</reg>
+               </choice> that each mail will bring me an account of my father's death.</p>
+            <p>Have you heard of the death of <name type="person">Mr. Smith</name> husband of Cousin <name type="person">Eliza</name> of <name type="place">Missouri</name>? he died on the <date when="1839-07-12">12th of July</date> after an illness of only 24 hours, and left Eliza a widow with four children, and an aged mother <pb n="2" facs="sl105b.small.jpg"/> to provide for.  she says if she had the means of going to <name type="person">Philadelphia</name> , she could not go with her mother, she is so infirm she wrote to me 12 days after her husbands death, and then she had, not had any of her neighbors to visit her in her affliction, at least not one of them had <choice>
+                  <orig>staid</orig>
+                  <reg>stayed</reg>
+               </choice> a night with her, she compl<gap agent="damage"/>
+               <unclear>ained?</unclear> very much of their neglect and says she does not find them like her <name type="place">Virginia</name> neighbors were in trouble, Poor woman!  how sincerely do I pity her, I wish she lived near to me, that I might be some comfort to her, I intend to ask her to let me have one of her daughters to raise for her, I will treat as if she were my own, with all a mother's fondness and tenderness, such as my lamented Aunt <unclear>showed</unclear> for me — if she will let me have one, and Mr Bell thinks she will, (you know Eliza is quite a favorite of his) and he will cheerfully do what he can for her, at present he cannot give any pecuniary aid though it will be some relief to have one of her children educated for her — I wish my father's circumstances would <unclear>admit</unclear>
+               <pb n="3" facs="sl105c.small.jpg"/> of his aiding her, you know what obligations he owes to her for his mismanagement of her father's estate.  Write to her it is the least you can do, to express that sympathy which I know you all feel</p>
+            <p>We are all well here, and Mr Bell so very busy attending to the building of his Grist mill, that he scarcely takes time to eat or sleep; but living in a continual excitement agrees with him, he is well, and contented — You <gap agent="damage"/> excuse me from writing any more  <gap agent="damage"/> this time, it is late on Saturday and I am so tired after the usual cleaning, and washing 13 windows that I feel a desire to rest — Remember me affectionately to all enquiring friends All this family unite in love to <add place="supralinear">you</add> all Why does not <name type="person">
+                  <choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice>
+               </name>  write to me? I fear he will become so wedded to his farm as to neglect some important duties, not to write to me is to neglect a duty, tell him, I say so, and if he knew how much I think, and speak of him he would consider me entitled to some token of his regard. Write soon, and believe me</p>
+            <closer>
+               <salute>your very Affectionate Sister</salute>
+               <signed>
+                  <name type="person">Jane</name>
+               </signed>
+               <pb n="4" facs="sl105d.small.jpg"/>
+               <add place="above address">
+                  <note>
+                     <p>In a scrap book which I gave you, you will find some lines <unclear>beginning</unclear>
+                     </p>
+                     <p>Nor differs much the subject of the strain Copy all the lines and send them to me, a lady friend having heard me repeat them is very desirous of having them.  I believe I could write them from memory but I </p>
+                  </note>
+               </add>
+               <add place="left of address">Free }</add>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Saml.</abbr>
+                           <expan>Samuel</expan>
+                        </choice> Bell</name>
+                     <unclear>
+                        <choice>
+                           <abbr>P. M</abbr>
+                           <expan>Post Master</expan>
+                        </choice>
+                     </unclear>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">Cornplanter</name>
+                     <date when="1839-09-09">9 <choice>
+                           <abbr>Sept</abbr>
+                           <expan>September</expan>
+                        </choice>
+                     </date>
+                  </addrLine>
+               </address>
+               <address>
+                  <addrLine>
+                     <name type="person">Miss Sarah B. Bell</name>.</addrLine>
+                  <addrLine>Near <name type="place">Charlotte</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="place">
+                        <choice>
+                           <abbr>Tenn.</abbr>
+                           <expan>Tennessee</expan>
+                        </choice>
+                     </name>—</addrLine>
+               </address>
+               <add place="below address">wish to have them verbatim.</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

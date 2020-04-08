@@ -1,0 +1,126 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc159">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> [Letter] 1794 Mar. 10, Knoxville [to] David Henley / William Blount : a machine readable transcription of an image</title>
+            <author>Blount, William</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003 
+		  </date>
+            <idno type="SPCID">sc159</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1794 Mar. 10, Knoxville [to] David Henley / William Blount</title>
+               <author> Blount, William</author>
+               <date when="1794-03-10">March 10, 1794</date>
+               <extent>3p</extent>
+               <note type="summary" anchored="true">This is a letter from William Blount to David Henley, dated March 10, 1794. Blount informs Henley that he is not ready for Henley to go to Philadelphia yet. Blount wants Henley to wait so that Blount can give him some more information to take with him to Congress.</note>
+               <note type="collection" anchored="true">David Henley Papers</note>
+               <note type="box" anchored="true">MS 736</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true"> sc159</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tennessee</term>
+               <term>Blount, William, 1749-1800</term>
+               <term>Indians of North America</term>
+               <term>Henley, David, 1749-1823</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n84136128"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Blount, William, 1749-1800</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc159a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Knoxville</name>
+                     <date>March 10th 1794</date>
+                  </addrLine>
+               </address>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I am not  yet ready for your departure for <name>Philadelphia</name> by three or four days__ You know I have not yet laid my last years account before you for expenses principally incurred under the administration of <name>Secretary Smith</name>__ the reason of this delay has been the imperfection of a voucher or two in point of form which I wished to see corrected before my account was laid before you__ Besides it is necessary that an estimate of contingent expenses for expresses <choice>
+                  <abbr>&amp;c</abbr>
+                  <expan>etcetera</expan>
+               </choice> for the Territory for the current year should be made up, but this will take but little time__ I shall be very busily engaged with my dispatches for Philadelphia by <name>Doctor White</name> until tomorrow 12 O'Clock and it is essential that the recent murders and depredations of Indians should be immediately known to Congress__ Cannot you postpone your journey to the <pb n="2" facs="sc159b.small.jpg"/> last of the week understanding that I do not mean to delay your setting out one hour longer than is necessary but will be happy in facilitating it in every way in my power for I much wish you at Philadelphia that you may add your personal to the written testimony of the sufferings of this Country__ </p>
+            <closer>
+               <salute>I am Sir <lb/> You Obedient Servant</salute>
+               <signed>
+                  <name>
+                     <choice>
+                        <abbr>Wm</abbr>
+                        <expan>William</expan>
+                     </choice> Blount</name>
+               </signed>
+               <address>
+                  <addrLine>Colonel <name>David Henley</name>
+                  </addrLine>
+                  <addrLine>Agent for the War department</addrLine>
+               </address>
+               <pb n="3" facs="sc159c.small.jpg"/>
+               <add>Knoxville 10 March 1794 <lb/> William Blount <lb/> Letter</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

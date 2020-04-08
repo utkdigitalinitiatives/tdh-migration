@@ -1,0 +1,237 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tl053">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1800 Feb. 25, Knoxville, [Tennessee, to] the
+			 Hon[ora]ble W[illia]m Cocke, Joseph Anderson  W[illia]m C. Claiborne /
+			 [John Sevier] :a machine-readable transcription of an image</title>
+            <author>Sevier, John</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Holly Adams</name>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Jean Roney</name>
+               <name>Maha Ayesh</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. k</extent>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <address>
+               <addrLine>Hoskins Library - Special Collections</addrLine>
+               <addrLine>The University of Tennessee</addrLine>
+               <addrLine>Knoxville, TN 37996</addrLine>
+            </address>
+            <date>2001</date>
+            <idno>tl053</idno>
+            <idno>OCLC: </idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and
+				Archives, Nashville, Tennessee. It may be used freely by individuals for
+				research, teaching, and personal use as long as this statement of availability
+				is included in the text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> [Letter] 1800 Feb. 25, Knoxville, [Tennessee, to] the
+				Hon[ora]ble W[illia]m Cocke, Joseph Anderson  W[illia]m C. Claiborne /
+				[John Sevier] :a machine-readable transcription of an image</title>
+               <author>Sevier, John</author>
+               <date when="1800-02-25">February 25, 1800</date>
+               <extent>2p</extent>
+               <note type="summary">This document is a letter from Governor John
+				Sevier (1796-1801, 1803-1809) to Joseph Anderson, William Cocke, and William C.
+				Claiborne, dated February 26, 1800. This letter is about William Augustus
+				Bowles and his influence over the Creek Nation. Sevier is telling the men to be
+				prepared for what is to come, which could possibly be a war. Sevier stated that
+				the state of Tennessee is particularly vulnerable to hostilities and
+				violence.</note>
+               <note type="Collection">Governor John Sevier Papers </note>
+               <note type="Box">1</note>
+               <note type="Folder">8</note>
+               <note type="Document">tl053</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for The University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with
+			 Microsoft Word spell-checker; text has also been thoroughly proofread</p>
+            <p>Corrections and normalization represented by editorial tags</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Creek Indians -- Warfare</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/nr89016779"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Sevier, John, 1745-1815</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="tl053a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Knoxville</name>
+                     <date when="1800-02-25">25 February 1800</date>
+                  </addrLine>
+               </address>
+               <salute>Gentlemen </salute>
+            </opener>
+            <p>Since my last I have learned that 
+			 <name type="person">Bowles</name>
+               <del type="overstrike">has
+		  been</del>
+               <add place="supralinear"> is</add> Gaining influence over the 
+		  <name type="person">Creek</name> tribes and his conduct
+		  <choice>
+                  <orig>becomeing</orig>
+                  <reg>becoming</reg>
+               </choice> More  More <choice>
+                  <orig>Menaceing</orig>
+                  <reg>menacing</reg>
+               </choice> towards this State, I say this State, because
+		  it is so Much More Subject and liable to <add place="supralinear">the</add>
+		  depredations of those Southern Nations, then Any of the other States. <hi>
+                  <name type="place">Georgia</name> not excepted</hi>  It is
+		  <del type="overstrike">also</del> to be recollected, that we have in the past
+		  Indian Wars, Suffered Much More, (at least ten to one) Then any other
+		  State</p>
+            <p>I pray you to Make every exertion in order to have our frontiers as
+			 formidably protected as possible, and by all the Means in your power
+			 <add place="supralinear">and <unclear>unk</unclear> to</add> have the Military
+			 Strength <del type="overstrike">of</del> in this State Augmented
+		  <del type="overstrike">if possible</del> at least double the present Numbers
+		   <del type="overstrike">The s</del> which would Scarcely
+		  <choice>
+                  <orig>affoard</orig>
+                  <reg>afford</reg>
+               </choice> a protection Sufficient Should hostilities be
+		  commenced and in case there should not, The troops could readily be removed
+		  after discovering there was no danger to be apprehended </p>
+            <closer>
+               <salute>I have the <choice>
+                     <orig>honour</orig>
+                     <reg>honor</reg>
+                  </choice>
+                  <choice>
+                     <abbr> C</abbr>
+                     <expan>et cetera</expan>
+                  </choice>
+               </salute>
+               <address>
+                  <addrLine>The 
+				  <choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice>
+					 Cocke</name>
+                  </addrLine>
+                  <addrLine>
+                     <name type="person">Joseph Anderson</name>
+                  </addrLine>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Wm</abbr>
+                           <expan>William</expan>
+                        </choice> C
+					 Claiborne</name>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div subtype="1">
+            <pb n="2" facs="tl053b.small.jpg"/>
+            <p>
+               <add place="right of top line">
+                  <choice>
+                     <abbr>No</abbr>
+                     <expan>Number</expan>
+                  </choice> 5</add>
+               <address>
+                  <addrLine>The 
+				<choice>
+                        <abbr>Honble</abbr>
+                        <expan>Honorable</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+               <lb/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Jos.</abbr>
+                           <expan>Joseph</expan>
+                        </choice>
+				  Anderson</name>
+                  </addrLine>
+               </address>
+               <lb/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>Wm.</abbr>
+                           <expan>William</expan>
+                        </choice> Cocke</name>
+                  </addrLine>
+               </address>
+               <lb/>
+               <address>
+                  <addrLine>
+                     <name type="person">
+                        <choice>
+                           <abbr>W.</abbr>
+                           <expan>William</expan>
+                        </choice> C.
+				  Claiborne</name>
+                  </addrLine>
+               </address> by Post, the 
+		  <date when="1800-02-26">26th 
+			 <choice>
+                     <abbr>Feb.</abbr>
+                     <expan>February</expan>
+                  </choice> 1800</date>
+               <add place="bottom center of page">
+                  <hi>Recorded</hi>
+               </add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

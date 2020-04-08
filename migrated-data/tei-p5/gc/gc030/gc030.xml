@@ -1,0 +1,206 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gc030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1835 Mar. 9, Alexandria, Louisiana [to] James King, Murfreesboro, Tennessee / Thomas Moore: a machine readable transcription of an image</title>
+            <author>Moore, Thomas</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Harding</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Libraries</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Special Collections Library</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>gc030</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of The Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact The Albert Gore Research Center, P.O. Box 193, Middle Tennessee State University, Murfreesboro, TN 37132.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1835 Mar. 9, Alexandria, Louisiana [to] James King, Murfreesboro, Tennessee / Thomas Moore</title>
+               <author>Moore, Thomas</author>
+               <date when="1835-03-09">March 9, 1835</date>
+               <extent>4p</extent>
+               <note type="summary" anchored="true">This is a letter dated March 9, 1835 from Thomas Moore to his cousin James King.  He urges his cousin to resettle in the south,  specifically Louisiana, as soon as possible, as land is quickly being bought and land prices are rising. </note>
+               <note type="collection" anchored="true">James Moore King Papers Correspondence, 1835</note>
+               <note type="box" anchored="true">2</note>
+               <note type="folder" anchored="true">2</note>
+               <note type="document" anchored="true">gc030</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 3.0 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>Land question</term>
+               <term>Louisiana</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n93014550"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Moore, Thomas Overton, 1804-1876</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="gc030a.small.jpg"/>
+            <opener>
+               <add>T.O. Moor</add>
+               <add>25</add>
+               <add>
+                  <del type="overstrike">Answered 19 January 1836</del>
+               </add>
+               <add>183<del type="overstrike">6</del>
+               </add>
+               <add>1835</add>
+               <address>
+                  <addrLine>
+                     <name>
+                        <choice>
+                           <abbr>Capt.</abbr>
+                           <expan>Captain</expan>
+                        </choice> James M King</name> near <name>Murfreesboro</name>
+                     <name>Tennessee</name>
+                  </addrLine>
+               </address>
+               <add>Mail</add>
+               <add>
+                  <figure>
+                     <figDesc>Alexandria La.<choice>
+                           <abbr>Mar</abbr>
+                           <expan>March</expan>
+                        </choice> 19</figDesc>
+                  </figure>
+               </add>
+               <pb n="2" facs="gc030b.small.jpg"/>
+               <address>
+                  <addrLine>Alexandria</addrLine>
+               </address>
+               <date>9th March 1835</date>
+               <salute>Dear Cousin</salute>
+            </opener>
+            <p> Your very much esteemed favor came to hand by last mail under date of 14th February I was truly sorry to hear of the death of my much valued friends <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> Baity and <choice>
+                  <abbr>Mr</abbr>
+                  <expan>Mister</expan>
+               </choice> jamison my long acquaintance and <add>the</add> warm friendship that existed between <choice>
+                  <abbr>Capt</abbr>
+                  <expan>Captain</expan>
+               </choice> baity &amp; myself <choice>
+                  <orig>indused</orig>
+                  <reg>induced</reg>
+               </choice> me to view him more as a father than an acquaintance he arrived at the age that many of us will not from different causes I have no expectations of being an old man.</p>
+            <p>You state you have declined visiting the southern country this spring with your negroes and are undetermined whether you will or not yourself; I am afraid that will be the case too long if you contemplate removing or settling a plantation to the south you cant do it too soon as lands are rising and in a few years you will begin to think you are too old.  I must take the liberty of saying one word more to you as regards establishing a plantation in the south, I presume that you have it <add>in</add> view to keep <add>up</add> our plantation at home which would lesson the force to be brought here, and I assure you a small force in the southern county and the <choice>
+                  <orig>proprieter</orig>
+                  <reg>proprietor</reg>
+               </choice> absent is by no means profitable as it is a necessary consequence <pb n="3" facs="gc030c.small.jpg"/> that a small place must have a low priced overseer who of course would be <choice>
+                  <orig>incompetant</orig>
+                  <reg>incompetent</reg>
+               </choice> to the task of managing a place <choice>
+                  <orig>skifully</orig>
+                  <reg>skillful</reg>
+               </choice> and to a profitable advantages the lowest price that a new hand could be had for to manage ten or twelve hands would be $300 and he only fit to seek out orders under an <choice>
+                  <orig>expirinced</orig>
+                  <reg>experienced</reg>
+               </choice> one, you could remain in <choice>
+                  <abbr>Tenn.</abbr>
+                  <expan>Tennessee</expan>
+               </choice>  and work 25 or 30 hands <add>here</add> to advantage, but to no great advantage under that number when you would be absent.</p>
+            <p>The country from some distance below <name>Alexandria</name> to 100 miles above <name>Natchez</name> which by the course of the river is *250 or 270 miles surpassed for the production of <choice>
+                  <orig>cotten</orig>
+                  <reg>cotton</reg>
+               </choice> by none in the world ever above the soil is equally fertile, but for some distance below the raft and in it the bodies of good land are comparatively small  those below, at the head of the raft and above is a prairie country very rich and they say equally as productive as our land here, I have been informed by respectable men that it is a very <choice>
+                  <orig>disirable</orig>
+                  <reg>desirable</reg>
+               </choice> country, <add>(*insert Marginal note)</add> as for the lands in <name>Mississippi</name> I have never seen any that I would have except on the <name>
+                  <choice>
+                     <abbr>Miss</abbr>
+                     <expan>Mississippi</expan>
+                  </choice>
+               </name>. river though I have travelled very little in the state, if you could get lands I know no country that planting is so profitable as on <name>red river</name> but they are rising rapidly, my lands that cost me $13.000 I should consider at this time low at $60.000 there is considerable public land between where I live and the <name>
+                  <choice>
+                     <abbr>Miss</abbr>
+                     <expan>Mississippi</expan>
+                  </choice>
+               </name>. on what is called the <name>Atchafalayes</name> on <name>bayou Raouge</name> &amp; on <name>bayou De Glage</name>, some could <add>* This country is nearly settled up, after fifty or sixty miles above <name>Natchez</name> it is them very thinly settled <name>Larus Basley</name> lives 20 miles above <name>Natchez</name> and doing well</add>
+               <pb n="4" facs="gc030d.small.jpg"/> be had at government price improvements on the public land could be bought at not a very high price when good plantations may be made I would advise you to come down next fall and look at the country &amp; crops and any service that I may have it in my power to render you I will do it-   with the <choice>
+                  <orig>gratest</orig>
+                  <reg>greatest</reg>
+               </choice> pleasure, our country is well worth seeing in the fall if a person ever intends moving to it, get here early in <choice>
+                  <abbr>Oct</abbr>
+                  <expan>October</expan>
+               </choice>. there is no danger.</p>
+            <p>We have a very bad spring so far I have been unabled to plant but little  corn yet from the floods of rain that have fallen, though we are predicting a good crop I am planting again for three hundred bales should the season be an <gap agent="damage"/> one I will very easily <gap agent="damage"/> Every bot bring more or less strangers to <gap agent="damage"/> =try with the expectation of locating here <gap agent="damage"/> price of land frightens many off others go to <gap agent="damage"/> &amp; some above, we have several from about <gap agent="damage"/>
+               <name>
+                  <choice>
+                     <abbr>N.C</abbr>
+                     <expan>North Carolina</expan>
+                  </choice>
+               </name>. a gentleman left my house to day from that <gap agent="damage"/> who is determined to settle here.  I have <choice>
+                  <abbr>recd</abbr>
+                  <expan>received</expan>
+               </choice> my blacksmith from <name>Carolina</name> &amp; find him first rate.  </p>
+            <p>It is uncertain when I shall be in <name>
+                  <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name> again, or even leave home for any place, I may the present summer or it may two or three, Give my wife, Sarah &amp; my best love to cousin Martha and all our <choice>
+                  <orig>frinds</orig>
+                  <reg>friends</reg>
+               </choice> as usually Sarah is perfectly contented sometimes says she would like very much to be in <name>
+                  <choice>
+                     <abbr>Tenn</abbr>
+                     <expan>Tennessee</expan>
+                  </choice>
+               </name>.  Let me know positively your determination about coming to this county &amp; I will write you more fully, what number of hands your <choice>
+                  <orig>Frinds</orig>
+                  <reg>friends</reg>
+               </choice> &amp; relation you could establish here</p>
+            <closer>
+               <signed>
+                  <choice>
+                     <abbr>Tho</abbr>
+                     <expan>Thomas</expan>
+                  </choice>. O. Moore</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

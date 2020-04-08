@@ -1,0 +1,115 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sl310">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1844 May 1, Washington [City, D. C.] [to] A. Fergusson / W. B. Campbell   : a machine readable transcription of an image</title>
+            <author>Campbell, W. B.</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno>sl310</idno>
+            <idno>OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Tennessee State Library and Archives, Nashville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Tennessee State Library and Archives, 403 Seventh Avenue North, Nashville, TN 37243-0312.  (615) 741-2764.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1844 May 1, Washington [City, D. C.] [to] A. Fergusson / W. B. Campbell</title>
+               <author>Campbell, W. B.</author>
+               <date when="1844-05-01">May 1, 1844</date>
+               <extent>2p</extent>
+               <note type="summary" anchored="true">This is a letter from W. B. Campbell to A. Fergusson, dated May 1, 1844. Campbell reports on the progress of the pension claim by the heirs of Lieut. Col. Henry Dixon. He mentions the Texas question of statehood, and believes that there are too many Congressmen against it for it to happen.</note>
+               <note type="collection" anchored="true">Fergusson Papers</note>
+               <note type="box" anchored="true"> IV-G-1 b2</note>
+               <note type="folder" anchored="true">10</note>
+               <note type="document" anchored="true">sl310</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>War pensions</term>
+               <term>Tennessee</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/no2007144179"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Campbell, William Bowen, 1807-1867</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sl310a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name type="place">Washington</name>
+                     <date when="1844-05-01">May 1st 1844</date>
+                  </addrLine>
+               </address>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>At the last session of the last congress the committee on Revolutionary claims, as I was informed by the chairman had determined to report against the claim of the Heirs of  <choice>
+                  <abbr>Lieut. Col</abbr>
+                  <expan>Lieutenant Colonel</expan>
+               </choice>
+               <name type="person">Henry Dixon</name>, for seven years half pay to the widow, but at my request the Committee did not make any report in the case during that session. At the first session of the present congress you are aware that nothing was done on the subject of private claims, and at the beginning of of this session the claim of the Heirs of Col Henry Dixon I had again referred to the Committee on revolutionary claims but as yet no report has been made upon the case. I have frequently urged the chairman to make a report, and he has promised to do so, but I know not whether it will be for or against the claim. I have explained the nature of the claim fully to the chairman &amp;  <unclear>other members</unclear> of the committee I think the claim ought to be allowed &amp; if a favourable report can be had from the committee, a law can be <pb n="2" facs="sl310b.small.jpg"/> be passed for the benefit of the heirs. Before this reaches you, the storm about <name type="place">Texas</name> will have passed off, and the invasion by <name type="place">mexico</name> will have all ended in <unclear>rumor</unclear> As to the acquisition of Texas by the <name type="place">
+                  <choice>
+                     <abbr>U</abbr>
+                     <expan>United</expan>
+                  </choice> States</name> that is impossible as there is scarcely a single member of Congress from any of the free States who would agree to it &amp; there are many from the Slave States who are against it_ I should like to see Texas united with us, but I have no hope of it_ There has been much said about war but I sincerely hope we shall have none There is no sufficient cause for war, and nothing but vile personal ambition of those who rule, &amp; who will have all the honor &amp; profit, will rush us into war at present The differences can be amicably settled by negotiation, &amp; should be. The country has much to fear from a reckless administration</p>
+            <closer>
+               <salute>Very respectfully yours</salute>
+               <signed>
+                  <name type="person">W B Campbell</name>
+               </signed>
+               <address>
+                  <addrLine>
+                     <name type="person">A Fergusson</name>
+                     <choice>
+                        <abbr>Esqr</abbr>
+                        <expan>Esquire</expan>
+                     </choice>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

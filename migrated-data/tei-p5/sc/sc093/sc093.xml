@@ -1,0 +1,1627 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc093">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Journal of Tennessee Cavalry, 2nd Regiment] 1847 Apr. 9 - May 4  : a machine readable transcription of an image</title>
+            <author>Caswell, William Richard</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Lesli Wall Zimmerman</name>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Amy Emert</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections</addrLine>
+               <addrLine>University of Tennessee</addrLine>
+               <addrLine>Knoxville, Tennessee 37996</addrLine>
+            </address>
+            <date>2002</date>
+            <idno type="SPCID">sc093</idno>
+            <idno type="OCLC">OCLC:</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library, University of Tennessee, Knoxville, TN.  It may be used freely by individuals for research, teaching, and personal use as long as this statement of availability is included in the text.  For all other use contact the Special Collections Librarian, Hoskins Library, University of Tennessee, 1401 Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Journal of Tennessee Cavalry, 2nd Regiment] 1847 Apr. 9 - May 4</title>
+               <author>Caswell, William Richard</author>
+               <date when="1847-04-09">April 9, 1847</date>
+               <extent>22p</extent>
+               <note type="summary" anchored="true">This document is the journal kept by  William Richard Caswell, Captain of the Tennessee Cavalry, 2nd Regiment, during the period of April 9-May 4, 1847. Caswell was Captain of these volunteer soldiers during the Mexican-American War (1846-1848). The journal documents the battles, travels, and personal experiences of the Tennessee soldiers, as well as other companies they encountered in Mexico. Also included is the master roll of soldiers that are in Caswell's company, including their name, rank, and condition.</note>
+               <note type="collection" anchored="true">Tennessee Calvary, 2nd Regiment</note>
+               <note type="box" anchored="true">MS-1041</note>
+               <note type="folder" anchored="true">n/a</note>
+               <note type="document" anchored="true">sc093</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Diaries</term>
+               <term>Caswell, William Richard, 1809-1862</term>
+               <term>Mexican War, 1846-1848</term>
+               <term>Tennessee</term>
+               <term>
+                  <name role="Author http://id.loc.gov/vocabulary/relators/aut">Caswell, William Richard</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc093a.small.jpg"/>
+            <head>Master Roll of <name type="person">
+                  <choice>
+                     <abbr>Capt</abbr>
+                     <expan>Captain</expan>
+                  </choice> Caswells</name> Company <name type="place">Tennessee</name>
+            </head>
+            <head>Cavalry <date when="1847-03-04">4th March 1847</date>
+            </head>
+            <p>
+               <table>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm R.</abbr>
+                              <expan>William Richard</expan>
+                           </choice> Caswell</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Capt</abbr>
+                           <expan>Captain</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">At <name type="place">Jalapa</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">
+                           <choice>
+                              <abbr>Saml</abbr>
+                              <expan>Samuel</expan>
+                           </choice> W Bell</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1st <choice>
+                           <abbr>St</abbr>
+                           <expan>Sergeant</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>Do</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Calvin Gossitt</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">2nd Do</cell>
+                     <cell role="data" rows="1" cols="1">At <name type="place">
+                           <choice>
+                              <orig>Vera Crus</orig>
+                              <reg>Vera Cruz</reg>
+                           </choice>
+                        </name> — Sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">James Anderson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">3rd Do.</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">David W Nelson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1st Sergeant</cell>
+                     <cell role="data" rows="1" cols="1">Do — Sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">
+                           <choice>
+                              <abbr>Benj</abbr>
+                              <expan>Benjamin</expan>
+                           </choice> F McCarty</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">2nd Do</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">James H. Lones</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">3rd Do</cell>
+                     <cell role="data" rows="1" cols="1">Sick in the Hospital at <name type="place">
+                           <choice>
+                              <orig>Vera Crus</orig>
+                              <reg>Vera Cruz</reg>
+                           </choice>
+                        </name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">
+                           <choice>
+                              <abbr>Wm.</abbr>
+                              <expan>William</expan>
+                           </choice> C. Headrick</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">4th Do</cell>
+                     <cell role="data" rows="1" cols="1">Died in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                        <date when="1847-05-02">2nd May <add place="supralinear">1847</add>
+                        </date>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">C. B. Nance</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1st Corporal</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Daniel McCall</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">2nd Do</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">S. G. Swan</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">3rd Do</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">H. Lipton</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">4th Do</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Anderson, Mathew N.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Private</cell>
+                     <cell role="data" rows="1" cols="1">Sick in the Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Anderson, Lewis</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Brady, <choice>
+                              <abbr>Robt</abbr>
+                              <expan>Robert</expan>
+                           </choice> C.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <abbr>"</abbr>
+                           <expan>Ditto</expan>
+                        </choice>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Bounds, T. H.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Left behind in <name type="place">Texas</name> with Company and <add place="supralinear">returned home</add>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Brooks, Robert</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Campbell, <choice>
+                              <abbr>Wm.</abbr>
+                              <expan>William</expan>
+                           </choice> A</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Detained to wait on the sick in the <add place="supralinear">Hospital <choice>
+                              <orig>Vera Crus</orig>
+                              <reg>Vera Cruz</reg>
+                           </choice>
+                        </add>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Cameron, Alexander</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Cameron, Robert</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Comes, <choice>
+                              <abbr>Wm.</abbr>
+                              <expan>William</expan>
+                           </choice> C.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Channabury, Inmon</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Chamberloin <choice>
+                              <abbr>Wm.</abbr>
+                              <expan>William</expan>
+                           </choice> H.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Wounded by accidental discharge of <choice>
+                           <orig>terbine</orig>
+                           <reg>turbine</reg>
+                        </choice> in <unclear/> &amp; returned home</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Coble, Pharoah</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Cotner, Corbin</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Cummings, Uniah</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Discharged at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Doyle, David</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Doyle, John</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do — sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Doyle, Jacob</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Left in Hospital at <name type="place">Matamoros</name> sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Duncan, <choice>
+                              <abbr>Geo.</abbr>
+                              <expan>George</expan>
+                           </choice> W</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Left sick in <unclear>Arkansas</unclear> and died</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Day, John H.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Ford, Edward</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Fortner, Arch</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <pb n="2" facs="sc093b.small.jpg"/>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Gourly, John</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">Private</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Hankins, Abraham</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Hankins, J. G.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do Do Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Heard, <choice>
+                              <abbr>Wm</abbr>
+                              <expan>William</expan>
+                           </choice> A</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>
+                           <name type="person">Hi Ans, Jao E.</name>
+                        </unclear>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Hoad, Harvey</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Jackson, Marcus</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Johnson, Robert</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>Detained</unclear> to wait on sick in Hospital <add place="supralinear">at <choice>
+                              <orig>Vera Crus</orig>
+                              <reg>Vera Cruz</reg>
+                           </choice>
+                        </add>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">King, James</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Kirby, James</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Discharged at <unclear>Lompice</unclear>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Knox, S. B.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Lindsey, <choice>
+                              <abbr>Wm.</abbr>
+                              <expan>William</expan>
+                           </choice> A</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Lones, John</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do — Sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Looney, Abraham</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Love, <choice>
+                              <abbr>Jno.</abbr>
+                              <expan>Jonathon</expan>
+                           </choice> M</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice> — Sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">McAffey, <choice>
+                              <abbr>Thos.</abbr>
+                              <expan>Thomas</expan>
+                           </choice>
+                        </name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Left in Hospital at <unclear>nea ton</unclear> ones sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">McCall, Jue</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Newman, <choice>
+                              <abbr>Saml</abbr>
+                              <expan>Samuel</expan>
+                           </choice>
+                        </name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Discharged at Tampico</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Plumbe, <choice>
+                              <abbr>Jno</abbr>
+                              <expan>Jonathon</expan>
+                           </choice> M</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Portice, W. J</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Peston, Edward</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Parton, <choice>
+                              <abbr>Benj.</abbr>
+                              <expan>Benjamin</expan>
+                           </choice>
+                        </name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <unclear>Detained</unclear> &amp; attached to Regimental Hospital</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Renfro, <choice>
+                              <abbr>Jas</abbr>
+                              <expan>Jason</expan>
+                           </choice>
+                        </name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Roberson, <choice>
+                              <abbr>Jno</abbr>
+                              <expan>John</expan>
+                           </choice> L</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Killed by being shot by a <name type="person">Mexican</name> from the <add place="supralinear">
+                           <unclear>chapperal</unclear> while in search of beef near <unclear>Sumes Gens</unclear>
+                        </add>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Roberson, R. B.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Scott, Edward L</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Sieles, H. J</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Left in Hospital at Matamoros sick</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Simpson, J. G.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Skiggs, H. C.</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Broke his thigh by a fall from his horse in <add place="supralinear">Texas and left behind</add>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Skiggs, <unclear>Tininon</unclear>
+                        </name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Discharged at Tampico</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Smith, <choice>
+                              <abbr>Jno.</abbr>
+                              <expan>Jonathon</expan>
+                           </choice> A</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Sick in Hospital at <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Shipe, Jackson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Jalapa</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Snoddy, <choice>
+                              <abbr>Thos.</abbr>
+                              <expan>Thomas</expan>
+                           </choice> A</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Stine, Charles</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">Do</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person">Suttle, Noah</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">"</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <choice>
+                           <orig>Vera Crus</orig>
+                           <reg>Vera Cruz</reg>
+                        </choice> — sick</cell>
+                  </row>
+               </table>
+               <pb n="3" facs="sc093c.small.jpg"/>
+            </p>
+            <p>
+               <date when="--04-09">April 9</date>. A <del type="overstrike">detachment</del>
+               <add place="supralinear">portion</add>of the company consisting of ⁁<add place="supralinear">the</add> 22 ⁁<add place="supralinear">mounted</add> men, with <choice>
+                  <abbr/>
+                  <expan>Captain Caswell</expan>
+               </choice>  and <name type="person">
+                  <choice>
+                     <abbr>Lieut.</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice> Bell</name>) <del type="overstrike">marched</del>
+               <add place="supralinear">as pioneers</add> of the <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> marched to-day advanced guard of <name type="person">
+                  <choice>
+                     <abbr>Gen.</abbr>
+                     <expan>General</expan>
+                  </choice> Pattersons</name> Division on the <del type="overstrike">road</del>
+               <add place="supralinear">way to</add> the <name type="place">Halls of the Montezeunas</name> — we regret very much to leave our ⁁ <add place="supralinear">dismounted</add> comrades, exposed to dangers <add place="supralinear">of sickness</add>, always incident to stationary soldiers <choice>
+                  <orig>campe</orig>
+                  <reg>camp</reg>
+               </choice>, &amp; especially in the environs of <name type="place">Vera Cruz</name> so noted for its sickness at seasons of the year now approaching and near at hand — <name type="person">Scott A. Hankins</name>, <name type="person">Suttle</name> and <name type="person">Earnes</name>, were neither of them will when we left, but we hope <add place="supralinear">that</add> soon <del type="overstrike">for</del> our horses and friend left at Tampico will arrive, and the <unclear>balance</unclear> of the company will overtake us — Our route lay for several miles upon the beach, and the ⁁ <add place="supralinear">heavy march upon the sand</add> deep of the long line of infantry which follow us, cause us to rejoice that we are cavalry, and we are particularly favored in being furnished with a baggage <choice>
+                  <orig>waggon</orig>
+                  <reg>wagon</reg>
+               </choice> ⁁ <add place="supralinear">for the transportation of our provisions &amp; co. Whilst the infantry pack 4 days supply in their hover-sacks</add> where we applied and <choice>
+                  <orig>yesturday</orig>
+                  <reg>yesterday</reg>
+               </choice> to Gen. Patterson for transportation, we told him if it could not be had without detriment to the service, we could march without it — "I know" said the <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> "you would do so, your company has ⁁ <add place="supralinear">I know you would go <del type="overstrike">no</del> in any way never given <unclear>one</unclear> any</add>
+               <del type="overstrike">been less</del> trouble to  <unclear>use</unclear> "<del type="overstrike">the</del>. We proceeded sufficiently far in advance to halt <unclear>ashore</unclear> the beach, and take a delightful <choice>
+                  <orig>bathe</orig>
+                  <reg>bath</reg>
+               </choice> in the salt surf of the gulf. — We struck out upon the turnpike, amid the sand hills with the hot sun beaming down almost perpendicularly upon us — At the distance of five miles <del type="overstrike">for</del> we came to the village of Santa Fe — which we found to be almost ⁁ <add place="supralinear">entirely</add> depopulated. A ⁁<add place="supralinear">small</add> fort was erected upon a mound near the read; and at a bridge we passed ⁁ <add place="supralinear">it was</add> torn up, and obstructions of large stones — <del type="overstrike">
+                  <unclear>surrounded to</unclear>
+               </del> placed in the road — all looked as if the Mexicans have contemplated disputing every step we might attempt to take toward their holy city — We passed within view, on our right hand, upon an eminence, the private residence of <name type="person">Santa Anna</name>, called <name type="place">Mango de Clana</name> — We are told that Santa Anna, owns all the land for 8 or 10 leagues on <del type="overstrike">either</del> both sides the road from Vera Cruz to Jalapa, from the rent of which he must derive an immense revenue, for one of his tenants told us he paid annually for this farm the sum of $650.00 — besides this the cattle which fill the <del type="overstrike">wsole</del> whole wood (after you have advanced a short distance into the interior) are all his private property and have this brand of A. L. — the initials perhaps of Antonio Lopez. — Our camp for the might <gap agent="damage"/> the side of one of the many long and excellent bridges which are built of <pb n="4" facs="sc093d.small.jpg"/> stone and cement — we had selected the encampton for our little corps beneath the deep shade of <choice>
+                  <orig>cocoanut</orig>
+                  <reg>coconut</reg>
+               </choice>
+               <add place="supralinear">&amp;</add> palm <del type="overstrike">and</del> trees — <del type="overstrike">with</del> but the insects below and the harsh croaking of the <choice>
+                  <orig>chaperal</orig>
+                  <reg>chaparral</reg>
+               </choice> cocks &amp; <choice>
+                  <orig>parrotts</orig>
+                  <reg>parrots</reg>
+               </choice> in the trees above, prevented us from sleeping much during the night — besides these annoyances we made a march of 16 miles and left our <choice>
+                  <orig>waggans</orig>
+                  <reg>wagons</reg>
+               </choice>
+               <del type="overstrike">trad</del> did not arrive until very late, so that we had not other supper, than such as Santa Annas beef afforded —</p>
+            <p>
+               <date when="--04-10">April 10th</date> On account of the many soldiers breaking down, and the late arrival of the train, we only march 7 ½ miles to-day and halted at a stream, over which another bridge of great length and superior masonry has been constructed with much labor. <del type="overstrike">The</del> Our mounted men were stationed at head quarters, apart from the main body of the Division, and thereby fell into the luck of some harder service than has been our want of late. We were required to divide the watches of the night, and keep a picket guard upon the road; and while some were thus employed (<choice>
+                  <abbr>Lt.</abbr>
+                  <expan>Lieutenant</expan>
+               </choice> Bell) taking a watch as sentinel in turn with the men), the others rolled themselves in their blankets &amp; lay down beneath the wide spreading limbs of an immense and beautiful forest.</p>
+            <p>
+               <date when="--04-11">April 11th</date> At ½ past 12 o'clock this morning <choice>
+                  <abbr>Capt. C</abbr>
+                  <expan>Captain Caswell</expan>
+               </choice> with ten men were called into the saddle, to transmit to <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Twiggs</name>, at the <name type="place">National Bridge</name> a dispatch forwarded from <name type="person">
+                  <choice>
+                     <abbr>Gen.</abbr>
+                     <expan>General</expan>
+                  </choice> Scott</name> — This detachment proceeded with much caution, in the star light of night, moving in a body with two men from 50 to 100 yards in distance, — Our horses feet clattered upon the paved turnpike as we marched amidst perfect stillness from all other sound, <del type="overstrike">and</del> ⁁ <add place="supralinear">after marching some 3 miles</add> one solitary light was visible in <del type="overstrike">the</del> a <choice>
+                  <orig>lerge</orig>
+                  <reg>large</reg>
+               </choice> village (<del type="overstrike">saw</del> was <name type="place">Servaca</name>) which as we approached <del type="overstrike">ma</del> exhibited to us, a body of soldiers, with muskets whose bayonets bristled <del type="overstrike">in</del> between the light &amp; our <choice>
+                  <orig>eys</orig>
+                  <reg>eyes</reg>
+               </choice> — they proved to be a body of <choice>
+                  <orig>straglers</orig>
+                  <reg>stragglers</reg>
+               </choice> from <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Twiggs</name> Division. <del type="overstrike">We could see but little else than the whi.</del> As we rode across the celebrated Puntia <del type="overstrike">Da</del> National, the beautiful scene of a Division encampment with all their fires blazing, met our eyes — <del type="overstrike">As</del>
+               <add place="supralinear">Where</add> we halted at <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs' quarters, we found him ready <del type="overstrike">ready</del> to march the only 3 o'clock — we delivered the dispatches; and were informed that <pb n="5" facs="sc093e.small.jpg"/>
+               <sic>that</sic> the Mexicans had abandoned this position (which the <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice>
+               <add place="top right corner">3</add> declared could be maintained by 500 men, against all the world) several days before his arrival — The <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> said the Mexicans were fortified in the mountains 20 miles distant, their force was variously estimated at from 2 to 15,000 men — " I shall fight them" said he to-morrow at 10 o'clock, and I shall whip them" I would like to have you with me, but I cannot wait — I shall halt my train at <name type="place">Rio Blaveo</name>, to-night to-morrow I shall march out, whip them, and return to my camp — <name type="person">Corporal Swan</name>, privates <name type="person">Portis</name> &amp; <name type="person">Renfro</name> went back with a communication for <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Scott. <choice>
+                  <abbr>Lt.</abbr>
+                  <expan>Lieutenant</expan>
+               </choice> Bell came forward with the balance of the <unclear>marching</unclear> command at the head of the Division, whilst those who <del type="overstrike">had</del> came forward during the night guarded the village &amp; bridge — The Bridge ⁁ <add place="supralinear">formerly called the Kings bridge.</add> ⁁ <add place="supralinear">is superior to any work of the kind we have ever seen &amp; said to be one of the best structures of the kind in the world</add> about 300 yards long — of solid stone &amp; cemented over — having seven arches spanning the main stream, built <del type="overstrike">a century past by the Spaniards and</del>
+               <add place="supralinear">in <date when="1802">1802</date> by the merchants of Vera Cruz &amp; <name type="place">Mexico</name>
+               </add> ⁁<add place="supralinear">under the patronage of the Government</add> now having scarcely a crack or break ⁁<add place="supralinear">in or</add> upon it. <del type="overstrike">and with all things Upon</del> The mountains which rise almost perpendicularly upon each side with <unclear>crowning</unclear> batteries upon their heights make it ⁁ <add place="supralinear">
+                  <del type="overstrike">one of</del> an impregnable position if defended with any spirit</add>
+               <del type="overstrike">the strongest positions for defence in all the world.</del> This morning after delivering our <choice>
+                  <orig>despatches</orig>
+                  <reg>dispatches</reg>
+               </choice> to <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> ⁁ <add place="supralinear">
+                  <hi rend="different hand, different ink">Twiggs</hi>
+               </add>
+               <del type="overstrike">Scott</del>
+               <del type="overstrike">our</del> we made fast our horses <del type="overstrike">to</del> fed them &amp; lay down ⁁ <add place="supralinear">slept upon our blankets</add> around the roots of a large <del type="overstrike">fores</del> tree, whose branches held many nests of the jackdaw, and the ⁁ <add place="supralinear">serenade of these</add> chattering <del type="overstrike">anim</del> birds, was no interruption to the sound sleep of men who rode the night march which we had made. We were awakened by a Mexican man and woman, who came all <choice>
+                  <orig>trembring</orig>
+                  <reg>trembling</reg>
+               </choice> with fright to ask <del type="overstrike">the</del> ⁁ <add place="supralinear">our</add> protection from soldiers of our army — we went to their hut and found sight of <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs' men, who had <del type="overstrike">turned up every thing in their house upside</del>
+               <add place="supralinear">searched <choice>
+                     <abbr>thro</abbr>
+                     <expan>through</expan>
+                  </choice> their house in every corner <del type="overstrike">and</del> but</add> had contented themselves with taking only a large <unclear>derrijohn</unclear> of "aqua diente" over which they were making merry — we sent them forward and relieved the poor inmates of the house from further terror — for which they were grateful enough to lend us vessels in which to cook our breakfast the elements of which we had procured from the Commissary of the first Division. <pb n="6" facs="sc093f.small.jpg"/>
+            </p>
+            <p>
+               <date when="--04-12">April 12th</date> — The <del type="overstrike">paved</del> road over which we marched is ⁁ <add place="supralinear">graded,</add> paved, &amp; ⁁ <add place="supralinear">mostly</add> walled on each side — at an expense of labor which astonishes every ⁁ <add place="supralinear">one who may see it</add> but the ⁁ <add place="supralinear">present</add> degenerate race of Mexicans permit it to wear away without attempting to sustain <del type="overstrike">it</del> &amp; keep it up — <del type="overstrike">But</del> excellent as the road is — the long march ⁁ <add place="supralinear">without water</add> and ⁁ <add place="supralinear">the</add> intense <del type="overstrike">heat</del>
+               <add place="supralinear">rays</add>of  the sun, from ⁁ <add place="supralinear">whose</add>
+               <del type="overstrike">the</del> burning heat <del type="overstrike">of whi</del> we could find us shelter caused many of the Infantry to fall ⁁ <add place="supralinear">exhausted</add> by the way <choice>
+                  <orig>saide</orig>
+                  <reg>side</reg>
+               </choice> seventy of whom died — and <del type="overstrike">one</del> others thus left behind were attacked by the Mexican scouts, one dragoon killed, and two privates of the <name type="place">Pennsylvania</name> volunteers were wounded — We overtook <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice>
+               <choice>
+                  <orig>Twigs</orig>
+                  <reg>Twiggs</reg>
+               </choice> Division at <name type="place">Rio Blancho</name> — At which place <del type="overstrike">he</del>
+               <add place="supralinear">
+                  <name type="person">
+                     <choice>
+                        <abbr>Col.</abbr>
+                        <expan>Colonel</expan>
+                     </choice> Harney</name> with the <choice>
+                     <abbr/>
+                     <expan>United States</expan>
+                  </choice> Dragoons</add> had overtaken the advanced guard of the Mexican Army now in a position ⁁ <add place="supralinear">at <name type="place">
+                     <choice>
+                        <orig>Cierra</orig>
+                        <reg>Sierra</reg>
+                     </choice> Gorda</name>
+               </add> 4.5 &amp; <unclear>0?6?</unclear> miles distant with fortifications and batteries of artillery upon the mountain heights which overlook the road on both sides. The advanced guard of the Mexicans were pursued, and <unclear>resounoitering</unclear> parties sent out with the <unclear>augnesser</unclear>, <del type="overstrike">and they</del>
+               <add place="supralinear">who</add> drew the fire of the <unclear>suenry's</unclear> cannon and several volleys of musketry — <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> Johnson</name> of the Topographical Engines and two or three privates were wounded — In this little skirmish the enemy has sustained some loss but we do not know how many — We selected a hut ⁁ <add place="supralinear">in the village of <name type="place">Plan Del Rio</name>
+               </add> for our head quarters, and <unclear>lareated</unclear> our horses in rear of the hut — spread down our blankets to rest upon that we might be ready for the action which we expected to take place in a few hours —</p>
+            <p>
+               <name type="person">Shipe</name> was sleeping upon his blanket on the floor of the hut, &amp; some soldier in wantonness had jerked a large, <del type="overstrike">heavy</del> iron grape shot, which fell <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> the thatched roof of the hut upon the floor near to Shipe <del type="overstrike">and</del> the <del type="overstrike">was</del> noise of the fall waked him &amp; jumping up he enquired where that came from — <name type="person">Looney</name> asked him if he had not heard the roar of the cannon — Shipe opened his eyes (Looney says) as large as billiard balls and declared he had slept so sound and had heard so many cannon <del type="overstrike">before</del>
+               <add place="supralinear">at Vera Cruz as well as this morning</add> that he did not awake until the shot fell near his head —</p>
+            <p>The citizens of this village have fled precipitately and left all the <unclear>cambrous</unclear> furniture of their huts — There is a small cathedral here with some rich and handsome ornaments — one image of the virgin large as life dressed in silk robes of blue &amp; yellow with earrings &amp; broaches of gold; holding ⁁ <add place="supralinear">the image of</add> are infant in her hands <del type="overstrike">which</del>
+               <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> the most natural <unclear>eposulation</unclear> of a sacred illustration we have yet seen was that of our <unclear>savior</unclear> in the <unclear>Sepulere</unclear>, which we saw in the grand church of Vera Cruz — There is upon a ⁁ <add place="supralinear">mountain</add> spur <del type="overstrike">of the</del> close to the bridge across the <choice>
+                  <orig>rio blanco</orig>
+                  <reg>Rio Blanco</reg>
+               </choice> a fort, grey with age the wooden works of which have rotted down or burned long since — It looks as if it had been in has times the castle <pb n="7" facs="sc093g.small.jpg"/>
+               <add place="top right corner">5</add> of some feudal chief, into which he could retire <del type="overstrike">raise</del> his draw bridge, reconnoiter <del type="overstrike">the</del> ⁁ <add place="supralinear">an</add> enemy &amp; fire upon them from the loop holes <del type="overstrike">of </del>&amp; embrasures of his castle, perfectly secure against all the world, unless by investment with siege artillery, which alone in time might batter down his thick stone walls — Swan, Portis, and Renfro reached camp <del type="overstrike">to-night</del> this evening having travelled <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> from Vera Cruz to-day with <choice>
+                  <orig>despatches</orig>
+                  <reg>dispatches</reg>
+               </choice> from <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> Scott to <name type="person">
+                  <choice>
+                     <abbr>Gen.</abbr>
+                     <expan>General</expan>
+                  </choice> Patterson</name> — a hazardous adventure which is plain from the fact that other <choice>
+                  <orig>despatches</orig>
+                  <reg>dispatches</reg>
+               </choice> with the same force have been cut off by the enemy — Swan reports our men at Vera Cruz as doing well —</p>
+            <p>
+               <date when="--04-13">April 13th</date> Our company were sent out to-day with four <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> for forage — We found <del type="overstrike">a large supply of</del>
+               <add place="supralinear">
+                  <del type="overstrike">quantity</del>
+               </add> some 600 bushels; which the Mexicans were engaged (just before we arrived at the place) in transporting upon mules to the Mexican camp — <del type="overstrike">Loaded</del> Our <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> were loaded (&amp; the quantity reported to the <choice>
+                  <abbr>Qr.</abbr>
+                  <expan>Quarter</expan>
+               </choice> Master who paid them at the rates of about $1.00 per bushel) meanwhile we made our dinner upon parched corn — returned safe to camp not having seen a Mexican soldier in our route — <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> we understood a body of 50 horsemen crossed the road one or two miles behind us — This evening orders were issued to the army to be ready ⁁ <add place="supralinear">with arms — 2 days supply of provisions &amp; water</add> by 3 o'clock in the morning, for an attack <del type="overstrike">by</del> upon the enemy by storming the heights — This Order was countermanded by <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Patterson (who being very sick &amp; confined to his bed, the plan of attack had been designed by <choice>
+                  <abbr>Genls.</abbr>
+                  <expan>Generals</expan>
+               </choice> Twiggs &amp; <name type="person">Pillow</name>) — And the assault determined to be delayed until the arrival of <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Scott About 9 o'clock at night quite a stir was made in our camp by the Mexicans firing as volley of musketry upon our picket guard (Dragoons) or rather firing in the direction of the guard for the cowardly scamps were afraid to approach near enough to do any mischief — or even to draw the fire from our pickets — They may consider this quite a bold venture in their system of warfare for they fight (as they call it) some great battles ⁁ <add place="supralinear">against each other</add> and sometimes from our side of the city of Mexico to the other for weeks without doing any mischief <del type="overstrike">&amp; this An and</del> It is said that at <name type="place">Palo Alto</name>, the Mexican Cavalry were ordered to <pb n="8" facs="sc093h.small.jpg"/> charge a part of our lines — They came galloping down to within about 2 ½ miles <del type="overstrike">of</del> and halted — Our men were drawn into a square to receive them, but never thought of firing <del type="overstrike">up</del> at such a distance — When <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Vega</name> was taken prisoner, in a conversation with <name type="person">
+                  <choice>
+                     <abbr>Majr.</abbr>
+                     <expan>Major</expan>
+                  </choice> Bliss</name>, he asked as if with some pride, what the <choice>
+                  <abbr>Majr.</abbr>
+                  <expan>Major</expan>
+               </choice> thought of the charge — which was as much as to say, <del type="overstrike">if</del> we would not such a movement by such a name. And indeed it is supposed they learned at <name type="place">
+                  <choice>
+                     <orig>Buene</orig>
+                     <reg>Buena</reg>
+                  </choice> Vista</name>, from <name type="person">
+                  <choice>
+                     <abbr>Col</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Humphrey Marshall</name> what we would call a charge.</p>
+            <p>
+               <date when="--04-14">April 14th</date> At day light half of the men were sent out with the beef contractor, to protect him, whilst collecting beef for the army — At 9 o'clock the others were ordered to ⁁ <add place="supralinear">the</add> saddle to bear <choice>
+                  <orig>despatches</orig>
+                  <reg>dispatches</reg>
+               </choice> to Gen. Scott — &amp; to take along with us the whole company — Receiving the <choice>
+                  <orig>despatches</orig>
+                  <reg>dispatches</reg>
+               </choice>, we passed the beef range where we were joined by the <choice>
+                  <abbr>detachmt.</abbr>
+                  <expan>detachment</expan>
+               </choice> first sent out &amp; without baggage or any encumbrance except our arms proceeded towards Vera Cruz — Near the National bridge we saw the Advance guard of Genl. Scotts escort, approaching — When they discovered us, They halted, and rode several times across the road <del type="overstrike">several times</del> as if watching us with much suspicion, then one <del type="overstrike">man</del> of them alone <del type="overstrike">galloped</del>
+               <add place="supralinear">rode</add> forward about 100 yards, halted, and after looking awhile, turned went back under whip&amp; spur and <del type="overstrike">al</del> proceeded with <del type="overstrike">the</del> his comrades to give an alarm of Mexicans approaching —<add place="supralinear">but <del type="overstrike">they</del> we adopted means of undeceiving <choice>
+                     <abbr>thru</abbr>
+                     <expan>through</expan>
+                  </choice>
+               </add>
+               <del type="overstrike">The company halted and <choice>
+                     <abbr>Capt C</abbr>
+                     <expan>Captain Caswell</expan>
+                  </choice> galloped forward and <choice>
+                     <orig>stoped</orig>
+                     <reg>stopped</reg>
+                  </choice> them <choice>
+                     <orig>enquiring</orig>
+                     <reg>inquiring</reg>
+                  </choice> if they could not distinguish us from the enemy — They said they could see we did not have the uniform of Dragoons &amp; that the Captain had on a red jacket from all which they took us to be the enemy.</del> At the National Bridge, we delivered our <choice>
+                  <orig>despatches</orig>
+                  <reg>dispatches</reg>
+               </choice> to <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Scott; who with his staff, admired the celerity of our movements — We were supplied with forage — <add place="supralinear">ordered to rest</add> rested two <del type="overstrike">orders</del> hours &amp; to follow the General which we did. At the first <choice>
+                  <orig>ranche</orig>
+                  <reg>ranch</reg>
+               </choice> we came to a company of Dragoons in guard of 20 <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> loading to the coral found there. They had been without water &amp; provisions during the day — We guarded the train until they watered their horses from a stream 1 ½ miles distant — This delay detained us until in the night, in getting in camp — <pb n="9" facs="sc093i.small.jpg"/>
+            </p>
+            <p>
+               <date when="--04-15">April 15th</date> Having performed hard service, we were allowed to rest our horses to-day — and they need such rest, for by the hard ride on <choice>
+                  <orig>yesturday</orig>
+                  <reg>yesterday</reg>
+               </choice> the backs of most of them <choice>
+                  <orig>ware</orig>
+                  <reg>were</reg>
+               </choice> hurt; and we have but scanty rations of forage for them. We lay about ⁁ <add place="supralinear">during the day</add> in the shade of the trees and of our hut; some of us bathing in a pool of water we found at us great distance from camp, in a deep gleen overhung by trees, shrubbery &amp; vines — into which the <choice>
+                  <orig>cl ⁁ ar</orig>
+                  <reg>clear</reg>
+               </choice> water of the stream poured <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> a channel in the rocky bed down a steep declivity: — We have been considerably annoyed ⁁ <add place="supralinear">in the day</add> by soldiers attempting to tear down our hut for fire wood and at night by their seeking <del type="overstrike">to</del> lodgings in our already crowded room — Our fellow came about bed time and <choice>
+                  <orig>enquired</orig>
+                  <reg>inquired</reg>
+               </choice> if there was <del type="overstrike">room</del> a place where he could sleep, some of us told him ⁁ <add place="supralinear">in jest</add> he could find accommodations, <del type="overstrike">accommodations</del> at <name type="place">Wolfingers tavern</name> which was next door — he understood the joke, and we heard him <choice>
+                  <orig>enquire</orig>
+                  <reg>inquire</reg>
+               </choice> at the open shed adjoining, for the landlord, he received an answer from several of the soldiers who were crowded under the shed — one ordered the ostler to take his horse — another directed the bar keeper to furnish him some refreshment, one told him he could sleep in the barn (a building not known in Mexico) at half price, another ordered <del type="overstrike">him</del> a servant to show the gentleman into <choice>
+                  <abbr>No.</abbr>
+                  <expan>Number</expan>
+               </choice> 10, on the third floor. But the poor fellow finally slept in the road, perhaps to dream of the comfortable accommodations ordered by our <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> to whom we had <choice>
+                  <orig>refered</orig>
+                  <reg>referred</reg>
+               </choice> him.</p>
+            <p>
+               <date when="--04-16">April 16th</date> We were mounted at 4 o'clock this morning to guard the beef contractor &amp; butchers, with about 8 or 10 infantry soldiers who went out to shoot the <unclear>beares</unclear> — Halted at a Ranch 8 miles from camp, and where we found some cattle, and soon after, the butchering commenced, two Mexicans <choice>
+                  <orig>shewed</orig>
+                  <reg>showed</reg>
+               </choice> themselves, in the road, unarmed — They were suspected as spies, but being unarmed were not molested — We kindled a fire in the ⁁ <add place="supralinear">upon the cement floor</add> large hall of ⁁ <add place="supralinear">a</add> castle in the <choice>
+                  <orig>ranche</orig>
+                  <reg>ranch</reg>
+               </choice>, which was furnished with tables as if prepared for a banqueting hall, and cooked some of the fresh beef for our breakfast — After which 5 or 6 of us proceeded into a deep valley ¼ miles distant to search for water, and found the coolest running water we have <del type="overstrike">found</del>
+               <add place="supralinear">yet</add> had in this country — After procuring a refreshing drink, <choice>
+                  <abbr>Capt. C</abbr>
+                  <expan>Captain Caswell</expan>
+               </choice>
+               <choice>
+                  <abbr>Lt.</abbr>
+                  <expan>Lieutenant</expan>
+               </choice> Bell &amp; <name type="person">Thomas Snoddy</name> rode along the narrow&amp; steep path which led to a broad <del type="overstrike">fine</del> cultivated valley below, whilst the other men returned to camp — At a turn in the path, a dark ugly Ranchero presented himself and raising his escopet took deliberate aim at the <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice> who was in front with his red jacket on, but fortunately the gun missed fire; — neither of us were prepared to return the fire, and such a thing as an attack upon <del type="overstrike">an</del> armed <del type="overstrike">for</del> Americans being so uncommon it was supposed that the Ranchero was sustained by a strong party — The <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice>
+               <choice>
+                  <abbr>Lt.</abbr>
+                  <expan>Lieutenant</expan>
+               </choice> &amp; Snoddy turned and galloped up the hill to the company — Not finding beef enough the butcher took two <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> and went on to the next <choice>
+                  <orig>Ranche</orig>
+                  <reg>Ranch</reg>
+               </choice> upon the road — H. Tipton, Heard, Cameron, and John MCall guarded these two <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice>, and soon after they left, as company of Dragoons with a train of <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice>, passed on to the same <choice>
+                  <orig>ranche</orig>
+                  <reg>ranch</reg>
+               </choice> for corn — The body of our company remained at the castle, with horses saddled and close to the door — Everything being quiet, we all by threes took a little sleep. As Tipton and his three comrades returned just in advance of the waggons — They were fired upon by a body of Mexicans, who had way laid them ⁁ <add place="supralinear">upon the hill side in view from our position</add> . Heard was slightly wounded in the elbow and a shot <del type="overstrike">lodged in</del>
+               <add place="supralinear">
+                  <del type="overstrike">broke</del>
+               </add>
+               <add place="supralinear">sealed</add>the stock of his gun ⁁ <add place="supralinear">a ball grazed Fortners horse and one was lodged in Cotners saddle.</add>— Our <del type="overstrike"/> 4 men returned the fire &amp; retreated but Tipton's gun snapped &amp; he halted within 25 yards of them <pb n="10" facs="sc093j.small.jpg"/>
+               <add place="top left corner">8</add> put on a fresh cap <del type="overstrike">r</del> knocked the powder into the tube and fired with as good aim so he could take — The beef contractor at the first alarm, dashed on in great <del type="overstrike">alarm</del>
+               <add place="supralinear">precipitation</add>, leaving his hat &amp; blanket. We heard the alarm and mounted in haste, the Mexicans had now <choice>
+                  <orig>shewed</orig>
+                  <reg>showed</reg>
+               </choice> a part of their force in the road and as we charged in full speed they fled into the thick chaperal — We dismounted <del type="overstrike">the</del> except <choice>
+                  <abbr>JL</abbr>
+                  <expan>James Lones</expan>
+               </choice> &amp; RB Roberson <del type="overstrike">and</del> Day and Portis who remained to protect the horses, <del type="overstrike">and</del> the rest of us, took the chaperal, and proceeded cautiously <choice>
+                  <orig>paralel withe</orig>
+                  <reg>parallel with</reg>
+               </choice> the road, until we came to the place where the Mexican had left the road — Not finding them we came into the road to remount and just at this time, the party with the horses were attacked <choice>
+                  <abbr>Jno.</abbr>
+                  <expan>John</expan>
+               </choice> Roberson when sitting upon his horse had discovered a <del type="overstrike">Mexican</del>
+               <add place="supralinear">man</add> in the chaperal, but least he might fire upon one of our own men (for it was precisely the place where MCarty had first gone into the chaperal) dismounted and and went upon a rise just outside the road — <del type="overstrike">The</del> It was a Mexican <del type="overstrike">and</del> who had concealed himself in the bushes, and at this time <del type="overstrike">fired</del> shot Roberson <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> the thigh with an ounce ball &amp; put a shot into his hand — As soon as he fired R. B. Roberson <choice>
+                  <orig>steped</orig>
+                  <reg>stepped</reg>
+               </choice>
+               <unclear>firiuly</unclear> forward and <del type="overstrike">took</del> ⁁ <add place="supralinear">shot his carbine without</add> good aim at the Mexican as he ran. Portis also had <del type="overstrike">two or three</del>
+               <add place="supralinear">a</add> shot either at him or his comrades. The report ⁁ <add place="supralinear">of the first gun</add> was heard by the company, and all ran to the rescue, shouting to the men to hold their ground — The <choice>
+                  <orig>waggons</orig>
+                  <reg>wagons</reg>
+               </choice> by this time had passed the ⁁ <add place="supralinear">first</add> place of attack, and the beef shooters ⁁ <add place="supralinear">on foot coming up</add>
+               <del type="overstrike">returning</del> just at this time, discovered a part of the enemy near the road, fired upon them and drove them back. We put Roberson into a <choice>
+                  <orig>waggon</orig>
+                  <reg>wagon</reg>
+               </choice> ⁁ <add place="supralinear">&amp; bound up his wounds</add> he suffered very much at first, the bone is fractured high up on the thigh, but he was brought in upon a litter <del type="overstrike">and</del> a bed spread upon the floor of our hut, and medical aid immediately at hand — he bears the pain with a great fortitude — By the bye we brought our beef to camp <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> we had some trouble to get our share of it from the commissary — <name type="person">
+                  <choice>
+                     <abbr>Gen</abbr>
+                     <expan>General</expan>
+                  </choice> Worth</name> with his Division arrived in camp during the night —</p>
+            <p>
+               <date when="--04-17">April 17th</date> Reconnoitering ⁁ <add place="supralinear">&amp; working</add> parties have been constantly moving around the enemies works — The Mexican flag has been hoisted this morning upon ⁁ <add place="supralinear">a fort on the right of their line of fortification on</add> a height, in view of our whole camp — We were sent out this evening with staff &amp; Engineer officers as ⁁ <add place="supralinear">a</add> guard — And had a view of the enemys line and position, being near enough to see their movements of individuals; they were all under arms, and appeared to be in expectation every movement of an attack — <del type="overstrike">Upon</del>
+               <add place="supralinear">Around</add> the other end of the line <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs with his Division has been ⁁ <add place="supralinear">Cutting out a road and</add> fighting them all day — by spells — and has succeeded in taking one height which enable to pass their left flank and prepare for <choice>
+                  <orig>assiling</orig>
+                  <reg>assailing</reg>
+               </choice> them in rear upon the main road — at one time <name type="person">
+                  <choice>
+                     <abbr>Majr.</abbr>
+                     <expan>Major</expan>
+                  </choice> Childs</name> with 18 men carried the main mountain height which had been left unguarded but was compelled to retire for want of support. <del type="overstrike">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Worth arrived with his Division to-day.</del> A company of Dragoons and a company of Infantry were sent out to-day as guard of our beef contractor. They were attacked by the same body of Rancheros, with whom we had a fight on <choice>
+                  <orig>yesturday</orig>
+                  <reg>yesterday</reg>
+               </choice>, killing one man and wounding two others. They came off without returning their fire, or <choice>
+                  <orig>assiling</orig>
+                  <reg>assailing</reg>
+               </choice> them in their fortress having their dead man on the field ⁁ <add place="supralinear">&amp; without their <unclear>bear.</unclear>
+               </add>
+               <pb n="11" facs="sc093k.small.jpg"/>
+            </p>
+            <p>Sunday <date when="--04-18">April 18th</date>. In obedience to orders, we mounted at 6 o'clock having had an early breakfast and fed and watered our horses. our arms were in order, our horse equipments all snugly fitted on. We formed our company as the <sic>the</sic> several regiments of the Brigade formed their lines — We <del type="overstrike">U</del> knew we were going into a battle ⁁ <add place="supralinear">with an enemy</add> who by reason of their strong position must necessarily make a stand; and many ⁁ <add place="supralinear">of our comrades</add> who were now standing under arms, <del type="overstrike">must</del> would never live <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> the day; we thought of <add place="supralinear">the</add> character of our State and county, of our individual character, and all resolved rather to die upon the field than discredit either — Our company marched at the head of the column, until we ⁁ <add place="supralinear">left the <del type="overstrike">main</del> road &amp;</add> commenced the escent of the eminence upon which the enemy was in position, where we were to make the attack — There were only twenty of us including the Captain &amp; 1st Lieutenant; of the whole Brigade who were mounted — We were ordered to follow in the rear of the column ⁁ <add place="supralinear">from their foot of the hill</add> that the clatter of our horses <choice>
+                  <orig>jest</orig>
+                  <reg>just</reg>
+               </choice> might not notify the Mexicans of the silent approach designed <del type="overstrike">and</del> for the same reason the <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Staff and field officers all dismounted — Slowly, silently and with solemn thoughts, but with firmness and determination, we moved along by one of the many paths which <del type="overstrike">mean</del> traversed the thick chaperal upon the declivity — The medical officers ⁁ <add place="supralinear">with their cases of instruments, bandages, <del type="overstrike">&amp;</del> other implements &amp; attendants</add> took their position, as they supposed beyond the reach of the enemys shot, from which however they soon retreated. We followed on the rear of the column. Before the storming party (consisting of the 2nd. Tennessee ⁁ <add place="supralinear">on the right, with the 2nd <choice>
+                     <abbr>Penn.</abbr>
+                     <expan>Pennsylvania</expan>
+                  </choice> as a reserve</add> &amp; 1st <name type="place">Pennsylvania</name>
+               <choice>
+                  <abbr>Regimts.</abbr>
+                  <expan>Regiments</expan>
+               </choice> on the left <del type="overstrike">)</del> with the 1st <choice>
+                  <abbr>Ten</abbr>
+                  <expan>Tennessee</expan>
+               </choice> as a reserve) had attained their respective positions in line of battle; the enemy opened their fire, with 17 Cannon bearing upon us, and 1500 escopets and muskets — <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Haskells</name>
+               <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> (2nd <choice>
+                  <abbr>Ten</abbr>
+                  <expan>Tennessee</expan>
+               </choice>)  ⁁ <add place="supralinear">dashing from the cover of the Chaperal</add> made the charge in the face of all this armament, <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> an open space in front of the breast works but covered with brush in many places waist deep, for the purpose of impeding a charge — The gallantry and <pb n="12" facs="sc093l.small.jpg"/>
+               <add place="top left corner">10</add>
+               <del type="overstrike">indeed</del> the desperation of this attempt, with the immense loss in killed and wounded ⁁ <add place="supralinear">the military</add>
+               <del type="overstrike">the</del>
+               <add place="supralinear">
+                  <del type="overstrike">our</del>
+               </add> history of our country will record, and fame display the names of those who fought and fell. Our Company had gone beyond the point of prudence, <choice>
+                  <abbr>tho</abbr>
+                  <expan>though</expan>
+               </choice> we <choice>
+                  <orig>prefered</orig>
+                  <reg>preferred</reg>
+               </choice> going beyond rather than halting on this side — <del type="overstrike">The</del> Balls fall thick around— us, ⁁ <add place="supralinear">and soldiers fell behind us as well as in our front,</add> but fortunately we escaped unhurt — Every moment amidst the roar of arms, we expected to receive notice that the enemy's works were carried, when we proposed to ride <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice>, and fall upon them with our sabres — But instead of receiving such notice ⁁ <add place="supralinear">our forces were compelled to retire from before a position which with the soldiers who sustained it, might have been maintained against <unclear>some</unclear> men.</add> men all bloody from the wounds received, came staggering along the path <del type="overstrike">bore</del> supported by their comrades, others <choice>
+                  <orig>etirely</orig>
+                  <reg>entirely</reg>
+               </choice> disabled and dripping with blood were <choice>
+                  <orig>borne</orig>
+                  <reg>born</reg>
+               </choice> along towards the quarters of the Surgeons and shame to say some cowards came running ⁁ <add place="supralinear">in great panic</add> whom we tried to rally and many of them we did halt and return to ⁁ <add place="supralinear">their</add> several companies — whilst others ran hastily past toward our camp but few of these ⁁ <add place="supralinear">we are proud to say</add> we <choice>
+                  <orig>Tennesseeans</orig>
+                  <reg>Tennesseans</reg>
+               </choice> — Then we commenced our labors of the day — Carrying orders, <choice>
+                  <orig>despatched</orig>
+                  <reg>dispatched</reg>
+               </choice> and intelligence from and between the officers and different corps and between each wing of the army — transporting the wounded ⁁ <add place="supralinear">to the hospital</add> and conveying water to those who were almost famished for its want — In <del type="overstrike">wan</del> this service ⁁ <add place="supralinear">several of us</add>
+               <del type="overstrike">we</del> were at different times misled by the numerous paths, and galloped suddenly within point blank ⁁ <add place="supralinear">musket</add> shot of the enemy's lines — who could have easily cut us off, but they had suffered so severely by the attack of <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs' Division that they <del type="overstrike">were</del> had now <hi rend="different hand, different ink">⁁ <add place="supralinear">
+                     <unclear>twisted</unclear> flags of truce &amp;</add>
+               </hi> proposed to <del type="overstrike">propose</del> to capitulate, and the fight had every where ceased. When they made their proposition — <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Scott replied they must surrender unconditionally, and that too within 15 minutes which they acceded to — And immediately upon receiving this intelligence, we escorted <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Pillow</name> round the road to the breast works in the road, where we met the prisoners whose arms were <del type="overstrike">surrendered</del> thrown into a  heap and broke and burned — Six <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> officers taken prisoners among them <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> La Vega</name>, <name type="person">
+                  <choice>
+                     <abbr>Genl</abbr>
+                     <expan>General</expan>
+                  </choice> Perryn</name>
+               <pb n="13" facs="sc093m.small.jpg"/>
+               <add place="top right corner">11</add>
+            </p>
+            <p>6000 prisoners of war were guarded into camp. <name type="person">Santa Anna</name> fled in great precipitation leaving his private carriage, 20,000 dollars <hi rend="different hand, different ink">⁁ <add place="supralinear">in silver coin</add>
+               </hi> and his wooden leg. how many soldiers escaped we do not know, but their number when we went into action is said to have been 15000 —</p>
+            <p>When we returned to camp we found our brother and comrade <name type="person">John L. Roberson</name>, whom we had left this morning as we all supposed, in a fair way to recover from his wounds; now evidently beyond the hopes of recovery — he was <del type="overstrike">ho</del> calm, and in but little pain, made no complaint and soon and suddenly died, with the fortitude of a man, <del type="overstrike">and</del> having received the wound of which he died, fighting like a gallant soldier the battles of his country.</p>
+            <p>
+               <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs' Division commenced the action upon the enemy's left flank, <del type="overstrike">between</del>½ past seven o'clock; he opened a battery, from the height he gained on <choice>
+                  <orig>yesturday</orig>
+                  <reg>yesterday</reg>
+               </choice>, and stormed the castle height; <del type="overstrike">whilst</del>
+               <add place="supralinear">with</add> the Rifle Regiment, the 2nd. 3rd. &amp; 7th. Infantry — The height was so elevated that their cannon could not be made to bear upon our troops in ascending the hill — The two columns which stormed the heights covered about one half the face of the hill, which was almost a perfect <del type="overstrike">hill</del> cone; They marched up within about 30 yards of the enemy's breast works, formed in line of battle, breathed a moment — Then charged in order <add place="supralinear">the enemy remained</add> until the powder burned their faces as our soldiers fired — And <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Vasques</name> who was killed here had his face powder burned and fell by his cannon. <name type="person">
+                  <choice>
+                     <abbr>Genl.</abbr>
+                     <expan>General</expan>
+                  </choice> Shields</name> Brigade, which acted in concert with  <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs <del type="overstrike">bore</del>
+               <add place="supralinear">marched</add> to the right <add place="supralinear">&amp; rear</add> of the castle hill ⁁ <add place="supralinear">took a battery of small <sic>small</sic> cannons</add>
+               <del type="overstrike">in order to take a <unclear>pear</unclear>
+               </del> upon the road <del type="overstrike">in order to</del>
+               <add place="supralinear">that killing men of <unclear>me</unclear> &amp; taking position</add> intercepted the army and baggage train when they <del type="overstrike">should</del>
+               <add place="supralinear">attempted to</add> retreat. This they effected admirably for the <name type="place">Illinois</name> troops <unclear>routed</unclear> the division that was sent to oppose them and formed immediately upon the road and <del type="overstrike">to</del> so slaughtered the drivers &amp; mules of the Mexican train that they stopped the whole of it — but just as they were doing this the Sancers that were retreating with Santa Anna formed &amp; charged down upon them but they were being in the thick <choice>
+                  <orig>chaporal</orig>
+                  <reg>chaparral</reg>
+               </choice> by road side ⁁ <add place="supralinear">&amp;</add> gave them such a tremendous fire that they (vonased)  left and precipitately fled, and were <unclear>nar ⁁ <add place="supralinear">
+                     <del type="overstrike">ai??</del>
+                  </add> a jain</unclear> seen upon that field of battle. By this time ⁁ <add place="supralinear">the</add> enemy had surrendered and the Dragoons were ordered to follow those that had fled and they <unclear>pursued</unclear>
+               <del type="overstrike">Santa Anna</del>
+               <add place="supralinear">the <unclear>saneer</unclear>
+               </add> so hotly that they  <add place="supralinear">
+                  <del type="overstrike">killed</del> overtook and killed about 20 of their number</add>
+               <del type="overstrike">is said to have left his <unclear/> &amp; fled upon a <unclear>tracklanale</unclear> &amp; that he lost his wooden leg which some of the dragoons found and brought back to our camp at Rio Blanch</del> — But just as <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Shields at the head of his brigade had so effectually &amp; gallantly completed the toast to him assigned he was wounded (and supposed mortal) and fell, but should he die his name will live while the history of our country is extant for, these are registered the many of the sound &amp; brave — <pb n="14" facs="sc093n.small.jpg"/>
+               <add place="top left corner">12</add>
+            </p>
+            <p>
+               <date when="--04-19">April 19th</date>
+               <del type="overstrike">To-day</del> Our first duty, was the burial of our deceased friend <choice>
+                  <abbr>Jno.</abbr>
+                  <expan>John</expan>
+               </choice> L. Roberson a rude coffin (which can seldom be obtained on such occasions) by much industry was <del type="overstrike">obtained</del>, <add place="supralinear">procured</add> in which his <del type="overstrike">his</del> body was placed — The company flag spread over the coffin — At the appointed time, our funeral procession moved from our quarters in the following order — 1st Pennsylvania band <del type="overstrike">of</del> (music, the dead march) 2nd An armed escort of soldiers under command of <name type="person">
+                  <choice>
+                     <abbr>Capt.</abbr>
+                     <expan>Captain</expan>
+                  </choice> Foster</name>. ⁁ <add place="supralinear">3d The Corpse</add> 4th Officers of the company with the brother of the deceased — 5th The horse of the deceased caparisoned, with <del type="overstrike">ordinen</del> the usual equipments, and bearing the arms, boots and spurs, of his late rider. 6th The members of the company — 7th The friends and acquaintances <add place="supralinear">generally of the deceased</add> among the <choice>
+                  <abbr>Tenn.</abbr>
+                  <expan>Tennessee</expan>
+               </choice> volunteers. We deposited him in a grave at the foot of the hill below the cathedral, and over him, we fired the customary military salute, shed our heart felt tears in <del type="overstrike">silent</del> sorrow — and returned to our military duties. Most of us <del type="overstrike">took</del> visited the battle field to-day — The mangled bodies of our comrades lay thick in front of the breast works and within their nearest forts, <choice>
+                  <abbr>strip'd</abbr>
+                  <expan>stripped</expan>
+               </choice> &amp; robbed of  <sic>of</sic> all that was of any value about them — <del type="overstrike">We</del>
+               <add place="supralinear">The 2nd Tennessee <choice>
+                     <abbr>Regt</abbr>
+                     <expan>Regiment</expan>
+                  </choice>
+               </add> had made the charge without firing a gun, intending to reserve their fire until they reached he walls — consequently there <del type="overstrike">was</del> were none of the enemy killed (except one man who was killed by some one who fired against orders — But upon the heights where <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Twiggs had charge the dead bodies of the Mexicans lay thick and in piles — And to-day they were burying their dead whom they treated with <choice>
+                  <orig>liss</orig>
+                  <reg>less</reg>
+               </choice> of the feelings of humanity than we would have done a butchered hog tying them by the feet and dragging them down the hill. A French surgeon was seen at very skillful work among the wounded of both armies — we were told he had  joined the Mexican army with the proviso that he should be allowed to attend the sick or wounded of our Army as well as our enemies — And had performed several "handsome operations" as our surgeons declared in amputating the limbs of some of our wounded soldiers —<pb n="15" facs="sc093o.small.jpg"/>
+               <add place="top right corner">13</add>
+            </p>
+            <p>
+               <date when="--04-20">April 20th</date> Moved off at the head of the Brigade at an early hour — Marched passed the enemy &amp; works, and having a full view of their <choice>
+                  <orig>stregth</orig>
+                  <reg>strength</reg>
+               </choice> — which struck us as being powerful and strong as nature and the art of engineers could conceive as we passed the base of the castle hill, And for several miles the stench of the dead Mexicans, still unburied and the dead mules shot down, was almost <choice>
+                  <orig>interable</orig>
+                  <reg>enterable</reg>
+               </choice>; and occasionally during all the day we passed dead ⁁ <add place="supralinear">Mexican</add> men and horses — Our camp for the night was at Santa Anna's favorite hacienda <name type="place">En El <choice>
+                     <orig>Cierra</orig>
+                     <reg>Sierra</reg>
+                  </choice>
+               </name>. A fine mansion situated in the mountains in a yard containing a mile square of cleared grassland, commanding a most beautiful view of mountain and valley — but destitute of <del type="overstrike">the</del> cultivated fields or surrounding forests — The doors were opened, and the company <del type="overstrike">with</del> visited the various apartments elegantly furnished with marble tables, with soft sofas, large and bright mirrors, with rich paintings, and carpeted floors — We gratified our curiosity by examining all — even <del type="overstrike">the</del> ⁁ <add place="supralinear">
+                  <choice>
+                     <orig>tastily</orig>
+                     <reg>tastefully</reg>
+                  </choice> furnished</add> wardrobe supplied mostly with the military dress, of the warrior owner of these halls — We found that <choice>
+                  <abbr>Gen.</abbr>
+                  <expan>General</expan>
+               </choice> Scott had posted upon the walls, and upon the door of the cathedral, his "Safeguard," making it an offense <del type="overstrike">to</del>  punishable by death to do violence or injury to the property the persons not soldiers, or family (but not including Santa Anna <add place="supralinear">himself</add> ) of the hacienda — We took our quarters at the porters lodge man the great gate, leading <del type="overstrike">by</del>
+               <choice>
+                  <abbr>thro</abbr>
+                  <expan>through</expan>
+               </choice> the stone wall, by a paved and serpentine walk to the Mansion. — (16 miles)</p>
+            <p>
+               <date when="--04-21">April 21st</date> We were late getting our breakfast ready out of the materials on hand, especially <del type="overstrike">to</del>
+               <add place="supralinear">in</add> preparing our flour — And were hurried off, by observing the column in motion — The duty assigned as of acting as front guard was quite troublesome in checking the straggling soldiers, who were eager to press forward — We marched ⁁ <add place="supralinear">under arms</add> in order ⁁ <add place="supralinear">with music</add>
+               <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> the city of <name type="place">Jalapa</name>, <del type="overstrike">the</del> And here we have <del type="overstrike">seen</del>
+               <add place="supralinear">met with</add> the greatest and richest city ⁁ <add place="supralinear">yet <del type="overstrike">reached</del> seen by us</add> the <del type="overstrike">most beautiful</del>
+               <add place="supralinear">prettiest</add> women, and the most beautiful <add place="supralinear">mountain</add> scenery, whose declivity is dotted with cultivated fields — <del type="overstrike">we</del> our hearts were glad to see ⁁ <add place="supralinear">for the first time in many months</add> Some of the growth of our country ⁁ <add place="supralinear">the Sycamore</add> the peach tree, the elder and the blackberry — And we looked more at an old log cabin though it did not have the "garments and <unclear>nanment??</unclear> skins" of our human cabins <pb n="16" facs="sc093p.small.jpg"/>
+               <add place="top left page">14</add> in the suburbs of the city, than we did at the palaces and castles of the city — <del type="overstrike">The</del> We made no halt in the city, but march out upon the <del type="overstrike">paved</del> road to Mexico, about 4 miles, beyond and entered upon a grassy field, took our quarters under a clump of trees upon the margin of a cemented aqueduct, <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> which the ⁁ <add place="supralinear">cold</add> water runs rapidly to a cotton manufactory just below; made fast our horses, made our supper out of <del type="overstrike">the</del>
+               <add place="supralinear">the remnants of</add> our breakfast <del type="overstrike">having</del> the supplies of our Brigade being exhausted — We rolled up in our blankets and slept, but the bright air was cold and chilly — and we have not yet found that climate, where it is never either too warm or too cold for comfort, so this is said to be; unless a man has an imagination of such vigor that in the hear of the day he might cool himself by looking to the peaks of <unclear>Orisjava</unclear> or the <name type="place">Cofre de Perote</name>, both of which we have seen <choice>
+                  <orig>to day</orig>
+                  <reg>today</reg>
+               </choice> and have been so near their base, as to raise our heads &amp; look into the clouds to see their lofty peaks —</p>
+            <p>
+               <date when="--04-22">22nd</date> No other duty assigned us than to send out 8 men to assist in arresting the <del type="overstrike">men</del>
+               <add place="supralinear">soldiers</add> who contrary to orders have been hunting and killing beef upon their own account — Some of us visited the cotton factory near us, owned it is said by the God-father of Santa Anna — The buildings are excellent, and extensive but the machinery is ⁁ <add place="supralinear">not</add> of the late improvement; it was made at <name type="place">Patterson New Jersey</name> ⁁ <add place="supralinear">18</add> And is superintended by an American — We have received news to-day that <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice> Worth has arrived at <name type="place">Perote</name>, where he met a <choice>
+                  <abbr>Lieunt. Col.</abbr>
+                  <expan>Lieutenant Colonel</expan>
+               </choice> of the Mexican Army who formally <choice>
+                  <orig>surrended</orig>
+                  <reg>surrendered</reg>
+               </choice> the 50 cannon in the castle with all its other munitions of war — <del type="overstrike">This looks as if the war was being wound up to a close —</del>
+            </p>
+            <p>
+               <date when="--04-23">23d</date> Some of us visited the city to-day, while others reclined upon the green turf of our quarters — Two companies ⁁ <add place="supralinear">of our Regiment</add> (<name type="person">Lacy's &amp; Wayne's</name>) arrived to-day.</p>
+            <p>
+               <date when="--04-24">24th</date> By turns we visit the town, <del type="overstrike">and The</del> ⁁ <add place="supralinear">There appear to be several</add> races of people, <del type="overstrike">a</del> in &amp; about Jalapa — We find some who in their appearance, manners &amp; dress, seem to be of a superior order to the mass of Mexicans of the North. There is too a middle cast very much like those we have general seen upon our march — And again, there is a still lower class of a degraded race, who <del type="overstrike">are</del> resemble our savage Indians, in their dark copper complexion, and scanty dress — We saw a Spanish looking gentleman to-day, prancing <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> the streets of the city, upon a  <sic>a</sic> handsome ⁁ <add place="supralinear">grey</add> mustang poney, caparisoned with a saddle almost covered with massive silver — with embossed leather covering the horses <unclear>correp</unclear> , down to his hocks, and fringed around with jingling metals.</p>
+            <p>
+               <date when="--04-25">25th</date> The Mexicans are bringing to our camps a <del type="overstrike">good</del> plentiful supply of vegetables ⁁ <add place="supralinear">poultry</add> and choice fruits — for most of these things they ask enormous prices — Turkeys $ 3 — Chickens 75 ¢ Eggs 2 ½ ¢ Pine Apples 12 ½ to 25 ¢ ⁁ <add place="supralinear">&amp; most excellent they are</add> — Oranges 2 ½ ¢ — Banana's 2 ¢ — Plantarus 1 ¢ — Those who have money enjoy these things especially the fruits but <del type="overstrike">the</del> it has been so long since our last pay day, that we are not only getting scarce of money, <del type="overstrike">and</del> but our clothes are pretty well worn out — And we do not now deny that we are ragged volunteers The prices asked for clothing are about three times the amount of those at home — And being beyond the proportion of our pay — <del type="overstrike">We</del> ⁁ <add place="supralinear">Some one like the <unclear>for</unclear>
+                  <del type="overstrike">with his</del> who was curtailed by a trap</add> have in jest proposed that each man should tear his clothes, in uniform with the rent in his own dispensable — but the other is getting rather to <unclear>cool </unclear>
+               <pb n="17" facs="sc093q.small.jpg"/>
+               <add place="top right corner">15</add> especially by night — otherwise the temperature is as pleasant as could be desired —</p>
+            <p>
+               <date when="--04-26">26th</date> We are getting no forage for our horses and they are entirely dependant upon the pasturage of the field in which we are encamped ⁁ <add place="supralinear">for their support</add> — but it is ⁁ <add place="supralinear">an</add> excellent pasture. Large quantities of corn is being brought in by the Mexicans &amp; purchased by our forage wasters — <del type="overstrike">it is probable</del>
+               <choice>
+                  <abbr>Gen</abbr>
+                  <expan>General</expan>
+               </choice> Scott designs this supply for his march to the city of Mexico — On account of our horses we remain, generally at our quarters — The diligence from Mexico came to-day and brings intelligence that there are no troops either at the city or <del type="overstrike">between this p</del> upon the route — Our officers say that according to a late <del type="overstrike">calculation</del> report of the Mexican Secretary of War compared with the result of our invasion, we have captured all the ordinance of the nation except six canon. They must be pretty well wound up, <del type="overstrike">as for us the</del>
+               <add place="supralinear">in the</add> further persecution of a warlike resistance to our advance upon their capitol.</p>
+            <p>
+               <date when="--04-27">27th</date> No military duty — and we spend our time, beneath the shadow ⁁ <add place="supralinear">of</add> the trees above our 'stakes' — We have not tents; having surrendered the fun with which we started to the wounded of <name type="person">
+                  <choice>
+                     <abbr>Col.</abbr>
+                     <expan>Colonel</expan>
+                  </choice> Haskell's</name> (2nd <choice>
+                  <abbr>Regt</abbr>
+                  <expan>Regiment</expan>
+               </choice>) and have never stretched one since we left Vera Cruz — But last night we felt the need and use of a comfortable tent; for during the night, a steady <del type="overstrike">and apparently a steady constant</del> rain commenced, and continued until nearly day — all of us were rolled up in our <del type="overstrike">bl</del> several blankets, which before the rain ceased, were thoroughly soaked, <del type="overstrike">and many</del>
+               <add place="supralinear">&amp; those</add> of us were almost afloat, who occupied positions, <del type="overstrike">in</del>
+               <add place="supralinear">from</add> which the water would not run off — <del type="overstrike">In the latter part of the night</del> About 30 steps from our quarters, there is a precipice, from the ravine at the bottom grow tall trees, whose tops just peer above the brow <del type="overstrike">of the precipice</del> — This has been <del type="overstrike">th</del> a fatal place to sundry jacks and ferrets which have infested our camps, by <del type="overstrike">destroying our</del> stealing the provender from our horses, and even making encroachments upon our ⁁ <add place="supralinear">unguarded</add> provisions; one company of the 1st. <choice>
+                  <abbr>Ten Regt.</abbr>
+                  <expan>Tennessee Regiment</expan>
+               </choice> were so unfortunate a few nights past, as to have not only t—heir barrel of crackers destroyed but all their sugar eaten up, and their coffee tramped in the dirt by these animals, which have been mostly imported within our lines, by the wearied soldiers on the marched who packed than with their knapsacks, guns <choice>
+                  <abbr>&amp; c</abbr>
+                  <expan>et cetera</expan>
+               </choice> &amp; in some instances by riding them — Two or three of the men of this company who were so encroached upon and deprived of their breakfast; commenced <del type="overstrike">the</del> retaliation upon the animals by casting them over this precipice, and from the fall none of them escaped a sudden <pb n="18" facs="sc093r.small.jpg"/>
+               <add place="top left corner">16</add>
+            </p>
+            <p>This retaliation was continued, and now ⁁ <add place="supralinear">in</add> this gloomy hollow ⁁ <add place="supralinear">there</add> is <del type="overstrike">the grave</del>
+               <add place="supralinear">a heap</add> of <del type="overstrike">many</del> jacks and jennets, thus destroyed. In the late hours of last night, we heard the shout of some one in distress down deep in this ravine — he said had fallen over the precipice, and more fortunate than the jacks had escaped with life, but had received several bruises — he refused to tell his name, and was there upon thrown a burning brand, to light his way, and unfeelingly recommended to ride up one of the jacks below — he <del type="overstrike">was</del> found his way down the glen and back to camps, and at the morning dress parade, and officer of our <choice>
+                  <orig>neighbours</orig>
+                  <reg>neighbors</reg>
+               </choice> The 1st Pennsylvania <choice>
+                  <abbr>Regt</abbr>
+                  <expan>Regiment</expan>
+               </choice> had his arm in a sling, and thus disclosed the person who in the night had taken either a lovers leap or who had <del type="overstrike">taken a</del> missed the step in his <add place="supralinear">dark &amp; perhaps necessitous</add> perambulation —</p>
+            <p>
+               <date when="--04-28">28th</date> The rain continues, and we are apprehensive that the season has commenced, wherein we are told the sun does not appear for many weeks together — We sit around our camp fire, with our blankets over our shoulders to protect us from the rain and ever and arrow, fork out a piece of boiled beef, from our large camp kettle, which is constantly boiling upon the fire — This indulgence has sent several of our men to the Surgeon for a dose of <unclear>landamun</unclear> and camphor; whilst two or three others require the use of quinine to check the chills which we are surprised to find in this high and healthy region. It is however hoped they will have but short endurance; and that soon we shall all be stout and hearty —</p>
+            <p>
+               <date when="--04-29">29th</date> Our <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> is called upon for a force of 100 men to guard a train which starts back for Vera Cruz to-day — We were apprehensive of being <del type="overstrike">call</del> sent upon this service and presented  to the Colonel many reasons in a long argument why we should not — because we decidedly <choice>
+                  <orig>prefered</orig>
+                  <reg>preferred</reg>
+               </choice> to remain here, to avoid ⁁ <add place="supralinear">the</add> sickness we fear of Vera Cruz, and for the benefit of our horses, — Three other companies of the <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> (<name type="person">Marshall, Newman, &amp; Lacys</name>) were selected and sent back with the train, with orders to return immediately — and with them we expect the balance of our company and of our Regiment, who are at Vera Cruz — Now: speculations and conjectures are rife as to the time of our discharge and how we shall in the mean time be employed — The prospect is that we shall be retained until the full expiration of our term of enlistment; whereas we had thought we would be allowed time to return to our homes before the expiration of our term — But how far can we march before the <date when="--06-10">tenth of June</date>? Can we reach the halls of the Monte <unclear>Zennas</unclear>? — Are questions often asked, as well as whether we shall ⁁ <add place="supralinear">fight again or not.</add>
+               <pb n="19" facs="sc093s.small.jpg"/>
+               <add place="top right corner">17</add>
+            </p>
+            <p>
+               <date when="--04-30">April 30th</date> This being the muster day prescribed by general regulations — A mustering officer (<name type="person">
+                  <choice>
+                     <abbr>Lt.</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice> Rains</name>) attended, and entered upon the duties supposed to have been assigned him; The <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> and <choice>
+                  <abbr>Majr.</abbr>
+                  <expan>Major</expan>
+               </choice> were both sick and unable for duty — The command of the <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> was turned over to <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice> Caswell, who appointed <name type="person">Charles Stone</name> acting Adjutant — By reference to an order issued from General Lead quarters, it was ascertained that <name type="person">
+                  <choice>
+                     <abbr>Lt.</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice> Hammands</name>, was the proper mustering officer; — being late in the day — wet and rainy &amp; the horses out on pasture — the muster was <choice>
+                  <orig>defered</orig>
+                  <reg>deferred</reg>
+               </choice> until to-morrow morning 9 o'clock —</p>
+            <p>
+               <date when="--05-01">May 1st</date> The muster, kept us engaged pretty much during the day. We presented 2 officers — 4 now commissioned officers 2 musicians and 15 privates (one of whom <name type="person">Cobb</name>, kept in quarters to avoid a chill) All passed muster with their arms, and horses. — By some attention full rations of corn was obtained for our horses. <name type="person">
+                  <choice>
+                     <abbr>Lt.</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice> Donally</name> was appointed Quarter Master for the <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> temporarily —</p>
+            <p>
+               <date when="--05-02">May 2nd</date> We are notified to be in readiness to march towards the city of Mexico, in a few days; what opposition we shall encounter is entirely a mystery — As yet we have heard of no organized force — but that <choice>
+                  <orig>Gurilla</orig>
+                  <reg>Guerilla</reg>
+               </choice> bands are being prepared to <choice>
+                  <orig>harass</orig>
+                  <reg>harrass</reg>
+               </choice> our front &amp; rear — Already several attacks have been made upon our trains and <choice>
+                  <orig>despatch</orig>
+                  <reg>dispatch</reg>
+               </choice> bearers between this place and Vera Cruz — and to-day, a volunteer of the <name type="place">Illinois</name> Regiment was killed near camp. The rain falls every day — and there can be no doubt but that the rainy season has commenced — Generally in the morning the peak of Perote and the bright top of <name type="place">Orizaba</name>, laughs in the brightness ⁁ <add place="supralinear">&amp; splendor</add> of a bright beaming sun, over the wide <choice>
+                  <orig>lanscape</orig>
+                  <reg>landscape</reg>
+               </choice> between us, over the city villages, and cultivated fields, which remind us of the accounts given of <del type="overstrike">the</del>
+               <add place="supralinear">Alpine</add>
+               <choice>
+                  <orig>vinyards</orig>
+                  <reg>vineyards</reg>
+               </choice>
+               <del type="overstrike">of</del>; in the afternoon clouds gather and darken the sky above, and then a shower like the gentle showers, which bring forth and refreshen ⁁ <add place="supralinear">the spring</add> vegetation of our own county — And oh! in the listless, dreary hours of our present life, how ardently do we desire to see again our friends and homes — The time has arrived when we expected to have our faces set ⁁ <add place="supralinear">and our daily marches leading us</add> in that direction —</p>
+            <p>
+               <date when="--05-03">May 3rd</date> A heavy rain in the afternoon, to which some of us were fully exposed — Some person had sold Fortners horse to a <choice>
+                  <abbr>Qr.</abbr>
+                  <expan>Quarter</expan>
+               </choice> Master for the Dragoons who claimed him — And to establish Fortners right of property, <del type="overstrike">took</del>
+               <add place="supralinear">keep</add> several of us riding backwards and forwards <choice>
+                  <abbr>thro'</abbr>
+                  <expan>through</expan>
+               </choice> the rain — Again an order was received for a Squadron of the <choice>
+                  <abbr>Ten.</abbr>
+                  <expan>Tennessee</expan>
+               </choice> Cavalry, to march to-morrow towards <name type="place">Puebla</name>— We were selected to compose a part of that Squadron — and late in the evening commenced asperations, in procuring rations &amp; forage <del type="overstrike">a</del> There was a distribution of the captured Mexican clothing — Many of the men have rigged themselves out in <del type="overstrike">the</del> motley &amp; fantastic ill fitting uniforms — it is however of such coarse &amp; inferior quality that much of it lies <del type="overstrike">neglected</del> scattered uncared for over the ground of the encampment. <pb n="20" facs="sc093t.small.jpg"/>
+               <add place="top left corner">18</add>
+            </p>
+            <p>
+               <date when="--05-04">May 4th</date> A hasty and an early breakfast was <choice>
+                  <orig>despatched</orig>
+                  <reg>dispatched</reg>
+               </choice> our saddlebags packed — our blankets gathered up Our horses all saddled — A <choice>
+                  <orig>waggoner</orig>
+                  <reg>wagoner</reg>
+               </choice> reported himself to transport our cooking utensils And all were ready to take up the line of march for  ⁁ <name type="place">
+                  <add place="supralinear">"The</add> Halls of the Montezumas"</name> — when the order to march was countermanded and with the order came the information that we would march no farther, but return home from this place —<pb n="21" facs="sc093u.small.jpg"/>
+            </p>
+            <p>
+               <add place="above text">Incidents</add>
+            </p>
+            <p>At the capitulation which preceded the surrender of the Mexican army at <unclear>Cerro Sorclo</unclear>,  <choice>
+                  <orig>——</orig>
+                  <reg>no name given</reg>
+               </choice> a Captain of the Mexican Navy, who commanded one of the front batteries reforced to surrender, unless allowed to march out with the honors of war, allowed at <name type="place">Monterey</name> — <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Worth patting his foot with impatience and without waiting for the General in Chief to reply — told him he admired his spirit, and to go back to his batter "Let him go back" said he to <choice>
+                  <abbr>Genl.</abbr>
+                  <expan>General</expan>
+               </choice> Scott, "by <choice>
+                  <abbr>G —</abbr>
+                  <expan>God</expan>
+               </choice> I have 2300 fresh men &amp; I will whip him in five minutes" — but the Navy <choice>
+                  <abbr>Capt.</abbr>
+                  <expan>Captain</expan>
+               </choice> thought better of it &amp; soon came to terms —</p>
+            <p>On the <date when="---17">17th</date>
+               <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Childs, of the Artillery, with a portion of the Rifle <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> and several small detachments of different corps — had advanced half way up the Castle hill of <choice>
+                  <orig/>
+                  <reg>Sierra Gordo</reg>
+               </choice> — his perilous position, <add place="supralinear">his small force</add> being unsupported, was observed, and he was recalled by a bugle signal of the Rifle's — In his eagerness to advance the <del type="overstrike">prelo</del> signal was not regarded — It was sounded again — Not understanding the sound, he appealed to <name type="person">
+                  <choice>
+                     <abbr>Lt.</abbr>
+                     <expan>Lieutenant</expan>
+                  </choice> Gibbs</name> of the <del type="overstrike">same</del>
+               <add place="supralinear">Rifle</add> corps, to tell him what it meant — I do not know said Gibbs — <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice> Childs told him he certainly must know the signals of his own corps — "<choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+               </choice>" said he "I never learned the signal for a recall" —</p>
+            <p>When the 2nd Tennessee <choice>
+                  <abbr>Regt.</abbr>
+                  <expan>Regiment</expan>
+               </choice> charged the Mexican breast works on the <date when="---18">18th</date> One man came hobbling <del type="overstrike">back</del> to the reserve, with his hand upon the fleshy part of his back, and <del type="overstrike">was un</del> in reply to numerous <choice>
+                  <orig>enquiries</orig>
+                  <reg>inquiries</reg>
+               </choice> relative to his hurts — answered as he passed on ⁁ <add place="supralinear">to</add> the Surgeons — "Oh! ⁁ <add place="supralinear">I am killed —</add> my wound is considerable bad — I believe I shall die" — but he was soon assured that he would only suffer an inconvenience in <del type="overstrike">a</del>  sitting down, for a few days — <pb n="22" facs="sc093v.small.jpg"/>
+            </p>
+            <p>A Pennsylvanian ⁁ <add place="supralinear">who was among the first to run at <choice>
+                     <orig>Cerro Gordo</orig>
+                     <reg>Sierro Gordo</reg>
+                  </choice>
+               </add> came to our camp fire, and complained bitterly of the exposures &amp; privations of a soldier — and stated that he had been thoroughly wet by rains for several days in succession — Dripping wet ourselves, we felt the <del type="overstrike">force</del>
+               <add place="supralinear">truth</add> of his observations — but in better spirits, we <del type="overstrike">are</del> offered him the mock comfort of an assurance that he would become entirely accustomed to such <del type="overstrike">things</del>
+               <add place="overstrike">moist weather</add>, so as not to mind <del type="overstrike">them</del>
+               <add place="supralinear">water</add> by the time the rainy season commenced — he went away in despair of escaping death both from the enemy and the climate <del type="overstrike">if it should become worse than he had</del>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

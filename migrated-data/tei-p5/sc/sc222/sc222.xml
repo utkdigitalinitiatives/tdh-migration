@@ -1,0 +1,140 @@
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v4.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc222">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letter] 1824 Jan. 15,  Nashville, Tennessee [to] J. G. M. Ramsey, Mecklenburg / Andrew Jackson : a machine readable transcription of an image</title>
+            <author> Jackson, Andrew</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Debra Roney</name>
+               <name>Maha Ayesh</name>
+               <name>Danielle Hardin</name>
+               <name>Bobby Holt</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Tennessee Special Collections
+			 Library</publisher>
+            <pubPlace>Knoxville, Tennessee</pubPlace>
+            <address>
+               <addrLine>Hoskins Library- Special Collections 
+			 </addrLine>
+               <addrLine>University of Tennessee 
+			 </addrLine>
+               <addrLine>Knoxville, Tennessee 37996 
+			 </addrLine>
+            </address>
+            <date>2003</date>
+            <idno type="SPCID">sc222</idno>
+            <idno type="OCLC">OCLC</idno>
+            <availability status="restricted">
+               <p>This work is the property of the Special Collections Library,
+				University of Tennessee, Knoxville, TN. It may be used freely by individuals
+				for research, teaching, and personal use as long as this statement of
+				availability is included in the text. For all other use contact the Special
+				Collections Librarian, Hoskins Library, University of Tennessee, 1401
+				Cumberland Avenue, Knoxville, TN 37996. (865) 974-4480.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>[Letter] 1824 Jan. 15,  Nashville, Tennessee [to] J. G. M. Ramsey, Mecklenburg / Andrew Jackson</title>
+               <author>Jackson, Andrew</author>
+               <date when="1824-01-15">January 15, 1824</date>
+               <extent> 2p</extent>
+               <note type="summary" anchored="true">This is a letter, dated January 15, 1824 from Andrew Jackson to J. M. G. Ramsey thanking him for a print commemorative of the Declaration of Independence from a convention held in Mecklenburg in 1775.</note>
+               <note type="collection" anchored="true">Ramsey Letters</note>
+               <note type="box" anchored="true">MS-253 b3</note>
+               <note type="folder" anchored="true">1</note>
+               <note type="document" anchored="true"> sc222</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created for the University of Tennessee Digital Library</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Quotation marks retained as data except inside q tags</p>
+            <p>Errors in transcription of the printed text controlled with X-Metal
+			 2.1 spell-checker; text has also been thoroughly proofread.</p>
+            <p>Corrections and normalization represented by editorial tags.</p>
+            <p>All unambiguous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+			 omitted.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID attributes provided for only those pages, chapters, or
+			 illustrations toward which a reference or figure points.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Letters</term>
+               <term>American Revolution</term>
+               <term>Tennessee -- Politics and government -- To 1865</term>
+               <term>
+                  <name ref="http://id.loc.gov/authorities/names/n79088888"
+                        role="Correspondent http://id.loc.gov/vocabulary/relators/crp">Jackson, Andrew, 1767-1845</name>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div subtype="1" type="letter">
+            <pb n="1" facs="sc222a.small.jpg"/>
+            <opener>
+               <address>
+                  <addrLine>
+                     <name>Hermitage</name>
+                  </addrLine>
+               </address>
+               <date>January 15, 1824</date>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>Your favor of the 8th instant presenting me with a print commemorative of the declaration of <add>the</add>
+               <name>Mecklenburg</name> convention, is received.</p>
+            <p>I beg you, Sir, in return for this token of your regard for me, to accept of my sincere thanks, with this earnest expression of my hopes that your patriotic intention may be crowned with success_ That declaration ought not to be lost, nor will it be while there are any of our Revolutionary patriots alive to attest its effects upon our Revolution.</p>
+            <p>This print if forwarded to me at <name>Nashville</name> will reach me safely.</p>
+            <closer>
+               <salute>I am very Respectfully, Sir, Your <choice>
+                     <abbr>Mo. Obt</abbr>
+                     <expan>Most Obedient</expan>
+                  </choice> Servant</salute>
+               <signed>
+                  <name>Andrew Jackson</name>
+               </signed>
+               <add>
+                  <name>Mr J. G. M. Ramsey <choice>
+                        <abbr>P. M.</abbr>
+                        <expan>Post Master</expan>
+                     </choice>
+                  </name>
+               </add>
+               <pb n="2" facs="sc222b.small.jpg"/>
+               <add>From <abbr>Genl</abbr>. Jackson free</add>
+               <address>
+                  <addrLine>
+                     <name>Mr J. G. M. <choice>
+                           <orig>Ramsay</orig>
+                           <reg>Ramsey</reg>
+                        </choice>
+                     </name>
+                  </addrLine>
+                  <addrLine>Post Master at_ <choice>
+                        <orig>Mecklenburgh</orig>
+                        <reg>Mecklenburg</reg>
+                     </choice>
+                  </addrLine>
+                  <addrLine>Near Knoxville_ Tennessee</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
