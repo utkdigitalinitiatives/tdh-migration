@@ -1,4 +1,9 @@
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods:identifier type="local">sl181</mods:identifier>
    <mods:identifier type="oclc">51173417</mods:identifier>
    <mods:titleInfo>
@@ -21,10 +26,12 @@
    <mods:name>
       <mods:namePart>Brown, Joseph Porter</mods:namePart>
       <mods:role>
-         <mods:roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
+         <mods:roleTerm authority="marcrelator"
+                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
       </mods:role>
    </mods:name>
-   <mods:accessCondition type="use and reproduction" xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
    <mods:location>
       <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
    </mods:location>
@@ -45,9 +52,9 @@
    <mods:recordInfo>
       <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
       <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639=2b">eng</mods:languageTerm>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
       </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
       <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
           https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
