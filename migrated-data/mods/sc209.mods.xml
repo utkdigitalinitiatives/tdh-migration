@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sc209</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Legal] 1794 Aug. 15, Territory of the US south of the Ohio River [to] Justices of Hawkins [County] / David Campbell</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a court order from David Campbell dated August 15, 1794. Campbell, a judge for the Territory south of the Ohio River, is ordering the Justices of Hawkins County to send him the documents involving John King versus John Collinsworth.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>August 15, 1794</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1794-08-15</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Territory of the United States South of the River Ohio</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Legal document</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Campbell, David</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/no2011132538">
-      <mods:namePart>Campbell, David, 1750-1812</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennesse Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>David Campbell Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennesse Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sc209</identifier>
+   <titleInfo>
+      <title>[Legal] 1794 Aug. 15, Territory of the US south of the Ohio River [to] Justices of Hawkins [County] / David Campbell</title>
+   </titleInfo>
+   <abstract>This is a court order from David Campbell dated August 15, 1794. Campbell, a judge for the Territory south of the Ohio River, is ordering the Justices of Hawkins County to send him the documents involving John King versus John Collinsworth.</abstract>
+   <originInfo>
+      <dateCreated>August 15, 1794</dateCreated>
+      <dateCreated encoding="edtf">1794-08-15</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Territory of the United States South of the River Ohio</topic>
+   </subject>
+   <subject>
+      <topic>Legal document</topic>
+   </subject>
+   <subject>
+      <topic>Campbell, David</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/no2011132538">
+      <namePart>Campbell, David, 1750-1812</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennesse Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Campbell Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennesse Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

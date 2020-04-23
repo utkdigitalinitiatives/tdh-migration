@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl386</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>1839 Jun. 25, University [of Nashville] [to] James P. Clark [et. al.] Nashville [Tennessee] / Phillip Lindsley</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a letter from Dr. Phillip Lindsley of the University of Nashville, dated June 25, 1839. It is to some esquires including James P. Clark and Andrew Ewing who are hosting a dinner party in honor of General Sam Houston. Lindsley declines the invitation because of his responsibilities at the university.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>June 25, 1839</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1839-06-25</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Houston, Sam, 1793-1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Associations, institutions, etc.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Manners and Customs</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/n85221174">
-      <mods:namePart>Lindsley, Philip, 1786-1855</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Gaines Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl386</identifier>
+   <titleInfo>
+      <title>1839 Jun. 25, University [of Nashville] [to] James P. Clark [et. al.] Nashville [Tennessee] / Phillip Lindsley</title>
+   </titleInfo>
+   <abstract>This is a letter from Dr. Phillip Lindsley of the University of Nashville, dated June 25, 1839. It is to some esquires including James P. Clark and Andrew Ewing who are hosting a dinner party in honor of General Sam Houston. Lindsley declines the invitation because of his responsibilities at the university.</abstract>
+   <originInfo>
+      <dateCreated>June 25, 1839</dateCreated>
+      <dateCreated encoding="edtf">1839-06-25</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Houston, Sam, 1793-1863</topic>
+   </subject>
+   <subject>
+      <topic>Associations, institutions, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Manners and Customs</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/n85221174">
+      <namePart>Lindsley, Philip, 1786-1855</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gaines Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

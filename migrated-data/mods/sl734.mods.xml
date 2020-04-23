@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl734</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Letter] 1796 May 4, Knoxville [Tennessee, to] Cherokee [Nation] / J[ohn] McKee</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a letter to the Cherokee Nation from Indian agent Colonel John McKee, dated May 4, 1796. McKee is writing to advise the Cherokees to maintain peaceful relations with the U.S., and not let a few destroy it. McKee also assures them that the guns the Cherokee say have been stolen from them will be returned.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>May 4, 1796</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1796-05-04</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Cherokee Indians -- Government relations</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Indian agents</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/n88244913">
-      <mods:namePart>McKee, John, 1771-1832</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Governor John Sevier Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl734</identifier>
+   <titleInfo>
+      <title>[Letter] 1796 May 4, Knoxville [Tennessee, to] Cherokee [Nation] / J[ohn] McKee</title>
+   </titleInfo>
+   <abstract>This is a letter to the Cherokee Nation from Indian agent Colonel John McKee, dated May 4, 1796. McKee is writing to advise the Cherokees to maintain peaceful relations with the U.S., and not let a few destroy it. McKee also assures them that the guns the Cherokee say have been stolen from them will be returned.</abstract>
+   <originInfo>
+      <dateCreated>May 4, 1796</dateCreated>
+      <dateCreated encoding="edtf">1796-05-04</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians -- Government relations</topic>
+   </subject>
+   <subject>
+      <topic>Indian agents</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/n88244913">
+      <namePart>McKee, John, 1771-1832</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor John Sevier Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

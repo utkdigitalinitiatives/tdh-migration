@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl735</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Letter] 1796 May 6, Knoxville [Tennessee, to] Colonel White et.al. / John Sevier</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a letter from Governor John Sevier dated May 6, 1796. The letter is to Colonels White, Kelly, and Weir. Sevier writes that he is going to be in Washington D.C. for about a month. He asks that the Colonels keep a close watch on the frontier and on the Cherokees.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>May 6, 1796</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1796-05-06</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Sevier, John, 1745-1815 Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Cherokee Indians</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/nr89016779">
-      <mods:namePart>Sevier, John, 1745-1815</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Governor John Sevier Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl735</identifier>
+   <titleInfo>
+      <title>[Letter] 1796 May 6, Knoxville [Tennessee, to] Colonel White et.al. / John Sevier</title>
+   </titleInfo>
+   <abstract>This is a letter from Governor John Sevier dated May 6, 1796. The letter is to Colonels White, Kelly, and Weir. Sevier writes that he is going to be in Washington D.C. for about a month. He asks that the Colonels keep a close watch on the frontier and on the Cherokees.</abstract>
+   <originInfo>
+      <dateCreated>May 6, 1796</dateCreated>
+      <dateCreated encoding="edtf">1796-05-06</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Sevier, John, 1745-1815 Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <namePart>Sevier, John, 1745-1815</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor John Sevier Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

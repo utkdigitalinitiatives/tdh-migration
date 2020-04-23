@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl586</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>1808 Apr. 22, Chickasaw Nation [to] James Winchester, Sumner County, Tennessee / Thomas Wright</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a letter from Thomas Wright to General James Winchester, dated April 22, 1808. Wright is the U. S. agent to the Chickasaw Nation. Wright is writing on behalf of a Chickasaw who is inquiring about the fate of his brother. The man is rumored to have been killed in the area of Sumner County, therefore Wright hopes that Winchester has heard of it.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>April 22, 1808</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1808-04-22</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Chickasaw Indians</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Winchester, James, 1752-1826</mods:topic>
-   </mods:subject>
-   <mods:name>
-      <mods:namePart>Wright, Thomas</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Winchester Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl586</identifier>
+   <titleInfo>
+      <title>1808 Apr. 22, Chickasaw Nation [to] James Winchester, Sumner County, Tennessee / Thomas Wright</title>
+   </titleInfo>
+   <abstract>This is a letter from Thomas Wright to General James Winchester, dated April 22, 1808. Wright is the U. S. agent to the Chickasaw Nation. Wright is writing on behalf of a Chickasaw who is inquiring about the fate of his brother. The man is rumored to have been killed in the area of Sumner County, therefore Wright hopes that Winchester has heard of it.</abstract>
+   <originInfo>
+      <dateCreated>April 22, 1808</dateCreated>
+      <dateCreated encoding="edtf">1808-04-22</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Chickasaw Indians</topic>
+   </subject>
+   <subject>
+      <topic>Winchester, James, 1752-1826</topic>
+   </subject>
+   <name>
+      <namePart>Wright, Thomas</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Winchester Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

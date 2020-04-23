@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl038</mods:identifier>
-   <mods:identifier type="oclc">50029218</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Letter] ca. 1790's Dec. 21 [to] Gen[era] l William Hall / Andrew Jackson</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This document is a letter written to Brigadier General William Hall from Andrew Jackson on December 21 in the early 1790's. In the letter, Andrew and Governor William Blount question the term of service under which the Tennessee Volunteers are obligated to serve. Jackson asks Hall to give the Volunteers orders of service because their term of service has not yet expired. Jackson states that neither he nor the Governor can order the Volunteers, that they can only take orders from General Hall.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>December 21, ca. 1790's</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1790-12-21</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Military planning</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/n79088888">
-      <mods:namePart>Jackson, Andrew, 1767-1845</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Historical Society</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl038</identifier>
+   <identifier type="oclc">50029218</identifier>
+   <titleInfo>
+      <title>[Letter] ca. 1790's Dec. 21 [to] Gen[era] l William Hall / Andrew Jackson</title>
+   </titleInfo>
+   <abstract>This document is a letter written to Brigadier General William Hall from Andrew Jackson on December 21 in the early 1790's. In the letter, Andrew and Governor William Blount question the term of service under which the Tennessee Volunteers are obligated to serve. Jackson asks Hall to give the Volunteers orders of service because their term of service has not yet expired. Jackson states that neither he nor the Governor can order the Volunteers, that they can only take orders from General Hall.</abstract>
+   <originInfo>
+      <dateCreated>December 21, ca. 1790's</dateCreated>
+      <dateCreated encoding="edtf">1790-12-21</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Military planning</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/n79088888">
+      <namePart>Jackson, Andrew, 1767-1845</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

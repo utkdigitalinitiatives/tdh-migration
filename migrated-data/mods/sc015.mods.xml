@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sc015</mods:identifier>
-   <mods:identifier type="oclc">50009283</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Murder indictment for Jacob Gardenhire] 1795 Aug., Washington District Superior Court of Law / W[illia]m Cocke</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This document is the murder indictment of Jacob Gardenhire passed in the August 1795 term by the Washington District Superior Court of Law. The trial was in regards to the murder of Joseph Hackley in Greene County on May 2, 1791. The jurors declared that Gardenhire had indeed killed Hackley with the willful intent to murder. The indictment further explained the nature of the crime and Hackley's death. It was signed by attorney William Cocke, and further instructions on the back of the indictment recommended that Gardenhire be taken into custody immediately.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>August 1795</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1795-08</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Legal document</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/n82235730">
-      <mods:namePart>Cocke, William, 1747-1828</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/ato">Autographer</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennesse Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennesse Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sc015</identifier>
+   <identifier type="oclc">50009283</identifier>
+   <titleInfo>
+      <title>[Murder indictment for Jacob Gardenhire] 1795 Aug., Washington District Superior Court of Law / W[illia]m Cocke</title>
+   </titleInfo>
+   <abstract>This document is the murder indictment of Jacob Gardenhire passed in the August 1795 term by the Washington District Superior Court of Law. The trial was in regards to the murder of Joseph Hackley in Greene County on May 2, 1791. The jurors declared that Gardenhire had indeed killed Hackley with the willful intent to murder. The indictment further explained the nature of the crime and Hackley's death. It was signed by attorney William Cocke, and further instructions on the back of the indictment recommended that Gardenhire be taken into custody immediately.</abstract>
+   <originInfo>
+      <dateCreated>August 1795</dateCreated>
+      <dateCreated encoding="edtf">1795-08</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Legal document</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/n82235730">
+      <namePart>Cocke, William, 1747-1828</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ato">Autographer</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennesse Knoxville. Libraries</physicalLocation>
+   </location>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennesse Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl494</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Letter] 1822 Apr. 5, Nashville, Tennessee [to] James Winchester, Cairo, Tennessee / William L. Alexander</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a letter dated April 5, 1822 from William L. Alexander in Nashville, Tennessee to James Winchester in Cairo, Tennessee. The letter has many missing sections, the right side of the document is torn away. The subject matter of the letter concerns the shipment and purchase of supplies such as coffee and sugar.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>April 5, 1822</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1822-04-05</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Tennessee -- History</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Letters</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Coffee</mods:topic>
-   </mods:subject>
-   <mods:name>
-      <mods:namePart>Alexander, William L.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Winchester Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl494</identifier>
+   <titleInfo>
+      <title>[Letter] 1822 Apr. 5, Nashville, Tennessee [to] James Winchester, Cairo, Tennessee / William L. Alexander</title>
+   </titleInfo>
+   <abstract>This is a letter dated April 5, 1822 from William L. Alexander in Nashville, Tennessee to James Winchester in Cairo, Tennessee. The letter has many missing sections, the right side of the document is torn away. The subject matter of the letter concerns the shipment and purchase of supplies such as coffee and sugar.</abstract>
+   <originInfo>
+      <dateCreated>April 5, 1822</dateCreated>
+      <dateCreated encoding="edtf">1822-04-05</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee -- History</topic>
+   </subject>
+   <subject>
+      <topic>Letters</topic>
+   </subject>
+   <subject>
+      <topic>Coffee</topic>
+   </subject>
+   <name>
+      <namePart>Alexander, William L.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Winchester Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">tl222</mods:identifier>
-   <mods:identifier type="oclc">49968362</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>[Pay warrant for the protection of the frontier] 1794 / [signed by] William Blount</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This document is a pay warrant, dated December 3, 1794 and signed by Governor William Blount. William Rickard, pay master, received three hundred and thirty nine dollars to pay troops under Captain Thomas Murray for protecting the frontier from October 22, 1793 to November 22, 1793.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>December 3, 1794</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1794-12-03</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Tennessee -- History</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Territory of the United States, Southeast of the River Ohio</mods:topic>
-   </mods:subject>
-   <mods:name valueURI="http://id.loc.gov/authorities/names/n84136128">
-      <mods:namePart>Blount, William, 1749-1800</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator" valueURI="name">Associated</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Pay warrant for the protection of the frontier</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">tl222</identifier>
+   <identifier type="oclc">49968362</identifier>
+   <titleInfo>
+      <title>[Pay warrant for the protection of the frontier] 1794 / [signed by] William Blount</title>
+   </titleInfo>
+   <abstract>This document is a pay warrant, dated December 3, 1794 and signed by Governor William Blount. William Rickard, pay master, received three hundred and thirty nine dollars to pay troops under Captain Thomas Murray for protecting the frontier from October 22, 1793 to November 22, 1793.</abstract>
+   <originInfo>
+      <dateCreated>December 3, 1794</dateCreated>
+      <dateCreated encoding="edtf">1794-12-03</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee -- History</topic>
+   </subject>
+   <subject>
+      <topic>Territory of the United States, Southeast of the River Ohio</topic>
+   </subject>
+   <name valueURI="http://id.loc.gov/authorities/names/n84136128">
+      <namePart>Blount, William, 1749-1800</namePart>
+      <role>
+         <roleTerm authority="marcrelator" valueURI="name">Associated</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Pay warrant for the protection of the frontier</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

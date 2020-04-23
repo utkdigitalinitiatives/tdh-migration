@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">sl576</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>1819 Oct. 4, Nashville [Tennessee, to] James Winchester, Cragfont [Tennessee] / J[ohn] W. Overton</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This is a letter from Judge John Overton to General James Winchester, dated October 4, 1819. Overton is writing in regards to Memphis, which he, Winchester, and General Andrew Jackson founded. Overton has had some different city plans drawn up. He writes to let Winchester know how much money he and the others involved, owe to the designer.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>October 4, 1819</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1819-10-04</mods:dateCreated>
-   </mods:originInfo>
-   <mods:subject>
-      <mods:topic>Tennessee</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>City planning</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Overton, John, 1766-1833</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Jackson, Andrew, 1767-1845</mods:topic>
-   </mods:subject>
-   <mods:name>
-      <mods:namePart>Overton, John, 1766-1833</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>Tennessee State Library and Archives</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Tennessee Documentary History</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Winchester Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-22-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl576</identifier>
+   <titleInfo>
+      <title>1819 Oct. 4, Nashville [Tennessee, to] James Winchester, Cragfont [Tennessee] / J[ohn] W. Overton</title>
+   </titleInfo>
+   <abstract>This is a letter from Judge John Overton to General James Winchester, dated October 4, 1819. Overton is writing in regards to Memphis, which he, Winchester, and General Andrew Jackson founded. Overton has had some different city plans drawn up. He writes to let Winchester know how much money he and the others involved, owe to the designer.</abstract>
+   <originInfo>
+      <dateCreated>October 4, 1819</dateCreated>
+      <dateCreated encoding="edtf">1819-10-04</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>City planning</topic>
+   </subject>
+   <subject>
+      <topic>Overton, John, 1766-1833</topic>
+   </subject>
+   <subject>
+      <topic>Jackson, Andrew, 1767-1845</topic>
+   </subject>
+   <name>
+      <namePart>Overton, John, 1766-1833</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Winchester Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>
